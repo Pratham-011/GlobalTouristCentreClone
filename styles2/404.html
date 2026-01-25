@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -17,8 +18,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
     href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap"
-    rel="stylesheet"
-  />
+    rel="stylesheet" />
 
   <!-- Icons -->
   <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
@@ -30,24 +30,16 @@
   <!-- Styles -->
   <link rel="stylesheet" href="/styles/standard.css" />
   <link rel="stylesheet" href="/styles/404.css" />
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-  />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
   <!-- Open Graph (safe, non-competitive) -->
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Global Tourist Centre" />
   <meta property="og:title" content="404 – Page Not Found" />
-  <meta
-    property="og:description"
-    content="The page you are looking for does not exist. Discover destinations, tours, and travel services with Global Tourist Centre."
-  />
+  <meta property="og:description"
+    content="The page you are looking for does not exist. Discover destinations, tours, and travel services with Global Tourist Centre." />
   <meta property="og:url" content="https://globaltouristcentre.com/404" />
-  <meta
-    property="og:image"
-    content="https://globaltouristcentre.com/wp-content/uploads/2024/10/gtc-logo.jpg"
-  />
+  <meta property="og:image" content="https://globaltouristcentre.com/wp-content/uploads/2024/10/gtc-logo.jpg" />
 
   <!-- Organization schema (minimal & safe) -->
   <script type="application/ld+json">
@@ -67,14 +59,15 @@
 
   <!-- Google Tag Manager -->
   <script>
-    (function(w,d,s,l,i){w[l]=w[l]||[];
-    w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
-    var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';
-    j.async=true;
-    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
-    f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-5CNKV323');
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5CNKV323');
   </script>
 
   <!-- Yandex -->
@@ -82,268 +75,268 @@
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CNKV323"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    
-    <!-- Starry Night Sky -->
-    <div class="night-sky" id="nightSky"></div>
-    
-    <!-- Animated Mountains -->
-    <div class="mountains">
-        <div class="mountain mountain-1"></div>
-        <div class="mountain mountain-2"></div>
-        <div class="mountain mountain-3"></div>
-    </div>
-    
-    <!-- Navigation Bar -->
-<!-- Navigation Bar -->
-<nav class="navbar">
-  <div class="nav-container">
-    <div class="logo-container">
-      <a href="/">
-        <img
-          src="/assets/logo.webp"
-          alt="Global Tourist Centre Logo"
-          class="logo"
-        />
-      </a>
-    </div>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CNKV323" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-    <ul class="nav-links">
-      <li><a href="/en">Home</a></li>
-      <li><a href="/en/destinations">Destinations</a></li>
-      <li><a href="/en/luxury-trips">Luxury Destinations</a></li>
-      <li><a href="/en/about">About</a></li>
-      <li><a href="/en/services">Services</a></li>
-      <li><a href="/en/contact-us">Contact</a></li>
-      <li><a href="/en/blog">Blog</a></li>
-    </ul>
+  <!-- Starry Night Sky -->
+  <div class="night-sky" id="nightSky"></div>
 
-    <!-- Mobile Controls -->
-    <button class="mobile-menu-toggle" aria-label="Open menu">
-      <i class="fas fa-bars"></i>
-    </button>
-
-    <button class="mobile-menu-close" aria-label="Close menu">
-      <i class="fas fa-times"></i>
-    </button>
+  <!-- Animated Mountains -->
+  <div class="mountains">
+    <div class="mountain mountain-1"></div>
+    <div class="mountain mountain-2"></div>
+    <div class="mountain mountain-3"></div>
   </div>
-</nav>
 
+  <!-- Navigation Bar -->
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="logo-container">
+        <a href="/">
+          <img src="/assets/logo.webp" alt="Global Tourist Centre Logo" class="logo" />
+        </a>
+      </div>
 
-    <div class="error-container">
-        <!-- Interactive Compass -->
-        <div class="interactive-compass" id="compass">
-            <div class="compass-base">
-                <div class="compass-rose"></div>
-                <div class="compass-needle"></div>
-            </div>
-        </div>
+      <ul class="nav-links">
+        <li><a href="">Home</a></li>
+        <li><a href="/destinations">Destinations</a></li>
+        <li><a href="/luxury-trips">Luxury Destinations</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/services">Services</a></li>
+        <li><a href="/contact-us">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+      </ul>
 
-        <!-- Map Markers -->
-        <div class="map-markers">
-            <div class="map-marker marker-1" data-location="Home"></div>
-            <div class="map-marker marker-2" data-location="Destinations"></div>
-            <div class="map-marker marker-3" data-location="Services"></div>
-        </div>
+      <!-- Mobile Controls -->
+      <button class="mobile-menu-toggle" aria-label="Open menu">
+        <i class="fas fa-bars"></i>
+      </button>
 
-        <!-- Floating Elements -->
-        <div class="floating-elements">
-            <div class="floating-element element-1"></div>
-            <div class="floating-element element-2"></div>
-            <div class="floating-element element-3"></div>
-            <div class="floating-element element-4"></div>
-        </div>
-
-        <!-- Lost Explorer Animation -->
-        <div class="lost-explorer">
-            <div class="explorer">
-                <div class="explorer-hat"></div>
-                <div class="explorer-head"></div>
-                <div class="explorer-body"></div>
-                <div class="explorer-backpack"></div>
-            </div>
-        </div>
-
-        <!-- 404 Number -->
-        <div class="error-number">404</div>
-
-        <!-- Error Message -->
-        <h1 class="error-title" data-translate="error-title">Adventure Awaits, But You've Taken a Detour!</h1>
-        <p class="error-description" data-translate="error-description">
-            Even the most seasoned explorers sometimes wander off the path. 
-            Don't worry - getting lost is just part of the journey. 
-            Let us guide you back to incredible destinations and unforgettable experiences!
-        </p>
-
-        <!-- Action Buttons -->
-        <div class="action-buttons">
-            <a href="/en" class="cta-button" data-translate="return-base-camp">
-                <i class="fas fa-home"></i> Return to Base Camp
-            </a>
-            <a href="/en/destinations" class="cta-button secondary" data-translate="discover-new-trails">
-                <i class="fas fa-map-marked-alt"></i> Discover New Trails
-            </a>
-            <a href="/en/contact-us" class="cta-button secondary" data-translate="request-guide">
-                <i class="fas fa-life-ring"></i> Request a Guide
-            </a>
-        </div>
+      <button class="mobile-menu-close" aria-label="Close menu">
+        <i class="fas fa-times"></i>
+      </button>
     </div>
+  </nav>
 
-    <!-- Footer Section -->
-<!-- Footer Section -->
-<footer class="footer">
-  <div class="footer-container">
 
-    <!-- About -->
-    <div class="footer-about">
-      <img src="/assets/logo.webp" alt="Global Tourist Centre Logo" class="footer-logo">
-      <p>
-        Weaving your dreams into unforgettable journeys since 2010.
-        Global Tourist Centre is your trusted travel partner for bespoke
-        domestic and international tours from Goa.
-      </p>
-
-      <div class="footer-social">
-        <a href="https://www.instagram.com/globaltouristcentre/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-          <i class="fab fa-instagram"></i>
-        </a>
-        <a href="https://www.facebook.com/globaltouristcentre" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="https://wa.me/919067972295" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
+  <div class="error-container">
+    <!-- Interactive Compass -->
+    <div class="interactive-compass" id="compass">
+      <div class="compass-base">
+        <div class="compass-rose"></div>
+        <div class="compass-needle"></div>
       </div>
     </div>
 
-    <!-- Quick Links -->
-    <div class="footer-links-container">
-      <h3 class="footer-heading">Quick Links</h3>
-      <ul class="footer-links">
-        <li><a href="/en">Home</a></li>
-        <li><a href="/en/destinations">Destinations</a></li>
-        <li><a href="/en/luxury-trips">Luxury Tours</a></li>
-        <li><a href="/en/services">Services</a></li>
-        <li><a href="/en/blog">Blog</a></li>
-        <li><a href="/en/contact-us">Contact</a></li>
-      </ul>
+    <!-- Map Markers -->
+    <div class="map-markers">
+      <div class="map-marker marker-1" data-location="Home"></div>
+      <div class="map-marker marker-2" data-location="Destinations"></div>
+      <div class="map-marker marker-3" data-location="Services"></div>
     </div>
 
-    <!-- Popular Tours -->
-    <div class="footer-links-container">
-      <h3 class="footer-heading">Popular Tours from Goa</h3>
-      <ul class="footer-links">
-        <li>
-          <a href="/en/destinations/day-trips/goa-one-day-sightseeing-tour">
-            South Goa One Day Tour
-          </a>
-        </li>
-        <li>
-          <a href="/en/destinations/domestic/sikkim-darjeeling-gangtok-tour-from-goa">
-            Sikkim & Darjeeling Tour from Goa
-          </a>
-        </li>
-        <li>
-          <a href="/en/destinations/domestic/kerala-tour-package-from-goa">
-            Kerala Backwaters Tour
-          </a>
-        </li>
-      </ul>
+    <!-- Floating Elements -->
+    <div class="floating-elements">
+      <div class="floating-element element-1"></div>
+      <div class="floating-element element-2"></div>
+      <div class="floating-element element-3"></div>
+      <div class="floating-element element-4"></div>
     </div>
 
-  </div>
-
-  <!-- Bottom -->
-  <div class="footer-bottom">
-    <p>© 2025 Global Tourist Centre. All rights reserved.</p>
-
-    <div class="footer-legal-links">
-      <a href="/en/legal/privacy-policy">Privacy Policy</a>
-      <span class="separator">|</span>
-      <a href="/en/legal/terms-and-conditions">Terms & Conditions</a>
+    <!-- Lost Explorer Animation -->
+    <div class="lost-explorer">
+      <div class="explorer">
+        <div class="explorer-hat"></div>
+        <div class="explorer-head"></div>
+        <div class="explorer-body"></div>
+        <div class="explorer-backpack"></div>
+      </div>
     </div>
 
-    <p class="footer-credits">
-      Crafting unforgettable journeys from Goa since 2010
+    <!-- 404 Number -->
+    <div class="error-number">404</div>
+
+    <!-- Error Message -->
+    <h1 class="error-title" data-translate="error-title">Adventure Awaits, But You've Taken a Detour!</h1>
+    <p class="error-description" data-translate="error-description">
+      Even the most seasoned explorers sometimes wander off the path.
+      Don't worry - getting lost is just part of the journey.
+      Let us guide you back to incredible destinations and unforgettable experiences!
     </p>
-  </div>
-</footer>
 
-<script>
-  (function () {
-    const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
-    const navLinks = document.querySelector('.nav-links');
-    const mobileMenuClose = document.querySelector('.mobile-menu-close');
-    
-    if (!mobileMenuToggle || !navLinks) {
+    <!-- Action Buttons -->
+    <div class="action-buttons">
+      <a href="" class="cta-button" data-translate="return-base-camp">
+        <i class="fas fa-home"></i> Return to Base Camp
+      </a>
+      <a href="/destinations" class="cta-button secondary" data-translate="discover-new-trails">
+        <i class="fas fa-map-marked-alt"></i> Discover New Trails
+      </a>
+      <a href="/contact-us" class="cta-button secondary" data-translate="request-guide">
+        <i class="fas fa-life-ring"></i> Request a Guide
+      </a>
+    </div>
+  </div>
+
+  <!-- Footer Section -->
+  <!-- Footer Section -->
+  <footer class="footer">
+    <div class="footer-container">
+
+      <!-- About -->
+      <div class="footer-about">
+        <img src="/assets/logo.webp" alt="Global Tourist Centre Logo" class="footer-logo">
+        <p>
+          Weaving your dreams into unforgettable journeys since 2010.
+          Global Tourist Centre is your trusted travel partner for bespoke
+          domestic and international tours from Goa.
+        </p>
+
+        <div class="footer-social">
+          <a href="https://www.instagram.com/globaltouristcentre/" target="_blank" rel="noopener noreferrer"
+            aria-label="Instagram">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://www.facebook.com/globaltouristcentre" target="_blank" rel="noopener noreferrer"
+            aria-label="Facebook">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="https://wa.me/919067972295" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+            <i class="fab fa-whatsapp"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Quick Links -->
+      <div class="footer-links-container">
+        <h3 class="footer-heading">Quick Links</h3>
+        <ul class="footer-links">
+          <li><a href="">Home</a></li>
+          <li><a href="/destinations">Destinations</a></li>
+          <li><a href="/luxury-trips">Luxury Tours</a></li>
+          <li><a href="/services">Services</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/contact-us">Contact</a></li>
+        </ul>
+      </div>
+
+      <!-- Popular Tours -->
+      <div class="footer-links-container">
+        <h3 class="footer-heading">Popular Tours from Goa</h3>
+        <ul class="footer-links">
+          <li>
+            <a href="/destinations/day-trips/goa-one-day-sightseeing-tour">
+              South Goa One Day Tour
+            </a>
+          </li>
+          <li>
+            <a href="/destinations/domestic/sikkim-darjeeling-gangtok-tour-from-goa">
+              Sikkim & Darjeeling Tour from Goa
+            </a>
+          </li>
+          <li>
+            <a href="/destinations/domestic/kerala-tour-package-from-goa">
+              Kerala Backwaters Tour
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- Bottom -->
+    <div class="footer-bottom">
+      <p>© 2025 Global Tourist Centre. All rights reserved.</p>
+
+      <div class="footer-legal-links">
+        <a href="/legal/privacy-policy">Privacy Policy</a>
+        <span class="separator">|</span>
+        <a href="/legal/terms-and-conditions">Terms & Conditions</a>
+      </div>
+
+      <p class="footer-credits">
+        Crafting unforgettable journeys from Goa since 2010
+      </p>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+      const navLinks = document.querySelector('.nav-links');
+      const mobileMenuClose = document.querySelector('.mobile-menu-close');
+
+      if (!mobileMenuToggle || !navLinks) {
         console.log('Mobile menu elements not found');
         return;
-    }
-    
-    function toggleMenu() {
+      }
+
+      function toggleMenu() {
         const isActive = navLinks.classList.contains('active');
-        
+
         if (isActive) {
-            // Close menu
-            navLinks.classList.remove('active');
-            mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
-            document.body.style.overflow = '';
+          // Close menu
+          navLinks.classList.remove('active');
+          mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
+          document.body.style.overflow = '';
         } else {
-            // Open menu
-            navLinks.classList.add('active');
-            mobileMenuToggle.innerHTML = '<i class="fas fa-times"></i>';
-            document.body.style.overflow = 'hidden';
+          // Open menu
+          navLinks.classList.add('active');
+          mobileMenuToggle.innerHTML = '<i class="fas fa-times"></i>';
+          document.body.style.overflow = 'hidden';
         }
-    }
-    
-    // Toggle menu on button click
-    mobileMenuToggle.addEventListener('click', function(e) {
+      }
+
+      // Toggle menu on button click
+      mobileMenuToggle.addEventListener('click', function (e) {
         e.stopPropagation();
         toggleMenu();
-    });
-    
-    // Close menu when clicking on a link
-    document.querySelectorAll('.nav-links a').forEach(link => {
+      });
+
+      // Close menu when clicking on a link
+      document.querySelectorAll('.nav-links a').forEach(link => {
         link.addEventListener('click', () => {
-            navLinks.classList.remove('active');
-            mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
-            document.body.style.overflow = '';
+          navLinks.classList.remove('active');
+          mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
+          document.body.style.overflow = '';
         });
-    });
-    
-    // Close menu when clicking outside
-    document.addEventListener('click', function(e) {
-        if (!navLinks.contains(e.target) && 
-            !mobileMenuToggle.contains(e.target) && 
-            navLinks.classList.contains('active')) {
-            navLinks.classList.remove('active');
-            mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
-            document.body.style.overflow = '';
+      });
+
+      // Close menu when clicking outside
+      document.addEventListener('click', function (e) {
+        if (!navLinks.contains(e.target) &&
+          !mobileMenuToggle.contains(e.target) &&
+          navLinks.classList.contains('active')) {
+          navLinks.classList.remove('active');
+          mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
+          document.body.style.overflow = '';
         }
-    });
-    
-    // Close menu on escape key
-    document.addEventListener('keydown', function(e) {
+      });
+
+      // Close menu on escape key
+      document.addEventListener('keydown', function (e) {
         if (e.key === 'Escape' && navLinks.classList.contains('active')) {
-            navLinks.classList.remove('active');
-            mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
-            document.body.style.overflow = '';
+          navLinks.classList.remove('active');
+          mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
+          document.body.style.overflow = '';
         }
-    });
-    
-    // Handle window resize
-    window.addEventListener('resize', function() {
+      });
+
+      // Handle window resize
+      window.addEventListener('resize', function () {
         if (window.innerWidth > 768 && navLinks.classList.contains('active')) {
-            navLinks.classList.remove('active');
-            mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
-            document.body.style.overflow = '';
+          navLinks.classList.remove('active');
+          mobileMenuToggle.innerHTML = '<i class="fas fa-bars"></i>';
+          document.body.style.overflow = '';
         }
-    });
-    
-    console.log('Mobile menu setup complete');
-})();
-</script>
+      });
+
+      console.log('Mobile menu setup complete');
+    })();
+  </script>
 </body>
+
 </html>

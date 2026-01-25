@@ -66,9 +66,9 @@ export const metadata: Metadata = {
     images: ["/og-landing.jpg"],
   },
   alternates: {
-    canonical: "https://globaltouristcentre.com/en/landing-page",
+    canonical: "https://globaltouristcentre.com/landing-page",
     languages: {
-      "en-US": "https://globaltouristcentre.com/en/landing-page",
+      "en-US": "https://globaltouristcentre.com/landing-page",
       "ru-RU": "https://globaltouristcentre.com/ru/landing-page",
       "it-IT": "https://globaltouristcentre.com/it/landing-page",
       "fr-FR": "https://globaltouristcentre.com/fr/landing-page",
