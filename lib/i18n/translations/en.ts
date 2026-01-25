@@ -170,7 +170,7 @@ export const en = {
         description:
           "Discover Mysore’s royal heritage including Mysore Palace and Chamundi Hill, followed by Ooty’s tea gardens, botanical gardens, and scenic Nilgiri views.",
       },
-      "mumbai-in-a-day-tour": {
+      "mumbai-one-day-excursion": {
         title: "Mumbai City Tour",
         duration: "1 Night / 2 Days",
         description:

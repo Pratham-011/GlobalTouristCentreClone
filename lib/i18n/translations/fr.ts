@@ -170,7 +170,7 @@ export const fr = {
         description:
           "Explorez le patrimoine royal de Mysore et profitez des jardins de thé, des paysages et du climat frais d’Ooty.",
       },
-      "mumbai-in-a-day-tour": {
+      "mumbai-one-day-excursion": {
         title: "Visite de la ville de Mumbai",
         duration: "1 nuit / 2 jours",
         description:

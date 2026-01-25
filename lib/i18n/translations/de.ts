@@ -171,7 +171,7 @@ export const de = {
         description:
           "Entdecken Sie das königliche Erbe von Mysore sowie die Teeplantagen, Landschaften und das angenehme Klima von Ooty.",
       },
-      "mumbai-in-a-day-tour": {
+      "mumbai-one-day-excursion": {
         title: "Stadtrundfahrt Mumbai",
         duration: "1 Nacht / 2 Tage",
         description:

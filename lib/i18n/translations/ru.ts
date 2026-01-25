@@ -169,7 +169,7 @@ export const ru = {
         description:
           "Откройте королевское наследие Майсура и живописные чайные сады и пейзажи Оти.",
       },
-      "mumbai-in-a-day-tour": {
+      "mumbai-one-day-excursion": {
         title: "Городской тур по Мумбаи",
         duration: "1 ночь / 2 дня",
         description:
