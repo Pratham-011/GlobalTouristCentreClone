@@ -13,13 +13,13 @@ import {
   Sparkles,
 } from "lucide-react";
 
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components-eng/ui/button";
+import { Card, CardContent } from "@/components-eng/ui/card";
 import {
   Pagination,
   PaginationContent,
   PaginationItem,
-} from "@/components/ui/pagination";
+} from "@/components-eng/ui/pagination";
 import { cn } from "@/lib/utils";
 import { useI18n } from "@/lib/i18n/context";
 
@@ -28,34 +28,34 @@ import { useI18n } from "@/lib/i18n/context";
 /* ------------------------------------------------------------------ */
 
 const Services = () => {
-  const { t ,locale} = useI18n();
+  const { t } = useI18n();
   const [activeIndex, setActiveIndex] = useState(0);
 
   const premiumServices = [
     {
       id: "custom",
       icon: Sparkles,
-      link: `/${locale}/services/custom-tour`,
+      link: `/services/custom-tour`,
     },
     {
       id: "luxury",
       icon: Hotel,
-      link: `/${locale}/services/hotel-booking`,
+      link: `/services/hotel-booking`,
     },
     {
       id: "group",
       icon: Users,
-      link: `/${locale}/services/group-tours`,
+      link: `/services/group-tours`,
     },
     {
       id: "visa",
       icon: FileText,
-      link: `/${locale}/services/visa-assistance`,
+      link: `/services/visa-assistance`,
     },
     {
       id: "flight",
       icon: Plane,
-      link: `/${locale}/services/flight-booking`,
+      link: `/services/flight-booking`,
     },
   ];
 

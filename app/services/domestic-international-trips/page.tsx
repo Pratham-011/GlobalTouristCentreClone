@@ -34,7 +34,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/hero/domestic-international-hero.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/${locale}/domestic-international-trips`;
+  const canonical = `https://globaltouristcentre.com/domestic-international-trips`;
 
 
   return {

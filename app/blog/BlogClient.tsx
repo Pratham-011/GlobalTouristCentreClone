@@ -3,11 +3,11 @@
 import { useI18n } from "@/lib/i18n/context";
 import { useParams } from "next/navigation";
 import Link from "next/link";
-import { HeroSection } from "@/components/hero-section";
+import { HeroSection } from "@/components-eng/hero-section";
 import { Calendar, User, ArrowRight } from "lucide-react";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
+import { Card, CardContent } from "@/components-eng/ui/card";
+import { Button } from "@/components-eng/ui/button";
+import { Badge } from "@/components-eng/ui/badge";
 
 export default function BlogClient() {
     const { t } = useI18n();
@@ -116,7 +116,7 @@ export default function BlogClient() {
 
                                         {!post.isComingSoon && post.slug && (
                                             <div className="mt-auto">
-                                                <Link href={`/${locale}/blog/${post.slug}`}>
+                                                <Link href={`/blog/${post.slug}`}>
                                                     <Button
                                                         variant="outline"
                                                         className="border-teal-600 text-teal-600 hover:bg-teal-600 hover:text-white group/btn"

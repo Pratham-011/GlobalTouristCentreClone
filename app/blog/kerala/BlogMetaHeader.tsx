@@ -1,7 +1,7 @@
 "use client";
 
 import { Calendar, Tag, User } from "lucide-react";
-import { HeroSection } from "@/components/hero-section";
+import { HeroSection } from "@/components-eng/hero-section";
 import { useI18n } from "@/lib/i18n/context";
 
 const BlogMetaHeader = () => {

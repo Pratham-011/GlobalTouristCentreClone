@@ -1,11 +1,11 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
-import { Button } from "@/components/ui/button";
-import { DestinationCard } from "@/components/destination-card";
+import { Button } from "@/components-eng/ui/button";
+import { DestinationCard } from "@/components-eng/destination-card";
 import { FILTERS_BY_SLUG } from "./filters";
 import { useI18n } from "@/lib/i18n/context";
-import { SectionTitle } from "@/components/SectionTitle";
+import { SectionTitle } from "@/components-eng/SectionTitle";
 
 type Props = {
   slug: "domestic" | "international" | "day-trips";

@@ -1,4 +1,4 @@
-import { DestinationCard } from "@/components/destination-card";
+import { DestinationCard } from "@/components-eng/destination-card";
 
 interface Props {
   items: any[];

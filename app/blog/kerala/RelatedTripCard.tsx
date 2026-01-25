@@ -55,7 +55,7 @@ const RelatedTripCard: React.FC<RelatedTripCardProps> = ({
 
         {!isComingSoon && link ? (
           <Link
-            href={`/${locale}/blog/${link}`}
+            href={`/blog/${link}`}
             className="inline-flex items-center text-sm font-semibold text-teal-600 hover:text-teal-700 group/link mt-auto"
           >
             {t.blog.readMore}

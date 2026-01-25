@@ -33,7 +33,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/hero/hotel-booking-hero.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/${locale}/hotel-booking`;
+  const canonical = `https://globaltouristcentre.com/hotel-booking`;
 
   return {
     title,

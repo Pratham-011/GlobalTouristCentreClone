@@ -1,9 +1,9 @@
 "use client";
 
-import { HeroSection } from "@/components/hero-section";
+import { HeroSection } from "@/components-eng/hero-section";
 import { Calendar, Tag, User } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 
@@ -175,13 +175,13 @@ export default function AndamanBlogPage() {
               </p>
             </div>
             <div className="flex gap-4 flex-wrap">
-              <Link href={`/${locale}/contact`}>
+              <Link href={`/contact`}>
                 <Button size="lg" className="bg-teal-600 hover:bg-teal-700">
                   {t.blogAndaman.enquireNow}
                 </Button>
               </Link>
               <Link
-                href={`/${locale}/destinations/domestic/andaman-nicobar-tour-for-goa`}
+                href={`/destinations/domestic/andaman-nicobar-tour-for-goa`}
               >
                 <Button
                   variant="outline"
@@ -201,7 +201,7 @@ export default function AndamanBlogPage() {
             </h2>
             <div className="grid sm:grid-cols-3 gap-6">
               {/* Active card - Kerala */}
-              <Link href={`/${locale}/blog/kerala`} className="group block">
+              <Link href={`/blog/kerala`} className="group block">
                 <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all h-full flex flex-col">
                   <img
                     src="/assets/destinations/Thumbnails/Kerala.webp"

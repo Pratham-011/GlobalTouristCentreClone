@@ -23,12 +23,12 @@ export async function generateStaticParams() {
 }
 
 
-export async function generateMetadata({params}: PageProps): Promise<Metadata> {
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const locale = params.locale || "en";
   const t = getTranslations(locale);
 
-  const image ="/assets/hero/Destinations-hero.webp";
-  const canonical = `https://globaltouristcentre.com/${locale}/destinations`;
+  const image = "/assets/hero/Destinations-hero.webp";
+  const canonical = `https://globaltouristcentre.com/destinations`;
 
   const meta = t.metadata.destinations;
 
@@ -50,7 +50,7 @@ export async function generateMetadata({params}: PageProps): Promise<Metadata> {
       title: meta.title,
       description: meta.description,
       card: "summary_large_image",
-      images: [ 
+      images: [
         {
           url: image,
           width: 1200,

@@ -1,9 +1,9 @@
 "use client"
 
 import { useI18n } from "@/lib/i18n/context"
-import { HeroSection } from "@/components/hero-section"
-import { ServiceCard } from "@/components/service-card"
-import { Card, CardContent } from "@/components/ui/card"
+import { HeroSection } from "@/components-eng/hero-section"
+import { ServiceCard } from "@/components-eng/service-card"
+import { Card, CardContent } from "@/components-eng/ui/card"
 import {
     Globe,
     Package,

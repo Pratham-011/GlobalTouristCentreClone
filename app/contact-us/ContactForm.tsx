@@ -1,19 +1,19 @@
 "use client";
 
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
+import { Button } from "@/components-eng/ui/button";
+import { Input } from "@/components-eng/ui/input";
+import { Textarea } from "@/components-eng/ui/textarea";
 import {
   Select,
   SelectTrigger,
   SelectValue,
   SelectContent,
   SelectItem,
-} from "@/components/ui/select";
+} from "@/components-eng/ui/select";
 import { User, Mail, Phone, Send } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "@/components-eng/ui/card";
 
 export function ContactForm() {
   const { t } = useI18n();

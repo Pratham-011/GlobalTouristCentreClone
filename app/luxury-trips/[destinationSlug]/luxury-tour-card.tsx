@@ -1,7 +1,7 @@
 "use client";
 
 import { MapPin } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import Link from "next/link";
 
 interface LuxuryTourCardProps {
@@ -97,7 +97,7 @@ export function LuxuryTourCard({
         </p>
 
         {/* CTA */}
-        <Link href={`/${locale}${href}`} className="mt-auto">
+        <Link href={`${href}`} className="mt-auto">
           <Button
             className="
               w-full bg-[#d4af37] hover:bg-[#b8962e]

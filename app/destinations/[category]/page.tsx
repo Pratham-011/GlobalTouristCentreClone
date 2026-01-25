@@ -4,7 +4,7 @@ import { getTranslations } from "@/lib/i18n/getTranslations";
 
 import { getDestinationBySlug } from "../get-destination";
 import { DestinationsGridSection } from "./DestinationsGridSection";
-import { HeroSection } from "@/components/hero-section";
+import { HeroSection } from "@/components-eng/hero-section";
 import HomeForm from "../../(home)/HomeForm";
 
 import { LOCALES, TOUR_CATEGORIES } from "@/lib/data/tour-slugs";
@@ -133,7 +133,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const image = `/assets/hero/${data.heroImageQuery}`;
-  const canonical = `https://globaltouristcentre.com/${locale}/destinations/${category}`;
+  const canonical = `https://globaltouristcentre.com/destinations/${category}`;
 
 
   return {

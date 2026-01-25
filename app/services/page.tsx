@@ -25,11 +25,11 @@ export function generateMetadata({ params }: PageProps): Metadata {
 
   const title = t.metadata?.services?.title || "Our Services | Global Tourist Centre";
   const description = t.metadata?.services?.description || "Custom travel solutions with Global Tourist Centre - visa assistance, hotel bookings, and travel packages.";
- 
 
-    const image = "/assets/hero/Service-hero.webp";
 
-    const canonical = `https://globaltouristcentre.com/${locale}/services`;
+  const image = "/assets/hero/Service-hero.webp";
+
+  const canonical = `https://globaltouristcentre.com/services`;
   return {
     title,
     description,

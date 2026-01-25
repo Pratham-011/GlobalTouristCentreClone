@@ -1,7 +1,7 @@
 "use client";
 
 import { useI18n } from "@/lib/i18n/context";
-import { HeroSection } from "@/components/hero-section";
+import { HeroSection } from "@/components-eng/hero-section";
 import { Check, Plane, Send } from "lucide-react";
 
 export default function FlightBookingPage() {

@@ -1,13 +1,13 @@
 "use client";
 
-import { HeroSection } from "@/components/hero-section";
+import { HeroSection } from "@/components-eng/hero-section";
 import { DestinationGrid } from "../../destinations/destination-grid";
 import {
   Accordion,
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from "@/components/ui/accordion";
+} from "@/components-eng/ui/accordion";
 import { useI18n } from "@/lib/i18n/context";
 import { domesticTrips, internationalTrips } from "@/lib/data/destinations";
 
@@ -65,7 +65,7 @@ export default function DomesticInternationalTripsPage() {
 
           <div className="text-center mt-10">
             <a
-              href={`/${locale}/destinations/domestic`}
+              href={`/destinations/domestic`}
               className="inline-flex items-center rounded-full px-10 py-4
                          bg-[#f8d56b] text-black font-semibold
                          hover:bg-[#f8d56b]/90 transition"
@@ -90,7 +90,7 @@ export default function DomesticInternationalTripsPage() {
 
           <div className="text-center mt-10">
             <a
-              href={`/${locale}/destinations/international`}
+              href={`/destinations/international`}
               className="inline-flex items-center rounded-full px-10 py-4
                          bg-[#f8d56b] text-black font-semibold
                          hover:bg-[#f8d56b]/90 transition"

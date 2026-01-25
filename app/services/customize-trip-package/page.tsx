@@ -26,15 +26,15 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const title = t.servicePages.customizeTripPackage.metadata.title;
   const description = t.servicePages.customizeTripPackage.metadata.description;
 
-    /** 2️⃣ Page hero image (ABSOLUTE URL preferred) */ 
+  /** 2️⃣ Page hero image (ABSOLUTE URL preferred) */
   const image = "/assets/services/custom-tour-about.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/${locale}/customized-trip-package`;
+  const canonical = `https://globaltouristcentre.com/customized-trip-package`;
 
 
   return {
-    title,  
+    title,
     description,
     alternates: {
       canonical,

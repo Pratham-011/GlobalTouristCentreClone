@@ -63,7 +63,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const description = data.description;
 
   const image = t.tourData?.[tour]?.page?.hero?.backgroundImage;
-  const canonical = `https://globaltouristcentre.com/${locale}/destinations`;
+  const canonical = `https://globaltouristcentre.com/destinations`;
 
 
   return {

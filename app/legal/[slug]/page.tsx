@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
-import LegalHero from "@/components/LegalHero";
-import LegalPageContent from "@/components/LegalPageContent";
+import LegalHero from "@/components-eng/LegalHero";
+import LegalPageContent from "@/components-eng/LegalPageContent";
 import { legalPages } from "@/lib/legalPages";
 import type { Metadata } from "next";
 import { locales } from "@/lib/i18n/config";
@@ -36,17 +36,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     }
 
     const translation = pageData.translations[locale as keyof typeof pageData.translations] || pageData.translations.en;
-        
+
     const image = pageData.heroImage;
 
-    const canonical = `https://globaltouristcentre.com/${locale}/legal/${slug}`;
+    const canonical = `https://globaltouristcentre.com/legal/${slug}`;
 
     return {
         title: translation.metadata.title,
         description: translation.metadata.description,
         alternates: {
             canonical,
-        },  
+        },
         openGraph: {
             title: translation.metadata.title,
             description: translation.metadata.description,

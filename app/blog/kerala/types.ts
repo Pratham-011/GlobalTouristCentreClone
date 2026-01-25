@@ -1,4 +1,4 @@
-types.ts;
+// types.ts;
 // components/blog/kerala/types.ts
 
 export type BlogSectionData = {

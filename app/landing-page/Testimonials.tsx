@@ -3,13 +3,13 @@
 import { useState } from "react";
 import { Star, ChevronLeft, ChevronRight, Quote } from "lucide-react";
 
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components-eng/ui/button";
+import { Card, CardContent } from "@/components-eng/ui/card";
 import {
   Pagination,
   PaginationContent,
   PaginationItem,
-} from "@/components/ui/pagination";
+} from "@/components-eng/ui/pagination";
 import { cn } from "@/lib/utils";
 import { useI18n } from "@/lib/i18n/context";
 

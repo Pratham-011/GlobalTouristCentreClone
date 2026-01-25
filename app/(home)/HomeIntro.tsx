@@ -3,10 +3,10 @@
 import { useRef } from "react";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import { useI18n } from "@/lib/i18n/context";
 import HomeCard from "./HomeCard";
-import { SectionTitle } from "@/components/SectionTitle";
+import { SectionTitle } from "@/components-eng/SectionTitle";
 
 /* ----------------------------------------
    DATA MODEL
@@ -202,7 +202,7 @@ const HomeIntro = () => {
                     title={content.title}
                     duration={content.duration}
                     description={content.description}
-                    href={`/${locale}${tour.href}`}
+                    href={`${tour.href}`}
                   />
                 </div>
               );
@@ -231,7 +231,7 @@ const HomeIntro = () => {
                 title={content.title}
                 duration={content.duration}
                 description={content.description}
-                href={`/${locale}${tour.href}`}
+                href={`${tour.href}`}
               />
             );
           })}
@@ -241,7 +241,7 @@ const HomeIntro = () => {
             CTA
         ======================== */}
         <div className="flex justify-center">
-          <Link href={`/${locale}/destinations`}>
+          <Link href={`/destinations`}>
             <Button
               size="lg"
               className="

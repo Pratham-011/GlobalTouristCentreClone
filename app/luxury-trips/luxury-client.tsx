@@ -1,13 +1,13 @@
 "use client";
 
 import { useI18n } from "@/lib/i18n/context";
-import { OfferBanner } from "@/components/offer-banner";
+import { OfferBanner } from "@/components-eng/offer-banner";
 import { Check } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
-import { Card, CardContent } from "@/components/ui/card";
-import { Header } from "@/components/header";
+import { Button } from "@/components-eng/ui/button";
+import { Input } from "@/components-eng/ui/input";
+import { Label } from "@/components-eng/ui/label";
+import { Card, CardContent } from "@/components-eng/ui/card";
+import { Header } from "@/components-eng/header";
 import Link from "next/link";
 import { MapPin, ArrowRight } from "lucide-react";
 
@@ -51,7 +51,7 @@ const luxuryDestinations = [
 ---------------------------------- */
 
 export default function LuxuryDestinationsPage() {
-  const { t,locale } = useI18n();
+  const { t, locale } = useI18n();
 
   function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -64,9 +64,9 @@ export default function LuxuryDestinationsPage() {
 
     const message = encodeURIComponent(
       `Hi! I'm interested in your luxury travel packages.\n\n` +
-        `Name: ${name}\n` +
-        `Email: ${email}\n` +
-        `Phone: ${phone}`
+      `Name: ${name}\n` +
+      `Email: ${email}\n` +
+      `Phone: ${phone}`
     );
 
     const whatsappUrl = `https://wa.me/919067972295?text=${message}`;
@@ -205,7 +205,7 @@ export default function LuxuryDestinationsPage() {
                     </p>
 
                     {/* CTA */}
-                    <Link href={`/${locale}/luxury-trips/${item.slug}`}>
+                    <Link href={`/luxury-trips/${item.slug}`}>
                       <button
                         className="
                     w-full group/btn relative

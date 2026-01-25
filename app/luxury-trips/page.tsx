@@ -15,7 +15,7 @@ type PageProps = {
 
 /* ---------- STATIC PARAMS (REQUIRED FOR EXPORT) ---------- */
 export async function generateStaticParams() {
-  const params: { locale: string}[] = [];
+  const params: { locale: string }[] = [];
 
   for (const locale of LOCALES) {
     for (const category of Object.keys(TOUR_CATEGORIES)) {
@@ -35,7 +35,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const description = t.metadata?.luxuryDestinations?.description || "Discover luxury destinations with Global Tourist Centre - the perfect blend of comfort and style.";
 
   const image = "/assets/dubai-skyline-burj-khalifa-luxury-evening.jpg";
-  const canonical = `https://globaltouristcentre.com/${locale}/luxury-trips`;
+  const canonical = `https://globaltouristcentre.com/luxury-trips`;
 
   return {
     title,
@@ -69,7 +69,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
         },
       ],
     },
-}
+  }
 }
 export default function Page() {
   return <LuxuryDestinationsPage />;

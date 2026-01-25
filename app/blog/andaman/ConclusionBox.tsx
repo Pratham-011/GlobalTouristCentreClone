@@ -1,6 +1,6 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import { useI18n } from "@/lib/i18n/context";
 import Link from "next/link";
 import { useParams } from "next/navigation";
@@ -23,12 +23,12 @@ const ConclusionBox = () => {
       </div>
 
       <div className="flex gap-4 flex-wrap">
-        <Link href={`/${locale}/contact-us`}>
+        <Link href={`/contact-us`}>
           <Button size="lg" className="bg-teal-600 hover:bg-teal-700">
             {t.blogAndaman.enquireNow}
           </Button>
         </Link>
-        <Link href={`/${locale}/destinations/domestic/andaman-islands-tour-from-goa/`}>
+        <Link href={`/destinations/domestic/andaman-islands-tour-from-goa/`}>
           <Button
             variant="outline"
             size="lg"

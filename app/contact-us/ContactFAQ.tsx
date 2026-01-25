@@ -5,7 +5,7 @@ import {
   AccordionItem,
   AccordionTrigger,
   AccordionContent,
-} from "@/components/ui/accordion";
+} from "@/components-eng/ui/accordion";
 import { useI18n } from "@/lib/i18n/context";
 
 export function ContactFAQ() {

@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { useI18n } from "@/lib/i18n/context";
 import { luxuryPageContent, LuxurySlug } from "@/lib/data/luxury-page-content";
-import { Header } from "@/components/header";
+import { Header } from "@/components-eng/header";
 
 interface HeroSectionProps {
   slug: LuxurySlug;
@@ -30,7 +30,7 @@ export function HeroSection({ slug }: HeroSectionProps) {
         />
         <div className="absolute inset-0 bg-black/50" />
       </div>
-      <Header/>
+      <Header />
 
       {/* Hero Content */}
       <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">

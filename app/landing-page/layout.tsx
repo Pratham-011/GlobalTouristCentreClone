@@ -1,7 +1,7 @@
 import type React from "react"
 import type { Metadata, Viewport } from "next"
 import Script from "next/script"
-import { PromoPopup } from "@/components/promo-popup";
+import { PromoPopup } from "@/components-eng/promo-popup";
 
 // Moved OfferBanner and PromoPopup to root layout to avoid conflicts
 
@@ -153,8 +153,8 @@ export default function LandingPageLayout({
 }) {
   return (
     <>
-              {/* Promo popup */}
-          <PromoPopup />
+      {/* Promo popup */}
+      <PromoPopup />
       <Script
         id="gtm-script"
         strategy="afterInteractive"

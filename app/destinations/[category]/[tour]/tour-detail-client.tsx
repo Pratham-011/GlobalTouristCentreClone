@@ -2,15 +2,15 @@
 
 import { useI18n } from "@/lib/i18n/context";
 import type { TripId } from "@/lib/i18n/translations/index.ts";
-import { galleryData} from "@/lib/data/galleryData";
+import { galleryData } from "@/lib/data/galleryData";
 import { metaData } from "@/lib/data/metaData";
 
-import { DetailedTourHero } from "@/components/tours/detailed-tour-hero";
-import { TourCtaBar } from "@/components/tours/tour-cta-bar";
-import { TourQuickInfo } from "@/components/tours/tour-quick-info";
-import  TourItinerary  from "@/components/tours/tour-itinerary";
-import { TourVisualJourney } from "@/components/tours/tour-visual-journey";
-import { TourInclusions } from "@/components/tours/tour-inclusions";
+import { DetailedTourHero } from "@/components-eng/tours/detailed-tour-hero";
+import { TourCtaBar } from "@/components-eng/tours/tour-cta-bar";
+import { TourQuickInfo } from "@/components-eng/tours/tour-quick-info";
+import TourItinerary from "@/components-eng/tours/tour-itinerary";
+import { TourVisualJourney } from "@/components-eng/tours/tour-visual-journey";
+import { TourInclusions } from "@/components-eng/tours/tour-inclusions";
 
 type TourClientProps = {
   tourId: TripId;
@@ -40,7 +40,7 @@ export default function TourClient({ tourId }: TourClientProps) {
   }
 
 
-  const { page, cta, quickInfo, itinerary, inclusions,gallery } = data;
+  const { page, cta, quickInfo, itinerary, inclusions, gallery } = data;
 
   return (
     <main className="bg-white">
@@ -84,7 +84,7 @@ export default function TourClient({ tourId }: TourClientProps) {
       ======================================================= */}
       {inclusions?.length > 0 && (
         <TourInclusions
-items={inclusions}
+          items={inclusions}
         />
       )}
     </main>

@@ -28,11 +28,11 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const title = t.servicePages.groupTrip.metadata.title;
   const description = t.servicePages.groupTrip.metadata.title;
 
-    /** 2️⃣ Page hero image (ABSOLUTE URL preferred) */
+  /** 2️⃣ Page hero image (ABSOLUTE URL preferred) */
   const image = "/assets/services/group-tour-about.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/${locale}/customized-group-tours`;
+  const canonical = `https://globaltouristcentre.com/customized-group-tours`;
 
 
   return {

@@ -2,7 +2,7 @@
 
 import { usePathname, useRouter } from "next/navigation";
 import type { Locale } from "@/lib/i18n/translations";
-import { locales } from "@/lib/i18n/config";
+// import { locales } from "@/lib/i18n/config";
 import {
   DropdownMenu,
   DropdownMenuTrigger,
@@ -11,6 +11,8 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { ChevronDown } from "lucide-react";
 
+const ROUTE_LOCALES: Locale[] = ["ru", "de", "it", "fr"];
+
 const languages: { code: Locale; label: string }[] = [
   { code: "en", label: "EN" },
   { code: "ru", label: "RU" },
@@ -18,25 +20,58 @@ const languages: { code: Locale; label: string }[] = [
   { code: "fr", label: "FR" },
   { code: "de", label: "DE" },
 ];
+
+
+
 type LanguageSwitcherProps = {
   variant?: "dark" | "light";
 };
 
+/* --------------------------------------------------
+   Helpers
+-------------------------------------------------- */
+function getLocaleFromPath(pathname: string): Locale {
+  const firstSegment = pathname.split("/")[1];
+  return ROUTE_LOCALES.includes(firstSegment as Locale)
+    ? (firstSegment as Locale)
+    : "en";
+}
 
+function stripLocaleFromPath(pathname: string): string {
+  const segments = pathname.split("/").filter(Boolean);
+  const firstSegment = segments[0];
+
+  if (ROUTE_LOCALES.includes(firstSegment as Locale)) {
+    const rest = segments.slice(1).join("/");
+    return rest ? `/${rest}` : "/";
+  }
+
+  return pathname === "" ? "/" : pathname;
+}
+
+
+/* --------------------------------------------------
+   Component
+-------------------------------------------------- */
 export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
   const router = useRouter();
   const pathname = usePathname();
 
-  // Locale always derived from URL
-  const currentLocale = pathname.split("/")[1] as Locale;
+  const currentLocale = getLocaleFromPath(pathname);
 
   function handleLanguageChange(newLocale: Locale) {
     if (newLocale === currentLocale) return;
+    const basePath = stripLocaleFromPath(pathname);
+    // Switch to English → no locale prefix
+if (newLocale === "en") {
+  window.location.href = basePath || "/";
+  return;
+}
 
-    const segments = pathname.split("/");
-    segments[1] = newLocale;
 
-    router.replace(segments.join("/"));
+    // Switch to non-English → add locale prefix
+    router.replace(`/${newLocale}${basePath === "/" ? "" : basePath}`);
+    router.refresh();
   }
 
   return (
@@ -95,11 +130,10 @@ export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
               text-sm font-medium
               cursor-pointer
               transition-colors
-              ${
-                isActive
-                  ? "bg-amber-50 text-amber-600" // Golden background tint & Golden text
-                  : "text-gray-700 hover:bg-gray-100"
-              }
+              ${isActive
+                      ? "bg-amber-50 text-amber-600" // Golden background tint & Golden text
+                      : "text-gray-700 hover:bg-gray-100"
+                    }
             `}
                 >
                   {lang.label}
@@ -119,11 +153,10 @@ export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
         <div
           className={`
       flex gap-1 p-1 rounded-full border
-      ${
-        variant === "dark"
-          ? "bg-white/10 backdrop-blur-md border-white/20"
-          : "bg-gray-100 border-gray-200"
-      }
+      ${variant === "dark"
+              ? "bg-white/10 backdrop-blur-md border-white/20"
+              : "bg-gray-100 border-gray-200"
+            }
     `}
           aria-label="Language selector"
         >
@@ -140,13 +173,12 @@ export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
             px-3 py-1.5 rounded-full
             text-xs font-medium uppercase tracking-wide
             transition-all duration-300
-            ${
-              isActive
-                ? "bg-[#f8d56b] text-gray-900 shadow-sm"
-                : variant === "dark"
-                ? "text-white hover:text-[#f8d56b] hover:bg-white/10"
-                : "text-gray-700 hover:bg-gray-200"
-            }
+            ${isActive
+                    ? "bg-[#f8d56b] text-gray-900 shadow-sm"
+                    : variant === "dark"
+                      ? "text-white hover:text-[#f8d56b] hover:bg-white/10"
+                      : "text-gray-700 hover:bg-gray-200"
+                  }
           `}
               >
                 {lang.label}
@@ -158,3 +190,4 @@ export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
     </>
   );
 }
+

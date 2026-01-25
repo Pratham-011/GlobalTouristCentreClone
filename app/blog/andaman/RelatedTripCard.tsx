@@ -28,7 +28,7 @@ const RelatedTripCard = ({ title, desc, image, link, isComingSoon }: Props) => {
 
         {!isComingSoon && link ? (
           <Link
-            href={`/${locale}/blog/${link}`}
+            href={`/blog/${link}`}
             className="mt-auto inline-flex items-center text-teal-600 font-semibold hover:text-teal-700"
           >
             {t.blog.readMore} <ArrowRight className="ml-1 w-4 h-4" />

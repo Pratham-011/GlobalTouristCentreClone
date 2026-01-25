@@ -2,10 +2,10 @@
 
 import { useState, useMemo, useEffect } from "react";
 import { notFound } from "next/navigation";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import { useI18n } from "@/lib/i18n/context";
 import { HeroSection } from "./hero-secction";
-import {LuxuryToursSection} from "./tourssection";
+import { LuxuryToursSection } from "./tourssection";
 import { WhyChooseLuxury } from "./why-choose-luxury";
 import { luxuryPageContent, LuxurySlug } from "@/lib/data/luxury-page-content";
 

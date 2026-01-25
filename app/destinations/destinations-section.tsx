@@ -1,6 +1,6 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import { useI18n } from "@/lib/i18n/context";
 import {
   domesticTrips,
@@ -15,7 +15,7 @@ import { useEffect, useState } from "react";
 
 export function DestinationsSection() {
   const { t, locale } = useI18n();
-  
+
 
 
 
@@ -47,21 +47,21 @@ export function DestinationsSection() {
             title={t.destinations.domesticTitle}
             subtitle={t.destinations.domesticSubtitle}
             items={domesticTrips.slice(0, 4)}
-            href={`/${locale}/destinations/domestic`}
+            href={`/destinations/domestic`}
           />
 
           <DestinationBlock
             title={t.destinations.internationalTitle}
             subtitle={t.destinations.internationalSubtitle}
             items={internationalTrips.slice(0, 4)}
-            href={`/${locale}/destinations/international`}
+            href={`/destinations/international`}
           />
 
           <DestinationBlock
             title={t.destinations.dayTripsTitle}
             subtitle={t.destinations.dayTripsSubtitle}
             items={dayTrips.slice(0, 4)}
-            href={`/${locale}/destinations/day-trips`}
+            href={`/destinations/day-trips`}
           />
         </div>
       </section>
@@ -80,11 +80,11 @@ function DestinationBlock({
   items: any[];
   href: string;
 }) {
-    const [mounted, setMounted] = useState(false);
+  const [mounted, setMounted] = useState(false);
 
-    useEffect(() => {
-      setMounted(true);
-    }, []);
+  useEffect(() => {
+    setMounted(true);
+  }, []);
   return (
     <div>
       {/* Title */}

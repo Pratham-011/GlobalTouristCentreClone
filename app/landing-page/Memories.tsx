@@ -3,7 +3,7 @@
 import type React from "react";
 import { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import { useI18n } from "@/lib/i18n/context";
 import Image from "next/image";
 

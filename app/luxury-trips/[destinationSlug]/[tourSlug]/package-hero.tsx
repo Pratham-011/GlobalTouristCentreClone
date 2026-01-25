@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { MapPin } from "lucide-react";
-import { Header } from "@/components/header";
+import { Header } from "@/components-eng/header";
 
 // Define the shape of the hero_section data based on your JSON
 interface PackageHeroData {

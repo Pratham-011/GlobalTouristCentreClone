@@ -5,13 +5,13 @@ import type React from "react";
 import { useState, useRef } from "react";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import { useI18n } from "@/lib/i18n/context";
-import TourCard from "@/components/TourCard";
+import TourCard from "@/components-eng/TourCard";
 import type { CollectionId } from "@/lib/i18n/translations";
 
 const CuratedTravel = () => {
-  const { t, locale } = useI18n();
+  const { t, } = useI18n();
   const experiencesRef = useRef<HTMLDivElement>(null);
   const collectionsRef = useRef<HTMLDivElement>(null);
 
@@ -31,7 +31,7 @@ const CuratedTravel = () => {
         rating: 4.6,
         tags: ["Waterfalls", "Spices", "Nature"],
         badge: null,
-        link: `/${locale}/destinations/day-trips/dudhsagar-waterfal-excursion`,
+        link: `/destinations/day-trips/dudhsagar-waterfal-excursion`,
       },
       {
         id: "golden-triangle-4-day-tour-from-goa",
@@ -40,7 +40,7 @@ const CuratedTravel = () => {
         rating: 4.8,
         tags: ["Heritage", "Taj Mahal", "Cultural"],
         badge: null,
-        link: `/${locale}/destinations/domestic/golden-triangle-4-day-tour-from-goa`,
+        link: `/destinations/domestic/golden-triangle-4-day-tour-from-goa`,
       },
       {
         id: "varanasi",
@@ -49,7 +49,7 @@ const CuratedTravel = () => {
         rating: 4.7,
         tags: ["Spiritual", "Pilgrimage", "Ganga Aarti"],
         badge: null,
-        link: `/${locale}/destinations/domestic/varanasi-tour-package-from-goa`,
+        link: `/destinations/domestic/varanasi-tour-package-from-goa`,
       },
       {
         id: "amritsar",
@@ -58,7 +58,7 @@ const CuratedTravel = () => {
         rating: 4.7,
         tags: ["Spiritual", "Cultural", "Historical"],
         badge: null,
-        link: `/${locale}/destinations/domestic/amritsar-tour-package-from-goa`,
+        link: `/destinations/domestic/amritsar-tour-package-from-goa`,
       },
     ];
 
@@ -155,7 +155,7 @@ const CuratedTravel = () => {
                   {t.collections.subtitle}
                 </p>
 
-                <Link href={`/${locale}/destinations`}>
+                <Link href={`/destinations`}>
                   <Button
                     size="lg"
                     className="rounded-full px-8 font-semibold bg-white text-slate-900 hover:bg-white/90  "
@@ -232,7 +232,7 @@ const CuratedTravel = () => {
 
             {/* CTA */}
             <div className="col-span-full mt-10 flex justify-center">
-              <Link href={`/${locale}/destinations`}>
+              <Link href={`/destinations`}>
                 <Button
                   variant="outline"
                   size="lg"

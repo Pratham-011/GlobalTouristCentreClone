@@ -1,9 +1,9 @@
 "use client";
 
-import { HeroSection } from "@/components/hero-section";
+import { HeroSection } from "@/components-eng/hero-section";
 import { Calendar, Tag, User, Ship, Mountain, Droplets, Umbrella, Tent, Utensils, Moon, Sun, CheckCircle } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { useState } from "react";
@@ -159,8 +159,8 @@ export default function KeralaBlogPage() {
                     key={idx}
                     onClick={() => setActiveTab(idx)}
                     className={`px-6 py-4 text-sm font-semibold whitespace-nowrap transition-colors ${activeTab === idx
-                        ? "text-emerald-700 border-b-2 border-emerald-600 bg-emerald-50/50"
-                        : "text-gray-500 hover:text-gray-700 hover:bg-gray-50"
+                      ? "text-emerald-700 border-b-2 border-emerald-600 bg-emerald-50/50"
+                      : "text-gray-500 hover:text-gray-700 hover:bg-gray-50"
                       }`}
                   >
                     {item.day}
@@ -257,7 +257,7 @@ export default function KeralaBlogPage() {
           <section className="mb-16">
             <p className="text-gray-700 mb-6 text-lg">{t.blogKerala.ctaDesc}</p>
             <div className="flex gap-4 flex-wrap">
-              <Link href={`/${locale}/contact-us`}>
+              <Link href={`/contact-us`}>
                 <Button
                   size="lg"
                   className="bg-teal-600 hover:bg-teal-700 rounded-full px-8"
@@ -265,7 +265,7 @@ export default function KeralaBlogPage() {
                   {t.blogKerala.enquireNow}
                 </Button>
               </Link>
-              <Link href={`/${locale}/destinations/domestic/kerala-tour-package-from-goa`}>
+              <Link href={`/destinations/domestic/kerala-tour-package-from-goa`}>
                 <Button
                   variant="outline"
                   size="lg"
@@ -284,7 +284,7 @@ export default function KeralaBlogPage() {
             </h2>
             <div className="grid sm:grid-cols-3 gap-6">
               {/* Active card - Andaman */}
-              <Link href={`/${locale}/blog/andaman`} className="group block">
+              <Link href={`/blog/andaman`} className="group block">
                 <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all h-full flex flex-col">
                   <img
                     src="/assets/destinations/Thumbnails/Andaman.webp"

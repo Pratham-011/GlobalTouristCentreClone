@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /public/
 
-Sitemap: https://globaltouristcentre.com/en/sitemap.xml
+Sitemap: https://globaltouristcentre.com/sitemap.xml
 Sitemap: https://globaltouristcentre.com/ru/sitemap.xml
 Sitemap: https://globaltouristcentre.com/it/sitemap.xml
 Sitemap: https://globaltouristcentre.com/fr/sitemap.xml

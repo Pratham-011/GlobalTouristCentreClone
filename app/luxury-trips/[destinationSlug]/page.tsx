@@ -38,7 +38,7 @@ export function generateStaticParams() {
 /* ------------------------------------------------------------------ */
 /* METADATA */
 /* ------------------------------------------------------------------ */
-export async function generateMetadata({params}: PageProps): Promise<Metadata> {
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale, destinationSlug } = params;
   const t = getTranslations(locale);
 
@@ -47,13 +47,13 @@ export async function generateMetadata({params}: PageProps): Promise<Metadata> {
   if (!pageData) {
     return {
       title: "Luxury Tours",
-      description:"Explore curated luxury travel experiences with premium stays and personalized service.",
+      description: "Explore curated luxury travel experiences with premium stays and personalized service.",
     };
   }
 
-  const image =  luxuryPageContent[destinationSlug].image;
+  const image = luxuryPageContent[destinationSlug].image;
 
-  const canonical = `https://globaltouristcentre.com/${locale}/luxury-trips/${destinationSlug}`;
+  const canonical = `https://globaltouristcentre.com/luxury-trips/${destinationSlug}`;
 
   return {
     title: pageData.metadata.title,
@@ -101,5 +101,5 @@ export default function LuxuryDestinationPage({ params }: PageProps) {
     notFound();
   }
 
-return <LuxuryClient params={{ slug: destinationSlug as any }} />;
+  return <LuxuryClient params={{ slug: destinationSlug as any }} />;
 }

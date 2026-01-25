@@ -1,7 +1,7 @@
 "use client";
 
 import { teamMembers } from "./about";
-import { TeamMemberCard } from "@/components/team-member-card";
+import { TeamMemberCard } from "@/components-eng/team-member-card";
 import { useI18n } from "@/lib/i18n/context";
 
 export function AboutTeam() {

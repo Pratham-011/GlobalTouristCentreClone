@@ -1,9 +1,9 @@
 "use client";
 
-import { TestimonialCard } from "@/components/testimonial-card";
+import { TestimonialCard } from "@/components-eng/testimonial-card";
 import { useI18n } from "@/lib/i18n/context";
 import { reviews } from "./about";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components-eng/ui/button";
 import { cn } from "@/lib/utils"; // Ensure you have this utility or remove if not needed
 
 // 1. Import Shadcn Pagination components
@@ -11,7 +11,7 @@ import {
   Pagination,
   PaginationContent,
   PaginationItem,
-} from "@/components/ui/pagination";
+} from "@/components-eng/ui/pagination";
 
 import {
   Carousel,
@@ -20,7 +20,7 @@ import {
   CarouselNext,
   CarouselPrevious,
   type CarouselApi,
-} from "@/components/ui/carousel";
+} from "@/components-eng/ui/carousel";
 
 import Autoplay from "embla-carousel-autoplay";
 import { useRef, useState, useEffect } from "react";

@@ -56,25 +56,25 @@ export function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: PageProps): Promise<Metadata> {
- const { locale, destinationSlug,tourSlug } = params;
+  const { locale, destinationSlug, tourSlug } = params;
   const t = getTranslations(locale);
 
   const pageData = t.luxuryTourPackages?.[tourSlug];
-    if (!pageData) {
-      return {
-        title: "Luxury Tours",
-        description:
-          "Explore curated luxury travel experiences with premium stays and personalized service.",
-      };
-    }
+  if (!pageData) {
+    return {
+      title: "Luxury Tours",
+      description:
+        "Explore curated luxury travel experiences with premium stays and personalized service.",
+    };
+  }
 
 
-const title = t.luxuryTourPackages?.[tourSlug]?.metadata?.title || "Our Services | Global Tourist Centre";
-const description = t.luxuryTourPackages?.[tourSlug]?.metadata?.description || "Custom travel solutions with Global Tourist Centre - visa assistance, hotel bookings, and travel packages.";
- 
-    const image = t.luxuryTourPackages?.[tourSlug]?.hero_section?.background_image ;
+  const title = t.luxuryTourPackages?.[tourSlug]?.metadata?.title || "Our Services | Global Tourist Centre";
+  const description = t.luxuryTourPackages?.[tourSlug]?.metadata?.description || "Custom travel solutions with Global Tourist Centre - visa assistance, hotel bookings, and travel packages.";
 
-    const canonical = `https://globaltouristcentre.com/${locale}/luxury-trips/${destinationSlug}/${tourSlug}`;
+  const image = t.luxuryTourPackages?.[tourSlug]?.hero_section?.background_image;
+
+  const canonical = `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}`;
   return {
     title,
     description,

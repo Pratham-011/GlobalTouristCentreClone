@@ -5,20 +5,20 @@ import type React from "react";
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { Star, ArrowRight, Shield, Heart } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components-eng/ui/button";
+import { Input } from "@/components-eng/ui/input";
+import { Label } from "@/components-eng/ui/label";
+import { Card, CardContent } from "@/components-eng/ui/card";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "@/components/ui/select";
+} from "@/components-eng/ui/select";
 import { useI18n } from "@/lib/i18n/context";
 import Image from "next/image";
-import { Header } from "@/components/header";
+import { Header } from "@/components-eng/header";
 
 function formatWhatsAppMessage(
   title: string,
@@ -371,7 +371,7 @@ const Hero = () => {
                 <p className="text-xs text-muted-foreground text-center mt-3">
                   {t.form.privacyNote}{" "}
                   <Link
-                    href={`/${locale}/legal/privacy-policy`}
+                    href={`/legal/privacy-policy`}
                     className="text-primary hover:underline focus:underline"
                   >
                     {t.form.privacyPolicy}
