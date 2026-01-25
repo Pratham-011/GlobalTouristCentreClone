@@ -46,18 +46,18 @@ export const de = {
       description: "Top-Reiseziele in Indien wie Kerala, Goa, die Andamanen, Rajasthan, Sikkim-Darjeeling, Hampi und mehr mit Global Tourist Centre."
     }
     ,
-  "domestic": {
-    "title": "Inlandsreisen in Indien | Beste Indien-Reisepakete – Global Tourist Centre",
-    "description": "Entdecken Sie die besten Inlandsreisen in Indien mit Global Tourist Centre. Erleben Sie sorgfältig kuratierte Reisepakete zu ikonischen Destinationen wie Kerala, Kaschmir oder Rajasthan — ideal für unvergessliche Abenteuer, kulturelle Erfahrungen und landschaftliche Erlebnisse."
-  },
-  "international": {
-    "title": "Internationale Reisen & Globale Tourpakete | Die Welt entdecken – Global Tourist Centre",
-    "description": "Erleben Sie unvergessliche internationale Reisen mit Global Tourist Centre. Wählen Sie aus kuratierten Tourpaketen nach Türkei, Thailand, Singapur und mehr — perfekt für kulturelle Entdeckungen, Strandurlaube, Städtereisen und Luxusreisen."
-  },
-  "day-trips": {
-    "title": "Tagesausflüge – Beste Eintagestouren für internationale Gäste",
-    "description": "Entdecken Sie die besten Tagesausflüge für internationale Reisende — von Wasserfällen und Wildtieren bis hin zu Stränden, Tempeln und Kultur. Buchen Sie Ihr perfektes Eintagesabenteuer!"
-  },
+    "domestic": {
+      "title": "Inlandsreisen in Indien | Beste Indien-Reisepakete – Global Tourist Centre",
+      "description": "Entdecken Sie die besten Inlandsreisen in Indien mit Global Tourist Centre. Erleben Sie sorgfältig kuratierte Reisepakete zu ikonischen Destinationen wie Kerala, Kaschmir oder Rajasthan — ideal für unvergessliche Abenteuer, kulturelle Erfahrungen und landschaftliche Erlebnisse."
+    },
+    "international": {
+      "title": "Internationale Reisen & Globale Tourpakete | Die Welt entdecken – Global Tourist Centre",
+      "description": "Erleben Sie unvergessliche internationale Reisen mit Global Tourist Centre. Wählen Sie aus kuratierten Tourpaketen nach Türkei, Thailand, Singapur und mehr — perfekt für kulturelle Entdeckungen, Strandurlaube, Städtereisen und Luxusreisen."
+    },
+    "day-trips": {
+      "title": "Tagesausflüge – Beste Eintagestouren für internationale Gäste",
+      "description": "Entdecken Sie die besten Tagesausflüge für internationale Reisende — von Wasserfällen und Wildtieren bis hin zu Stränden, Tempeln und Kultur. Buchen Sie Ihr perfektes Eintagesabenteuer!"
+    },
     services: {
       title: "Global Tourist Centre – Dienstleistungen: Visum, Hotels & Reisepakete",
       description: "Entdecken Sie maßgeschneiderte Reiselösungen mit dem Global Tourist Centre – Visumsunterstützung, Hotelbuchungen sowie in- und ausländische Reisepakete in Süd-Goa.",
@@ -1073,9 +1073,9 @@ export const de = {
   // Andaman Blog Detail Page
   blogAndaman: {
     "metadata": {
-  "title": "Instagram-würdige Orte auf den Andamanen für perfekte Fotos | Global Tourist Centre",
-  "description": "Entdecken Sie beeindruckende Instagram-Spots auf den Andamanen — von Kalapathar Beach bis zu den Ruinen von Ross Island. Perfekte Locations für Fotos, Sonnenuntergänge und Unterwassererlebnisse."
-},
+      "title": "Instagram-würdige Orte auf den Andamanen für perfekte Fotos | Global Tourist Centre",
+      "description": "Entdecken Sie beeindruckende Instagram-Spots auf den Andamanen — von Kalapathar Beach bis zu den Ruinen von Ross Island. Perfekte Locations für Fotos, Sonnenuntergänge und Unterwassererlebnisse."
+    },
     heroTitle:
       "Klick, Aufnahme & Entspannung: Die Instagram-würdigsten Orte der Andamanen",
     heroSubtitle: "Juli 2025 • Fotografie",
@@ -1182,9 +1182,9 @@ export const de = {
   // Kerala Blog Detail Page
   blogKerala: {
     "metadata": {
-  "title": "Kerala-Reisepakete ab Goa für junge & aktive Entdecker | Global Tourist Centre",
-  "description": "Das Goa–Kerala-Reisepaket bietet spannende Monsun-Getaways, Gruppentouren, Backwaters und Bergstationen. Ideal für junge Reisende, die Ruhe und Abenteuer verbinden möchten."
-},
+      "title": "Kerala-Reisepakete ab Goa für junge & aktive Entdecker | Global Tourist Centre",
+      "description": "Das Goa–Kerala-Reisepaket bietet spannende Monsun-Getaways, Gruppentouren, Backwaters und Bergstationen. Ideal für junge Reisende, die Ruhe und Abenteuer verbinden möchten."
+    },
     heroTitle: "Von Goa nach Gottes eigenem Land",
     heroSubtitle: "Eine Kerala-Reise für junge Entdecker",
     introTitle: "Warum Kerala?",
@@ -1332,6 +1332,11 @@ export const de = {
     termsConditions: "Allgemeine Geschäftsbedingungen",
     copyright: "© 2026 Global Tourist Centre. Alle Rechte vorbehalten.",
     sitemap: "Sitemap"
+  },
+  // Common
+  common: {
+    notFoundTitle: "Nicht gefunden",
+    notFoundDescription: "Die angefragte Seite oder Ressource existiert nicht.",
   },
   // FAQ
   faq: {
@@ -2449,10 +2454,10 @@ export const de = {
           }
         },
         language: "de",
-"metadata": {
-  "title": "Eintägiger Ausflug nach Mumbai ab Goa – Highlights der Stadt",
-  "description": "Fliegen Sie von Goa für einen Tagesausflug nach Mumbai mit ikonischen Sehenswürdigkeiten wie dem Gateway of India, der Marine Drive Promenade und den Elephanta-Höhlen. Erleben Sie Kultur, Geschichte und das Stadtleben!"
-}
+        "metadata": {
+          "title": "Eintägiger Ausflug nach Mumbai ab Goa – Highlights der Stadt",
+          "description": "Fliegen Sie von Goa für einen Tagesausflug nach Mumbai mit ikonischen Sehenswürdigkeiten wie dem Gateway of India, der Marine Drive Promenade und den Elephanta-Höhlen. Erleben Sie Kultur, Geschichte und das Stadtleben!"
+        }
 
       },
       cta: {

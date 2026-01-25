@@ -45,18 +45,18 @@ export const fr = {
       title: "Découvrez les plus belles destinations de l’Inde – Global Tourist Centre",
       description: "Des escapades indiennes incontournables comme le Kerala, Goa, les Andaman, le Rajasthan, Sikkim-Darjeeling, Hampi et bien plus avec Global Tourist Centre."
     },
-  "domestic": {
-    "title": "Voyages domestiques en Inde | Meilleurs forfaits – Global Tourist Centre",
-    "description": "Découvrez les meilleurs voyages domestiques en Inde avec Global Tourist Centre. Forfaits soigneusement sélectionnés vers des destinations emblématiques comme Kerala, Cachemire ou Rajasthan — pour des aventures mémorables, des expériences culturelles et des escapades panoramiques."
-  },
-  "international": {
-    "title": "Voyages internationaux & Forfaits mondiaux | Explorez le monde – Global Tourist Centre",
-    "description": "Découvrez des voyages internationaux inoubliables avec Global Tourist Centre. Forfaits experts vers la Turquie, la Thaïlande, Singapour et d’autres destinations — parfaits pour des aventures culturelles, des escapades balnéaires, des city breaks et des expériences haut de gamme."
-  },
-  "day-trips": {
-    "title": "Excursions d'une journée – Meilleures visites pour voyageurs étrangers",
-    "description": "Découvrez les meilleures excursions d’une journée pour voyageurs internationaux — cascades, faune, plages, temples et culture. Réservez votre aventure idéale d’une journée!"
-  },
+    "domestic": {
+      "title": "Voyages domestiques en Inde | Meilleurs forfaits – Global Tourist Centre",
+      "description": "Découvrez les meilleurs voyages domestiques en Inde avec Global Tourist Centre. Forfaits soigneusement sélectionnés vers des destinations emblématiques comme Kerala, Cachemire ou Rajasthan — pour des aventures mémorables, des expériences culturelles et des escapades panoramiques."
+    },
+    "international": {
+      "title": "Voyages internationaux & Forfaits mondiaux | Explorez le monde – Global Tourist Centre",
+      "description": "Découvrez des voyages internationaux inoubliables avec Global Tourist Centre. Forfaits experts vers la Turquie, la Thaïlande, Singapour et d’autres destinations — parfaits pour des aventures culturelles, des escapades balnéaires, des city breaks et des expériences haut de gamme."
+    },
+    "day-trips": {
+      "title": "Excursions d'une journée – Meilleures visites pour voyageurs étrangers",
+      "description": "Découvrez les meilleures excursions d’une journée pour voyageurs internationaux — cascades, faune, plages, temples et culture. Réservez votre aventure idéale d’une journée!"
+    },
     services: {
       title: "Global Tourist Centre – Services : Visa, Hôtels & Forfaits Voyage",
       description: "Explorez des solutions de voyage sur mesure avec Global Tourist Centre — assistance visa, réservations d’hôtels et forfaits de circuits nationaux/internationaux à Goa Sud.",
@@ -1069,9 +1069,9 @@ export const fr = {
   // Andaman Blog Detail Page
   blogAndaman: {
     "metadata": {
-  "title": "Lieux Instagrammables aux Andaman pour des photos parfaites | Global Tourist Centre",
-  "description": "Découvrez les meilleurs spots Instagram aux Andaman — de la plage de Kalapathar aux ruines de Ross Island. Lieux parfaits pour photos, couchers de soleil et souvenirs sous-marins."
-},
+      "title": "Lieux Instagrammables aux Andaman pour des photos parfaites | Global Tourist Centre",
+      "description": "Découvrez les meilleurs spots Instagram aux Andaman — de la plage de Kalapathar aux ruines de Ross Island. Lieux parfaits pour photos, couchers de soleil et souvenirs sous-marins."
+    },
     heroTitle:
       "Cliquez, Capturez et Détendez-vous : Les Lieux les Plus Instagrammables des Andaman",
     heroSubtitle: "Juillet 2025 • Photographie",
@@ -1177,9 +1177,9 @@ export const fr = {
   // Kerala Blog Detail Page
   blogKerala: {
     "metadata": {
-  "title": "Forfaits Kerala depuis Goa pour jeunes voyageurs actifs | Global Tourist Centre",
-  "description": "Le forfait Goa–Kerala offre escapades de mousson, voyages en groupe, backwaters et stations de montagne. Idéal pour les jeunes voyageurs en quête de calme et d’aventure."
-},
+      "title": "Forfaits Kerala depuis Goa pour jeunes voyageurs actifs | Global Tourist Centre",
+      "description": "Le forfait Goa–Kerala offre escapades de mousson, voyages en groupe, backwaters et stations de montagne. Idéal pour les jeunes voyageurs en quête de calme et d’aventure."
+    },
     heroTitle: "De Goa au Pays de Dieu",
     heroSubtitle: "Un voyage au Kerala pour jeunes explorateurs",
     introTitle: "Pourquoi le Kerala?",
@@ -1327,6 +1327,11 @@ export const fr = {
     termsConditions: "Termes et Conditions",
     copyright: "© 2026 Global Tourist Centre. Tous droits réservés.",
     sitemap: "Plan du site"
+  },
+  // Common
+  common: {
+    notFoundTitle: "Non trouvé",
+    notFoundDescription: "La page ou la ressource demandée n'existe pas.",
   },
   // FAQ
   faq: {
@@ -2442,10 +2447,10 @@ export const fr = {
           }
         },
         language: "fr",
-"metadata": {
-  "title": "Excursion d’une journée à Mumbai depuis Goa — Circuit des incontournables",
-  "description": "Envolez-vous depuis Goa pour une excursion d’une journée à Mumbai incluant les lieux emblématiques tels que la Gateway of India, Marine Drive et les grottes d’Elephanta. Découvrez culture, histoire et vie urbaine !"
-}
+        "metadata": {
+          "title": "Excursion d’une journée à Mumbai depuis Goa — Circuit des incontournables",
+          "description": "Envolez-vous depuis Goa pour une excursion d’une journée à Mumbai incluant les lieux emblématiques tels que la Gateway of India, Marine Drive et les grottes d’Elephanta. Découvrez culture, histoire et vie urbaine !"
+        }
 
       },
       cta: {

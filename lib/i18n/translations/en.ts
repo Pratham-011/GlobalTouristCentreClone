@@ -894,7 +894,7 @@ export const en = {
     title: "Our Premium Services",
     subtitle:
       "Comprehensive travel services tailored to your needs. From planning to execution.",
-    explore:"",
+    explore: "",
     items: {
       custom: {
         title: "Customized Holidays",
@@ -1347,11 +1347,16 @@ export const en = {
     craftingJourneys: "Crafting unforgettable journeys since 2010",
     termsConditions: "Terms & Conditions",
     copyright: "© 2026 Global Tourist Centre. All rights reserved.",
-    sitemap:"Sitemap"
+    sitemap: "Sitemap"
+  },
+  // Common
+  common: {
+    notFoundTitle: "Not Found",
+    notFoundDescription: "The requested page or resource does not exist.",
   },
   // FAQ
   faq: {
-    q1: "How do I book a tour with Global Tourist Centre?",
+    q1: "How do I book a tour with Global Tourist Fibre?",
     a1: "You can book a tour by contacting us through our website, phone, or email. Our travel consultants will help you plan and book your perfect trip.",
     q2: "What payment methods do you accept?",
     a2: "We accept various payment methods including credit/debit cards, bank transfers, and UPI payments for your convenience.",
@@ -13216,135 +13221,135 @@ export const en = {
         },
       ],
     },
-"kerala-luxury-package": {
-  "file_name": "Kerala-luxury-package.html",
-  "hero_section": {
-    "type": "package-hero",
-    "badge": "Premium Package",
-    "title": "Kerala Luxury Package 4N/5D (Cochin, Alleppey, Munnar)",
-    "location": "Cochin, Munnar, Alleppey – 4N/5D",
-    "cta_text": "Book Now",
-    "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
-    "background_image": "/assets/Luxury/Kerala/hero-backwaters.webp"
-  },
-  "metadata": {
-    "title": "4N/5D Kerala Luxury Trip Package – 30% Off | Global Tourist Centre",
-    "description": "Book your 4N/5D Kerala luxury trip package at a 30% discount with Global Tourist Centre. Enjoy over-water villas, private back-water cruises, hill-station views, personalised service and opulent stays in God’s Own Country."
-  },
-  "itinerary": {
-    "title": "Journey into God’s Own Country",
-    "days": [
-      {
-        "day_title": "Day 01: Arrival in Cochin (1 Night)",
-        "location": "Cochin",
-        "description": "Arrive at Cochin International Airport. Private luxury transfer to your 5★ hotel. Afternoon sightseeing in Cochin including Fort Kochi, Mattancherry Palace (Dutch Palace), Jewish Synagogue, St. Francis Church, and Chinese Fishing Nets.",
-        "activities": [
-          "Evening: Kathakali dance show / Luxury dinner cruise",
-          "Overnight in Cochin (5★ Hotel/Resort)"
+    "kerala-luxury-package": {
+      "file_name": "Kerala-luxury-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium Package",
+        "title": "Kerala Luxury Package 4N/5D (Cochin, Alleppey, Munnar)",
+        "location": "Cochin, Munnar, Alleppey – 4N/5D",
+        "cta_text": "Book Now",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Kerala/hero-backwaters.webp"
+      },
+      "metadata": {
+        "title": "4N/5D Kerala Luxury Trip Package – 30% Off | Global Tourist Centre",
+        "description": "Book your 4N/5D Kerala luxury trip package at a 30% discount with Global Tourist Centre. Enjoy over-water villas, private back-water cruises, hill-station views, personalised service and opulent stays in God’s Own Country."
+      },
+      "itinerary": {
+        "title": "Journey into God’s Own Country",
+        "days": [
+          {
+            "day_title": "Day 01: Arrival in Cochin (1 Night)",
+            "location": "Cochin",
+            "description": "Arrive at Cochin International Airport. Private luxury transfer to your 5★ hotel. Afternoon sightseeing in Cochin including Fort Kochi, Mattancherry Palace (Dutch Palace), Jewish Synagogue, St. Francis Church, and Chinese Fishing Nets.",
+            "activities": [
+              "Evening: Kathakali dance show / Luxury dinner cruise",
+              "Overnight in Cochin (5★ Hotel/Resort)"
+            ]
+          },
+          {
+            "day_title": "Day 02: Cochin → Munnar (Approx. 4.5 hrs drive) (2 Nights)",
+            "location": "Munnar",
+            "description": "Breakfast at the hotel. Drive to Munnar with scenic views of tea plantations, waterfalls, and lush greenery. Check-in at a luxury hill resort. Evening leisure at the resort with spa/ayurveda session.",
+            "activities": [
+              "Luxury spa or ayurvedic treatment",
+              "Overnight in Munnar (5★ Luxury Resort)"
+            ]
+          },
+          {
+            "day_title": "Day 03: Munnar Sightseeing",
+            "location": "Munnar",
+            "description": "After breakfast, full-day Munnar sightseeing: Eravikulam National Park (Nilgiri Tahr habitat), Tea Museum and plantations, Mattupetty Dam, Echo Point, and Kundala Lake (Boating experience).",
+            "activities": [
+              "Boating experience at Kundala Lake",
+              "Evening shopping (tea, spices, artisanal chocolates)",
+              "Overnight in Munnar"
+            ]
+          },
+          {
+            "day_title": "Day 04: Munnar → Alleppey (Luxury Houseboat – 1 Night)",
+            "location": "Alleppey",
+            "description": "After breakfast, drive to Alleppey (approx. 5 hrs). Check-in to a private luxury houseboat. Cruise through the picturesque backwaters passing villages, paddy fields, and coconut lagoons. Traditional Kerala lunch and dinner served onboard.",
+            "activities": [
+              "Sunset view from the houseboat deck",
+              "Overnight on luxury houseboat"
+            ]
+          },
+          {
+            "day_title": "Day 05: Departure from Alleppey to Cochin",
+            "location": "Departure",
+            "description": "Breakfast onboard. Check-out and return transfer to Cochin Airport or Railway Station with cherished memories of Kerala.",
+            "activities": []
+          }
         ]
       },
-      {
-        "day_title": "Day 02: Cochin → Munnar (Approx. 4.5 hrs drive) (2 Nights)",
-        "location": "Munnar",
-        "description": "Breakfast at the hotel. Drive to Munnar with scenic views of tea plantations, waterfalls, and lush greenery. Check-in at a luxury hill resort. Evening leisure at the resort with spa/ayurveda session.",
-        "activities": [
-          "Luxury spa or ayurvedic treatment",
-          "Overnight in Munnar (5★ Luxury Resort)"
-        ]
-      },
-      {
-        "day_title": "Day 03: Munnar Sightseeing",
-        "location": "Munnar",
-        "description": "After breakfast, full-day Munnar sightseeing: Eravikulam National Park (Nilgiri Tahr habitat), Tea Museum and plantations, Mattupetty Dam, Echo Point, and Kundala Lake (Boating experience).",
-        "activities": [
-          "Boating experience at Kundala Lake",
-          "Evening shopping (tea, spices, artisanal chocolates)",
-          "Overnight in Munnar"
-        ]
-      },
-      {
-        "day_title": "Day 04: Munnar → Alleppey (Luxury Houseboat – 1 Night)",
-        "location": "Alleppey",
-        "description": "After breakfast, drive to Alleppey (approx. 5 hrs). Check-in to a private luxury houseboat. Cruise through the picturesque backwaters passing villages, paddy fields, and coconut lagoons. Traditional Kerala lunch and dinner served onboard.",
-        "activities": [
-          "Sunset view from the houseboat deck",
-          "Overnight on luxury houseboat"
-        ]
-      },
-      {
-        "day_title": "Day 05: Departure from Alleppey to Cochin",
-        "location": "Departure",
-        "description": "Breakfast onboard. Check-out and return transfer to Cochin Airport or Railway Station with cherished memories of Kerala.",
-        "activities": []
-      }
-    ]
-  },
-  "accommodations": [
-    {
-      "image": {
-        "src": "/assets/Luxury/Kerala/forte-kochi.webp",
-        "alt": "Forte Kochi - Historic Boutique Luxury Hotel"
-      },
-      "name": "Forte Kochi",
-      "location": "Kochi, India",
-      "description": "A heritage boutique luxury hotel offering elegant colonial-style stays with contemporary comforts in the heart of Fort Kochi.",
-      "rating": 5
-    },
-    {
-      "image": {
-        "src": "/assets/Luxury/Kerala/hotel-amber-dale.webp",
-        "alt": "Hotel Amber Dale"
-      },
-      "name": "Hotel Amber Dale",
-      "location": "Munnar, India",
-      "description": "A premium hill resort with breathtaking tea plantation views, wellness facilities, and refined luxury experiences.",
-      "rating": 5
-    },
-    {
-      "image": {
-        "src": "/assets/Luxury/Kerala/southern-panorama-cruise.webp",
-        "alt": "Southern Panorama Cruise Luxury"
-      },
-      "name": "Southern Panorama Cruise Luxury",
-      "location": "Alleppey, India",
-      "description": "A high-end luxury houseboat offering premium amenities, traditional Kerala cuisine and panoramic views of the serene backwaters.",
-      "rating": 5
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/forte-kochi.webp",
+            "alt": "Forte Kochi - Historic Boutique Luxury Hotel"
+          },
+          "name": "Forte Kochi",
+          "location": "Kochi, India",
+          "description": "A heritage boutique luxury hotel offering elegant colonial-style stays with contemporary comforts in the heart of Fort Kochi.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/hotel-amber-dale.webp",
+            "alt": "Hotel Amber Dale"
+          },
+          "name": "Hotel Amber Dale",
+          "location": "Munnar, India",
+          "description": "A premium hill resort with breathtaking tea plantation views, wellness facilities, and refined luxury experiences.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/southern-panorama-cruise.webp",
+            "alt": "Southern Panorama Cruise Luxury"
+          },
+          "name": "Southern Panorama Cruise Luxury",
+          "location": "Alleppey, India",
+          "description": "A high-end luxury houseboat offering premium amenities, traditional Kerala cuisine and panoramic views of the serene backwaters.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxury Accommodation",
+          "description": "1 Night in Cochin (5★ Hotel/Resort), 2 Nights in Munnar (Hill Luxury Resort), 1 Night in Alleppey (Private Luxury Houseboat)"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet Dining",
+          "description": "Daily breakfast + all meals on the houseboat"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Private AC luxury vehicle for transfers and sightseeing"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professional Services",
+          "description": "Driver/Guide support, parking fees, tolls and taxes included"
+        },
+        {
+          "icon": "fas fa-ticket-alt",
+          "title": "Experiences & Activities",
+          "description": "Kathakali show or Dinner cruise, 1 spa/ayurveda session, Kundala Lake boating"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Taxes & Assistance",
+          "description": "All tolls, parking, applicable taxes and 24/7 assistance"
+        }
+      ]
     }
-  ],
-  "inclusions": [
-    {
-      "icon": "fas fa-hotel",
-      "title": "Luxury Accommodation",
-      "description": "1 Night in Cochin (5★ Hotel/Resort), 2 Nights in Munnar (Hill Luxury Resort), 1 Night in Alleppey (Private Luxury Houseboat)"
-    },
-    {
-      "icon": "fas fa-utensils",
-      "title": "Gourmet Dining",
-      "description": "Daily breakfast + all meals on the houseboat"
-    },
-    {
-      "icon": "fas fa-car",
-      "title": "Private Transfers",
-      "description": "Private AC luxury vehicle for transfers and sightseeing"
-    },
-    {
-      "icon": "fas fa-user-tie",
-      "title": "Professional Services",
-      "description": "Driver/Guide support, parking fees, tolls and taxes included"
-    },
-    {
-      "icon": "fas fa-ticket-alt",
-      "title": "Experiences & Activities",
-      "description": "Kathakali show or Dinner cruise, 1 spa/ayurveda session, Kundala Lake boating"
-    },
-    {
-      "icon": "fas fa-shield-alt",
-      "title": "Taxes & Assistance",
-      "description": "All tolls, parking, applicable taxes and 24/7 assistance"
-    }
-  ]
-}
-,
+    ,
     "mumbai-luxury-package": {
       file_name: "mumbai-luxury-package.html",
       hero_section: {

@@ -12,8 +12,10 @@ import { SectionTitle } from "@/components-eng/SectionTitle";
    DATA MODEL
 ----------------------------------------- */
 
+import type { HomeItemKey } from "@/lib/i18n/translations/index";
+
 type TravelCollection = {
-  id: string;
+  id: HomeItemKey;
   href: string;
   imageUrl: string;
 };

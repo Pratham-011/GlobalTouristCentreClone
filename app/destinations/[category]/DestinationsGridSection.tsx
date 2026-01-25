@@ -24,6 +24,9 @@ const SUBTITLE_KEY_BY_SLUG = {
   "day-trips": "dayTripsSubtitle",
 } as const;
 
+
+
+
 export function DestinationsGridSection({ slug, items }: Props) {
   const { locale, t } = useI18n();
   const filters = FILTERS_BY_SLUG[slug];
@@ -34,6 +37,7 @@ export function DestinationsGridSection({ slug, items }: Props) {
   useEffect(() => {
     setActiveFilter("all");
   }, [slug]);
+  
 
   const filteredItems = useMemo(() => {
     if (!filters || activeFilter === "all") return items;

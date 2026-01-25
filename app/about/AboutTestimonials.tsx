@@ -5,6 +5,8 @@ import { useI18n } from "@/lib/i18n/context";
 import { reviews } from "./about";
 import { Button } from "@/components-eng/ui/button";
 import { cn } from "@/lib/utils"; // Ensure you have this utility or remove if not needed
+import Autoplay from "embla-carousel-autoplay";
+
 
 // 1. Import Shadcn Pagination components
 import {
@@ -22,7 +24,6 @@ import {
   type CarouselApi,
 } from "@/components-eng/ui/carousel";
 
-import Autoplay from "embla-carousel-autoplay";
 import { useRef, useState, useEffect } from "react";
 
 export function AboutTestimonials() {

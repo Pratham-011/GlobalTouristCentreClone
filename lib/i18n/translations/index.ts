@@ -22,6 +22,7 @@ export interface TranslationKeys extends Omit<RawTranslationKeys, "tourData"> {
 
 export type ExperienceId = keyof typeof translations.en.experiences.items;
 export type CollectionId = keyof typeof translations.en.collections.items;
+export type HomeItemKey = keyof typeof translations.en.home.items;
 
 /* ✅ NEW — tour slug typing */
 export type TripId = keyof RawTranslationKeys["trips"];

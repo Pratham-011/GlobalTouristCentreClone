@@ -52,28 +52,35 @@ export function ContactForm() {
         </h3>
 
         <form onSubmit={handleSubmit} className="space-y-6">
-          <InputWithIcon
-            icon={User}
-            placeholder={t.form.name + "*"}
-            value={form.name}
-            onChange={(e) => setForm({ ...form, name: e.target.value })}
-          />
+<InputWithIcon
+  icon={User}
+  placeholder={t.form.name + "*"}
+  value={form.name}
+  onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+    setForm({ ...form, name: e.target.value })
+  }
+/>
 
-          <InputWithIcon
-            icon={Mail}
-            placeholder={t.form.email + "*"}
-            type="email"
-            value={form.email}
-            onChange={(e) => setForm({ ...form, email: e.target.value })}
-          />
+<InputWithIcon
+  icon={Mail}
+  placeholder={t.form.email + "*"}
+  type="email"
+  value={form.email}
+  onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+    setForm({ ...form, email: e.target.value })
+  }
+/>
 
-          <InputWithIcon
-            icon={Phone}
-            placeholder={t.form.phone + "*"}
-            type="tel"
-            value={form.phone}
-            onChange={(e) => setForm({ ...form, phone: e.target.value })}
-          />
+<InputWithIcon
+  icon={Phone}
+  placeholder={t.form.phone + "*"}
+  type="tel"
+  value={form.phone}
+  onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+    setForm({ ...form, phone: e.target.value })
+  }
+/>
+
 
           <Select
             onValueChange={(value) => setForm({ ...form, subject: value })}
