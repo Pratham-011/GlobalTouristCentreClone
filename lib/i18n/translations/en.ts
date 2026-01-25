@@ -922,36 +922,64 @@ export const en = {
     },
   },
   // Testimonials
-  testimonials: {
-    title: "Traveler Testimonials",
-    subtitle:
-      "See what our clients have to say about their experiences with Global Tourist Centre.",
-    whatTravelersSay: "What Our Travelers Say",
-    hearFromCustomers:
-      "Hear from our happy customers about their experiences with us.",
-    viewAllReviews: "View All Reviews on Google",
-    readMore: "Read more",
-    photos: "photos",
-    monthsAgo: "months ago",
-    weeksAgo: "weeks ago",
-    items: [
-      {
-        name: "Anshika Malik",
-        location: "Kerala · 10 days with family",
-        text: "I recently went on a trip with my husband to Kerala for 7 days. Global Tourist Centre planned everything so well that we didn’t face a single problem throughout the trip!",
+testimonials: {
+  title: "Traveler Testimonials",
+  subtitle:
+    "See what our clients have to say about their experiences with Global Tourist Centre.",
+  whatTravelersSay: "What Our Travelers Say",
+  hearFromCustomers:
+    "Hear from our happy customers about their experiences with us.",
+  viewAllReviews: "View All Reviews on Google",
+  readMore: "Read more",
+
+  // Accessibility / navigation labels
+  prev: "Previous testimonial",
+  next: "Next testimonial",
+
+  // Time-related labels
+  photos: "photos",
+  monthsAgo: "months ago",
+  weeksAgo: "weeks ago",
+
+  items: [
+    {
+      name: "Anshika Malik",
+      location: "Kerala · 10 days with family",
+      text:
+        "I recently went on a trip with my husband to Kerala for 7 days. Global Tourist Centre planned everything so well that we didn’t face a single problem throughout the trip!",
+      rating: 5,
+      photosCount: 12,
+      timeAgo: {
+        value: 3,
+        unit: "months",
       },
-      {
-        name: "Vishal Yadav",
-        location: "Dubai · 5-day honeymoon",
-        text: "Amazing experience! The team at Global Tourist Centre made our honeymoon absolutely perfect. Every detail was taken care of, and we could simply enjoy ourselves.",
+    },
+    {
+      name: "Vishal Yadav",
+      location: "Dubai · 5-day honeymoon",
+      text:
+        "Amazing experience! The team at Global Tourist Centre made our honeymoon absolutely perfect. Every detail was taken care of, and we could simply enjoy ourselves.",
+      rating: 5,
+      photosCount: 8,
+      timeAgo: {
+        value: 5,
+        unit: "weeks",
       },
-      {
-        name: "Priya Sharma",
-        location: "Goa · Weekend getaway",
-        text: "Best travel agency ever! They arranged everything from flights to hotels to local tours. The attention to detail was truly impressive.",
+    },
+    {
+      name: "Priya Sharma",
+      location: "Goa · Weekend getaway",
+      text:
+        "Best travel agency ever! They arranged everything from flights to hotels to local tours. The attention to detail was truly impressive.",
+      rating: 4.8,
+      photosCount: 6,
+      timeAgo: {
+        value: 2,
+        unit: "months",
       },
-    ],
-  },
+    },
+  ],
+},
   // Travel Memories
   memories: {
     title: "Travel Memories",

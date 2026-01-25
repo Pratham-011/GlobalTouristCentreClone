@@ -912,34 +912,62 @@ export const fr = {
     },
   },
   // Testimonials
-  testimonials: {
-    title: "Témoignages des Voyageurs",
-    subtitle: "Découvrez ce que nos clients disent de leurs expériences.",
-    whatTravelersSay: "Ce Que Disent Nos Voyageurs",
-    hearFromCustomers: "Écoutez nos clients satisfaits.",
-    viewAllReviews: "Voir Tous les Avis sur Google",
-    readMore: "Lire la suite",
-    photos: "photos",
-    monthsAgo: "mois",
-    weeksAgo: "semaines",
-    items: [
-      {
-        name: "Anshika Malik",
-        location: "Kerala · 10 jours en famille",
-        text: "Je suis récemment partie en voyage au Kerala avec mon mari pendant 7 jours. Global Tourist Centre a tout organisé parfaitement, nous n’avons rencontré aucun problème durant le séjour.",
+testimonials: {
+  title: "Témoignages de voyageurs",
+  subtitle:
+    "Découvrez ce que nos clients disent de leur expérience avec Global Tourist Centre.",
+  whatTravelersSay: "Ce que disent nos voyageurs",
+  hearFromCustomers:
+    "Les témoignages de nos clients satisfaits.",
+  viewAllReviews: "Voir tous les avis sur Google",
+  readMore: "Lire la suite",
+
+  prev: "Témoignage précédent",
+  next: "Témoignage suivant",
+
+  photos: "photos",
+  monthsAgo: "mois auparavant",
+  weeksAgo: "semaines auparavant",
+
+  items: [
+    {
+      name: "Anshika Malik",
+      location: "Kerala · 10 jours en famille",
+      text:
+        "Je suis récemment partie au Kerala avec mon mari pendant 7 jours. Global Tourist Centre a tout organisé parfaitement, sans aucun souci pendant le voyage !",
+      rating: 5,
+      photosCount: 12,
+      timeAgo: {
+        value: 3,
+        unit: "months",
       },
-      {
-        name: "Vishal Yadav",
-        location: "Dubaï · Voyage de noces de 5 jours",
-        text: "Une expérience incroyable ! L’équipe de Global Tourist Centre a rendu notre lune de miel absolument parfaite. Tout était pris en charge, nous avons pu profiter pleinement.",
+    },
+    {
+      name: "Vishal Yadav",
+      location: "Dubaï · lune de miel de 5 jours",
+      text:
+        "Une expérience incroyable ! L’équipe de Global Tourist Centre a rendu notre lune de miel absolument parfaite. Tout était pris en charge.",
+      rating: 5,
+      photosCount: 8,
+      timeAgo: {
+        value: 5,
+        unit: "weeks",
       },
-      {
-        name: "Priya Sharma",
-        location: "Goa · Escapade de week-end",
-        text: "La meilleure agence de voyage ! Ils ont tout organisé, des vols aux hôtels en passant par les excursions locales. Une attention aux détails remarquable.",
+    },
+    {
+      name: "Priya Sharma",
+      location: "Goa · escapade de week-end",
+      text:
+        "La meilleure agence de voyage ! Ils ont tout organisé — vols, hôtels et visites locales. Une attention aux détails remarquable.",
+      rating: 4.8,
+      photosCount: 6,
+      timeAgo: {
+        value: 2,
+        unit: "months",
       },
-    ],
-  },
+    },
+  ],
+},
   // Travel Memories
   memories: {
     title: "Souvenirs de Voyage",

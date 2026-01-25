@@ -914,34 +914,62 @@ export const de = {
     },
   },
   // Testimonials
-  testimonials: {
-    title: "Reisende-Bewertungen",
-    subtitle: "Erfahren Sie, was unsere Kunden über ihre Erlebnisse sagen.",
-    whatTravelersSay: "Was Unsere Reisenden Sagen",
-    hearFromCustomers: "Hören Sie von unseren zufriedenen Kunden.",
-    viewAllReviews: "Alle Bewertungen auf Google",
-    readMore: "Mehr lesen",
-    photos: "Fotos",
-    monthsAgo: "Monate",
-    weeksAgo: "Wochen",
-    items: [
-      {
-        name: "Anshika Malik",
-        location: "Kerala · 10 Tage mit der Familie",
-        text: "Ich war kürzlich mit meinem Mann 7 Tage in Kerala. Global Tourist Centre hat alles so gut organisiert, dass wir während der gesamten Reise keinerlei Probleme hatten.",
+testimonials: {
+  title: "Erfahrungsberichte von Reisenden",
+  subtitle:
+    "Lesen Sie, was unsere Kunden über ihre Erfahrungen mit Global Tourist Centre sagen.",
+  whatTravelersSay: "Was unsere Reisenden sagen",
+  hearFromCustomers:
+    "Erfahrungen unserer zufriedenen Kunden mit uns.",
+  viewAllReviews: "Alle Bewertungen auf Google ansehen",
+  readMore: "Mehr lesen",
+
+  prev: "Vorherige Bewertung",
+  next: "Nächste Bewertung",
+
+  photos: "Fotos",
+  monthsAgo: "Monate zuvor",
+  weeksAgo: "Wochen zuvor",
+
+  items: [
+    {
+      name: "Anshika Malik",
+      location: "Kerala · 10 Tage mit Familie",
+      text:
+        "Ich war kürzlich mit meinem Mann 7 Tage in Kerala. Global Tourist Centre hat alles so perfekt organisiert, dass wir während der gesamten Reise keinerlei Probleme hatten!",
+      rating: 5,
+      photosCount: 12,
+      timeAgo: {
+        value: 3,
+        unit: "months",
       },
-      {
-        name: "Vishal Yadav",
-        location: "Dubai · 5-tägige Hochzeitsreise",
-        text: "Ein unglaubliches Erlebnis! Das Team von Global Tourist Centre hat unsere Flitterwochen perfekt gemacht. Jedes Detail wurde berücksichtigt.",
+    },
+    {
+      name: "Vishal Yadav",
+      location: "Dubai · 5-tägige Hochzeitsreise",
+      text:
+        "Ein unglaubliches Erlebnis! Das Team von Global Tourist Centre hat unsere Hochzeitsreise perfekt gemacht. Jedes Detail wurde berücksichtigt.",
+      rating: 5,
+      photosCount: 8,
+      timeAgo: {
+        value: 5,
+        unit: "weeks",
       },
-      {
-        name: "Priya Sharma",
-        location: "Goa · Wochenendausflug",
-        text: "Die beste Reiseagentur überhaupt! Von Flügen über Hotels bis hin zu lokalen Touren wurde alles perfekt organisiert. Die Liebe zum Detail war beeindruckend.",
+    },
+    {
+      name: "Priya Sharma",
+      location: "Goa · Wochenendausflug",
+      text:
+        "Die beste Reiseagentur überhaupt! Sie haben alles organisiert – Flüge, Hotels und lokale Touren. Die Liebe zum Detail war beeindruckend.",
+      rating: 4.8,
+      photosCount: 6,
+      timeAgo: {
+        value: 2,
+        unit: "months",
       },
-    ],
-  },
+    },
+  ],
+},
   // Travel Memories
   memories: {
     title: "Reiseerinnerungen",

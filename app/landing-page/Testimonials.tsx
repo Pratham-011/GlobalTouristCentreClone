@@ -19,7 +19,8 @@ const Testimonials = () => {
 
   const [activeIndex, setActiveIndex] = useState(0);
 
-  if (!testimonials || testimonials.length === 0) return null;
+  if (!testimonials || (testimonials as unknown as any[]).length < 1) return null;
+
 
   const count = testimonials.length;
   const active = testimonials[activeIndex];
