@@ -30,48 +30,69 @@ export const it = {
     brandname: "Global Tourist Centre",
     brandtagline: "Luxury Travel Experiences",
     home: {
-      title: "Agenzia di viaggi N.1 in India per viaggi nazionali e internazionali a Goa | GTC",
-      description: "Pianifica la tua vacanza perfetta con GTC – l'agenzia di viaggi N.1 di Goa. Dai tour nazionali alle vacanze globali, offriamo pacchetti personalizzati, prenotazioni aeree e ferroviarie e supporto esperto.",
+      title:
+        "Agenzia di viaggi N.1 in India per viaggi nazionali e internazionali a Goa | GTC",
+      description:
+        "Pianifica la tua vacanza perfetta con GTC – l'agenzia di viaggi N.1 di Goa. Dai tour nazionali alle vacanze globali, offriamo pacchetti personalizzati, prenotazioni aeree e ferroviarie e supporto esperto.",
     },
     about: {
-      title: "Chi siamo – Agenzia di viaggi con sede a Goa | Global Tourist Centre",
-      description: "Global Tourist Centre, un'agenzia di viaggi di fiducia fondata a Goa nel 2010. Trasformiamo i vostri sogni in esperienze di viaggio nazionali e internazionali indimenticabili con passione e competenza.",
+      title:
+        "Chi siamo – Agenzia di viaggi con sede a Goa | Global Tourist Centre",
+      description:
+        "Global Tourist Centre, un'agenzia di viaggi di fiducia fondata a Goa nel 2010. Trasformiamo i vostri sogni in esperienze di viaggio nazionali e internazionali indimenticabili con passione e competenza.",
     },
     contact: {
-      title: "Contatta Global Tourist Centre – Prenota il tuo pacchetto viaggio personalizzato",
-      description: "Mettiti in contatto con Global Tourist Centre — il partner di viaggio di fiducia di Goa Sud con oltre 25 anni di esperienza. Chiama, invia un'e-mail o compila il modulo per iniziare a creare il tuo tour personalizzato.",
+      title:
+        "Contatta Global Tourist Centre – Prenota il tuo pacchetto viaggio personalizzato",
+      description:
+        "Mettiti in contatto con Global Tourist Centre — il partner di viaggio di fiducia di Goa Sud con oltre 25 anni di esperienza. Chiama, invia un'e-mail o compila il modulo per iniziare a creare il tuo tour personalizzato.",
     },
     destinations: {
-      title: "Esplora le migliori destinazioni dell’India – Global Tourist Centre",
-      description: "Le mete più rinomate dell’India come Kerala, Goa, Andamane, Rajasthan, Sikkim-Darjeeling, Hampi e altre con Global Tourist Centre."
+      title:
+        "Esplora le migliori destinazioni dell’India – Global Tourist Centre",
+      description:
+        "Le mete più rinomate dell’India come Kerala, Goa, Andamane, Rajasthan, Sikkim-Darjeeling, Hampi e altre con Global Tourist Centre.",
     },
-    "domestic": {
-      "title": "Viaggi domestici in India | Migliori pacchetti India – Global Tourist Centre",
-      "description": "Esplora i migliori viaggi domestici in India con Global Tourist Centre. Pacchetti curati verso destinazioni iconiche come Kerala, Kashmir e Rajasthan — ideali per avventure memorabili, esperienze culturali e paesaggi mozzafiato."
+    domestic: {
+      title:
+        "Viaggi domestici in India | Migliori pacchetti India – Global Tourist Centre",
+      description:
+        "Esplora i migliori viaggi domestici in India con Global Tourist Centre. Pacchetti curati verso destinazioni iconiche come Kerala, Kashmir e Rajasthan — ideali per avventure memorabili, esperienze culturali e paesaggi mozzafiato.",
     },
-    "international": {
-      "title": "Viaggi internazionali & Pacchetti globali | Esplora il mondo – Global Tourist Centre",
-      "description": "Scopri viaggi internazionali indimenticabili con Global Tourist Centre. Pacchetti selezionati verso Turchia, Thailandia, Singapore e altre destinazioni — perfetti per esplorazioni culturali, vacanze al mare, city tour e viaggi di lusso."
+    international: {
+      title:
+        "Viaggi internazionali & Pacchetti globali | Esplora il mondo – Global Tourist Centre",
+      description:
+        "Scopri viaggi internazionali indimenticabili con Global Tourist Centre. Pacchetti selezionati verso Turchia, Thailandia, Singapore e altre destinazioni — perfetti per esplorazioni culturali, vacanze al mare, city tour e viaggi di lusso.",
     },
     "day-trips": {
-      "title": "Escursioni giornaliere – I migliori tour di un giorno per visitatori stranieri",
-      "description": "Esplora le migliori escursioni giornaliere per visitatori internazionali — cascate, fauna, spiagge, templi e cultura. Prenota la tua avventura perfetta di un giorno!"
+      title:
+        "Escursioni giornaliere – I migliori tour di un giorno per visitatori stranieri",
+      description:
+        "Esplora le migliori escursioni giornaliere per visitatori internazionali — cascate, fauna, spiagge, templi e cultura. Prenota la tua avventura perfetta di un giorno!",
     },
     services: {
-      title: "Global Tourist Centre – Servizi: Visti, Hotel e Pacchetti Viaggio",
-      description: "Esplora soluzioni di viaggio su misura con Global Tourist Centre — assistenza visti, prenotazioni alberghiere e pacchetti tour nazionali/internazionali a Goa Sud.",
+      title:
+        "Global Tourist Centre – Servizi: Visti, Hotel e Pacchetti Viaggio",
+      description:
+        "Esplora soluzioni di viaggio su misura con Global Tourist Centre — assistenza visti, prenotazioni alberghiere e pacchetti tour nazionali/internazionali a Goa Sud.",
     },
     blog: {
-      title: "Blog Global Tourist Centre – Storie di viaggio ispiratrici e Guide",
-      description: "Esplora il blog di viaggio di Global Tourist Centre — scopri storie di viaggio ispiratrici, guide alle destinazioni curate e consigli di viaggio dall'India e oltre per alimentare la tua voglia di viaggiare.",
+      title:
+        "Blog Global Tourist Centre – Storie di viaggio ispiratrici e Guide",
+      description:
+        "Esplora il blog di viaggio di Global Tourist Centre — scopri storie di viaggio ispiratrici, guide alle destinazioni curate e consigli di viaggio dall'India e oltre per alimentare la tua voglia di viaggiare.",
     },
     luxuryDestinations: {
-      title: "Tour di Lusso in India | Global Tourist Centre – Suite Premium, Palazzi e Destinazioni Mondiali",
-      description: "Esplora i nostri tour di lusso in India e le fughe premium in tutto il mondo con Global Tourist Centre. Dai palazzi storici alle ville sull'acqua, goditi soggiorni squisiti, trasferimenti privati ed esperienze su misura.",
+      title:
+        "Tour di Lusso in India | Global Tourist Centre – Suite Premium, Palazzi e Destinazioni Mondiali",
+      description:
+        "Esplora i nostri tour di lusso in India e le fughe premium in tutto il mondo con Global Tourist Centre. Dai palazzi storici alle ville sull'acqua, goditi soggiorni squisiti, trasferimenti privati ed esperienze su misura.",
     },
     landingPage: {
       title: "Global Tourist Centre | Esperienze di Viaggio di Lusso",
-      description: "Vivi viaggi indimenticabili con la principale agenzia di viaggi di Goa. Pacchetti tour nazionali e internazionali di lusso, viaggi personalizzati ed esperienze esclusive.",
+      description:
+        "Vivi viaggi indimenticabili con la principale agenzia di viaggi di Goa. Pacchetti tour nazionali e internazionali di lusso, viaggi personalizzati ed esperienze esclusive.",
     },
   },
   // Hero Section
@@ -437,62 +458,592 @@ export const it = {
     groupToursDesc:
       "Tour di gruppo organizzati con guide esperte, perfetti per famiglie e gruppi aziendali.",
   },
-testimonials: {
-  title: "Testimonianze dei viaggiatori",
-  subtitle:
-    "Scopri cosa dicono i nostri clienti delle loro esperienze con Global Tourist Centre.",
-  whatTravelersSay: "Cosa dicono i nostri viaggiatori",
-  hearFromCustomers:
-    "Le esperienze dei nostri clienti soddisfatti.",
-  viewAllReviews: "Visualizza tutte le recensioni su Google",
-  readMore: "Leggi di più",
-
-  prev: "Testimonianza precedente",
-  next: "Testimonianza successiva",
-
-  photos: "foto",
-  monthsAgo: "mesi fa",
-  weeksAgo: "settimane fa",
-
-  items: [
-    {
-      name: "Anshika Malik",
-      location: "Kerala · 10 giorni con la famiglia",
-      text:
-        "Sono stata recentemente in Kerala con mio marito per 7 giorni. Global Tourist Centre ha organizzato tutto alla perfezione, senza alcun problema durante il viaggio!",
-      rating: 5,
-      photosCount: 12,
-      timeAgo: {
-        value: 3,
-        unit: "months",
+  servicePages: {
+    customizeTripPackage: {
+      heroTitle: "Pacchetti Tour Personalizzati",
+      aboutTitle: "Il Tuo Viaggio, a Modo Tuo",
+      aboutDesc:
+        "Crediamo che ogni viaggiatore sia unico e che la tua vacanza debba riflettere il tuo stile personale. I nostri pacchetti tour personalizzati sono progettati in base ai tuoi interessi, al budget e alle preferenze di viaggio. Che tu stia cercando avventura, relax, cultura o un mix di tutto, creeremo un itinerario perfetto per te.",
+      whyChooseTitle: "Perché Scegliere i Tour Personalizzati:",
+      benefit1: "Su misura per i tuoi interessi specifici e il tuo ritmo",
+      benefit2: "Date e durata flessibili",
+      benefit3: "Scelta di alloggi in linea con il tuo stile",
+      benefit4: "Attività ed esperienze personalizzate",
+      benefit5: "Guide locali esperte per esperienze autentiche",
+      benefit6: "Supporto 24/7 durante il viaggio",
+      formTitle: "Crea la Vacanza dei Tuoi Sogni",
+      formDesc:
+        "Raccontaci le tue preferenze di viaggio e progetteremo un itinerario personalizzato solo per te.",
+      formHeader: "Iniziamo",
+      formSubtitle:
+        "Compila i dettagli qui sotto e ti contatteremo entro 24 ore",
+      // Form Specifics
+      travelDates: "Date di Viaggio Preferite",
+      datesPlaceholder: "Date flessibili o specifiche",
+      travelersLabel: "Numero di Viaggiatori*",
+      travelersPlaceholder: "Adulti e bambini",
+      durationLabel: "Durata del Viaggio*",
+      durationPlaceholder: "Seleziona la Durata",
+      duration3to5: "3-5 Giorni",
+      duration6to8: "6-8 Giorni",
+      duration9to12: "9-12 Giorni",
+      duration13plus: "13+ Giorni",
+      budgetLabel: "Budget Approssimativo (a persona)",
+      budgetPlaceholder: "Seleziona la Fascia di Budget",
+      budgetEconomy: "Economy (₹15.000 - ₹30.000)",
+      budgetMid: "Fascia Media (₹30.000 - ₹60.000)",
+      budgetLuxury: "Lusso (₹60.000+)",
+      budgetFlexible: "Flessibile / Non Sicuro",
+      specialLabel: "Requisiti Speciali",
+      specialPlaceholder:
+        "Esigenze alimentari, requisiti di accessibilità, occasioni speciali, ecc.",
+      submitButton: "Ottieni Itinerario Personalizzato",
+      privacyNote:
+        "Rispettiamo la tua privacy. Le tue informazioni non verranno condivise.",
+      // FAQ
+      faqTitle: "FAQ sui Tour Personalizzati",
+      faqSubtitle:
+        "Risposte alle domande più comuni sui nostri pacchetti tour personalizzati.",
+      faq1Question:
+        "Progettate tour per famiglie, gruppi o viaggiatori singoli?",
+      faq1Answer:
+        "Progettiamo tour per tutti: famiglie, gruppi di amici e viaggiatori singoli. Che si tratti di una vacanza rilassante, di un viaggio in solitaria o di un’esperienza dinamica e spontanea, rendiamo ogni itinerario davvero su misura.",
+      faq2Question: "Cosa è incluso in un pacchetto personalizzato?",
+      faq2Answer:
+        "Riceverai un itinerario progettato in base a ciò che conta per te. Include destinazioni, alloggi, trasferimenti comodi e senza intoppi, guide locali e attività in linea con i tuoi interessi. Ci occupiamo noi di ogni dettaglio, così potrai concentrarti solo sul piacere del viaggio.",
+      faq3Question:
+        "Quanto tempo è necessario per progettare un viaggio personalizzato?",
+      faq3Answer:
+        "Puntiamo a rendere la pianificazione semplice e puntuale. Un nostro consulente ti contatterà per approfondire le tue esigenze, quindi creeremo una proposta preliminare per la tua revisione. Potrai richiedere modifiche finché l’itinerario non rispecchierà perfettamente le tue aspettative. Una volta finalizzato, gestiremo tutte le prenotazioni e ti forniremo la documentazione di viaggio completa.",
+      faq4Question:
+        "Posso modificare un pacchetto standard invece di crearne uno nuovo?",
+      faq4Answer:
+        "Certamente. Il servizio di pianificazione dell’itinerario è gratuito se prenoti il tour con noi. Tuttavia, per itinerari complessi che richiedono una ricerca approfondita, potrebbe essere applicata una tariffa di pianificazione nominale, interamente detraibile dall’importo finale della prenotazione.",
+      metadata: {
+        title: "Pacchetti Tour Personalizzati - Global Tourist Centre",
+        description:
+          "Esperienze di viaggio su misura progettate specificamente in base alle tue preferenze ed esigenze.",
       },
     },
-    {
-      name: "Vishal Yadav",
-      location: "Dubai · luna di miele di 5 giorni",
-      text:
-        "Un’esperienza fantastica! Il team di Global Tourist Centre ha reso la nostra luna di miele perfetta. Ogni dettaglio era curato.",
-      rating: 5,
-      photosCount: 8,
-      timeAgo: {
-        value: 5,
-        unit: "weeks",
+    visaAgent: {
+      heroTitle: "Servizi Visti e Documentazione",
+      aboutTitle: "Semplifica il Processo di Visto",
+      aboutDesc:
+        "Gestire i requisiti per il visto può essere complesso e richiedere molto tempo. Il nostro servizio di assistenza visti elimina lo stress dalla documentazione per i viaggi internazionali. Ci occupiamo di tutto, dalla compilazione delle domande alla verifica dei documenti, garantendo un processo fluido e di successo.",
+      servicesTitle: "I Nostri Servizi per i Visti Includono:",
+      service1: "Consulenza completa per visti di tutti i Paesi",
+      service2: "Checklist documentale e supporto nella preparazione",
+      service3: "Compilazione e invio delle domande di visto",
+      service4: "Prenotazione appuntamenti con ambasciate e consolati",
+      service5: "Follow-up e monitoraggio dello stato della pratica",
+      service6: "Procedura accelerata per richieste urgenti",
+      processTitle: "Processo di Richiesta del Visto",
+      processDesc:
+        "Il nostro processo strutturato garantisce che la tua domanda di visto sia gestita in modo professionale.",
+      step1Title: "Fase 1: Consulenza",
+      step1Desc:
+        "Valutiamo i tuoi piani di viaggio e forniamo informazioni dettagliate sui requisiti del visto, sui tempi di elaborazione e sui costi per la tua destinazione.",
+      step2Title: "Fase 2: Preparazione dei Documenti",
+      step2Desc:
+        "I nostri esperti ti guidano nella raccolta di tutti i documenti necessari, inclusi passaporto, fotografie, prove finanziarie e lettere di supporto.",
+      step3Title: "Fase 3: Invio della Domanda",
+      step3Desc:
+        "Compiliamo accuratamente tutti i moduli, fissiamo gli appuntamenti e presentiamo la domanda al consolato o all’ambasciata competente.",
+      step4Title: "Fase 4: Tracciamento e Ritiro",
+      step4Desc:
+        "Monitoriamo lo stato della tua domanda e ti teniamo aggiornato. Una volta approvata, coordiniamo il ritiro e la consegna del passaporto.",
+      // Form Specifics
+      formTitle: "Richiedi Assistenza per il Visto",
+      formDesc:
+        "Compila questo modulo e i nostri esperti visti ti contatteranno entro 24 ore.",
+      fullNameLabel: "Nome Completo*",
+      fullNamePlaceholder: "Il tuo nome completo",
+      emailLabel: "Email*",
+      emailPlaceholder: "Il tuo indirizzo email",
+      phoneLabel: "Numero di Telefono*",
+      phonePlaceholder: "Numero di telefono",
+      destinationLabel: "Paese di Destinazione*",
+      destinationPlaceholder: "Seleziona il Paese",
+      visaTypeLabel: "Tipo di Visto*",
+      visaTypePlaceholder: "Seleziona il Tipo di Visto",
+      travelDateLabel: "Data di Viaggio Prevista*",
+      notesLabel: "Note Aggiuntive",
+      notesPlaceholder: "Eventuali requisiti o note speciali",
+      submitButton: "Invia Richiesta di Visto",
+      privacyNote:
+        "Rispettiamo la tua privacy. Le tue informazioni non verranno condivise.",
+      // FAQ
+      faqTitle: "FAQ sui Visti",
+      faqDesc: "Domande frequenti sui nostri servizi di assistenza visti.",
+      faq1Question: "Fornite assistenza sia per visti turistici che business?",
+      faq1Answer:
+        "Sì, offriamo supporto completo sia per visti turistici che per visti business. Ti guidiamo nella compilazione dei moduli, nella preparazione della documentazione corretta e nel rispetto di tutti i requisiti.",
+      faq2Question:
+        "Quando dovrei iniziare la procedura per il visto prima della data di viaggio?",
+      faq2Answer:
+        "È consigliabile iniziare almeno alcune settimane prima. Alcuni Paesi hanno tempi di elaborazione rapidi, altri più lunghi. Muoversi in anticipo aiuta a evitare stress inutili.",
+      faq3Question:
+        "Vi occupate della prenotazione degli appuntamenti per i colloqui?",
+      faq3Answer:
+        "Ti aiutiamo a capire dove andare e come prenotare. Gli slot sono gestiti da ambasciate e consolati, e noi ti supportiamo nella preparazione e nella documentazione richiesta.",
+      faq4Question:
+        "Posso estendere il mio soggiorno all’estero se il visto consente più giorni?",
+      faq4Answer:
+        "Dipende dalle normative del Paese di destinazione. Alcuni Stati consentono l’estensione se il visto lo permette o se si presenta una richiesta di proroga a livello locale.",
+      metadata: {
+        title: "Visti e Documentazione - Global Tourist Centre",
+        description:
+          "Servizi completi di assistenza visti e documentazione per viaggi internazionali senza stress.",
       },
     },
-    {
-      name: "Priya Sharma",
-      location: "Goa · fuga di un weekend",
-      text:
-        "La migliore agenzia di viaggi! Hanno organizzato tutto, dai voli agli hotel fino alle escursioni locali. Un’attenzione ai dettagli incredibile.",
-      rating: 4.8,
-      photosCount: 6,
-      timeAgo: {
-        value: 2,
-        unit: "months",
+    hotelBooking: {
+      heroTitle: "Hotel Booking Services",
+      aboutTitle: "Find Your Perfect Stay",
+      aboutDesc:
+        "We partner with trusted hotels worldwide to deliver reliable, cost-effective accommodation solutions. From budget stays to premium luxury resorts, we match your travel objectives with the right property, location, and amenities. Our curated network and negotiation leverage ensure value without compromise.",
+      whyBookTitle: "Why Book With Us:",
+      benefit1: "Access to exclusive rates and negotiated partner pricing",
+      benefit2: "Verified properties with quality assurance checks",
+      benefit3: "24/7 customer support before, during, and after your stay",
+      benefit4: "Flexible modification and cancellation options",
+      benefit5: "Bundled packages with flights, transfers, and activities",
+      benefit6: "Personalized recommendations based on travel intent",
+
+      processTitle: "Our Hotel Booking Process",
+      processDesc:
+        "Our streamlined booking workflow ensures clarity, speed, and zero guesswork from inquiry to check-out.",
+      step1Title: "Step 1: Requirement Analysis",
+      step1Desc:
+        "We evaluate your destination, travel dates, budget range, and preferences such as location, hotel category, and amenities.",
+      step2Title: "Step 2: Shortlisting Options",
+      step2Desc:
+        "Our team curates the best available hotel options, balancing price, reviews, location, and value-added benefits.",
+      step3Title: "Step 3: Confirmation & Booking",
+      step3Desc:
+        "Once you select a property, we secure the booking, share confirmation details, and clearly outline policies and inclusions.",
+      step4Title: "Step 4: Support During Stay",
+      step4Desc:
+        "From check-in coordination to mid-stay assistance, our support team remains available to resolve any issues quickly.",
+
+      // Form Section
+      formTitle: "Hotel Booking Request",
+      formDesc:
+        "Submit your requirements and our hotel specialists will respond within 24 hours.",
+      formHeader: "Let’s Find Your Ideal Hotel",
+      formSubtitle: "Share your travel details and we’ll handle the rest",
+      yourName: "Your Name*",
+      namePlaceholder: "Full name",
+      email: "Email*",
+      emailPlaceholder: "Your email address",
+      phone: "Phone Number*",
+      phonePlaceholder: "Phone number with country code",
+      destination: "City / Destination*",
+      destinationPlaceholder: "Where do you want to stay?",
+      checkIn: "Check-in Date*",
+      checkOut: "Check-out Date*",
+      guests: "Number of Guests*",
+      guestsPlaceholder: "Adults",
+      rooms: "Number of Rooms*",
+      roomsPlaceholder: "Rooms required",
+      category: "Preferred Hotel Category",
+      categoryPlaceholder: "Any category",
+      budget: "Approximate Budget (per night)",
+      budgetPlaceholder: "Your budget range",
+      message: "Special Requests",
+      messagePlaceholder:
+        "Room preferences, accessibility needs, meal plans, etc.",
+      submit: "Find Hotels",
+      privacyNote:
+        "Your information is kept confidential and used only for booking assistance.",
+
+      // FAQ
+      faqTitle: "Hotel Booking FAQs",
+      faqDesc: "Frequently asked questions about our hotel booking services.",
+      faq1Question:
+        "Do you offer both domestic and international hotel bookings?",
+      faq1Answer:
+        "Yes. We handle hotel bookings across India and internationally, covering budget, mid-range, boutique, and luxury properties.",
+      faq2Question:
+        "Can hotels be booked as part of a complete travel package?",
+      faq2Answer:
+        "Absolutely. Hotels can be booked standalone or bundled with flights, transfers, sightseeing, and visas for a seamless experience.",
+      faq3Question: "Can I modify or cancel my hotel booking?",
+      faq3Answer:
+        "Policies depend on the hotel and rate selected. Most standard bookings allow free modification or cancellation up to 24–48 hours before check-in. All terms are shared transparently before confirmation.",
+      faq4Question: "Can I book multiple hotels across different cities?",
+      faq4Answer:
+        "Yes. Multi-city itineraries are fully supported. We manage check-in and check-out dates across locations to keep your journey frictionless.",
+
+      metadata: {
+        title: "Hotel Booking - Global Tourist Centre",
+        description:
+          "Book verified hotels worldwide with expert assistance, exclusive rates, and end-to-end customer support.",
       },
     },
-  ],
-},
+    flightBooking: {
+      heroTitle: "Flight Booking Services",
+      aboutTitle: "Fly With Ease",
+      aboutDesc:
+        "As an authorized flight booking partner, we deliver optimized airfare solutions across domestic and international routes. Leveraging global airline partnerships and real-time fare intelligence, we secure cost-effective, reliable flight options tailored to your schedule, budget, and travel objectives—from simple point-to-point trips to complex multi-city itineraries.",
+
+      servicesTitle: "Our Flight Services Include:",
+      service1: "Domestic and international flight bookings",
+      service2: "One-way, round-trip, and multi-city itineraries",
+      service3: "Seat selection, meals, and special assistance requests",
+      service4: "Ticket changes, cancellations, and re-issuance support",
+      service5: "Group bookings and corporate fare solutions",
+      service6: "24/7 assistance for booking and post-booking support",
+
+      processTitle: "Our Flight Booking Process",
+      processDesc:
+        "Our structured booking workflow minimizes risk, saves time, and ensures pricing transparency from inquiry to boarding.",
+      step1Title: "Step 1: Travel Requirement Assessment",
+      step1Desc:
+        "We analyze your travel dates, origin, destination, passenger details, preferred airlines, and class of travel to define the optimal search criteria.",
+      step2Title: "Step 2: Fare Comparison & Optimization",
+      step2Desc:
+        "Using multiple airline systems, we identify the best fare options, routes, and layover combinations while balancing price, duration, and reliability.",
+      step3Title: "Step 3: Booking & Ticket Issuance",
+      step3Desc:
+        "Upon confirmation, tickets are issued promptly. You receive complete itinerary details along with fare rules and airline policies.",
+      step4Title: "Step 4: Post-Booking Support",
+      step4Desc:
+        "We remain available for changes, cancellations, upgrades, or disruption management in case of delays or cancellations.",
+
+      // Form Section
+      formTitle: "Flight Booking Request",
+      formDesc:
+        "Share your travel details and our flight specialists will respond within 24 hours.",
+      formHeader: "Plan Your Flight",
+      formSubtitle: "Submit your details and let us handle the rest",
+      yourName: "Your Name*",
+      namePlaceholder: "Full name",
+      email: "Email*",
+      emailPlaceholder: "Your email address",
+      phone: "Phone Number*",
+      phonePlaceholder: "Phone number with country code",
+      tripType: "Trip Type*",
+      tripTypePlaceholder: "Select trip type",
+      from: "From (City / Airport)*",
+      fromPlaceholder: "Departure city or airport",
+      to: "To (City / Airport)*",
+      toPlaceholder: "Destination city or airport",
+      departureDate: "Departure Date*",
+      returnDate: "Return Date",
+      adults: "Adults (12+ years)*",
+      children: "Children (2–11 years)",
+      infants: "Infants (Below 2 years)",
+      preferredClass: "Preferred Class*",
+      preferredClassPlaceholder: "Economy",
+      preferredAirlines: "Preferred Airlines",
+      preferredAirlinesPlaceholder: "Any airline preference?",
+      message: "Special Requests",
+      messagePlaceholder:
+        "Seat preferences, meals, extra baggage, assistance, etc.",
+      submit: "Find Flights",
+      privacyNote:
+        "Your personal details are secure and used only for booking assistance.",
+
+      // FAQ
+      faqTitle: "Flight Booking FAQs",
+      faqDesc: "Frequently asked questions about our flight booking services.",
+      faq1Question:
+        "Can you assist with infant seats, pets, or sports equipment?",
+      faq1Answer:
+        "Yes. Airline policies vary, but we guide you through adding infant services, extra baggage, sports equipment, or pets where permitted. We clearly explain costs and limitations before booking.",
+      faq2Question:
+        "Can airport pickup or drop-off be arranged with flight bookings?",
+      faq2Answer:
+        "Absolutely. Airport transfers can be arranged as an add-on or bundled into a complete travel package for a seamless experience.",
+      faq3Question: "What are the cancellation, change, or refund policies?",
+      faq3Answer:
+        "Policies are governed by airline fare rules. We explain these upfront and assist you with changes, cancellations, or refunds as per the ticket conditions.",
+      faq4Question:
+        "What support do you provide during delays or cancellations?",
+      faq4Answer:
+        "In case of disruptions, we help you understand airline options, rebook flights where possible, and guide you through next steps to minimize inconvenience.",
+
+      metadata: {
+        title: "Flight Booking - Global Tourist Centre",
+        description:
+          "Book domestic and international flights with expert support, transparent pricing, and end-to-end assistance.",
+      },
+    },
+    groupTrip: {
+      heroTitle: "Group Tours & Packages",
+      aboutTitle: "Travel Together, Save Together",
+      aboutDesc:
+        "Our group tour solutions are designed to deliver scale advantages, seamless coordination, and memorable shared experiences. Whether you are traveling with family, friends, educational institutions, or corporate teams, we structure group itineraries that optimize cost, time, and comfort—while preserving flexibility and personalization.",
+
+      benefitsTitle: "Benefits of Group Travel:",
+      benefit1: "Lower per-person costs through negotiated group rates",
+      benefit2: "Dedicated tour manager for on-ground coordination",
+      benefit3: "Structured itineraries with built-in flexibility",
+      benefit4: "Shared experiences with like-minded travelers",
+      benefit5: "End-to-end logistics management",
+      benefit6: "Enhanced safety, support, and accountability",
+
+      servicesTitle: "Our Group Travel Services Include:",
+      service1: "Customized domestic and international group itineraries",
+      service2: "Group airfare negotiation and ticketing",
+      service3: "Hotel, resort, and group accommodation management",
+      service4: "Visa coordination for all group members",
+      service5: "Private transfers, sightseeing, and activities",
+      service6: "Tour manager and local guide support",
+
+      processTitle: "Our Group Tour Planning Process",
+      processDesc:
+        "Our structured planning approach ensures clarity, cost control, and smooth execution from inquiry to return.",
+      step1Title: "Step 1: Group Requirement Discovery",
+      step1Desc:
+        "We assess group size, destination preferences, budget range, travel dates, and special requirements to define the scope of the trip.",
+      step2Title: "Step 2: Itinerary & Cost Optimization",
+      step2Desc:
+        "Our team designs a day-wise itinerary, negotiates group rates, and shares a transparent cost breakup for review.",
+      step3Title: "Step 3: Confirmation & Bookings",
+      step3Desc:
+        "Once approved, we secure flights, hotels, visas, and activities while collecting the initial deposit to lock in services.",
+      step4Title: "Step 4: Tour Execution & Support",
+      step4Desc:
+        "A dedicated tour manager oversees the trip, manages timelines, and handles on-ground coordination to ensure a smooth experience.",
+
+      // Form Section
+      formTitle: "Request a Group Tour Proposal",
+      formDesc:
+        "Share your group details and our travel specialists will contact you within 24 hours.",
+      formHeader: "Plan Your Group Trip",
+      formSubtitle:
+        "Submit your requirements and receive a customized proposal",
+      groupOrganizerName: "Group Organizer Name*",
+      namePlaceholder: "Full name",
+      phoneNumber: "Phone Number*",
+      phonePlaceholder: "Phone number with country code",
+      groupType: "Group Type*",
+      groupTypePlaceholder: "Family / Friends / Corporate / Educational",
+      groupSize: "Approximate Group Size*",
+      groupSizePlaceholder: "Minimum 8 travelers",
+      destination: "Destination(s) of Interest*",
+      destinationPlaceholder: "Preferred destination(s)",
+      startDate: "Preferred Start Date",
+      startDatePlaceholder: "dd/mm/yyyy",
+      tripDuration: "Trip Duration (Days)",
+      tripDurationPlaceholder: "Number of days",
+      budget: "Approximate Budget (per person)",
+      budgetPlaceholder: "Estimated budget range",
+      interests: "Group Interests / Activities",
+      interestsPlaceholder:
+        "Adventure, leisure, sightseeing, culture, team bonding, etc.",
+      submit: "Request Group Proposal",
+      privacyFooter:
+        "Your information is secure and will be used only for trip planning.",
+
+      // FAQ
+      faqTitle: "Group Tour FAQs",
+      faqDesc: "Frequently asked questions about our group travel services.",
+      faq1Question: "What is the minimum and maximum group size you support?",
+      faq1Answer:
+        "Most group tours operate efficiently between 8 and 25 travelers. Larger groups can also be accommodated with additional planning and resources based on destination and itinerary complexity.",
+      faq2Question:
+        "How do you manage coordination and time discipline during the trip?",
+      faq2Answer:
+        "Each tour follows a clearly defined schedule and is supported by a tour manager and local partners. This ensures smooth transitions, timely departures, and minimal delays.",
+      faq3Question:
+        "Do you handle flights, hotels, and visas for the entire group?",
+      faq3Answer:
+        "Yes. We manage the complete travel stack—including flights, accommodations, visas, transfers, and activities—under a single, unified itinerary.",
+      faq4Question: "What payment structure applies to group bookings?",
+      faq4Answer:
+        "Typically, a 25% deposit is required to confirm the group booking, with the remaining balance due 30–45 days prior to departure. Flexible installment plans may be arranged for larger or customized groups.",
+
+      metadata: {
+        title: "Group Tours - Global Tourist Centre",
+        description:
+          "End-to-end group tour solutions for families, friends, corporate teams, and institutions with expert planning and execution.",
+      },
+    },
+    // Common form labels
+    form: {
+      yourName: "Your Name*",
+      namePlaceholder: "Full name",
+      email: "Email*",
+      emailPlaceholder: "Your email address",
+      phone: "Phone Number*",
+      phonePlaceholder: "Your phone number",
+      destination: "Preferred Destination",
+      destinationPlaceholder: "Where would you like to go?",
+      dates: "Travel Dates",
+      travelers: "Number of Travelers",
+      budget: "Budget Range",
+      message: "Additional Requirements",
+      messagePlaceholder: "Tell us more about your preferences...",
+      submit: "Submit Request",
+      submitting: "Submitting...",
+    },
+
+    domesticInternational: {
+      hero: {
+        title: "Domestic & International Tour Packages",
+        subtitle:
+          "Curated travel experiences across India and the world, designed for comfort, value, and authenticity.",
+      },
+
+      about: {
+        title: "Explore the World With Us",
+        description:
+          "From India’s cultural heartlands to the world’s most iconic international destinations, we design travel experiences that balance discovery, comfort, and seamless execution. Every itinerary is crafted around your interests, pace, and budget—backed by local expertise and end-to-end support.",
+        whyTitle: "Why Choose Our Packages:",
+        points: [
+          "Expertly curated itineraries with authentic local experiences",
+          "Dedicated support before, during, and after your trip",
+          "Transparent pricing with no hidden charges",
+          "Flexible customization across destinations and durations",
+          "Hand-selected hotels, transport, and activity partners",
+        ],
+      },
+
+      services: {
+        title: "What Our Tour Packages Include",
+        items: [
+          "Destination research and itinerary planning",
+          "Hotel and resort accommodations",
+          "Private and shared transportation",
+          "Sightseeing and activity coordination",
+          "Local guides and on-ground assistance",
+          "Optional flights and visa assistance",
+        ],
+      },
+
+      process: {
+        title: "Our Tour Planning Process",
+        description:
+          "Our structured approach ensures clarity, cost control, and a smooth travel experience.",
+        step1Title: "Step 1: Requirement Discovery",
+        step1Desc:
+          "We understand your destination preferences, travel dates, group size, budget, and interests.",
+        step2Title: "Step 2: Itinerary Design",
+        step2Desc:
+          "A customized day-wise itinerary is created with accommodation options, activities, and transfers.",
+        step3Title: "Step 3: Review & Optimization",
+        step3Desc:
+          "You review the plan, request changes, and finalize the itinerary that best suits your needs.",
+        step4Title: "Step 4: Booking & Execution",
+        step4Desc:
+          "Once confirmed, we handle bookings, documentation, and provide detailed travel support.",
+      },
+
+      domestic: {
+        title: "Domestic Trips",
+        subtitle:
+          "Experience India’s diverse landscapes, cultures, and heritage through thoughtfully designed domestic tours.",
+        highlights: [
+          "Hill stations, beaches, deserts, and cultural circuits",
+          "Family, honeymoon, solo, and group-friendly itineraries",
+          "Short getaways and extended holiday options",
+        ],
+        viewMore: "View More Domestic Trips",
+      },
+
+      international: {
+        title: "International Trips",
+        subtitle:
+          "Explore iconic global destinations with carefully planned international tour packages.",
+        highlights: [
+          "Asia, Europe, Middle East, and island destinations",
+          "Visa-assisted and fully supported itineraries",
+          "Balanced schedules with sightseeing and leisure time",
+        ],
+        viewMore: "View More International Trips",
+      },
+
+      faq: {
+        title: "Frequently Asked Questions",
+        subtitle:
+          "Answers to common questions about our domestic and international tour packages.",
+        questions: [
+          {
+            question: "What documents are required at the time of booking?",
+            answer:
+              "A valid government-issued ID is required for domestic trips. For international travel, a valid passport is mandatory. Depending on the destination, additional documents such as visas or address proof may be required.",
+          },
+          {
+            question: "Do you provide visa assistance for international tours?",
+            answer:
+              "Yes. We guide you through the visa process, assist with documentation, and help ensure timely submission as per destination requirements.",
+          },
+          {
+            question:
+              "What happens if a service like a hotel stay or excursion is cancelled?",
+            answer:
+              "In case of service disruptions, we coordinate alternatives or provide refunds or credits as applicable, based on the situation and service provider policies.",
+          },
+          {
+            question:
+              "When should I arrive at the airport for domestic and international flights?",
+            answer:
+              "For domestic flights, arrive at least 2 hours before departure. For international flights, we recommend arriving 3–4 hours early to allow time for security and immigration.",
+          },
+        ],
+      },
+
+      metadata: {
+        title: "Domestic & International Tour Packages - Global Tourist Centre",
+        description:
+          "Discover curated domestic and international tour packages with personalized itineraries, trusted partners, and seamless travel support.",
+      },
+    },
+  },
+  testimonials: {
+    title: "Testimonianze dei viaggiatori",
+    subtitle:
+      "Scopri cosa dicono i nostri clienti delle loro esperienze con Global Tourist Centre.",
+    whatTravelersSay: "Cosa dicono i nostri viaggiatori",
+    hearFromCustomers: "Le esperienze dei nostri clienti soddisfatti.",
+    viewAllReviews: "Visualizza tutte le recensioni su Google",
+    readMore: "Leggi di più",
+
+    prev: "Testimonianza precedente",
+    next: "Testimonianza successiva",
+
+    photos: "foto",
+    monthsAgo: "mesi fa",
+    weeksAgo: "settimane fa",
+
+    items: [
+      {
+        name: "Anshika Malik",
+        location: "Kerala · 10 giorni con la famiglia",
+        text: "Sono stata recentemente in Kerala con mio marito per 7 giorni. Global Tourist Centre ha organizzato tutto alla perfezione, senza alcun problema durante il viaggio!",
+        rating: 5,
+        photosCount: 12,
+        timeAgo: {
+          value: 3,
+          unit: "months",
+        },
+      },
+      {
+        name: "Vishal Yadav",
+        location: "Dubai · luna di miele di 5 giorni",
+        text: "Un’esperienza fantastica! Il team di Global Tourist Centre ha reso la nostra luna di miele perfetta. Ogni dettaglio era curato.",
+        rating: 5,
+        photosCount: 8,
+        timeAgo: {
+          value: 5,
+          unit: "weeks",
+        },
+      },
+      {
+        name: "Priya Sharma",
+        location: "Goa · fuga di un weekend",
+        text: "La migliore agenzia di viaggi! Hanno organizzato tutto, dai voli agli hotel fino alle escursioni locali. Un’attenzione ai dettagli incredibile.",
+        rating: 4.8,
+        photosCount: 6,
+        timeAgo: {
+          value: 2,
+          unit: "months",
+        },
+      },
+    ],
+  },
   // Why Choose Us
   whyChoose: {
     title: "Perché Scegliere Global Tourist Centre",
@@ -671,9 +1222,11 @@ testimonials: {
   },
   // Andaman Blog Detail Page
   blogAndaman: {
-    "metadata": {
-      "title": "Luoghi Instagrammabili alle Andamane per foto perfette | Global Tourist Centre",
-      "description": "Scopri splendidi spot Instagram alle Andamane — dalla spiaggia Kalapathar alle rovine di Ross Island. Location perfette per foto, tramonti e ricordi subacquei."
+    metadata: {
+      title:
+        "Luoghi Instagrammabili alle Andamane per foto perfette | Global Tourist Centre",
+      description:
+        "Scopri splendidi spot Instagram alle Andamane — dalla spiaggia Kalapathar alle rovine di Ross Island. Location perfette per foto, tramonti e ricordi subacquei.",
     },
     heroTitle:
       "Scatta, Cattura e Rilassati: I Luoghi Più Instagrammabili delle Andamane",
@@ -778,9 +1331,11 @@ testimonials: {
   },
   // Kerala Blog Detail Page
   blogKerala: {
-    "metadata": {
-      "title": "Pacchetti Kerala da Goa per giovani esploratori attivi | Global Tourist Centre",
-      "description": "Il pacchetto Goa–Kerala offre avventure durante il monsone, viaggi di gruppo, backwaters e località collinari. Ideale per giovani viaggiatori in cerca di tranquillità e avventura."
+    metadata: {
+      title:
+        "Pacchetti Kerala da Goa per giovani esploratori attivi | Global Tourist Centre",
+      description:
+        "Il pacchetto Goa–Kerala offre avventure durante il monsone, viaggi di gruppo, backwaters e località collinari. Ideale per giovani viaggiatori in cerca di tranquillità e avventura.",
     },
     heroTitle: "Da Goa al Paese di Dio",
     heroSubtitle: "Un viaggio in Kerala per giovani esploratori",
@@ -925,7 +1480,7 @@ testimonials: {
     craftingJourneys: "Creiamo viaggi indimenticabili dal 2010",
     termsConditions: "Termini e Condizioni",
     copyright: "© 2026 Global Tourist Centre. Tutti i diritti riservati.",
-    sitemap: "Mappa del sito"
+    sitemap: "Mappa del sito",
   },
   // Common
   common: {
@@ -1323,17 +1878,18 @@ testimonials: {
           subtitle:
             "Vivi incontri con la fauna selvatica ed emozionanti avventure acquatiche nei lussureggianti paesaggi di Dandeli",
           backgroundImage: "/assets/hero/Dandeli-hero.webp",
-          "meta": {
-            "duration": "1 giorno/i",
-            "locations": 4,
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "1 giorno/i",
+            locations: 4,
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Safari in Elefante a Dandeli e Giornata di Avventura",
-          "description": "Esperienza di un giorno a Dandeli con safari in elefante, jeep, rafting, kayak e jacuzzi naturale. Perfetto per gli amanti della natura."
-        }
+        metadata: {
+          title: "Safari in Elefante a Dandeli e Giornata di Avventura",
+          description:
+            "Esperienza di un giorno a Dandeli con safari in elefante, jeep, rafting, kayak e jacuzzi naturale. Perfetto per gli amanti della natura.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura con Dandeli?",
@@ -1499,17 +2055,19 @@ testimonials: {
           subtitle:
             "Scopri le maestose cascate di Dudhsagar ed esplora le piantagioni di spezie aromatiche in una giornata indimenticabile",
           backgroundImage: "/assets/hero/Dudhsagar-hero.webp",
-          "meta": {
-            "duration": "1 giorno/i",
-            "locations": 3,
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "1 giorno/i",
+            locations: 3,
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Giornata alle Cascate di Dudhsagar e Piantagione di Spezie per Stranieri",
-          "description": "Cascate di Dudhsagar e piantagioni di spezie di Goa in un giorno. Ideale per viaggiatori stranieri: cultura, natura e pranzo autentico."
-        }
+        metadata: {
+          title:
+            "Giornata alle Cascate di Dudhsagar e Piantagione di Spezie per Stranieri",
+          description:
+            "Cascate di Dudhsagar e piantagioni di spezie di Goa in un giorno. Ideale per viaggiatori stranieri: cultura, natura e pranzo autentico.",
+        },
       },
       cta: {
         headline:
@@ -1668,17 +2226,18 @@ testimonials: {
           title: "Giornata a Gokarna e Murdeshwar da Goa",
           subtitle: "Scopri spiagge, templi in un giorno",
           backgroundImage: "/assets/hero/Gokarna-hero.webp",
-          "meta": {
-            "duration": "1 giorno/i",
-            "locations": 5,
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "1 giorno/i",
+            locations: 5,
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Giornata a Gokarna e Murdeshwar da Goa per Stranieri",
-          "description": "Esplora Gokarna e Murdeshwar in un giorno da Goa. Templi antichi, Om Beach e la statua di Shiva — perfetto per gli stranieri."
-        }
+        metadata: {
+          title: "Giornata a Gokarna e Murdeshwar da Goa per Stranieri",
+          description:
+            "Esplora Gokarna e Murdeshwar in un giorno da Goa. Templi antichi, Om Beach e la statua di Shiva — perfetto per gli stranieri.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura a Gokarna e Murdeshwar?",
@@ -1847,21 +2406,24 @@ testimonials: {
         slug: "luxury-yacht-day-tour-goa",
         type: "",
         hero: {
-          title: "Pacchetto Giornata in Yacht 3G/2N – Crociera di Lusso al Tramonto a Goa",
+          title:
+            "Pacchetto Giornata in Yacht 3G/2N – Crociera di Lusso al Tramonto a Goa",
           subtitle:
             "Un'esclusiva esperienza premium di 6 ore con piscina a sfioro, DJ dal vivo, cena gourmet e vista sul tramonto",
           backgroundImage: "/assets/hero/Luxury-Yacht-Goa-hero.webp",
-          "meta": {
-            "duration": "6 Hours",
-            "rating": "4.9/5 Rating",
-            "description": "Experience a premium 3D/2N Yacht Day Tour Package with sunset cruise, infinity pool, live DJ, gourmet dinner, and hotel transfers."
-          }
+          meta: {
+            duration: "6 Hours",
+            rating: "4.9/5 Rating",
+            description:
+              "Experience a premium 3D/2N Yacht Day Tour Package with sunset cruise, infinity pool, live DJ, gourmet dinner, and hotel transfers.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour in Yacht di Lusso a Goa - Tramonto e Cena",
-          "description": "Esperienza esclusiva in yacht: piscina a sfioro, DJ, barbecue gourmet e tramonto spettacolare."
-        }
+        metadata: {
+          title: "Tour in Yacht di Lusso a Goa - Tramonto e Cena",
+          description:
+            "Esperienza esclusiva in yacht: piscina a sfioro, DJ, barbecue gourmet e tramonto spettacolare.",
+        },
       },
       cta: {
         headline: "Prenota la tua esperienza in yacht di lusso",
@@ -2035,18 +2597,20 @@ testimonials: {
           subtitle:
             "Tour di un'intera giornata da Goa a Mumbai incluso biglietto aereo, Porta dell'India, Palazzo Taj Mahal e guida in lingua inglese",
           backgroundImage: "/assets/hero/mumbai-hero.webp",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.7/5 Rating",
-            "description": "Book a Mumbai Day Tour Package from Goa featuring flights, breakfast, Taj Tea, guided sightseeing, Dharavi tour, markets & iconic landmarks."
-          }
+          meta: {
+            duration: "Full Day",
+            rating: "4.7/5 Rating",
+            description:
+              "Book a Mumbai Day Tour Package from Goa featuring flights, breakfast, Taj Tea, guided sightseeing, Dharavi tour, markets & iconic landmarks.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Escursione di un giorno a Mumbai da Goa – I principali punti salienti della città",
-          "description": "Vola da Goa per un’escursione giornaliera a Mumbai con luoghi iconici come la Gateway of India, Marine Drive e le Grotte di Elephanta. Vivi cultura, storia e la vita frenetica della metropoli!"
-        }
-
+        metadata: {
+          title:
+            "Escursione di un giorno a Mumbai da Goa – I principali punti salienti della città",
+          description:
+            "Vola da Goa per un’escursione giornaliera a Mumbai con luoghi iconici come la Gateway of India, Marine Drive e le Grotte di Elephanta. Vivi cultura, storia e la vita frenetica della metropoli!",
+        },
       },
       cta: {
         headline: "Pronto per esplorare Mumbai?",
@@ -2256,17 +2820,18 @@ testimonials: {
           subtitle:
             "Immergiti nella bellezza naturale e nella ricchezza culturale dell'entroterra di Goa",
           backgroundImage: "/assets/hero/Netravali-hero.webp",
-          "meta": {
-            "duration": "1 giorno/i",
-            "locations": 5,
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "1 giorno/i",
+            locations: 5,
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Giornata a Netravali: Natura, Cascate e Villaggi di Goa",
-          "description": "Esplora il santuario di Netravali, il lago gorgogliante, le cascate e i villaggi pittoreschi. La fuga perfetta nella natura !"
-        }
+        metadata: {
+          title: "Giornata a Netravali: Natura, Cascate e Villaggi di Goa",
+          description:
+            "Esplora il santuario di Netravali, il lago gorgogliante, le cascate e i villaggi pittoreschi. La fuga perfetta nella natura !",
+        },
       },
       cta: {
         headline: "Pronto per la tua fuga nella natura?",
@@ -2450,16 +3015,17 @@ testimonials: {
           subtitle:
             "Tour di un'intera giornata alla scoperta delle spiagge, dei forti e del patrimonio portoghese del Nord Goa",
           backgroundImage: "/assets/hero/Goa-1-hero.jpg",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "Full Day",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Escursione Nord Goa: Spiagge e Cultura",
-          "description": "Tour di un giorno: Baga, Calangute, Fort Aguada e chiese portoghesi. Guida inclusa."
-        }
+        metadata: {
+          title: "Escursione Nord Goa: Spiagge e Cultura",
+          description:
+            "Tour di un giorno: Baga, Calangute, Fort Aguada e chiese portoghesi. Guida inclusa.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare il nord di Goa?",
@@ -2627,18 +3193,21 @@ testimonials: {
           subtitle:
             "Scopri le spiagge incontaminate e le gemme nascoste del sud di Goa in una giornata indimenticabile",
           backgroundImage: "/assets/hero/Goa-1-hero.webp",
-          "meta": {
-            "duration": "1 giorno/i",
-            "locations": 6,
-            "rating": "4.9/5 Rating",
-            "description": "Book the South Goa Full Day Tour Package with temples, Old Goa churches, Miramar Beach, Dona Paula viewpoint & Panjim market."
-          }
+          meta: {
+            duration: "1 giorno/i",
+            locations: 6,
+            rating: "4.9/5 Rating",
+            description:
+              "Book the South Goa Full Day Tour Package with temples, Old Goa churches, Miramar Beach, Dona Paula viewpoint & Panjim market.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour di un giorno nel Sud di Goa per viaggiatori stranieri in India",
-          "description": "Esplora il sud di Goa in un giorno: Agonda, Palolem, spiagge di Butterfly e Cola, kayak, Forte di Cabo de Rama e tramonto. Perfetto per i viaggiatori stranieri."
-        }
+        metadata: {
+          title:
+            "Tour di un giorno nel Sud di Goa per viaggiatori stranieri in India",
+          description:
+            "Esplora il sud di Goa in un giorno: Agonda, Palolem, spiagge di Butterfly e Cola, kayak, Forte di Cabo de Rama e tramonto. Perfetto per i viaggiatori stranieri.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura nel sud di Goa?",
@@ -2811,15 +3380,16 @@ testimonials: {
           subtitle:
             "Un'immersione di un'intera giornata nella ricca storia, architettura e patrimonio spirituale del sud di Goa.",
           backgroundImage: "/assets/hero/Goa-Sightseeing-hero.webp",
-          "meta": {
-            "duration": "Full Day (8:00 AM – 5:30 PM)"
-          }
+          meta: {
+            duration: "Full Day (8:00 AM – 5:30 PM)",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour del Sud di Goa: Patrimonio, Spiagge e Cena in Crociera",
-          "description": "Esplora le chiese di Old Goa, i templi, le spiagge e goditi una cena in crociera sul fiume Mandovi in tour privato."
-        }
+        metadata: {
+          title: "Tour del Sud di Goa: Patrimonio, Spiagge e Cena in Crociera",
+          description:
+            "Esplora le chiese di Old Goa, i templi, le spiagge e goditi una cena in crociera sul fiume Mandovi in tour privato.",
+        },
       },
       cta: {
         headline: "Prenota la tua esperienza culturale a Goa",
@@ -2969,16 +3539,17 @@ testimonials: {
           subtitle:
             "Da un'isola all'altra, osservazione dei delfini, kayak nella Laguna Blu ed esplorazione delle gemme nascoste del sud di Goa",
           backgroundImage: "/assets/destinations/South-goa/palolem-beach.webp",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "Full Day",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour Palolem-Cola: Delfini e Visita alle Isole",
-          "description": "Il meglio del sud di Goa: delfini, isole, spiaggia di Butterfly, kayak a Cola Lagoon e Forte di Cabo de Rama."
-        }
+        metadata: {
+          title: "Tour Palolem-Cola: Delfini e Visita alle Isole",
+          description:
+            "Il meglio del sud di Goa: delfini, isole, spiaggia di Butterfly, kayak a Cola Lagoon e Forte di Cabo de Rama.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura da un'isola all'altra?",
@@ -3174,15 +3745,16 @@ testimonials: {
           subtitle:
             "Gita di un giorno intero (8:00 - 20:00) con crociera al tramonto sul fiume Mandovi",
           backgroundImage: "/assets/hero/Sunset-Cruise-Goa-hero.webp",
-          "meta": {
-            "duration": "Full Day Trip (08:00 – 20:00)"
-          }
+          meta: {
+            duration: "Full Day Trip (08:00 – 20:00)",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Visita del Sud di Goa con Crociera al Tramonto",
-          "description": "Prenota la tua visita di un'intera giornata nel sud di Goa con una crociera spettacolare sul fiume Mandovi."
-        }
+        metadata: {
+          title: "Visita del Sud di Goa con Crociera al Tramonto",
+          description:
+            "Prenota la tua visita di un'intera giornata nel sud di Goa con una crociera spettacolare sul fiume Mandovi.",
+        },
       },
       cta: {
         headline: "Vivi la magia del tramonto di Goa",
@@ -3359,13 +3931,15 @@ testimonials: {
           title: "Pacchetto Viaggio Aurangabad",
           subtitle: "",
           backgroundImage: "/assets/hero/aurangabad-hero.webp",
-          "meta": {}
+          meta: {},
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto viaggio di 2 giorni ad Aurangabad da Goa con le grotte di Ajanta ed Ellora",
-          "description": "Grotte di Ajanta ed Ellora, Bibi Ka Maqbara e Forte di Daulatabad con un viaggio di 1 notte/2 giorni ad Aurangabad. Include hotel, tour guidati e ingressi."
-        }
+        metadata: {
+          title:
+            "Pacchetto viaggio di 2 giorni ad Aurangabad da Goa con le grotte di Ajanta ed Ellora",
+          description:
+            "Grotte di Ajanta ed Ellora, Bibi Ka Maqbara e Forte di Daulatabad con un viaggio di 1 notte/2 giorni ad Aurangabad. Include hotel, tour guidati e ingressi.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura ad Aurangabad?",
@@ -3559,17 +4133,19 @@ testimonials: {
           subtitle:
             "Immergiti nella bellezza naturale di Goa con escursioni nella foresta, attività culturali e alloggi di lusso",
           backgroundImage: "/assets/hero/wildernest-hero.webp",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.8/5 Rating",
-            "description": "Book a North Goa tour package covering Calangute, Baga, Anjuna, Aguada Fort, churches & flea markets with breakfast, transport & guide included."
-          }
+          meta: {
+            duration: "Full Day",
+            rating: "4.8/5 Rating",
+            description:
+              "Book a North Goa tour package covering Calangute, Baga, Anjuna, Aguada Fort, churches & flea markets with breakfast, transport & guide included.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Nord di Goa – Goa Portoghese",
-          "description": "Prenota un tour di un'intera giornata nel nord di Goa: Calangute, Baga, spiagge di Anjuna, Forte Aguada e chiese portoghesi con guida parlante russo."
-        }
+        metadata: {
+          title: "Nord di Goa – Goa Portoghese",
+          description:
+            "Prenota un tour di un'intera giornata nel nord di Goa: Calangute, Baga, spiagge di Anjuna, Forte Aguada e chiese portoghesi con guida parlante russo.",
+        },
       },
       cta: {
         headline: "Pronto per il tuo ritiro nella natura?",
@@ -3762,17 +4338,19 @@ testimonials: {
           subtitle:
             "1 notte 2 giorni esplorando i siti patrimonio mondiale dell'UNESCO Ajanta e le grotte di Ellora da Goa",
           backgroundImage: "/assets/hero/Ajanta-hero.webp",
-          "meta": {
-            "duration": "2 giorno/i",
-            "rating": "4.8/5 Rating",
-            "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
-          }
+          meta: {
+            duration: "2 giorno/i",
+            rating: "4.8/5 Rating",
+            description:
+              "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour di Ajanta ed Ellora",
-          "description": "Pacchetto di 1 notte e 2 giorni ad Ajanta ed Ellora da Goa. Comprende voli, hotel 3*, guida parlante russo e visite ai siti UNESCO."
-        }
+        metadata: {
+          title: "Tour di Ajanta ed Ellora",
+          description:
+            "Pacchetto di 1 notte e 2 giorni ad Ajanta ed Ellora da Goa. Comprende voli, hotel 3*, guida parlante russo e visite ai siti UNESCO.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare Ajanta ed Ellora?",
@@ -3985,21 +4563,24 @@ testimonials: {
         slug: "amritsar-tour-package-from-goa-2n3d",
         type: "domestic-trip",
         hero: {
-          title: "Pacchetto Viaggio Amritsar 3G/2N – Tempio d'Oro e Wagah Border",
+          title:
+            "Pacchetto Viaggio Amritsar 3G/2N – Tempio d'Oro e Wagah Border",
           subtitle:
             "2 notti 3 giorni esplorando il Tempio d'Oro, il confine di Wagah, Jallianwala Bagh e il patrimonio culturale di Amritsar",
           backgroundImage: "/assets/hero/Amritsar-hero.webp",
-          "meta": {
-            "duration": "3 giorno/i",
-            "rating": "4.7/5 Rating",
-            "description": "Experience Amritsar with our 3D/2N tour package—Golden Temple, Jallianwala Bagh, Partition Museum, Wagah Border ceremony & city sightseeing."
-          }
+          meta: {
+            duration: "3 giorno/i",
+            rating: "4.7/5 Rating",
+            description:
+              "Experience Amritsar with our 3D/2N tour package—Golden Temple, Jallianwala Bagh, Partition Museum, Wagah Border ceremony & city sightseeing.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio Amritsar - Tempio d'Oro e Confine di Wagah",
-          "description": "Scopri Amritsar con visite al Tempio d'Oro, al confine di Wagah e ai siti storici. Hotel e trasferimenti inclusi."
-        }
+        metadata: {
+          title: "Pacchetto Viaggio Amritsar - Tempio d'Oro e Confine di Wagah",
+          description:
+            "Scopri Amritsar con visite al Tempio d'Oro, al confine di Wagah e ai siti storici. Hotel e trasferimenti inclusi.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare Amritsar?",
@@ -4122,16 +4703,17 @@ testimonials: {
           subtitle:
             "Scopri le spiagge incontaminate e la ricca storia delle Isole Andamane in 7 giorni",
           backgroundImage: "/assets/hero/Andaman-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Viaggio alle Isole Andamane - 6 notti/7 giorni",
-          "description": "Scopri le spiagge incontaminate e la ricca storia delle isole Andamane con il nostro pacchetto di 6 notti/7 giorni. Snorkeling, visitadelle isole e altro."
-        }
+        metadata: {
+          title: "Viaggio alle Isole Andamane - 6 notti/7 giorni",
+          description:
+            "Scopri le spiagge incontaminate e la ricca storia delle isole Andamane con il nostro pacchetto di 6 notti/7 giorni. Snorkeling, visitadelle isole e altro.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura sull'isola?",
@@ -4283,17 +4865,19 @@ testimonials: {
           subtitle:
             "1 notte 2 giorni esplorando la storica Bijapur, il sito Patrimonio dell'Umanità dell'UNESCO Pattadakal e gli antichi templi di Aihole",
           backgroundImage: "/assets/hero/Bijapur-hero.webp",
-          "meta": {
-            "duration": "2 giorno/i",
-            "rating": "4.5/5 Rating",
-            "description": "Explore Gol Gumbaz, Aihole & Pattadakal with our 2D/1N Bijapur tour package from Goa. Includes hotel stay, guide, taxi & sightseeing for a perfect heritage getaway"
-          }
+          meta: {
+            duration: "2 giorno/i",
+            rating: "4.5/5 Rating",
+            description:
+              "Explore Gol Gumbaz, Aihole & Pattadakal with our 2D/1N Bijapur tour package from Goa. Includes hotel stay, guide, taxi & sightseeing for a perfect heritage getaway",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Bijapur e Patrimonio del Karnataka",
-          "description": "Visita il Gol Gumbaz, l'Ibrahim Rauza e i templi antichi di Aihole e Pattadakal. Trasferimenti e soggiorno inclusi."
-        }
+        metadata: {
+          title: "Bijapur e Patrimonio del Karnataka",
+          description:
+            "Visita il Gol Gumbaz, l'Ibrahim Rauza e i templi antichi di Aihole e Pattadakal. Trasferimenti e soggiorno inclusi.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare il Karnataka storico?",
@@ -4407,16 +4991,17 @@ testimonials: {
           subtitle:
             "Scopri il segreto meglio custodito di Goa: cottage di lusso con vista mozzafiato sul Mar Arabico",
           backgroundImage: "/assets/hero/Cabo-hero.webp",
-          "meta": {
-            "duration": "2 Nights / 3 giorno/i",
-            "rating": "5.0/5 Rating"
-          }
+          meta: {
+            duration: "2 Nights / 3 giorno/i",
+            rating: "5.0/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Fuga di Lusso a Cabo Serai: 2N/3G a Goa",
-          "description": "Scopri la gemma nascosta di Goa – Cabo Serai. Goditi cottage di lusso, passeggiate nella natura, kayak, spa e viste mozzafiato sul Mar Arabico."
-        }
+        metadata: {
+          title: "Fuga di Lusso a Cabo Serai: 2N/3G a Goa",
+          description:
+            "Scopri la gemma nascosta di Goa – Cabo Serai. Goditi cottage di lusso, passeggiate nella natura, kayak, spa e viste mozzafiato sul Mar Arabico.",
+        },
       },
       cta: {
         headline: "Pronto per la tua vacanza di lusso a Cabo Serai?",
@@ -4586,21 +5171,24 @@ testimonials: {
         slug: "dandeli-2-day-tour-from-goa",
         type: "domestic-trip",
         hero: {
-          title: "Pacchetto Viaggio Dandeli – Safari Elefante e Tigre 2G/1N da Goa",
+          title:
+            "Pacchetto Viaggio Dandeli – Safari Elefante e Tigre 2G/1N da Goa",
           subtitle:
             "1 notte e 2 giorni esplorando il Dandeli Wildlife Sanctuary con interazione con gli elefanti e safari con le tigri",
           backgroundImage: "/assets/hero/Dandeli-hero.webp",
-          "meta": {
-            "duration": "2 giorno/i",
-            "rating": "4.6/5 Rating",
-            "description": "Experience a 2D/1N Dandeli tour package with elephant interaction, tiger safari, nature walks, Syntheri Rocks, meals, transport & stay. Perfect wildlife getaway from Goa."
-          }
+          meta: {
+            duration: "2 giorno/i",
+            rating: "4.6/5 Rating",
+            description:
+              "Experience a 2D/1N Dandeli tour package with elephant interaction, tiger safari, nature walks, Syntheri Rocks, meals, transport & stay. Perfect wildlife getaway from Goa.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Safari Elefante e Tigre a Dandeli 2G/1N",
-          "description": "Avventura di due giorni a Dandeli con safari in elefante e tigre. Include alloggio e attività."
-        }
+        metadata: {
+          title: "Safari Elefante e Tigre a Dandeli 2G/1N",
+          description:
+            "Avventura di due giorni a Dandeli con safari in elefante e tigre. Include alloggio e attività.",
+        },
       },
       cta: {
         headline: "Pronti per un'avventura nella natura?",
@@ -4802,17 +5390,18 @@ testimonials: {
           subtitle:
             "Vivi la magia del Taj Mahal e dell'architettura Mughal in questo viaggio indimenticabile",
           backgroundImage: "/assets/hero/Agra-hero.webp",
-          "meta": {
-            "duration": "2 giorno/i",
-            "locations": 6,
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "2 giorno/i",
+            locations: 6,
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour 1N/2G da Delhi ad Agra con Taj Mahal e Forte di Agra",
-          "description": "Prenota un tour 1N/2G da Delhi ad Agra. Visita il Taj Mahal, il Forte di Agra e il Baby Taj — include hotel, guida, trasferimenti e ingressi."
-        }
+        metadata: {
+          title: "Tour 1N/2G da Delhi ad Agra con Taj Mahal e Forte di Agra",
+          description:
+            "Prenota un tour 1N/2G da Delhi ad Agra. Visita il Taj Mahal, il Forte di Agra e il Baby Taj — include hotel, guida, trasferimenti e ingressi.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura ad Agra?",
@@ -5004,17 +5593,19 @@ testimonials: {
           subtitle:
             "3 notti 4 giorni esplorando Delhi, Agra e Jaipur con visite guidate ed esperienze culturali",
           backgroundImage: "/assets/hero/Golden-Triangle-hero.webp",
-          "meta": {
-            "duration": "4 giorno/i",
-            "rating": "4.8/5 Rating",
-            "description": "Experience India’s iconic Golden Triangle with our 4D/3N tour package covering Delhi, Agra & Jaipur. Includes sightseeing, hotels, transfers & guided tours."
-          }
+          meta: {
+            duration: "4 giorno/i",
+            rating: "4.8/5 Rating",
+            description:
+              "Experience India’s iconic Golden Triangle with our 4D/3N tour package covering Delhi, Agra & Jaipur. Includes sightseeing, hotels, transfers & guided tours.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Visite di 4 giorni del Triangolo d'Oro in India",
-          "description": "Esplora Delhi, Agra e Jaipur in 4 giorni. Include la visita del Taj Mahal e il pernottamento in hotel."
-        }
+        metadata: {
+          title: "Visite di 4 giorni del Triangolo d'Oro in India",
+          description:
+            "Esplora Delhi, Agra e Jaipur in 4 giorni. Include la visita del Taj Mahal e il pernottamento in hotel.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare il Triangolo d'Oro?",
@@ -5144,21 +5735,23 @@ testimonials: {
         slug: "golden-triangle-4-day-tour-from-goa-package",
         type: "domestic-trip",
         hero: {
-          title: "Tour del Triangolo d'Oro - Delhi, Agra, Jaipur | Global Tourist Centre",
+          title:
+            "Tour del Triangolo d'Oro - Delhi, Agra, Jaipur | Global Tourist Centre",
           subtitle:
             "Scopri le destinazioni più iconiche dell'India: Delhi, Agra e Jaipur in questo viaggio culturale di 6 giorni",
           backgroundImage: "/assets/hero/Golden-Triangle-hero.webp",
-          "meta": {
-            "duration": "6 giorno/i",
-            "locations": 20,
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "6 giorno/i",
+            locations: 20,
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Speciale Triangolo d'Oro dell'India",
-          "description": "Scopri la storia di Delhi, Agra e Jaipur con servizi esclusivi e hotel premium."
-        }
+        metadata: {
+          title: "Pacchetto Speciale Triangolo d'Oro dell'India",
+          description:
+            "Scopri la storia di Delhi, Agra e Jaipur con servizi esclusivi e hotel premium.",
+        },
       },
       cta: {
         headline: "Pronto per il tuo viaggio nel Triangolo d'Oro?",
@@ -5389,18 +5982,20 @@ testimonials: {
           subtitle:
             "Scopri il sito Patrimonio dell'Umanità dell'UNESCO di Hampi con le sue antiche rovine e paesaggi mozzafiato",
           backgroundImage: "/assets/hero/Hampi-hero.webp",
-          "meta": {
-            "duration": "2 giorno/i",
-            "locations": 15,
-            "rating": "4.8/5 Rating",
-            "description": "Explore Karnataka’s heritage with our 2D/1N Hampi & Badami tour package from Goa. Includes hotel, breakfast, guides, cave temples, Stone Chariot & sightseeing"
-          }
+          meta: {
+            duration: "2 giorno/i",
+            locations: 15,
+            rating: "4.8/5 Rating",
+            description:
+              "Explore Karnataka’s heritage with our 2D/1N Hampi & Badami tour package from Goa. Includes hotel, breakfast, guides, cave temples, Stone Chariot & sightseeing",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Hampi 1N/2G da Goa con Soggiorno e Visite",
-          "description": "Esplora i siti UNESCO di Hampi in un viaggio di 2 giorni. Include hotel, visite guidate, giro in coracle e ingressi."
-        }
+        metadata: {
+          title: "Pacchetto Hampi 1N/2G da Goa con Soggiorno e Visite",
+          description:
+            "Esplora i siti UNESCO di Hampi in un viaggio di 2 giorni. Include hotel, visite guidate, giro in coracle e ingressi.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura a Hampi?",
@@ -5630,17 +6225,19 @@ testimonials: {
           subtitle:
             "1 notte 2 giorni esplorando il patrimonio di Hyderabad tra cui il Forte Golconda, Charminar e il Palazzo Chowmahalla",
           backgroundImage: "/assets/hero/Hyderabad-hero.webp",
-          "meta": {
-            "duration": "2 giorno/i",
-            "rating": "4.6/5 Rating",
-            "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
-          }
+          meta: {
+            duration: "2 giorno/i",
+            rating: "4.6/5 Rating",
+            description:
+              " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Viaggio a Hyderabad 1N/2G - Charminar & Ramoji",
-          "description": "Breve tour da Goa a Hyderabad. Visita Charminar, Forte Golconda, Ramoji Film City e Lago Hussain Sagar."
-        }
+        metadata: {
+          title: "Viaggio a Hyderabad 1N/2G - Charminar & Ramoji",
+          description:
+            "Breve tour da Goa a Hyderabad. Visita Charminar, Forte Golconda, Ramoji Film City e Lago Hussain Sagar.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare Hyderabad?",
@@ -5851,17 +6448,19 @@ testimonials: {
           subtitle:
             "3 notti 4 giorni esplorando la Città Blu e la Città d'Oro del Rajasthan con safari nel deserto ed esperienze culturali",
           backgroundImage: "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
-          "meta": {
-            "duration": "4 giorno/i",
-            "rating": "4.7/5 Rating",
-            "description": "Explore Jodhpur and Jaisalmer with our 3N/4D Jodhpur tour package. Visit forts, dunes, temples, and enjoy guided sightseeing with comfortable stays."
-          }
+          meta: {
+            duration: "4 giorno/i",
+            rating: "4.7/5 Rating",
+            description:
+              "Explore Jodhpur and Jaisalmer with our 3N/4D Jodhpur tour package. Visit forts, dunes, temples, and enjoy guided sightseeing with comfortable stays.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour Jodhpur & Jaisalmer 4 Giorni",
-          "description": "3 Notti / 4 Giorni nel Rajasthan. Scopri la Città Blu, la Città d'Oro, il deserto del Thar e il Forte Mehrangarh."
-        }
+        metadata: {
+          title: "Tour Jodhpur & Jaisalmer 4 Giorni",
+          description:
+            "3 Notti / 4 Giorni nel Rajasthan. Scopri la Città Blu, la Città d'Oro, il deserto del Thar e il Forte Mehrangarh.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare il Rajasthan?",
@@ -6123,17 +6722,19 @@ testimonials: {
           subtitle:
             "4 notti 5 giorni esplorando Jodhpur e Udaipur con visite guidate ed esperienze culturali",
           backgroundImage: "/assets/hero/Jodhpur-Udaipur-hero.webp",
-          "meta": {
-            "duration": "5 giorno/i",
-            "rating": "4.7/5 Rating",
-            "description": "Experience Rajasthan with our 4N/5D Jodhpur & Udaipur tour package. Explore forts, palaces, lakes and heritage sites with hotels, transfers and guided sightseeing."
-          }
+          meta: {
+            duration: "5 giorno/i",
+            rating: "4.7/5 Rating",
+            description:
+              "Experience Rajasthan with our 4N/5D Jodhpur & Udaipur tour package. Explore forts, palaces, lakes and heritage sites with hotels, transfers and guided sightseeing.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Jodhpur e Udaipur (4 notti - 5 giorni)",
-          "description": "Prenota un viaggio di 5 giorni a Jodhpur e Udaipur. Forte di Mehrangarh, City Palace, lago Pichola ed esperienze culturali."
-        }
+        metadata: {
+          title: "Jodhpur e Udaipur (4 notti - 5 giorni)",
+          description:
+            "Prenota un viaggio di 5 giorni a Jodhpur e Udaipur. Forte di Mehrangarh, City Palace, lago Pichola ed esperienze culturali.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare Jodhpur e Udaipur?",
@@ -6400,17 +7001,18 @@ testimonials: {
           subtitle:
             "Scopri la bellezza mozzafiato del Kashmir con questo viaggio attraverso Srinagar, Gulmarg, Pahalgam e Sonamarg",
           backgroundImage: "/assets/hero/kashmir-5n6d-hero.webp",
-          "meta": {
-            "duration": "6 giorno/i",
-            "locations": 4,
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "6 giorno/i",
+            locations: 4,
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio 5N/6G nel Kashmir",
-          "description": "Esplora il Kashmir in 6 giorni — Srinagar, Sonamarg, Gulmarg e Pahalgam. Soggiorno in houseboat e giro in shikara inclusi."
-        }
+        metadata: {
+          title: "Pacchetto Viaggio 5N/6G nel Kashmir",
+          description:
+            "Esplora il Kashmir in 6 giorni — Srinagar, Sonamarg, Gulmarg e Pahalgam. Soggiorno in houseboat e giro in shikara inclusi.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura nel Kashmir?",
@@ -6558,17 +7160,18 @@ testimonials: {
           subtitle:
             "Scopri la serena bellezza del Kerala con questo viaggio di 5 notti e 6 giorni attraverso Cochin, Munnar, Thekkady e Alleppey",
           backgroundImage: "/assets/hero/Kerala-hero.webp",
-          "meta": {
-            "duration": "6 giorno/i",
-            "locations": 4,
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "6 giorno/i",
+            locations: 4,
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour del Kerala 6 Giorni - Natura e Backwaters",
-          "description": "Visita Munnar, Thekkady e Alleppey. 5 Notti / 6 Giorni da Goa attraverso il Paese di Dio."
-        }
+        metadata: {
+          title: "Tour del Kerala 6 Giorni - Natura e Backwaters",
+          description:
+            "Visita Munnar, Thekkady e Alleppey. 5 Notti / 6 Giorni da Goa attraverso il Paese di Dio.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Kerala?",
@@ -6716,13 +7319,14 @@ testimonials: {
           subtitle:
             "Scopri i maestosi paesaggi e la ricca cultura del Ladakh in questo viaggio himalayano di 7 giorni",
           backgroundImage: "/assets/hero/ladakh-hero.webp",
-          "meta": {}
+          meta: {},
         },
         language: "it",
-        "metadata": {
-          "title": "Avventura in Ladakh 7 Giorni",
-          "description": "Esplora Leh, Nubra Valley, Lago Pangong e Khardung La. Tour di 6 Notti / 7 Giorni da Goa."
-        }
+        metadata: {
+          title: "Avventura in Ladakh 7 Giorni",
+          description:
+            "Esplora Leh, Nubra Valley, Lago Pangong e Khardung La. Tour di 6 Notti / 7 Giorni da Goa.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Ladakh?",
@@ -6872,16 +7476,17 @@ testimonials: {
           subtitle:
             "Scopri la bellezza incontaminata delle isole coralline dell'India con il nostro pacchetto 3 notti 4 giorni",
           backgroundImage: "/assets/hero/Lakshadweep-hero.webp",
-          "meta": {
-            "duration": "3 Nights / 4 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "3 Nights / 4 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Lakshadweep 3N/4G | Global Tourist Centre",
-          "description": "Prenota ora la tua esperienza indimenticabile sulle isole."
-        }
+        metadata: {
+          title: "Pacchetto Lakshadweep 3N/4G | Global Tourist Centre",
+          description:
+            "Prenota ora la tua esperienza indimenticabile sulle isole.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura a Lakshadweep?",
@@ -7010,17 +7615,19 @@ testimonials: {
           subtitle:
             "2 Notti 3 Giorni Viaggio spirituale al luogo di nascita del Signore Krishna con visite guidate ed esperienze culturali",
           backgroundImage: "/assets/hero/Mathura-Vrindavan-hero.webp",
-          "meta": {
-            "duration": "3 giorno/i",
-            "rating": "4.8/5 Rating",
-            "description": "Book a 3D/2N Mathura Tour Package covering Vrindavan, Govardhan & top Krishna temples. Includes transfers, sightseeing & hotel stay. Perfect spiritual getaway."
-          }
+          meta: {
+            duration: "3 giorno/i",
+            rating: "4.8/5 Rating",
+            description:
+              "Book a 3D/2N Mathura Tour Package covering Vrindavan, Govardhan & top Krishna temples. Includes transfers, sightseeing & hotel stay. Perfect spiritual getaway.",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour di Mathura e Vrindavan (2 notti – 3 giorni)",
-          "description": "Tour spirituale di 3G/2N: templi Krishna Janmabhumi, Banke Bihari, Prem Mandir con guida."
-        }
+        metadata: {
+          title: "Tour di Mathura e Vrindavan (2 notti – 3 giorni)",
+          description:
+            "Tour spirituale di 3G/2N: templi Krishna Janmabhumi, Banke Bihari, Prem Mandir con guida.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare Mathura e Vrindavan?",
@@ -7262,16 +7869,17 @@ testimonials: {
           subtitle:
             "Scopri la Scozia dell'Est con ponti viventi, fiumi cristallini e safari nella natura",
           backgroundImage: "/assets/hero/Meghalaya-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Meghalaya 6N/7G | Scozia dell'Oriente",
-          "description": "Ponti di radici viventi, fiumi cristallini, cascate e parco nazionale di Kaziranga in 7 giorni."
-        }
+        metadata: {
+          title: "Pacchetto Meghalaya 6N/7G | Scozia dell'Oriente",
+          description:
+            "Ponti di radici viventi, fiumi cristallini, cascate e parco nazionale di Kaziranga in 7 giorni.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura a Meghalaya?",
@@ -7423,16 +8031,18 @@ testimonials: {
           title: "Viaggio Culturale in India del Nord",
           subtitle: "",
           backgroundImage: "/assets/hero/North-india-hero.webp",
-          "meta": {
-            "duration": "10 giorno/i",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "10 giorno/i",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto 10 Giorni in India del Nord | Global Tourist Centre",
-          "description": "Ricchezza culturale in 10 giorni: Amritsar, Delhi, Agra, Jaipur e Ranthambore. Tour premium."
-        }
+        metadata: {
+          title:
+            "Pacchetto 10 Giorni in India del Nord | Global Tourist Centre",
+          description:
+            "Ricchezza culturale in 10 giorni: Amritsar, Delhi, Agra, Jaipur e Ranthambore. Tour premium.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura nell'India del Nord?",
@@ -7604,16 +8214,18 @@ testimonials: {
           subtitle:
             "Scopri i maestosi forti, i palazzi e la cultura del Rajasthan in 7 giorni",
           backgroundImage: "/assets/hero/Rajasthan-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Esperienza Reale nel Rajasthan in 7 giorni | Global Tourist Centre",
-          "description": "Forti maestosi, palazzi e città storiche. 7 giorni, trasporti privati, hotel di patrimonio. Vivi un viaggio reale!"
-        }
+        metadata: {
+          title:
+            "Esperienza Reale nel Rajasthan in 7 giorni | Global Tourist Centre",
+          description:
+            "Forti maestosi, palazzi e città storiche. 7 giorni, trasporti privati, hotel di patrimonio. Vivi un viaggio reale!",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Rajasthan?",
@@ -7760,20 +8372,22 @@ testimonials: {
         slug: "Shimoga-trip-package",
         type: "domestic-trip",
         hero: {
-          title: "Avventura di 2 Giorni da Goa a Shimoga: Natura e Safari Selvaggio",
+          title:
+            "Avventura di 2 Giorni da Goa a Shimoga: Natura e Safari Selvaggio",
           subtitle: "",
           backgroundImage: "/assets/hero/Shimoga-hero.webp",
-          "meta": {
-            "duration": "1 Night / 2 giorno/i",
-            "locations": 5,
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "1 Night / 2 giorno/i",
+            locations: 5,
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Natura e Cascate di Shimoga (2 Giorni)",
-          "description": "Visita le Cascate Jog, il Safari Tyavarekoppa e il campo elefanti Sakrebailu. 1 Notte / 2 Giorni."
-        }
+        metadata: {
+          title: "Natura e Cascate di Shimoga (2 Giorni)",
+          description:
+            "Visita le Cascate Jog, il Safari Tyavarekoppa e il campo elefanti Sakrebailu. 1 Notte / 2 Giorni.",
+        },
       },
       cta: {
         headline:
@@ -7955,16 +8569,17 @@ testimonials: {
           subtitle:
             "Scopri la terra dei monasteri, dei laghi glaciali e dei passi montani mozzafiato",
           backgroundImage: "/assets/hero/Sikkim-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Sikkim & Darjeeling Tour 7 Giorni",
-          "description": "6 Notti / 7 Giorni tra monasteri, Lago Tsomgo, Baba Mandir e Tiger Hill in Sikkim e Darjeeling."
-        }
+        metadata: {
+          title: "Sikkim & Darjeeling Tour 7 Giorni",
+          description:
+            "6 Notti / 7 Giorni tra monasteri, Lago Tsomgo, Baba Mandir e Tiger Hill in Sikkim e Darjeeling.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura nel Sikkim?",
@@ -8118,17 +8733,18 @@ testimonials: {
           subtitle:
             "Scopri il ricco patrimonio, i templi e le bellezze naturali del Tamil Nadu in questa esplorazione di 7 giorni",
           backgroundImage: "/assets/hero/tamil-nadu-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "locations": 15,
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            locations: 15,
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour dei Templi Tamil Nadu 7 Giorni",
-          "description": "7 Giorni a Madurai, Rameswaram, Kanyakumari, Ooty e templi Chettinad. Esplora il patrimonio del Sud India."
-        }
+        metadata: {
+          title: "Tour dei Templi Tamil Nadu 7 Giorni",
+          description:
+            "7 Giorni a Madurai, Rameswaram, Kanyakumari, Ooty e templi Chettinad. Esplora il patrimonio del Sud India.",
+        },
       },
       cta: {
         headline: "Pronto per il tuo viaggio nel Tamil Nadu?",
@@ -8279,17 +8895,19 @@ testimonials: {
           subtitle:
             "Un viaggio spirituale nell'antica città di Varanasi con Sarnath, Ganga Aarti, tour del tempio e giro in barca sul Gange",
           backgroundImage: "/assets/hero/Varanasi-hero.webp",
-          "meta": {
-            "duration": "2 Nights / 3 giorno/i",
-            "description": "Explore Kashi Vishwanath, Sarnath, sunrise Ganga boat ride & Ganga Aarti with our 3D/2N Varanasi tour package. Includes hotel stay, transfers & sightseeing.",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "2 Nights / 3 giorno/i",
+            description:
+              "Explore Kashi Vishwanath, Sarnath, sunrise Ganga boat ride & Ganga Aarti with our 3D/2N Varanasi tour package. Includes hotel stay, transfers & sightseeing.",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Viaggio a Varanasi (2 notti - 3 giorni)",
-          "description": "La tua esperienza spirituale nella città antica di Varanasi in 3 giorni."
-        }
+        metadata: {
+          title: "Viaggio a Varanasi (2 notti - 3 giorni)",
+          description:
+            "La tua esperienza spirituale nella città antica di Varanasi in 3 giorni.",
+        },
       },
       cta: {
         headline: "Intraprendi un viaggio spirituale a Varanasi",
@@ -8500,16 +9118,18 @@ testimonials: {
           subtitle:
             "Scopri la vivace vita notturna, le bellissime isole e le meraviglie culturali della Thailandia",
           backgroundImage: "/assets/hero/Bangkok3-hero.webp",
-          "meta": {
-            "duration": "4 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "4 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto viaggio 3N/4G Bangkok e Pattaya al -30% solo da Goa",
-          "description": "Prenota un viaggio di 3 notti e 4 giorni a Bangkok e Pattaya da Goa con il 30% di sconto. Include tour dell'Isola del Corallo, show Alcazar, tour di Bangkok e crociera con cena."
-        }
+        metadata: {
+          title:
+            "Pacchetto viaggio 3N/4G Bangkok e Pattaya al -30% solo da Goa",
+          description:
+            "Prenota un viaggio di 3 notti e 4 giorni a Bangkok e Pattaya da Goa con il 30% di sconto. Include tour dell'Isola del Corallo, show Alcazar, tour di Bangkok e crociera con cena.",
+        },
       },
       cta: {
         headline: "Pronto per la tua vacanza in Tailandia?",
@@ -8639,16 +9259,18 @@ testimonials: {
           subtitle:
             "Scopri le vivaci città e le spiagge tropicali della Thailandia in 5 giorni emozionanti",
           backgroundImage: "/assets/hero/Bangkok-hero.webp",
-          "meta": {
-            "duration": "4 Nights / 5 giorno/i",
-            "rating": "4.6/5 Rating"
-          }
+          meta: {
+            duration: "4 Nights / 5 giorno/i",
+            rating: "4.6/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Prenota un viaggio 4N/5G a Bangkok e Pattaya al -30% solo da Goa",
-          "description": "Viaggio di 4 notti e 5 giorni a Bangkok e Pattaya da Goa con il 30% di sconto. Include Isola del Corallo, Safari World, tour città, zoo di Sri Racha, hotel e trasferimenti."
-        }
+        metadata: {
+          title:
+            "Prenota un viaggio 4N/5G a Bangkok e Pattaya al -30% solo da Goa",
+          description:
+            "Viaggio di 4 notti e 5 giorni a Bangkok e Pattaya da Goa con il 30% di sconto. Include Isola del Corallo, Safari World, tour città, zoo di Sri Racha, hotel e trasferimenti.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Tailandia?",
@@ -8784,16 +9406,17 @@ testimonials: {
           subtitle:
             "Scopri le vivaci città, lo straordinario skyline e le meraviglie culturali di Hong Kong e Macao",
           backgroundImage: "/assets/hero/HongKong-hero.webp",
-          "meta": {
-            "duration": "6 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "6 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour di 5N/6G a Hong Kong – -30% solo per i residenti di Goa",
-          "description": "Prenota ora il tuo tour di 5N/6G a Hong Kong con il 30% di sconto esclusivo: viste iconiche, shopping, soggiorni di lusso e trasferimenti facili."
-        }
+        metadata: {
+          title: "Tour di 5N/6G a Hong Kong – -30% solo per i residenti di Goa",
+          description:
+            "Prenota ora il tuo tour di 5N/6G a Hong Kong con il 30% di sconto esclusivo: viste iconiche, shopping, soggiorni di lusso e trasferimenti facili.",
+        },
       },
       cta: {
         headline: "Pronto per la tua vacanza a Hong Kong e Macao?",
@@ -8936,16 +9559,18 @@ testimonials: {
           subtitle:
             "Scopri la Terra del Drago del Tuono: monasteri, fortezze e paesaggi mozzafiato",
           backgroundImage: "/assets/hero/Bhutan-hero.webp",
-          "meta": {
-            "duration": "8 giorno/i",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "8 giorno/i",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio 7N/8G in Bhutan | Avventura nel Regno Himalayano",
-          "description": "Viaggio di 7 notti e 8 giorni in Bhutan da Goa con il 30% di sconto. Esplora Thimphu, Punakha, Paro e il Nido della Tigre con tour guidati, pasti e hotel."
-        }
+        metadata: {
+          title:
+            "Pacchetto Viaggio 7N/8G in Bhutan | Avventura nel Regno Himalayano",
+          description:
+            "Viaggio di 7 notti e 8 giorni in Bhutan da Goa con il 30% di sconto. Esplora Thimphu, Punakha, Paro e il Nido della Tigre con tour guidati, pasti e hotel.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Bhutan?",
@@ -9106,16 +9731,17 @@ testimonials: {
           subtitle:
             "Esplora Hanoi, Ninh Binh, Baia di Ha Long, Da Nang, Hoi An e Ho Chi Minh con crociere, tour e trasferimenti",
           backgroundImage: "/assets/hero/Vietnam-7n-hero.webp",
-          "meta": {
-            "duration": "8 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "8 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio Vietnam 7N/8G al -30% solo da Goa",
-          "description": "Approfitta del 30% di sconto su un viaggio di 8 giorni in Vietnam da Goa. Esplora Hanoi, Baia di Ha Long, Da Nang, Hoi An e Ho Chi Minh."
-        }
+        metadata: {
+          title: "Pacchetto Viaggio Vietnam 7N/8G al -30% solo da Goa",
+          description:
+            "Approfitta del 30% di sconto su un viaggio di 8 giorni in Vietnam da Goa. Esplora Hanoi, Baia di Ha Long, Da Nang, Hoi An e Ho Chi Minh.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Vietnam?",
@@ -9276,16 +9902,17 @@ testimonials: {
           subtitle:
             "Scopri il meglio della Thailandia: Bangkok, Pattaya, Krabi e Phuket in un viaggio indimenticabile",
           backgroundImage: "/assets/hero/Thailand-hero.webp",
-          "meta": {
-            "duration": "8 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "8 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Prenota un pacchetto 7N/8G in Thailandia al -30% solo da Goa",
-          "description": "Tour di 8 giorni in Thailandia al -30%: Bangkok, Pattaya, Krabi, Phuket, isole Phi Phi e altro."
-        }
+        metadata: {
+          title: "Prenota un pacchetto 7N/8G in Thailandia al -30% solo da Goa",
+          description:
+            "Tour di 8 giorni in Thailandia al -30%: Bangkok, Pattaya, Krabi, Phuket, isole Phi Phi e altro.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Tailandia?",
@@ -9453,16 +10080,17 @@ testimonials: {
           subtitle:
             "Esplora Istanbul, Cappadocia, Antalya e Pamukkale con voli, hotel, tour e trasferimenti privati",
           backgroundImage: "/assets/hero/Turkey-hero.webp",
-          "meta": {
-            "duration": "9 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "9 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio Turchia 8N/9G al -30% solo da Goa",
-          "description": "Prenota un viaggio di 8 notti e 9 giorni in Turchia da Goa con il 30% di sconto. Esplora Istanbul, Cappadocia, Antalya e Pamukkale con voli e hotel."
-        }
+        metadata: {
+          title: "Pacchetto Viaggio Turchia 8N/9G al -30% solo da Goa",
+          description:
+            "Prenota un viaggio di 8 notti e 9 giorni in Turchia da Goa con il 30% di sconto. Esplora Istanbul, Cappadocia, Antalya e Pamukkale con voli e hotel.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Turchia?",
@@ -9629,16 +10257,17 @@ testimonials: {
           subtitle:
             "Scopri la perfetta combinazione di storia antica e architettura moderna nella vivace capitale dell'Azerbaigian",
           backgroundImage: "/assets/hero/Baku-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Baku 6N/7G – -30% solo per i residenti di Goa",
-          "description": "Scopri Baku in questo pacchetto di 6N/7G con sconto esclusivo del 30%: monumenti urbani, architettura moderna e fascino storico. Offerta limitata!"
-        }
+        metadata: {
+          title: "Pacchetto Baku 6N/7G – -30% solo per i residenti di Goa",
+          description:
+            "Scopri Baku in questo pacchetto di 6N/7G con sconto esclusivo del 30%: monumenti urbani, architettura moderna e fascino storico. Offerta limitata!",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Azerbaigian?",
@@ -9803,16 +10432,18 @@ testimonials: {
           subtitle:
             "Scopri l'Isola degli Dei con spiagge meravigliose, meraviglie culturali e attività avventurose",
           backgroundImage: "/assets/hero/Bali-hero.webp",
-          "meta": {
-            "duration": "5 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "5 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour di Lusso 4N/5G a Bali – -30% per i residenti di Goa | Global Tourist Centre",
-          "description": "Relax premium a Bali al -30%: spiagge, risaie, templi e spa. Solo per i residenti di Goa."
-        }
+        metadata: {
+          title:
+            "Tour di Lusso 4N/5G a Bali – -30% per i residenti di Goa | Global Tourist Centre",
+          description:
+            "Relax premium a Bali al -30%: spiagge, risaie, templi e spa. Solo per i residenti di Goa.",
+        },
       },
       cta: {
         headline: "Pronto per la tua vacanza a Bali?",
@@ -9952,16 +10583,18 @@ testimonials: {
           subtitle:
             "Scopri antichi templi, paesaggi lussureggianti e un ricco patrimonio culturale in due incredibili nazioni del sud-est asiatico",
           backgroundImage: "/assets/hero/Cambodia-hero.webp",
-          "meta": {
-            "duration": "9 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "9 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio 8N/9G in Cambogia dall'India | Viaggio Esclusivo",
-          "description": "Esplora la Cambogia con il nostro pacchetto di 8N/9G dall'India: templi antichi, cultura vibrante e viaggio senza pensieri. Prenota un'avventura indimenticabile!"
-        }
+        metadata: {
+          title:
+            "Pacchetto Viaggio 8N/9G in Cambogia dall'India | Viaggio Esclusivo",
+          description:
+            "Esplora la Cambogia con il nostro pacchetto di 8N/9G dall'India: templi antichi, cultura vibrante e viaggio senza pensieri. Prenota un'avventura indimenticabile!",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Cambogia e Laos?",
@@ -10130,15 +10763,16 @@ testimonials: {
           subtitle:
             "5 notti 6 giorni esplorando i monumenti più iconici di Dubai con uno sconto del 30% sull'offerta speciale",
           backgroundImage: "/assets/hero/dubai-hero.webp",
-          "meta": {
-            "duration": "6 giorno/i"
-          }
+          meta: {
+            duration: "6 giorno/i",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Prenota un pacchetto a Dubai al -30% solo da Goa",
-          "description": "Viaggio di 5N/6G a Dubai da Goa con il 30% di sconto. Include crociera Dhow, safari nel deserto, Burj Khalifa, acquario e tour città."
-        }
+        metadata: {
+          title: "Prenota un pacchetto a Dubai al -30% solo da Goa",
+          description:
+            "Viaggio di 5N/6G a Dubai da Goa con il 30% di sconto. Include crociera Dhow, safari nel deserto, Burj Khalifa, acquario e tour città.",
+        },
       },
       cta: {
         headline: "Pronto a vivere Dubai?",
@@ -10285,16 +10919,18 @@ testimonials: {
           subtitle:
             "Scopri antiche chiese, paesi vinicoli, paesaggi montani e la calda ospitalità nel Caucaso",
           backgroundImage: "/assets/hero/Georgia-hero.webp",
-          "meta": {
-            "duration": "8 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "8 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio in Georgia dall'India – Scopri la Magia del Caucaso",
-          "description": "Scopri la Georgia: centro storico di Tbilisi, paesaggi di Kazbegi, costa di Batumi e altro ancora. Voli, guide e cultura inclusi."
-        }
+        metadata: {
+          title:
+            "Pacchetto Viaggio in Georgia dall'India – Scopri la Magia del Caucaso",
+          description:
+            "Scopri la Georgia: centro storico di Tbilisi, paesaggi di Kazbegi, costa di Batumi e altro ancora. Voli, guide e cultura inclusi.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Georgia?",
@@ -10454,16 +11090,17 @@ testimonials: {
           subtitle:
             "Scopri la miscela perfetta di cultura tradizionale e innovazione moderna a Tokyo, Osaka, Kyoto e oltre",
           backgroundImage: "/assets/hero/Japan-hero.webp",
-          "meta": {
-            "duration": "8 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "8 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Lusso 7N/8G in Giappone – -30% solo per Goa",
-          "description": "Esplora il Giappone con stile: Tokyo, Kyoto, Osaka, treni Shinkansen e soggiorni premium. -30% solo per i residenti di Goa."
-        }
+        metadata: {
+          title: "Pacchetto Lusso 7N/8G in Giappone – -30% solo per Goa",
+          description:
+            "Esplora il Giappone con stile: Tokyo, Kyoto, Osaka, treni Shinkansen e soggiorni premium. -30% solo per i residenti di Goa.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Giappone?",
@@ -10621,16 +11258,18 @@ testimonials: {
           subtitle:
             "Scopri la Città dai Mille Colori con avventure in montagna, esperienze culturali e fascino moderno",
           backgroundImage: "/assets/hero/Almaty-hero.webp",
-          "meta": {
-            "duration": "5 giorno/i",
-            "rating": "4.6/5 Rating"
-          }
+          meta: {
+            duration: "5 giorno/i",
+            rating: "4.6/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Kazakistan 4N/5G – -30% per i residenti di Goa | Global Tourist Centre",
-          "description": "Esclusivo tour in Kazakistan a -30%: fascino urbano di Almaty, laghi di montagna e canyon di Charyn. Prenota la tua fuga!"
-        }
+        metadata: {
+          title:
+            "Pacchetto Kazakistan 4N/5G – -30% per i residenti di Goa | Global Tourist Centre",
+          description:
+            "Esclusivo tour in Kazakistan a -30%: fascino urbano di Almaty, laghi di montagna e canyon di Charyn. Prenota la tua fuga!",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura ad Almaty?",
@@ -10768,16 +11407,17 @@ testimonials: {
           subtitle:
             "Scopri il regno dell'Himalaya con la nostra esclusiva offerta di sconto del 30% da Goa",
           backgroundImage: "/assets/hero/Nepal-6N-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Nepal 6N/7G al -30% solo da Goa",
-          "description": "Viaggio di 7 giorni nel Nepal da Goa al -30%. Kathmandu, safari a Chitwan e Pokhara. Hotel e guida inclusi."
-        }
+        metadata: {
+          title: "Pacchetto Nepal 6N/7G al -30% solo da Goa",
+          description:
+            "Viaggio di 7 giorni nel Nepal da Goa al -30%. Kathmandu, safari a Chitwan e Pokhara. Hotel e guida inclusi.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Nepal?",
@@ -10933,16 +11573,17 @@ testimonials: {
           subtitle:
             "Un viaggio spirituale attraverso l'Himalaya tra antichi templi e paesaggi mozzafiato",
           backgroundImage: "/assets/hero/Muktinath-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Nepal 6N/7G al -30% solo da Goa",
-          "description": "Viaggio di 6N/7G in Nepal: Kathmandu, Muktinath, safari a Chitwan e Pokhara con sconto del 30%."
-        }
+        metadata: {
+          title: "Pacchetto Nepal 6N/7G al -30% solo da Goa",
+          description:
+            "Viaggio di 6N/7G in Nepal: Kathmandu, Muktinath, safari a Chitwan e Pokhara con sconto del 30%.",
+        },
       },
       cta: {
         headline: "Pronto per il tuo viaggio spirituale in Nepal?",
@@ -11092,16 +11733,17 @@ testimonials: {
           subtitle:
             "Vivi il paradiso tropicale della Thailandia con la nostra esclusiva offerta di sconto del 30% da Goa",
           backgroundImage: "/assets/hero/Phuket-hero.webp",
-          "meta": {
-            "duration": "5 giorno/i",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "5 giorno/i",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto 4N/5G Phuket e Krabi al -30% da Goa",
-          "description": "Prenota 4N/5G a Phuket e Krabi al -30%. Tour delle 4 isole, Phi Phi, tour di Phuket, hotel e trasferimenti."
-        }
+        metadata: {
+          title: "Pacchetto 4N/5G Phuket e Krabi al -30% da Goa",
+          description:
+            "Prenota 4N/5G a Phuket e Krabi al -30%. Tour delle 4 isole, Phi Phi, tour di Phuket, hotel e trasferimenti.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Tailandia?",
@@ -11242,16 +11884,17 @@ testimonials: {
           subtitle:
             "Scopri il meglio di Singapore e Kuala Lumpur in un viaggio indimenticabile",
           backgroundImage: "/assets/hero/Singapore-hero.webp",
-          "meta": {
-            "duration": "7 giorno/i",
-            "rating": "4.8/5 Rating"
-          }
+          meta: {
+            duration: "7 giorno/i",
+            rating: "4.8/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Viaggio Singapore e Malesia 6N/7G",
-          "description": "Il meglio di Singapore e della Malesia: tour città, parchi a tema e soggiorni di lusso."
-        }
+        metadata: {
+          title: "Pacchetto Viaggio Singapore e Malesia 6N/7G",
+          description:
+            "Il meglio di Singapore e della Malesia: tour città, parchi a tema e soggiorni di lusso.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura a Singapore e in Malesia?",
@@ -11415,16 +12058,18 @@ testimonials: {
           subtitle:
             "Scopri la perla dell'Oceano Indiano con meraviglie culturali, avventure nella natura e spiagge incontaminate",
           backgroundImage: "/assets/hero/SriLanka-hero.webp",
-          "meta": {
-            "duration": "8 giorno/i",
-            "rating": "4.6/5 Rating"
-          }
+          meta: {
+            duration: "8 giorno/i",
+            rating: "4.6/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Tour di Lusso 7N/8G nello Sri Lanka – -30% per i residenti di Goa",
-          "description": "Esplora lo Sri Lanka in 8 giorni: hotel di lusso, trasferimenti privati ed esperienze esclusive con sconto del 30%."
-        }
+        metadata: {
+          title:
+            "Tour di Lusso 7N/8G nello Sri Lanka – -30% per i residenti di Goa",
+          description:
+            "Esplora lo Sri Lanka in 8 giorni: hotel di lusso, trasferimenti privati ed esperienze esclusive con sconto del 30%.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura nello Sri Lanka?",
@@ -11585,16 +12230,17 @@ testimonials: {
           subtitle:
             "Dai camini delle fate della Cappadocia alle meraviglie storiche di Istanbul",
           backgroundImage: "/assets/hero/Turkey2-hero.webp",
-          "meta": {
-            "duration": "6 giorno/i",
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "6 giorno/i",
+            rating: "4.9/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Turchia 5N/6G al -30% solo da Goa",
-          "description": "Visita la Cappadocia, Istanbul, crociera sul Bosforo e palazzi in un viaggio di 6 giorni al -30%."
-        }
+        metadata: {
+          title: "Pacchetto Turchia 5N/6G al -30% solo da Goa",
+          description:
+            "Visita la Cappadocia, Istanbul, crociera sul Bosforo e palazzi in un viaggio di 6 giorni al -30%.",
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura turca?",
@@ -11739,16 +12385,17 @@ testimonials: {
           subtitle:
             "5 notti 6 giorni esplorando Hanoi, Ha Long Bay, Da Nang e Hoi An con visite guidate ed esperienze culturali",
           backgroundImage: "/assets/hero/Vietnam-hero.webp",
-          "meta": {
-            "duration": "6 giorno/i",
-            "rating": "4.7/5 Rating"
-          }
+          meta: {
+            duration: "6 giorno/i",
+            rating: "4.7/5 Rating",
+          },
         },
         language: "it",
-        "metadata": {
-          "title": "Viaggio Culturale e Scénico nel Vietnam",
-          "description": "Tour di 6 giorni in Vietnam: Hanoi, Baia di Ha Long, Da Nang e Hoi An. Crociere, guide e cultura."
-        }
+        metadata: {
+          title: "Viaggio Culturale e Scénico nel Vietnam",
+          description:
+            "Tour di 6 giorni in Vietnam: Hanoi, Baia di Ha Long, Da Nang e Hoi An. Crociere, guide e cultura.",
+        },
       },
       cta: {
         headline: "Pronto per esplorare il Vietnam?",
@@ -12306,13 +12953,16 @@ testimonials: {
     "mumbai-luxury": {
       hero: {
         title: "Tour di Lusso a Mumbai",
-        description: "Scopri la 'Maximum City' nel massimo del lusso. Soggiorna in hotel iconici, esplora siti storici, goditi l'alta cucina.",
+        description:
+          "Scopri la 'Maximum City' nel massimo del lusso. Soggiorna in hotel iconici, esplora siti storici, goditi l'alta cucina.",
         discountBadge: "Fino al 20% di SCONTO sulle prenotazioni anticipate",
         image: "/assets/Luxury/Mumbai/mumbai-hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso a Mumbai | Global Tourist Centre – Fuga Premium",
-        "description": "Esclusivo pacchetto lusso a Mumbai: hotel 5 stelle, chauffeur privato, cucina raffinata e visite guidate."
+      metadata: {
+        title:
+          "Pacchetto Lusso a Mumbai | Global Tourist Centre – Fuga Premium",
+        description:
+          "Esclusivo pacchetto lusso a Mumbai: hotel 5 stelle, chauffeur privato, cucina raffinata e visite guidate.",
       },
 
       toursSection: {
@@ -12361,13 +13011,16 @@ testimonials: {
     "golden-triangle-luxury": {
       hero: {
         title: "Tour di Lusso Triangolo d'Oro",
-        description: "Il circuito culturale più iconico dell'India in un lusso senza pari: Delhi, Agra e Jaipur.",
+        description:
+          "Il circuito culturale più iconico dell'India in un lusso senza pari: Delhi, Agra e Jaipur.",
         discountBadge: "Fino al 25% di SCONTO sulle prenotazioni anticipate",
         image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      "metadata": {
-        "title": "Tour di Lusso Triangolo d'Oro | Circuito Premium Delhi-Agra-Jaipur – Global Tourist Centre",
-        "description": "Tour esclusivo con soggiorni in palazzi storici, chauffeur privato, visite VIP ed esperienze su misura."
+      metadata: {
+        title:
+          "Tour di Lusso Triangolo d'Oro | Circuito Premium Delhi-Agra-Jaipur – Global Tourist Centre",
+        description:
+          "Tour esclusivo con soggiorni in palazzi storici, chauffeur privato, visite VIP ed esperienze su misura.",
       },
 
       toursSection: {
@@ -12425,13 +13078,16 @@ testimonials: {
     "kerala-luxury": {
       hero: {
         title: "Tour di Lusso nel Kerala",
-        description: "Scopri la 'Terra di Dio' nel lusso estremo. Crociere sulle backwaters, houseboat premium, ayurveda e colline.",
+        description:
+          "Scopri la 'Terra di Dio' nel lusso estremo. Crociere sulle backwaters, houseboat premium, ayurveda e colline.",
         discountBadge: "Fino al 30% di SCONTO sulle prenotazioni anticipate",
         image: "/assets/Luxury/Kerala/hero-backwaters.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso nel Kerala | Global Tourist Centre – Fuga Premium",
-        "description": "Il nostro esclusivo pacchetto lusso nel Kerala: soggiorni opulenti, houseboat private, paesaggi incantevoli e momenti indimenticabili."
+      metadata: {
+        title:
+          "Pacchetto Lusso nel Kerala | Global Tourist Centre – Fuga Premium",
+        description:
+          "Il nostro esclusivo pacchetto lusso nel Kerala: soggiorni opulenti, houseboat private, paesaggi incantevoli e momenti indimenticabili.",
       },
 
       toursSection: {
@@ -12488,13 +13144,16 @@ testimonials: {
     "rajasthan-luxury": {
       hero: {
         title: "Tour Reali nel Rajasthan",
-        description: "Patrimonio reale del Rajasthan in tour di lusso esclusivi. Palazzi maestosi, antichi forti e cultura vibrante.",
+        description:
+          "Patrimonio reale del Rajasthan in tour di lusso esclusivi. Palazzi maestosi, antichi forti e cultura vibrante.",
         discountBadge: "Fino al 30% di SCONTO sulle prenotazioni anticipate",
         image: "/assets/Luxury/Rajasthan/Rajasthan-Luxury.webp",
       },
-      "metadata": {
-        "title": "Tour di Lusso nel Rajasthan | Global Tourist Centre – Patrimonio Reale e Comfort 5 Stelle",
-        "description": "Pacchetto lusso definitivo nel Rajasthan: soggiorni nei palazzi, guide private, esperienze esclusive e trasferimenti."
+      metadata: {
+        title:
+          "Tour di Lusso nel Rajasthan | Global Tourist Centre – Patrimonio Reale e Comfort 5 Stelle",
+        description:
+          "Pacchetto lusso definitivo nel Rajasthan: soggiorni nei palazzi, guide private, esperienze esclusive e trasferimenti.",
       },
 
       toursSection: {
@@ -12560,13 +13219,16 @@ testimonials: {
     "karnataka-luxury": {
       hero: {
         title: "Tour di Lusso nel Karnataka",
-        description: "Palazzi reali, safari selvaggi, colline e città moderne combinati nel lusso.",
+        description:
+          "Palazzi reali, safari selvaggi, colline e città moderne combinati nel lusso.",
         discountBadge: "Fino al 25% di SCONTO sulle prenotazioni anticipate",
         image: "/assets/Luxury/Karnataka/hero.webp",
       },
-      "metadata": {
-        "title": "Tour di Lusso nel Karnataka – Esperienza su Misura e Fauna | Global Tourist Centre",
-        "description": "Tour indimenticabile nel Karnataka: palazzi reali, patrimonio di Mysore, safari a Bandipur e alta cucina."
+      metadata: {
+        title:
+          "Tour di Lusso nel Karnataka – Esperienza su Misura e Fauna | Global Tourist Centre",
+        description:
+          "Tour indimenticabile nel Karnataka: palazzi reali, patrimonio di Mysore, safari a Bandipur e alta cucina.",
       },
 
       toursSection: {
@@ -12621,9 +13283,10 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Rajasthan%20Luxury%20Package%20(Jaipur%20%26%20Udaipur).%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Rajasthan/raj1-hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso 5G/4N nel Rajasthan | Global Tourist Centre",
-        "description": "Elegante pacchetto nel Rajasthan: hotel di patrimonio reale, Jaipur, Udaipur e Jodhpur, trasferimenti privati."
+      metadata: {
+        title: "Pacchetto Lusso 5G/4N nel Rajasthan | Global Tourist Centre",
+        description:
+          "Elegante pacchetto nel Rajasthan: hotel di patrimonio reale, Jaipur, Udaipur e Jodhpur, trasferimenti privati.",
       },
       itinerary: {
         title: "Esperienza Reale a Jaipur e Udaipur",
@@ -12799,9 +13462,10 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso 7G/6N Triangolo d'Oro | Global Tourist Centre",
-        "description": "Viaggio di lusso di 7 giorni: palazzi premium, chauffeur privato, alba al Taj Mahal e servizio d'eccellenza."
+      metadata: {
+        title: "Pacchetto Lusso 7G/6N Triangolo d'Oro | Global Tourist Centre",
+        description:
+          "Viaggio di lusso di 7 giorni: palazzi premium, chauffeur privato, alba al Taj Mahal e servizio d'eccellenza.",
       },
       itinerary: {
         title: "Un viaggio nel cuore culturale dell'India",
@@ -12958,9 +13622,10 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Rajasthan%20Luxury%20Package%20(Jaipur,%20Jodhpur%20%26%20Udaipur).%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Rajasthan/raj2-hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso 7G/6N nel Rajasthan | Global Tourist Centre",
-        "description": "Tour di 7 giorni nel Rajasthan: hotel-palazzo, Jaipur, Udaipur, Jodhpur e Jaisalmer, trasferimenti privati."
+      metadata: {
+        title: "Pacchetto Lusso 7G/6N nel Rajasthan | Global Tourist Centre",
+        description:
+          "Tour di 7 giorni nel Rajasthan: hotel-palazzo, Jaipur, Udaipur, Jodhpur e Jaisalmer, trasferimenti privati.",
       },
       footer: {
         about:
@@ -13212,9 +13877,10 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso 5G/4N Triangolo d'Oro | Global Tourist Centre",
-        "description": "Esclusivo pacchetto 5 giorni: palazzi storici, chauffeur privato da Delhi ad Agra e Jaipur, visite VIP."
+      metadata: {
+        title: "Pacchetto Lusso 5G/4N Triangolo d'Oro | Global Tourist Centre",
+        description:
+          "Esclusivo pacchetto 5 giorni: palazzi storici, chauffeur privato da Delhi ad Agra e Jaipur, visite VIP.",
       },
       itinerary: {
         title: "Viaggio nel cuore culturale dell'India",
@@ -13351,9 +14017,11 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%20Karnataka%20Luxury%20Tour%20Package%20(Bangalore,%20Mysore%20%26%20Ooty).%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Karnataka/hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso 8G/7N nel Karnataka | Global Tourist Centre – Palazzi e Safari",
-        "description": "Splendido viaggio di 8 giorni nel Karnataka: dal comfort 5 stelle di Bangalore ai palazzi di Mysore."
+      metadata: {
+        title:
+          "Pacchetto Lusso 8G/7N nel Karnataka | Global Tourist Centre – Palazzi e Safari",
+        description:
+          "Splendido viaggio di 8 giorni nel Karnataka: dal comfort 5 stelle di Bangalore ai palazzi di Mysore.",
       },
       footer: {
         about:
@@ -13557,9 +14225,11 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Kerala/hero-backwaters.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso nel Kerala 5G/4N – -30% | Global Tourist Centre",
-        "description": "Prenota un tour lusso di 5 giorni nel Kerala al -30%: ville sull'acqua, crociere private e soggiorni opulenti."
+      metadata: {
+        title:
+          "Pacchetto Lusso nel Kerala 5G/4N – -30% | Global Tourist Centre",
+        description:
+          "Prenota un tour lusso di 5 giorni nel Kerala al -30%: ville sull'acqua, crociere private e soggiorni opulenti.",
       },
       itinerary: {
         title: "Viaggio nella 'Terra di Dio'",
@@ -13575,7 +14245,8 @@ testimonials: {
             ],
           },
           {
-            day_title: "Giorno 02: Cochin → Munnar (Circa 4,5 ore di auto) (2 Notti)",
+            day_title:
+              "Giorno 02: Cochin → Munnar (Circa 4,5 ore di auto) (2 Notti)",
             location: "Munnar",
             description:
               "Colazione in hotel. Partenza per Munnar, goditi le pittoresche piantagioni di tè, le cascate e la lussureggiante vegetazione lungo il percorso. Check-in in un lussuoso resort in collina. Serata libera al resort con sessione di spa/Ayurveda.",
@@ -13680,7 +14351,8 @@ testimonials: {
         {
           icon: "fas fa-shield-alt",
           title: "Tasse e Supporto",
-          description: "Tutti i parcheggi, pedaggi, tasse applicabili e assistenza",
+          description:
+            "Tutti i parcheggi, pedaggi, tasse applicabili e assistenza",
         },
       ],
     },
@@ -13696,9 +14368,11 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%202N/3D%20Mumbai%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Mumbai/mumbai-hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso 3G/2N a Mumbai | Fuga Premium – Global Tourist Centre",
-        "description": "Esclusivo pacchetto 3 giorni a Mumbai: hotel 5 stelle, chauffeur privato, visite premium."
+      metadata: {
+        title:
+          "Pacchetto Lusso 3G/2N a Mumbai | Fuga Premium – Global Tourist Centre",
+        description:
+          "Esclusivo pacchetto 3 giorni a Mumbai: hotel 5 stelle, chauffeur privato, visite premium.",
       },
       footer: {
         about:
@@ -13874,9 +14548,11 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%208N/9D%20Rajasthan%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Rajasthan/raj3-hero.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso 9G/8N nel Rajasthan | Global Tourist Centre – Comfort 5 Stelle",
-        "description": "Il tour lusso definitivo nel Rajasthan: palazzi storici a Jaipur, Udaipur, Jodhpur, trasferimenti privati."
+      metadata: {
+        title:
+          "Pacchetto Lusso 9G/8N nel Rajasthan | Global Tourist Centre – Comfort 5 Stelle",
+        description:
+          "Il tour lusso definitivo nel Rajasthan: palazzi storici a Jaipur, Udaipur, Jodhpur, trasferimenti privati.",
       },
       itinerary: {
         title: "Viaggio Reale nel Rajasthan tra Palazzi e Fortezze",
@@ -14087,9 +14763,11 @@ testimonials: {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%207N/8D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Kerala/hero-comprehensive.webp",
       },
-      "metadata": {
-        "title": "Pacchetto Lusso nel Kerala 8G/7N – -30% | Global Tourist Centre",
-        "description": "Tour lusso esclusivo di 8 giorni nel Kerala al -30%: soggiorni ultra-lusso e servizio personalizzato."
+      metadata: {
+        title:
+          "Pacchetto Lusso nel Kerala 8G/7N – -30% | Global Tourist Centre",
+        description:
+          "Tour lusso esclusivo di 8 giorni nel Kerala al -30%: soggiorni ultra-lusso e servizio personalizzato.",
       },
       itinerary: {
         title: "Esperienza Completa di Lusso in Kerala",
@@ -14264,7 +14942,8 @@ testimonials: {
   },
   notfound: {
     title: "L'avventura attende, ma hai preso una deviazione!",
-    description: "Anche gli esploratori più esperti a volte si allontanano dal sentiero. Non preoccuparti: perdersi fa parte del viaggio. Lasciati guidare verso destinazioni incredibili ed esperienze indimenticabili!",
+    description:
+      "Anche gli esploratori più esperti a volte si allontanano dal sentiero. Non preoccuparti: perdersi fa parte del viaggio. Lasciati guidare verso destinazioni incredibili ed esperienze indimenticabili!",
     buttons: {
       home: "Ritorna al Campo Base",
       destinations: "Scopri Nuovi Sentieri",
