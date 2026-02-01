@@ -57,6 +57,17 @@ export const metadata: Metadata = {
     siteName: "Global Tourist Centre",
   },
   metadataBase: new URL("https://globaltouristcentre.com/"),
+    alternates: {
+    canonical: "https://globaltouristcentre.com/",
+    languages: {
+      "en": "https://globaltouristcentre.com/",
+      "ru": "https://globaltouristcentre.com/ru/",
+      "it": "https://globaltouristcentre.com/it/",
+      "fr": "https://globaltouristcentre.com/fr/",
+      "de": "https://globaltouristcentre.com/de/",
+      "x-default": "https://globaltouristcentre.com/",
+    },
+  },
 };
 
 /* -----------------------------
