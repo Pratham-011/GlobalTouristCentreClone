@@ -28,37 +28,38 @@ export const playfair = Playfair_Display({
 /* -----------------------------
    Metadata (English – base)
 ------------------------------ */
-export const metadata: Metadata = {
-  title: "Global Tourist Centre | Luxury Travel Experiences",
-  description:
-    "We don't just book trips — we design lifetimes of stories. Bespoke domestic and international tours since 2010.",
-  keywords: [
-    "luxury travel",
-    "tour packages",
-    "India tours",
-    "international travel",
-    "Goa tours",
-    "Kerala luxury trips",
-  ],
-  authors: [{ name: "Global Tourist Centre" }],
-  openGraph: {
-    type: "website",
-    siteName: "Global Tourist Centre",
-  },
-  metadataBase: new URL("https://globaltouristcentre.com/"),
-  alternates: {
-    canonical: "https://globaltouristcentre.com/",
-    languages: {
-      "en": "https://globaltouristcentre.com/",
-      "ru": "https://globaltouristcentre.com/ru/",
-      "it": "https://globaltouristcentre.com/it/",
-      "fr": "https://globaltouristcentre.com/fr/",
-      "de": "https://globaltouristcentre.com/de/",
-      "x-default": "https://globaltouristcentre.com/",
+export async function generateMetadata(): Promise<Metadata> {
+  return {
+    title: "Global Tourist Centre | Luxury Travel Experiences",
+    description:
+      "We don't just book trips — we design lifetimes of stories. Bespoke domestic and international tours since 2010.",
+    keywords: [
+      "luxury travel",
+      "tour packages",
+      "India tours",
+      "international travel",
+      "Goa tours",
+      "Kerala luxury trips",
+    ],
+    authors: [{ name: "Global Tourist Centre" }],
+    metadataBase: new URL("https://globaltouristcentre.com"),
+    alternates: {
+      canonical: "/",
+      languages: {
+        en: "/",
+        ru: "/ru/",
+        it: "/it/",
+        fr: "/fr/",
+        de: "/de/",
+        "x-default": "/",
+      },
     },
-  },
-};
-
+    openGraph: {
+      type: "website",
+      siteName: "Global Tourist Centre",
+    },
+  };
+}
 /* -----------------------------
    Viewport
 ------------------------------ */
