@@ -10,42 +10,73 @@ import { getTranslations } from "@/lib/i18n/getTranslations";
 
 const t = getTranslations("en");
 
-export const metadata: Metadata = {
-  title:
+
+export async function generateMetadata({
+  params,
+}: {
+  params: { locale: string };
+}): Promise<Metadata> {
+  const locale = params.locale;
+
+  const title =
     t.metadata?.home?.title ??
-    "Global Tourist Centre | Your Journey Begins Here",
-  description:
+    "Global Tourist Centre | Your Journey Begins Here";
+
+  const description =
     t.metadata?.home?.description ??
-    "Plan your perfect vacation with GTC - Goa's leading travel agency.",
-  alternates: {
-    canonical: "https://globaltouristcentre.com/",
-  },
-  openGraph: {
-    title: t.metadata?.home?.title,
-    description: t.metadata?.home?.description,
-    images: ["/assets/hero/Index-hero.webp"],
-    siteName: t.metadata?.brandname,
-    type: "website",
-    url: "https://globaltouristcentre.com/",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: t.metadata?.home?.title,
-    description: t.metadata?.home?.description,
-    images: [
-      {
-        url: "/assets/hero/Index-hero.webp",
-        width: 1200,
-        height: 630,
-        alt: t.metadata?.home?.title,
+    "Plan your perfect vacation with GTC - Goa's leading travel agency.";
+
+  const canonical =
+    locale === "en"
+      ? "https://globaltouristcentre.com/"
+      : `https://globaltouristcentre.com/${locale}/`;
+
+  return {
+    title,
+    description,
+
+    alternates: {
+      canonical,
+      languages: {
+        en: "https://globaltouristcentre.com/",
+        it: "https://globaltouristcentre.com/it/",
+        fr: "https://globaltouristcentre.com/fr/",
+        de: "https://globaltouristcentre.com/de/",
+        ru: "https://globaltouristcentre.com/ru/",
+        "x-default": "https://globaltouristcentre.com/",
       },
-    ],
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
-};
+    },
+
+    openGraph: {
+      title,
+      description,
+      images: ["/assets/hero/Index-hero.webp"],
+      siteName: t.metadata?.brandname,
+      type: "website",
+      url: canonical,
+    },
+
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [
+        {
+          url: "/assets/hero/Index-hero.webp",
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
+    },
+
+    robots: {
+      index: true,
+      follow: true,
+    },
+  };
+}
+
 
 export default function Page() {
   return (

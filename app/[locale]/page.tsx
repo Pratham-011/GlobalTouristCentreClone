@@ -31,7 +31,16 @@ export async function generateMetadata({
     description,
     alternates: {
       canonical,
+      languages: {
+        en: "https://globaltouristcentre.com/",
+        it: "https://globaltouristcentre.com/it/",
+        fr: "https://globaltouristcentre.com/fr/",
+        de: "https://globaltouristcentre.com/de/",
+        ru: "https://globaltouristcentre.com/ru/",
+        "x-default": "https://globaltouristcentre.com/",
+      },
     },
+
     openGraph: {
       title,
       description,
@@ -44,7 +53,7 @@ export async function generateMetadata({
       title,
       description,
       card: "summary_large_image",
-      images: [ 
+      images: [
         {
           url: image,
           width: 1200,
