@@ -13,6 +13,7 @@ const VALID_SLUGS = [
   "golden-triangle-luxury",
   "rajasthan-luxury",
   "karnataka-luxury",
+  "mahraja-train-tour-package",
 ] as const;
 
 /* ------------------------------------------------------------------ */

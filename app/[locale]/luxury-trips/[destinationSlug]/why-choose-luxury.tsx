@@ -4,13 +4,7 @@ import { useI18n } from "@/lib/i18n/context";
 import Image from "next/image";
 import Link from "next/link";
 import { Hotel, User, Utensils, Gem, Sparkles } from "lucide-react";
-
-type LuxurySlug =
-  | "mumbai-luxury"
-  | "kerala-luxury"
-  | "rajasthan-luxury"
-  | "golden-triangle-luxury"
-  | "karnataka-luxury";
+import { LuxurySlug } from "@/lib/data/luxury-page-content";
 
 interface Props {
   slug: LuxurySlug;

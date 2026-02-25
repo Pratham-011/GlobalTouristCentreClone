@@ -44,6 +44,10 @@ const luxuryDestinations = [
     slug: "karnataka-luxury",
     image: "/assets/Luxury/Banglore/Mysore-thumb.webp",
   },
+  {
+    slug:"mahraja-train-tour-package",
+    image:"/assets/Luxury/Maharaja/maharaja.webp"
+  }
 ] as const;
 
 /* ---------------------------------

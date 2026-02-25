@@ -86,5 +86,6 @@ export const TOUR_CATEGORIES = {
     "golden-triangle-luxury",
     "rajasthan-luxury",
     "karnataka-luxury",
+    "mahraja-train-tour-package"
   ],
 } as const;
