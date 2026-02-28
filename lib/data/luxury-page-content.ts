@@ -15,7 +15,7 @@ export const luxuryPageContent = {
     image: "/assets/Luxury/Karnataka/hero.webp",
   },
   "mahraja-train-tour-package": {
-    image: "/assets/Luxury/Maharaja/maharaja.webp",
+    image: "/assets/Luxury/Maharaja/maharaja-train.webp",
   },
 
 } as const;

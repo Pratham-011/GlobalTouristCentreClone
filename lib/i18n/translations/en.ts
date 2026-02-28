@@ -12023,33 +12023,6 @@ testimonials: {
         "24×7 security, CCTV cameras, paramedic onboard, and round-the-clock valet service.",
     },
   ],
-  inclusions: [
-    "Round-trip flights from Goa",
-    "Private airport transfers",
-    "2 nights in 5★ deluxe hotels (upgraded room category, B&B basis)",
-    "6 nights aboard Maharajas' Express (Full Board)",
-    "All meals included (train + hotel basis as per itinerary)",
-    "Complimentary house wines, spirits, and beers onboard",
-    "All sightseeing with entrance fees as per itinerary",
-    "Shared excursions: Taj Mahal visit, Champagne breakfast at Taj Khema, Ranthambore tiger safari, Amber Fort visit, exclusive palace dinners, boat ride in Udaipur, half-day Delhi tour",
-    "Services of experienced Tour Director",
-    "Exciting activities at destinations",
-    "Choice of optional excursions and spas at hotels",
-    "Paramedic onboard",
-    "Round-the-clock valet service",
-    "CCTV cameras, smoke alarms & 24×7 security",
-  ],
-  exclusions: [
-    "Personal expenses and tips/gratuities",
-    "Optional excursions not mentioned in the itinerary",
-    "Travel insurance",
-    "Visa fees (if applicable)",
-    "Any meals not mentioned in the itinerary",
-    "Alcoholic beverages outside of included house wines, spirits, and beers",
-    "Porterage at hotels and stations (unless specified)",
-    "Any expenses arising due to flight delays, cancellations, or natural calamities",
-    "Spa treatments (unless specifically included in optional package)",
-  ],
 },
     "mumbai-luxury": {
       hero: {
@@ -14198,82 +14171,50 @@ testimonials: {
     ],
   },
   accommodations: [
-    {
-      image: {
-        src: "/assets/Luxury/MaharajasExpress/taj-mahal-palace-mumbai.webp",
-        alt: "Taj Mahal Palace Hotel Mumbai",
-      },
-      name: "Taj Mahal Palace Hotel",
-      location: "Mumbai, India",
-      description:
-        "An iconic landmark on the Mumbai waterfront offering timeless luxury, heritage architecture, and world-class hospitality.",
-      rating: 5,
-    },
-    {
-      image: {
-        src: "/assets/Luxury/MaharajasExpress/delhi-luxury-hotel.webp",
-        alt: "Luxury Hotel Delhi",
-      },
-      name: "5★ Deluxe Luxury Hotel",
-      location: "Delhi, India",
-      description:
-        "Upgraded room category luxury stay in Delhi with premium amenities and seamless service.",
-      rating: 5,
-    },
-  ],
-  cabins: [
-    {
-      title: "Deluxe Cabin",
-      size: "112 sq. ft. / 10.4 sq. mt.",
-      image: "/assets/Luxury/MaharajasExpress/deluxe-cabin.webp",
-      features: [
-        "12 Twin and 8 Double Bed Cabins",
-        "En suite shower and WC",
-        "Major OTT channels available",
-        "Writing ledge and stool",
-        "Wardrobe with electronic safe",
-      ],
-    },
-    {
-      title: "Junior Suite",
-      size: "150 sq. ft. / 13.9 sq. mt.",
-      image: "/assets/Luxury/MaharajasExpress/junior-suite.webp",
-      features: [
-        "12 Twin and 6 Double Bed Cabins",
-        "En suite shower and WC",
-        "Major OTT channels available",
-        "Table with chair",
-        "Wardrobe with electronic safe",
-      ],
-    },
-    {
-      title: "Suite",
-      size: "220 sq. ft. / 20.4 sq. mt.",
-      image: "/assets/Luxury/MaharajasExpress/suite.webp",
-      features: [
-        "4 Double Bed Cabins",
-        "En suite bath tub, shower and WC",
-        "Minibar",
-        "Wardrobe with electronic safe",
-        "Major OTT channels available",
-        "Separate sitting area with sofa chairs",
-      ],
-    },
-    {
-      title: "Presidential Suite",
-      size: "448 sq. ft. / 41.6 sq. mt.",
-      image: "/assets/Luxury/MaharajasExpress/presidential-suite.webp",
-      features: [
-        "One full coach",
-        "Two bedrooms and a living room",
-        "Master bedroom with double bed and en suite bathroom with bath tub, shower and WC",
-        "Second bedroom with twin beds and en suite bathroom with shower and WC",
-        "Minibar",
-        "Major OTT channels available",
-        "Separate sitting area with sofa chairs",
-        "Wardrobe with electronic safe",
-      ],
-    },
+  {
+  image: {
+    src: "/assets/Luxury/MaharajasExpress/deluxe-cabin.webp",
+    alt: "Deluxe Cabin - Maharajas' Express",
+  },
+  name: "Deluxe Cabin",
+  location: "Maharajas' Express, India",
+  description:
+    "Spacious 112 sq. ft. cabin featuring en suite shower and WC, OTT entertainment access, writing ledge with stool, and a wardrobe with electronic safe. Available in 12 Twin and 8 Double bed configurations.",
+  rating: 5,
+},
+{
+  image: {
+    src: "/assets/Luxury/MaharajasExpress/junior-suite.webp",
+    alt: "Junior Suite - Maharajas' Express",
+  },
+  name: "Junior Suite",
+  location: "Maharajas' Express, India",
+  description:
+    "Elegant 150 sq. ft. suite offering en suite shower and WC, OTT entertainment, dedicated table with chair, and wardrobe with electronic safe. Configured as 12 Twin and 6 Double bed cabins.",
+  rating: 5,
+},
+{
+  image: {
+    src: "/assets/Luxury/MaharajasExpress/suite.webp",
+    alt: "Suite - Maharajas' Express",
+  },
+  name: "Suite",
+  location: "Maharajas' Express, India",
+  description:
+    "Expansive 220 sq. ft. luxury suite with en suite bath tub, shower and WC, minibar, OTT entertainment, separate sitting area with sofa chairs, and wardrobe with electronic safe. Available in 4 Double bed cabins.",
+  rating: 5,
+},
+{
+  image: {
+    src: "/assets/Luxury/MaharajasExpress/presidential-suite.webp",
+    alt: "Presidential Suite - Maharajas' Express",
+  },
+  name: "Presidential Suite",
+  location: "Maharajas' Express, India",
+  description:
+    "Ultra-premium 448 sq. ft. full-coach suite featuring two bedrooms, a living room, master en suite with bath tub, second en suite shower, minibar, OTT entertainment, dedicated sitting area, and wardrobe with electronic safe.",
+  rating: 5,
+},
   ],
   inclusions: [
     {
