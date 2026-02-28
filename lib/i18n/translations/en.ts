@@ -1360,7 +1360,7 @@ testimonials: {
           "A perfect blend of urban luxury and hill-station serenity in South India.",
       },
       "mahraja-train-tour-package": {
-  title: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
+  title: "Maharaja's Express",
   description:
     "A royal rail odyssey through Rajasthan's iconic forts, wildlife parks, and lake cities aboard the legendary Maharajas' Express.",
 },
@@ -11972,22 +11972,21 @@ testimonials: {
   luxuryPages: {
     "mahraja-train-tour-package": {
   hero: {
-    title: "Maharaja's Express – The Indian Splendour",
+    title: "Maharaja Express Luxury Train Tour in India",
     description:
       "Experience the grandeur of India's most iconic luxury train journey through royal palaces, wildlife safaris, and timeless heritage.",
     discountBadge: "Unforgettable Rail Journeys – Travel Like Royalty",
-    image: "/assets/Luxury/MaharajasExpress/hero.webp",
+    image: "/assets/Luxury/Maharaja/maharaja-hero.webp",
   },
   metadata: {
-    title: "Maharaja's Express Luxury Train Tour – Indian Splendour | Global Tourist Centre",
-    description:
-      "Embark on the Indian Splendour journey aboard Maharajas' Express with Global Tourist Centre. From the Taj Mahal and Ranthambore tiger safari to Udaipur's Lake Pichola and exclusive palace dinners — travel in royal comfort across Rajasthan and beyond.",
+    title: "Maharaja Express Train Tour Package | Luxury Train India",
+    description: "Experience the Maharaja Express Train Tour package with 5★ hotels, Taj Mahal visit, Ranthambore safari & royal suites. Book luxury train tours in India.",
   },
   toursSection: {
     title: "Maharaja's Express Train Packages",
     packages: [
       {
-        image: "/assets/Luxury/MaharajasExpress/indian-splendour-thumb.webp",
+        image: "/assets/Luxury/Maharaja/indian-splendour-thumb.webp",
         badge: "Signature Package",
         title: "9N/10D The Indian Splendour",
         location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
@@ -14048,7 +14047,7 @@ testimonials: {
     cta_text: "Book Now",
     cta_link:
       "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
-    background_image: "/assets/Luxury/MaharajasExpress/indian-splendour-hero.webp",
+    background_image: "/assets/Luxury/Maharaja/hero.webp",
   },
   metadata: {
     title: "9N/10D Indian Splendour – Maharajas' Express Luxury Train Tour | Global Tourist Centre",
@@ -14173,7 +14172,7 @@ testimonials: {
   accommodations: [
   {
   image: {
-    src: "/assets/Luxury/MaharajasExpress/deluxe-cabin.webp",
+    src: "/assets/Luxury/Maharaja/deluxe.webp",
     alt: "Deluxe Cabin - Maharajas' Express",
   },
   name: "Deluxe Cabin",
@@ -14184,7 +14183,7 @@ testimonials: {
 },
 {
   image: {
-    src: "/assets/Luxury/MaharajasExpress/junior-suite.webp",
+    src: "/assets/Luxury/Maharaja/junior.webp",
     alt: "Junior Suite - Maharajas' Express",
   },
   name: "Junior Suite",
@@ -14195,7 +14194,7 @@ testimonials: {
 },
 {
   image: {
-    src: "/assets/Luxury/MaharajasExpress/suite.webp",
+    src: "/assets/Luxury/Maharaja/suite.webp",
     alt: "Suite - Maharajas' Express",
   },
   name: "Suite",
@@ -14206,7 +14205,7 @@ testimonials: {
 },
 {
   image: {
-    src: "/assets/Luxury/MaharajasExpress/presidential-suite.webp",
+    src: "/assets/Luxury/Maharaja/presidential.webp",
     alt: "Presidential Suite - Maharajas' Express",
   },
   name: "Presidential Suite",
