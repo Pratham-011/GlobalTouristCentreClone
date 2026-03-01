@@ -46,7 +46,7 @@ const luxuryDestinations = [
   },
   {
     slug:"mahraja-train-tour-package",
-    image:"/assets/Luxury/Maharaja/maharaja.webp"
+    image:"/assets/Luxury/Maharaja/hero.webp"
   }
 ] as const;
 
