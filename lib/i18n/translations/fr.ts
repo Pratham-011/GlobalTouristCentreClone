@@ -13141,15 +13141,115 @@ testimonials: {
       /* ... Days 4-9 follow the same high-end French travel terminology ... */
     ]
   },
-  "accommodations": [
-    { "name": "Cabine Deluxe", "description": "Cabine spacieuse de 10,4 m² avec douche et WC attenants, divertissement OTT et coffre-fort.", "rating": 5 },
-    { "name": "Suite Présidentielle", "description": "Suite ultra-premium de 41,6 m² occupant un wagon entier avec deux chambres et un salon.", "rating": 5 }
-  ],
-  "inclusions": [
-    { "title": "Vols Inclus", "description": "Vols aller-retour Goa-Delhi et Mumbai-Goa" },
-    { "title": "Train de Luxe", "description": "6 nuits à bord du Maharajas' Express en pension complète" },
-    { "title": "Dîners Exclusifs", "description": "Expériences culinaires privées dans des palais" }
-  ]
+    "accommodations": [
+      {
+        "image": {
+          "src": "/assets/Luxury/Maharaja/deluxe.webp",
+          "alt": "Deluxe Cabin - Maharajas' Express"
+        },
+        "name": "Deluxe Cabin",
+        "location": "Maharajas' Express, Inde",
+        "description": "Cabine spacieuse de 112 sq. ft. avec salle de bain privative (douche et WC), accès OTT, bureau avec tabouret et armoire avec coffre-fort électronique. Disponible en 12 cabines Twin et 8 Double.",
+        "rating": 5
+      },
+      {
+        "image": {
+          "src": "/assets/Luxury/Maharaja/junior.webp",
+          "alt": "Junior Suite - Maharajas' Express"
+        },
+        "name": "Junior Suite",
+        "location": "Maharajas' Express, Inde",
+        "description": "Suite élégante de 150 sq. ft. avec salle de bain privative (douche et WC), divertissement OTT, table avec chaise et armoire avec coffre-fort électronique. 12 Twin et 6 Double.",
+        "rating": 5
+      },
+      {
+        "image": {
+          "src": "/assets/Luxury/Maharaja/suite.webp",
+          "alt": "Suite - Maharajas' Express"
+        },
+        "name": "Suite",
+        "location": "Maharajas' Express, Inde",
+        "description": "Suite luxueuse de 220 sq. ft. avec baignoire, douche et WC, minibar, OTT et salon séparé avec fauteuils. 4 cabines Double disponibles.",
+        "rating": 5
+      },
+      {
+        "image": {
+          "src": "/assets/Luxury/Maharaja/presidential.webp",
+          "alt": "Presidential Suite - Maharajas' Express"
+        },
+        "name": "Presidential Suite",
+        "location": "Maharajas' Express, Inde",
+        "description": "Suite exclusive de 448 sq. ft. occupant un wagon entier : deux chambres, salon, salle de bain principale avec baignoire, seconde salle de bain avec douche, minibar, OTT et espace salon dédié avec coffre-fort électronique.",
+        "rating": 5
+      }
+    ],
+    "inclusions": [
+      {
+        "icon": "fas fa-plane",
+        "title": "Vols aller-retour",
+        "description": "Vols aller-retour de Goa à Delhi et de Mumbai à Goa"
+      },
+      {
+        "icon": "fas fa-car",
+        "title": "Transferts privés",
+        "description": "Transferts privés aéroport tout au long du voyage"
+      },
+      {
+        "icon": "fas fa-hotel",
+        "title": "Séjours hôteliers",
+        "description": "2 nuits en hôtels 5★ deluxe (catégorie de chambre supérieure, formule B&B) — 1N Delhi + 1N Mumbai"
+      },
+      {
+        "icon": "fas fa-train",
+        "title": "Séjour à bord du train de luxe",
+        "description": "6 nuits à bord du Maharajas' Express en pension complète"
+      },
+      {
+        "icon": "fas fa-utensils",
+        "title": "Tous les repas inclus",
+        "description": "Tous les repas inclus selon l’itinéraire"
+      },
+      {
+        "icon": "fas fa-binoculars",
+        "title": "Toutes les visites",
+        "description": "Toutes les visites prévues au programme"
+      },
+      {
+        "icon": "fas fa-monument",
+        "title": "Visite du Taj Mahal",
+        "description": "Visite guidée de l’emblématique Taj Mahal, Agra"
+      },
+      {
+        "icon": "fas fa-coffee",
+        "title": "Petit-déjeuner au champagne",
+        "description": "Petit-déjeuner au champagne au Taj Khema"
+      },
+      {
+        "icon": "fas fa-paw",
+        "title": "Safari tigre à Ranthambore",
+        "description": "Safari tigre palpitant au parc national de Ranthambore"
+      },
+      {
+        "icon": "fas fa-landmark",
+        "title": "Visite du Fort d’Amber",
+        "description": "Visite privée guidée du majestueux Fort d’Amber, Jaipur"
+      },
+      {
+        "icon": "fas fa-concierge-bell",
+        "title": "Dîners exclusifs dans des palais",
+        "description": "Expériences gastronomiques exclusives dans des palais historiques"
+      },
+      {
+        "icon": "fas fa-ship",
+        "title": "Promenade en bateau à Udaipur",
+        "description": "Promenade panoramique sur le lac Pichola, Udaipur"
+      },
+      {
+        "icon": "fas fa-map-marked-alt",
+        "title": "Visite d’une demi-journée à Delhi",
+        "description": "Visite guidée d’une demi-journée de Delhi"
+      }
+    ]
 },
     "4n-5d-rajasthan-luxury-package": {
       hero_section: {
