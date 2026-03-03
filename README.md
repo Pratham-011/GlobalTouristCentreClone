@@ -21,7 +21,7 @@ A high-performance, multilingual travel and tourism website built with Next.js 1
 
 The project follows a modular architecture using the Next.js 14 App Router.
 
-### `app/` - Routing & Pages
+### `app/ ` - Routing & Pages
 This directory contains the main application routes and layouts.
 - **`[locale]/`**: Dynamic route segment for internationalization.
   - **`layout.tsx`**: The main application shell. Configures fonts (Montserrat, Playfair Display), sets up the `I18nProvider`, and includes global components like `Header`, `Footer`, and `WhatsAppButton`.
