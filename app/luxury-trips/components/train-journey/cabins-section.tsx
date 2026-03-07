@@ -11,76 +11,16 @@ interface CabinType {
     layout: "split" | "three";
 }
 
-const CABIN_DATA: CabinType[] = [
-    {
-        name: "Deluxe Cabin",
-        size: "(112 sq. ft. / 10.4 sq. mt.)",
-        images: ["/assets/Luxury/Maharaja/deluxe-cabin-1.jpg", "/assets/Luxury/Maharaja/deluxe-cabin-2.jpg"],
-        layout: "split",
-        features: [
-            "12 Twin and 8 Double Bed Cabins",
-            "En suite shower and WC",
-            "Major OTT channels available",
-            "Writing ledge and stool",
-            "Wardrobe with electronic safe",
-        ],
-    },
-    {
-        name: "Junior Suite",
-        size: "(150 sq. ft. / 13.9 sq. mt.)",
-        images: ["/assets/Luxury/Maharaja/junior-suite-1.jpg", "/assets/Luxury/Maharaja/junior-suite-2.jpg"],
-        layout: "split",
-        features: [
-            "12 Twin and 6 Double Bed Cabins",
-            "En suite shower and WC",
-            "Major OTT channels available",
-            "Table with chair",
-            "Wardrobe with electronic safe",
-        ],
-    },
-    {
-        name: "Suite",
-        size: "(220 sq. ft. / 20.4 sq. mt.)",
-        images: [
-            "/assets/Luxury/Maharaja/suite-1.jpg",
-            "/assets/Luxury/Maharaja/suite-2.jpg",
-            "/assets/Luxury/Maharaja/suite-3.jpg",
-        ],
-        layout: "three",
-        features: [
-            "4 Double Bed Cabins",
-            "En suite bath tub, shower and WC",
-            "Minibar",
-            "Wardrobe with electronic safe",
-            "Major OTT channels available",
-            "Separate sitting area with sofa chairs",
-        ],
-    },
-    {
-        name: "Presidential Suite",
-        size: "(448 sq. ft. / 41.6 sq. mt)",
-        images: [
-            "/assets/Luxury/Maharaja/presidential-suite-1.jpg",
-            "/assets/Luxury/Maharaja/presidential-suite-2.jpg",
-            "/assets/Luxury/Maharaja/presidential-suite-3.jpg",
-        ],
-        layout: "three",
-        features: [
-            "One full coach",
-            "Two bedrooms and a living room",
-            "Master bedroom with double bed and en suite bathroom with bath tub, shower and WC",
-            "Minibar",
-            "Major OTT channels available",
-            "Second bedroom with twin beds and en suite bathroom with shower and WC",
-            "Separate sitting area with sofa chairs",
-            "Wardrobe with electronic safe",
-        ],
-    },
-];
+interface CabinsSectionProps {
+    cabins: readonly CabinType[];
+    eyebrow?: string;
+    title?: string;
+    subtitle?: string;
+}
 
 function OrnamentDivider() {
     return (
-        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "10px", margin: "16px 0" }}>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "10px", margin: "10px 0" }}>
             <div style={{ height: "1px", width: "70px", background: "linear-gradient(to right, transparent, #c9a84c)" }} />
             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                 <rect x="7" y="0" width="2" height="16" fill="#c9a84c" opacity="0.5" />
@@ -96,34 +36,25 @@ function CabinCard({ cabin, index }: { cabin: CabinType; index: number }) {
     const [hoveredImg, setHoveredImg] = useState<number | null>(null);
 
     return (
-        <div
-            style={{
-                animation: `fadeSlideUp 0.8s cubic-bezier(0.22,1,0.36,1) both`,
-                animationDelay: `${index * 0.12}s`,
-            }}
-        >
-            <div
-                style={{
-                    position: "relative",
-                    border: "1px solid rgba(201,168,76,0.25)",
-                    boxShadow: "0 20px 80px rgba(0,60,70,0.18), 0 4px 16px rgba(0,0,0,0.12), inset 0 1px 0 rgba(201,168,76,0.15)",
-                    overflow: "hidden",
-                    background: "#003d47",
-                }}
-            >
+        <div style={{ animation: `fadeSlideUp 0.8s cubic-bezier(0.22,1,0.36,1) both`, animationDelay: `${index * 0.12}s` }}>
+            <div style={{
+                position: "relative",
+                border: "1px solid rgba(201,168,76,0.25)",
+                boxShadow: "0 20px 80px rgba(0,60,70,0.18), 0 4px 16px rgba(0,0,0,0.12), inset 0 1px 0 rgba(201,168,76,0.15)",
+                overflow: "hidden",
+                background: "#003d47",
+            }}>
                 {/* Top gold rule */}
                 <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
 
                 {/* Images */}
-                <div
-                    style={{
-                        display: "grid",
-                        gridTemplateColumns: cabin.layout === "split" ? "1fr 1fr" : "1fr 1fr 1fr",
-                        gap: "3px",
-                        padding: "12px 12px 0",
-                        background: "#003d47",
-                    }}
-                >
+                <div style={{
+                    display: "grid",
+                    gridTemplateColumns: cabin.layout === "split" ? "1fr 1fr" : "1fr 1fr 1fr",
+                    gap: "3px",
+                    padding: "12px 12px 0",
+                    background: "#003d47",
+                }}>
                     {cabin.images.map((img, i) => (
                         <div
                             key={i}
@@ -139,11 +70,10 @@ function CabinCard({ cabin, index }: { cabin: CabinType; index: number }) {
                                 unoptimized
                                 style={{
                                     transform: hoveredImg === i ? "scale(1.07)" : "scale(1)",
-                                    filter: hoveredImg === i ? "brightness(1.08) saturate(1.1)" : "brightness(0.88) saturate(0.95)",
+                                    filter: hoveredImg === i ? "brightness(1.1) saturate(1.15)" : "brightness(1) saturate(1.05)",
                                     transition: "transform 0.8s cubic-bezier(0.25,0.46,0.45,0.94), filter 0.6s ease",
                                 }}
                             />
-                            {/* gold corner accents on hover */}
                             {hoveredImg === i && (
                                 <div style={{ position: "absolute", inset: 0, pointerEvents: "none" }}>
                                     <div style={{ position: "absolute", top: 0, left: 0, width: 20, height: 20, borderTop: "1.5px solid #c9a84c", borderLeft: "1.5px solid #c9a84c" }} />
@@ -157,79 +87,31 @@ function CabinCard({ cabin, index }: { cabin: CabinType; index: number }) {
                 </div>
 
                 {/* Content */}
-                <div
-                    style={{
-                        background: "linear-gradient(170deg, #006e76 0%, #00606a 40%, #004e59 100%)",
-                        padding: "36px 48px 40px",
-                        position: "relative",
-                        overflow: "hidden",
-                    }}
-                >
-                    {/* Ambient glow */}
-                    <div style={{
-                        position: "absolute", inset: 0, pointerEvents: "none",
-                        background: "radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.06) 0%, transparent 65%)",
-                    }} />
+                <div style={{
+                    background: "linear-gradient(170deg, #006e76 0%, #00606a 40%, #004e59 100%)",
+                    padding: "22px 36px 26px",
+                    position: "relative",
+                    overflow: "hidden",
+                }}>
+                    <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.06) 0%, transparent 65%)" }} />
+                    <div style={{ position: "absolute", top: 0, right: 0, opacity: 0.1, width: "180px", height: "180px", borderLeft: "1px solid #c9a84c", borderBottom: "1px solid #c9a84c", borderRadius: "0 0 0 100%" }} />
+                    <div style={{ position: "absolute", bottom: 0, left: 0, opacity: 0.1, width: "120px", height: "120px", borderRight: "1px solid #c9a84c", borderTop: "1px solid #c9a84c", borderRadius: "0 100% 0 0" }} />
 
-                    {/* Cabin title */}
                     <div style={{ textAlign: "center", position: "relative" }}>
-                        <p style={{
-                            fontFamily: "'Cormorant Garamond', Georgia, serif",
-                            fontSize: "0.7rem",
-                            letterSpacing: "0.4em",
-                            color: "#c9a84c",
-                            textTransform: "uppercase",
-                            margin: "0 0 8px",
-                            fontStyle: "italic",
-                        }}>
+                        <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "1rem", letterSpacing: "0.35em", color: "#ffc628ff", textTransform: "uppercase", margin: "0 0 5px", fontStyle: "italic" }}>
                             {cabin.size}
                         </p>
-                        <h3 style={{
-                            fontFamily: "'Cormorant Garamond', Georgia, serif",
-                            fontSize: "clamp(1.7rem, 3vw, 2.6rem)",
-                            fontWeight: 300,
-                            letterSpacing: "0.22em",
-                            color: "#f5edda",
-                            textTransform: "uppercase",
-                            margin: 0,
-                            lineHeight: 1,
-                        }}>
+                        <h3 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "clamp(1.3rem, 2.2vw, 1.9rem)", fontWeight: 300, letterSpacing: "0.22em", color: "#f5edda", textTransform: "uppercase", margin: 0, lineHeight: 1 }}>
                             {cabin.name}
                         </h3>
                     </div>
 
                     <OrnamentDivider />
 
-                    {/* Features */}
-                    <div style={{
-                        display: "grid",
-                        gridTemplateColumns: "repeat(auto-fit, minmax(230px, 1fr))",
-                        gap: "0 56px",
-                        maxWidth: "880px",
-                        margin: "0 auto",
-                    }}>
+                    <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(230px, 1fr))", gap: "0 56px", maxWidth: "880px", margin: "0 auto" }}>
                         {cabin.features.map((feature, fIndex) => (
-                            <div
-                                key={fIndex}
-                                style={{
-                                    display: "flex",
-                                    alignItems: "flex-start",
-                                    gap: "12px",
-                                    padding: "9px 0",
-                                    borderBottom: "1px solid rgba(201,168,76,0.1)",
-                                    fontFamily: "'Cormorant Garamond', Georgia, serif",
-                                    fontSize: "clamp(0.92rem, 1.4vw, 1.08rem)",
-                                    color: "rgba(245,237,218,0.88)",
-                                    letterSpacing: "0.04em",
-                                    lineHeight: 1.45,
-                                }}
-                            >
-                                <span style={{
-                                    color: "#c9a84c",
-                                    fontSize: "0.45rem",
-                                    marginTop: "7px",
-                                    flexShrink: 0,
-                                }}>◆</span>
+                            <div key={fIndex} style={{ display: "flex", alignItems: "flex-start", gap: "10px", padding: "6px 0", borderBottom: "1px solid rgba(201,168,76,0.1)", fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "clamp(0.82rem, 1.2vw, 0.95rem)", color: "rgba(245,237,218,0.88)", letterSpacing: "0.03em", lineHeight: 1.4 }}>
+                                <span style={{ color: "#c9a84c", fontSize: "1rem", marginTop: "6px", flexShrink: 0 }}>◆</span>
                                 <span>{feature}</span>
                             </div>
                         ))}
@@ -243,17 +125,22 @@ function CabinCard({ cabin, index }: { cabin: CabinType; index: number }) {
     );
 }
 
-export function CabinsSection() {
+export function CabinsSection({
+    cabins,
+    eyebrow = "Aboard the Golden Journey",
+    title = "Maharaja's Express",
+    subtitle = "Private Cabins & Suites",
+}: CabinsSectionProps) {
+    if (!cabins || cabins.length === 0) return null;
+
     return (
-        <section
-            style={{
-                background: "linear-gradient(180deg, #eee9d8 0%, #f4f1e9 30%, #ede8d8 70%, #f4f1e9 100%)",
-                padding: "88px 0 108px",
-                position: "relative",
-                overflow: "hidden",
-            }}
-        >
-            {/* Subtle linen texture overlay */}
+        <section style={{
+            background: "linear-gradient(180deg, #eee9d8 0%, #f4f1e9 30%, #ede8d8 70%, #f4f1e9 100%)",
+            padding: "88px 0 108px",
+            position: "relative",
+            overflow: "hidden",
+        }}>
+            {/* Linen texture */}
             <div style={{
                 position: "absolute", inset: 0, pointerEvents: "none", opacity: 0.4,
                 backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4'%3E%3Crect width='1' height='1' x='0' y='0' fill='%23004e59' opacity='0.08'/%3E%3Crect width='1' height='1' x='2' y='2' fill='%23004e59' opacity='0.08'/%3E%3C/svg%3E")`,
@@ -275,7 +162,6 @@ export function CabinsSection() {
 
                 {/* Section Header */}
                 <div style={{ textAlign: "center", marginBottom: "72px", animation: "fadeIn 1s ease both" }}>
-                    {/* Top ornament row */}
                     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "14px", marginBottom: "24px" }}>
                         <div style={{ height: "1px", flex: 1, maxWidth: "120px", background: "linear-gradient(to right, transparent, rgba(0,78,89,0.4))" }} />
                         <svg width="28" height="14" viewBox="0 0 28 14">
@@ -285,43 +171,18 @@ export function CabinsSection() {
                         <div style={{ height: "1px", flex: 1, maxWidth: "120px", background: "linear-gradient(to left, transparent, rgba(0,78,89,0.4))" }} />
                     </div>
 
-                    <p style={{
-                        fontFamily: "'Cormorant Garamond', Georgia, serif",
-                        fontSize: "0.72rem",
-                        letterSpacing: "0.45em",
-                        color: "#c9a84c",
-                        textTransform: "uppercase",
-                        margin: "0 0 14px",
-                    }}>
-                        Aboard the Golden Journey
+                    <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "0.72rem", letterSpacing: "0.45em", color: "#c9a84c", textTransform: "uppercase", margin: "0 0 14px" }}>
+                        {eyebrow}
                     </p>
 
-                    <h2 style={{
-                        fontFamily: "'Cormorant Garamond', Georgia, serif",
-                        fontSize: "clamp(2.2rem, 5.5vw, 4.2rem)",
-                        fontWeight: 300,
-                        letterSpacing: "0.25em",
-                        color: "#004e59",
-                        textTransform: "uppercase",
-                        margin: "0 0 4px",
-                        lineHeight: 1.05,
-                    }}>
-                        Maharaja's Express
+                    <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "clamp(2.2rem, 5.5vw, 4.2rem)", fontWeight: 300, letterSpacing: "0.25em", color: "#004e59", textTransform: "uppercase", margin: "0 0 4px", lineHeight: 1.05 }}>
+                        {title}
                     </h2>
 
-                    <h3 style={{
-                        fontFamily: "'Cormorant Garamond', Georgia, serif",
-                        fontStyle: "italic",
-                        fontSize: "clamp(1rem, 2vw, 1.45rem)",
-                        fontWeight: 400,
-                        letterSpacing: "0.18em",
-                        color: "#006e76",
-                        margin: "8px 0 0",
-                    }}>
-                        Private Cabins &amp; Suites
+                    <h3 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontStyle: "italic", fontSize: "clamp(1rem, 2vw, 1.45rem)", fontWeight: 400, letterSpacing: "0.18em", color: "#006e76", margin: "8px 0 0" }}>
+                        {subtitle}
                     </h3>
 
-                    {/* Bottom ornament row */}
                     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "14px", marginTop: "24px" }}>
                         <div style={{ height: "1px", flex: 1, maxWidth: "120px", background: "linear-gradient(to right, transparent, #c9a84c)" }} />
                         <svg width="8" height="8" viewBox="0 0 8 8">
@@ -333,7 +194,7 @@ export function CabinsSection() {
 
                 {/* Cards */}
                 <div style={{ display: "flex", flexDirection: "column", gap: "48px" }}>
-                    {CABIN_DATA.map((cabin, index) => (
+                    {cabins.map((cabin, index) => (
                         <CabinCard key={index} cabin={cabin} index={index} />
                     ))}
                 </div>

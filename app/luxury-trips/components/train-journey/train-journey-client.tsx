@@ -6,7 +6,8 @@ import { RestaurantsSection } from "./restaurants-section";
 import { SplendourItinerarySection } from "./splendour-itinerary-section";
 import { LuxurySlug } from "@/lib/data/luxury-page-content";
 import { InclusionsSection } from "./inclusions-section";
-import { AccommodationSection } from "./accommodation-section";
+// import { AccommodationSection } from "./accommodation-section";
+import { CabinsSection } from "./cabins-section";
 
 type Props = {
   slug: LuxurySlug;
@@ -28,7 +29,7 @@ export function TrainJourneyClient({ slug }: Props) {
       {/* ======================================================
           CABINS
       ======================================================= */}
-      {pageData.accommodations && <AccommodationSection data={pageData.accommodations as any} />}
+      {pageData.accommodations && <CabinsSection  cabins={pageData.accommodations as any} />}
 
       {/* ======================================================
           RESTAURANTS

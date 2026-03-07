@@ -12345,51 +12345,71 @@ testimonials: {
     },],
   },
   accommodations: [
-  {
-  image: {
-    src: "/assets/Luxury/Maharaja/deluxe.webp",
-    alt: "Deluxe Cabin - Maharajas' Express",
-  },
-  name: "Deluxe Cabin",
-  location: "Maharajas' Express, India",
-  description:
-    "Spacious 112 sq. ft. cabin featuring en suite shower and WC, OTT entertainment access, writing ledge with stool, and a wardrobe with electronic safe. Available in 12 Twin and 8 Double bed configurations.",
-  rating: 5,
-},
-{
-  image: {
-    src: "/assets/Luxury/Maharaja/junior.webp",
-    alt: "Junior Suite - Maharajas' Express",
-  },
-  name: "Junior Suite",
-  location: "Maharajas' Express, India",
-  description:
-    "Elegant 150 sq. ft. suite offering en suite shower and WC, OTT entertainment, dedicated table with chair, and wardrobe with electronic safe. Configured as 12 Twin and 6 Double bed cabins.",
-  rating: 5,
-},
-{
-  image: {
-    src: "/assets/Luxury/Maharaja/suite.webp",
-    alt: "Suite - Maharajas' Express",
-  },
-  name: "Suite",
-  location: "Maharajas' Express, India",
-  description:
-    "Expansive 220 sq. ft. luxury suite with en suite bath tub, shower and WC, minibar, OTT entertainment, separate sitting area with sofa chairs, and wardrobe with electronic safe. Available in 4 Double bed cabins.",
-  rating: 5,
-},
-{
-  image: {
-    src: "/assets/Luxury/Maharaja/presidential.webp",
-    alt: "Presidential Suite - Maharajas' Express",
-  },
-  name: "Presidential Suite",
-  location: "Maharajas' Express, India",
-  description:
-    "Ultra-premium 448 sq. ft. full-coach suite featuring two bedrooms, a living room, master en suite with bath tub, second en suite shower, minibar, OTT entertainment, dedicated sitting area, and wardrobe with electronic safe.",
-  rating: 5,
-},
-  ],
+    {
+        name: "Deluxe Cabin",
+        size: "(112 sq. ft. / 10.4 sq. mt.)",
+        images: ["/assets/Luxury/Maharaja/3.webp", "/assets/Luxury/Maharaja/4.webp"],
+        layout: "split",
+        features: [
+            "12 Twin and 8 Double Bed Cabins",
+            "En suite shower and WC",
+            "Major OTT channels available",
+            "Writing ledge and stool",
+            "Wardrobe with electronic safe",
+        ],
+    },
+    {
+        name: "Junior Suite",
+        size: "(150 sq. ft. / 13.9 sq. mt.)",
+        images: ["/assets/Luxury/Maharaja/5.webp", "/assets/Luxury/Maharaja/6.webp"],
+        layout: "split",
+        features: [
+            "12 Twin and 6 Double Bed Cabins",
+            "En suite shower and WC",
+            "Major OTT channels available",
+            "Table with chair",
+            "Wardrobe with electronic safe",
+        ],
+    },
+    {
+        name: "Suite",
+        size: "(220 sq. ft. / 20.4 sq. mt.)",
+        images: [
+            "/assets/Luxury/Maharaja/7.webp",
+            "/assets/Luxury/Maharaja/8.webp",
+            "/assets/Luxury/Maharaja/9.webp",
+        ],
+        layout: "three",
+        features: [
+            "Separate sitting area with sofa chairs",
+            "En suite bath tub, shower and WC",
+            "Wardrobe with electronic safe",
+            "Major OTT channels available",
+            "4 Double Bed Cabins",
+            "Minibar",      
+        ],
+    },
+    {
+        name: "Presidential Suite",
+        size: "(448 sq. ft. / 41.6 sq. mt)",
+        images: [
+            "/assets/Luxury/Maharaja/10.webp",
+            "/assets/Luxury/Maharaja/11.webp",
+            "/assets/Luxury/Maharaja/12.webp",
+        ],
+        layout: "three",
+        features: [
+            "Master bedroom with double bed and en suite bathroom with bath tub, shower and WC",
+            "Second bedroom with twin beds and en suite bathroom with shower and WC",
+            "Separate sitting area with sofa chairs",
+            "Two bedrooms and a living room",
+            "Major OTT channels available",
+            "Wardrobe with electronic safe",
+            "One full coach",
+            "Minibar",
+        ],
+    },
+],
   restaurants:{
     title:"Maharajas' Express",
     subtitle:"Restaurants",
