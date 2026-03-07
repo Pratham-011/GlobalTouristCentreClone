@@ -12295,106 +12295,54 @@ testimonials: {
       "Travel aboard the legendary Maharajas' Express on the Indian Splendour journey with Global Tourist Centre. Explore the Taj Mahal, Ranthambore tiger safari, Amber Fort, Jodhpur, Udaipur and more in royal comfort. Book your regal rail escape now.",
   },
   itinerary: {
-    title: "A Wonderful Journey Through a Magical Land",
-    days: [
-      {
-        day_title: "Day 1: Arrival in Delhi",
-        location: "Delhi",
-        description:
-          "Round-trip flight from Goa to Delhi. Private airport transfer and check-in at luxury 5★ deluxe hotel (upgraded room category).",
-        activities: [
-          "Leisure evening in Delhi",
-          "Overnight at luxury hotel in Delhi",
-        ],
-      },
-      {
-        day_title: "Day 2: Delhi & Agra",
-        location: "Delhi → Agra",
-        description:
-          "Board the Maharajas' Express at Delhi in the morning. Upon arrival at Agra, visit the iconic Taj Mahal. Overnight on the train at Agra.",
-        activities: [
-          "Onboard Breakfast",
-          "Taj Mahal visit",
-          "Onboard Lunch & Dinner",
-          "Overnight on train at Agra",
-        ],
-      },
-      {
-        day_title: "Day 3: Agra & Ranthambore",
-        location: "Agra → Ranthambore",
-        description:
-          "Visit the magnificent Agra Fort. Return to the train for breakfast as it proceeds to Sawai Madhopur. Enjoy a thrilling safari at Ranthambore National Park.",
-      },
-      {
-        day_title: "Day 4: Jaipur",
-        location: "Jaipur",
-        description:
-          "After onboard breakfast, deboard to visit the majestic Amber Fort. Return to the train for lunch. Enjoy dinner at an exclusive venue before the train proceeds to Bikaner.",
-      },
-      {
-        day_title: "Day 5: Bikaner",
-        location: "Bikaner",
-        description:
-          "After a leisurely breakfast and lunch onboard, proceed to visit the historic Junagarh Fort followed by an exclusive barbecue evening on the sand dunes.",
-        activities: [
-          "Onboard Breakfast & Lunch",
-          "Junagarh Fort visit",
-          "Exclusive barbecue evening on sand dunes",
-          "Train proceeds to Jodhpur",
-        ],
-      },
-      {
-        day_title: "Day 6: Jodhpur",
-        location: "Jodhpur",
-        description:
-          "Breakfast and lunch onboard. Morning at leisure. Post lunch, visit the imposing Mehrangarh Fort followed by a walking tour of the Old Clock Tower Market and dinner at an exclusive venue.",
-        activities: [
-          "Onboard Breakfast & Lunch",
-          "Morning at leisure",
-          "Mehrangarh Fort visit",
-          "Walking tour of Old Clock Tower Market",
-          "Exclusive dinner at a curated venue",
-          "Train proceeds to Udaipur",
-        ],
-      },
-      {
-        day_title: "Day 7: Udaipur",
-        location: "Udaipur",
-        description:
-          "After onboard breakfast, enjoy a boat ride on the serene Lake Pichola and visit the grand City Palace. Lunch at an exclusive venue. Dinner onboard as the train proceeds to Mumbai.",
-        activities: [
-          "Onboard Breakfast",
-          "Boat ride on Lake Pichola",
-          "City Palace visit",
-          "Lunch at exclusive venue",
-          "Onboard Dinner as train proceeds to Mumbai",
-        ],
-      },
-      {
-        day_title: "Day 8: Arrival in Mumbai",
-        location: "Mumbai",
-        description:
-          "Breakfast and lunch onboard. Disembark in Mumbai. Private transfer to the iconic Taj Mahal Palace Hotel.",
-        activities: [
-          "Onboard Breakfast & Lunch",
-          "Disembark in Mumbai",
-          "Private transfer to Taj Mahal Palace Hotel",
-          "Check-in & overnight at Taj Mahal Palace",
-        ],
-      },
-      {
-        day_title: "Day 9: Return to Goa",
-        location: "Mumbai → Goa",
-        description:
-          "Breakfast at the hotel. Private transfer to Mumbai Airport for flight back to Goa.",
-        activities: [
-          "Breakfast at hotel",
-          "Private transfer to Mumbai Airport",
-          "Flight back to Goa",
-          "Tour Ends",
-        ],
-      },
-    ],
+    title: "The Indian Splendour",
+    subtitle:"A wonderful Journey through a Magical Land",
+    duration:"( 9 NIGHTS / 10 DAYS )",
+    days:[    {
+        dayStr: "Day 1",
+        name: "Arrival in Delhi",
+        desc: "Round-trip flight from Goa to Delhi Private airport transfer Check-in at luxury 5★ deluxe hotel (upgraded room category) Leisure evening Overnight in Delhi (Luxury Hotel)",
+    },
+    {
+        dayStr: "Day 2 (Sunday)",
+        name: "Delhi and Agra",
+        desc: "Board the train at Delhi in the morning. Upon arriival at Agra, visit the Taj Mahal. Overnight on the train at Agra. Onboard Breakfast, Lunch and Dinner.",
+    },
+    {
+        dayStr: "Day 3 (Monday)",
+        name: "Agra and Ranthambore",
+        desc: "Visit the Agra Fort. Return to the train for breakfast as it proceeds to Sawai Madhopur. Lunch will be served onboard. Enjoy Safari at the Ranthambore National Park. Dinner will be served onboard as the train proceeds to Jaipur",
+    },
+    {
+        dayStr: "Day 4 (Tuesday)",
+        name: "Jaipur",
+        desc: "After onboard breakfast, deboard to visit the Amber Fort. Return to the train for lunch. Enjoy dinner at an exclusive venue. Return to the train as it proceeds to Bikaner.",
+    },
+    {
+        dayStr: "Day 5 (Wednesday)",
+        name: "Bikaner",
+        desc: "After a leisurely breakfast and lunch onboard, proceed to visit the Junagarh Fort followed by an exclusive barbecue evening on the sand dunes. Train proceeds to Jodhpur.",
+    },
+    {
+        dayStr: "Day 6 (Thursday)",
+        name: "Jodhpur",
+        desc: "Breakfast and lunch onboard. Morning at leisure. Post lunch, proceed to visit the Mehrangarh Fort and a walking tour of the Old Clock Tower Market followed by dinner at an exclusive venue. Train proceeds to Udaipur.",
+    },
+    {
+        dayStr: "Day 7 (Friday)",
+        name: "Udaipur",
+        desc: "After onboard breakfast proceed for boat ride on Lake Pichola and visit the City Palace. Lunch at an exclusive venue. Dinner will be served onboard as the train proceeds to Mumbai.",
+    },
+    {
+        dayStr: "DAY 8 (Saturday)",
+        name: "Arrival in Mumbai",
+        desc: "Breakfast & lunch onboard, Disembark in Mumbai Private transfer to Taj Mahal Palace Hotel Check-in Overnight at Taj Mahal Palace",
+    },
+    {
+        dayStr: "DAY 9 (Sunday)",
+        name: "Return to Goa",
+        desc: "Breakfast at hotel Private transfer to Mumbai Airport Flight back to Goa",
+    },],
   },
   accommodations: [
   {
@@ -12442,6 +12390,24 @@ testimonials: {
   rating: 5,
 },
   ],
+  restaurants:{
+    title:"Maharajas' Express",
+    subtitle:"Restaurants",
+    food:[  {
+        name: "MAYUR MAHAL",
+        image: {
+            src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
+            alt: "Mayur Mahal Restaurant",
+        },
+    },
+    {
+        name: "RANG MAHAL",
+        image: {
+            src: "/assets/Luxury/Maharaja/rang-mahal.webp",
+            alt: "Rang Mahal Restaurant",
+        },
+    },]
+  },
   inclusions: [
     {
       icon: "fas fa-plane",
@@ -12511,7 +12477,43 @@ testimonials: {
       description: "Curated half-day guided tour of Delhi",
     },
   ],
-  exclusions: [],
+  excursions: [
+        {
+      icon: "fas fa-monument",
+      title: "Taj Mahal Visit",
+      description: "Guided visit to the Taj Mahal in Agra",
+    },
+    {
+      icon: "fas fa-coffee",
+      title: "Champagne Breakfast",
+      description: "Champagne breakfast experience at Taj Khema",
+    },
+    {
+      icon: "fas fa-paw",
+      title: "Ranthambore Tiger Safari",
+      description: "Wildlife safari experience at Ranthambore National Park",
+    },
+    {
+      icon: "fas fa-landmark",
+      title: "Amber Fort Visit",
+      description: "Guided visit to the historic Amber Fort in Jaipur",
+    },
+    {
+      icon: "fas fa-concierge-bell",
+      title: "Exclusive Palace Dinners",
+      description: "Curated palace dining experiences during the journey",
+    },
+    {
+      icon: "fas fa-ship",
+      title: "Boat Ride in Udaipur",
+      description: "Scenic boat ride on Lake Pichola",
+    },
+    {
+      icon: "fas fa-map-marked-alt",
+      title: "Half-Day Delhi Tour",
+      description: "Guided half-day sightseeing tour of Delhi",
+    }
+  ],
 }
   },
   luxuryTourPackages: {
