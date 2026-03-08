@@ -37,7 +37,9 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
     const hasExcursions = Array.isArray(excursions) && excursions.length > 0;
 
     if (!hasInclusions && !hasExcursions) return null;
- const { t } = useI18n();
+
+    const { t } = useI18n();
+
     return (
         <section
             style={{
@@ -55,9 +57,55 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
 
             <style>{`
                 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+                .inclusions-grid {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+                    gap: 0 72px;
+                    position: relative;
+                    z-index: 1;
+                }
+
+                .excursions-grid {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+                    gap: 0 72px;
+                }
+
+                .inclusions-panel-inner {
+                    background: linear-gradient(145deg, #ffffff 0%, #f9f6ef 100%);
+                    padding: 48px 56px;
+                    position: relative;
+                    overflow: hidden;
+                }
+
+                .excursions-panel-inner {
+                    background: linear-gradient(170deg, #006e76 0%, #00606a 40%, #004e59 100%);
+                    padding: 48px 56px;
+                    position: relative;
+                    overflow: hidden;
+                }
+
+                @media (max-width: 640px) {
+                    .inclusions-grid,
+                    .excursions-grid {
+                        grid-template-columns: 1fr !important;
+                        gap: 0 !important;
+                    }
+
+                    .inclusions-panel-inner,
+                    .excursions-panel-inner {
+                        padding: 32px 20px !important;
+                    }
+
+                    .inclusions-outer {
+                        margin-left: 0 !important;
+                        margin-right: 0 !important;
+                    }
+                }
             `}</style>
 
-            <div style={{ maxWidth: "1000px", margin: "0 auto", padding: "0 28px", position: "relative" }}>
+            <div style={{ maxWidth: "1000px", margin: "0 auto", padding: "0 16px", position: "relative" }}>
 
                 {/* Section Header */}
                 <div style={{ textAlign: "center", marginBottom: "64px" }}>
@@ -70,17 +118,6 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                         <div style={{ height: "1px", flex: 1, maxWidth: "120px", background: "linear-gradient(to left, transparent, rgba(0,78,89,0.4))" }} />
                     </div>
 
-                    {/* <p style={{
-                        fontFamily: "'Cormorant Garamond', Georgia, serif",
-                        fontSize: "0.72rem",
-                        letterSpacing: "0.45em",
-                        color: "#c9a84c",
-                        textTransform: "uppercase",
-                        margin: "0 0 14px",
-                    }}>
-                        What's Covered
-                    </p> */}
-
                     <h2 style={{
                         fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontSize: "clamp(2.2rem, 5.5vw, 4rem)",
@@ -91,7 +128,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                         margin: "0 0 4px",
                         lineHeight: 1.05,
                     }}>
-                           {t.luxury.inclusions}
+                        {t.luxury.inclusions}
                     </h2>
 
                     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "14px", marginTop: "20px" }}>
@@ -105,7 +142,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
 
                 {/* Main Inclusions Panel */}
                 {hasInclusions && (
-                    <div style={{
+                    <div className="inclusions-outer" style={{
                         position: "relative",
                         border: "1px solid rgba(201,168,76,0.25)",
                         boxShadow: "0 20px 80px rgba(0,60,70,0.12)",
@@ -114,12 +151,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                     }}>
                         <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
 
-                        <div style={{
-                            background: "linear-gradient(145deg, #ffffff 0%, #f9f6ef 100%)",
-                            padding: "48px 56px",
-                            position: "relative",
-                            overflow: "hidden",
-                        }}>
+                        <div className="inclusions-panel-inner">
                             {/* Corner ornament */}
                             <div style={{
                                 position: "absolute", top: 0, right: 0, opacity: 0.06,
@@ -136,13 +168,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                 borderRadius: "0 100% 0 0",
                             }} />
 
-                            <div style={{
-                                display: "grid",
-                                gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
-                                gap: "0 72px",
-                                position: "relative",
-                                zIndex: 1,
-                            }}>
+                            <div className="inclusions-grid">
                                 {data.map((item, i) => (
                                     <div key={i} style={{
                                         display: "flex",
@@ -150,6 +176,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                         gap: "16px",
                                         padding: "15px 0",
                                         borderBottom: "1px solid rgba(0,78,89,0.07)",
+                                        minWidth: 0, // prevents grid blowout
                                     }}>
                                         <span style={{
                                             display: "inline-block",
@@ -159,7 +186,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                             flexShrink: 0,
                                             marginTop: "8px",
                                         }} />
-                                        <div>
+                                        <div style={{ minWidth: 0, flex: 1 }}>
                                             <p style={{
                                                 fontFamily: "'Cormorant Garamond', Georgia, serif",
                                                 fontSize: "clamp(1rem, 1.5vw, 1.12rem)",
@@ -168,6 +195,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                                 margin: "0 0 3px",
                                                 letterSpacing: "0.05em",
                                                 lineHeight: 1.3,
+                                                wordBreak: "break-word",
                                             }}>
                                                 {item.title}
                                             </p>
@@ -179,6 +207,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                                     color: "#7a9090",
                                                     margin: 0,
                                                     lineHeight: 1.55,
+                                                    wordBreak: "break-word",
                                                 }}>
                                                     {item.description}
                                                 </p>
@@ -203,12 +232,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                     }}>
                         <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
 
-                        <div style={{
-                            background: "linear-gradient(170deg, #006e76 0%, #00606a 40%, #004e59 100%)",
-                            padding: "48px 56px",
-                            position: "relative",
-                            overflow: "hidden",
-                        }}>
+                        <div className="excursions-panel-inner">
                             {/* Ambient glow */}
                             <div style={{
                                 position: "absolute", inset: 0, pointerEvents: "none",
@@ -230,16 +254,6 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
 
                             <div style={{ position: "relative", zIndex: 1 }}>
                                 <div style={{ textAlign: "center", marginBottom: "40px" }}>
-                                    {/* <p style={{
-                                        fontFamily: "'Cormorant Garamond', Georgia, serif",
-                                        fontSize: "0.72rem",
-                                        letterSpacing: "0.45em",
-                                        color: "#c9a84c",
-                                        textTransform: "uppercase",
-                                        margin: "0 0 10px",
-                                    }}>
-                                        Curated Experiences
-                                    </p> */}
                                     <h3 style={{
                                         fontFamily: "'Cormorant Garamond', Georgia, serif",
                                         fontSize: "clamp(1.6rem, 3vw, 2.6rem)",
@@ -250,16 +264,12 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                         margin: 0,
                                         lineHeight: 1,
                                     }}>
-                                         {t.luxury.shared}
+                                        {t.luxury.shared}
                                     </h3>
                                     <OrnamentDivider />
                                 </div>
 
-                                <div style={{
-                                    display: "grid",
-                                    gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
-                                    gap: "0 72px",
-                                }}>
+                                <div className="excursions-grid">
                                     {excursions.map((exc, i) => (
                                         <div key={i} style={{
                                             display: "flex",
@@ -267,6 +277,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                             gap: "16px",
                                             padding: "14px 0",
                                             borderBottom: "1px solid rgba(201,168,76,0.12)",
+                                            minWidth: 0, // prevents grid blowout
                                         }}>
                                             <span style={{
                                                 color: "#c9a84c",
@@ -274,7 +285,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                                 marginTop: "9px",
                                                 flexShrink: 0,
                                             }}>◆</span>
-                                            <div>
+                                            <div style={{ minWidth: 0, flex: 1 }}>
                                                 <p style={{
                                                     fontFamily: "'Cormorant Garamond', Georgia, serif",
                                                     fontSize: "clamp(1rem, 1.5vw, 1.1rem)",
@@ -283,6 +294,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                                     margin: "0 0 3px",
                                                     letterSpacing: "0.05em",
                                                     lineHeight: 1.3,
+                                                    wordBreak: "break-word",
                                                 }}>
                                                     {exc.title}
                                                 </p>
@@ -294,6 +306,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                                         color: "rgba(245,237,218,0.55)",
                                                         margin: 0,
                                                         lineHeight: 1.55,
+                                                        wordBreak: "break-word",
                                                     }}>
                                                         {exc.description}
                                                     </p>
