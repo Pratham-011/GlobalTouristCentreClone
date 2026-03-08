@@ -1,11 +1,9 @@
 "use client";
 
 import { useI18n } from "@/lib/i18n/context";
-import { OfferBanner } from "@/components-eng/offer-banner";
 import { Check } from "lucide-react";
 import { Button } from "@/components-eng/ui/button";
 import { Input } from "@/components-eng/ui/input";
-import { Label } from "@/components-eng/ui/label";
 import { Card, CardContent } from "@/components-eng/ui/card";
 import { Header } from "@/components-eng/header";
 import Link from "next/link";

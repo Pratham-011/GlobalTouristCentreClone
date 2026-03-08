@@ -6,7 +6,6 @@ import { RestaurantsSection } from "./restaurants-section";
 import { SplendourItinerarySection } from "./splendour-itinerary-section";
 import { LuxurySlug } from "@/lib/data/luxury-page-content";
 import { InclusionsSection } from "./inclusions-section";
-// import { AccommodationSection } from "./accommodation-section";
 import { CabinsSection } from "./cabins-section";
 
 type Props = {
@@ -15,7 +14,7 @@ type Props = {
 
 export function TrainJourneyClient({ slug }: Props) {
   const { t } = useI18n();
-  const pageData = t.luxuryTrain?.[slug] as any;
+  const pageData = t.luxuryTrain?.[slug];
 
   if (!pageData) return null;
 
@@ -29,7 +28,7 @@ export function TrainJourneyClient({ slug }: Props) {
       {/* ======================================================
           CABINS
       ======================================================= */}
-      {pageData.accommodations && <CabinsSection  cabins={pageData.accommodations.cabins as any} title={pageData.accommodations.title} subtitle={pageData.accommodations.subtitle}    eyebrow={pageData.accommodations.eyebrow}/>}
+      {pageData.accommodations && <CabinsSection cabins={pageData.accommodations.cabins as any} title={pageData.accommodations.title} subtitle={pageData.accommodations.subtitle} eyebrow={pageData.accommodations.eyebrow} />}
 
       {/* ======================================================
           RESTAURANTS
