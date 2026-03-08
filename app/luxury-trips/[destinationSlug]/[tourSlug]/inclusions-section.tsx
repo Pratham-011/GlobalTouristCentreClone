@@ -25,7 +25,7 @@ export function InclusionsSection({ data }: InclusionsSectionProps) {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-[#1a2238] mb-4">
-            t.luxury.inclusion
+            {t.luxury.inclusions}
           </h2>
           {/* Tri-color decorative line from the image */}
           <div className="flex justify-center items-center gap-0">

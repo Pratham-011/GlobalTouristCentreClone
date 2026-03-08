@@ -1325,7 +1325,7 @@ testimonials: {
   // Luxury Destinations
   luxury: {
     inclusions:"Package Inclusions",
-    accommdation:"Luxury Accommodations",
+    accommodation:"Luxury Accommodations",
     shared:"Shared Excursions",
     heroTitle: "Dubai Holiday Packages",
     discount: "Up to 35% OFF",

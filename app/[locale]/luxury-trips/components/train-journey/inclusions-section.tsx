@@ -1,4 +1,6 @@
 "use client";
+import { useI18n } from "@/lib/i18n/context";
+import React from "react";
 
 interface InclusionItem {
     icon: string;
@@ -31,8 +33,11 @@ function OrnamentDivider() {
 }
 
 export function InclusionsSection({ data, excursions }: InclusionsSectionProps) {
-    if (!data || !Array.isArray(data) || data.length === 0) return null;
+    const hasInclusions = Array.isArray(data) && data.length > 0;
+    const hasExcursions = Array.isArray(excursions) && excursions.length > 0;
 
+    if (!hasInclusions && !hasExcursions) return null;
+ const { t } = useI18n();
     return (
         <section
             style={{
@@ -65,7 +70,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                         <div style={{ height: "1px", flex: 1, maxWidth: "120px", background: "linear-gradient(to left, transparent, rgba(0,78,89,0.4))" }} />
                     </div>
 
-                    <p style={{
+                    {/* <p style={{
                         fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontSize: "0.72rem",
                         letterSpacing: "0.45em",
@@ -74,7 +79,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                         margin: "0 0 14px",
                     }}>
                         What's Covered
-                    </p>
+                    </p> */}
 
                     <h2 style={{
                         fontFamily: "'Cormorant Garamond', Georgia, serif",
@@ -86,7 +91,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                         margin: "0 0 4px",
                         lineHeight: 1.05,
                     }}>
-                        Package Inclusions
+                           {t.luxury.inclusions}
                     </h2>
 
                     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "14px", marginTop: "20px" }}>
@@ -99,195 +104,83 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                 </div>
 
                 {/* Main Inclusions Panel */}
-                <div style={{
-                    position: "relative",
-                    border: "1px solid rgba(201,168,76,0.25)",
-                    boxShadow: "0 20px 80px rgba(0,60,70,0.12)",
-                    overflow: "hidden",
-                    marginBottom: "40px",
-                }}>
-                    <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
-
+                {hasInclusions && (
                     <div style={{
-                        background: "linear-gradient(145deg, #ffffff 0%, #f9f6ef 100%)",
-                        padding: "48px 56px",
                         position: "relative",
+                        border: "1px solid rgba(201,168,76,0.25)",
+                        boxShadow: "0 20px 80px rgba(0,60,70,0.12)",
                         overflow: "hidden",
+                        marginBottom: "40px",
                     }}>
-                        {/* Corner ornament */}
-                        <div style={{
-                            position: "absolute", top: 0, right: 0, opacity: 0.06,
-                            width: "220px", height: "220px",
-                            borderLeft: "1px solid #004e59",
-                            borderBottom: "1px solid #004e59",
-                            borderRadius: "0 0 0 100%",
-                        }} />
-                        <div style={{
-                            position: "absolute", bottom: 0, left: 0, opacity: 0.06,
-                            width: "140px", height: "140px",
-                            borderRight: "1px solid #004e59",
-                            borderTop: "1px solid #004e59",
-                            borderRadius: "0 100% 0 0",
-                        }} />
+                        <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
 
                         <div style={{
-                            display: "grid",
-                            gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
-                            gap: "0 72px",
+                            background: "linear-gradient(145deg, #ffffff 0%, #f9f6ef 100%)",
+                            padding: "48px 56px",
                             position: "relative",
-                            zIndex: 1,
+                            overflow: "hidden",
                         }}>
-                            {data.map((item, i) => (
-                                <div key={i} style={{
-                                    display: "flex",
-                                    alignItems: "flex-start",
-                                    gap: "16px",
-                                    padding: "15px 0",
-                                    borderBottom: "1px solid rgba(0,78,89,0.07)",
-                                }}>
-                                    <span style={{
-                                        display: "inline-block",
-                                        width: "5px", height: "5px",
-                                        background: "#c9a84c",
-                                        transform: "rotate(45deg)",
-                                        flexShrink: 0,
-                                        marginTop: "8px",
-                                    }} />
-                                    <div>
-                                        <p style={{
-                                            fontFamily: "'Cormorant Garamond', Georgia, serif",
-                                            fontSize: "clamp(1rem, 1.5vw, 1.12rem)",
-                                            fontWeight: 500,
-                                            color: "#004e59",
-                                            margin: "0 0 3px",
-                                            letterSpacing: "0.05em",
-                                            lineHeight: 1.3,
-                                        }}>
-                                            {item.title}
-                                        </p>
-                                        {item.description && (
-                                            <p style={{
-                                                fontFamily: "'Cormorant Garamond', Georgia, serif",
-                                                fontStyle: "italic",
-                                                fontSize: "0.9rem",
-                                                color: "#7a9090",
-                                                margin: 0,
-                                                lineHeight: 1.55,
-                                            }}>
-                                                {item.description}
-                                            </p>
-                                        )}
-                                    </div>
-                                </div>
-                            ))}
-                        </div>
-                    </div>
-
-                    <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
-                </div>
-
-                {/* Excursions Panel */}
-                <div style={{
-                    position: "relative",
-                    overflow: "hidden",
-                    border: "1px solid rgba(201,168,76,0.25)",
-                    boxShadow: "0 20px 80px rgba(0,60,70,0.2)",
-                }}>
-                    <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
-
-                    <div style={{
-                        background: "linear-gradient(170deg, #006e76 0%, #00606a 40%, #004e59 100%)",
-                        padding: "48px 56px",
-                        position: "relative",
-                        overflow: "hidden",
-                    }}>
-                        {/* Ambient glow */}
-                        <div style={{
-                            position: "absolute", inset: 0, pointerEvents: "none",
-                            background: "radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.07) 0%, transparent 60%)",
-                        }} />
-                        {/* Corner ornaments */}
-                        <div style={{
-                            position: "absolute", top: 0, right: 0, opacity: 0.1,
-                            width: "200px", height: "200px",
-                            borderLeft: "1px solid #c9a84c", borderBottom: "1px solid #c9a84c",
-                            borderRadius: "0 0 0 100%",
-                        }} />
-                        <div style={{
-                            position: "absolute", bottom: 0, left: 0, opacity: 0.1,
-                            width: "140px", height: "140px",
-                            borderRight: "1px solid #c9a84c", borderTop: "1px solid #c9a84c",
-                            borderRadius: "0 100% 0 0",
-                        }} />
-
-                        <div style={{ position: "relative", zIndex: 1 }}>
-                            <div style={{ textAlign: "center", marginBottom: "40px" }}>
-                                <p style={{
-                                    fontFamily: "'Cormorant Garamond', Georgia, serif",
-                                    fontSize: "0.72rem",
-                                    letterSpacing: "0.45em",
-                                    color: "#c9a84c",
-                                    textTransform: "uppercase",
-                                    margin: "0 0 10px",
-                                }}>
-                                    Curated Experiences
-                                </p>
-                                <h3 style={{
-                                    fontFamily: "'Cormorant Garamond', Georgia, serif",
-                                    fontSize: "clamp(1.6rem, 3vw, 2.6rem)",
-                                    fontWeight: 300,
-                                    letterSpacing: "0.22em",
-                                    color: "#f5edda",
-                                    textTransform: "uppercase",
-                                    margin: 0,
-                                    lineHeight: 1,
-                                }}>
-                                    Shared Excursions
-                                </h3>
-                                <OrnamentDivider />
-                            </div>
+                            {/* Corner ornament */}
+                            <div style={{
+                                position: "absolute", top: 0, right: 0, opacity: 0.06,
+                                width: "220px", height: "220px",
+                                borderLeft: "1px solid #004e59",
+                                borderBottom: "1px solid #004e59",
+                                borderRadius: "0 0 0 100%",
+                            }} />
+                            <div style={{
+                                position: "absolute", bottom: 0, left: 0, opacity: 0.06,
+                                width: "140px", height: "140px",
+                                borderRight: "1px solid #004e59",
+                                borderTop: "1px solid #004e59",
+                                borderRadius: "0 100% 0 0",
+                            }} />
 
                             <div style={{
                                 display: "grid",
-                                gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
+                                gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
                                 gap: "0 72px",
+                                position: "relative",
+                                zIndex: 1,
                             }}>
-                                {excursions.map((exc, i) => (
+                                {data.map((item, i) => (
                                     <div key={i} style={{
                                         display: "flex",
                                         alignItems: "flex-start",
                                         gap: "16px",
-                                        padding: "14px 0",
-                                        borderBottom: "1px solid rgba(201,168,76,0.12)",
+                                        padding: "15px 0",
+                                        borderBottom: "1px solid rgba(0,78,89,0.07)",
                                     }}>
                                         <span style={{
-                                            color: "#c9a84c",
-                                            fontSize: "0.42rem",
-                                            marginTop: "9px",
+                                            display: "inline-block",
+                                            width: "5px", height: "5px",
+                                            background: "#c9a84c",
+                                            transform: "rotate(45deg)",
                                             flexShrink: 0,
-                                        }}>◆</span>
+                                            marginTop: "8px",
+                                        }} />
                                         <div>
                                             <p style={{
                                                 fontFamily: "'Cormorant Garamond', Georgia, serif",
-                                                fontSize: "clamp(1rem, 1.5vw, 1.1rem)",
+                                                fontSize: "clamp(1rem, 1.5vw, 1.12rem)",
                                                 fontWeight: 500,
-                                                color: "#f5edda",
+                                                color: "#004e59",
                                                 margin: "0 0 3px",
                                                 letterSpacing: "0.05em",
                                                 lineHeight: 1.3,
                                             }}>
-                                                {exc.title}
+                                                {item.title}
                                             </p>
-                                            {exc.description && (
+                                            {item.description && (
                                                 <p style={{
                                                     fontFamily: "'Cormorant Garamond', Georgia, serif",
                                                     fontStyle: "italic",
                                                     fontSize: "0.9rem",
-                                                    color: "rgba(245,237,218,0.55)",
+                                                    color: "#7a9090",
                                                     margin: 0,
                                                     lineHeight: 1.55,
                                                 }}>
-                                                    {exc.description}
+                                                    {item.description}
                                                 </p>
                                             )}
                                         </div>
@@ -295,12 +188,126 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                 ))}
                             </div>
                         </div>
+
+                        <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
                     </div>
+                )}
 
-                    <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
-                </div>
-                
+                {/* Excursions Panel */}
+                {hasExcursions && (
+                    <div style={{
+                        position: "relative",
+                        overflow: "hidden",
+                        border: "1px solid rgba(201,168,76,0.25)",
+                        boxShadow: "0 20px 80px rgba(0,60,70,0.2)",
+                    }}>
+                        <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
 
+                        <div style={{
+                            background: "linear-gradient(170deg, #006e76 0%, #00606a 40%, #004e59 100%)",
+                            padding: "48px 56px",
+                            position: "relative",
+                            overflow: "hidden",
+                        }}>
+                            {/* Ambient glow */}
+                            <div style={{
+                                position: "absolute", inset: 0, pointerEvents: "none",
+                                background: "radial-gradient(ellipse at 50% 0%, rgba(201,168,76,0.07) 0%, transparent 60%)",
+                            }} />
+                            {/* Corner ornaments */}
+                            <div style={{
+                                position: "absolute", top: 0, right: 0, opacity: 0.1,
+                                width: "200px", height: "200px",
+                                borderLeft: "1px solid #c9a84c", borderBottom: "1px solid #c9a84c",
+                                borderRadius: "0 0 0 100%",
+                            }} />
+                            <div style={{
+                                position: "absolute", bottom: 0, left: 0, opacity: 0.1,
+                                width: "140px", height: "140px",
+                                borderRight: "1px solid #c9a84c", borderTop: "1px solid #c9a84c",
+                                borderRadius: "0 100% 0 0",
+                            }} />
+
+                            <div style={{ position: "relative", zIndex: 1 }}>
+                                <div style={{ textAlign: "center", marginBottom: "40px" }}>
+                                    {/* <p style={{
+                                        fontFamily: "'Cormorant Garamond', Georgia, serif",
+                                        fontSize: "0.72rem",
+                                        letterSpacing: "0.45em",
+                                        color: "#c9a84c",
+                                        textTransform: "uppercase",
+                                        margin: "0 0 10px",
+                                    }}>
+                                        Curated Experiences
+                                    </p> */}
+                                    <h3 style={{
+                                        fontFamily: "'Cormorant Garamond', Georgia, serif",
+                                        fontSize: "clamp(1.6rem, 3vw, 2.6rem)",
+                                        fontWeight: 300,
+                                        letterSpacing: "0.22em",
+                                        color: "#f5edda",
+                                        textTransform: "uppercase",
+                                        margin: 0,
+                                        lineHeight: 1,
+                                    }}>
+                                         {t.luxury.shared}
+                                    </h3>
+                                    <OrnamentDivider />
+                                </div>
+
+                                <div style={{
+                                    display: "grid",
+                                    gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
+                                    gap: "0 72px",
+                                }}>
+                                    {excursions.map((exc, i) => (
+                                        <div key={i} style={{
+                                            display: "flex",
+                                            alignItems: "flex-start",
+                                            gap: "16px",
+                                            padding: "14px 0",
+                                            borderBottom: "1px solid rgba(201,168,76,0.12)",
+                                        }}>
+                                            <span style={{
+                                                color: "#c9a84c",
+                                                fontSize: "0.42rem",
+                                                marginTop: "9px",
+                                                flexShrink: 0,
+                                            }}>◆</span>
+                                            <div>
+                                                <p style={{
+                                                    fontFamily: "'Cormorant Garamond', Georgia, serif",
+                                                    fontSize: "clamp(1rem, 1.5vw, 1.1rem)",
+                                                    fontWeight: 500,
+                                                    color: "#f5edda",
+                                                    margin: "0 0 3px",
+                                                    letterSpacing: "0.05em",
+                                                    lineHeight: 1.3,
+                                                }}>
+                                                    {exc.title}
+                                                </p>
+                                                {exc.description && (
+                                                    <p style={{
+                                                        fontFamily: "'Cormorant Garamond', Georgia, serif",
+                                                        fontStyle: "italic",
+                                                        fontSize: "0.9rem",
+                                                        color: "rgba(245,237,218,0.55)",
+                                                        margin: 0,
+                                                        lineHeight: 1.55,
+                                                    }}>
+                                                        {exc.description}
+                                                    </p>
+                                                )}
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        </div>
+
+                        <div style={{ height: "2px", background: "linear-gradient(90deg, transparent 0%, #c9a84c 25%, #f0dfa0 50%, #c9a84c 75%, transparent 100%)" }} />
+                    </div>
+                )}
             </div>
         </section>
     );

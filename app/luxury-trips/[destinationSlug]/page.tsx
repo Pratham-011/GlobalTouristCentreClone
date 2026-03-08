@@ -5,7 +5,7 @@ import { LuxuryClient } from "./categoey-client";
 import { TrainJourneyClient } from "../components/train-journey/train-journey-client";
 
 import { getTranslations } from "@/lib/i18n/getTranslations";
-import { luxuryPageContent, LuxurySlug } from "@/lib/data/luxury-page-content";
+import { luxuryPageContent } from "@/lib/data/luxury-page-content";
 
 /* ------------------------------------------------------------------ */
 /* SLUG GROUPS */
@@ -24,6 +24,10 @@ const TRAIN_SLUGS = [
 ] as const;
 
 const VALID_SLUGS = [...DESTINATION_SLUGS, ...TRAIN_SLUGS] as const;
+
+type DestinationSlug = (typeof DESTINATION_SLUGS)[number];
+type TrainSlug = (typeof TRAIN_SLUGS)[number];
+type LuxurySlug = (typeof VALID_SLUGS)[number];
 
 /* ------------------------------------------------------------------ */
 /* TYPES */
@@ -50,12 +54,14 @@ export function generateStaticParams() {
 /* METADATA */
 /* ------------------------------------------------------------------ */
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: PageProps): Promise<Metadata> {
   const { locale, destinationSlug } = params;
 
   const t = getTranslations(locale);
 
-  const isTrain = TRAIN_SLUGS.includes(destinationSlug as any);
+  const isTrain = TRAIN_SLUGS.includes(destinationSlug as TrainSlug);
 
   const pageData = isTrain
     ? t.luxuryTrain?.[destinationSlug]
@@ -70,10 +76,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const image = isTrain
-    ? t.luxuryTrain[destinationSlug].image
-    : luxuryPageContent[destinationSlug].image;
+    ? t.luxuryTrain?.[destinationSlug]?.image
+    : luxuryPageContent[destinationSlug as DestinationSlug]?.image;
 
-  const canonical = `https://globaltouristcentre.com/luxury-trips/${destinationSlug}`;
+  const canonical = `https://globaltouristcentre.com/${locale}/luxury-trips/${destinationSlug}`;
 
   return {
     title: pageData.metadata.title,
@@ -86,7 +92,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     openGraph: {
       title: pageData.metadata.title,
       description: pageData.metadata.description,
-      images: [image],
+      images: image ? [image] : [],
       siteName: t.metadata.brandname,
       type: "website",
       url: canonical,
@@ -96,14 +102,16 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title: pageData.metadata.title,
       description: pageData.metadata.description,
       card: "summary_large_image",
-      images: [
-        {
-          url: image,
-          width: 1200,
-          height: 630,
-          alt: pageData.metadata.title,
-        },
-      ],
+      images: image
+        ? [
+            {
+              url: image,
+              width: 1200,
+              height: 630,
+              alt: pageData.metadata.title,
+            },
+          ]
+        : [],
     },
 
     robots: {
@@ -120,15 +128,15 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 export default function LuxuryDestinationPage({ params }: PageProps) {
   const { destinationSlug } = params;
 
-  if (!VALID_SLUGS.includes(destinationSlug as any)) {
+  if (!VALID_SLUGS.includes(destinationSlug)) {
     notFound();
   }
 
-  const isTrain = TRAIN_SLUGS.includes(destinationSlug as any);
+  const isTrain = TRAIN_SLUGS.includes(destinationSlug as TrainSlug);
 
   if (isTrain) {
-    return  <TrainJourneyClient slug={destinationSlug} />;
+    return <TrainJourneyClient slug={destinationSlug as any} />;
   }
 
-  return <LuxuryClient params={{ slug: destinationSlug }} />;
+  return <LuxuryClient params={{ slug: destinationSlug  as any}} />;
 }

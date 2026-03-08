@@ -13,15 +13,18 @@ interface SplendourItinerarySectionProps {
     duration?: string;
 }
 
-
-
 export function SplendourItinerarySection({
     itinerary,
     title,
     subtitle,
     duration,
 }: SplendourItinerarySectionProps) {
-    if (!itinerary || itinerary.length === 0) return null;
+    if (!Array.isArray(itinerary)) {
+        console.error("ITINERARY IS NOT AN ARRAY in SplendourItinerarySection:", itinerary);
+        return null;
+    }
+
+    if (itinerary.length === 0) return null;
 
     return (
         <section className="py-16 md:py-20 bg-[#0a2c3a] text-white relative overflow-hidden">
@@ -50,13 +53,8 @@ export function SplendourItinerarySection({
                     )}
                 </div>
 
-                {/* Mobile: 2×2 image grid above itinerary */}
-
-
-                {/* Desktop: side-by-side */}
+                {/* Content */}
                 <div className="flex flex-col md:flex-row gap-10 items-start">
-
-                    {/* Itinerary text */}
                     <div className="flex-1 min-w-0">
                         <div className="space-y-7">
                             {itinerary.map((day, idx) => (
@@ -75,9 +73,6 @@ export function SplendourItinerarySection({
                             </div>
                         </div>
                     </div>
-
-                    {/* Desktop image column — only shown if sideImages provided */}
- 
                 </div>
             </div>
         </section>

@@ -16,9 +16,16 @@ export type Locale = keyof typeof translations;
 type RawTranslationKeys = typeof translations.en;
 export type TourDataItem = RawTranslationKeys["tourData"]["aurangabad-heritage-tour-from-goa"];
 
-export interface TranslationKeys extends Omit<RawTranslationKeys, "tourData"> {
+export type LuxuryTrainItem = RawTranslationKeys["luxuryTrain"]["mahraja-train-tour-package"];
+export type LuxuryPageItem = RawTranslationKeys["luxuryPages"]["mumbai-luxury"];
+
+
+export interface TranslationKeys extends Omit<RawTranslationKeys, "tourData" | "luxuryTrain" | "luxuryPages"> {
   tourData: Record<string, TourDataItem>;
+  luxuryTrain: Record<string, LuxuryTrainItem>;
+  luxuryPages: Record<string, LuxuryPageItem>;
 }
+
 
 export type ExperienceId = keyof typeof translations.en.experiences.items;
 export type CollectionId = keyof typeof translations.en.collections.items;

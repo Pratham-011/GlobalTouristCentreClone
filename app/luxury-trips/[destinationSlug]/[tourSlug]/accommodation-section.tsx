@@ -30,7 +30,7 @@ export function AccommodationSection({ data }: AccommodationSectionProps) {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-serif font-bold text-[#1a2238] mb-4">
-            t.luxury.accommdation
+            {t.luxury.accommdation}
           </h2>
           {/* Decorative Gradient Underline */}
           <div className="w-20 h-1 bg-gradient-to-r from-[#d4af37] to-[#1a2238] mx-auto rounded-full" />
