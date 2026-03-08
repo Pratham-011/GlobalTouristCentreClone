@@ -1324,6 +1324,9 @@ testimonials: {
   },
   // Luxury Destinations
   luxury: {
+    inclusions:"Package Inclusions",
+    accommdation:"Luxury Accommodations",
+    shared:"Shared Excursions",
     heroTitle: "Dubai Holiday Packages",
     discount: "Up to 35% OFF",
     getDiscount: "Get 35% OFF on Dubai Package",
@@ -11970,59 +11973,6 @@ testimonials: {
     }
   },
   luxuryPages: {
-    "mahraja-train-tour-package": {
-  hero: {
-    title: "Maharaja Express Luxury Train Tour in India",
-    description:
-      "Experience the grandeur of India's most iconic luxury train journey through royal palaces, wildlife safaris, and timeless heritage.",
-    discountBadge: "Unforgettable Rail Journeys – Travel Like Royalty",
-    image: "/assets/Luxury/Maharaja/maharaja-hero.webp",
-  },
-  metadata: {
-    title: "Maharaja Express Train Tour Package | Luxury Train India",
-    description: "Experience the Maharaja Express Train Tour package with 5★ hotels, Taj Mahal visit, Ranthambore safari & royal suites. Book luxury train tours in India.",
-  },
-  toursSection: {
-    title: "Maharaja's Express Train Packages",
-    packages: [
-      {
-        image: "/assets/Luxury/Maharaja/indian-splendour-thumb.webp",
-        badge: "Signature Package",
-        title: "9N/10D The Indian Splendour",
-        location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
-        description:
-          "A royal rail odyssey through Rajasthan's iconic forts, wildlife parks, and lake cities aboard the legendary Maharajas' Express.",
-        link: "/luxury-trips/mahraja-train-tour-package/indian-splendour",
-      },
-    ],
-  },
-  infoCards: [
-    {
-      icon: "train",
-      title: "Iconic Luxury Train",
-      description:
-        "Travel aboard Maharajas' Express featuring Deluxe, Junior Suite, Suite & Presidential Suite cabins.",
-    },
-    {
-      icon: "utensils",
-      title: "All-Inclusive Dining",
-      description:
-        "All meals, complimentary wines, spirits, and beers served onboard and at exclusive venues.",
-    },
-    {
-      icon: "binoculars",
-      title: "Curated Excursions",
-      description:
-        "Taj Mahal, Ranthambore safari, Amber Fort, Lake Pichola boat ride, and exclusive palace dinners.",
-    },
-    {
-      icon: "shield-alt",
-      title: "Safety & Comfort",
-      description:
-        "24×7 security, CCTV cameras, paramedic onboard, and round-the-clock valet service.",
-    },
-  ],
-},
     "mumbai-luxury": {
       hero: {
         title: "Mumbai Luxury Tours",
@@ -12329,6 +12279,269 @@ testimonials: {
         },
       ],
     },
+  },
+  luxuryTrain:{
+    "mahraja-train-tour-package":{
+  hero: {
+    type: "package-hero",
+    badge: "Signature Package",
+    title: "Maharaja Express Luxury Train Tour in India",
+    location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
+    cta_text: "Book Now",
+    cta_link:
+      "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
+    background_image: "/assets/Luxury/Maharaja/hero.webp",
+  },
+  metadata: {
+    title: "Maharaja Express Train Tour Package | Luxury Train India",
+    description:
+      "Experience the Maharaja Express Train Tour package with 5★ hotels, Taj Mahal visit, Ranthambore safari & royal suites. Book luxury train tours in India.",
+  },
+  itinerary: {
+    title: "The Indian Splendour",
+    subtitle:"A wonderful Journey through a Magical Land",
+    duration:"( 9 NIGHTS / 10 DAYS )",
+    days:[    {
+        dayStr: "Day 1",
+        name: "Arrival in Delhi",
+        desc: "Round-trip flight from Goa to Delhi Private airport transfer Check-in at luxury 5★ deluxe hotel (upgraded room category) Leisure evening Overnight in Delhi (Luxury Hotel)",
+    },
+    {
+        dayStr: "Day 2 (Sunday)",
+        name: "Delhi and Agra",
+        desc: "Board the train at Delhi in the morning. Upon arriival at Agra, visit the Taj Mahal. Overnight on the train at Agra. Onboard Breakfast, Lunch and Dinner.",
+    },
+    {
+        dayStr: "Day 3 (Monday)",
+        name: "Agra and Ranthambore",
+        desc: "Visit the Agra Fort. Return to the train for breakfast as it proceeds to Sawai Madhopur. Lunch will be served onboard. Enjoy Safari at the Ranthambore National Park. Dinner will be served onboard as the train proceeds to Jaipur",
+    },
+    {
+        dayStr: "Day 4 (Tuesday)",
+        name: "Jaipur",
+        desc: "After onboard breakfast, deboard to visit the Amber Fort. Return to the train for lunch. Enjoy dinner at an exclusive venue. Return to the train as it proceeds to Bikaner.",
+    },
+    {
+        dayStr: "Day 5 (Wednesday)",
+        name: "Bikaner",
+        desc: "After a leisurely breakfast and lunch onboard, proceed to visit the Junagarh Fort followed by an exclusive barbecue evening on the sand dunes. Train proceeds to Jodhpur.",
+    },
+    {
+        dayStr: "Day 6 (Thursday)",
+        name: "Jodhpur",
+        desc: "Breakfast and lunch onboard. Morning at leisure. Post lunch, proceed to visit the Mehrangarh Fort and a walking tour of the Old Clock Tower Market followed by dinner at an exclusive venue. Train proceeds to Udaipur.",
+    },
+    {
+        dayStr: "Day 7 (Friday)",
+        name: "Udaipur",
+        desc: "After onboard breakfast proceed for boat ride on Lake Pichola and visit the City Palace. Lunch at an exclusive venue. Dinner will be served onboard as the train proceeds to Mumbai.",
+    },
+    {
+        dayStr: "DAY 8 (Saturday)",
+        name: "Arrival in Mumbai",
+        desc: "Breakfast & lunch onboard, Disembark in Mumbai Private transfer to Taj Mahal Palace Hotel Check-in Overnight at Taj Mahal Palace",
+    },
+    {
+        dayStr: "DAY 9 (Sunday)",
+        name: "Return to Goa",
+        desc: "Breakfast at hotel Private transfer to Mumbai Airport Flight back to Goa",
+    },],
+  },
+  accommodations: {
+  eyebrow : "Aboard the Golden Journey",
+  title : "Maharaja's Express",
+  subtitle : "Private Cabins & Suites",
+  cabins:[
+    {
+        name: "Deluxe Cabin",
+        size: "(112 sq. ft. / 10.4 sq. mt.)",
+        images: ["/assets/Luxury/Maharaja/3.webp", "/assets/Luxury/Maharaja/4.webp"],
+        layout: "split",
+        features: [
+            "12 Twin and 8 Double Bed Cabins",
+            "En suite shower and WC",
+            "Major OTT channels available",
+            "Writing ledge and stool",
+            "Wardrobe with electronic safe",
+        ],
+    },
+    {
+        name: "Junior Suite",
+        size: "(150 sq. ft. / 13.9 sq. mt.)",
+        images: ["/assets/Luxury/Maharaja/5.webp", "/assets/Luxury/Maharaja/6.webp"],
+        layout: "split",
+        features: [
+            "12 Twin and 6 Double Bed Cabins",
+            "En suite shower and WC",
+            "Major OTT channels available",
+            "Table with chair",
+            "Wardrobe with electronic safe",
+        ],
+    },
+    {
+        name: "Suite",
+        size: "(220 sq. ft. / 20.4 sq. mt.)",
+        images: [
+            "/assets/Luxury/Maharaja/7.webp",
+            "/assets/Luxury/Maharaja/8.webp",
+            "/assets/Luxury/Maharaja/9.webp",
+        ],
+        layout: "three",
+        features: [
+            "Separate sitting area with sofa chairs",
+            "En suite bath tub, shower and WC",
+            "Wardrobe with electronic safe",
+            "Major OTT channels available",
+            "4 Double Bed Cabins",
+            "Minibar",      
+        ],
+    },
+    {
+        name: "Presidential Suite",
+        size: "(448 sq. ft. / 41.6 sq. mt)",
+        images: [
+            "/assets/Luxury/Maharaja/10.webp",
+            "/assets/Luxury/Maharaja/11.webp",
+            "/assets/Luxury/Maharaja/12.webp",
+        ],
+        layout: "three",
+        features: [
+            "Master bedroom with double bed and en suite bathroom with bath tub, shower and WC",
+            "Second bedroom with twin beds and en suite bathroom with shower and WC",
+            "Separate sitting area with sofa chairs",
+            "Two bedrooms and a living room",
+            "Major OTT channels available",
+            "Wardrobe with electronic safe",
+            "One full coach",
+            "Minibar",
+        ],
+    },
+]},
+  restaurants:{
+    title:"Maharajas' Express",
+    subtitle:"Restaurants",
+    food:[  {
+        name: "MAYUR MAHAL",
+        image: {
+            src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
+            alt: "Mayur Mahal Restaurant",
+        },
+    },
+    {
+        name: "RANG MAHAL",
+        image: {
+            src: "/assets/Luxury/Maharaja/rang-mahal.webp",
+            alt: "Rang Mahal Restaurant",
+        },
+    },]
+  },
+  inclusions: [
+    {
+      icon: "fas fa-plane",
+      title: "Round-Trip Flights",
+      description: "Round-trip flights from Goa to Delhi and Mumbai to Goa",
+    },
+    {
+      icon: "fas fa-car",
+      title: "Private Transfers",
+      description: "Private airport transfers throughout the journey",
+    },
+    {
+      icon: "fas fa-hotel",
+      title: "Hotel Stays",
+      description:
+        "2 nights in 5★ deluxe hotels (upgraded room category, B&B basis) — 1N Delhi + 1N Mumbai (Taj Mahal Palace)",
+    },
+    {
+      icon: "fas fa-train",
+      title: "Luxury Train Stay",
+      description: "6 nights aboard Maharajas' Express on Full Board basis",
+    },
+    {
+      icon: "fas fa-utensils",
+      title: "All Meals Included",
+      description:
+        "All meals included on train and hotel basis as mentioned in the itinerary",
+    },
+    {
+      icon: "fas fa-binoculars",
+      title: "All Sightseeing",
+      description: "All sightseeing as per itinerary",
+    },
+    {
+      icon: "fas fa-monument",
+      title: "Taj Mahal Visit",
+      description: "Guided visit to the iconic Taj Mahal, Agra",
+    },
+    {
+      icon: "fas fa-coffee",
+      title: "Champagne Breakfast",
+      description: "Champagne breakfast at Taj Khema",
+    },
+    {
+      icon: "fas fa-paw",
+      title: "Ranthambore Tiger Safari",
+      description: "Thrilling tiger safari at Ranthambore National Park",
+    },
+    {
+      icon: "fas fa-landmark",
+      title: "Amber Fort Visit",
+      description: "Private guided visit to the majestic Amber Fort, Jaipur",
+    },
+    {
+      icon: "fas fa-concierge-bell",
+      title: "Exclusive Palace Dinners",
+      description: "Curated exclusive dining experiences at palace venues",
+    },
+    {
+      icon: "fas fa-ship",
+      title: "Boat Ride in Udaipur",
+      description: "Scenic boat ride on Lake Pichola, Udaipur",
+    },
+    {
+      icon: "fas fa-map-marked-alt",
+      title: "Half-Day Delhi Tour",
+      description: "Curated half-day guided tour of Delhi",
+    },
+  ],
+  excursions: [
+        {
+      icon: "fas fa-monument",
+      title: "Taj Mahal Visit",
+      description: "Guided visit to the Taj Mahal in Agra",
+    },
+    {
+      icon: "fas fa-coffee",
+      title: "Champagne Breakfast",
+      description: "Champagne breakfast experience at Taj Khema",
+    },
+    {
+      icon: "fas fa-paw",
+      title: "Ranthambore Tiger Safari",
+      description: "Wildlife safari experience at Ranthambore National Park",
+    },
+    {
+      icon: "fas fa-landmark",
+      title: "Amber Fort Visit",
+      description: "Guided visit to the historic Amber Fort in Jaipur",
+    },
+    {
+      icon: "fas fa-concierge-bell",
+      title: "Exclusive Palace Dinners",
+      description: "Curated palace dining experiences during the journey",
+    },
+    {
+      icon: "fas fa-ship",
+      title: "Boat Ride in Udaipur",
+      description: "Scenic boat ride on Lake Pichola",
+    },
+    {
+      icon: "fas fa-map-marked-alt",
+      title: "Half-Day Delhi Tour",
+      description: "Guided half-day sightseeing tour of Delhi",
+    }
+  ],
+}
   },
   luxuryTourPackages: {
     "4n-5d-rajasthan-luxury-package": {
@@ -14038,254 +14251,6 @@ testimonials: {
         },
       ],
     },
-    "indian-splendour": {
-  hero_section: {
-    type: "package-hero",
-    badge: "Signature Package",
-    title: "9N/10D The Indian Splendour",
-    location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
-    cta_text: "Book Now",
-    cta_link:
-      "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
-    background_image: "/assets/Luxury/Maharaja/hero.webp",
-  },
-  metadata: {
-    title: "9N/10D Indian Splendour – Maharajas' Express Luxury Train Tour | Global Tourist Centre",
-    description:
-      "Travel aboard the legendary Maharajas' Express on the Indian Splendour journey with Global Tourist Centre. Explore the Taj Mahal, Ranthambore tiger safari, Amber Fort, Jodhpur, Udaipur and more in royal comfort. Book your regal rail escape now.",
-  },
-  itinerary: {
-    title: "A Wonderful Journey Through a Magical Land",
-    days: [
-      {
-        day_title: "Day 1: Arrival in Delhi",
-        location: "Delhi",
-        description:
-          "Round-trip flight from Goa to Delhi. Private airport transfer and check-in at luxury 5★ deluxe hotel (upgraded room category).",
-        activities: [
-          "Leisure evening in Delhi",
-          "Overnight at luxury hotel in Delhi",
-        ],
-      },
-      {
-        day_title: "Day 2: Delhi & Agra",
-        location: "Delhi → Agra",
-        description:
-          "Board the Maharajas' Express at Delhi in the morning. Upon arrival at Agra, visit the iconic Taj Mahal. Overnight on the train at Agra.",
-        activities: [
-          "Onboard Breakfast",
-          "Taj Mahal visit",
-          "Onboard Lunch & Dinner",
-          "Overnight on train at Agra",
-        ],
-      },
-      {
-        day_title: "Day 3: Agra & Ranthambore",
-        location: "Agra → Ranthambore",
-        description:
-          "Visit the magnificent Agra Fort. Return to the train for breakfast as it proceeds to Sawai Madhopur. Enjoy a thrilling safari at Ranthambore National Park.",
-        activities: [
-          "Agra Fort visit",
-          "Onboard Breakfast & Lunch",
-          "Ranthambore National Park tiger safari",
-          "Onboard Dinner as train proceeds to Jaipur",
-        ],
-      },
-      {
-        day_title: "Day 4: Jaipur",
-        location: "Jaipur",
-        description:
-          "After onboard breakfast, deboard to visit the majestic Amber Fort. Return to the train for lunch. Enjoy dinner at an exclusive venue before the train proceeds to Bikaner.",
-        activities: [
-          "Onboard Breakfast",
-          "Amber Fort visit",
-          "Onboard Lunch",
-          "Exclusive dinner at a curated venue",
-          "Train proceeds to Bikaner",
-        ],
-      },
-      {
-        day_title: "Day 5: Bikaner",
-        location: "Bikaner",
-        description:
-          "After a leisurely breakfast and lunch onboard, proceed to visit the historic Junagarh Fort followed by an exclusive barbecue evening on the sand dunes.",
-        activities: [
-          "Onboard Breakfast & Lunch",
-          "Junagarh Fort visit",
-          "Exclusive barbecue evening on sand dunes",
-          "Train proceeds to Jodhpur",
-        ],
-      },
-      {
-        day_title: "Day 6: Jodhpur",
-        location: "Jodhpur",
-        description:
-          "Breakfast and lunch onboard. Morning at leisure. Post lunch, visit the imposing Mehrangarh Fort followed by a walking tour of the Old Clock Tower Market and dinner at an exclusive venue.",
-        activities: [
-          "Onboard Breakfast & Lunch",
-          "Morning at leisure",
-          "Mehrangarh Fort visit",
-          "Walking tour of Old Clock Tower Market",
-          "Exclusive dinner at a curated venue",
-          "Train proceeds to Udaipur",
-        ],
-      },
-      {
-        day_title: "Day 7: Udaipur",
-        location: "Udaipur",
-        description:
-          "After onboard breakfast, enjoy a boat ride on the serene Lake Pichola and visit the grand City Palace. Lunch at an exclusive venue. Dinner onboard as the train proceeds to Mumbai.",
-        activities: [
-          "Onboard Breakfast",
-          "Boat ride on Lake Pichola",
-          "City Palace visit",
-          "Lunch at exclusive venue",
-          "Onboard Dinner as train proceeds to Mumbai",
-        ],
-      },
-      {
-        day_title: "Day 8: Arrival in Mumbai",
-        location: "Mumbai",
-        description:
-          "Breakfast and lunch onboard. Disembark in Mumbai. Private transfer to the iconic Taj Mahal Palace Hotel.",
-        activities: [
-          "Onboard Breakfast & Lunch",
-          "Disembark in Mumbai",
-          "Private transfer to Taj Mahal Palace Hotel",
-          "Check-in & overnight at Taj Mahal Palace",
-        ],
-      },
-      {
-        day_title: "Day 9: Return to Goa",
-        location: "Mumbai → Goa",
-        description:
-          "Breakfast at the hotel. Private transfer to Mumbai Airport for flight back to Goa.",
-        activities: [
-          "Breakfast at hotel",
-          "Private transfer to Mumbai Airport",
-          "Flight back to Goa",
-          "Tour Ends",
-        ],
-      },
-    ],
-  },
-  accommodations: [
-  {
-  image: {
-    src: "/assets/Luxury/Maharaja/deluxe.webp",
-    alt: "Deluxe Cabin - Maharajas' Express",
-  },
-  name: "Deluxe Cabin",
-  location: "Maharajas' Express, India",
-  description:
-    "Spacious 112 sq. ft. cabin featuring en suite shower and WC, OTT entertainment access, writing ledge with stool, and a wardrobe with electronic safe. Available in 12 Twin and 8 Double bed configurations.",
-  rating: 5,
-},
-{
-  image: {
-    src: "/assets/Luxury/Maharaja/junior.webp",
-    alt: "Junior Suite - Maharajas' Express",
-  },
-  name: "Junior Suite",
-  location: "Maharajas' Express, India",
-  description:
-    "Elegant 150 sq. ft. suite offering en suite shower and WC, OTT entertainment, dedicated table with chair, and wardrobe with electronic safe. Configured as 12 Twin and 6 Double bed cabins.",
-  rating: 5,
-},
-{
-  image: {
-    src: "/assets/Luxury/Maharaja/suite.webp",
-    alt: "Suite - Maharajas' Express",
-  },
-  name: "Suite",
-  location: "Maharajas' Express, India",
-  description:
-    "Expansive 220 sq. ft. luxury suite with en suite bath tub, shower and WC, minibar, OTT entertainment, separate sitting area with sofa chairs, and wardrobe with electronic safe. Available in 4 Double bed cabins.",
-  rating: 5,
-},
-{
-  image: {
-    src: "/assets/Luxury/Maharaja/presidential.webp",
-    alt: "Presidential Suite - Maharajas' Express",
-  },
-  name: "Presidential Suite",
-  location: "Maharajas' Express, India",
-  description:
-    "Ultra-premium 448 sq. ft. full-coach suite featuring two bedrooms, a living room, master en suite with bath tub, second en suite shower, minibar, OTT entertainment, dedicated sitting area, and wardrobe with electronic safe.",
-  rating: 5,
-},
-  ],
-  inclusions: [
-    {
-      icon: "fas fa-plane",
-      title: "Round-Trip Flights",
-      description: "Round-trip flights from Goa to Delhi and Mumbai to Goa",
-    },
-    {
-      icon: "fas fa-car",
-      title: "Private Transfers",
-      description: "Private airport transfers throughout the journey",
-    },
-    {
-      icon: "fas fa-hotel",
-      title: "Hotel Stays",
-      description:
-        "2 nights in 5★ deluxe hotels (upgraded room category, B&B basis) — 1N Delhi + 1N Mumbai (Taj Mahal Palace)",
-    },
-    {
-      icon: "fas fa-train",
-      title: "Luxury Train Stay",
-      description: "6 nights aboard Maharajas' Express on Full Board basis",
-    },
-    {
-      icon: "fas fa-utensils",
-      title: "All Meals Included",
-      description:
-        "All meals included on train and hotel basis as mentioned in the itinerary",
-    },
-    {
-      icon: "fas fa-binoculars",
-      title: "All Sightseeing",
-      description: "All sightseeing as per itinerary",
-    },
-    {
-      icon: "fas fa-monument",
-      title: "Taj Mahal Visit",
-      description: "Guided visit to the iconic Taj Mahal, Agra",
-    },
-    {
-      icon: "fas fa-coffee",
-      title: "Champagne Breakfast",
-      description: "Champagne breakfast at Taj Khema",
-    },
-    {
-      icon: "fas fa-paw",
-      title: "Ranthambore Tiger Safari",
-      description: "Thrilling tiger safari at Ranthambore National Park",
-    },
-    {
-      icon: "fas fa-landmark",
-      title: "Amber Fort Visit",
-      description: "Private guided visit to the majestic Amber Fort, Jaipur",
-    },
-    {
-      icon: "fas fa-concierge-bell",
-      title: "Exclusive Palace Dinners",
-      description: "Curated exclusive dining experiences at palace venues",
-    },
-    {
-      icon: "fas fa-ship",
-      title: "Boat Ride in Udaipur",
-      description: "Scenic boat ride on Lake Pichola, Udaipur",
-    },
-    {
-      icon: "fas fa-map-marked-alt",
-      title: "Half-Day Delhi Tour",
-      description: "Curated half-day guided tour of Delhi",
-    },
-  ],
-  exclusions: [],
-},
   },
   notfound: {
     title: "Adventure Awaits, But You've Taken a Detour!",
