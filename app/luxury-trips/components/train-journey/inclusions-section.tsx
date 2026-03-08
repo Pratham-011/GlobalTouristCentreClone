@@ -1,5 +1,5 @@
 "use client";
-
+import { useI18n } from "@/lib/i18n/context";
 interface InclusionItem {
     icon: string;
     title: string;
@@ -32,7 +32,7 @@ function OrnamentDivider() {
 
 export function InclusionsSection({ data, excursions }: InclusionsSectionProps) {
     if (!data || !Array.isArray(data) || data.length === 0) return null;
-
+ const { t } = useI18n();
     return (
         <section
             style={{
@@ -65,16 +65,6 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                         <div style={{ height: "1px", flex: 1, maxWidth: "120px", background: "linear-gradient(to left, transparent, rgba(0,78,89,0.4))" }} />
                     </div>
 
-                    <p style={{
-                        fontFamily: "'Cormorant Garamond', Georgia, serif",
-                        fontSize: "0.72rem",
-                        letterSpacing: "0.45em",
-                        color: "#c9a84c",
-                        textTransform: "uppercase",
-                        margin: "0 0 14px",
-                    }}>
-                        What's Covered
-                    </p>
 
                     <h2 style={{
                         fontFamily: "'Cormorant Garamond', Georgia, serif",
@@ -86,7 +76,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                         margin: "0 0 4px",
                         lineHeight: 1.05,
                     }}>
-                        Package Inclusions
+                       {t.luxury.inclusions}
                     </h2>
 
                     <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "14px", marginTop: "20px" }}>
@@ -222,7 +212,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
 
                         <div style={{ position: "relative", zIndex: 1 }}>
                             <div style={{ textAlign: "center", marginBottom: "40px" }}>
-                                <p style={{
+                                {/* <p style={{
                                     fontFamily: "'Cormorant Garamond', Georgia, serif",
                                     fontSize: "0.72rem",
                                     letterSpacing: "0.45em",
@@ -231,7 +221,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                     margin: "0 0 10px",
                                 }}>
                                     Curated Experiences
-                                </p>
+                                </p> */}
                                 <h3 style={{
                                     fontFamily: "'Cormorant Garamond', Georgia, serif",
                                     fontSize: "clamp(1.6rem, 3vw, 2.6rem)",
@@ -242,7 +232,7 @@ export function InclusionsSection({ data, excursions }: InclusionsSectionProps) 
                                     margin: 0,
                                     lineHeight: 1,
                                 }}>
-                                    Shared Excursions
+                                   {t.luxury.shared}
                                 </h3>
                                 <OrnamentDivider />
                             </div>

@@ -8,7 +8,7 @@ import { HeroSection } from "./hero-secction";
 import { LuxuryToursSection } from "./tourssection";
 import { WhyChooseLuxury } from "./why-choose-luxury";
 import { luxuryPageContent, LuxurySlug } from "@/lib/data/luxury-page-content";
-import { TrainJourneyClient } from "../components/train-journey/train-journey-client";
+// import { TrainJourneyClient } from "../components/train-journey/train-journey-client";
 
 
 type PageProps = {
@@ -17,9 +17,9 @@ type PageProps = {
   };
 };
 
-const TrainJourney = [
-  "mahraja-train-tour-package",
-]
+// const TrainJourney = [
+//   "mahraja-train-tour-package",
+// ]
 
 
 
@@ -31,11 +31,11 @@ export function LuxuryClient({ params }: PageProps) {
     notFound();
   }
 
-  const isTrainJourney = TrainJourney.includes(params.slug);
+  // const isTrainJourney = TrainJourney.includes(params.slug);
 
-  if (isTrainJourney) {
-    return <TrainJourneyClient slug={params.slug} />;
-  }
+  // if (isTrainJourney) {
+  //   return <TrainJourneyClient slug={params.slug} />;
+  // }
 
   return (
     <main>

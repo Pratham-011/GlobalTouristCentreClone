@@ -17,27 +17,27 @@ interface RestaurantsSectionProps {
 }
 
 // ── Default data — export and pass as prop from your page ─────────────────────
-export const MAHARAJA_RESTAURANTS_DATA: Restaurant[] = [
-    {
-        name: "MAYUR MAHAL",
-        image: {
-            src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
-            alt: "Mayur Mahal Restaurant",
-        },
-    },
-    {
-        name: "RANG MAHAL",
-        image: {
-            src: "/assets/Luxury/Maharaja/rang-mahal.webp",
-            alt: "Rang Mahal Restaurant",
-        },
-    },
-];
+// export const MAHARAJA_RESTAURANTS_DATA: Restaurant[] = [
+//     {
+//         name: "MAYUR MAHAL",
+//         image: {
+//             src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
+//             alt: "Mayur Mahal Restaurant",
+//         },
+//     },
+//     {
+//         name: "RANG MAHAL",
+//         image: {
+//             src: "/assets/Luxury/Maharaja/rang-mahal.webp",
+//             alt: "Rang Mahal Restaurant",
+//         },
+//     },
+// ];
 
 export function RestaurantsSection({
     restaurants,
-    title = "Maharaja's Express",
-    subtitle = "Restaurants",
+    title ,
+    subtitle,
 }: RestaurantsSectionProps) {
     if (!restaurants || restaurants.length === 0) return null;
 

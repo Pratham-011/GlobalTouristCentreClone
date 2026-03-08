@@ -1324,6 +1324,9 @@ testimonials: {
   },
   // Luxury Destinations
   luxury: {
+    inclusions:"Package Inclusions",
+    accommdation:"Luxury Accommodations",
+    shared:"Shared Excursions",
     heroTitle: "Dubai Holiday Packages",
     discount: "Up to 35% OFF",
     getDiscount: "Get 35% OFF on Dubai Package",
@@ -12282,7 +12285,7 @@ testimonials: {
   hero: {
     type: "package-hero",
     badge: "Signature Package",
-    title: "9N/10D The Indian Splendour",
+    title: "Maharaja Express Luxury Train Tour in India",
     location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
     cta_text: "Book Now",
     cta_link:
@@ -12290,9 +12293,9 @@ testimonials: {
     background_image: "/assets/Luxury/Maharaja/hero.webp",
   },
   metadata: {
-    title: "9N/10D Indian Splendour – Maharajas' Express Luxury Train Tour | Global Tourist Centre",
+    title: "Maharaja Express Train Tour Package | Luxury Train India",
     description:
-      "Travel aboard the legendary Maharajas' Express on the Indian Splendour journey with Global Tourist Centre. Explore the Taj Mahal, Ranthambore tiger safari, Amber Fort, Jodhpur, Udaipur and more in royal comfort. Book your regal rail escape now.",
+      "Experience the Maharaja Express Train Tour package with 5★ hotels, Taj Mahal visit, Ranthambore safari & royal suites. Book luxury train tours in India.",
   },
   itinerary: {
     title: "The Indian Splendour",
@@ -12344,7 +12347,11 @@ testimonials: {
         desc: "Breakfast at hotel Private transfer to Mumbai Airport Flight back to Goa",
     },],
   },
-  accommodations: [
+  accommodations: {
+  eyebrow : "Aboard the Golden Journey",
+  title : "Maharaja's Express",
+  subtitle : "Private Cabins & Suites",
+  cabins:[
     {
         name: "Deluxe Cabin",
         size: "(112 sq. ft. / 10.4 sq. mt.)",
@@ -12409,7 +12416,7 @@ testimonials: {
             "Minibar",
         ],
     },
-],
+]},
   restaurants:{
     title:"Maharajas' Express",
     subtitle:"Restaurants",

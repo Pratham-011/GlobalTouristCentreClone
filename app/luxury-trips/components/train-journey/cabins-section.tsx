@@ -2,7 +2,6 @@
 
 import Image from "next/image";
 import { useState } from "react";
-
 interface CabinType {
     name: string;
     size: string;
@@ -127,12 +126,11 @@ function CabinCard({ cabin, index }: { cabin: CabinType; index: number }) {
 
 export function CabinsSection({
     cabins,
-    eyebrow = "Aboard the Golden Journey",
-    title = "Maharaja's Express",
-    subtitle = "Private Cabins & Suites",
+    eyebrow,
+    title,
+    subtitle,
 }: CabinsSectionProps) {
     if (!cabins || cabins.length === 0) return null;
-
     return (
         <section style={{
             background: "linear-gradient(180deg, #eee9d8 0%, #f4f1e9 30%, #ede8d8 70%, #f4f1e9 100%)",

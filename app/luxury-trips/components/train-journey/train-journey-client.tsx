@@ -29,7 +29,7 @@ export function TrainJourneyClient({ slug }: Props) {
       {/* ======================================================
           CABINS
       ======================================================= */}
-      {pageData.accommodations && <CabinsSection  cabins={pageData.accommodations as any} />}
+      {pageData.accommodations && <CabinsSection  cabins={pageData.accommodations.cabins as any} title={pageData.accommodations.title} subtitle={pageData.accommodations.subtitle}    eyebrow={pageData.accommodations.eyebrow}/>}
 
       {/* ======================================================
           RESTAURANTS
