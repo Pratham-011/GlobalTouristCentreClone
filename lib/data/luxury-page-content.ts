@@ -14,11 +14,15 @@ export const luxuryPageContent = {
   "karnataka-luxury": {
     image: "/assets/Luxury/Karnataka/hero.webp",
   },
-  "mahraja-train-tour-package": {
+} as const;
+
+export const LUXURY_TRAIN_CONTENT = {
+  "maharaja-train-tour-package": {
     image: "/assets/Luxury/Maharaja/maharaja-hero.webp",
   },
-
 } as const;
+
+export type LuxuryTrainSlug = keyof typeof LUXURY_TRAIN_CONTENT;
 
 export const LUXURY_TOUR_SLUGS = [
   "4n-5d-rajasthan-luxury-package",
@@ -27,24 +31,37 @@ export const LUXURY_TOUR_SLUGS = [
   "golden-triangle-luxury-package",
   "karnataka-luxury-package",
   "kerala-luxury-package",
+  "kerala-luxury-tour-package",
   "mumbai-luxury-package",
   "rajasthan-luxury-package",
-  "kerala-luxury-tour-package",
 ] as const;
 
-
-export type LuxurySlug = keyof typeof luxuryPageContent;
 export type LuxuryTourSlug = (typeof LUXURY_TOUR_SLUGS)[number];
 
-/**
- * Mapping of destination slugs to their valid tour package slugs.
- * This ensures generateStaticParams() only creates valid routes.
- */
-export const DESTINATION_TOURS: Record<LuxurySlug, LuxuryTourSlug[]> = {
-  "kerala-luxury": ["kerala-luxury-package", "kerala-luxury-tour-package"],
-  "mumbai-luxury": ["mumbai-luxury-package"],
-  "golden-triangle-luxury": ["golden-triangle-luxury-package", "6n-7d-golden-triangle-luxury-tour-package"],
-  "rajasthan-luxury": ["4n-5d-rajasthan-luxury-package", "6n-7d-rajasthan-luxury-package", "rajasthan-luxury-package"],
-  "karnataka-luxury": ["karnataka-luxury-package"],
-};
+export type LuxurySlug = keyof typeof luxuryPageContent;
 
+export const DESTINATION_TOURS: Partial<Record<LuxurySlug, LuxuryTourSlug[]>> = {
+  "kerala-luxury": [
+    "kerala-luxury-package",
+    "kerala-luxury-tour-package",
+  ],
+
+  "mumbai-luxury": [
+    "mumbai-luxury-package",
+  ],
+
+  "golden-triangle-luxury": [
+    "golden-triangle-luxury-package",
+    "6n-7d-golden-triangle-luxury-tour-package",
+  ],
+
+  "rajasthan-luxury": [
+    "4n-5d-rajasthan-luxury-package",
+    "6n-7d-rajasthan-luxury-package",
+    "rajasthan-luxury-package",
+  ],
+
+  "karnataka-luxury": [
+    "karnataka-luxury-package",
+  ],
+};

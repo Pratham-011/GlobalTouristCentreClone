@@ -16,30 +16,17 @@ interface RestaurantsSectionProps {
     subtitle?: string;
 }
 
-// ── Default data — export and pass as prop from your page ─────────────────────
-export const MAHARAJA_RESTAURANTS_DATA: Restaurant[] = [
-    {
-        name: "MAYUR MAHAL",
-        image: {
-            src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
-            alt: "Mayur Mahal Restaurant",
-        },
-    },
-    {
-        name: "RANG MAHAL",
-        image: {
-            src: "/assets/Luxury/Maharaja/rang-mahal.webp",
-            alt: "Rang Mahal Restaurant",
-        },
-    },
-];
-
 export function RestaurantsSection({
     restaurants,
     title = "Maharaja's Express",
     subtitle = "Restaurants",
 }: RestaurantsSectionProps) {
-    if (!restaurants || restaurants.length === 0) return null;
+    if (!Array.isArray(restaurants)) {
+        console.error("RESTAURANTS IS NOT AN ARRAY in RestaurantsSection:", restaurants);
+        return null;
+    }
+
+    if (restaurants.length === 0) return null;
 
     return (
         <section className="py-16 md:py-24 relative" style={{ backgroundColor: "#fdfbf7" }}>

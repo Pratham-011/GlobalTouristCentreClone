@@ -11,6 +11,11 @@ import {
   DESTINATION_TOURS,
 } from "@/lib/data/luxury-page-content";
 
+/* ------------------------------------------------------------------ */
+/* TRAIN SLUGS — handled by [destinationSlug] page only, not here      */
+/* ------------------------------------------------------------------ */
+const TRAIN_SLUGS = ["mahraja-train-tour-package"] as const;
+type TrainSlug = (typeof TRAIN_SLUGS)[number];
 
 /* ================================
    Types
@@ -33,18 +38,16 @@ export function generateStaticParams() {
     tourSlug: LuxuryTourSlug;
   }[] = [];
 
-  const destinationSlugs = Object.keys(luxuryPageContent) as LuxurySlug[];
+  // Exclude train slugs — they have no nested [tourSlug] routes
+  const destinationSlugs = (Object.keys(luxuryPageContent) as LuxurySlug[]).filter(
+    (slug) => !TRAIN_SLUGS.includes(slug as TrainSlug)
+  );
 
   for (const locale of LOCALES) {
     for (const destinationSlug of destinationSlugs) {
-      // Only generate routes for tours that belong to this destination
       const toursForDestination = DESTINATION_TOURS[destinationSlug] || [];
       for (const tourSlug of toursForDestination) {
-        params.push({
-          locale,
-          destinationSlug,
-          tourSlug,
-        });
+        params.push({ locale, destinationSlug, tourSlug });
       }
     }
   }
@@ -52,79 +55,74 @@ export function generateStaticParams() {
   return params;
 }
 
-
-export async function generateMetadata({
-  params,
-}: PageProps): Promise<Metadata> {
+/* ------------------------------------------------------------------ */
+/* METADATA */
+/* ------------------------------------------------------------------ */
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale, destinationSlug, tourSlug } = params;
-  const t = getTranslations(locale);
 
-  const pageData = t.luxuryTourPackages?.[tourSlug];
-  if (!pageData) {
+  // Train slugs are not handled at this level
+  if (TRAIN_SLUGS.includes(destinationSlug as TrainSlug)) {
     return {
       title: "Luxury Tours",
-      description:
-        "Explore curated luxury travel experiences with premium stays and personalized service.",
+      description: "Explore curated luxury travel experiences with premium stays and personalized service.",
     };
   }
 
+  const t = getTranslations(locale);
+  const pageData = t.luxuryTourPackages?.[tourSlug];
 
-  const title = t.luxuryTourPackages?.[tourSlug]?.metadata?.title || "Our Services | Global Tourist Centre";
-  const description = t.luxuryTourPackages?.[tourSlug]?.metadata?.description || "Custom travel solutions with Global Tourist Centre - visa assistance, hotel bookings, and travel packages.";
+  if (!pageData) {
+    return {
+      title: "Luxury Tours",
+      description: "Explore curated luxury travel experiences with premium stays and personalized service.",
+    };
+  }
 
+  const title =
+    t.luxuryTourPackages?.[tourSlug]?.metadata?.title ||
+    "Our Services | Global Tourist Centre";
+  const description =
+    t.luxuryTourPackages?.[tourSlug]?.metadata?.description ||
+    "Custom travel solutions with Global Tourist Centre - visa assistance, hotel bookings, and travel packages.";
   const image = t.luxuryTourPackages?.[tourSlug]?.hero_section?.background_image;
-
   const canonical = `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}`;
+
   return {
     title,
     description,
-    alternates: {
-      canonical,
-    },
+    alternates: { canonical },
     openGraph: {
       title,
       description,
       siteName: title,
-      images: [
-        {
-          url: image,
-          width: 1200,
-          height: 630,
-          alt: title,
-        },
-      ],
+      images: image ? [{ url: image, width: 1200, height: 630, alt: title }] : [],
     },
     twitter: {
       title,
       description,
       card: "summary_large_image",
-      images: [
-        {
-          url: image,
-          width: 1200,
-          height: 630,
-          alt: title,
-        },
-      ],
+      images: image ? [{ url: image, width: 1200, height: 630, alt: title }] : [],
     },
-    // keywords: t.metadata.keywords,
-    robots: {
-      index: true,
-      follow: true,
-    },
+    robots: { index: true, follow: true },
   };
 }
+
 /* ------------------------------------------------------------------ */
 /* PAGE */
 /* ------------------------------------------------------------------ */
 export default function TourDetailPage({ params }: PageProps) {
-  const { tourSlug } = params;
+  const { destinationSlug, tourSlug } = params;
 
-  /* 1️⃣ Validate tour slug */
+  // Train slugs own their rendering at the [destinationSlug] level — do nothing here
+  if (TRAIN_SLUGS.includes(destinationSlug as TrainSlug)) {
+    notFound();
+  }
+
+  // Validate tour slug
   if (!LUXURY_TOUR_SLUGS.includes(tourSlug)) {
     notFound();
   }
 
-  /* 2️⃣ Render client */
   return <TourClient tourSlug={tourSlug} />;
 }
