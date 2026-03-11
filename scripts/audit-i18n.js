@@ -91,10 +91,7 @@ const appUsages = findTranslationUsages(path.join(projectRoot, 'app'));
 const componentUsages = findTranslationUsages(path.join(projectRoot, 'components'));
 const allUsages = new Set([...appUsages, ...componentUsages]);
 
-console.log(`✅ Found ${allUsages.size} unique translation key patterns\n`);
 
-// Get all keys from en.ts (simplified - we'll verify manually)
-console.log('📖 Reading en.ts structure...');
 
 // Output results
 const output = {

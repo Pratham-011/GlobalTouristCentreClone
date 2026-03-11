@@ -120,8 +120,7 @@ const CuratedTravel = () => {
           >
             {travelCollections.map((tour) => {
               const content = t.collections.items[tour.id];
-              // console.log(content);
-              // console.log(tour);
+
 
               return (
                 <div

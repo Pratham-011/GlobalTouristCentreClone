@@ -61,9 +61,8 @@ export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
 
   function handleLanguageChange(newLocale: Locale) {
     if (newLocale === currentLocale) return;
-    console.log(newLocale)
     const basePath = stripLocaleFromPath(pathname);
-    console.log(basePath)
+
 
     // Switch to English → no locale prefix
     if (newLocale == "en") {

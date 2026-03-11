@@ -29,24 +29,18 @@ export const it = {
   metadata: {
     brandname: "Global Tourist Centre",
     brandtagline: "Luxury Travel Experiences",
-    home: {
-      title:
-        "Agenzia di viaggi N.1 in India per viaggi nazionali e internazionali a Goa | GTC",
-      description:
-        "Pianifica la tua vacanza perfetta con GTC – l'agenzia di viaggi N.1 di Goa. Dai tour nazionali alle vacanze globali, offriamo pacchetti personalizzati, prenotazioni aeree e ferroviarie e supporto esperto.",
-    },
-    about: {
-      title:
-        "Chi siamo – Agenzia di viaggi con sede a Goa | Global Tourist Centre",
-      description:
-        "Global Tourist Centre, un'agenzia di viaggi di fiducia fondata a Goa nel 2010. Trasformiamo i vostri sogni in esperienze di viaggio nazionali e internazionali indimenticabili con passione e competenza.",
-    },
-    contact: {
-      title:
-        "Contatta Global Tourist Centre – Prenota il tuo pacchetto viaggio personalizzato",
-      description:
-        "Mettiti in contatto con Global Tourist Centre — il partner di viaggio di fiducia di Goa Sud con oltre 25 anni di esperienza. Chiama, invia un'e-mail o compila il modulo per iniziare a creare il tuo tour personalizzato.",
-    },
+home: {
+  title: "Agenzia di viaggi n.1 in India a Goa per tour nazionali e internazionali | GTC",
+  description: "Pianifica la tua vacanza perfetta con GTC, un'agenzia di viaggi affidabile a Goa. Scopri tour a Goa, pacchetti in India, viaggi internazionali, voli, crociere e servizi di viaggio personalizzati.",
+},
+about: {
+  title: "Chi siamo – Agenzia di viaggi con sede a Goa | Global Tourist Centre",
+  description: "Global Tourist Centre è un'agenzia di viaggi affidabile fondata a Goa nel 2010. Trasformiamo i tuoi sogni di viaggio in esperienze nazionali e internazionali indimenticabili con passione ed esperienza.",
+},
+contact: {
+  title: "Contatta Global Tourist Centre – Prenota il tuo pacchetto di viaggio personalizzato",
+  description: "Contatta Global Tourist Centre — il partner di viaggio affidabile nel sud di Goa con oltre 15 anni di esperienza. Chiama, invia un'email o compila il modulo per iniziare a creare il tuo viaggio su misura.",
+},
     destinations: {
       title:
         "Esplora le migliori destinazioni dell’India – Global Tourist Centre",
@@ -1107,21 +1101,25 @@ export const it = {
     mainTitle: "Chi è Global Tourist Centre",
     mainSubtitle:
       "Trasformiamo sogni in realtà dal 2010, creando esperienze di viaggio indimenticabili.",
-    journeyTitle: "Il Nostro Percorso",
-    journeyDesc:
-      "Fondata nel 2010 nella bellissima Goa, Global Tourist Centre è nata con una missione semplice: aiutare i viaggiatori a scoprire il mondo con facilità e fiducia. Quello che è iniziato come una piccola agenzia locale è cresciuto fino a diventare un nome affidabile nel settore.",
-    philosophyTitle: "La Nostra Filosofia",
-    philosophyDesc:
-      "Crediamo che il viaggio debba essere trasformativo. Il nostro approccio va oltre la prenotazione di voli e hotel - ci concentriamo sulla creazione di esperienze che risuonano con il tuo stile personale.",
-    teamTitle: "Il Nostro Team",
-    teamDesc:
-      "La nostra forza risiede nel nostro team appassionato di esperti di viaggio. Con background diversi e vasta esperienza, portiamo conoscenze dirette in ogni itinerario.",
-    visionTitle: "La Nostra Visione",
-    visionDesc:
-      "Essere il partner di viaggio più affidabile e innovativo, ispirando le persone a esplorare il mondo con fiducia e gioia.",
-    missionTitle: "La Nostra Missione",
-    missionDesc:
-      "Creare esperienze di viaggio personalizzate che superano le aspettative attraverso un servizio eccezionale.",
+journeyTitle: "Il nostro viaggio",
+journeyDesc:
+  "Fondato nel 2010 nel bellissimo stato costiero di Goa, Global Tourist Centre è nato con una visione chiara: rendere il viaggio semplice, memorabile e accessibile a tutti. Quella che è iniziata come una piccola azienda turistica locale è gradualmente diventata un nome affidabile nel settore dei viaggi, aiutando viaggiatori dall'India e da tutto il mondo a esplorare destinazioni straordinarie con fiducia. Negli ultimi 15 anni abbiamo costruito solide relazioni con i viaggiatori offrendo servizi affidabili, tour attentamente pianificati e soluzioni di viaggio personalizzate.",
+
+philosophyTitle: "La nostra filosofia",
+philosophyDesc:
+  "Al Global Tourist Centre crediamo che il viaggio sia molto più di una semplice prenotazione: riguarda esperienze e ricordi. Il nostro obiettivo è creare viaggi che rispecchino davvero i tuoi interessi e i tuoi sogni di viaggio. Che tu voglia esplorare nuove culture, rilassarti su splendide spiagge, goderti un viaggio di lusso o vivere un’avventura, progettiamo ogni viaggio con cura affinché la tua esperienza sia fluida, piacevole e indimenticabile.",
+
+teamTitle: "Il nostro team",
+teamDesc:
+  "La nostra più grande forza è il nostro team appassionato di professionisti del viaggio. Con anni di esperienza nel settore turistico e una profonda conoscenza delle destinazioni in tutto il mondo, il nostro team lavora a stretto contatto con ogni viaggiatore per pianificare il viaggio perfetto. Dai nostri cordiali consulenti di viaggio ai nostri affidabili partner locali, tutti al Global Tourist Centre sono dedicati a offrire un servizio eccellente e a rendere ogni viaggio speciale.",
+
+visionTitle: "La nostra visione",
+visionDesc:
+  "Diventare un partner turistico affidabile e di fiducia, aiutando i viaggiatori a esplorare il mondo con sicurezza, comfort ed esperienze indimenticabili.",
+
+missionTitle: "La nostra missione",
+missionDesc:
+  "Offrire esperienze di viaggio personalizzate combinando pianificazione esperta, conoscenza locale e un servizio dedicato che supera le aspettative dei nostri clienti.",
     valuesTitle: "I Nostri Valori",
     integrity: "Integrità in tutti i nostri rapporti",
     passion: "Passione per viaggi e servizio",

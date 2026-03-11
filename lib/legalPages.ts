@@ -73,7 +73,7 @@ export const legalPages: Record<string, LegalPageData> = {
             en: {
                 metadata: {
                     title: "Privacy Policy | Global Tourist Centre",
-                    description: "Learn how Global Tourist Centre protects your personal information and respects your privacy when you use our travel services"
+                    description: "Learn how Global Tourist Centre protects your personal information and respects your privacy when you use our tour services."
                 },
                 title: "Privacy Policy",
                 subtitle: "Your privacy is important to us",
@@ -169,9 +169,9 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             ru: {
-                "metadata": {
-                    "title": "Политика конфиденциальности | Global Tourist Centre",
-                    "description": "Узнайте, как Global Tourist Centre защищает вашу личную информацию и уважает вашу конфиденциальность при использовании наших туристических услуг."
+                metadata: {
+                    title: "Политика конфиденциальности | Global Tourist Centre",
+                    description: "Узнайте, как Global Tourist Centre защищает вашу личную информацию и уважает вашу конфиденциальность при использовании наших туристических услуг."
                 },
                 title: "Политика конфиденциальности",
                 subtitle: "Ваша конфиденциальность важна для нас",
@@ -265,9 +265,9 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             it: {
-                "metadata": {
-                    "title": "Informativa sulla Privacy | Global Tourist Centre",
-                    "description": "Scopri come Global Tourist Centre protegge le tue informazioni personali e rispetta la tua privacy quando utilizzi i nostri servizi di viaggio."
+                metadata: {
+                    title: "Informativa sulla Privacy | Global Tourist Centre",
+                    description: "Scopri come Global Tourist Centre protegge le tue informazioni personali e rispetta la tua privacy quando utilizzi i nostri servizi di viaggio."
                 },
                 title: "Informativa sulla Privacy",
                 subtitle: "La tua privacy è importante per noi",
@@ -363,9 +363,9 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             fr: {
-                "metadata": {
-                    "title": "Politique de Confidentialité | Global Tourist Centre",
-                    "description": "Découvrez comment Global Tourist Centre protège vos informations personnelles et respecte votre vie privée lorsque vous utilisez nos services de voyage."
+                metadata: {
+                    title: "Politique de Confidentialité | Global Tourist Centre",
+                    description: "Découvrez comment Global Tourist Centre protège vos informations personnelles et respecte votre vie privée lorsque vous utilisez nos services de voyage."
                 },
                 title: "Politique de Confidentialité",
                 subtitle: "Votre vie privée est importante pour nous",
@@ -461,10 +461,10 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             de: {
-                "metadata": {
-                    "title": "Datenschutzrichtlinie | Global Tourist Centre",
-                    "description": "Erfahren Sie, wie Global Tourist Centre Ihre persönlichen Daten schützt und Ihre Privatsphäre respektiert, wenn Sie unsere Reisedienstleistungen nutzen."
-                },
+metadata: {
+  title: "Datenschutzerklärung | Global Tourist Centre",
+  description: "Erfahren Sie, wie Global Tourist Centre Ihre persönlichen Daten schützt und Ihre Privatsphäre respektiert, wenn Sie unsere Reisedienstleistungen nutzen."
+},
 
                 title: "Datenschutzrichtlinie",
                 subtitle: "Ihre Privatsphäre ist uns wichtig",
@@ -567,7 +567,7 @@ export const legalPages: Record<string, LegalPageData> = {
             en: {
                 metadata: {
                     title: "Terms & Conditions | Global Tourist Centre",
-                    description: "Read the terms and conditions for using Global Tourist Centre's travel services and booking tours with us"
+                    description: "Read the terms and conditions for using Global Tourist Centre's tour services and booking tours with us." 
                 },
                 title: "Terms & Conditions",
                 subtitle: "Please read these terms carefully before using our services",
@@ -657,10 +657,10 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             ru: {
-                "metadata": {
-                    "title": "Условия и положения | Global Tourist Centre",
-                    "description": "Ознакомьтесь с условиями использования туристических услуг Global Tourist Centre и правилами бронирования туров."
-                },
+metadata: {
+  title: "Условия и положения | Global Tourist Centre",
+  description: "Ознакомьтесь с условиями использования туристических услуг Global Tourist Centre и бронирования туров у нас."
+},
                 title: "Условия и положения",
                 subtitle: "Пожалуйста, внимательно прочитайте условия",
                 sectionTitle: "Условия бронирования",
@@ -747,10 +747,10 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             it: {
-                "metadata": {
-                    "title": "Termini e Condizioni | Global Tourist Centre",
-                    "description": "Leggi i termini e le condizioni per l’utilizzo dei servizi di viaggio di Global Tourist Centre e le modalità di prenotazione."
-                },
+metadata: {
+  title: "Termini e condizioni | Global Tourist Centre",
+  description: "Leggi i termini e le condizioni per l’utilizzo dei servizi turistici di Global Tourist Centre e per la prenotazione dei tour con noi."
+},
                 title: "Termini e Condizioni",
                 subtitle: "Si prega di leggere attentamente questi termini prima di utilizzare i nostri servizi",
                 sectionTitle: "Termini e Condizioni di Prenotazione",
@@ -839,10 +839,10 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             fr: {
-                "metadata": {
-                    "title": "Conditions Générales | Global Tourist Centre",
-                    "description": "Consultez les conditions d’utilisation des services de voyage de Global Tourist Centre et les modalités de réservation."
-                },
+metadata: {
+  title: "Conditions générales | Global Tourist Centre",
+  description: "Consultez les conditions générales d’utilisation des services de voyage de Global Tourist Centre et de réservation de circuits avec nous."
+},
                 title: "Conditions Générales",
                 subtitle: "Veuillez lire attentivement ces conditions avant d'utiliser nos services",
                 sectionTitle: "Conditions de Réservation",
@@ -931,10 +931,10 @@ export const legalPages: Record<string, LegalPageData> = {
                 ],
             },
             de: {
-                "metadata": {
-                    "title": "Allgemeine Geschäftsbedingungen | Global Tourist Centre",
-                    "description": "Lesen Sie die Bedingungen für die Nutzung der Reisedienstleistungen von Global Tourist Centre und die Buchungsrichtlinien."
-                },
+metadata: {
+  title: "Allgemeine Geschäftsbedingungen | Global Tourist Centre",
+  description: "Lesen Sie die Allgemeinen Geschäftsbedingungen für die Nutzung der Reisedienstleistungen von Global Tourist Centre und die Buchung von Touren bei uns."
+},
                 title: "Allgemeine Geschäftsbedingungen",
                 subtitle: "Bitte lesen Sie diese Bedingungen sorgfältig durch, bevor Sie unsere Dienste nutzen",
                 sectionTitle: "Buchungsbedingungen",

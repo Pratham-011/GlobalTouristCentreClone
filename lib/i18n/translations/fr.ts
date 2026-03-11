@@ -29,18 +29,18 @@ export const fr = {
   metadata: {
     brandname: "Global Tourist Centre",
     brandtagline: "Luxury Travel Experiences",
-    home: {
-      title: "Agence de Voyage Nationale et Internationale Nº1 de l’Inde à Goa | GTC",
-      description: "Planifiez votre escapade parfaite avec GTC – l’agence de voyage nº1 de Goa. Des circuits nationaux aux vacances internationales, nous proposons des forfaits personnalisés, des réservations de vols et de trains, ainsi qu’un support expert.",
-    },
-    about: {
-      title: "À Propos – Agence de Voyage Basée à Goa | Global Tourist Centre",
-      description: "Global Tourist Centre, une agence de voyage de confiance fondée à Goa en 2010. Nous transformons vos rêves en expériences de voyage nationales et internationales inoubliables avec passion et expertise.",
-    },
-    contact: {
-      title: "Contactez Global Tourist Centre – Réservez Votre Forfait Voyage Personnalisé",
-      description: "Contactez Global Tourist Centre — le partenaire de voyage de confiance de Goa Sud avec plus de 25 ans d’expertise. Appelez, envoyez un e-mail ou remplissez un formulaire pour commencer l’élaboration de votre circuit sur mesure.",
-    },
+home: {
+  title: "Agence de voyage n°1 en Inde à Goa pour les voyages nationaux et internationaux | GTC",
+  description: "Planifiez vos vacances parfaites avec GTC, une agence de voyage de confiance à Goa. Découvrez les circuits à Goa, les forfaits en Inde, les voyages internationaux, les vols, les croisières et les services de voyage personnalisés.",
+},
+about: {
+  title: "À propos – Agence de voyage basée à Goa | Global Tourist Centre",
+  description: "Global Tourist Centre est une agence de voyage de confiance fondée à Goa en 2010. Nous transformons vos rêves de voyage en expériences nationales et internationales inoubliables grâce à notre passion et notre expertise.",
+},
+contact: {
+  title: "Contactez Global Tourist Centre – Réservez votre voyage personnalisé",
+  description: "Contactez Global Tourist Centre — le partenaire de voyage de confiance du sud de Goa avec plus de 15 ans d'expérience. Appelez, envoyez un e-mail ou remplissez le formulaire pour commencer à créer votre voyage sur mesure.",
+},
     destinations: {
       title: "Découvrez les plus belles destinations de l’Inde – Global Tourist Centre",
       description: "Des escapades indiennes incontournables comme le Kerala, Goa, les Andaman, le Rajasthan, Sikkim-Darjeeling, Hampi et bien plus avec Global Tourist Centre."
@@ -979,21 +979,25 @@ testimonials: {
     mainTitle: "À Propos de Global Tourist Centre",
     mainSubtitle:
       "Nous transformons les rêves en réalité depuis 2010, créant des expériences de voyage inoubliables.",
-    journeyTitle: "Notre Parcours",
-    journeyDesc:
-      "Fondée en 2010 dans la belle Goa, Global Tourist Centre a commencé avec une mission simple: aider les voyageurs à découvrir le monde facilement et en confiance.",
-    philosophyTitle: "Notre Philosophie",
-    philosophyDesc:
-      "Nous croyons que le voyage doit être transformatif. Notre approche va au-delà de la réservation de vols et d'hôtels - nous créons des expériences qui résonnent avec votre style personnel.",
-    teamTitle: "Notre Équipe",
-    teamDesc:
-      "Notre force réside dans notre équipe passionnée d'experts en voyage. Avec des expériences diverses, nous apportons des connaissances directes à chaque itinéraire.",
-    visionTitle: "Notre Vision",
-    visionDesc:
-      "Être le partenaire de voyage le plus fiable et innovant, inspirant les gens à explorer le monde avec confiance et joie.",
-    missionTitle: "Notre Mission",
-    missionDesc:
-      "Créer des expériences de voyage personnalisées qui dépassent les attentes grâce à un service exceptionnel.",
+journeyTitle: "Notre parcours",
+journeyDesc:
+  "Fondé en 2010 dans le magnifique État côtier de Goa, Global Tourist Centre a commencé avec une vision claire — rendre le voyage simple, mémorable et accessible à tous. Ce qui a commencé comme une petite entreprise locale de tourisme s'est progressivement transformé en un nom de confiance dans l'industrie du voyage, aidant les voyageurs d’Inde et du monde entier à découvrir des destinations incroyables en toute confiance. Au cours des 15 dernières années, nous avons construit des relations solides avec les voyageurs en offrant un service fiable, des circuits soigneusement planifiés et des solutions de voyage personnalisées.",
+
+philosophyTitle: "Notre philosophie",
+philosophyDesc:
+  "Chez Global Tourist Centre, nous pensons que le voyage est bien plus qu’une simple réservation — il s’agit d’expériences et de souvenirs. Notre objectif est de créer des voyages qui correspondent réellement à vos intérêts et à vos rêves de découverte. Que vous souhaitiez explorer de nouvelles cultures, vous détendre sur de magnifiques plages, profiter d’un voyage de luxe ou partir à l’aventure, nous concevons chaque voyage avec soin afin que votre expérience soit fluide, agréable et inoubliable.",
+
+teamTitle: "Notre équipe",
+teamDesc:
+  "Notre plus grande force est notre équipe passionnée de professionnels du voyage. Grâce à des années d’expérience dans l’industrie du tourisme et à une connaissance des destinations du monde entier, notre équipe travaille étroitement avec chaque voyageur pour organiser le voyage parfait. De nos conseillers en voyages accueillants à nos partenaires locaux fiables, chacun chez Global Tourist Centre s'engage à offrir un excellent service et à rendre chaque voyage spécial.",
+
+visionTitle: "Notre vision",
+visionDesc:
+  "Devenir un partenaire de voyage fiable et de confiance, aidant les voyageurs à explorer le monde avec confiance, confort et des expériences inoubliables.",
+
+missionTitle: "Notre mission",
+missionDesc:
+  "Offrir des expériences de voyage personnalisées en combinant une planification experte, des connaissances locales et un service dédié qui dépasse les attentes de nos clients.",
     valuesTitle: "Nos Valeurs",
     integrity: "Intégrité dans toutes nos relations",
     passion: "Passion pour le voyage et le service",

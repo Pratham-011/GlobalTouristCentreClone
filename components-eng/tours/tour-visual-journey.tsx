@@ -16,7 +16,7 @@ interface TourVisualJourneyProps {
 
 export function TourVisualJourney({ items, gallery }: TourVisualJourneyProps) {
   const { t } = useI18n();
-  // console.log(gallery);
+
   return (
     <section className="bg-white py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

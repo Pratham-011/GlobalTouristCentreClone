@@ -26,7 +26,7 @@ export default function TourClient({ tourSlug }: TourClientProps) {
       </div>
     );
   }
-  console.log(packageData.accommodations);
+
 
   return (
     <main className="bg-white">
