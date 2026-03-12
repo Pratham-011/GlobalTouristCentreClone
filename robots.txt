@@ -5,4 +5,5 @@ Sitemap: https://globaltouristcentre.com/sitemap.xml
 Sitemap: https://globaltouristcentre.com/ru/sitemap.xml
 Sitemap: https://globaltouristcentre.com/it/sitemap.xml
 Sitemap: https://globaltouristcentre.com/fr/sitemap.xml
+
 Sitemap: https://globaltouristcentre.com/de/sitemap.xml
