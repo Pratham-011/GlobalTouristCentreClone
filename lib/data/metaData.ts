@@ -18,7 +18,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "thailand-bangkok-pattaya-tour": {
+  "4N-5D-bangkok-tour-package": {
     meta: {
       duration: "4 Days",
       rating: "4.7/5 Rating",
@@ -30,9 +30,15 @@ export const metaData: Record<string, any> = {
       rating: "4.6/5 Rating",
     },
   },
-  "thailand-tour": {
+  "7N-8D-thailand-tour-package": {
     meta: {
       duration: "8 Days",
+      rating: "4.8/5 Rating",
+    },
+  },
+  "3N-4D-thailand-tour-package": {
+    meta: {
+      duration: "4 Days",
       rating: "4.8/5 Rating",
     },
   },
@@ -42,19 +48,19 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "bhutan-tour": {
+  "7n-8d-bhutan-tour-package": {
     meta: {
       duration: "8 Days",
       rating: "4.9/5 Rating",
     },
   },
-  "wonders-of-vietnam": {
+  "7n-8d-vietam-tour-package": {
     meta: {
       duration: "8 Days",
       rating: "4.7/5 Rating",
     },
   },
-  "turkey-istanbul-cappadocia-tour": {
+  "8n-9d-turkey-tour-package": {
     meta: {
       duration: "9 Days",
       rating: "4.8/5 Rating",
@@ -116,7 +122,7 @@ export const metaData: Record<string, any> = {
       rating: "4.9/5 Rating",
     },
   },
-  "dubai-luxury-tour": {
+  "dubai-tour-package": {
     meta: {
       duration: "6 Days",
     },
@@ -308,40 +314,34 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "phuket-krabi-island-tour": {
+  "phuket-krabi-tour-package": {
     meta: {
       duration: "5 Days",
       rating: "4.9/5 Rating",
     },
   },
-  "classic-singapore-malaysia": {
+  "singapore-tour-package": {
     meta: {
       duration: "7 Days",
       rating: "4.8/5 Rating",
     },
   },
-  "sri-lanka-tour": {
+  "sri-lanka-tour-package": {
     meta: {
       duration: "8 Days",
       rating: "4.6/5 Rating",
     },
   },
-  "glimpse-of-turkey-tour": {
+  "turkey-tour-package": {
     meta: {
       duration: "6 Days",
       rating: "4.9/5 Rating",
     },
   },
-  "best-of-vietnam": {
+  "Vitnam-tour-package-from-goa": {
     meta: {
       duration: "6 Days",
       rating: "4.7/5 Rating",
-    },
-  },
-  "thailand-tour-special": {
-    meta: {
-      duration: "8 Days",
-      rating: "4.8/5 Rating",
     },
   },
   "golden-triangle-tour-from-goa": {

@@ -149,13 +149,13 @@ const travelCollections: TravelCollection[] = [
     imageUrl: "/assets/destinations/Thumbnails/Maldives.webp",
   },
   {
-    id: "sri-lanka-tour",
-    href: "/destinations/international/sri-lanka-tour", // matches int-srilanka-023.slug
+    id: "sri-lanka-tour-package",
+    href: "/destinations/international/sri-lanka-tour-package", // matches int-srilanka-023.slug
     imageUrl: "/assets/destinations/Thumbnails/SriLanka.webp",
   },
   {
-    id: "bhutan-tour",
-    href: "/destinations/international/bhutan-tour", // matches int-bhutan-024.slug
+    id: "7n-8d-bhutan-tour-package",
+    href: "/destinations/international/7n-8d-bhutan-tour-package", // matches int-bhutan-024.slug
     imageUrl: "/assets/destinations/Thumbnails/Bhutan.webp",
   },
 ];

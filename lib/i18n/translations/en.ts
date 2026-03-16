@@ -224,13 +224,13 @@ export const en = {
         description:
           "Indulge in a luxury Maldives getaway with overwater villas, pristine beaches, private dining, spa retreats, and stunning sunsets.",
       },
-      "sri-lanka-tour": {
+      "sri-lanka-tour-package": {
         title: "Sri Lanka Cultural & Scenic Tour",
         duration: "6 Nights / 7 Days",
         description:
           "Explore Sri Lanka’s ancient temples, tea plantations, wildlife sanctuaries, scenic landscapes, and vibrant coastal life.",
       },
-      "bhutan-tour": {
+      "7n-8d-bhutan-tour-package": {
         title: "Bhutan – Land of Happiness",
         duration: "5 Nights / 6 Days",
         description:
@@ -922,64 +922,64 @@ export const en = {
     },
   },
   // Testimonials
-testimonials: {
-  title: "Traveler Testimonials",
-  subtitle:
-    "See what our clients have to say about their experiences with Global Tourist Centre.",
-  whatTravelersSay: "What Our Travelers Say",
-  hearFromCustomers:
-    "Hear from our happy customers about their experiences with us.",
-  viewAllReviews: "View All Reviews on Google",
-  readMore: "Read more",
+  testimonials: {
+    title: "Traveler Testimonials",
+    subtitle:
+      "See what our clients have to say about their experiences with Global Tourist Centre.",
+    whatTravelersSay: "What Our Travelers Say",
+    hearFromCustomers:
+      "Hear from our happy customers about their experiences with us.",
+    viewAllReviews: "View All Reviews on Google",
+    readMore: "Read more",
 
-  // Accessibility / navigation labels
-  prev: "Previous testimonial",
-  next: "Next testimonial",
+    // Accessibility / navigation labels
+    prev: "Previous testimonial",
+    next: "Next testimonial",
 
-  // Time-related labels
-  photos: "photos",
-  monthsAgo: "months ago",
-  weeksAgo: "weeks ago",
+    // Time-related labels
+    photos: "photos",
+    monthsAgo: "months ago",
+    weeksAgo: "weeks ago",
 
-  items: [
-    {
-      name: "Anshika Malik",
-      location: "Kerala · 10 days with family",
-      text:
-        "I recently went on a trip with my husband to Kerala for 7 days. Global Tourist Centre planned everything so well that we didn’t face a single problem throughout the trip!",
-      rating: 5,
-      photosCount: 12,
-      timeAgo: {
-        value: 3,
-        unit: "months",
+    items: [
+      {
+        name: "Anshika Malik",
+        location: "Kerala · 10 days with family",
+        text:
+          "I recently went on a trip with my husband to Kerala for 7 days. Global Tourist Centre planned everything so well that we didn’t face a single problem throughout the trip!",
+        rating: 5,
+        photosCount: 12,
+        timeAgo: {
+          value: 3,
+          unit: "months",
+        },
       },
-    },
-    {
-      name: "Vishal Yadav",
-      location: "Dubai · 5-day honeymoon",
-      text:
-        "Amazing experience! The team at Global Tourist Centre made our honeymoon absolutely perfect. Every detail was taken care of, and we could simply enjoy ourselves.",
-      rating: 5,
-      photosCount: 8,
-      timeAgo: {
-        value: 5,
-        unit: "weeks",
+      {
+        name: "Vishal Yadav",
+        location: "Dubai · 5-day honeymoon",
+        text:
+          "Amazing experience! The team at Global Tourist Centre made our honeymoon absolutely perfect. Every detail was taken care of, and we could simply enjoy ourselves.",
+        rating: 5,
+        photosCount: 8,
+        timeAgo: {
+          value: 5,
+          unit: "weeks",
+        },
       },
-    },
-    {
-      name: "Priya Sharma",
-      location: "Goa · Weekend getaway",
-      text:
-        "Best travel agency ever! They arranged everything from flights to hotels to local tours. The attention to detail was truly impressive.",
-      rating: 4.8,
-      photosCount: 6,
-      timeAgo: {
-        value: 2,
-        unit: "months",
+      {
+        name: "Priya Sharma",
+        location: "Goa · Weekend getaway",
+        text:
+          "Best travel agency ever! They arranged everything from flights to hotels to local tours. The attention to detail was truly impressive.",
+        rating: 4.8,
+        photosCount: 6,
+        timeAgo: {
+          value: 2,
+          unit: "months",
+        },
       },
-    },
-  ],
-},
+    ],
+  },
   // Travel Memories
   memories: {
     title: "Travel Memories",
@@ -1324,9 +1324,9 @@ testimonials: {
   },
   // Luxury Destinations
   luxury: {
-    inclusions:"Package Inclusions",
-    accommodation:"Luxury Accommodations",
-    shared:"Shared Excursions",
+    inclusions: "Package Inclusions",
+    accommodation: "Luxury Accommodations",
+    shared: "Shared Excursions",
     heroTitle: "Dubai Holiday Packages",
     discount: "Up to 35% OFF",
     getDiscount: "Get 35% OFF on Dubai Package",
@@ -1363,10 +1363,10 @@ testimonials: {
           "A perfect blend of urban luxury and hill-station serenity in South India.",
       },
       "mahraja-train-tour-package": {
-  title: "Maharaja's Express",
-  description:
-    "A royal rail odyssey through Rajasthan's iconic forts, wildlife parks, and lake cities aboard the legendary Maharajas' Express.",
-},
+        title: "Maharaja's Express",
+        description:
+          "A royal rail odyssey through Rajasthan's iconic forts, wildlife parks, and lake cities aboard the legendary Maharajas' Express.",
+      },
     },
   },
   // Footer
@@ -1519,25 +1519,25 @@ testimonials: {
     },
 
     // International Trips
-    "wonders-of-vietnam": {
+    "7n-8d-vietam-tour-package": {
       title: "Wonders of Vietnam",
       description:
         "Comprehensive Vietnam tour covering Hanoi, Halong Bay, Da Nang, Hoi An, and Ho Chi Minh City. Experience cultural highlights, scenic cruises, and historic sites.",
       duration: "8 Days / 7 Nights",
     },
-    "best-of-vietnam": {
+    "Vitnam-tour-package-from-goa": {
       title: "Best of Vietnam",
       description:
         "Discover the highlights of Vietnam including Hanoi, Halong Bay, Da Nang, and Hoi An. Perfect for those with limited time wanting to experience Vietnam's beauty.",
       duration: "6 Days / 5 Nights",
     },
-    "bhutan-tour": {
+    "7n-8d-bhutan-tour-package": {
       title: "Breathtaking Bhutan",
       description:
         "Explore the mystical kingdom of Bhutan with visits to Thimphu, Punakha, and Paro. Includes the iconic hike to Tiger's Nest Monastery and cultural experiences.",
       duration: "8 Days / 7 Nights",
     },
-    "beautiful-nepal": {
+    "nepal-tour-package": {
       title: "Beautiful Nepal",
       description:
         "Experience the best of Nepal with visits to Kathmandu, Chitwan National Park, and Pokhara. Includes jungle safari, cultural sites, and Himalayan views.",
@@ -1549,44 +1549,44 @@ testimonials: {
         "Spiritual journey to sacred Muktinath temple amidst Himalayan beauty. Includes Pokhara sightseeing, Sarangkot sunrise, and cultural experiences.",
       duration: "7 Days / 6 Nights",
     },
-    "classic-singapore-malaysia": {
+    "singapore-tour-package": {
       title: "Classic Singapore and Malaysia",
       description:
         "Twin-city experience with modern marvels, cultural diversity, and tropical beauty. Includes Sentosa Island, Universal Studios, and Kuala Lumpur highlights.",
       duration: "7 Days / 6 Nights",
     },
 
-    "thailand-bangkok-pattaya-tour": {
+    "4N-5D-bangkok-tour-package": {
       title: "Thailand - Bangkok & Pattaya Special",
       description:
         "Bangkok & Pattaya trip with Sri Racha Zoo, Coral Island, and Safari World. Perfect short getaway with beaches, temples, and entertainment.",
       duration: "5 Days / 4 Nights",
     },
-    "thailand-tour": {
+    "7N-8D-thailand-tour-package": {
       title: "Simply Thailand - Fully Loaded",
       description:
         "Comprehensive tour covering Bangkok, Pattaya, Krabi, and Phuket. Experience city life, beaches, islands, and cultural attractions.",
       duration: "8 Days / 7 Nights",
     },
-    "turkey-istanbul-cappadocia-tour": {
+    "8n-9d-turkey-tour-package": {
       title: "Turkey - Istanbul & Cappadocia",
       description:
         "Explore Istanbul's historic sites and Cappadocia's unique landscapes. Includes Hagia Sophia, Blue Mosque, and underground cities.",
       duration: "6 Days / 5 Nights",
     },
-    "glimpse-of-turkey-tour": {
+    "turkey-tour-package": {
       title: "Glimpse of Turkey",
       description:
         "Comprehensive Turkey tour covering Istanbul, Cappadocia, Antalya, and the stunning Pamukkale terraces. Rich history and diverse landscapes.",
       duration: "9 Days / 8 Nights",
     },
-    "dubai-luxury-tour": {
+    "dubai-tour-package": {
       title: "Dubai - Luxury Escape",
       description:
         "Experience Dubai's modern marvels with dhow cruise, desert safari, Burj Khalifa, Dubai Aquarium, and thrilling waterpark adventures.",
       duration: "6 Days / 5 Nights",
     },
-    "phuket-krabi-island-tour": {
+    "phuket-krabi-tour-package": {
       title: "Phuket Krabi - Island Escape",
       description:
         "Island paradise experience with 4 Islands Tour in Krabi and Phi Phi Island Tour from Phuket. Pristine beaches, limestone cliffs, and turquoise waters.",
@@ -1634,7 +1634,7 @@ testimonials: {
         "Explore Almaty's urban charm, breathtaking mountain lakes, and stunning Charyn Canyon. Perfect blend of mountain adventures and cultural experiences.",
       duration: "5 Days / 4 Nights",
     },
-    "sri-lanka-tour": {
+    "sri-lanka-tour-package": {
       title: "Sri Lanka Luxury Tour",
       description:
         "Experience the pearl of the Indian Ocean with cultural wonders, wildlife adventures, and pristine beaches. Includes all meals and curated experiences.",
@@ -2476,7 +2476,7 @@ testimonials: {
         }
       ]
     },
-    "thailand-bangkok-pattaya-tour": {
+    "3N-4D-thailand-tour-package": {
       "file_name": "3N-4D-thailand-tour-package.html",
       "page": {
         "slug": "3N-4D-thailand-tour-package",
@@ -2607,7 +2607,7 @@ testimonials: {
         }
       ]
     },
-    "thailand-bangkok-pattaya-tour-special": {
+    "4N-5D-bangkok-tour-package": {
       "file_name": "4N-5D-bangkok-tour-package.html",
       "page": {
         "slug": "4N-5D-bangkok-tour-package",
@@ -2745,7 +2745,7 @@ testimonials: {
         }
       ]
     },
-    "thailand-tour": {
+    "7N-8D-thailand-tour-package": {
       "file_name": "7N-8D-thailand-tour-package.html",
       "page": {
         "slug": "7N-8D-thailand-tour-package",
@@ -3050,10 +3050,10 @@ testimonials: {
         }
       ]
     },
-    "bhutan-tour": {
-      "file_name": "7n-8d-bhutan-tour-package.html",
+    "7n-8d-bhutan-tour-package": {
+      "file_name": "7n-8d-7n-8d-bhutan-tour-package-package.html",
       "page": {
-        "slug": "7n-8d-bhutan-tour-package",
+        "slug": "7n-8d-7n-8d-bhutan-tour-package-package",
         "type": "",
         "hero": {
           "title": "Bhutan Himalayan Kingdom",
@@ -3206,7 +3206,7 @@ testimonials: {
         }
       ]
     },
-    "wonders-of-vietnam": {
+    "7n-8d-vietam-tour-package": {
       "file_name": "7n-8d-vietam-tour-package.html",
       "page": {
         "slug": "7n-8d-vietam-tour-package",
@@ -3363,7 +3363,7 @@ testimonials: {
         }
       ]
     },
-    "turkey-istanbul-cappadocia-tour": {
+    "8n-9d-turkey-tour-package": {
       "file_name": "8n-9d-turkey-tour-package.html",
       "page": {
         "slug": "8n-9d-turkey-tour-package",
@@ -5053,7 +5053,7 @@ testimonials: {
         }
       ]
     },
-    "dubai-luxury-tour": {
+    "dubai-tour-package": {
       "file_name": "dubai-tour-package.html",
       "page": {
         "slug": "dubai-tour-package",
@@ -10594,7 +10594,7 @@ testimonials: {
         }
       ]
     },
-    "phuket-krabi-island-tour": {
+    "phuket-krabi-tour-package": {
       "file_name": "phuket-krabi-tour-package.html",
       "page": {
         "slug": "phuket-krabi-tour-package",
@@ -10731,7 +10731,7 @@ testimonials: {
         }
       ]
     },
-    "classic-singapore-malaysia": {
+    "singapore-tour-package": {
       "file_name": "singapore-tour-package.html",
       "page": {
         "slug": "singapore-tour-package",
@@ -10888,10 +10888,10 @@ testimonials: {
         }
       ]
     },
-    "sri-lanka-tour": {
+    "sri-lanka-tour-package": {
       "file_name": "srilanka-tour-package.html",
       "page": {
-        "slug": "sri-lanka-tour-package",
+        "slug": "sri-lanka-tour-package-package",
         "type": "",
         "hero": {
           "title": "7 Nights - 8 Days Sri Lanka Tour",
@@ -11044,7 +11044,7 @@ testimonials: {
         }
       ]
     },
-    "glimpse-of-turkey-tour": {
+    "turkey-tour-package": {
       "file_name": "turkey-tour-package.html",
       "page": {
         "slug": "turkey-tour-package",
@@ -11187,7 +11187,7 @@ testimonials: {
         }
       ]
     },
-    "best-of-vietnam": {
+    "Vitnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
       "page": {
         "slug": "Vietnam-tour-package-from-goa",
@@ -11328,167 +11328,6 @@ testimonials: {
         {
           "title": "English Guide",
           "description": "Professional English-speaking tour guide"
-        }
-      ]
-    },
-    "thailand-tour-special": {
-      "file_name": "7N-8D-thailand-tour-package.html",
-      "page": {
-        "slug": "7N-8D-thailand-tour-package",
-        "type": "",
-        "hero": {
-          "title": "Thailand 7N/8D Adventure",
-          "subtitle": "Experience the best of Thailand - Bangkok, Pattaya, Krabi & Phuket in one unforgettable journey",
-          "backgroundImage": "/assets/hero/Thailand-hero.webp",
-          "meta": {
-            "duration": "8 Days",
-            "rating": "4.8/5 Rating"
-          }
-        },
-        "language": "en",
-        "metadata": {
-          "title": "Book Thailand 7N/8D Tour Package @30% Off Only from Goa",
-          "description": "Book 7 Nights 8 Days Thailand trip from Goa with 30% off. Visit Bangkok, Pattaya, Krabi & Phuket with Coral Island, Phi Phi Islands, city tours & transfers."
-        }
-      },
-      "cta": {
-        "headline": "Ready for Your Thailand Adventure?",
-        "description": "Book now and secure your spot for an unforgettable 8-day Thailand experience",
-        "contact": {
-          "whatsapp": {
-            "number": "+919067972295",
-            "message": "Hi! I'm interested in your Thailand 7N/8D tour package. Please send me details."
-          },
-          "phone": "+919067972295"
-        }
-      },
-      "quickInfo": [
-        {
-          "title": "7 Nights Stay",
-          "description": "3★ Comfort Hotels"
-        },
-        {
-          "title": "Daily Breakfast",
-          "description": "+ Special Lunches"
-        },
-        {
-          "title": "Island Tours",
-          "description": "Coral & Phi Phi Islands"
-        },
-        {
-          "title": "Private Transfers",
-          "description": "All Included"
-        }
-      ],
-      "itinerary": [
-        {
-          "time": "Day 1",
-          "title": "Arrival in Bangkok – Transfer to Pattaya",
-          "description": "Arrive at Suvarnabhumi Airport (BKK). Meet and greet, followed by a private transfer to Pattaya. Check-in at your Hotel. Spend the rest of the day at leisure.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2",
-          "title": "Coral Island Tour",
-          "description": "Enjoy the Coral Island Tour by Speedboat. Optional activities include parasailing, undersea walking, and banana boat rides (additional cost). Indian buffet lunch included.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 3",
-          "title": "Transfer to Bangkok – City Tour",
-          "description": "Private transfer to Bangkok. Embark on the Bangkok City Tour. Visit the Golden Buddha Temple, Mahaputtram Buddha and Gems Gallery.",
-          "category": "activity"
-        },
-        {
-          "time": "Day 4",
-          "title": "Leisure/Shopping in Bangkok",
-          "description": "Spend the day at leisure or enjoy optional activities. Optional: Visit Safari World & Marine Park.",
-          "category": "activity"
-        },
-        {
-          "time": "Day 5",
-          "title": "Bangkok to Krabi",
-          "description": "Private transfer to Suvarnabhumi Airport to board your flight to Krabi. Upon arrival, transfer to the hotel. Spend the evening exploring Ao Nang Beach.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 6",
-          "title": "Krabi to Phuket – Transfer",
-          "description": "Private transfer to Phuket. Check-in at your hotel. Leisure time to explore or visit Patong Beach/Bangla Road.",
-          "category": "activity"
-        },
-        {
-          "time": "Day 7",
-          "title": "Phi Phi Island Tour",
-          "description": "Enjoy a Full-Day Phi Phi Island Tour by Speedboat. Buffet lunch included. Note: National Park fees are not included.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 8",
-          "title": "Departure from Phuket",
-          "description": "Breakfast at the hotel and checkout. Private transfer to Phuket Airport. Depart for home with unforgettable memories.",
-          "category": "travel"
-        }
-      ],
-      "gallery": [
-        {
-          "title": "Bangkok Cityscape",
-          "description": "Vibrant capital with temples and skyscrapers",
-          "image": "/assets/destinations/Thailand/Bangkok Cityscape.webp"
-        },
-        {
-          "title": "Phi Phi Islands",
-          "description": "Stunning limestone cliffs and turquoise waters",
-          "image": "/assets/destinations/Thailand/Phi Phi Islands.webp"
-        },
-        {
-          "title": "Pattaya Beach",
-          "description": "Famous beach destination with vibrant nightlife",
-          "image": "/assets/destinations/Thailand/Pattaya Beach.webp"
-        },
-        {
-          "title": "Coral Island",
-          "description": "Crystal clear waters perfect for snorkeling",
-          "image": "/assets/destinations/Thailand/Coral Island.webp"
-        },
-        {
-          "title": "Golden Buddha Temple",
-          "description": "Magnificent temples with intricate architecture",
-          "image": "/assets/destinations/Thailand/Golden Buddha Temple.webp"
-        },
-        {
-          "title": "Thai Street Food",
-          "description": "Delicious and vibrant culinary experiences",
-          "image": "/assets/destinations/Thailand/Thai Street Food.webp"
-        }
-      ],
-      "inclusions": [
-        {
-          "title": "7 Nights Accommodation",
-          "description": "2N Pattaya, 2N Bangkok, 1N Krabi, 2N Phuket at 3★ hotels"
-        },
-        {
-          "title": "Daily Breakfast",
-          "description": "Breakfast at all hotels + Special buffet lunches on tours"
-        },
-        {
-          "title": "Island Tours",
-          "description": "Coral Island Tour & Phi Phi Island Tour with lunch"
-        },
-        {
-          "title": "City Tour",
-          "description": "Bangkok City Tour with temple visits and Gems Gallery"
-        },
-        {
-          "title": "Private Transfers",
-          "description": "All private transfers as per itinerary"
-        },
-        {
-          "title": "Expert Guides",
-          "description": "Professional English-speaking guides for all tours"
         }
       ]
     },
@@ -12280,268 +12119,269 @@ testimonials: {
       ],
     },
   },
-  luxuryTrain:{
-    "mahraja-train-tour-package":{
-  hero: {
-    type: "package-hero",
-    badge: "Signature Package",
-    title: "Maharaja Express Luxury Train Tour in India",
-    location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
-    cta_text: "Book Now",
-    cta_link:
-      "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
-    background_image: "/assets/Luxury/Maharaja/hero.webp",
-  },
-  metadata: {
-    title: "Maharaja Express Train Tour Package | Luxury Train India",
-    description:
-      "Experience the Maharaja Express Train Tour package with 5★ hotels, Taj Mahal visit, Ranthambore safari & royal suites. Book luxury train tours in India.",
-  },
-  itinerary: {
-    title: "The Indian Splendour",
-    subtitle:"A wonderful Journey through a Magical Land",
-    duration:"( 9 NIGHTS / 10 DAYS )",
-    days:[    {
-        dayStr: "Day 1",
-        name: "Arrival in Delhi",
-        desc: "Round-trip flight from Goa to Delhi Private airport transfer Check-in at luxury 5★ deluxe hotel (upgraded room category) Leisure evening Overnight in Delhi (Luxury Hotel)",
-    },
-    {
-        dayStr: "Day 2 (Sunday)",
-        name: "Delhi and Agra",
-        desc: "Board the train at Delhi in the morning. Upon arriival at Agra, visit the Taj Mahal. Overnight on the train at Agra. Onboard Breakfast, Lunch and Dinner.",
-    },
-    {
-        dayStr: "Day 3 (Monday)",
-        name: "Agra and Ranthambore",
-        desc: "Visit the Agra Fort. Return to the train for breakfast as it proceeds to Sawai Madhopur. Lunch will be served onboard. Enjoy Safari at the Ranthambore National Park. Dinner will be served onboard as the train proceeds to Jaipur",
-    },
-    {
-        dayStr: "Day 4 (Tuesday)",
-        name: "Jaipur",
-        desc: "After onboard breakfast, deboard to visit the Amber Fort. Return to the train for lunch. Enjoy dinner at an exclusive venue. Return to the train as it proceeds to Bikaner.",
-    },
-    {
-        dayStr: "Day 5 (Wednesday)",
-        name: "Bikaner",
-        desc: "After a leisurely breakfast and lunch onboard, proceed to visit the Junagarh Fort followed by an exclusive barbecue evening on the sand dunes. Train proceeds to Jodhpur.",
-    },
-    {
-        dayStr: "Day 6 (Thursday)",
-        name: "Jodhpur",
-        desc: "Breakfast and lunch onboard. Morning at leisure. Post lunch, proceed to visit the Mehrangarh Fort and a walking tour of the Old Clock Tower Market followed by dinner at an exclusive venue. Train proceeds to Udaipur.",
-    },
-    {
-        dayStr: "Day 7 (Friday)",
-        name: "Udaipur",
-        desc: "After onboard breakfast proceed for boat ride on Lake Pichola and visit the City Palace. Lunch at an exclusive venue. Dinner will be served onboard as the train proceeds to Mumbai.",
-    },
-    {
-        dayStr: "DAY 8 (Saturday)",
-        name: "Arrival in Mumbai",
-        desc: "Breakfast & lunch onboard, Disembark in Mumbai Private transfer to Taj Mahal Palace Hotel Check-in Overnight at Taj Mahal Palace",
-    },
-    {
-        dayStr: "DAY 9 (Sunday)",
-        name: "Return to Goa",
-        desc: "Breakfast at hotel Private transfer to Mumbai Airport Flight back to Goa",
-    },],
-  },
-  accommodations: {
-  eyebrow : "Aboard the Golden Journey",
-  title : "Maharaja's Express",
-  subtitle : "Private Cabins & Suites",
-  cabins:[
-    {
-        name: "Deluxe Cabin",
-        size: "(112 sq. ft. / 10.4 sq. mt.)",
-        images: ["/assets/Luxury/Maharaja/3.webp", "/assets/Luxury/Maharaja/4.webp"],
-        layout: "split",
-        features: [
-            "12 Twin and 8 Double Bed Cabins",
-            "En suite shower and WC",
-            "Major OTT channels available",
-            "Writing ledge and stool",
-            "Wardrobe with electronic safe",
-        ],
-    },
-    {
-        name: "Junior Suite",
-        size: "(150 sq. ft. / 13.9 sq. mt.)",
-        images: ["/assets/Luxury/Maharaja/5.webp", "/assets/Luxury/Maharaja/6.webp"],
-        layout: "split",
-        features: [
-            "12 Twin and 6 Double Bed Cabins",
-            "En suite shower and WC",
-            "Major OTT channels available",
-            "Table with chair",
-            "Wardrobe with electronic safe",
-        ],
-    },
-    {
-        name: "Suite",
-        size: "(220 sq. ft. / 20.4 sq. mt.)",
-        images: [
-            "/assets/Luxury/Maharaja/7.webp",
-            "/assets/Luxury/Maharaja/8.webp",
-            "/assets/Luxury/Maharaja/9.webp",
-        ],
-        layout: "three",
-        features: [
-            "Separate sitting area with sofa chairs",
-            "En suite bath tub, shower and WC",
-            "Wardrobe with electronic safe",
-            "Major OTT channels available",
-            "4 Double Bed Cabins",
-            "Minibar",      
-        ],
-    },
-    {
-        name: "Presidential Suite",
-        size: "(448 sq. ft. / 41.6 sq. mt)",
-        images: [
-            "/assets/Luxury/Maharaja/10.webp",
-            "/assets/Luxury/Maharaja/11.webp",
-            "/assets/Luxury/Maharaja/12.webp",
-        ],
-        layout: "three",
-        features: [
-            "Master bedroom with double bed and en suite bathroom with bath tub, shower and WC",
-            "Second bedroom with twin beds and en suite bathroom with shower and WC",
-            "Separate sitting area with sofa chairs",
-            "Two bedrooms and a living room",
-            "Major OTT channels available",
-            "Wardrobe with electronic safe",
-            "One full coach",
-            "Minibar",
-        ],
-    },
-]},
-  restaurants:{
-    title:"Maharajas' Express",
-    subtitle:"Restaurants",
-    food:[  {
-        name: "MAYUR MAHAL",
-        image: {
+  luxuryTrain: {
+    "mahraja-train-tour-package": {
+      hero: {
+        type: "package-hero",
+        badge: "Signature Package",
+        title: "Maharaja Express Luxury Train Tour in India",
+        location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
+        cta_text: "Book Now",
+        cta_link:
+          "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
+        background_image: "/assets/Luxury/Maharaja/hero.webp",
+      },
+      metadata: {
+        title: "Maharaja Express Train Tour Package | Luxury Train India",
+        description:
+          "Experience the Maharaja Express Train Tour package with 5★ hotels, Taj Mahal visit, Ranthambore safari & royal suites. Book luxury train tours in India.",
+      },
+      itinerary: {
+        title: "The Indian Splendour",
+        subtitle: "A wonderful Journey through a Magical Land",
+        duration: "( 9 NIGHTS / 10 DAYS )",
+        days: [{
+          dayStr: "Day 1",
+          name: "Arrival in Delhi",
+          desc: "Round-trip flight from Goa to Delhi Private airport transfer Check-in at luxury 5★ deluxe hotel (upgraded room category) Leisure evening Overnight in Delhi (Luxury Hotel)",
+        },
+        {
+          dayStr: "Day 2 (Sunday)",
+          name: "Delhi and Agra",
+          desc: "Board the train at Delhi in the morning. Upon arriival at Agra, visit the Taj Mahal. Overnight on the train at Agra. Onboard Breakfast, Lunch and Dinner.",
+        },
+        {
+          dayStr: "Day 3 (Monday)",
+          name: "Agra and Ranthambore",
+          desc: "Visit the Agra Fort. Return to the train for breakfast as it proceeds to Sawai Madhopur. Lunch will be served onboard. Enjoy Safari at the Ranthambore National Park. Dinner will be served onboard as the train proceeds to Jaipur",
+        },
+        {
+          dayStr: "Day 4 (Tuesday)",
+          name: "Jaipur",
+          desc: "After onboard breakfast, deboard to visit the Amber Fort. Return to the train for lunch. Enjoy dinner at an exclusive venue. Return to the train as it proceeds to Bikaner.",
+        },
+        {
+          dayStr: "Day 5 (Wednesday)",
+          name: "Bikaner",
+          desc: "After a leisurely breakfast and lunch onboard, proceed to visit the Junagarh Fort followed by an exclusive barbecue evening on the sand dunes. Train proceeds to Jodhpur.",
+        },
+        {
+          dayStr: "Day 6 (Thursday)",
+          name: "Jodhpur",
+          desc: "Breakfast and lunch onboard. Morning at leisure. Post lunch, proceed to visit the Mehrangarh Fort and a walking tour of the Old Clock Tower Market followed by dinner at an exclusive venue. Train proceeds to Udaipur.",
+        },
+        {
+          dayStr: "Day 7 (Friday)",
+          name: "Udaipur",
+          desc: "After onboard breakfast proceed for boat ride on Lake Pichola and visit the City Palace. Lunch at an exclusive venue. Dinner will be served onboard as the train proceeds to Mumbai.",
+        },
+        {
+          dayStr: "DAY 8 (Saturday)",
+          name: "Arrival in Mumbai",
+          desc: "Breakfast & lunch onboard, Disembark in Mumbai Private transfer to Taj Mahal Palace Hotel Check-in Overnight at Taj Mahal Palace",
+        },
+        {
+          dayStr: "DAY 9 (Sunday)",
+          name: "Return to Goa",
+          desc: "Breakfast at hotel Private transfer to Mumbai Airport Flight back to Goa",
+        },],
+      },
+      accommodations: {
+        eyebrow: "Aboard the Golden Journey",
+        title: "Maharaja's Express",
+        subtitle: "Private Cabins & Suites",
+        cabins: [
+          {
+            name: "Deluxe Cabin",
+            size: "(112 sq. ft. / 10.4 sq. mt.)",
+            images: ["/assets/Luxury/Maharaja/3.webp", "/assets/Luxury/Maharaja/4.webp"],
+            layout: "split",
+            features: [
+              "12 Twin and 8 Double Bed Cabins",
+              "En suite shower and WC",
+              "Major OTT channels available",
+              "Writing ledge and stool",
+              "Wardrobe with electronic safe",
+            ],
+          },
+          {
+            name: "Junior Suite",
+            size: "(150 sq. ft. / 13.9 sq. mt.)",
+            images: ["/assets/Luxury/Maharaja/5.webp", "/assets/Luxury/Maharaja/6.webp"],
+            layout: "split",
+            features: [
+              "12 Twin and 6 Double Bed Cabins",
+              "En suite shower and WC",
+              "Major OTT channels available",
+              "Table with chair",
+              "Wardrobe with electronic safe",
+            ],
+          },
+          {
+            name: "Suite",
+            size: "(220 sq. ft. / 20.4 sq. mt.)",
+            images: [
+              "/assets/Luxury/Maharaja/7.webp",
+              "/assets/Luxury/Maharaja/8.webp",
+              "/assets/Luxury/Maharaja/9.webp",
+            ],
+            layout: "three",
+            features: [
+              "Separate sitting area with sofa chairs",
+              "En suite bath tub, shower and WC",
+              "Wardrobe with electronic safe",
+              "Major OTT channels available",
+              "4 Double Bed Cabins",
+              "Minibar",
+            ],
+          },
+          {
+            name: "Presidential Suite",
+            size: "(448 sq. ft. / 41.6 sq. mt)",
+            images: [
+              "/assets/Luxury/Maharaja/10.webp",
+              "/assets/Luxury/Maharaja/11.webp",
+              "/assets/Luxury/Maharaja/12.webp",
+            ],
+            layout: "three",
+            features: [
+              "Master bedroom with double bed and en suite bathroom with bath tub, shower and WC",
+              "Second bedroom with twin beds and en suite bathroom with shower and WC",
+              "Separate sitting area with sofa chairs",
+              "Two bedrooms and a living room",
+              "Major OTT channels available",
+              "Wardrobe with electronic safe",
+              "One full coach",
+              "Minibar",
+            ],
+          },
+        ]
+      },
+      restaurants: {
+        title: "Maharajas' Express",
+        subtitle: "Restaurants",
+        food: [{
+          name: "MAYUR MAHAL",
+          image: {
             src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
             alt: "Mayur Mahal Restaurant",
+          },
         },
-    },
-    {
-        name: "RANG MAHAL",
-        image: {
+        {
+          name: "RANG MAHAL",
+          image: {
             src: "/assets/Luxury/Maharaja/rang-mahal.webp",
             alt: "Rang Mahal Restaurant",
-        },
-    },]
-  },
-  inclusions: [
-    {
-      icon: "fas fa-plane",
-      title: "Round-Trip Flights",
-      description: "Round-trip flights from Goa to Delhi and Mumbai to Goa",
-    },
-    {
-      icon: "fas fa-car",
-      title: "Private Transfers",
-      description: "Private airport transfers throughout the journey",
-    },
-    {
-      icon: "fas fa-hotel",
-      title: "Hotel Stays",
-      description:
-        "2 nights in 5★ deluxe hotels (upgraded room category, B&B basis) — 1N Delhi + 1N Mumbai (Taj Mahal Palace)",
-    },
-    {
-      icon: "fas fa-train",
-      title: "Luxury Train Stay",
-      description: "6 nights aboard Maharajas' Express on Full Board basis",
-    },
-    {
-      icon: "fas fa-utensils",
-      title: "All Meals Included",
-      description:
-        "All meals included on train and hotel basis as mentioned in the itinerary",
-    },
-    {
-      icon: "fas fa-binoculars",
-      title: "All Sightseeing",
-      description: "All sightseeing as per itinerary",
-    },
-    {
-      icon: "fas fa-monument",
-      title: "Taj Mahal Visit",
-      description: "Guided visit to the iconic Taj Mahal, Agra",
-    },
-    {
-      icon: "fas fa-coffee",
-      title: "Champagne Breakfast",
-      description: "Champagne breakfast at Taj Khema",
-    },
-    {
-      icon: "fas fa-paw",
-      title: "Ranthambore Tiger Safari",
-      description: "Thrilling tiger safari at Ranthambore National Park",
-    },
-    {
-      icon: "fas fa-landmark",
-      title: "Amber Fort Visit",
-      description: "Private guided visit to the majestic Amber Fort, Jaipur",
-    },
-    {
-      icon: "fas fa-concierge-bell",
-      title: "Exclusive Palace Dinners",
-      description: "Curated exclusive dining experiences at palace venues",
-    },
-    {
-      icon: "fas fa-ship",
-      title: "Boat Ride in Udaipur",
-      description: "Scenic boat ride on Lake Pichola, Udaipur",
-    },
-    {
-      icon: "fas fa-map-marked-alt",
-      title: "Half-Day Delhi Tour",
-      description: "Curated half-day guided tour of Delhi",
-    },
-  ],
-  excursions: [
+          },
+        },]
+      },
+      inclusions: [
         {
-      icon: "fas fa-monument",
-      title: "Taj Mahal Visit",
-      description: "Guided visit to the Taj Mahal in Agra",
-    },
-    {
-      icon: "fas fa-coffee",
-      title: "Champagne Breakfast",
-      description: "Champagne breakfast experience at Taj Khema",
-    },
-    {
-      icon: "fas fa-paw",
-      title: "Ranthambore Tiger Safari",
-      description: "Wildlife safari experience at Ranthambore National Park",
-    },
-    {
-      icon: "fas fa-landmark",
-      title: "Amber Fort Visit",
-      description: "Guided visit to the historic Amber Fort in Jaipur",
-    },
-    {
-      icon: "fas fa-concierge-bell",
-      title: "Exclusive Palace Dinners",
-      description: "Curated palace dining experiences during the journey",
-    },
-    {
-      icon: "fas fa-ship",
-      title: "Boat Ride in Udaipur",
-      description: "Scenic boat ride on Lake Pichola",
-    },
-    {
-      icon: "fas fa-map-marked-alt",
-      title: "Half-Day Delhi Tour",
-      description: "Guided half-day sightseeing tour of Delhi",
+          icon: "fas fa-plane",
+          title: "Round-Trip Flights",
+          description: "Round-trip flights from Goa to Delhi and Mumbai to Goa",
+        },
+        {
+          icon: "fas fa-car",
+          title: "Private Transfers",
+          description: "Private airport transfers throughout the journey",
+        },
+        {
+          icon: "fas fa-hotel",
+          title: "Hotel Stays",
+          description:
+            "2 nights in 5★ deluxe hotels (upgraded room category, B&B basis) — 1N Delhi + 1N Mumbai (Taj Mahal Palace)",
+        },
+        {
+          icon: "fas fa-train",
+          title: "Luxury Train Stay",
+          description: "6 nights aboard Maharajas' Express on Full Board basis",
+        },
+        {
+          icon: "fas fa-utensils",
+          title: "All Meals Included",
+          description:
+            "All meals included on train and hotel basis as mentioned in the itinerary",
+        },
+        {
+          icon: "fas fa-binoculars",
+          title: "All Sightseeing",
+          description: "All sightseeing as per itinerary",
+        },
+        {
+          icon: "fas fa-monument",
+          title: "Taj Mahal Visit",
+          description: "Guided visit to the iconic Taj Mahal, Agra",
+        },
+        {
+          icon: "fas fa-coffee",
+          title: "Champagne Breakfast",
+          description: "Champagne breakfast at Taj Khema",
+        },
+        {
+          icon: "fas fa-paw",
+          title: "Ranthambore Tiger Safari",
+          description: "Thrilling tiger safari at Ranthambore National Park",
+        },
+        {
+          icon: "fas fa-landmark",
+          title: "Amber Fort Visit",
+          description: "Private guided visit to the majestic Amber Fort, Jaipur",
+        },
+        {
+          icon: "fas fa-concierge-bell",
+          title: "Exclusive Palace Dinners",
+          description: "Curated exclusive dining experiences at palace venues",
+        },
+        {
+          icon: "fas fa-ship",
+          title: "Boat Ride in Udaipur",
+          description: "Scenic boat ride on Lake Pichola, Udaipur",
+        },
+        {
+          icon: "fas fa-map-marked-alt",
+          title: "Half-Day Delhi Tour",
+          description: "Curated half-day guided tour of Delhi",
+        },
+      ],
+      excursions: [
+        {
+          icon: "fas fa-monument",
+          title: "Taj Mahal Visit",
+          description: "Guided visit to the Taj Mahal in Agra",
+        },
+        {
+          icon: "fas fa-coffee",
+          title: "Champagne Breakfast",
+          description: "Champagne breakfast experience at Taj Khema",
+        },
+        {
+          icon: "fas fa-paw",
+          title: "Ranthambore Tiger Safari",
+          description: "Wildlife safari experience at Ranthambore National Park",
+        },
+        {
+          icon: "fas fa-landmark",
+          title: "Amber Fort Visit",
+          description: "Guided visit to the historic Amber Fort in Jaipur",
+        },
+        {
+          icon: "fas fa-concierge-bell",
+          title: "Exclusive Palace Dinners",
+          description: "Curated palace dining experiences during the journey",
+        },
+        {
+          icon: "fas fa-ship",
+          title: "Boat Ride in Udaipur",
+          description: "Scenic boat ride on Lake Pichola",
+        },
+        {
+          icon: "fas fa-map-marked-alt",
+          title: "Half-Day Delhi Tour",
+          description: "Guided half-day sightseeing tour of Delhi",
+        }
+      ],
     }
-  ],
-}
   },
   luxuryTourPackages: {
     "4n-5d-rajasthan-luxury-package": {

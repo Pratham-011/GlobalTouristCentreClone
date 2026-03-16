@@ -219,7 +219,7 @@ export default function RootLayout({
             {
               "@type": "Offer",
               url:
-                "https://globaltouristcentre.com/destination/international/wonders-of-vietnam",
+                "https://globaltouristcentre.com/destination/international/7n-8d-vietam-tour-package",
               itemOffered: {
                 "@type": "TouristTrip",
                 name: "7N/8D Vietnam Tour Package",
@@ -230,7 +230,7 @@ export default function RootLayout({
             {
               "@type": "Offer",
               url:
-                "https://globaltouristcentre.com/destination/international/bhutan-tour",
+                "https://globaltouristcentre.com/destination/international/7n-8d-bhutan-tour-package",
               itemOffered: {
                 "@type": "TouristTrip",
                 name: "7N/8D Bhutan Tour Package",

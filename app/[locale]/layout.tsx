@@ -99,10 +99,10 @@ export default function LocaleLayout({
 }) {
   const locale = params.locale as Locale;
 
-// app/[locale]/layout.tsx
-if (!locales.includes(locale as any)) {
-  notFound();
-}
+  // app/[locale]/layout.tsx
+  if (!locales.includes(locale as any)) {
+    notFound();
+  }
 
   const travelAgencySchema = {
     "@context": "https://schema.org",
@@ -115,7 +115,7 @@ if (!locales.includes(locale as any)) {
 
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Benaulim Beach Road, South Goa",  
+      "streetAddress": "Benaulim Beach Road, South Goa",
       "addressLocality": "Benaulim",
       "addressRegion": "Goa",
       "postalCode": "403716",
@@ -233,7 +233,7 @@ if (!locales.includes(locale as any)) {
           "itemListElement": [
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/wonders-of-vietnam`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-vietam-tour-package`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "7N/8D Vietnam Tour Package",
@@ -242,7 +242,7 @@ if (!locales.includes(locale as any)) {
             },
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/bhutan-tour`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-bhutan-tour-package`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "7N/8D Bhutan Tour Package",

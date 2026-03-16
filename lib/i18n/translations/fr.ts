@@ -29,18 +29,18 @@ export const fr = {
   metadata: {
     brandname: "Global Tourist Centre",
     brandtagline: "Luxury Travel Experiences",
-home: {
-  title: "Agence de voyage n°1 en Inde à Goa pour les voyages nationaux et internationaux | GTC",
-  description: "Planifiez vos vacances parfaites avec GTC, une agence de voyage de confiance à Goa. Découvrez les circuits à Goa, les forfaits en Inde, les voyages internationaux, les vols, les croisières et les services de voyage personnalisés.",
-},
-about: {
-  title: "À propos – Agence de voyage basée à Goa | Global Tourist Centre",
-  description: "Global Tourist Centre est une agence de voyage de confiance fondée à Goa en 2010. Nous transformons vos rêves de voyage en expériences nationales et internationales inoubliables grâce à notre passion et notre expertise.",
-},
-contact: {
-  title: "Contactez Global Tourist Centre – Réservez votre voyage personnalisé",
-  description: "Contactez Global Tourist Centre — le partenaire de voyage de confiance du sud de Goa avec plus de 15 ans d'expérience. Appelez, envoyez un e-mail ou remplissez le formulaire pour commencer à créer votre voyage sur mesure.",
-},
+    home: {
+      title: "Agence de voyage n°1 en Inde à Goa pour les voyages nationaux et internationaux | GTC",
+      description: "Planifiez vos vacances parfaites avec GTC, une agence de voyage de confiance à Goa. Découvrez les circuits à Goa, les forfaits en Inde, les voyages internationaux, les vols, les croisières et les services de voyage personnalisés.",
+    },
+    about: {
+      title: "À propos – Agence de voyage basée à Goa | Global Tourist Centre",
+      description: "Global Tourist Centre est une agence de voyage de confiance fondée à Goa en 2010. Nous transformons vos rêves de voyage en expériences nationales et internationales inoubliables grâce à notre passion et notre expertise.",
+    },
+    contact: {
+      title: "Contactez Global Tourist Centre – Réservez votre voyage personnalisé",
+      description: "Contactez Global Tourist Centre — le partenaire de voyage de confiance du sud de Goa avec plus de 15 ans d'expérience. Appelez, envoyez un e-mail ou remplissez le formulaire pour commencer à créer votre voyage sur mesure.",
+    },
     destinations: {
       title: "Découvrez les plus belles destinations de l’Inde – Global Tourist Centre",
       description: "Des escapades indiennes incontournables comme le Kerala, Goa, les Andaman, le Rajasthan, Sikkim-Darjeeling, Hampi et bien plus avec Global Tourist Centre."
@@ -224,13 +224,13 @@ contact: {
         description:
           "Villas sur pilotis, dîners privés, spas relaxants et couchers de soleil spectaculaires.",
       },
-      "sri-lanka-tour": {
+      "sri-lanka-tour-package": {
         title: "Voyage Culturel et Paysager au Sri Lanka",
         duration: "6 nuits / 7 jours",
         description:
           "Explorez les temples anciens, les plantations de thé, la faune sauvage et les magnifiques côtes du Sri Lanka.",
       },
-      "bhutan-tour": {
+      "7n-8d-bhutan-tour-package": {
         title: "Bhoutan – Le Royaume du Bonheur",
         duration: "5 nuits / 6 jours",
         description:
@@ -912,62 +912,62 @@ contact: {
     },
   },
   // Testimonials
-testimonials: {
-  title: "Témoignages de voyageurs",
-  subtitle:
-    "Découvrez ce que nos clients disent de leur expérience avec Global Tourist Centre.",
-  whatTravelersSay: "Ce que disent nos voyageurs",
-  hearFromCustomers:
-    "Les témoignages de nos clients satisfaits.",
-  viewAllReviews: "Voir tous les avis sur Google",
-  readMore: "Lire la suite",
+  testimonials: {
+    title: "Témoignages de voyageurs",
+    subtitle:
+      "Découvrez ce que nos clients disent de leur expérience avec Global Tourist Centre.",
+    whatTravelersSay: "Ce que disent nos voyageurs",
+    hearFromCustomers:
+      "Les témoignages de nos clients satisfaits.",
+    viewAllReviews: "Voir tous les avis sur Google",
+    readMore: "Lire la suite",
 
-  prev: "Témoignage précédent",
-  next: "Témoignage suivant",
+    prev: "Témoignage précédent",
+    next: "Témoignage suivant",
 
-  photos: "photos",
-  monthsAgo: "mois auparavant",
-  weeksAgo: "semaines auparavant",
+    photos: "photos",
+    monthsAgo: "mois auparavant",
+    weeksAgo: "semaines auparavant",
 
-  items: [
-    {
-      name: "Anshika Malik",
-      location: "Kerala · 10 jours en famille",
-      text:
-        "Je suis récemment partie au Kerala avec mon mari pendant 7 jours. Global Tourist Centre a tout organisé parfaitement, sans aucun souci pendant le voyage !",
-      rating: 5,
-      photosCount: 12,
-      timeAgo: {
-        value: 3,
-        unit: "months",
+    items: [
+      {
+        name: "Anshika Malik",
+        location: "Kerala · 10 jours en famille",
+        text:
+          "Je suis récemment partie au Kerala avec mon mari pendant 7 jours. Global Tourist Centre a tout organisé parfaitement, sans aucun souci pendant le voyage !",
+        rating: 5,
+        photosCount: 12,
+        timeAgo: {
+          value: 3,
+          unit: "months",
+        },
       },
-    },
-    {
-      name: "Vishal Yadav",
-      location: "Dubaï · lune de miel de 5 jours",
-      text:
-        "Une expérience incroyable ! L’équipe de Global Tourist Centre a rendu notre lune de miel absolument parfaite. Tout était pris en charge.",
-      rating: 5,
-      photosCount: 8,
-      timeAgo: {
-        value: 5,
-        unit: "weeks",
+      {
+        name: "Vishal Yadav",
+        location: "Dubaï · lune de miel de 5 jours",
+        text:
+          "Une expérience incroyable ! L’équipe de Global Tourist Centre a rendu notre lune de miel absolument parfaite. Tout était pris en charge.",
+        rating: 5,
+        photosCount: 8,
+        timeAgo: {
+          value: 5,
+          unit: "weeks",
+        },
       },
-    },
-    {
-      name: "Priya Sharma",
-      location: "Goa · escapade de week-end",
-      text:
-        "La meilleure agence de voyage ! Ils ont tout organisé — vols, hôtels et visites locales. Une attention aux détails remarquable.",
-      rating: 4.8,
-      photosCount: 6,
-      timeAgo: {
-        value: 2,
-        unit: "months",
+      {
+        name: "Priya Sharma",
+        location: "Goa · escapade de week-end",
+        text:
+          "La meilleure agence de voyage ! Ils ont tout organisé — vols, hôtels et visites locales. Une attention aux détails remarquable.",
+        rating: 4.8,
+        photosCount: 6,
+        timeAgo: {
+          value: 2,
+          unit: "months",
+        },
       },
-    },
-  ],
-},
+    ],
+  },
   // Travel Memories
   memories: {
     title: "Souvenirs de Voyage",
@@ -979,25 +979,25 @@ testimonials: {
     mainTitle: "À Propos de Global Tourist Centre",
     mainSubtitle:
       "Nous transformons les rêves en réalité depuis 2010, créant des expériences de voyage inoubliables.",
-journeyTitle: "Notre parcours",
-journeyDesc:
-  "Fondé en 2010 dans le magnifique État côtier de Goa, Global Tourist Centre a commencé avec une vision claire — rendre le voyage simple, mémorable et accessible à tous. Ce qui a commencé comme une petite entreprise locale de tourisme s'est progressivement transformé en un nom de confiance dans l'industrie du voyage, aidant les voyageurs d’Inde et du monde entier à découvrir des destinations incroyables en toute confiance. Au cours des 15 dernières années, nous avons construit des relations solides avec les voyageurs en offrant un service fiable, des circuits soigneusement planifiés et des solutions de voyage personnalisées.",
+    journeyTitle: "Notre parcours",
+    journeyDesc:
+      "Fondé en 2010 dans le magnifique État côtier de Goa, Global Tourist Centre a commencé avec une vision claire — rendre le voyage simple, mémorable et accessible à tous. Ce qui a commencé comme une petite entreprise locale de tourisme s'est progressivement transformé en un nom de confiance dans l'industrie du voyage, aidant les voyageurs d’Inde et du monde entier à découvrir des destinations incroyables en toute confiance. Au cours des 15 dernières années, nous avons construit des relations solides avec les voyageurs en offrant un service fiable, des circuits soigneusement planifiés et des solutions de voyage personnalisées.",
 
-philosophyTitle: "Notre philosophie",
-philosophyDesc:
-  "Chez Global Tourist Centre, nous pensons que le voyage est bien plus qu’une simple réservation — il s’agit d’expériences et de souvenirs. Notre objectif est de créer des voyages qui correspondent réellement à vos intérêts et à vos rêves de découverte. Que vous souhaitiez explorer de nouvelles cultures, vous détendre sur de magnifiques plages, profiter d’un voyage de luxe ou partir à l’aventure, nous concevons chaque voyage avec soin afin que votre expérience soit fluide, agréable et inoubliable.",
+    philosophyTitle: "Notre philosophie",
+    philosophyDesc:
+      "Chez Global Tourist Centre, nous pensons que le voyage est bien plus qu’une simple réservation — il s’agit d’expériences et de souvenirs. Notre objectif est de créer des voyages qui correspondent réellement à vos intérêts et à vos rêves de découverte. Que vous souhaitiez explorer de nouvelles cultures, vous détendre sur de magnifiques plages, profiter d’un voyage de luxe ou partir à l’aventure, nous concevons chaque voyage avec soin afin que votre expérience soit fluide, agréable et inoubliable.",
 
-teamTitle: "Notre équipe",
-teamDesc:
-  "Notre plus grande force est notre équipe passionnée de professionnels du voyage. Grâce à des années d’expérience dans l’industrie du tourisme et à une connaissance des destinations du monde entier, notre équipe travaille étroitement avec chaque voyageur pour organiser le voyage parfait. De nos conseillers en voyages accueillants à nos partenaires locaux fiables, chacun chez Global Tourist Centre s'engage à offrir un excellent service et à rendre chaque voyage spécial.",
+    teamTitle: "Notre équipe",
+    teamDesc:
+      "Notre plus grande force est notre équipe passionnée de professionnels du voyage. Grâce à des années d’expérience dans l’industrie du tourisme et à une connaissance des destinations du monde entier, notre équipe travaille étroitement avec chaque voyageur pour organiser le voyage parfait. De nos conseillers en voyages accueillants à nos partenaires locaux fiables, chacun chez Global Tourist Centre s'engage à offrir un excellent service et à rendre chaque voyage spécial.",
 
-visionTitle: "Notre vision",
-visionDesc:
-  "Devenir un partenaire de voyage fiable et de confiance, aidant les voyageurs à explorer le monde avec confiance, confort et des expériences inoubliables.",
+    visionTitle: "Notre vision",
+    visionDesc:
+      "Devenir un partenaire de voyage fiable et de confiance, aidant les voyageurs à explorer le monde avec confiance, confort et des expériences inoubliables.",
 
-missionTitle: "Notre mission",
-missionDesc:
-  "Offrir des expériences de voyage personnalisées en combinant une planification experte, des connaissances locales et un service dédié qui dépasse les attentes de nos clients.",
+    missionTitle: "Notre mission",
+    missionDesc:
+      "Offrir des expériences de voyage personnalisées en combinant une planification experte, des connaissances locales et un service dédié qui dépasse les attentes de nos clients.",
     valuesTitle: "Nos Valeurs",
     integrity: "Intégrité dans toutes nos relations",
     passion: "Passion pour le voyage et le service",
@@ -1346,9 +1346,9 @@ missionDesc:
           "Un mélange parfait de luxe urbain et de sérénité des stations de montagne dans le sud de l'Inde.",
       },
       "mahraja-train-tour-package": {
-  "title": "Maharajas' Express",
-  "description": "Une odyssée ferroviaire royale à travers les forts emblématiques du Rajasthan, les parcs animaliers et les cités lacustres à bord du légendaire Maharajas' Express."
-}
+        "title": "Maharajas' Express",
+        "description": "Une odyssée ferroviaire royale à travers les forts emblématiques du Rajasthan, les parcs animaliers et les cités lacustres à bord du légendaire Maharajas' Express."
+      }
     },
   },
   // Footer
@@ -1491,25 +1491,25 @@ missionDesc:
     },
 
     // Voyages internationaux (International Trips)
-    "wonders-of-vietnam": {
+    "7n-8d-vietam-tour-package": {
       title: "Merveilles du Vietnam",
       description:
         "Tour complet Vietnam : Hanoi, baie d'Halong, Da Nang, Hoi An et Ho Chi Minh. Points forts culturels, croisières scéniques et sites historiques.",
       duration: "8 Jours / 7 Nuits",
     },
-    "best-of-vietnam": {
+    "Vitnam-tour-package-from-goa": {
       title: "Meilleur du Vietnam",
       description:
         "Découvrez points forts Vietnam : Hanoi, baie d'Halong, Da Nang et Hoi An. Parfait pour temps limité voulant vivre beauté vietnamienne.",
       duration: "6 Jours / 5 Nuits",
     },
-    "bhutan-tour": {
+    "7n-8d-bhutan-tour-package": {
       title: "Bhoutan époustouflant",
       description:
         "Explorez royaume mystique Bhoutan : Thimphu, Punakha et Paro. Inclut randonnée emblématique monastère Nid du Tigre et expériences culturelles.",
       duration: "8 Jours / 7 Nuits",
     },
-    "beautiful-nepal": {
+    "nepal-tour-package": {
       title: "Népal magnifique",
       description:
         "Meilleur du Népal : Kathmandu, Parc National Chitwan et Pokhara. Safari jungle, sites culturels et vues himalayennes.",
@@ -1521,43 +1521,43 @@ missionDesc:
         "Voyage spirituel vers temple sacré Muktinath au milieu beauté himalayenne. Inclut sightseeing Pokhara, lever soleil Sarangkot.",
       duration: "7 Jours / 6 Nuits",
     },
-    "classic-singapore-malaysia": {
+    "singapore-tour-package": {
       title: "Singapour & Malaisie classique",
       description:
         "Expérience deux villes avec merveilles modernes, diversité culturelle et beauté tropicale. Île Sentosa, Universal Studios et points forts Kuala Lumpur.",
       duration: "7 Jours / 6 Nuits",
     },
-    "thailand-bangkok-pattaya-tour": {
+    "4N-5D-bangkok-tour-package": {
       title: "Thaïlande - Bangkok & Pattaya Spécial",
       description:
         "Voyage Bangkok & Pattaya avec zoo Sri Racha, île Corail et Safari World. Court séjour parfait avec plages, temples et divertissement.",
       duration: "5 Jours / 4 Nuits",
     },
-    "thailand-tour": {
+    "7N-8D-thailand-tour-package": {
       title: "Thaïlande complète",
       description:
         "Tour complet : Bangkok, Pattaya, Krabi et Phuket. Vie citadine, plages, îles et attractions culturelles.",
       duration: "8 Jours / 7 Nuits",
     },
-    "turkey-istanbul-cappadocia-tour": {
+    "8n-9d-turkey-tour-package": {
       title: "Turquie - Istanbul & Cappadoce",
       description:
         "Explorez sites historiques Istanbul et paysages uniques Cappadoce. Sainte-Sophie, Mosquée Bleue et villes souterraines.",
       duration: "6 Jours / 5 Nuits",
     },
-    "glimpse-of-turkey-tour": {
+    "turkey-tour-package": {
       title: "Aperçu Turquie",
       description:
         "Tour complet Turquie : Istanbul, Cappadoce, Antalya et terrasses Pamukkale époustouflantes. Histoire riche et paysages variés.",
       duration: "9 Jours / 8 Nuits",
     },
-    "dubai-luxury-tour": {
+    "dubai-tour-package": {
       title: "Dubaï - Évasion luxe",
       description:
         "Merveilles modernes Dubaï : croisière dhow, safari désert, Burj Khalifa, aquarium Dubaï et aventures parcs aquatiques palpitantes.",
       duration: "6 Jours / 5 Nuits",
     },
-    "phuket-krabi-island-tour": {
+    "phuket-krabi-tour-package": {
       title: "Phuket Krabi - Évasion insulaire",
       description:
         "Paradis insulaire avec Tour 4 Îles Krabi et Tour île Phi Phi depuis Phuket. Plages préservées, falaises calcaires et eaux turquoise.",
@@ -1605,7 +1605,7 @@ missionDesc:
         "Charme urbain Almaty, lacs montagneux époustouflants et canyon Charyn impressionnant. Mélange parfait aventures montagne et culture.",
       duration: "5 Jours / 4 Nuits",
     },
-    "sri-lanka-tour": {
+    "sri-lanka-tour-package": {
       title: "Sri Lanka tour luxe",
       description:
         "Perle océan Indien avec merveilles culturelles, aventures faune et plages préservées. Tous repas et expériences curatées incluses.",
@@ -8944,7 +8944,7 @@ missionDesc:
         },
       ],
     },
-    "thailand-bangkok-pattaya-tour": {
+    "3N-4D-thailand-tour-package": {
       file_name: "3N-4D-thailand-tour-package.html",
       page: {
         slug: "3N-4D-thailand-tour-package",
@@ -9085,7 +9085,7 @@ missionDesc:
         },
       ],
     },
-    "thailand-bangkok-pattaya-tour-special": {
+    "4N-5D-bangkok-tour-package": {
       file_name: "4N-5D-bangkok-tour-package.html",
       page: {
         slug: "4N-5D-bangkok-tour-package",
@@ -9384,10 +9384,10 @@ missionDesc:
         },
       ],
     },
-    "bhutan-tour": {
-      file_name: "7n-8d-bhutan-tour-package.html",
+    "7n-8d-bhutan-tour-package": {
+      file_name: "7n-8d-7n-8d-bhutan-tour-package-package.html",
       page: {
-        slug: "7n-8d-bhutan-tour-package",
+        slug: "7n-8d-7n-8d-bhutan-tour-package-package",
         type: "",
         hero: {
           title: "Bhoutan, Royaume Himalayen",
@@ -9552,7 +9552,7 @@ missionDesc:
         },
       ],
     },
-    "wonders-of-vietnam": {
+    "7n-8d-vietam-tour-package": {
       file_name: "7n-8d-vietam-tour-package.html",
       page: {
         slug: "7n-8d-vietam-tour-package",
@@ -9722,7 +9722,7 @@ missionDesc:
         },
       ],
     },
-    "thailand-tour-special": {
+    "7N-8D-thailand-tour-package": {
       file_name: "7N-8D-thailand-tour-package.html",
       page: {
         slug: "7N-8D-thailand-tour-package",
@@ -9900,7 +9900,7 @@ missionDesc:
         },
       ],
     },
-    "turkey-istanbul-cappadocia-tour": {
+    "8n-9d-turkey-tour-package": {
       file_name: "8n-9d-turkey-tour-package.html",
       page: {
         slug: "8n-9d-turkey-tour-package",
@@ -10578,7 +10578,7 @@ missionDesc:
         },
       ],
     },
-    "dubai-luxury-tour": {
+    "dubai-tour-package": {
       file_name: "dubai-tour-package.html",
       page: {
         slug: "dubai-tour-package",
@@ -11541,7 +11541,7 @@ missionDesc:
         },
       ],
     },
-    "phuket-krabi-island-tour": {
+    "phuket-krabi-tour-package": {
       file_name: "phuket-krabi-tour-package.html",
       page: {
         slug: "phuket-krabi-tour-package",
@@ -11691,7 +11691,7 @@ missionDesc:
         },
       ],
     },
-    "classic-singapore-malaysia": {
+    "singapore-tour-package": {
       file_name: "singapore-tour-package.html",
       page: {
         slug: "singapore-tour-package",
@@ -11863,10 +11863,10 @@ missionDesc:
         },
       ],
     },
-    "sri-lanka-tour": {
+    "sri-lanka-tour-package": {
       file_name: "srilanka-tour-package.html",
       page: {
-        slug: "sri-lanka-tour-package",
+        slug: "sri-lanka-tour-package-package",
         type: "",
         hero: {
           title: "Tour au Sri Lanka 7 nuits - 8 jours",
@@ -12033,7 +12033,7 @@ missionDesc:
         },
       ],
     },
-    "glimpse-of-turkey-tour": {
+    "turkey-tour-package": {
       file_name: "turkey-tour-package.html",
       page: {
         slug: "turkey-tour-package",
@@ -12187,7 +12187,7 @@ missionDesc:
         },
       ],
     },
-    "best-of-vietnam": {
+    "Vitnam-tour-package-from-goa": {
       file_name: "Vietnam-tour-package-from-goa.html",
       page: {
         slug: "Vietnam-tour-package-from-goa",
@@ -13064,272 +13064,272 @@ missionDesc:
     },
   },
   luxuryTrain: {
-      "mahraja-train-tour-package": {
-        hero: {
-          type: "package-hero",
-          badge: "Forfait Signature",
-          title: "Circuit en train de luxe Maharaja Express en Inde",
-          location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
-          cta_text: "Réserver maintenant",
-          cta_link:
-            "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
-          background_image: "/assets/Luxury/Maharaja/hero.webp",
-        },
-        metadata: {
-          title: "Forfait circuit en train Maharaja Express | Train de luxe en Inde",
-          description:
-            "Vivez le forfait circuit en train Maharaja Express avec des hôtels 5★, une visite du Taj Mahal, un safari à Ranthambore et des suites royales. Réservez des circuits en train de luxe en Inde.",
-        },
-        itinerary: {
-          title: "La Splendeur Indienne",
-          subtitle: "Un merveilleux voyage à travers une terre magique",
-          duration: "( 9 NUITS / 10 JOURS )",
-          days: [
-            {
-              dayStr: "Jour 1",
-              name: "Arrivée à Delhi",
-              desc: "Vol aller-retour de Goa à Delhi. Transfert privé depuis l'aéroport. Enregistrement dans un hôtel de luxe 5★ (catégorie de chambre améliorée). Soirée libre. Nuit à Delhi (Hôtel de luxe).",
-            },
-            {
-              dayStr: "Jour 2 (Dimanche)",
-              name: "Delhi et Agra",
-              desc: "Embarquement dans le train à Delhi le matin. À l'arrivée à Agra, visite du Taj Mahal. Nuit à bord du train à Agra. Petit-déjeuner, déjeuner et dîner à bord.",
-            },
-            {
-              dayStr: "Jour 3 (Lundi)",
-              name: "Agra et Ranthambore",
-              desc: "Visite du Fort d'Agra. Retour dans le train pour le petit-déjeuner pendant le trajet vers Sawai Madhopur. Déjeuner à bord. Safari au Parc National de Ranthambore. Dîner à bord pendant le trajet vers Jaipur.",
-            },
-            {
-              dayStr: "Jour 4 (Mardi)",
-              name: "Jaipur",
-              desc: "Après le petit-déjeuner à bord, débarquement pour visiter le Fort d'Amber. Retour dans le train pour le déjeuner. Dîner dans un lieu exclusif. Retour dans le train en direction de Bikaner.",
-            },
-            {
-              dayStr: "Jour 5 (Mercredi)",
-              name: "Bikaner",
-              desc: "Petit-déjeuner et déjeuner à bord. Visite du Fort de Junagarh suivie d'une soirée barbecue exclusive sur les dunes de sable. Le train repart vers Jodhpur.",
-            },
-            {
-              dayStr: "Jour 6 (Jeudi)",
-              name: "Jodhpur",
-              desc: "Petit-déjeuner et déjeuner à bord. Matinée libre. Après le déjeuner, visite du Fort de Mehrangarh et promenade dans le marché de l'Ancienne Tour de l'Horloge, suivis d'un dîner dans un lieu exclusif. Le train repart vers Udaipur.",
-            },
-            {
-              dayStr: "Jour 7 (Vendredi)",
-              name: "Udaipur",
-              desc: "Après le petit-déjeuner à bord, balade en bateau sur le Lac Pichola et visite du Palais de la Ville. Déjeuner dans un lieu exclusif. Dîner à bord pendant le trajet vers Mumbai.",
-            },
-            {
-              dayStr: "Jour 8 (Samedi)",
-              name: "Arrivée à Mumbai",
-              desc: "Petit-déjeuner et déjeuner à bord. Débarquement à Mumbai. Transfert privé au Taj Mahal Palace Hotel. Enregistrement. Nuit au Taj Mahal Palace.",
-            },
-            {
-              dayStr: "Jour 9 (Dimanche)",
-              name: "Retour à Goa",
-              desc: "Petit-déjeuner à l'hôtel. Transfert privé à l'aéroport de Mumbai. Vol retour vers Goa.",
-            },
-          ],
-        },
-        accommodations: {
-          eyebrow: "À bord du Voyage Doré",
-          title: "Maharajas' Express",
-          subtitle: "Cabines privées et suites",
-          cabins: [
-            {
-              name: "Cabine Deluxe",
-              size: "(112 pi² / 10,4 m²)",
-              images: ["/assets/Luxury/Maharaja/3.webp", "/assets/Luxury/Maharaja/4.webp"],
-              layout: "split",
-              features: [
-                "12 cabines lits jumeaux et 8 cabines lits doubles",
-                "Douche et WC privatifs",
-                "Principales chaînes OTT disponibles",
-                "Tablette d'écriture et tabouret",
-                "Armoire avec coffre-fort électronique",
-              ],
-            },
-            {
-              name: "Junior Suite",
-              size: "(150 pi² / 13,9 m²)",
-              images: ["/assets/Luxury/Maharaja/5.webp", "/assets/Luxury/Maharaja/6.webp"],
-              layout: "split",
-              features: [
-                "12 cabines lits jumeaux et 6 cabines lits doubles",
-                "Douche et WC privatifs",
-                "Principales chaînes OTT disponibles",
-                "Table avec chaise",
-                "Armoire avec coffre-fort électronique",
-              ],
-            },
-            {
-              name: "Suite",
-              size: "(220 pi² / 20,4 m²)",
-              images: [
-                "/assets/Luxury/Maharaja/7.webp",
-                "/assets/Luxury/Maharaja/8.webp",
-                "/assets/Luxury/Maharaja/9.webp",
-              ],
-              layout: "three",
-              features: [
-                "Espace salon séparé avec fauteuils canapé",
-                "Baignoire, douche et WC privatifs",
-                "Armoire avec coffre-fort électronique",
-                "Principales chaînes OTT disponibles",
-                "4 cabines lits doubles",
-                "Minibar",
-              ],
-            },
-            {
-              name: "Suite Présidentielle",
-              size: "(448 pi² / 41,6 m²)",
-              images: [
-                "/assets/Luxury/Maharaja/10.webp",
-                "/assets/Luxury/Maharaja/11.webp",
-                "/assets/Luxury/Maharaja/12.webp",
-              ],
-              layout: "three",
-              features: [
-                "Chambre principale avec lit double et salle de bains (baignoire, douche et WC)",
-                "Deuxième chambre avec lits jumeaux et salle de bains (douche et WC)",
-                "Espace salon séparé avec fauteuils canapé",
-                "Deux chambres et un salon",
-                "Principales chaînes OTT disponibles",
-                "Armoire avec coffre-fort électronique",
-                "Un wagon complet",
-                "Minibar",
-              ],
-            },
-          ],
-        },
-        restaurants: {
-          title: "Maharajas' Express",
-          subtitle: "Restaurants",
-          food: [
-            {
-              name: "MAYUR MAHAL",
-              image: {
-                src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
-                alt: "Restaurant Mayur Mahal",
-              },
-            },
-            {
-              name: "RANG MAHAL",
-              image: {
-                src: "/assets/Luxury/Maharaja/rang-mahal.webp",
-                alt: "Restaurant Rang Mahal",
-              },
-            },
-          ],
-        },
-        inclusions: [
+    "mahraja-train-tour-package": {
+      hero: {
+        type: "package-hero",
+        badge: "Forfait Signature",
+        title: "Circuit en train de luxe Maharaja Express en Inde",
+        location: "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
+        cta_text: "Réserver maintenant",
+        cta_link:
+          "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
+        background_image: "/assets/Luxury/Maharaja/hero.webp",
+      },
+      metadata: {
+        title: "Forfait circuit en train Maharaja Express | Train de luxe en Inde",
+        description:
+          "Vivez le forfait circuit en train Maharaja Express avec des hôtels 5★, une visite du Taj Mahal, un safari à Ranthambore et des suites royales. Réservez des circuits en train de luxe en Inde.",
+      },
+      itinerary: {
+        title: "La Splendeur Indienne",
+        subtitle: "Un merveilleux voyage à travers une terre magique",
+        duration: "( 9 NUITS / 10 JOURS )",
+        days: [
           {
-            icon: "fas fa-plane",
-            title: "Vols aller-retour",
-            description: "Vols aller-retour de Goa à Delhi et de Mumbai à Goa",
+            dayStr: "Jour 1",
+            name: "Arrivée à Delhi",
+            desc: "Vol aller-retour de Goa à Delhi. Transfert privé depuis l'aéroport. Enregistrement dans un hôtel de luxe 5★ (catégorie de chambre améliorée). Soirée libre. Nuit à Delhi (Hôtel de luxe).",
           },
           {
-            icon: "fas fa-car",
-            title: "Transferts privés",
-            description: "Transferts privés aéroport tout au long du voyage",
+            dayStr: "Jour 2 (Dimanche)",
+            name: "Delhi et Agra",
+            desc: "Embarquement dans le train à Delhi le matin. À l'arrivée à Agra, visite du Taj Mahal. Nuit à bord du train à Agra. Petit-déjeuner, déjeuner et dîner à bord.",
           },
           {
-            icon: "fas fa-hotel",
-            title: "Hébergements en hôtel",
-            description:
-              "2 nuits dans des hôtels de luxe 5★ (catégorie améliorée, demi-pension) — 1 nuit à Delhi + 1 nuit à Mumbai (Taj Mahal Palace)",
+            dayStr: "Jour 3 (Lundi)",
+            name: "Agra et Ranthambore",
+            desc: "Visite du Fort d'Agra. Retour dans le train pour le petit-déjeuner pendant le trajet vers Sawai Madhopur. Déjeuner à bord. Safari au Parc National de Ranthambore. Dîner à bord pendant le trajet vers Jaipur.",
           },
           {
-            icon: "fas fa-train",
-            title: "Séjour en train de luxe",
-            description: "6 nuits à bord du Maharajas' Express en pension complète",
+            dayStr: "Jour 4 (Mardi)",
+            name: "Jaipur",
+            desc: "Après le petit-déjeuner à bord, débarquement pour visiter le Fort d'Amber. Retour dans le train pour le déjeuner. Dîner dans un lieu exclusif. Retour dans le train en direction de Bikaner.",
           },
           {
-            icon: "fas fa-utensils",
-            title: "Tous les repas inclus",
-            description:
-              "Tous les repas inclus à bord du train et à l'hôtel selon l'itinéraire",
+            dayStr: "Jour 5 (Mercredi)",
+            name: "Bikaner",
+            desc: "Petit-déjeuner et déjeuner à bord. Visite du Fort de Junagarh suivie d'une soirée barbecue exclusive sur les dunes de sable. Le train repart vers Jodhpur.",
           },
           {
-            icon: "fas fa-binoculars",
-            title: "Toutes les visites",
-            description: "Toutes les visites selon l'itinéraire",
+            dayStr: "Jour 6 (Jeudi)",
+            name: "Jodhpur",
+            desc: "Petit-déjeuner et déjeuner à bord. Matinée libre. Après le déjeuner, visite du Fort de Mehrangarh et promenade dans le marché de l'Ancienne Tour de l'Horloge, suivis d'un dîner dans un lieu exclusif. Le train repart vers Udaipur.",
           },
           {
-            icon: "fas fa-monument",
-            title: "Visite du Taj Mahal",
-            description: "Visite guidée de l'emblématique Taj Mahal à Agra",
+            dayStr: "Jour 7 (Vendredi)",
+            name: "Udaipur",
+            desc: "Après le petit-déjeuner à bord, balade en bateau sur le Lac Pichola et visite du Palais de la Ville. Déjeuner dans un lieu exclusif. Dîner à bord pendant le trajet vers Mumbai.",
           },
           {
-            icon: "fas fa-coffee",
-            title: "Petit-déjeuner au champagne",
-            description: "Petit-déjeuner au champagne au Taj Khema",
+            dayStr: "Jour 8 (Samedi)",
+            name: "Arrivée à Mumbai",
+            desc: "Petit-déjeuner et déjeuner à bord. Débarquement à Mumbai. Transfert privé au Taj Mahal Palace Hotel. Enregistrement. Nuit au Taj Mahal Palace.",
           },
           {
-            icon: "fas fa-paw",
-            title: "Safari aux tigres à Ranthambore",
-            description: "Safari aux tigres palpitant au Parc National de Ranthambore",
-          },
-          {
-            icon: "fas fa-landmark",
-            title: "Visite du Fort d'Amber",
-            description: "Visite privée guidée du majestueux Fort d'Amber à Jaipur",
-          },
-          {
-            icon: "fas fa-concierge-bell",
-            title: "Dîners exclusifs dans des palais",
-            description: "Expériences gastronomiques exclusives et soigneusement sélectionnées dans des palais",
-          },
-          {
-            icon: "fas fa-ship",
-            title: "Croisière en bateau à Udaipur",
-            description: "Promenade en bateau panoramique sur le Lac Pichola à Udaipur",
-          },
-          {
-            icon: "fas fa-map-marked-alt",
-            title: "Circuit demi-journée à Delhi",
-            description: "Circuit guidé d'une demi-journée à Delhi",
-          },
-        ],
-        excursions: [
-          {
-            icon: "fas fa-monument",
-            title: "Visite du Taj Mahal",
-            description: "Visite guidée du Taj Mahal à Agra",
-          },
-          {
-            icon: "fas fa-coffee",
-            title: "Petit-déjeuner au champagne",
-            description: "Expérience de petit-déjeuner au champagne au Taj Khema",
-          },
-          {
-            icon: "fas fa-paw",
-            title: "Safari aux tigres à Ranthambore",
-            description: "Safari animalier au Parc National de Ranthambore",
-          },
-          {
-            icon: "fas fa-landmark",
-            title: "Visite du Fort d'Amber",
-            description: "Visite guidée du Fort d'Amber historique à Jaipur",
-          },
-          {
-            icon: "fas fa-concierge-bell",
-            title: "Dîners exclusifs dans des palais",
-            description: "Expériences gastronomiques dans des palais tout au long du voyage",
-          },
-          {
-            icon: "fas fa-ship",
-            title: "Croisière en bateau à Udaipur",
-            description: "Promenade en bateau panoramique sur le Lac Pichola",
-          },
-          {
-            icon: "fas fa-map-marked-alt",
-            title: "Circuit demi-journée à Delhi",
-            description: "Circuit guidé demi-journée des sites de Delhi",
+            dayStr: "Jour 9 (Dimanche)",
+            name: "Retour à Goa",
+            desc: "Petit-déjeuner à l'hôtel. Transfert privé à l'aéroport de Mumbai. Vol retour vers Goa.",
           },
         ],
       },
+      accommodations: {
+        eyebrow: "À bord du Voyage Doré",
+        title: "Maharajas' Express",
+        subtitle: "Cabines privées et suites",
+        cabins: [
+          {
+            name: "Cabine Deluxe",
+            size: "(112 pi² / 10,4 m²)",
+            images: ["/assets/Luxury/Maharaja/3.webp", "/assets/Luxury/Maharaja/4.webp"],
+            layout: "split",
+            features: [
+              "12 cabines lits jumeaux et 8 cabines lits doubles",
+              "Douche et WC privatifs",
+              "Principales chaînes OTT disponibles",
+              "Tablette d'écriture et tabouret",
+              "Armoire avec coffre-fort électronique",
+            ],
+          },
+          {
+            name: "Junior Suite",
+            size: "(150 pi² / 13,9 m²)",
+            images: ["/assets/Luxury/Maharaja/5.webp", "/assets/Luxury/Maharaja/6.webp"],
+            layout: "split",
+            features: [
+              "12 cabines lits jumeaux et 6 cabines lits doubles",
+              "Douche et WC privatifs",
+              "Principales chaînes OTT disponibles",
+              "Table avec chaise",
+              "Armoire avec coffre-fort électronique",
+            ],
+          },
+          {
+            name: "Suite",
+            size: "(220 pi² / 20,4 m²)",
+            images: [
+              "/assets/Luxury/Maharaja/7.webp",
+              "/assets/Luxury/Maharaja/8.webp",
+              "/assets/Luxury/Maharaja/9.webp",
+            ],
+            layout: "three",
+            features: [
+              "Espace salon séparé avec fauteuils canapé",
+              "Baignoire, douche et WC privatifs",
+              "Armoire avec coffre-fort électronique",
+              "Principales chaînes OTT disponibles",
+              "4 cabines lits doubles",
+              "Minibar",
+            ],
+          },
+          {
+            name: "Suite Présidentielle",
+            size: "(448 pi² / 41,6 m²)",
+            images: [
+              "/assets/Luxury/Maharaja/10.webp",
+              "/assets/Luxury/Maharaja/11.webp",
+              "/assets/Luxury/Maharaja/12.webp",
+            ],
+            layout: "three",
+            features: [
+              "Chambre principale avec lit double et salle de bains (baignoire, douche et WC)",
+              "Deuxième chambre avec lits jumeaux et salle de bains (douche et WC)",
+              "Espace salon séparé avec fauteuils canapé",
+              "Deux chambres et un salon",
+              "Principales chaînes OTT disponibles",
+              "Armoire avec coffre-fort électronique",
+              "Un wagon complet",
+              "Minibar",
+            ],
+          },
+        ],
+      },
+      restaurants: {
+        title: "Maharajas' Express",
+        subtitle: "Restaurants",
+        food: [
+          {
+            name: "MAYUR MAHAL",
+            image: {
+              src: "/assets/Luxury/Maharaja/mayur-mahal.webp",
+              alt: "Restaurant Mayur Mahal",
+            },
+          },
+          {
+            name: "RANG MAHAL",
+            image: {
+              src: "/assets/Luxury/Maharaja/rang-mahal.webp",
+              alt: "Restaurant Rang Mahal",
+            },
+          },
+        ],
+      },
+      inclusions: [
+        {
+          icon: "fas fa-plane",
+          title: "Vols aller-retour",
+          description: "Vols aller-retour de Goa à Delhi et de Mumbai à Goa",
+        },
+        {
+          icon: "fas fa-car",
+          title: "Transferts privés",
+          description: "Transferts privés aéroport tout au long du voyage",
+        },
+        {
+          icon: "fas fa-hotel",
+          title: "Hébergements en hôtel",
+          description:
+            "2 nuits dans des hôtels de luxe 5★ (catégorie améliorée, demi-pension) — 1 nuit à Delhi + 1 nuit à Mumbai (Taj Mahal Palace)",
+        },
+        {
+          icon: "fas fa-train",
+          title: "Séjour en train de luxe",
+          description: "6 nuits à bord du Maharajas' Express en pension complète",
+        },
+        {
+          icon: "fas fa-utensils",
+          title: "Tous les repas inclus",
+          description:
+            "Tous les repas inclus à bord du train et à l'hôtel selon l'itinéraire",
+        },
+        {
+          icon: "fas fa-binoculars",
+          title: "Toutes les visites",
+          description: "Toutes les visites selon l'itinéraire",
+        },
+        {
+          icon: "fas fa-monument",
+          title: "Visite du Taj Mahal",
+          description: "Visite guidée de l'emblématique Taj Mahal à Agra",
+        },
+        {
+          icon: "fas fa-coffee",
+          title: "Petit-déjeuner au champagne",
+          description: "Petit-déjeuner au champagne au Taj Khema",
+        },
+        {
+          icon: "fas fa-paw",
+          title: "Safari aux tigres à Ranthambore",
+          description: "Safari aux tigres palpitant au Parc National de Ranthambore",
+        },
+        {
+          icon: "fas fa-landmark",
+          title: "Visite du Fort d'Amber",
+          description: "Visite privée guidée du majestueux Fort d'Amber à Jaipur",
+        },
+        {
+          icon: "fas fa-concierge-bell",
+          title: "Dîners exclusifs dans des palais",
+          description: "Expériences gastronomiques exclusives et soigneusement sélectionnées dans des palais",
+        },
+        {
+          icon: "fas fa-ship",
+          title: "Croisière en bateau à Udaipur",
+          description: "Promenade en bateau panoramique sur le Lac Pichola à Udaipur",
+        },
+        {
+          icon: "fas fa-map-marked-alt",
+          title: "Circuit demi-journée à Delhi",
+          description: "Circuit guidé d'une demi-journée à Delhi",
+        },
+      ],
+      excursions: [
+        {
+          icon: "fas fa-monument",
+          title: "Visite du Taj Mahal",
+          description: "Visite guidée du Taj Mahal à Agra",
+        },
+        {
+          icon: "fas fa-coffee",
+          title: "Petit-déjeuner au champagne",
+          description: "Expérience de petit-déjeuner au champagne au Taj Khema",
+        },
+        {
+          icon: "fas fa-paw",
+          title: "Safari aux tigres à Ranthambore",
+          description: "Safari animalier au Parc National de Ranthambore",
+        },
+        {
+          icon: "fas fa-landmark",
+          title: "Visite du Fort d'Amber",
+          description: "Visite guidée du Fort d'Amber historique à Jaipur",
+        },
+        {
+          icon: "fas fa-concierge-bell",
+          title: "Dîners exclusifs dans des palais",
+          description: "Expériences gastronomiques dans des palais tout au long du voyage",
+        },
+        {
+          icon: "fas fa-ship",
+          title: "Croisière en bateau à Udaipur",
+          description: "Promenade en bateau panoramique sur le Lac Pichola",
+        },
+        {
+          icon: "fas fa-map-marked-alt",
+          title: "Circuit demi-journée à Delhi",
+          description: "Circuit guidé demi-journée des sites de Delhi",
+        },
+      ],
+    },
   },
   luxuryTourPackages: {
 

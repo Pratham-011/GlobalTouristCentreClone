@@ -115,7 +115,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "thailand-bangkok-pattaya-tour": {
+  "4N-5D-bangkok-tour-package": {
     gallery: [
       {
         title: "Bangkok Skyline",
@@ -173,7 +173,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "thailand-tour": {
+  "7N-8D-thailand-tour-package": {
     gallery: [
       {
         title: "Bangkok Cityscape",
@@ -236,7 +236,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "bhutan-tour": {
+  "7n-8d-bhutan-tour-package": {
     gallery: [
       {
         title: "Tiger's Nest Monastery",
@@ -265,7 +265,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "wonders-of-vietnam": {
+  "7n-8d-vietam-tour-package": {
     gallery: [
       {
         title: "Ha Long Bay",
@@ -294,7 +294,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "turkey-istanbul-cappadocia-tour": {
+  "8n-9d-turkey-tour-package": {
     gallery: [
       {
         title: "Istanbul",
@@ -589,7 +589,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "dubai-luxury-tour": {
+  "dubai-tour-package": {
     gallery: [
       {
         title: "Burj Khalifa",
@@ -1531,7 +1531,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "phuket-krabi-island-tour": {
+  "phuket-krabi-tour-package": {
     gallery: [
       {
         title: "Phi Phi Islands",
@@ -1560,7 +1560,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "classic-singapore-malaysia": {
+  "singapore-tour-package": {
     gallery: [
       {
         title: "Marina Bay Sands",
@@ -1589,7 +1589,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "sri-lanka-tour": {
+  "sri-lanka-tour-package": {
     gallery: [
       {
         title: "Sigiriya Rock",
@@ -1618,7 +1618,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "glimpse-of-turkey-tour": {
+  "turkey-tour-package": {
     gallery: [
       {
         title: "Istanbul Skyline",
@@ -1647,7 +1647,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "best-of-vietnam": {
+  "Vitnam-tour-package-from-goa": {
     gallery: [
       {
         title: "Ha Long Bay",
@@ -1673,40 +1673,6 @@ export const galleryData: Record<string, any> = {
         title: "Vietnamese Street Food",
         description: "Delicious and vibrant culinary experiences",
         image: "/assets/destinations/Vietnam/Local Cuisine.webp",
-      },
-    ],
-  },
-  "thailand-tour-special": {
-    gallery: [
-      {
-        title: "Bangkok Cityscape",
-        description: "Vibrant capital with temples and skyscrapers",
-        image: "/assets/destinations/Thailand/Bangkok Cityscape.webp",
-      },
-      {
-        title: "Phi Phi Islands",
-        description: "Stunning limestone cliffs and turquoise waters",
-        image: "/assets/destinations/Thailand/Phi Phi Islands.webp",
-      },
-      {
-        title: "Pattaya Beach",
-        description: "Famous beach destination with vibrant nightlife",
-        image: "/assets/destinations/Thailand/Pattaya Beach.webp",
-      },
-      {
-        title: "Coral Island",
-        description: "Crystal clear waters perfect for snorkeling",
-        image: "/assets/destinations/Thailand/Coral Island.webp",
-      },
-      {
-        title: "Golden Buddha Temple",
-        description: "Magnificent temples with intricate architecture",
-        image: "/assets/destinations/Thailand/Golden Buddha Temple.webp",
-      },
-      {
-        title: "Thai Street Food",
-        description: "Delicious and vibrant culinary experiences",
-        image: "/assets/destinations/Thailand/Thai Street Food.webp",
       },
     ],
   },

@@ -269,7 +269,7 @@ export const domesticTrips: Destination[] = [
 export const internationalTrips: Destination[] = [
   {
     id: "int-vietnam-001",
-    slug: "wonders-of-vietnam",
+    slug: "7n-8d-vietam-tour-package",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/Vietnam.webp",
     category: "international",
@@ -277,7 +277,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-vietnam-002",
-    slug: "best-of-vietnam",
+    slug: "Vitnam-tour-package-from-goa",
     rating: 4.5,
     imageQuery: "/destinations/Thumbnails/Vietnam2.webp",
     category: "international",
@@ -285,20 +285,20 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-bhutan-003",
-    slug: "bhutan-tour",
+    slug: "7n-8d-bhutan-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Bhutan.webp",
     category: "international",
     zone: "asia",
   },
-  // {
-  //   id: "int-nepal-004",
-  //   slug: "beautiful-nepal",
-  //   rating: 4.6,
-  //   imageQuery: "/destinations/Thumbnails/Nepal.webp",
-  //   category: "international",
-  //   zone: "asia",
-  // },
+  {
+    id: "int-nepal-004",
+    slug: "nepal-tour-package",
+    rating: 4.6,
+    imageQuery: "/destinations/Thumbnails/Nepal.webp",
+    category: "international",
+    zone: "asia",
+  },
   {
     id: "int-nepal-005",
     slug: "nepal-muktinath-special",
@@ -309,7 +309,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-singapore-malaysia-006",
-    slug: "classic-singapore-malaysia",
+    slug: "singapore-tour-package",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/Singapore.webp",
     category: "international",
@@ -317,7 +317,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-thailand-007",
-    slug: "thailand-bangkok-pattaya-tour",
+    slug: "4N-5D-bangkok-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Thailand.webp",
     category: "international",
@@ -325,15 +325,23 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-thailand-008",
-    slug: "thailand-tour",
+    slug: "7N-8D-thailand-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Thailand2.webp",
     category: "international",
     zone: "southeast-asia",
   },
   {
+    id: "int-thailand-009",
+    slug: "3N-4D-thailand-tour-package",
+    rating: 4.8,
+    imageQuery: "/destinations/Thumbnails/Thailand3.webp",
+    category: "international",
+    zone: "southeast-asia",
+  },
+  {
     id: "int-turkey-009",
-    slug: "turkey-istanbul-cappadocia-tour",
+    slug: "8n-9d-turkey-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Turkey.webp",
     category: "international",
@@ -341,7 +349,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-turkey-010",
-    slug: "glimpse-of-turkey-tour",
+    slug: "turkey-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Turkey2.webp",
     category: "international",
@@ -349,7 +357,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-dubai-011",
-    slug: "dubai-luxury-tour",
+    slug: "dubai-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Dubai.webp",
     category: "international",
@@ -357,7 +365,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-phuket-krabi-012",
-    slug: "phuket-krabi-island-tour",
+    slug: "phuket-krabi-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Phuket.webp",
     category: "international",
@@ -431,7 +439,7 @@ export const internationalTrips: Destination[] = [
   // },
   {
     id: "int-srilanka-023",
-    slug: "sri-lanka-tour",
+    slug: "sri-lanka-tour-package",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/SriLanka.webp",
     category: "international",
