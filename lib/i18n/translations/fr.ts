@@ -92,7 +92,7 @@ export const fr = {
     subtitle:
       "Partagez vos informations et nous créerons l’itinéraire parfait pour vous.",
     items: {
-      "south-goa-day-exursion": {
+      "south-goa-1-day-cultural-&-beach-tour-package": {
         title: "Sud de Goa – Goa Culturel",
         duration: "1 jour",
         description:
@@ -104,13 +104,13 @@ export const fr = {
         description:
           "Explorez le côté animé du nord de Goa avec les plages célèbres de Baga, Calangute et Anjuna, ainsi que des forts historiques, des marchés aux puces, une vie nocturne dynamique et des églises de l’époque portugaise.",
       },
-      "dudhsagar-waterfal-excursion": {
+      "dudhsagar-spice-plantation-day-trip-package": {
         title: "Cascade de Dudhsagar et Plantation d’Épices",
         duration: "1 jour",
         description:
           "Admirez l’impressionnante cascade de Dudhsagar entourée de forêts luxuriantes, suivie d’une visite guidée de plantations d’épices aromatiques avec découvertes culturelles et déjeuner traditionnel.",
       },
-      "palolem-cola-beach-dolphin-tour": {
+      "south-goa-1-day-trip-package": {
         title: "Palolem et plage de Cola – Observation des dauphins",
         duration: "1 jour",
         description:
@@ -134,19 +134,19 @@ export const fr = {
         description:
           "Excursion en bateau vers l’île Grand avec snorkeling, jet-ski, banane, parachute ascensionnel, observation des dauphins, baignade et aventures marines.",
       },
-      "goa-luxury-retreat-serai-cabo": {
+      " cabo-serai-2n-3d-luxury-getaway": {
         title: "Séjour de luxe Serai Cabo à Goa",
         duration: "2 nuits / 3 jours",
         description:
           "Détendez-vous dans un complexe de luxe situé sur les falaises de Cabo de Rama, offrant des vues paisibles sur la mer et un hébergement haut de gamme.",
       },
-      "gokarna-murdeshwar-day-excursion": {
+      "gokarna-murdeshwar-one-day-trip-package": {
         title: "Gokarna et Murdeshwar",
         duration: "1 jour",
         description:
           "Visitez les plages sereines de Gokarna et l’emblématique statue de Shiva à Murdeshwar, alliant spiritualité et beauté côtière.",
       },
-      "hampi-badami-heritage-tour-from-goa": {
+      "hampi-1n-2d-trip-package": {
         title: "Circuit Patrimoine Hampi et Badami",
         duration: "1 nuit / 2 jours",
         description:
@@ -170,7 +170,7 @@ export const fr = {
         description:
           "Explorez le patrimoine royal de Mysore et profitez des jardins de thé, des paysages et du climat frais d’Ooty.",
       },
-      "mumbai-one-day-excursion": {
+      "mumbai-day-trip-package": {
         title: "Visite de la ville de Mumbai",
         duration: "1 nuit / 2 jours",
         description:
@@ -1453,25 +1453,25 @@ export const fr = {
         "Plages préservées, récifs coralliens & vie marine sur îles Agatti, Thinnakara & Kalpitti avec snorkeling et sports nautiques.",
       duration: "3 Nuits / 4 Jours",
     },
-    "wondrous-wilderness": {
+    "wondrous-wildernest-trip-package": {
       title: "Nature merveilleuse",
       description:
         "Immergez-vous dans la nature avec randonnées forestières, sessions de poterie, art mehendi et vues coucher de soleil dans ce resort naturel goanais serein.",
       duration: "2 Nuits / 3 Jours",
     },
-    "goa-luxury-retreat-serai-cabo": {
+    " cabo-serai-2n-3d-luxury-getaway": {
       title: "Cabo Serai secret",
       description:
         "Séjour de luxe à Cabo Serai avec vues époustouflantes sur mer d'Arabie, promenades nature, observation d'oiseaux et expériences bien-être optionnelles.",
       duration: "2 Nuits / 3 Jours",
     },
-    "shimoga-nature-tour-from-goa": {
+    "1n-2d-shimoga-trip-package": {
       title: "Shimoga Nature & Safari",
       description:
         "Explorez formations rocheuses mystiques grottes Yana, profitez safaris jeep et bateau palpitants, et assistez chutes majestueuses Jog.",
       duration: "1 Nuit / 2 Jours",
     },
-    "aurangabad-heritage-tour-from-goa": {
+    "aurangabad-1n-2d-trip-package": {
       title: "Héritage Aurangabad",
       description:
         "Découvrez sites Patrimoine mondial UNESCO grottes Ajanta & Ellora, Bibi Ka Maqbara et fort historique Daulatabad.",
@@ -1483,7 +1483,7 @@ export const fr = {
         "Vivez l'emblématique Taj Mahal, Fort d'Agra et Petit Taj avec guides russophones dans ce voyage romantique patrimonial.",
       duration: "1 Nuit / 2 Jours",
     },
-    "hampi-badami-heritage-tour-from-goa": {
+    "hampi-1n-2d-trip-package": {
       title: "Héritage Hampi",
       description:
         "Explorez site Patrimoine mondial UNESCO Hampi - ruines anciennes, enceintes royales, temples et char de pierre unique.",
@@ -1538,6 +1538,12 @@ export const fr = {
       description:
         "Tour complet : Bangkok, Pattaya, Krabi et Phuket. Vie citadine, plages, îles et attractions culturelles.",
       duration: "8 Jours / 7 Nuits",
+    },
+    "3N-4D-thailand-tour-package": {
+      title: "Esperienza Bangkok e Pattaya",
+      description:
+        "Scopri la vivace vita notturna, le splendide isole e il ricco patrimonio culturale della Thailandia con un viaggio curato che copre Pattaya e Bangkok, inclusi Coral Island, lo spettacolo Alcazar e una crociera con cena sul fiume Chao Phraya.",
+      duration: "4 giorni / 3 notti",
     },
     "8n-9d-turkey-tour-package": {
       title: "Turquie - Istanbul & Cappadoce",
@@ -1613,43 +1619,43 @@ export const fr = {
     },
 
     // Excursions d'une journée (Day Trips)
-    "dandeli-day-excursion": {
+    "dandeli-elephant-safari-day-trip-package": {
       title: "Safari éléphants Dandeli",
       description:
         "Aventure faune palpitante avec safaris éléphants, rafting eaux vives et exploration jungle dans paysages luxuriants Dandeli.",
       duration: "1 Jour",
     },
-    "dudhsagar-waterfal-excursion": {
+    "dudhsagar-spice-plantation-day-trip-package": {
       title: "Chute Dudhsagar & plantation épices",
       description:
         "Vivez majestueuses chutes Dudhsagar avec safari jeep Sanctuaire Bhagwan Mahaveer suivi déjeuner goanais authentique plantation épices.",
       duration: "1 Jour",
     },
-    "mumbai-one-day-excursion": {
+    "mumbai-day-trip-package": {
       title: "Mumbai en une journée",
       description:
         "Tour complet Mumbai couvrant landmarks iconiques : Gateway of India, bidonville Dharavi, Dhobi Ghat et train nuit retour Goa.",
       duration: "1 Jour",
     },
-    "netravali-wildlife-day-excursion": {
+    "netravali-day-trip-package": {
       title: "Excursion Netravali",
       description:
         "Explorez lac bouillonnant mystique Netravali, randonnée chutes préservées et découvrez riche biodiversité sanctuaire faune intact.",
       duration: "1 Jour",
     },
-    "gokarna-murdeshwar-day-excursion": {
+    "gokarna-murdeshwar-one-day-trip-package": {
       title: "Excursion Gokarna Murdeshwar",
       description:
         "Voyage spirituel visitant ancien temple Mahabaleshwar Gokarna et magnifique temple Murdeshwar avec statue Shiva plus haute monde.",
       duration: "1 Jour",
     },
-    "palolem-cola-beach-dolphin-tour": {
+    "south-goa-1-day-trip-package": {
       title: "Palolem, Cola Beach - Observation dauphins",
       description:
         "Expérience complète Sud Goa : observation dauphins, tour bateau 4 points, kayak lagunes bleues et coucher soleil fort Cabo de Rama.",
       duration: "1 Jour",
     },
-    "south-goa-day-exursion": {
+    "south-goa-1-day-cultural-&-beach-tour-package": {
       title: "Sud Goa culturel & côtier",
       description:
         "Expérience complète Sud Goa : sites UNESCO Vieux Goa, temples anciens, observation dauphins, plages préservées, coucher soleil Cabo de Rama Fort avec croisière dîner rivière Mandovi.",
@@ -1754,10 +1760,10 @@ export const fr = {
   },
 
   tourData: {
-    "dandeli-day-excursion": {
-      file_name: "dandeli-day-excursion-package.html",
+    "dandeli-elephant-safari-day-trip-package": {
+      file_name: "dandeli-elephant-safari-day-trip-package.html",
       page: {
-        slug: "dandeli-day-excursion-package",
+        slug: "dandeli-elephant-safari-day-trip-package",
         type: "day-trip",
         hero: {
           title: "Safari en Éléphant à Dandeli & Journée d'Aventure",
@@ -1933,7 +1939,7 @@ export const fr = {
         },
       ],
     },
-    "dudhsagar-waterfal-excursion": {
+    "dudhsagar-spice-plantation-day-trip-package": {
       file_name: "Dudhsagar-and-Spice-Plantation-Day-Trip-package.html",
       page: {
         slug: "Dudhsagar-and-Spice-Plantation-Day-Trip-package",
@@ -2103,7 +2109,7 @@ export const fr = {
         },
       ],
     },
-    "gokarna-murdeshwar-day-excursion": {
+    "gokarna-murdeshwar-one-day-trip-package": {
       file_name: "Gokarna-Murdeshwar-one-day-trip-package.html",
       page: {
         slug: "Gokarna-Murdeshwar-one-day-trip-package",
@@ -2469,7 +2475,7 @@ export const fr = {
         },
       ],
     },
-    "mumbai-one-day-excursion": {
+    "mumbai-day-trip-package": {
       file_name: "Mumbai-day-trip-package.html",
       page: {
         slug: "Mumbai-day-trip-package",
@@ -2690,7 +2696,7 @@ export const fr = {
         },
       ],
     },
-    "netravali-wildlife-day-excursion": {
+    "netravali-day-trip-package": {
       file_name: "Netravali-day-trip-package.html",
       page: {
         slug: "Netravali-day-trip-package",
@@ -3249,7 +3255,7 @@ export const fr = {
         },
       ],
     },
-    "south-goa-day-exursion": {
+    "south-goa-1-day-cultural-&-beach-tour-package": {
       file_name: "South-Goa-1-Day-Cultural-and-Beach-Tour-package.html",
       page: {
         slug: "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
@@ -3407,7 +3413,7 @@ export const fr = {
         },
       ],
     },
-    "palolem-cola-beach-dolphin-tour": {
+    "south-goa-1-day-trip-package": {
       file_name: "South-Goa-1-Day-Trip-package.html",
       page: {
         slug: "palolem-cola-full-day-tour",
@@ -3798,7 +3804,7 @@ export const fr = {
         },
       ],
     },
-    "aurangabad-heritage-tour-from-goa": {
+    "aurangabad-1n-2d-trip-package": {
       file_name: "2-Day-Aurangabad-Trip-Package.html",
       page: {
         slug: "2-Day-Aurangabad-Trip-Package",
@@ -4847,7 +4853,7 @@ export const fr = {
         },
       ],
     },
-    "goa-luxury-retreat-serai-cabo": {
+    " cabo-serai-2n-3d-luxury-getaway": {
       file_name: "Cabo-Serai-2N-3D-Luxury-Getaway.html",
       page: {
         slug: "Cabo-Serai-2N-3D-Luxury-Getaway",
@@ -5832,7 +5838,7 @@ export const fr = {
         },
       ],
     },
-    "hampi-badami-heritage-tour-from-goa": {
+    "hampi-1n-2d-trip-package": {
       file_name: "Hampi-1N-2D-Trip-Package.html",
       page: {
         slug: "Hampi-1N-2D-Trip-Package",
@@ -8206,7 +8212,7 @@ export const fr = {
         },
       ],
     },
-    "shimoga-nature-tour-from-goa": {
+    "1n-2d-shimoga-trip-package": {
       file_name: "Shimoga-trip-package.html",
       page: {
         slug: "Shimoga-trip-package",

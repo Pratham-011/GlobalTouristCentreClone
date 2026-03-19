@@ -28,21 +28,21 @@ const Signature = () => {
         id: "all-goa",
         imageUrl: "/assets/destinations/Thumbnails/Goa3.webp",
         price: "$70",
-        link: `/${locale}/destinations/day-trips/south-goa-day-exursion`,
+        link: `/${locale}/destinations/day-trips/south-goa-1-day-cultural-&-beach-tour-package`,
         popular: false,
       },
       {
         id: "palolem",
         imageUrl: "/assets/destinations/Thumbnails/Palolem.webp",
         price: "$70",
-        link: `/${locale}/destinations/day-trips/palolem-cola-beach-dolphin-tour`,
+        link: `/${locale}/destinations/day-trips/south-goa-1-day-trip-package`,
         popular: true,
       },
       {
         id: "mumbai",
         imageUrl: "/assets/destinations/Thumbnails/mumbai.webp",
         price: "$360",
-        link: `/${locale}/destinations/day-trips/mumbai-one-day-excursion`,
+        link: `/${locale}/destinations/day-trips/mumbai-day-trip-package`,
         popular: true,
       },
       {
@@ -56,7 +56,7 @@ const Signature = () => {
         id: "hampi",
         imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
         price: "$170",
-        link: `/${locale}/destinations/domestic/hampi-badami-heritage-tour-from-goa`,
+        link: `/${locale}/destinations/domestic/hampi-1n-2d-trip-package`,
         popular: false,
       },
     ];

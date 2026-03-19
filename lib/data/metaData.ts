@@ -90,7 +90,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "goa-luxury-retreat-serai-cabo": {
+  " cabo-serai-2n-3d-luxury-getaway": {
     meta: {
       duration: "2 Nights / 3 Days",
       rating: "5.0/5 Rating",
@@ -102,7 +102,7 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "dandeli-day-excursion": {
+  "dandeli-elephant-safari-day-trip-package": {
     meta: {
       duration: "1 Day",
       locations: 4,
@@ -127,7 +127,7 @@ export const metaData: Record<string, any> = {
       duration: "6 Days",
     },
   },
-  "dudhsagar-waterfal-excursion": {
+  "dudhsagar-spice-plantation-day-trip-package": {
     meta: {
       duration: "1 Day",
       locations: 3,
@@ -140,7 +140,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "gokarna-murdeshwar-day-excursion": {
+  "gokarna-murdeshwar-one-day-trip-package": {
     meta: {
       duration: "1 Day",
       locations: 5,
@@ -153,7 +153,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "hampi-badami-heritage-tour-from-goa": {
+  "hampi-1n-2d-trip-package": {
     meta: {
       duration: "2 Days",
       locations: 15,
@@ -192,25 +192,25 @@ export const metaData: Record<string, any> = {
       rating: "4.6/5 Rating",
     },
   },
-  "mumbai-one-day-excursion": {
+  "mumbai-day-trip-package": {
     meta: {
       duration: "Full Day",
       rating: "4.7/5 Rating",
     },
   },
-  "netravali-wildlife-day-excursion": {
+  "netravali-day-trip-package": {
     meta: {
       duration: "1 Day",
       locations: 5,
       rating: "4.7/5 Rating",
     },
   },
-  "south-goa-day-exursion": {
+  "south-goa-1-day-cultural-&-beach-tour-package": {
     meta: {
       duration: "Full Day (8:00 AM – 5:30 PM)",
     },
   },
-  "palolem-cola-beach-dolphin-tour": {
+  "south-goa-1-day-trip-package": {
     meta: {
       duration: "Full Day",
       rating: "4.9/5 Rating",
@@ -271,7 +271,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "shimoga-nature-tour-from-goa": {
+  "1n-2d-shimoga-trip-package": {
     meta: {
       duration: "1 Night / 2 Days",
       locations: 5,

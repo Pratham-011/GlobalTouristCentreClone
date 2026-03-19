@@ -1,5 +1,5 @@
 export const galleryData: Record<string, any> = {
-  "aurangabad-heritage-tour-from-goa": {
+  "aurangabad-1n-2d-trip-package": {
     gallery: [
       {
         title: "Ellora Caves",
@@ -444,7 +444,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "goa-luxury-retreat-serai-cabo": {
+  " cabo-serai-2n-3d-luxury-getaway": {
     gallery: [
       {
         title: "Luxury Cottage",
@@ -502,7 +502,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "dandeli-day-excursion": {
+  "dandeli-elephant-safari-day-trip-package": {
     gallery: [
       {
         title: "Dandeli Forests",
@@ -618,7 +618,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "dudhsagar-waterfal-excursion": {
+  "dudhsagar-spice-plantation-day-trip-package": {
     gallery: [
       {
         title: "Dudhsagar Falls",
@@ -671,7 +671,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "gokarna-murdeshwar-day-excursion": {
+  "gokarna-murdeshwar-one-day-trip-package": {
     gallery: [
       {
         title: "Gokarna Beaches",
@@ -729,7 +729,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "hampi-badami-heritage-tour-from-goa": {
+  "hampi-1n-2d-trip-package": {
     gallery: [
       {
         title: "Hampi Ruins",
@@ -927,7 +927,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "mumbai-one-day-excursion": {
+  "mumbai-day-trip-package": {
     gallery: [
       {
         title: "Gateway of India",
@@ -956,7 +956,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "netravali-wildlife-day-excursion": {
+  "netravali-day-trip-package": {
     gallery: [
       {
         title: "Netravali Waterfalls",
@@ -985,7 +985,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "south-goa-day-exursion": {
+  "south-goa-1-day-cultural-&-beach-tour-package": {
     gallery: [
       {
         title: "Old Goa Churches",
@@ -1014,7 +1014,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "palolem-cola-beach-dolphin-tour": {
+  "south-goa-1-day-trip-package": {
     gallery: [
       {
         title: "Cola Beach Blue Lagoon",
@@ -1328,7 +1328,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "shimoga-nature-tour-from-goa": {
+  "1n-2d-shimoga-trip-package": {
     gallery: [
       {
         title: "Yana Caves",
