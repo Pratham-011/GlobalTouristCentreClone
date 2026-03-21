@@ -12,7 +12,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "north-goa-day-excursion": {
+  "north-goa-english-tour": {
     meta: {
       duration: "Full Day",
       rating: "4.8/5 Rating",
@@ -205,7 +205,7 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "south-goa-1-day-cultural-&-beach-tour-package": {
+  "south-goa-1-day-cultural-and-beach-tour-package": {
     meta: {
       duration: "Full Day (8:00 AM – 5:30 PM)",
     },

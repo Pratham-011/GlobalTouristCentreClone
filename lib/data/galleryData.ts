@@ -86,7 +86,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "north-goa-day-excursion": {
+  "north-goa-english-tour": {
     gallery: [
       {
         title: "Calangute Beach",
@@ -985,7 +985,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "south-goa-1-day-cultural-&-beach-tour-package": {
+  "south-goa-1-day-cultural-and-beach-tour-package": {
     gallery: [
       {
         title: "Old Goa Churches",

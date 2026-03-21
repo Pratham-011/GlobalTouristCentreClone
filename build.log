@@ -1346,7 +1346,7 @@ Route (app)                                                      Size     First 
 ├   ├ /en/destinations/international
 ├   └ [+17 more paths]
 ├ ● /[locale]/destinations/[category]/[tour]                     8.75 kB         697 kB
-├   ├ /en/destinations/day-trips/south-goa-1-day-cultural-&-beach-tour-package
+├   ├ /en/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package
 ├   ├ /en/destinations/day-trips/south-goa-sightseeing-tour
 ├   ├ /en/destinations/day-trips/south-goa-sunset-cruise
 ├   └ [+332 more paths]
@@ -1422,7 +1422,7 @@ Route (app)                                                      Size     First 
 ├   ├ /destinations/international
 ├   └ /destinations/luxury
 ├ ● /destinations/[category]/[tour]                              8.65 kB         697 kB
-├   ├ /destinations/day-trips/south-goa-1-day-cultural-&-beach-tour-package
+├   ├ /destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package
 ├   ├ /destinations/day-trips/south-goa-sightseeing-tour
 ├   ├ /destinations/day-trips/south-goa-sunset-cruise
 ├   └ [+64 more paths]

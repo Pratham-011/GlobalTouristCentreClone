@@ -28,7 +28,7 @@ const Signature = () => {
         id: "all-goa",
         imageUrl: "/assets/destinations/Thumbnails/Goa3.webp",
         price: "$70",
-        link: `/destinations/day-trips/south-goa-1-day-cultural-&-beach-tour-package`,
+        link: `/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package`,
         popular: false,
       },
       {

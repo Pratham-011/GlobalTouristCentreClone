@@ -33,11 +33,11 @@ export const seoData = {
     duration: "2D/1N",
     category_match: true,
   },
-  "north-goa-day-excursion": {
+  "north-goa-english-tour": {
     google_drive_link:
       "https://drive.google.com/file/d/1EmKQMhsiVRNsnfZGz78VpIXf2d4pzZML/view?usp=drive_link",
     actual_url:
-      "https://globaltouristcentre.com/en/destinations/domestic-trips/north-goa-day-excursion",
+      "https://globaltouristcentre.com/en/destinations/domestic-trips/north-goa-english-tour",
     title: "North Goa day Tour Package – Beaches, Forts & Churches",
     meta_description:
       "Book a North Goa tour package covering Calangute, Baga, Anjuna, Aguada Fort, churches & flea markets with breakfast, transport & guide included.",
@@ -45,11 +45,11 @@ export const seoData = {
     duration: "1 Day",
     category_match: true,
   },
-  "south-goa-1-day-cultural-&-beach-tour-package": {
+  "south-goa-1-day-cultural-and-beach-tour-package": {
     google_drive_link:
       "https://drive.google.com/file/d/1BMm-PzyKjRjKuqQRdQ9PI8SXAKd6NY8B/view?usp=drive_link",
     actual_url:
-      "https://globaltouristcentre.com/en/destinations/domestic-trips/south-goa-1-day-cultural-&-beach-tour-package",
+      "https://globaltouristcentre.com/en/destinations/domestic-trips/south-goa-1-day-cultural-and-beach-tour-package",
     title: "South Goa Full Day Tour Package – Cultural Sightseeing Trip",
     meta_description:
       "Book the South Goa Full Day Tour Package with temples, Old Goa churches, Miramar Beach, Dona Paula viewpoint & Panjim market. Includes guide, transport & breakfast.",

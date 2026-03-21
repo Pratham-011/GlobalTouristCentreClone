@@ -92,13 +92,13 @@ export const en = {
     subtitle:
       "Share your details and we'll create the perfect itinerary for you",
     items: {
-      "south-goa-1-day-cultural-&-beach-tour-package": {
+      "south-goa-1-day-cultural-and-beach-tour-package": {
         title: "South Goa – Cultural Goa",
         duration: "1 Day",
         description:
           "Explore South Goa’s rich heritage with visits to Old Goa Churches, St. Augustine Tower, Shantadurga and Mangeshi Temples, Miramar, Colva and Dona Paula beaches, Panjim Market, and a Mandovi River dinner cruise.",
       },
-      "north-goa-day-excursion": {
+      "north-goa-english-tour": {
         title: "North Goa Sightseeing",
         duration: "1 Day",
         description:
@@ -1404,6 +1404,41 @@ export const en = {
     a5: "Yes, we can arrange comprehensive travel insurance to cover medical emergencies, trip cancellations, and other unforeseen circumstances.",
   },
   trips: {
+    "north-goa-english-tour": {
+      "title": "North Goa – Portuguese Goa",
+      "description": "Explore Calangute, Baga, and Anjuna beaches, Fort Aguada, Portuguese-era churches, and Vagator viewpoint on a full-day private tour.",
+      "duration": "Full Day"
+    },
+    "south-goa-sunset-cruise-tour": {
+      "title": "South Goa with Sunset Cruise",
+      "description": "Visit Miramar Beach, Dona Paula, Old Goa's UNESCO churches, Mangeshi and Shanta Durga temples, and enjoy a magical sunset cruise on the Mandovi River.",
+      "duration": "Full Day"
+    },
+    "south-goa-1-day-trip-package": {
+      "title": "Palolem Cola Full-Day Tour",
+      "description": "Experience island hopping, dolphin watching, Butterfly Beach, kayaking in Cola's Blue Lagoon, Agonda Beach, and Cabo de Rama Fort on a full-day private tour.",
+      "duration": "Full Day"
+    },
+    "south-goa-1-day-cultural-and-beach-tour-package": {
+      "title": "South Goa Cultural Tour",
+      "description": "Immerse yourself in Old Goa's UNESCO churches, Shanta Durga and Mangeshi temples, Miramar Beach, Dona Paula viewpoint, and Panjim market.",
+      "duration": "Full Day"
+    },
+    "one-day-south-goa-trip-package": {
+      "title": "South Goa Coastal Adventure",
+      "description": "Discover Palolem, Butterfly Beach, Cola Blue Lagoon kayaking, Cabo de Rama Fort, Galgibaga Turtle Beach, and a stunning sunset at Talpona.",
+      "duration": "1 Day"
+    },
+    "delhi-agra-1n-2d-trip-package": {
+      "title": "Delhi to Agra Tour",
+      "description": "Explore the iconic Taj Mahal at sunrise, Agra Fort, Baby Taj, and Mehtab Bagh on this unforgettable journey through Mughal heritage.",
+      "duration": "1 Night / 2 Days"
+    },
+    "wondrous-wildernest-trip-package": {
+      "title": "Wondrous Wildernest Trip",
+      "description": "Escape into nature with forest treks, sunset hikes, pottery sessions, henna art, and evening entertainment at Wildernest Nature Resort on full-board basis.",
+      "duration": "2 Nights / 3 Days"
+    },
     // Domestic Trips
     "kashmir-tour-package-from-goa": {
       title: "Exotic Kashmir",
@@ -1477,12 +1512,7 @@ export const en = {
         "Pristine beaches, coral reefs & marine life in Agatti, Thinnakara & Kalpitti islands with snorkeling and water sports.",
       duration: "3 Nights / 4 Days",
     },
-    "wondrous-wildernest-trip-package": {
-      title: "Wondrous Wilderness",
-      description:
-        "Immerse yourself in nature with forest treks, pottery sessions, mehendi art, and sunset views at this serene Goan nature resort.",
-      duration: "2 Nights / 3 Days",
-    },
+
 
     " cabo-serai-2n-3d-luxury-getaway": {
       title: "Secret Cabo Serai",
@@ -1677,24 +1707,9 @@ export const en = {
         "Spiritual journey visiting ancient Mahabaleshwar Temple in Gokarna and the magnificent Murdeshwar Temple with world's tallest Shiva statue.",
       duration: "1 Day",
     },
-    "south-goa-1-day-trip-package": {
-      title: "Palolem, Cola Beach - Dolphin Spotting",
-      description:
-        "Complete South Goa experience featuring dolphin spotting, 4-point boat tour, kayaking in blue lagoons, and historic Cabo de Rama Fort sunset.",
-      duration: "1 Day",
-    },
-    "south-goa-1-day-cultural-&-beach-tour-package": {
-      title: "South Goa Cultural & Coastal Tour",
-      description:
-        "Complete South Goa experience featuring UNESCO heritage sites in Old Goa, ancient temples, dolphin spotting, pristine beaches, and sunset at Cabo de Rama Fort with Mandovi River dinner cruise.",
-      duration: "1 Day",
-    },
-    "north-goa-day-excursion": {
-      title: "North Goa Sightseeing",
-      duration: "1 Day",
-      description:
-        "Experience the vibrant side of Goa with famous beaches like Baga, Calangute, and Anjuna, along with historic forts, flea markets, nightlife, and Portuguese-era churches.",
-    },
+
+
+
     "crocodile-sightseeing-trip": {
       title: "Crocodile Sightseeing Trip",
       duration: "Half Day",
@@ -1796,6 +1811,1298 @@ export const en = {
   },
 
   tourData: {
+    "wondrous-wildernest-trip-package": {
+      "file_name": "WONDROUS_WILDERNEST_2N3D_TRIP.pdf",
+      "page": {
+        "slug": "wondrous-wildernest-trip-package",
+        "type": "domestic-trip",
+        "hero": {
+          "title": "Wondrous Wildernest Trip",
+          "herotitle": "Wondrous Wildernest Trip",
+          "subtitle": "A magical 2-night, 3-day escape into the wilderness of Goa's nature resort",
+          "backgroundImage": "/assets/hero/wildernest-hero.webp",
+          "meta": {
+            "duration": "2 Nights / 3 Days",
+            "locations": "Wildernest Nature Resort, North Goa",
+            "rating": "4.9/5 Rating"
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "Wondrous Wildernest 2N/3D Trip – Global Tourist Centre",
+          "description": "Book a 2N/3D Wildernest Nature Resort trip from Goa. Includes forest treks, pottery, henna, sunset treks, entertainment, all meals, and hotel pick-up & drop-off."
+        }
+      },
+      "cta": {
+        "headline": "Ready for Your Wildernest Adventure?",
+        "description": "Book now and secure your spot for an unforgettable 2-night wilderness escape from Goa",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your Wondrous Wildernest 2N/3D Trip. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Duration",
+          "description": "2 Nights / 3 Days"
+        },
+        {
+          "title": "Pick-Up",
+          "description": "North Goa hotels (Arpora, Baga, Calangute, Candolim)"
+        },
+        {
+          "title": "Full Board",
+          "description": "All meals included"
+        },
+        {
+          "title": "Activities",
+          "description": "Treks, pottery, henna & entertainment"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "Day 1",
+          "title": "Arrival at Wildernest",
+          "description": "Pick-up at 9:30 AM from North Goa hotels (Arpora, Baga, Calangute, or Candolim). Alternative pick-up available from Panjim, Margao, Dabolim, or Tivim. Scenic drive to Wildernest Nature Resort (approx. 1 hr 45 mins).",
+          "category": "travel"
+        },
+        {
+          "time": "Day 1",
+          "title": "Check-in & Welcome",
+          "description": "Check-in at Wildernest Nature Resort with a welcome drink on arrival.",
+          "category": "arrival"
+        },
+        {
+          "time": "Afternoon – Day 1",
+          "title": "Buffet Lunch",
+          "description": "Enjoy a wholesome buffet lunch at the resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Afternoon – Day 1",
+          "title": "Pottery Session",
+          "description": "Hands-on pottery session at the resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Afternoon – Day 1",
+          "title": "Mehendi Art (Henna) for Ladies",
+          "description": "Traditional henna art session for ladies.",
+          "category": "activity"
+        },
+        {
+          "time": "Afternoon – Day 1",
+          "title": "Afternoon Tea / Snacks",
+          "description": "Refreshing afternoon tea and snacks.",
+          "category": "meal"
+        },
+        {
+          "time": "Evening – Day 1",
+          "title": "Sunset Trek",
+          "description": "Guided sunset trek through the nature trails of Wildernest.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Evening – Day 1",
+          "title": "Evening Entertainment",
+          "description": "Evening entertainment program at the resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Night – Day 1",
+          "title": "Buffet Dinner & Overnight Stay",
+          "description": "Buffet dinner followed by overnight stay at Wildernest Nature Resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Morning – Day 2",
+          "title": "Forest Trek",
+          "description": "Morning forest trek through the lush wilderness surrounding the resort.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Morning – Day 2",
+          "title": "Buffet Breakfast",
+          "description": "Buffet breakfast at the resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Afternoon – Day 2",
+          "title": "Buffet Lunch",
+          "description": "Buffet lunch at the resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Afternoon – Day 2",
+          "title": "Pottery Session",
+          "description": "Another hands-on pottery session at the resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Afternoon – Day 2",
+          "title": "Mehendi Art (Henna) for Ladies",
+          "description": "Traditional henna art session for ladies.",
+          "category": "activity"
+        },
+        {
+          "time": "Afternoon – Day 2",
+          "title": "Afternoon Tea / Snacks",
+          "description": "Refreshing afternoon tea and snacks.",
+          "category": "meal"
+        },
+        {
+          "time": "Evening – Day 2",
+          "title": "Sunset Trek",
+          "description": "Guided sunset trek through the nature trails of Wildernest.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Evening – Day 2",
+          "title": "Evening Entertainment",
+          "description": "Evening entertainment program at the resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Night – Day 2",
+          "title": "Buffet Dinner & Overnight Stay",
+          "description": "Buffet dinner followed by second overnight stay at Wildernest Nature Resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Morning – Day 3",
+          "title": "Forest Trek",
+          "description": "Morning forest trek before check-out.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Morning – Day 3",
+          "title": "Buffet Breakfast & Check-out",
+          "description": "Final buffet breakfast at the resort followed by check-out.",
+          "category": "meal"
+        },
+        {
+          "time": "Day 3",
+          "title": "Transfer Back",
+          "description": "Transfer back to your hotel or designated drop-off point.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [],
+      "inclusions": [
+        {
+          "title": "Accommodation",
+          "description": "2 nights' stay at Wildernest Nature Resort on a full-board basis (all meals included)."
+        },
+        {
+          "title": "All Meals",
+          "description": "Buffet breakfast, lunch, dinner, and afternoon tea/snacks throughout the trip."
+        },
+        {
+          "title": "Resort Activities",
+          "description": "All resort activities including forest treks, sunset treks, pottery sessions, and evening entertainment."
+        },
+        {
+          "title": "Mehendi Art",
+          "description": "Traditional henna art sessions for ladies."
+        },
+        {
+          "title": "Pick-up & Drop-off",
+          "description": "Pick-up and drop-off from your hotel or designated point (North Goa: Arpora, Baga, Calangute, Candolim; alternative: Panjim, Margao, Dabolim, Tivim)."
+        }
+      ],
+      "exclusions": [
+        {
+          "title": "Bar Drinks",
+          "description": "Drinks from the bar are not included and will be charged separately."
+        }
+      ]
+    },
+    "north-goa-english-tour": {
+      "file_name": "north-goa-english-tour.html",
+      "page": {
+        "slug": "North-Goa-English-tour",
+        "type": "day-trip",
+        "hero": {
+          "title": "North Goa – Portuguese Goa",
+          "herotitle": "North Goa – Portuguese Goa",
+          "subtitle": "Full Day tour exploring North Goa's beaches, forts, and Portuguese heritage",
+          "backgroundImage": "/assets/hero/Goa-1-hero.jpg",
+          "meta": {
+            "duration": "Full Day",
+            "locations": "North Goa",
+            "rating": "4.8/5 Rating"
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "North Goa – Portuguese Goa",
+          "description": "Book a full day North Goa tour covering Calangute, Baga, Anjuna beaches, Aguada Fort, and Portuguese churches with Russian-speaking guide."
+        }
+      },
+      "cta": {
+        "headline": "Ready to Explore North Goa?",
+        "description": "Book now and secure your spot for an unforgettable day exploring Portuguese Goa",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Small Groups",
+          "description": "Max 15 travelers"
+        },
+        {
+          "title": "Private Transport",
+          "description": "AC vehicles throughout"
+        },
+        {
+          "title": "Meals Included",
+          "description": "Breakfast included"
+        },
+        {
+          "title": "Iconic Locations",
+          "description": "All major attractions"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "8:00 AM",
+          "title": "Pick-Up from Hotel",
+          "description": "Begin your journey toward vibrant North Goa. Meet your Russian-speaking guide, who will brief you about the history and highlights of the region.",
+          "category": "arrival"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Breakfast Stop",
+          "description": "Enjoy a tasty breakfast at a local café before starting the sightseeing tour.",
+          "category": "meal"
+        },
+        {
+          "time": "9:30 AM",
+          "title": "Calangute Beach",
+          "description": "Start your day at Calangute, the \"Queen of Beaches,\" known for its golden sand, lively atmosphere, and beautiful sea views. Walk along the shoreline, beach photography.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Baga Beach",
+          "description": "Visit the most popular beach in Goa, famous for its energetic vibe.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Anjuna Beach & Flea Market",
+          "description": "Explore the iconic bohemian beach of Anjuna. Dramatic red cliffs and rocky coastline, Anjuna Flea Market (open on designated days), hippie-style shops and handicrafts.",
+          "category": "activity"
+        },
+        {
+          "time": "12:30 PM",
+          "title": "Aguada Fort",
+          "description": "Head to the 17th-century Portuguese Fort Aguada, overlooking the Arabian Sea. See the lighthouse point, stunning views of the coastline, and old Portuguese defense structures.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Portuguese-Era Churches",
+          "description": "Visit beautiful churches reflecting Goa's colonial heritage. Stops include St. Alex Church (Calangute) and Mae de Deus Church (Saligao). Guide will explain the history and cultural importance.",
+          "category": "activity"
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Vagator Beach Viewpoint",
+          "description": "A stunning viewpoint of North Goa's cliffs and waves. Iconic view of Vagator and nearby Portuguese fort ruins (Chapora viewpoint area).",
+          "category": "activity"
+        },
+        {
+          "time": "4:30 PM",
+          "title": "Shopping & Local Flea Market Visit",
+          "description": "Explore North Goa's colourful markets known for souvenirs, spices, jewelry, clothing, and handicrafts.",
+          "category": "exploration"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Return to Hotel",
+          "description": "Drive back after a fun-filled cultural and scenic tour of North Goa.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Calangute Beach",
+          "description": "Queen of Beaches",
+          "image": "/assets/destinations/Goa/Calangute-Beach.webp"
+        },
+        {
+          "title": "Aguada Fort",
+          "description": "17th-century Portuguese Fort",
+          "image": "../../assets/destinations/Goa/fort-aguada.webp"
+        },
+        {
+          "title": "Anjuna Beach",
+          "description": "Bohemian Beach & Flea Market",
+          "image": "../../assets/destinations/Goa/Anjuna-Beach.webp"
+        },
+        {
+          "title": "Portuguese Churches",
+          "description": "Colonial Heritage",
+          "image": "../../assets/destinations/Goa/Basilica of Bom Jesus.webp"
+        },
+        {
+          "title": "Vagator Viewpoint",
+          "description": "Stunning Cliff Views",
+          "image": "/assets/destinations/Goa/Vagator-Viewpoint.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transportation",
+          "description": "AC vehicle throughout the tour"
+        },
+        {
+          "title": "Breakfast",
+          "description": "Breakfast at a local café"
+        },
+        {
+          "title": "Entrance fees",
+          "description": "Entry fees to all mentioned attractions"
+        },
+        {
+          "title": "Russian-speaking guide",
+          "description": "Knowledgeable guide throughout the day"
+        },
+        {
+          "title": "Full Day Tour",
+          "description": "Start Time: 8:00 AM | Duration: Full Day"
+        }
+      ]
+    },
+
+    "south-goa-sunset-cruise-tour": {
+      "file_name": "south-goa-sunset-cruise-tour.html",
+      "page": {
+        "slug": "South-Goa-Sightseeing-Sunset-Cruise",
+        "type": "day-trip",
+        "hero": {
+          "title": "South Goa Sightseeing with Sunset Cruise",
+          "herotitle": "South Goa Sightseeing with Sunset Cruise",
+          "subtitle": "Full Day Trip (8:00 AM – 8:00 PM) with Sunset Cruise on Mandovi River",
+          "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
+          "meta": {
+            "duration": "Full Day Trip (08:00 – 20:00)",
+            "groupSize": "Minimum 5 persons",
+            "highlight": "Includes Sunset Cruise"
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "South Goa Sightseeing with Sunset Cruise",
+          "description": "Full day South Goa tour including beaches, viewpoints, UNESCO churches, temples, and a sunset cruise on Mandovi River."
+        }
+      },
+      "cta": {
+        "headline": "Experience Goa's Sunset Magic",
+        "description": "Book your full-day South Goa tour with a spectacular sunset cruise on the Mandovi River.",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in the South Goa Sightseeing with Sunset Cruise tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Duration",
+          "description": "Full Day (8:00 AM – 8:00 PM)"
+        },
+        {
+          "title": "Transport",
+          "description": "AC Transfers Included"
+        },
+        {
+          "title": "Breakfast",
+          "description": "Indian/Continental Breakfast"
+        },
+        {
+          "title": "Sunset Cruise",
+          "description": "Ticket Included"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "08:00 AM",
+          "title": "Pickup from Hotel",
+          "description": "Start your day with a comfortable pickup from your hotel in an air-conditioned vehicle.",
+          "category": "arrival"
+        },
+        {
+          "time": "08:30 AM",
+          "title": "Breakfast Stop",
+          "description": "Enjoy a delicious Indian or Continental breakfast at a local restaurant before beginning your sightseeing tour.",
+          "category": "meal"
+        },
+        {
+          "time": "09:30 AM",
+          "title": "Visit to Miramar Beach",
+          "description": "Your first stop is Miramar Beach, one of Panjim's most scenic coastal stretches where the Mandovi River meets the Arabian Sea. Take a short walk and enjoy the cool morning breeze.",
+          "category": "activity"
+        },
+        {
+          "time": "10:15 AM",
+          "title": "Dona Paula Viewpoint",
+          "description": "Proceed to Dona Paula, a famous romantic viewpoint offering stunning sea views and a glimpse of Mormugao Harbour. Capture beautiful photos from the cliffside.",
+          "category": "activity"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Visit to Old Goa Churches (UNESCO World Heritage Site)",
+          "description": "Explore the magnificent churches of Old Goa, including Basilica of Bom Jesus (housing the relics of St. Francis Xavier), Se Cathedral – one of the largest churches in Asia, and Church of St. Cajetan – inspired by St. Peter's Basilica in Rome.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "01:00 PM",
+          "title": "Lunch Break (Own Cost)",
+          "description": "Enjoy lunch at a riverside or Goan cuisine restaurant offering authentic seafood and local dishes.",
+          "category": "meal"
+        },
+        {
+          "time": "02:30 PM",
+          "title": "Visit to Mangueshi Temple",
+          "description": "Visit the Mangueshi Temple, dedicated to Lord Shiva — one of the oldest and most beautiful temples in Goa, known for its elegant architecture.",
+          "category": "activity"
+        },
+        {
+          "time": "03:30 PM",
+          "title": "Visit to Shanta Durga Temple",
+          "description": "Continue to Shanta Durga Temple, a serene and picturesque temple surrounded by lush greenery and peaceful surroundings.",
+          "category": "activity"
+        },
+        {
+          "time": "04:30 PM",
+          "title": "Visit to Spice Plantation (Optional)",
+          "description": "For those interested, visit a Goan spice plantation to learn about the cultivation of spices like cardamom, nutmeg, and black pepper with a short guided tour and refreshing herbal drink.",
+          "category": "activity"
+        },
+        {
+          "time": "06:00 PM",
+          "title": "Sunset Cruise on Mandovi River",
+          "description": "Head to Panjim Jetty to board the Sunset Cruise on the Mandovi River. Enjoy live Goan music, folk dance performances, and panoramic views of the sunset over the Arabian Sea.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "07:30 PM",
+          "title": "Return Transfer",
+          "description": "After the cruise, relax on your ride back to the hotel.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Sunset Cruise",
+          "description": "Mandovi River Experience",
+          "image": "/assets/destinations/Goa/Sunset-Cruise-Mandovi.webp"
+        },
+        {
+          "title": "Basilica of Bom Jesus",
+          "description": "UNESCO World Heritage",
+          "image": "/assets/destinations/Goa/Basilica-Bom-Jesus.webp"
+        },
+        {
+          "title": "Miramar Beach",
+          "description": "Panjim's Scenic Coast",
+          "image": "/assets/destinations/Goa/Miramar-Beach.webp"
+        },
+        {
+          "title": "Spice Plantation",
+          "description": "Goan Aromas",
+          "image": "/assets/destinations/Goa/Spice-Plantation.webp"
+        },
+        {
+          "title": "Dona Paula",
+          "description": "Romantic Viewpoint",
+          "image": "/assets/destinations/Goa/Dona-Paula-Viewpoint.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "AC Transfers",
+          "description": "Air-conditioned vehicle for hotel pickup, drop-off, and sightseeing."
+        },
+        {
+          "title": "Breakfast",
+          "description": "Indian or Continental breakfast at a local restaurant."
+        },
+        {
+          "title": "Sightseeing",
+          "description": "All sightseeing as per the itinerary."
+        },
+        {
+          "title": "Guide",
+          "description": "English or Russian speaking guide services."
+        },
+        {
+          "title": "Sunset Cruise Ticket",
+          "description": "Ticket for the Sunset Cruise on Mandovi River."
+        }
+      ],
+      "exclusions": [
+        {
+          "title": "Lunch & Dinner",
+          "description": "All meals other than included breakfast."
+        },
+        {
+          "title": "Optional Activities",
+          "description": "Spice plantation visit and any other optional activities."
+        },
+        {
+          "title": "Personal Expenses",
+          "description": "Shopping, souvenirs, and personal purchases."
+        },
+        {
+          "title": "Tips & Gratuities",
+          "description": "Tips for guide, driver, and cruise staff."
+        },
+        {
+          "title": "Travel Insurance",
+          "description": "Medical and travel insurance coverage."
+        }
+      ]
+    },
+
+    "south-goa-1-day-trip-package": {
+      "file_name": "South-Goa-1-Day-Trip-package.html",
+      "page": {
+        "slug": "South-Goa-1-Day-Trip-package",
+        "type": "day-trip",
+        "hero": {
+          "title": "Palolem Cola Full-Day Tour",
+          "herotitle": "Palolem Cola Full-Day Tour",
+          "subtitle": "Island hopping, dolphin watching, kayaking in Blue Lagoon & exploring South Goa's hidden gems",
+          "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
+          "meta": {
+            "duration": "Full Day",
+            "locations": "5+ Islands & Beaches",
+            "rating": "4.9/5 Rating",
+            "guide": "Russian Guide"
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "Palolem Cola Full-Day Tour: Dolphin Watching & Island Hopping",
+          "description": "Experience South Goa's best with dolphin watching, island hopping, Butterfly Beach, kayaking at Cola Lagoon, Agonda Beach & Cabo de Rama Fort on a full-day private tour."
+        }
+      },
+      "cta": {
+        "headline": "Ready for Your Island Hopping Adventure?",
+        "description": "Book now to explore South Goa's hidden islands, spot dolphins, and kayak in the Blue Lagoon",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Island Hopping",
+          "description": "Visit 4+ islands by boat"
+        },
+        {
+          "title": "Dolphin Watching",
+          "description": "Guaranteed dolphin sightings"
+        },
+        {
+          "title": "Kayaking",
+          "description": "In Cola Beach Blue Lagoon"
+        },
+        {
+          "title": "Russian Guide",
+          "description": "Russian-speaking guide included"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "8:00 AM",
+          "title": "Hotel Pickup",
+          "description": "Comfortable pickup from your hotel in a private vehicle",
+          "category": "arrival"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Breakfast Near Palolem",
+          "description": "Enjoy a delicious breakfast at a scenic café near Palolem Beach",
+          "category": "meal"
+        },
+        {
+          "time": "9:30 AM",
+          "title": "Palolem Boat Trip",
+          "description": "Board traditional Goan boat for island hopping tour",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "10:00 AM",
+          "title": "Dolphin Watching",
+          "description": "Spot playful dolphins jumping alongside your boat",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Butterfly Beach",
+          "description": "Visit serene hidden cove with clear waters and golden sand",
+          "category": "activity"
+        },
+        {
+          "time": "11:00 AM",
+          "title": "Monkey Island",
+          "description": "See unique rock formations and occasional monkeys",
+          "category": "activity"
+        },
+        {
+          "time": "11:15 AM",
+          "title": "Lovers' Island",
+          "description": "Pass by romantic island with crystal-blue waters",
+          "category": "activity"
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Cola Beach (Blue Lagoon)",
+          "description": "Arrive at stunning beach with river-lagoon meeting the sea",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "12:00 PM",
+          "title": "Kayaking in Blue Lagoon",
+          "description": "Enjoy kayaking in the calm fresh-water lagoon (included)",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Agonda Beach",
+          "description": "Visit one of South Goa's cleanest and most peaceful beaches",
+          "category": "activity"
+        },
+        {
+          "time": "2:30 PM",
+          "title": "Cabo de Rama Fort",
+          "description": "Explore one of Goa's oldest forts with stunning cliffside views",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "4:00 PM",
+          "title": "Coastal Boat Ride",
+          "description": "Scenic boat ride near fort's coastline with dolphin spotting",
+          "category": "activity"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Return Journey",
+          "description": "Begin relaxing drive back to your hotel",
+          "category": "travel"
+        },
+        {
+          "time": "6:30 PM",
+          "title": "Hotel Drop-off",
+          "description": "Arrive back at your hotel with unforgettable memories",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Cola Beach Blue Lagoon",
+          "description": "Fresh-water lagoon meeting the sea",
+          "image": "../../assets/destinations/South-goa/Blue-lagoon.webp"
+        },
+        {
+          "title": "Dolphin Watching",
+          "description": "Playful dolphins in Arabian Sea",
+          "image": "../../assets/destinations/South-goa/dolphin-watching.webp"
+        },
+        {
+          "title": "Island Hopping",
+          "description": "Traditional Goan boat tour",
+          "image": "../../assets/destinations/South-goa/island-hopping.webp"
+        },
+        {
+          "title": "Agonda Beach",
+          "description": "Clean and peaceful sandy stretch",
+          "image": "../../assets/destinations/South-goa/agonda-beach.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Private Transport",
+          "description": "AC vehicle with driver for the entire trip"
+        },
+        {
+          "title": "Breakfast",
+          "description": "Delicious breakfast at scenic café near Palolem"
+        },
+        {
+          "title": "Boat Trip",
+          "description": "Traditional Goan boat for island hopping tour"
+        },
+        {
+          "title": "Kayaking",
+          "description": "Kayaking equipment in Cola Beach Blue Lagoon"
+        },
+        {
+          "title": "Russian Guide",
+          "description": "Knowledgeable Russian-speaking guide"
+        },
+        {
+          "title": "All Entry Fees",
+          "description": "Entry fees to all mentioned attractions"
+        }
+      ]
+    },
+
+    "south-goa-1-day-cultural-and-beach-tour-package": {
+      "file_name": "South-Goa-1-Day-Cultural-and-Beach-Tour-package.html",
+      "page": {
+        "slug": "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
+        "type": "day-trip",
+        "hero": {
+          "title": "South Goa – Cultural Goa (Full-Day Tour)",
+          "herotitle": "South Goa – Cultural Goa",
+          "subtitle": "A full-day immersion into the rich history, architecture, and spiritual heritage of South Goa.",
+          "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
+          "meta": {
+            "duration": "Full Day (8:00 AM – 5:30 PM)",
+            "locations": "Old Goa, Temples, Beaches, Panjim",
+            "includes": "Transport, Breakfast, Guide, Entrances"
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "South Goa Day Tour: Heritage, Beaches & Dinner Cruise",
+          "description": "Explore South Goa's Old Goa churches, temples, pristine beaches, and enjoy a Mandovi River dinner cruise on a private 1-day tour from Camilsons Beach Resort."
+        }
+      },
+      "cta": {
+        "headline": "Book Your Cultural Goa Experience",
+        "description": "Secure your spot for a day of exploring UNESCO heritage sites, ancient temples, and scenic Goan beauty.",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Start Time",
+          "description": "8:00 AM"
+        },
+        {
+          "title": "Transportation",
+          "description": "Comfortable AC Vehicle"
+        },
+        {
+          "title": "Breakfast",
+          "description": "Included"
+        },
+        {
+          "title": "Guide",
+          "description": "Russian-Speaking Guide"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "8:00 AM",
+          "title": "Pick-Up from Hotel",
+          "description": "Begin your day with a comfortable drive to Old Goa. Meet your Russian-speaking guide, who will introduce you to the rich history and culture of Goa.",
+          "category": "arrival"
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Breakfast Stop",
+          "description": "Enjoy a wholesome breakfast en route before starting your cultural exploration.",
+          "category": "meal"
+        },
+        {
+          "time": "9:30 AM",
+          "title": "Old Goa Churches Tour",
+          "description": "Explore Old Goa, a UNESCO World Heritage Site. Stops include: St. Augustine's Tower, Basilica of Bom Jesus (home to the sacred relics of St. Francis Xavier), Se Cathedral (one of Asia's largest churches), and Church of St. Cajetan (inspired by St. Peter's Basilica in Rome).",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Temple Tour",
+          "description": "Visit three of Goa's most important temples: Shanta Durga Temple (dedicated to the goddess of peace and mediation), Mangeshi Temple (one of the oldest temples in Goa, dedicated to Lord Shiva), and Balaji Temple (inspired by the Tirupati Balaji shrine).",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Miramar Beach Visit",
+          "description": "Relax at Miramar Beach, located at the mouth of the Mandovi River with stunning views of the Arabian Sea.",
+          "category": "activity"
+        },
+        {
+          "time": "2:45 PM",
+          "title": "Dona Paula Viewpoint",
+          "description": "Visit the romantic and scenic Dona Paula viewpoint — famous for its panoramic ocean views and its iconic Jetty.",
+          "category": "activity"
+        },
+        {
+          "time": "4:30 PM",
+          "title": "Explore Panjim Market",
+          "description": "Visit Panjim's local market area for souvenirs, spices, cashews, handicrafts, and Goan delights.",
+          "category": "exploration"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Return to Hotel",
+          "description": "Relax as you drive back after a day filled with history, culture, and scenic beauty.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Old Goa Churches",
+          "description": "UNESCO Heritage Site",
+          "image": "../../assets/destinations/Goa/Basilica of Bom Jesus.webp"
+        },
+        {
+          "title": "Mangeshi Temple",
+          "description": "Lord Shiva's Abode",
+          "image": "../../assets/destinations/Goa/Mangeshi-Temple.webp"
+        },
+        {
+          "title": "Panjim Market",
+          "description": "Shopping & Local Culture",
+          "image": "../../assets/destinations/Goa/Panjim-Market.webp"
+        },
+        {
+          "title": "Se Cathedral",
+          "description": "Asia's Largest Church",
+          "image": "../../assets/destinations/Goa/Se-Cathedral.webp"
+        },
+        {
+          "title": "Shanta Durga Temple",
+          "description": "Serene & Peaceful",
+          "image": "../../assets/destinations/Goa/Shanta-Durga-Temple.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transportation",
+          "description": "Comfortable vehicle for the entire tour duration."
+        },
+        {
+          "title": "Breakfast",
+          "description": "Wholesome breakfast included en route."
+        },
+        {
+          "title": "Entrance Fees",
+          "description": "All monument and site entrance fees as per the itinerary."
+        },
+        {
+          "title": "Guide",
+          "description": "Services of a knowledgeable Russian-speaking guide."
+        }
+      ],
+      "exclusions": [
+        {
+          "title": "Lunch & Dinner",
+          "description": "Meals other than the included breakfast."
+        },
+        {
+          "title": "Personal Expenses",
+          "description": "Shopping, souvenirs, and personal purchases."
+        },
+        {
+          "title": "Tips & Gratuities",
+          "description": "Tips for guide, driver, and any service staff."
+        },
+        {
+          "title": "Travel Insurance",
+          "description": "Medical and travel insurance coverage."
+        }
+      ]
+    },
+    "one-day-south-goa-trip-package": {
+      "file_name": "One-Day-South-Goa-trip-package.html",
+      "page": {
+        "slug": "One-Day-South-Goa-trip-package",
+        "type": "day-trip",
+        "hero": {
+          "title": "South Goa Coastal Adventure",
+          "herotitle": "South Goa Coastal Adventure",
+          "subtitle": "Experience the pristine beaches and hidden gems of South Goa in one unforgettable day",
+          "backgroundImage": "/assets/hero/Goa-1-hero.webp",
+          "meta": {
+            "duration": "1 Day",
+            "locations": "6 Locations",
+            "rating": "4.9/5 Rating"
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "South Goa One-Day Tour for Foreign Travelers in India",
+          "description": "Explore South Goa in one day—Agonda, Palolem, Butterfly & Cola beaches, kayaking, Cabo de Rama Fort & sunset. Perfect for foreign travelers in India."
+        }
+      },
+      "cta": {
+        "headline": "Ready for Your South Goa Adventure?",
+        "description": "Book now and secure your spot for an unforgettable day exploring the best of South Goa",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your South Goa tour package. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Small Groups",
+          "description": "Max 8 travelers"
+        },
+        {
+          "title": "Private Transport",
+          "description": "AC Innova Crysta"
+        },
+        {
+          "title": "Breakfast Included",
+          "description": "Local cuisine"
+        },
+        {
+          "title": "Photo Stops",
+          "description": "Best viewpoints"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "9:00 AM",
+          "title": "Hotel Pickup",
+          "description": "Comfortable pickup from your hotel in Benaulim in a private AC Innova Crysta",
+          "category": "arrival"
+        },
+        {
+          "time": "9:30 AM",
+          "title": "Breakfast at Palolem",
+          "description": "Enjoy a delicious breakfast at Dropadi or Little World Café with beach views",
+          "category": "meal"
+        },
+        {
+          "time": "10:15 AM",
+          "title": "Boat Adventure",
+          "description": "4-point boat tour including dolphin spotting, Butterfly Beach, Monkey Island, and Lover's Island",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "11:45 AM",
+          "title": "Butterfly Beach",
+          "description": "Explore the secluded Butterfly Beach with its unique rock formations",
+          "category": "activity"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Cola Beach Kayaking",
+          "description": "Kayak through the stunning Blue Lagoon at Cola Beach",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "3:00 PM",
+          "title": "Lunch at Agonda",
+          "description": "Fresh seafood lunch at a beachside restaurant in Agonda",
+          "category": "meal"
+        },
+        {
+          "time": "4:15 PM",
+          "title": "Cabo de Rama Fort",
+          "description": "Visit the historic fort with panoramic views of the Arabian Sea",
+          "category": "activity"
+        },
+        {
+          "time": "5:30 PM",
+          "title": "Galgibaga Turtle Beach",
+          "description": "Visit the protected turtle nesting site at Galgibaga Beach",
+          "category": "activity"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Sunset at Talpona",
+          "description": "Witness breathtaking sunset views at Talpona River and Beach",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Return to Hotel",
+          "description": "Comfortable drop-off at your hotel in Benaulim",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Palolem Beach",
+          "description": "Morning breakfast spot",
+          "image": "/assets/destinations/South-goa/palolem-beach.webp"
+        },
+        {
+          "title": "Butterfly Beach",
+          "description": "Secluded paradise",
+          "image": "/assets/destinations/South-goa/butterfly-beach.webp"
+        },
+        {
+          "title": "Blue Lagoon",
+          "description": "Kayaking adventure",
+          "image": "/assets/destinations/South-goa/Blue-lagoon.webp"
+        },
+        {
+          "title": "Cabo de Rama Fort",
+          "description": "Historic viewpoint",
+          "image": "/assets/destinations/South-goa/cabo-de-rama.webp"
+        },
+        {
+          "title": "Talpona Sunset",
+          "description": "Evening spectacle",
+          "image": "/assets/destinations/South-goa/Talpona Sunset.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Private Transport",
+          "description": "AC Innova Crysta with experienced driver for the entire day"
+        },
+        {
+          "title": "Boat Tour",
+          "description": "4-point boat ride including dolphin spotting and island visits"
+        },
+        {
+          "title": "Kayaking",
+          "description": "Kayak rental and safety equipment at Cola Beach"
+        },
+        {
+          "title": "Breakfast",
+          "description": "Delicious breakfast at Palolem Beach café"
+        },
+        {
+          "title": "Photo Stops",
+          "description": "Plenty of time for photos at all scenic locations"
+        },
+        {
+          "title": "Tour Guide",
+          "description": "Knowledgeable English-speaking guide throughout the day"
+        }
+      ]
+    },
+
+    "delhi-agra-1n-2d-trip-package": {
+      "file_name": "Delhi-Agra-1N-2D-Trip-Package.html",
+      "page": {
+        "slug": "Delhi-Agra-1N-2D-Trip-Package",
+        "type": "domestic-trip",
+        "hero": {
+          "title": "Delhi to Agra Tour with Taj Mahal & Agra Fort",
+          "herotitle": "Delhi to Agra Tour",
+          "subtitle": "Experience the magic of the Taj Mahal and the Mughal architecture on this unforgettable journey",
+          "backgroundImage": "/assets/hero/Agra-hero.webp",
+          "meta": {
+            "duration": "2 Days",
+            "locations": "6+ Locations",
+            "rating": "4.9/5 Rating"
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "Delhi to Agra 1N/2D Tour with Taj Mahal & Agra Fort",
+          "description": "Book a 1N/2D Delhi to Agra tour. Explore the Taj Mahal, Agra Fort & Baby Taj with hotel stay, Russian guide, transfers & monument entry included."
+        }
+      },
+      "cta": {
+        "headline": "Ready for Your Agra Adventure?",
+        "description": "Book now and secure your spot for an unforgettable journey exploring the iconic Taj Mahal and Mughal heritage",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your Delhi to Agra tour package. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Small Groups",
+          "description": "Max 8 travelers"
+        },
+        {
+          "title": "Private Transport",
+          "description": "Comfortable AC vehicle"
+        },
+        {
+          "title": "Hotel Stay",
+          "description": "3-star accommodation"
+        },
+        {
+          "title": "Photo Stops",
+          "description": "Best viewpoints"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "Day 1",
+          "title": "Departure from Delhi",
+          "description": "Morning departure from Delhi for your journey to Agra via Yamuna Expressway",
+          "category": "travel"
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Arrival & Hotel Check-in",
+          "description": "Arrive in Agra and check into your 3-star hotel",
+          "category": "arrival"
+        },
+        {
+          "time": "11:30 AM",
+          "title": "Lunch",
+          "description": "Enjoy lunch at a local restaurant",
+          "category": "meal"
+        },
+        {
+          "time": "1:00 PM",
+          "title": "Agra Fort Exploration",
+          "description": "Visit the magnificent Agra Fort, a UNESCO World Heritage Site with stunning Mughal architecture",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "3:30 PM",
+          "title": "Baby Taj (Itimad-ud-Daulah)",
+          "description": "Visit this exquisite tomb often called the \"Jewel Box\" or \"Baby Taj\"",
+          "category": "activity"
+        },
+        {
+          "time": "5:00 PM",
+          "title": "Mehtab Bagh",
+          "description": "Visit this garden complex for stunning sunset views of the Taj Mahal across the Yamuna River",
+          "category": "activity"
+        },
+        {
+          "time": "7:00 PM",
+          "title": "Local Market Visit",
+          "description": "Explore local markets for marble inlay work, leather goods, and handicrafts",
+          "category": "exploration"
+        },
+        {
+          "time": "8:30 PM",
+          "title": "Night Stay in Agra",
+          "description": "Return to your hotel for overnight stay",
+          "category": "activity"
+        },
+        {
+          "time": "Day 2",
+          "title": "Morning & Breakfast",
+          "description": "Enjoy breakfast at the hotel and prepare for the day",
+          "category": "meal"
+        },
+        {
+          "time": "6:30 AM",
+          "title": "Taj Mahal at Sunrise",
+          "description": "Visit the iconic Taj Mahal at sunrise to witness its magical beauty in the soft morning light",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "9:00 AM",
+          "title": "Breakfast",
+          "description": "Enjoy breakfast at a restaurant with views of the Taj Mahal",
+          "category": "meal"
+        },
+        {
+          "time": "10:30 AM",
+          "title": "Departure for Delhi",
+          "description": "Begin your journey back to Delhi with unforgettable memories",
+          "category": "travel"
+        },
+        {
+          "time": "2:00 PM",
+          "title": "Arrival in Delhi",
+          "description": "Arrive back in Delhi, concluding your memorable Agra tour",
+          "category": "travel"
+        }
+      ],
+      gallery: [
+        {
+          "title": "Taj Mahal",
+          "description": "Symbol of love",
+          "image": "/assets/destinations/DelhitoAgra/TajMahal.webp"
+        },
+        {
+          "title": "Agra Fort",
+          "description": "Mughal architecture",
+          "image": "/assets/destinations/DelhitoAgra/AgraFort.webp"
+        },
+        {
+          "title": "Baby Taj",
+          "description": "Itimad-ud-Daulah",
+          "image": "/assets/destinations/DelhitoAgra/BabyTaj.webp"
+        },
+        {
+          "title": "Mehtab Bagh",
+          "description": "Taj Mahal view",
+          "image": "/assets/destinations/DelhitoAgra/MehtabBagh.webp"
+        },
+        {
+          "title": "Taj Mahal Sunrise",
+          "description": "Magical morning",
+          "image": "/assets/destinations/DelhitoAgra/TajMahalSunrise.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Private Transport",
+          "description": "Comfortable AC vehicle with experienced driver for the entire journey"
+        },
+        {
+          "title": "Hotel Stay",
+          "description": "3-star hotel accommodation in Agra on twin/triple sharing basis"
+        },
+        {
+          "title": "Entry Tickets",
+          "description": "Monument entry fees for Taj Mahal, Agra Fort, and other sites"
+        },
+        {
+          "title": "Breakfast",
+          "description": "Delicious breakfast at the hotel on day 2"
+        },
+        {
+          "title": "Photo Stops",
+          "description": "Plenty of time for photos at all scenic locations"
+        },
+        {
+          "title": "Tour Guide",
+          "description": "Knowledgeable English-speaking guide throughout the tour"
+        }
+      ]
+    },
     "aurangabad-1n-2d-trip-package": {
       "file_name": "2-Day-Aurangabad-Trip-Package.html",
       "page": {
@@ -2317,170 +3624,7 @@ export const en = {
         }
       ]
     },
-    "north-goa-day-excursion": {
-      "file_name": "north-goa-english-tour.html",
-      "page": {
-        "slug": "North-Goa-English-tour",
-        "type": "day-trip",
-        "hero": {
-          "title": "North Goa – Portuguese Goa",
-          "subtitle": "Full Day tour exploring North Goa's beaches, forts, and Portuguese heritage",
-          "backgroundImage": "/assets/hero/Goa-1-hero.jpg",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.8/5 Rating"
-          }
-        },
-        "language": "en",
-        "metadata": {
-          "title": "North Goa Day Excursion – Beaches, Culture & Sightseeing",
-          "description": "Enjoy a North Goa day excursion from Goa with iconic beaches, Fort Aguada views, lively markets & cultural sights — perfect for foreign travellers!."
-        }
-      },
-      "cta": {
-        "headline": "Ready to Explore North Goa?",
-        "description": "Book now and secure your spot for an unforgettable day exploring Portuguese Goa",
-        "contact": {
-          "whatsapp": {
-            "number": "+919067972295",
-            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
-          },
-          "phone": "+919067972295"
-        }
-      },
-      "quickInfo": [
-        {
-          "title": "Small Groups",
-          "description": "Max 15 travelers"
-        },
-        {
-          "title": "Private Transport",
-          "description": "AC vehicles throughout"
-        },
-        {
-          "title": "Meals Included",
-          "description": "Breakfast included"
-        },
-        {
-          "title": "Iconic Locations",
-          "description": "All major attractions"
-        }
-      ],
-      "itinerary": [
-        {
-          "time": "8:00 AM",
-          "title": "Pick-Up from Hotel",
-          "description": "Begin your journey toward vibrant North Goa with hotel pickup. Meet your Russian-speaking guide, who will brief you about the history, culture, and highlights of the region.",
-          "category": "travel"
-        },
-        {
-          "time": "9:00 AM",
-          "title": "Breakfast Stop",
-          "description": "Enjoy a tasty breakfast at a local café before starting the sightseeing tour.",
-          "category": "meal"
-        },
-        {
-          "time": "9:30 AM",
-          "title": "Calangute Beach",
-          "description": "Visit Calangute Beach, the ‘Queen of Beaches’, known for its golden sands, lively atmosphere, and beautiful sea views. Activities include a relaxed beach walk and photography along the shoreline.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "10:30 AM",
-          "title": "Baga Beach",
-          "description": "Stop at Baga Beach, one of the most popular beaches in Goa, famous for its energetic vibe, beach culture, and scenic coastline.",
-          "category": "exploration"
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Anjuna Beach & Flea Market",
-          "description": "Explore the iconic bohemian Anjuna Beach, known for dramatic red cliffs and rocky coastline. Visit the Anjuna Flea Market (open on designated days) and browse hippie-style shops and handicrafts.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "12:30 PM",
-          "title": "Aguada Fort",
-          "description": "Visit the 17th-century Portuguese Fort Aguada overlooking the Arabian Sea. Highlights include the lighthouse point, panoramic coastal views, and old Portuguese defense structures.",
-          "category": "exploration"
-        },
-        {
-          "time": "2:00 PM",
-          "title": "Portuguese-Era Churches",
-          "description": "Visit beautiful churches reflecting Goa’s colonial heritage. Stops may include St. Alex Church (Calangute), admired for its white façade and Goan-Baroque style, and Mae de Deus Church (Saligao), a gothic masterpiece set amidst greenery. Your guide explains the history and cultural significance.",
-          "category": "exploration"
-        },
-        {
-          "time": "3:30 PM",
-          "title": "Vagator Beach Viewpoint",
-          "description": "Enjoy a stunning viewpoint of North Goa’s cliffs and waves at Vagator. Take in the iconic scenery and nearby Portuguese fort ruins around the Chapora viewpoint area.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "4:30 PM",
-          "title": "Shopping & Local Flea Market Visit",
-          "description": "Explore North Goa’s colourful local markets, popular for souvenirs, spices, jewelry, clothing, and handicrafts.",
-          "category": "exploration"
-        },
-        {
-          "time": "5:30 PM",
-          "title": "Return to Hotel",
-          "description": "Drive back to your hotel after a fun-filled cultural and scenic tour of North Goa.",
-          "category": "travel"
-        }
-      ],
-      "gallery": [
-        {
-          "title": "Calangute Beach",
-          "description": "Queen of Beaches",
-          "image": "/assets/destinations/Goa/Calangute-Beach.webp"
-        },
-        {
-          "title": "Aguada Fort",
-          "description": "17th-century Portuguese Fort",
-          "image": "../../assets/destinations/Goa/fort-aguada.webp"
-        },
-        {
-          "title": "Anjuna Beach",
-          "description": "Bohemian Beach & Flea Market",
-          "image": "../../assets/destinations/Goa/Anjuna-Beach.webp"
-        },
-        {
-          "title": "Portuguese Churches",
-          "description": "Colonial Heritage",
-          "image": "../../assets/destinations/Goa/Basilica of Bom Jesus.webp"
-        },
-        {
-          "title": "Vagator Viewpoint",
-          "description": "Stunning Cliff Views",
-          "image": "/assets/destinations/Goa/Vagator-Viewpoint.webp"
-        }
-      ],
-      "inclusions": [
-        {
-          "title": "Transportation",
-          "description": ""
-        },
-        {
-          "title": "Breakfast",
-          "description": ""
-        },
-        {
-          "title": "Entrance fees",
-          "description": ""
-        },
-        {
-          "title": "Russian-speaking guide",
-          "description": ""
-        },
-        {
-          "title": "Full Day Tour",
-          "description": "Start Time: 8:00 AM"
-        }
-      ]
-    },
+
     "3N-4D-thailand-tour-package": {
       "file_name": "3N-4D-thailand-tour-package.html",
       "page": {
@@ -7369,341 +8513,195 @@ export const en = {
         }
       ]
     },
-    "south-goa-1-day-cultural-&-beach-tour-package": {
-      "file_name": "South-Goa-1-Day-Cultural-and-Beach-Tour-package.html",
-      "page": {
-        "slug": "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
-        "type": "day-trip",
-        "hero": {
-          "title": "South Goa – Cultural Goa (Full-Day Tour)",
-          "subtitle": "A full-day immersion into the rich history, architecture, and spiritual heritage of South Goa.",
-          "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
-          "meta": {
-            "duration": "Full Day (8:00 AM – 5:30 PM)"
-          }
-        },
-        "language": "en",
-        "metadata": {
-          "title": "South Goa Day Excursion – Beaches, Culture & Sightseeing",
-          "description": "South Goa on a day excursion with pristine beaches, historic temples, scenic views & local culture. Perfect full-day tour from Goa for travelers!"
-        }
-      },
-      "cta": {
-        "headline": "Book Your Cultural Goa Experience",
-        "description": "Secure your spot for a day of exploring UNESCO heritage sites, ancient temples, and scenic Goan beauty.",
-        "contact": {
-          "whatsapp": {
-            "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
-          },
-          "phone": "+919067972295"
-        }
-      },
-      "quickInfo": [
-        {
-          "title": "Start Time",
-          "description": "8:00 AM"
-        },
-        {
-          "title": "Transportation",
-          "description": "Comfortable AC Vehicle"
-        },
-        {
-          "title": "Breakfast",
-          "description": "Included"
-        },
-        {
-          "title": "Guide",
-          "description": "Russian-Speaking Guide"
-        }
-      ],
-      "itinerary": [
-        {
-          "time": "8:00 AM",
-          "title": "Pick-Up from Hotel",
-          "description": "Begin your day with a comfortable drive to Old Goa. Meet your Russian-speaking guide, who introduces you to the rich history and culture of Goa.",
-          "category": "travel"
-        },
-        {
-          "time": "9:00 AM",
-          "title": "Breakfast Stop",
-          "description": "Enjoy a wholesome breakfast en route before starting your cultural exploration.",
-          "category": "meal"
-        },
-        {
-          "time": "9:30 AM",
-          "title": "Old Goa Churches Tour",
-          "description": "Explore Old Goa, a UNESCO World Heritage Site famous for its colonial architecture. Visit St. Augustine’s Tower, Basilica of Bom Jesus (relics of St. Francis Xavier), Se Cathedral (dedicated to St. Catherine), and the Church of St. Cajetan inspired by St. Peter’s Basilica in Rome. The guide explains the historical significance of each monument.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Temple Tour",
-          "description": "Experience Goa’s spiritual heritage by visiting Shanta Durga Temple (goddess of peace), Mangeshi Temple (one of Goa’s oldest Shiva temples), and Balaji Temple inspired by the Tirupati Balaji shrine, set amidst peaceful greenery.",
-          "category": "exploration"
-        },
-        {
-          "time": "2:00 PM",
-          "title": "Miramar Beach Visit",
-          "description": "Relax at Miramar Beach, located at the mouth of the Mandovi River, offering beautiful views of the Arabian Sea.",
-          "category": "exploration"
-        },
-        {
-          "time": "2:45 PM",
-          "title": "Dona Paula Viewpoint",
-          "description": "Visit the scenic and romantic Dona Paula viewpoint, famous for panoramic ocean views and its iconic jetty.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "4:30 PM",
-          "title": "Explore Panjim Market",
-          "description": "Visit Panjim’s local market area to shop for souvenirs, spices, cashews, handicrafts, and Goan delights.",
-          "category": "exploration"
-        },
-        {
-          "time": "5:30 PM",
-          "title": "Return to Hotel",
-          "description": "Relax as you drive back to your hotel after a day filled with history, culture, and scenic beauty.",
-          "category": "travel"
-        }
-      ],
-      "gallery": [
-        {
-          "title": "Old Goa Churches",
-          "description": "UNESCO Heritage Site",
-          "image": "../../assets/destinations/Goa/Basilica of Bom Jesus.webp"
-        },
-        {
-          "title": "Mangeshi Temple",
-          "description": "Lord Shiva's Abode",
-          "image": "../../assets/destinations/Goa/Mangeshi-Temple.webp"
-        },
-        {
-          "title": "Panjim Market",
-          "description": "Shopping & Local Culture",
-          "image": "../../assets/destinations/Goa/Panjim-Market.webp"
-        },
-        {
-          "title": "Se Cathedral",
-          "description": "Asia's Largest Church",
-          "image": "../../assets/destinations/Goa/Se-Cathedral.webp"
-        },
-        {
-          "title": "Shanta Durga Temple",
-          "description": "Serene & Peaceful",
-          "image": "../../assets/destinations/Goa/Shanta-Durga-Temple.webp"
-        }
-      ],
-      "inclusions": [
-        {
-          "title": "Transportation",
-          "description": "Comfortable vehicle for the entire tour duration."
-        },
-        {
-          "title": "Breakfast",
-          "description": "Wholesome breakfast included en route."
-        },
-        {
-          "title": "Entrance Fees",
-          "description": "All monument and site entrance fees as per the itinerary."
-        },
-        {
-          "title": "Guide",
-          "description": "Services of a knowledgeable Russian-speaking guide."
-        }
-      ]
-    },
-    "south-goa-1-day-trip-package": {
-      "file_name": "South-Goa-1-Day-Trip-package.html",
-      "page": {
-        "slug": "palolem-cola-full-day-tour",
-        "type": "day-trip",
-        "hero": {
-          "title": "Palolem Cola Full-Day Tour",
-          "subtitle": "Island hopping, dolphin watching, kayaking in Blue Lagoon & exploring South Goa's hidden gems",
-          "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.9/5 Rating"
-          }
-        },
-        "language": "en",
-        "metadata": {
-          "title": "Palolem Cola Full-Day Tour: Dolphin Watching & Island Hopping",
-          "description": "Experience South Goa's best with dolphin watching, island hopping, Butterfly Beach, kayaking at Cola Lagoon, Agonda Beach & Cabo de Rama Fort on a full-day private tour."
-        }
-      },
-      "cta": {
-        "headline": "Ready for Your Island Hopping Adventure?",
-        "description": "Book now to explore South Goa's hidden islands, spot dolphins, and kayak in the Blue Lagoon",
-        "contact": {
-          "whatsapp": {
-            "number": "+919067972295",
-            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
-          },
-          "phone": "+919067972295"
-        }
-      },
-      "quickInfo": [
-        {
-          "title": "Island Hopping",
-          "description": "Visit 4+ islands by boat"
-        },
-        {
-          "title": "Dolphin Watching",
-          "description": "Guaranteed dolphin sightings"
-        },
-        {
-          "title": "Kayaking",
-          "description": "In Cola Beach Blue Lagoon"
-        },
-        {
-          "title": "Russian Guide",
-          "description": "Russian-speaking guide included"
-        }
-      ],
-      "itinerary": [
-        {
-          "time": "8:00 AM",
-          "title": "Hotel Pickup",
-          "description": "Comfortable pickup from your hotel in a private vehicle",
-          "category": "activity"
-        },
-        {
-          "time": "9:00 AM",
-          "title": "Breakfast Near Palolem",
-          "description": "Enjoy a delicious breakfast at a scenic café near Palolem Beach",
-          "category": "meal"
-        },
-        {
-          "time": "9:30 AM",
-          "title": "Palolem Boat Trip",
-          "description": "Board traditional Goan boat for island hopping tour",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "10:00 AM",
-          "title": "Dolphin Watching",
-          "description": "Spot playful dolphins jumping alongside your boat",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "10:30 AM",
-          "title": "Butterfly Beach",
-          "description": "Visit serene hidden cove with clear waters and golden sand",
-          "category": "activity"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "Monkey Island",
-          "description": "See unique rock formations and occasional monkeys",
-          "category": "activity"
-        },
-        {
-          "time": "11:15 AM",
-          "title": "Lovers' Island",
-          "description": "Pass by romantic island with crystal-blue waters",
-          "category": "activity"
-        },
-        {
-          "time": "11:30 AM",
-          "title": "Cola Beach (Blue Lagoon)",
-          "description": "Arrive at stunning beach with river-lagoon meeting the sea",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "12:00 PM",
-          "title": "Kayaking in Blue Lagoon",
-          "description": "Enjoy kayaking in the calm fresh-water lagoon (included)",
-          "category": "adventure",
-          "highlight": true
-        },
-        {
-          "time": "1:00 PM",
-          "title": "Agonda Beach",
-          "description": "Visit one of South Goa's cleanest and most peaceful beaches",
-          "category": "activity"
-        },
-        {
-          "time": "2:30 PM",
-          "title": "Cabo de Rama Fort",
-          "description": "Explore one of Goa's oldest forts with stunning cliffside views",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "4:00 PM",
-          "title": "Coastal Boat Ride",
-          "description": "Scenic boat ride near fort's coastline with dolphin spotting",
-          "category": "activity"
-        },
-        {
-          "time": "5:00 PM",
-          "title": "Return Journey",
-          "description": "Begin relaxing drive back to your hotel",
-          "category": "activity"
-        },
-        {
-          "time": "6:30 PM",
-          "title": "Hotel Drop-off",
-          "description": "Arrive back at your hotel with unforgettable memories",
-          "category": "activity"
-        }
-      ],
-      "gallery": [
-        {
-          "title": "Cola Beach Blue Lagoon",
-          "description": "Fresh-water lagoon meeting the sea",
-          "image": "../../assets/destinations/South-goa/Blue-lagoon.webp"
-        },
-        {
-          "title": "Dolphin Watching",
-          "description": "Playful dolphins in Arabian Sea",
-          "image": "../../assets/destinations/South-goa/dolphin-watching.webp"
-        },
-        {
-          "title": "Island Hopping",
-          "description": "Traditional Goan boat tour",
-          "image": "../../assets/destinations/South-goa/island-hopping.webp"
-        },
-        {
-          "title": "Agonda Beach",
-          "description": "Clean and peaceful sandy stretch",
-          "image": "../../assets/destinations/South-goa/agonda-beach.webp"
-        }
-      ],
-      "inclusions": [
-        {
-          "title": "Private Transport",
-          "description": "AC vehicle with driver for the entire trip"
-        },
-        {
-          "title": "Breakfast",
-          "description": "Delicious breakfast at scenic café near Palolem"
-        },
-        {
-          "title": "Boat Trip",
-          "description": "Traditional Goan boat for island hopping tour"
-        },
-        {
-          "title": "Kayaking",
-          "description": "Kayaking equipment in Cola Beach Blue Lagoon"
-        },
-        {
-          "title": "Russian Guide",
-          "description": "Knowledgeable Russian-speaking guide"
-        },
-        {
-          "title": "All Entry Fees",
-          "description": "Entry fees to all mentioned attractions"
-        }
-      ]
-    },
+
+    //   "file_name": "South-Goa-1-Day-Trip-package.html",
+    //   "page": {
+    //     "slug": "palolem-cola-full-day-tour",
+    //     "type": "day-trip",
+    //     "hero": {
+    //       "title": "Palolem Cola Full-Day Tour",
+    //       "subtitle": "Island hopping, dolphin watching, kayaking in Blue Lagoon & exploring South Goa's hidden gems",
+    //       "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
+    //       "meta": {
+    //         "duration": "Full Day",
+    //         "rating": "4.9/5 Rating"
+    //       }
+    //     },
+    //     "language": "en",
+    //     "metadata": {
+    //       "title": "Palolem Cola Full-Day Tour: Dolphin Watching & Island Hopping",
+    //       "description": "Experience South Goa's best with dolphin watching, island hopping, Butterfly Beach, kayaking at Cola Lagoon, Agonda Beach & Cabo de Rama Fort on a full-day private tour."
+    //     }
+    //   },
+    //   "cta": {
+    //     "headline": "Ready for Your Island Hopping Adventure?",
+    //     "description": "Book now to explore South Goa's hidden islands, spot dolphins, and kayak in the Blue Lagoon",
+    //     "contact": {
+    //       "whatsapp": {
+    //         "number": "+919067972295",
+    //         "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+    //       },
+    //       "phone": "+919067972295"
+    //     }
+    //   },
+    //   "quickInfo": [
+    //     {
+    //       "title": "Island Hopping",
+    //       "description": "Visit 4+ islands by boat"
+    //     },
+    //     {
+    //       "title": "Dolphin Watching",
+    //       "description": "Guaranteed dolphin sightings"
+    //     },
+    //     {
+    //       "title": "Kayaking",
+    //       "description": "In Cola Beach Blue Lagoon"
+    //     },
+    //     {
+    //       "title": "Russian Guide",
+    //       "description": "Russian-speaking guide included"
+    //     }
+    //   ],
+    //   "itinerary": [
+    //     {
+    //       "time": "8:00 AM",
+    //       "title": "Hotel Pickup",
+    //       "description": "Comfortable pickup from your hotel in a private vehicle",
+    //       "category": "activity"
+    //     },
+    //     {
+    //       "time": "9:00 AM",
+    //       "title": "Breakfast Near Palolem",
+    //       "description": "Enjoy a delicious breakfast at a scenic café near Palolem Beach",
+    //       "category": "meal"
+    //     },
+    //     {
+    //       "time": "9:30 AM",
+    //       "title": "Palolem Boat Trip",
+    //       "description": "Board traditional Goan boat for island hopping tour",
+    //       "category": "activity",
+    //       "highlight": true
+    //     },
+    //     {
+    //       "time": "10:00 AM",
+    //       "title": "Dolphin Watching",
+    //       "description": "Spot playful dolphins jumping alongside your boat",
+    //       "category": "activity",
+    //       "highlight": true
+    //     },
+    //     {
+    //       "time": "10:30 AM",
+    //       "title": "Butterfly Beach",
+    //       "description": "Visit serene hidden cove with clear waters and golden sand",
+    //       "category": "activity"
+    //     },
+    //     {
+    //       "time": "11:00 AM",
+    //       "title": "Monkey Island",
+    //       "description": "See unique rock formations and occasional monkeys",
+    //       "category": "activity"
+    //     },
+    //     {
+    //       "time": "11:15 AM",
+    //       "title": "Lovers' Island",
+    //       "description": "Pass by romantic island with crystal-blue waters",
+    //       "category": "activity"
+    //     },
+    //     {
+    //       "time": "11:30 AM",
+    //       "title": "Cola Beach (Blue Lagoon)",
+    //       "description": "Arrive at stunning beach with river-lagoon meeting the sea",
+    //       "category": "activity",
+    //       "highlight": true
+    //     },
+    //     {
+    //       "time": "12:00 PM",
+    //       "title": "Kayaking in Blue Lagoon",
+    //       "description": "Enjoy kayaking in the calm fresh-water lagoon (included)",
+    //       "category": "adventure",
+    //       "highlight": true
+    //     },
+    //     {
+    //       "time": "1:00 PM",
+    //       "title": "Agonda Beach",
+    //       "description": "Visit one of South Goa's cleanest and most peaceful beaches",
+    //       "category": "activity"
+    //     },
+    //     {
+    //       "time": "2:30 PM",
+    //       "title": "Cabo de Rama Fort",
+    //       "description": "Explore one of Goa's oldest forts with stunning cliffside views",
+    //       "category": "activity",
+    //       "highlight": true
+    //     },
+    //     {
+    //       "time": "4:00 PM",
+    //       "title": "Coastal Boat Ride",
+    //       "description": "Scenic boat ride near fort's coastline with dolphin spotting",
+    //       "category": "activity"
+    //     },
+    //     {
+    //       "time": "5:00 PM",
+    //       "title": "Return Journey",
+    //       "description": "Begin relaxing drive back to your hotel",
+    //       "category": "activity"
+    //     },
+    //     {
+    //       "time": "6:30 PM",
+    //       "title": "Hotel Drop-off",
+    //       "description": "Arrive back at your hotel with unforgettable memories",
+    //       "category": "activity"
+    //     }
+    //   ],
+    //   "gallery": [
+    //     {
+    //       "title": "Cola Beach Blue Lagoon",
+    //       "description": "Fresh-water lagoon meeting the sea",
+    //       "image": "../../assets/destinations/South-goa/Blue-lagoon.webp"
+    //     },
+    //     {
+    //       "title": "Dolphin Watching",
+    //       "description": "Playful dolphins in Arabian Sea",
+    //       "image": "../../assets/destinations/South-goa/dolphin-watching.webp"
+    //     },
+    //     {
+    //       "title": "Island Hopping",
+    //       "description": "Traditional Goan boat tour",
+    //       "image": "../../assets/destinations/South-goa/island-hopping.webp"
+    //     },
+    //     {
+    //       "title": "Agonda Beach",
+    //       "description": "Clean and peaceful sandy stretch",
+    //       "image": "../../assets/destinations/South-goa/agonda-beach.webp"
+    //     }
+    //   ],
+    //   "inclusions": [
+    //     {
+    //       "title": "Private Transport",
+    //       "description": "AC vehicle with driver for the entire trip"
+    //     },
+    //     {
+    //       "title": "Breakfast",
+    //       "description": "Delicious breakfast at scenic café near Palolem"
+    //     },
+    //     {
+    //       "title": "Boat Trip",
+    //       "description": "Traditional Goan boat for island hopping tour"
+    //     },
+    //     {
+    //       "title": "Kayaking",
+    //       "description": "Kayaking equipment in Cola Beach Blue Lagoon"
+    //     },
+    //     {
+    //       "title": "Russian Guide",
+    //       "description": "Knowledgeable Russian-speaking guide"
+    //     },
+    //     {
+    //       "title": "All Entry Fees",
+    //       "description": "Entry fees to all mentioned attractions"
+    //     }
+    //   ]
+    // },
     "bijapur-heritage-tour-from-goa": {
       "file_name": "bijapur-heritage-tour-from-goa-from-goa.html",
       "page": {

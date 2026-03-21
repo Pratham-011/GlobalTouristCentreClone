@@ -25,13 +25,13 @@ const travelCollections: TravelCollection[] = [
   /* ================= DAY TRIPS ================= */
 
   {
-    id: "south-goa-1-day-cultural-&-beach-tour-package",
-    href: "/destinations/day-trips/south-goa-1-day-cultural-&-beach-tour-package", // matches day-south-goa-cultural-007.slug
+    id: "south-goa-1-day-cultural-and-beach-tour-package",
+    href: "/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package", // matches day-south-goa-cultural-007.slug
     imageUrl: "/assets/destinations/Goa/basilica-bom-jesus.webp",
   },
   {
-    id: "north-goa-day-excursion",
-    href: "/destinations/day-trips/north-goa-day-excursion", // matches day-north-goa-009.slug
+    id: "north-goa-english-tour",
+    href: "/destinations/day-trips/north-goa-english-tour", // matches day-north-goa-009.slug
     imageUrl: "/assets/destinations/Thumbnails/NorthGoa.webp",
   },
   {

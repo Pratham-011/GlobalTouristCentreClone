@@ -41,7 +41,7 @@ export default function TourClient({ tourId }: TourClientProps) {
 
 
   const { page, cta, quickInfo, itinerary, inclusions, gallery } = data;
-
+   console.log(gallery);
   return (
     <main className="bg-white">
       {/* ======================================================

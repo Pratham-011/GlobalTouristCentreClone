@@ -2,28 +2,33 @@ export const LOCALES = ["en", "fr", "it", "de", "ru"] as const;
 
 export const TOUR_CATEGORIES = {
   "day-trips": [
-    "south-goa-1-day-cultural-&-beach-tour-package", // verified
-    "south-goa-sightseeing-tour", // verified // peresnt in en.ts
+    "south-goa-1-day-cultural-and-beach-tour-package", // verified
+    // "south-goa-sightseeing-tour", // verified // peresnt in en.ts
     "south-goa-sunset-cruise", // verified // peresnt in en.ts
-    "goa-one-day-sightseeing-tour", // verified // peresnt in en.ts
+    // "goa-one-day-sightseeing-tour", // verified // peresnt in en.ts
     "dudhsagar-spice-plantation-day-trip-package", // verified
     "south-goa-1-day-trip-package", // verified
-    "north-goa-day-excursion", // verified
-    "goa-sightseeing-tour", // verified //prent in en.ts
-    //"crocodile-sightseeing-trip", // temporarily removed (used in home)
+    "one-day-south-goa-trip-package",
+    "north-goa-english-tour", // verified
+    // "goa-sightseeing-tour", // verified //prent in en.ts
+    "hampi-1n-2d-trip-package", // verified
     "luxury-yacht-day-tour-goa", // verified
-    // "grand-island-water-sports", // temporarily removed (used in home)
     "gokarna-murdeshwar-one-day-trip-package", // verified
     "dandeli-elephant-safari-day-trip-package",
     "netravali-day-trip-package", //verified
     "mumbai-day-trip-package", // verified
+    "aurangabad-1n-2d-trip-package", // verified
+    "delhi-agra-1n-2d-trip-package",
+    "cabo-serai-2n-3d-luxury-getaway",
+    "1n-2d-shimoga-trip-package",
+    "wondrous-wildernest-trip-package",
   ],
 
   domestic: [
-    " cabo-serai-2n-3d-luxury-getaway", // verified
+ // verified
     "goa-sightseeing-tour", // verified //prent in en.ts
     // "mysore-ooty-tour", // temporarily removed (used in home)
-    "aurangabad-1n-2d-trip-package", // verified
+
     // "taj-mahal-tour", // temporarily removed (used in home)
     "kerala-tour-package-from-goa", // verified
     "dandeli-2-day-tour-from-goa", // verified
@@ -40,9 +45,8 @@ export const TOUR_CATEGORIES = {
     "sikkim-darjeeling-gangtok-tour-from-goa", // verified
     "lakshadweep-islands-tour-from-goa", // verified
     "andaman-islands-tour-from-goa", // verified
-    "wondrous-wildernest-trip-package",
-    "hampi-1n-2d-trip-package", // verified
-    "1n-2d-shimoga-trip-package", // verified
+    
+ // verified
     "ajanta-ellora-caves-tour-from-goa", // verified
     // "ladakh-tour-package-from-goa",
     "varanasi-tour-package-from-goa", // verified

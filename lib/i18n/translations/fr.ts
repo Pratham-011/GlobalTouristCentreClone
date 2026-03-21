@@ -92,13 +92,13 @@ export const fr = {
     subtitle:
       "Partagez vos informations et nous créerons l’itinéraire parfait pour vous.",
     items: {
-      "south-goa-1-day-cultural-&-beach-tour-package": {
+      "south-goa-1-day-cultural-and-beach-tour-package": {
         title: "Sud de Goa – Goa Culturel",
         duration: "1 jour",
         description:
           "Découvrez le riche patrimoine du sud de Goa avec les églises du Vieux Goa, la tour Saint-Augustin, les temples Shantadurga et Mangeshi, les plages de Miramar, Colva et Dona Paula, le marché de Panjim et une croisière-dîner sur la rivière Mandovi.",
       },
-      "north-goa-day-excursion": {
+      "north-goa-english-tour": {
         title: "Visite du Nord de Goa",
         duration: "1 jour",
         description:
@@ -1386,6 +1386,41 @@ export const fr = {
     a5: "Oui, nous pouvons organiser une assurance voyage complète.",
   },
   trips: {
+    "north-goa-english-tour": {
+      "title": "Goa du Nord – Goa Portugaise",
+      "description": "Explorez les plages de Calangute, Baga et Anjuna, le Fort Aguada, les églises de l'époque portugaise et le belvédère de Vagator lors d'un tour privé d'une journée entière.",
+      "duration": "Journée entière"
+    },
+    "south-goa-sunset-cruise-tour": {
+      "title": "Goa du Sud avec Croisière au Coucher du Soleil",
+      "description": "Visitez Miramar Beach, Dona Paula, les églises UNESCO de Old Goa, les temples Mangueshi et Shanta Durga et profitez d'une magique croisière au coucher du soleil sur la rivière Mandovi.",
+      "duration": "Journée entière"
+    },
+    "south-goa-1-day-trip-package": {
+      "title": "Tour d'une Journée Entière Palolem Cola",
+      "description": "Vivez le saut d'île en île, l'observation des dauphins, Butterfly Beach, le kayak dans la Lagune Bleue de Cola, Agonda Beach et le Fort Cabo de Rama lors d'un tour privé d'une journée entière.",
+      "duration": "Journée entière"
+    },
+    "south-goa-1-day-cultural-and-beach-tour-package": {
+      "title": "Tour Culturel du Goa du Sud",
+      "description": "Plongez dans les églises UNESCO de Old Goa, les temples Shanta Durga et Mangeshi, Miramar Beach, le belvédère de Dona Paula et le marché de Panjim.",
+      "duration": "Journée entière"
+    },
+    "one-day-south-goa-trip-package": {
+      "title": "Aventure Côtière dans le Goa du Sud",
+      "description": "Découvrez Palolem, Butterfly Beach, le kayak dans la Lagune Bleue de Cola, le Fort Cabo de Rama, la plage des tortues de Galgibaga et un splendide coucher de soleil à Talpona.",
+      "duration": "1 Jour"
+    },
+    "delhi-agra-1n-2d-trip-package": {
+      "title": "Tour de Delhi à Agra",
+      "description": "Explorez l'iconique Taj Mahal au lever du soleil, le Fort d'Agra, le Baby Taj et Mehtab Bagh dans ce voyage inoubliable à travers le patrimoine moghol.",
+      "duration": "1 Nuit / 2 Jours"
+    },
+    "wondrous-wildernest-trip-package": {
+      "title": "Merveilleux Voyage à Wildernest",
+      "description": "Évadez-vous dans la nature avec des treks forestiers, des randonnées au coucher du soleil, des séances de poterie, l'art au henné et des animations du soir au Wildernest Nature Resort en pension complète.",
+      "duration": "2 Nuits / 3 Jours"
+    },
     // Voyages intérieurs (Domestic Trips)
     "kashmir-tour-package-from-goa": {
       title: "Cachemire exotique",
@@ -1453,12 +1488,7 @@ export const fr = {
         "Plages préservées, récifs coralliens & vie marine sur îles Agatti, Thinnakara & Kalpitti avec snorkeling et sports nautiques.",
       duration: "3 Nuits / 4 Jours",
     },
-    "wondrous-wildernest-trip-package": {
-      title: "Nature merveilleuse",
-      description:
-        "Immergez-vous dans la nature avec randonnées forestières, sessions de poterie, art mehendi et vues coucher de soleil dans ce resort naturel goanais serein.",
-      duration: "2 Nuits / 3 Jours",
-    },
+
     " cabo-serai-2n-3d-luxury-getaway": {
       title: "Cabo Serai secret",
       description:
@@ -1649,18 +1679,7 @@ export const fr = {
         "Voyage spirituel visitant ancien temple Mahabaleshwar Gokarna et magnifique temple Murdeshwar avec statue Shiva plus haute monde.",
       duration: "1 Jour",
     },
-    "south-goa-1-day-trip-package": {
-      title: "Palolem, Cola Beach - Observation dauphins",
-      description:
-        "Expérience complète Sud Goa : observation dauphins, tour bateau 4 points, kayak lagunes bleues et coucher soleil fort Cabo de Rama.",
-      duration: "1 Jour",
-    },
-    "south-goa-1-day-cultural-&-beach-tour-package": {
-      title: "Sud Goa culturel & côtier",
-      description:
-        "Expérience complète Sud Goa : sites UNESCO Vieux Goa, temples anciens, observation dauphins, plages préservées, coucher soleil Cabo de Rama Fort avec croisière dîner rivière Mandovi.",
-      duration: "1 Jour",
-    },
+
     "amritsar-tour-package-from-goa": {
       title: "Circuit Patrimoine d’Amritsar",
       duration: "2 nuits / 3 jours",
@@ -1684,12 +1703,6 @@ export const fr = {
       duration: "3 nuits / 4 jours",
       description:
         "Découvrez l’importance spirituelle et historique de Jodhpur avec des visites du fort de Mehrangarh, du palais Umaid Bhawan et d’autres lieux emblématiques.",
-    },
-    "north-goa-day-excursion": {
-      title: "Visite touristique de Goa Nord",
-      duration: "1 jour",
-      description:
-        "Découvrez le côté animé de Goa avec les plages célèbres de Baga, Calangute et Anjuna, ainsi que des forts historiques, des marchés aux puces, la vie nocturne et des églises de l’époque portugaise.",
     },
     "crocodile-sightseeing-trip": {
       title: "Excursion d’observation des crocodiles",
@@ -1760,6 +1773,1299 @@ export const fr = {
   },
 
   tourData: {
+    "wondrous-wildernest-trip-package": {
+      "file_name": "WONDROUS_WILDERNEST_2N3D_TRIP.pdf",
+      "page": {
+        "slug": "wondrous-wildernest-trip-package",
+        "type": "domestic-trip",
+        "hero": {
+          "title": "Merveilleux Voyage à Wildernest",
+          "herotitle": "Merveilleux Voyage à Wildernest",
+          "subtitle": "Une magique escapade de 2 nuits et 3 jours dans le resort naturel de Goa",
+          "backgroundImage": "/assets/hero/wildernest-hero.webp",
+          "meta": {
+            "duration": "2 Nuits / 3 Jours",
+            "locations": "Wildernest Nature Resort, Goa du Nord",
+            "rating": "Note 4,9/5"
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Merveilleux Voyage à Wildernest 2N/3J – Global Tourist Centre",
+          "description": "Réservez un voyage 2N/3J au Wildernest Nature Resort depuis Goa. Inclut treks forestiers, poterie, henné, treks au coucher du soleil, divertissements, tous les repas et transfert hôtel."
+        }
+      },
+      "cta": {
+        "headline": "Prêt pour votre aventure à Wildernest ?",
+        "description": "Réservez maintenant et assurez votre place pour une inoubliable escapade de 2 nuits dans la nature depuis Goa",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your Wondrous Wildernest 2N/3D Trip. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Durée",
+          "description": "2 Nuits / 3 Jours"
+        },
+        {
+          "title": "Prise en charge",
+          "description": "Hôtels du Goa du Nord (Arpora, Baga, Calangute, Candolim)"
+        },
+        {
+          "title": "Pension complète",
+          "description": "Tous les repas inclus"
+        },
+        {
+          "title": "Activités",
+          "description": "Treks, poterie, henné et divertissements"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "Jour 1",
+          "title": "Arrivée à Wildernest",
+          "description": "Prise en charge à 9h30 depuis les hôtels du Goa du Nord (Arpora, Baga, Calangute ou Candolim). Prise en charge alternative disponible depuis Panjim, Margao, Dabolim ou Tivim. Trajet pittoresque jusqu'au Wildernest Nature Resort (environ 1h45).",
+          "category": "travel"
+        },
+        {
+          "time": "Jour 1",
+          "title": "Check-in & Bienvenue",
+          "description": "Check-in au Wildernest Nature Resort avec une boisson de bienvenue à l'arrivée.",
+          "category": "arrival"
+        },
+        {
+          "time": "Après-midi – Jour 1",
+          "title": "Déjeuner buffet",
+          "description": "Profitez d'un copieux déjeuner buffet au resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Après-midi – Jour 1",
+          "title": "Séance de poterie",
+          "description": "Séance pratique de poterie au resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Après-midi – Jour 1",
+          "title": "Art Mehendi (Henné) pour les dames",
+          "description": "Séance traditionnelle d'art au henné pour les dames.",
+          "category": "activity"
+        },
+        {
+          "time": "Après-midi – Jour 1",
+          "title": "Thé de l'après-midi / Collations",
+          "description": "Thé de l'après-midi rafraîchissant et collations.",
+          "category": "meal"
+        },
+        {
+          "time": "Soir – Jour 1",
+          "title": "Trek au coucher du soleil",
+          "description": "Trek guidé au coucher du soleil sur les sentiers naturels de Wildernest.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Soir – Jour 1",
+          "title": "Animation du soir",
+          "description": "Programme d'animation du soir au resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Nuit – Jour 1",
+          "title": "Dîner buffet & Nuit",
+          "description": "Dîner buffet suivi d'une nuit au Wildernest Nature Resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Matin – Jour 2",
+          "title": "Trek forestier",
+          "description": "Trek matinal dans la forêt luxuriante qui entoure le resort.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Matin – Jour 2",
+          "title": "Petit-déjeuner buffet",
+          "description": "Petit-déjeuner buffet au resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Après-midi – Jour 2",
+          "title": "Déjeuner buffet",
+          "description": "Déjeuner buffet au resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Après-midi – Jour 2",
+          "title": "Séance de poterie",
+          "description": "Une autre séance pratique de poterie au resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Après-midi – Jour 2",
+          "title": "Art Mehendi (Henné) pour les dames",
+          "description": "Séance traditionnelle d'art au henné pour les dames.",
+          "category": "activity"
+        },
+        {
+          "time": "Après-midi – Jour 2",
+          "title": "Thé de l'après-midi / Collations",
+          "description": "Thé de l'après-midi rafraîchissant et collations.",
+          "category": "meal"
+        },
+        {
+          "time": "Soir – Jour 2",
+          "title": "Trek au coucher du soleil",
+          "description": "Trek guidé au coucher du soleil sur les sentiers naturels de Wildernest.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Soir – Jour 2",
+          "title": "Animation du soir",
+          "description": "Programme d'animation du soir au resort.",
+          "category": "activity"
+        },
+        {
+          "time": "Nuit – Jour 2",
+          "title": "Dîner buffet & Nuit",
+          "description": "Dîner buffet et deuxième nuit au Wildernest Nature Resort.",
+          "category": "meal"
+        },
+        {
+          "time": "Matin – Jour 3",
+          "title": "Trek forestier",
+          "description": "Trek matinal dans la forêt avant le check-out.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Matin – Jour 3",
+          "title": "Petit-déjeuner buffet & Check-out",
+          "description": "Dernier petit-déjeuner buffet au resort suivi du check-out.",
+          "category": "meal"
+        },
+        {
+          "time": "Jour 3",
+          "title": "Transfert retour",
+          "description": "Transfert de retour vers votre hôtel ou le point de dépôt désigné.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [],
+      "inclusions": [
+        {
+          "title": "Hébergement",
+          "description": "2 nuits au Wildernest Nature Resort en pension complète (tous les repas inclus)."
+        },
+        {
+          "title": "Tous les repas",
+          "description": "Petit-déjeuner, déjeuner, dîner buffet et thé/collations de l'après-midi tout au long du séjour."
+        },
+        {
+          "title": "Activités du resort",
+          "description": "Toutes les activités du resort : treks forestiers, treks au coucher du soleil, séances de poterie et animation du soir."
+        },
+        {
+          "title": "Art Mehendi",
+          "description": "Séances traditionnelles d'art au henné pour les dames."
+        },
+        {
+          "title": "Transfert aller-retour",
+          "description": "Transfert depuis/vers votre hôtel ou point désigné (Goa du Nord : Arpora, Baga, Calangute, Candolim ; alternative : Panjim, Margao, Dabolim, Tivim)."
+        }
+      ],
+      "exclusions": [
+        {
+          "title": "Boissons du bar",
+          "description": "Les boissons du bar ne sont pas incluses et seront facturées séparément."
+        }
+      ]
+    },
+    "north-goa-english-tour": {
+      "file_name": "north-goa-english-tour.html",
+      "page": {
+        "slug": "North-Goa-English-tour",
+        "type": "day-trip",
+        "hero": {
+          "title": "Goa du Nord – Goa Portugaise",
+          "herotitle": "Goa du Nord – Goa Portugaise",
+          "subtitle": "Tour d'une journée entière à travers les plages, forts et patrimoine portugais du Goa du Nord",
+          "backgroundImage": "../../assets/hero/Goa-1-hero.jpg",
+          "meta": {
+            "duration": "Journée entière",
+            "locations": "Goa du Nord",
+            "rating": "Note 4,8/5"
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Goa du Nord – Goa Portugaise",
+          "description": "Réservez un tour d'une journée dans le Goa du Nord avec les plages de Calangute, Baga, Anjuna, le Fort Aguada et les églises portugaises avec guide russophone."
+        }
+      },
+      "cta": {
+        "headline": "Prêt à explorer le Goa du Nord ?",
+        "description": "Réservez maintenant et assurez votre place pour une journée inoubliable à la découverte du Goa portugais",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Petits groupes",
+          "description": "Max 15 voyageurs"
+        },
+        {
+          "title": "Transport privé",
+          "description": "Véhicules climatisés"
+        },
+        {
+          "title": "Repas inclus",
+          "description": "Petit-déjeuner inclus"
+        },
+        {
+          "title": "Lieux emblématiques",
+          "description": "Toutes les attractions principales"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "8h00",
+          "title": "Prise en charge à l'hôtel",
+          "description": "Début du voyage vers le Goa du Nord animé. Rencontrez votre guide russophone qui vous présentera l'histoire et les points forts de la région.",
+          "category": "arrival"
+        },
+        {
+          "time": "9h00",
+          "title": "Pause petit-déjeuner",
+          "description": "Profitez d'un délicieux petit-déjeuner dans un café local avant de commencer la visite.",
+          "category": "meal"
+        },
+        {
+          "time": "9h30",
+          "title": "Plage de Calangute",
+          "description": "Commencez la journée à Calangute, la « Reine des plages », connue pour son sable doré, son atmosphère animée et ses belles vues sur la mer. Promenade sur le rivage, photographies sur la plage.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "10h30",
+          "title": "Plage de Baga",
+          "description": "Visitez la plage la plus populaire de Goa, célèbre pour son ambiance énergique.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "11h30",
+          "title": "Plage d'Anjuna et marché aux puces",
+          "description": "Explorez la légendaire plage bohème d'Anjuna. Falaises rouges spectaculaires et côte rocheuse, marché aux puces d'Anjuna (ouvert les jours désignés), boutiques hippies et artisanat.",
+          "category": "activity"
+        },
+        {
+          "time": "12h30",
+          "title": "Fort Aguada",
+          "description": "Visitez le Fort Aguada portugais du XVIIe siècle, dominant la mer d'Oman. Point du phare, vues imprenables sur le littoral, anciennes structures défensives portugaises.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "14h00",
+          "title": "Églises de l'époque portugaise",
+          "description": "Visitez de belles églises reflétant le patrimoine colonial de Goa. Arrêts : Église Saint-Alexis (Calangute) et Église Mae de Deus (Saligao). Le guide expliquera l'histoire et l'importance culturelle.",
+          "category": "activity"
+        },
+        {
+          "time": "15h30",
+          "title": "Belvédère de Vagator Beach",
+          "description": "Un belvédère spectaculaire sur les falaises et les vagues du Goa du Nord. Vue iconique sur Vagator et les ruines du fort portugais voisin (zone du belvédère de Chapora).",
+          "category": "activity"
+        },
+        {
+          "time": "16h30",
+          "title": "Shopping et visite du marché local",
+          "description": "Explorez les marchés colorés du Goa du Nord : souvenirs, épices, bijoux, vêtements, artisanat.",
+          "category": "exploration"
+        },
+        {
+          "time": "17h30",
+          "title": "Retour à l'hôtel",
+          "description": "Retour après un tour culturel et pittoresque bien rempli dans le Goa du Nord.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Plage de Calangute",
+          "description": "Reine des plages",
+          "image": "/assets/destinations/Goa/Calangute-Beach.webp"
+        },
+        {
+          "title": "Fort Aguada",
+          "description": "Fort portugais du XVIIe siècle",
+          "image": "../../assets/destinations/Goa/fort-aguada.webp"
+        },
+        {
+          "title": "Plage d'Anjuna",
+          "description": "Plage bohème et marché aux puces",
+          "image": "../../assets/destinations/Goa/Anjuna-Beach.webp"
+        },
+        {
+          "title": "Églises portugaises",
+          "description": "Patrimoine colonial",
+          "image": "../../assets/destinations/Goa/Basilica of Bom Jesus.webp"
+        },
+        {
+          "title": "Belvédère de Vagator",
+          "description": "Vues spectaculaires sur les falaises",
+          "image": "/assets/destinations/Goa/Vagator-Viewpoint.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transport",
+          "description": "Véhicule climatisé pour tout le tour"
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Petit-déjeuner dans un café local"
+        },
+        {
+          "title": "Droits d'entrée",
+          "description": "Entrées dans toutes les attractions mentionnées"
+        },
+        {
+          "title": "Guide russophone",
+          "description": "Guide expérimenté tout au long de la journée"
+        },
+        {
+          "title": "Tour d'une journée entière",
+          "description": "Heure de départ : 8h00 | Durée : journée entière"
+        }
+      ]
+    },
+
+    "south-goa-sunset-cruise-tour": {
+      "file_name": "south-goa-sunset-cruise-tour.html",
+      "page": {
+        "slug": "South-Goa-Sightseeing-Sunset-Cruise",
+        "type": "day-trip",
+        "hero": {
+          "title": "Visite du Goa du Sud avec Croisière au Coucher du Soleil",
+          "herotitle": "Visite du Goa du Sud avec Croisière au Coucher du Soleil",
+          "subtitle": "Excursion d'une journée entière (8h00 – 20h00) avec croisière au coucher du soleil sur la rivière Mandovi",
+          "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
+          "meta": {
+            "duration": "Journée entière (08h00 – 20h00)",
+            "groupSize": "Minimum 5 personnes",
+            "highlight": "Croisière au coucher du soleil incluse"
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Visite du Goa du Sud avec Croisière au Coucher du Soleil",
+          "description": "Tour d'une journée entière dans le Goa du Sud avec plages, belvédères, églises UNESCO, temples et croisière au coucher du soleil sur la rivière Mandovi."
+        }
+      },
+      "cta": {
+        "headline": "Vivez la magie du coucher de soleil à Goa",
+        "description": "Réservez votre tour d'une journée entière dans le Goa du Sud avec une spectaculaire croisière au coucher du soleil sur la rivière Mandovi.",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in the South Goa Sightseeing with Sunset Cruise tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Durée",
+          "description": "Journée entière (8h00 – 20h00)"
+        },
+        {
+          "title": "Transport",
+          "description": "Transfert climatisé inclus"
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Petit-déjeuner indien/continental"
+        },
+        {
+          "title": "Croisière au coucher du soleil",
+          "description": "Billet inclus"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "08h00",
+          "title": "Prise en charge à l'hôtel",
+          "description": "Commencez la journée avec un confortable transfert depuis votre hôtel dans un véhicule climatisé.",
+          "category": "arrival"
+        },
+        {
+          "time": "08h30",
+          "title": "Pause petit-déjeuner",
+          "description": "Dégustez un délicieux petit-déjeuner indien ou continental dans un restaurant local.",
+          "category": "meal"
+        },
+        {
+          "time": "09h30",
+          "title": "Visite de la Plage Miramar",
+          "description": "Première étape à la Plage Miramar, l'un des plus beaux tronçons côtiers de Panjim, où la rivière Mandovi rencontre la mer d'Oman.",
+          "category": "activity"
+        },
+        {
+          "time": "10h15",
+          "title": "Belvédère de Dona Paula",
+          "description": "Direction Dona Paula, un célèbre belvédère romantique offrant de superbes vues sur la mer et le port de Mormugao.",
+          "category": "activity"
+        },
+        {
+          "time": "11h00",
+          "title": "Visite des Églises de Old Goa (Patrimoine UNESCO)",
+          "description": "Explorez les magnifiques églises de Old Goa : Basilique du Bom Jesus (reliques de Saint François Xavier), Cathédrale Sé – l'une des plus grandes churches d'Asie, et Église Saint-Cajetan – inspirée de la Basilique Saint-Pierre.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "13h00",
+          "title": "Pause déjeuner (à vos frais)",
+          "description": "Déjeuner dans un restaurant en bord de rivière ou goanese proposant des fruits de mer et plats locaux.",
+          "category": "meal"
+        },
+        {
+          "time": "14h30",
+          "title": "Visite du Temple Mangueshi",
+          "description": "Visite du Temple Mangueshi, dédié au Seigneur Shiva – l'un des temples les plus anciens et les plus beaux de Goa.",
+          "category": "activity"
+        },
+        {
+          "time": "15h30",
+          "title": "Visite du Temple Shanta Durga",
+          "description": "Continuez vers le Temple Shanta Durga, un temple serein et pittoresque entouré d'une végétation luxuriante.",
+          "category": "activity"
+        },
+        {
+          "time": "16h30",
+          "title": "Visite d'une plantation d'épices (optionnel)",
+          "description": "En option, visitez une plantation d'épices goanese avec cardamome, noix de muscade et poivre noir. Courte visite guidée avec boisson aux herbes.",
+          "category": "activity"
+        },
+        {
+          "time": "18h00",
+          "title": "Croisière au Coucher du Soleil sur la Rivière Mandovi",
+          "description": "Direction la jetée de Panjim pour embarquer sur la croisière au coucher du soleil. Musique goanese en direct, spectacles de danses folkloriques et vues panoramiques sur le coucher de soleil sur la mer d'Oman.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "19h30",
+          "title": "Transfert retour",
+          "description": "Après la croisière, détendez-vous pendant le trajet de retour à l'hôtel.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Croisière au coucher du soleil",
+          "description": "Expérience sur la rivière Mandovi",
+          "image": "/assets/destinations/Goa/Sunset-Cruise-Mandovi.webp"
+        },
+        {
+          "title": "Basilique du Bom Jesus",
+          "description": "Patrimoine mondial UNESCO",
+          "image": "/assets/destinations/Goa/Basilica-Bom-Jesus.webp"
+        },
+        {
+          "title": "Plage Miramar",
+          "description": "La côte pittoresque de Panjim",
+          "image": "/assets/destinations/Goa/Miramar-Beach.webp"
+        },
+        {
+          "title": "Plantation d'épices",
+          "description": "Arômes de Goa",
+          "image": "/assets/destinations/Goa/Spice-Plantation.webp"
+        },
+        {
+          "title": "Dona Paula",
+          "description": "Belvédère romantique",
+          "image": "/assets/destinations/Goa/Dona-Paula-Viewpoint.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transfert climatisé",
+          "description": "Véhicule climatisé pour la prise en charge, le retour et les visites."
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Petit-déjeuner indien ou continental dans un restaurant local."
+        },
+        {
+          "title": "Visites touristiques",
+          "description": "Toutes les visites selon l'itinéraire."
+        },
+        {
+          "title": "Guide",
+          "description": "Services d'un guide anglophone ou russophone."
+        },
+        {
+          "title": "Billet croisière au coucher du soleil",
+          "description": "Billet pour la croisière au coucher du soleil sur la rivière Mandovi."
+        }
+      ],
+      "exclusions": [
+        {
+          "title": "Déjeuner et dîner",
+          "description": "Tous les repas sauf le petit-déjeuner inclus."
+        },
+        {
+          "title": "Activités optionnelles",
+          "description": "Visite de la plantation d'épices et autres activités en option."
+        },
+        {
+          "title": "Dépenses personnelles",
+          "description": "Shopping, souvenirs et achats personnels."
+        },
+        {
+          "title": "Pourboires",
+          "description": "Pourboires pour le guide, le chauffeur et le personnel de la croisière."
+        },
+        {
+          "title": "Assurance voyage",
+          "description": "Couverture d'assurance médicale et voyage."
+        }
+      ]
+    },
+
+    "south-goa-1-day-trip-package": {
+      "file_name": "South-Goa-1-Day-Trip-package.html",
+      "page": {
+        "slug": "South-Goa-1-Day-Trip-package",
+        "type": "day-trip",
+        "hero": {
+          "title": "Tour d'une Journée Entière Palolem Cola",
+          "herotitle": "Tour d'une Journée Entière Palolem Cola",
+          "subtitle": "Saut d'île en île, observation des dauphins, kayak dans la Lagune Bleue et joyaux cachés du Goa du Sud",
+          "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
+          "meta": {
+            "duration": "Journée entière",
+            "locations": "5+ îles et plages",
+            "rating": "Note 4,9/5",
+            "guide": "Guide russophone"
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Tour d'une Journée Entière Palolem Cola : Observation des Dauphins et Saut d'Île en Île",
+          "description": "Le meilleur du Goa du Sud : observation des dauphins, saut d'île en île, Butterfly Beach, kayak à la Lagune de Cola, Agonda Beach et Fort Cabo de Rama."
+        }
+      },
+      "cta": {
+        "headline": "Prêt pour votre aventure entre les îles ?",
+        "description": "Réservez maintenant pour explorer les îles cachées du Goa du Sud, observer des dauphins et faire du kayak dans la Lagune Bleue",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Saut d'île en île",
+          "description": "Visite de 4+ îles en bateau"
+        },
+        {
+          "title": "Observation des dauphins",
+          "description": "Observations garanties"
+        },
+        {
+          "title": "Kayak",
+          "description": "Dans la Lagune Bleue de Cola Beach"
+        },
+        {
+          "title": "Guide russophone",
+          "description": "Guide russophone inclus"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "8h00",
+          "title": "Prise en charge à l'hôtel",
+          "description": "Prise en charge confortable à votre hôtel dans un véhicule privé",
+          "category": "arrival"
+        },
+        {
+          "time": "9h00",
+          "title": "Petit-déjeuner près de Palolem",
+          "description": "Profitez d'un délicieux petit-déjeuner dans un café pittoresque près de la Plage Palolem",
+          "category": "meal"
+        },
+        {
+          "time": "9h30",
+          "title": "Excursion en bateau depuis Palolem",
+          "description": "Embarquez sur un bateau goanais traditionnel pour le tour entre les îles",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "10h00",
+          "title": "Observation des dauphins",
+          "description": "Observez les dauphins joueurs sautant à côté de votre bateau",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "10h30",
+          "title": "Butterfly Beach",
+          "description": "Visitez la crique isolée avec ses eaux limpides et son sable doré",
+          "category": "activity"
+        },
+        {
+          "time": "11h00",
+          "title": "Monkey Island",
+          "description": "Admirez les formations rocheuses uniques et les singes occasionnels",
+          "category": "activity"
+        },
+        {
+          "time": "11h15",
+          "title": "Île des Amoureux",
+          "description": "Passez devant cette île romantique aux eaux bleu cristal",
+          "category": "activity"
+        },
+        {
+          "time": "11h30",
+          "title": "Cola Beach (Lagune Bleue)",
+          "description": "Arrivée à la splendide plage où la lagune fluviale rencontre la mer",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "12h00",
+          "title": "Kayak dans la Lagune Bleue",
+          "description": "Kayak sur la calme lagune d'eau douce (inclus)",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "13h00",
+          "title": "Agonda Beach",
+          "description": "Visitez l'une des plages les plus propres et paisibles du Goa du Sud",
+          "category": "activity"
+        },
+        {
+          "time": "14h30",
+          "title": "Fort Cabo de Rama",
+          "description": "Explorez l'un des plus anciens forts de Goa avec de spectaculaires vues sur les falaises",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "16h00",
+          "title": "Balade en bateau côtière",
+          "description": "Pittoresque balade en bateau le long de la côte du fort avec observation de dauphins",
+          "category": "activity"
+        },
+        {
+          "time": "17h00",
+          "title": "Voyage de retour",
+          "description": "Début du trajet de retour relaxant vers votre hôtel",
+          "category": "travel"
+        },
+        {
+          "time": "18h30",
+          "title": "Dépôt à l'hôtel",
+          "description": "Arrivée à l'hôtel avec des souvenirs inoubliables",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Lagune Bleue de Cola Beach",
+          "description": "Lagune d'eau douce rejoignant la mer",
+          "image": "../../assets/destinations/South-goa/Blue-lagoon.webp"
+        },
+        {
+          "title": "Observation des dauphins",
+          "description": "Dauphins joueurs dans la mer d'Oman",
+          "image": "../../assets/destinations/South-goa/dolphin-watching.webp"
+        },
+        {
+          "title": "Saut d'île en île",
+          "description": "Tour en bateau goanais traditionnel",
+          "image": "../../assets/destinations/South-goa/island-hopping.webp"
+        },
+        {
+          "title": "Agonda Beach",
+          "description": "Étendue de sable propre et paisible",
+          "image": "../../assets/destinations/South-goa/agonda-beach.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transport privé",
+          "description": "Véhicule climatisé avec chauffeur pour toute la journée"
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Délicieux petit-déjeuner dans le café pittoresque près de Palolem"
+        },
+        {
+          "title": "Excursion en bateau",
+          "description": "Bateau goanais traditionnel pour le tour entre les îles"
+        },
+        {
+          "title": "Kayak",
+          "description": "Équipement de kayak à la Lagune Bleue de Cola Beach"
+        },
+        {
+          "title": "Guide russophone",
+          "description": "Guide russophone expérimenté"
+        },
+        {
+          "title": "Tous les droits d'entrée",
+          "description": "Entrées dans toutes les attractions mentionnées"
+        }
+      ]
+    },
+
+    "south-goa-1-day-cultural-and-beach-tour-package": {
+      "file_name": "South-Goa-1-Day-Cultural-and-Beach-Tour-package.html",
+      "page": {
+        "slug": "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
+        "type": "day-trip",
+        "hero": {
+          "title": "Goa du Sud – Goa Culturelle (Tour d'une Journée Entière)",
+          "herotitle": "Goa du Sud – Goa Culturelle",
+          "subtitle": "Une immersion d'une journée entière dans la riche histoire, l'architecture et le patrimoine spirituel du Goa du Sud.",
+          "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
+          "meta": {
+            "duration": "Journée entière (8h00 – 17h30)",
+            "locations": "Old Goa, Temples, Plages, Panjim",
+            "includes": "Transport, petit-déjeuner, guide, entrées"
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Tour d'un Jour dans le Goa du Sud : Patrimoine, Plages et Croisière du Soir",
+          "description": "Explorez les églises de Old Goa, les temples, les plages préservées et profitez d'une croisière du soir sur la rivière Mandovi."
+        }
+      },
+      "cta": {
+        "headline": "Réservez votre expérience culturelle à Goa",
+        "description": "Assurez votre place pour une journée d'exploration des sites UNESCO, des temples anciens et de la beauté pittoresque de Goa.",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Heure de départ",
+          "description": "8h00"
+        },
+        {
+          "title": "Transport",
+          "description": "Véhicule confortable climatisé"
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Inclus"
+        },
+        {
+          "title": "Guide",
+          "description": "Guide russophone"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "8h00",
+          "title": "Prise en charge à l'hôtel",
+          "description": "Commencez la journée avec un confortable trajet vers Old Goa. Rencontrez votre guide russophone qui vous présentera la riche histoire et culture de Goa.",
+          "category": "arrival"
+        },
+        {
+          "time": "9h00",
+          "title": "Pause petit-déjeuner",
+          "description": "Profitez d'un petit-déjeuner complet en route avant de commencer l'exploration culturelle.",
+          "category": "meal"
+        },
+        {
+          "time": "9h30",
+          "title": "Visite des Églises de Old Goa",
+          "description": "Explorez Old Goa, Patrimoine Mondial de l'UNESCO. Arrêts : Tour Saint-Augustin, Basilique du Bom Jesus (reliques de Saint François Xavier), Cathédrale Sé (l'une des plus grandes churches d'Asie), Église Saint-Cajetan (inspirée de la Basilique Saint-Pierre).",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "11h30",
+          "title": "Visite des Temples",
+          "description": "Visitez trois des temples les plus importants de Goa : Shanta Durga (déesse de la paix et de la médiation), Mangeshi (l'un des plus anciens temples de Goa, dédié à Shiva), Temple Balaji (inspiré du sanctuaire Tirupati Balaji).",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "14h00",
+          "title": "Visite de la Plage Miramar",
+          "description": "Détendez-vous à la Plage Miramar, située à l'embouchure de la rivière Mandovi avec de superbes vues sur la mer d'Oman.",
+          "category": "activity"
+        },
+        {
+          "time": "14h45",
+          "title": "Belvédère de Dona Paula",
+          "description": "Visitez le romantique et pittoresque belvédère de Dona Paula, célèbre pour ses vues panoramiques sur l'océan et sa jetée iconique.",
+          "category": "activity"
+        },
+        {
+          "time": "16h30",
+          "title": "Exploration du Marché de Panjim",
+          "description": "Visitez le marché local de Panjim : souvenirs, épices, noix de cajou, artisanat et délices goanais.",
+          "category": "exploration"
+        },
+        {
+          "time": "17h30",
+          "title": "Retour à l'hôtel",
+          "description": "Détendez-vous pendant le trajet de retour après une journée riche en histoire, culture et beauté pittoresque.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Églises de Old Goa",
+          "description": "Site Patrimoine UNESCO",
+          "image": "../../assets/destinations/Goa/Basilica of Bom Jesus.webp"
+        },
+        {
+          "title": "Temple Mangeshi",
+          "description": "Demeure du Seigneur Shiva",
+          "image": "../../assets/destinations/Goa/Mangeshi-Temple.webp"
+        },
+        {
+          "title": "Marché de Panjim",
+          "description": "Shopping et culture locale",
+          "image": "../../assets/destinations/Goa/Panjim-Market.webp"
+        },
+        {
+          "title": "Cathédrale Sé",
+          "description": "La plus grande église d'Asie",
+          "image": "../../assets/destinations/Goa/Se-Cathedral.webp"
+        },
+        {
+          "title": "Temple Shanta Durga",
+          "description": "Serein et paisible",
+          "image": "../../assets/destinations/Goa/Shanta-Durga-Temple.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transport",
+          "description": "Véhicule confortable pour toute la durée du tour."
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Petit-déjeuner complet inclus en route."
+        },
+        {
+          "title": "Droits d'entrée",
+          "description": "Tous les droits d'entrée selon l'itinéraire."
+        },
+        {
+          "title": "Guide",
+          "description": "Services d'un guide russophone expérimenté."
+        }
+      ],
+      "exclusions": [
+        {
+          "title": "Déjeuner et dîner",
+          "description": "Repas autres que le petit-déjeuner inclus."
+        },
+        {
+          "title": "Dépenses personnelles",
+          "description": "Shopping, souvenirs et achats personnels."
+        },
+        {
+          "title": "Pourboires",
+          "description": "Pourboires pour le guide, le chauffeur et le personnel."
+        },
+        {
+          "title": "Assurance voyage",
+          "description": "Couverture d'assurance médicale et voyage."
+        }
+      ]
+    },
+
+    "one-day-south-goa-trip-package": {
+      "file_name": "One-Day-South-Goa-trip-package.html",
+      "page": {
+        "slug": "One-Day-South-Goa-trip-package",
+        "type": "day-trip",
+        "hero": {
+          "title": "Aventure Côtière dans le Goa du Sud",
+          "herotitle": "Aventure Côtière dans le Goa du Sud",
+          "subtitle": "Découvrez les plages préservées et les joyaux cachés du Goa du Sud en une journée inoubliable",
+          "backgroundImage": "/assets/hero/Goa-1-hero.webp",
+          "meta": {
+            "duration": "1 jour",
+            "locations": "6 lieux",
+            "rating": "Note 4,9/5"
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Tour d'un Jour dans le Goa du Sud pour Voyageurs Étrangers",
+          "description": "Explorez le Goa du Sud en une journée : Agonda, Palolem, plages Butterfly et Cola, kayak, Fort Cabo de Rama et coucher de soleil."
+        }
+      },
+      "cta": {
+        "headline": "Prêt pour votre aventure dans le Goa du Sud ?",
+        "description": "Réservez maintenant et assurez votre place pour une journée inoubliable dans le meilleur du Goa du Sud",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your South Goa tour package. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Petits groupes",
+          "description": "Max 8 voyageurs"
+        },
+        {
+          "title": "Transport privé",
+          "description": "AC Innova Crysta"
+        },
+        {
+          "title": "Petit-déjeuner inclus",
+          "description": "Cuisine locale"
+        },
+        {
+          "title": "Arrêts photos",
+          "description": "Meilleurs belvédères"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "9h00",
+          "title": "Prise en charge à l'hôtel",
+          "description": "Prise en charge confortable à votre hôtel à Benaulim dans un AC Innova Crysta privé",
+          "category": "arrival"
+        },
+        {
+          "time": "9h30",
+          "title": "Petit-déjeuner à Palolem",
+          "description": "Profitez d'un délicieux petit-déjeuner au Dropadi ou au Little World Café avec vue sur la plage",
+          "category": "meal"
+        },
+        {
+          "time": "10h15",
+          "title": "Aventure en bateau",
+          "description": "Tour en bateau à 4 points : observation des dauphins, Butterfly Beach, Monkey Island et Lovers' Island",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "11h45",
+          "title": "Butterfly Beach",
+          "description": "Explorez la solitaire Butterfly Beach avec ses formations rocheuses uniques",
+          "category": "activity"
+        },
+        {
+          "time": "13h00",
+          "title": "Kayak à Cola Beach",
+          "description": "Kayak dans la splendide Lagune Bleue de Cola Beach",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "15h00",
+          "title": "Déjeuner à Agonda",
+          "description": "Déjeuner de fruits de mer frais dans un restaurant en bord de mer à Agonda",
+          "category": "meal"
+        },
+        {
+          "time": "16h15",
+          "title": "Fort Cabo de Rama",
+          "description": "Visitez le fort historique avec des vues panoramiques sur la mer d'Oman",
+          "category": "activity"
+        },
+        {
+          "time": "17h30",
+          "title": "Plage des Tortues de Galgibaga",
+          "description": "Visitez le site protégé de nidification des tortues à Galgibaga Beach",
+          "category": "activity"
+        },
+        {
+          "time": "19h00",
+          "title": "Coucher de soleil à Talpona",
+          "description": "Admirez les spectaculaires couchers de soleil sur la rivière et la plage Talpona",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "20h30",
+          "title": "Retour à l'hôtel",
+          "description": "Retour confortable à votre hôtel à Benaulim",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Plage de Palolem",
+          "description": "Lieu du petit-déjeuner matinal",
+          "image": "/assets/destinations/South-goa/palolem-beach.webp"
+        },
+        {
+          "title": "Butterfly Beach",
+          "description": "Paradis isolé",
+          "image": "/assets/destinations/South-goa/butterfly-beach.webp"
+        },
+        {
+          "title": "Lagune Bleue",
+          "description": "Aventure en kayak",
+          "image": "/assets/destinations/South-goa/Blue-lagoon.webp"
+        },
+        {
+          "title": "Fort Cabo de Rama",
+          "description": "Belvédère historique",
+          "image": "/assets/destinations/South-goa/cabo-de-rama.webp"
+        },
+        {
+          "title": "Coucher de soleil à Talpona",
+          "description": "Spectacle du soir",
+          "image": "/assets/destinations/South-goa/Talpona Sunset.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transport privé",
+          "description": "AC Innova Crysta avec chauffeur expérimenté pour toute la journée"
+        },
+        {
+          "title": "Tour en bateau",
+          "description": "Excursion en bateau à 4 points avec observation des dauphins et visites d'îles"
+        },
+        {
+          "title": "Kayak",
+          "description": "Location de kayak et équipement de sécurité à Cola Beach"
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Délicieux petit-déjeuner au café de Palolem Beach"
+        },
+        {
+          "title": "Arrêts photos",
+          "description": "Temps suffisant pour les photos dans tous les lieux pittoresques"
+        },
+        {
+          "title": "Guide touristique",
+          "description": "Guide expérimenté en langue anglaise pour toute la journée"
+        }
+      ]
+    },
+
+    "delhi-agra-1n-2d-trip-package": {
+      "file_name": "Delhi-Agra-1N-2D-Trip-Package.html",
+      "page": {
+        "slug": "Delhi-Agra-1N-2D-Trip-Package",
+        "type": "domestic-trip",
+        "hero": {
+          "title": "Tour de Delhi à Agra avec le Taj Mahal et le Fort d'Agra",
+          "herotitle": "Tour de Delhi à Agra",
+          "subtitle": "Vivez la magie du Taj Mahal et de l'architecture moghole dans ce voyage inoubliable",
+          "backgroundImage": "/assets/hero/Agra-hero.webp",
+          "meta": {
+            "duration": "2 jours",
+            "locations": "6+ lieux",
+            "rating": "Note 4,9/5"
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Tour de Delhi à Agra 1N/2J avec Taj Mahal et Fort d'Agra",
+          "description": "Réservez un tour 1N/2J de Delhi à Agra. Taj Mahal, Fort d'Agra et Baby Taj avec hébergement en hôtel, guide russophone, transferts et entrées inclus."
+        }
+      },
+      "cta": {
+        "headline": "Prêt pour votre aventure à Agra ?",
+        "description": "Réservez maintenant pour un voyage inoubliable à la découverte de l'iconique Taj Mahal et du patrimoine moghol",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your Delhi to Agra tour package. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "Petits groupes",
+          "description": "Max 8 voyageurs"
+        },
+        {
+          "title": "Transport privé",
+          "description": "Véhicule confortable climatisé"
+        },
+        {
+          "title": "Hébergement en hôtel",
+          "description": "Hébergement 3 étoiles"
+        },
+        {
+          "title": "Arrêts photos",
+          "description": "Meilleurs belvédères"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "Jour 1",
+          "title": "Départ de Delhi",
+          "description": "Départ matinal de Delhi vers Agra via la Yamuna Expressway",
+          "category": "travel"
+        },
+        {
+          "time": "10h30",
+          "title": "Arrivée et check-in à l'hôtel",
+          "description": "Arrivée à Agra et check-in dans l'hôtel 3 étoiles",
+          "category": "arrival"
+        },
+        {
+          "time": "11h30",
+          "title": "Déjeuner",
+          "description": "Déjeuner dans un restaurant local",
+          "category": "meal"
+        },
+        {
+          "time": "13h00",
+          "title": "Exploration du Fort d'Agra",
+          "description": "Visite du magnifique Fort d'Agra, Patrimoine Mondial de l'UNESCO avec la splendide architecture moghole",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "15h30",
+          "title": "Baby Taj (Itimad-ud-Daulah)",
+          "description": "Visitez ce magnifique mausolée souvent appelé le « Coffret à bijoux » ou « Baby Taj »",
+          "category": "activity"
+        },
+        {
+          "time": "17h00",
+          "title": "Mehtab Bagh",
+          "description": "Visitez ce complexe de jardins pour les splendides vues au coucher du soleil sur le Taj Mahal au-delà de la rivière Yamuna",
+          "category": "activity"
+        },
+        {
+          "time": "19h00",
+          "title": "Visite du marché local",
+          "description": "Explorez les marchés locaux : travaux d'incrustation en marbre, articles en cuir et artisanat",
+          "category": "exploration"
+        },
+        {
+          "time": "20h30",
+          "title": "Nuit à Agra",
+          "description": "Retour à l'hôtel pour la nuit",
+          "category": "activity"
+        },
+        {
+          "time": "Jour 2",
+          "title": "Matin et petit-déjeuner",
+          "description": "Petit-déjeuner à l'hôtel et préparation pour la journée",
+          "category": "meal"
+        },
+        {
+          "time": "6h30",
+          "title": "Taj Mahal au lever du soleil",
+          "description": "Visitez le légendaire Taj Mahal au lever du soleil pour admirer sa beauté magique dans la douce lumière du matin",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "9h00",
+          "title": "Petit-déjeuner",
+          "description": "Petit-déjeuner dans un restaurant avec vue sur le Taj Mahal",
+          "category": "meal"
+        },
+        {
+          "time": "10h30",
+          "title": "Départ pour Delhi",
+          "description": "Début du voyage de retour vers Delhi avec des souvenirs inoubliables",
+          "category": "travel"
+        },
+        {
+          "time": "14h00",
+          "title": "Arrivée à Delhi",
+          "description": "Retour à Delhi – conclusion de votre mémorable tour à Agra",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Taj Mahal",
+          "description": "Symbole d'amour",
+          "image": "/assets/destinations/DelhitoAgra/TajMahal.webp"
+        },
+        {
+          "title": "Fort d'Agra",
+          "description": "Architecture moghole",
+          "image": "/assets/destinations/DelhitoAgra/AgraFort.webp"
+        },
+        {
+          "title": "Baby Taj",
+          "description": "Itimad-ud-Daulah",
+          "image": "/assets/destinations/DelhitoAgra/BabyTaj.webp"
+        },
+        {
+          "title": "Mehtab Bagh",
+          "description": "Vue sur le Taj Mahal",
+          "image": "/assets/destinations/DelhitoAgra/MehtabBagh.webp"
+        },
+        {
+          "title": "Taj Mahal au lever du soleil",
+          "description": "Matin magique",
+          "image": "/assets/destinations/DelhitoAgra/TajMahalSunrise.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Transport privé",
+          "description": "Véhicule confortable climatisé avec chauffeur expérimenté pour tout le voyage"
+        },
+        {
+          "title": "Hébergement en hôtel",
+          "description": "Hôtel 3 étoiles à Agra en chambre double/triple"
+        },
+        {
+          "title": "Billets d'entrée",
+          "description": "Droits d'entrée pour le Taj Mahal, le Fort d'Agra et autres sites"
+        },
+        {
+          "title": "Petit-déjeuner",
+          "description": "Délicieux petit-déjeuner à l'hôtel le jour 2"
+        },
+        {
+          "title": "Arrêts photos",
+          "description": "Temps suffisant pour les photos dans tous les lieux pittoresques"
+        },
+        {
+          "title": "Guide touristique",
+          "description": "Guide expérimenté en langue anglaise pour tout le tour"
+        }
+      ]
+    },
     "dandeli-elephant-safari-day-trip-package": {
       file_name: "dandeli-elephant-safari-day-trip-package.html",
       page: {
@@ -2891,184 +4197,7 @@ export const fr = {
         },
       ],
     },
-    "north-goa-day-excursion": {
-      file_name: "north-goa-english-tour.html",
-      page: {
-        slug: "North-Goa-English-tour",
-        type: "day-trip",
-        hero: {
-          title: "Nord de Goa – Goa Portugaise",
-          subtitle:
-            "Excursion d'une journée complète à la découverte des plages, des forts et du patrimoine portugais du nord de Goa",
-          backgroundImage: "/assets/hero/Goa-1-hero.jpg",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.8/5 Rating"
-          }
-        },
-        language: "fr",
-        "metadata": {
-          "title": "Excursion d'une journée au Nord de Goa : Plages & Patrimoine",
-          "description": "Tour complet du Nord de Goa : Plages de Calangute, Baga, Anjuna, Fort Aguada, marchés et églises portugaises. Guide inclus."
-        }
-      },
-      cta: {
-        headline: "Prêt à explorer le nord de Goa?",
-        description:
-          "Réservez maintenant et sécurisez votre place pour une journée inoubliable à la découverte du Goa portugais",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "Salut!Je suis intéressé par votre excursion d'une journée complète dans le nord de Goa.S'il vous plaît envoyez-moi des détails.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Petits groupes",
-          description: "Max 15 voyageurs",
-        },
-        {
-          title: "Transports privés",
-          description: "Véhicules climatisés partout",
-        },
-        {
-          title: "Repas inclus",
-          description: "Petit déjeuner inclus",
-        },
-        {
-          title: "Lieux emblématiques",
-          description: "Toutes les principales attractions",
-        },
-      ],
-      itinerary: [
-        {
-          time: "15h30",
-          title: "Prise en charge à l’hôtel",
-          description:
-            "Votre expérience de luxe commence par un transfert privé depuis votre hôtel. Détendez-vous dans un véhicule climatisé pendant le trajet vers le quai.",
-          category: "voyage",
-        },
-        {
-          time: "16h00",
-          title: "Embarquement sur le yacht de luxe",
-          description:
-            "Arrivez au quai et montez à bord d’un yacht de luxe avec piscine à débordement, pont lounge, bar privé, DJ en direct et espace de restauration haut de gamme. Vous êtes accueillis avec un cocktail de bienvenue rafraîchissant.",
-          category: "arrivée",
-          highlight: true,
-        },
-        {
-          time: "16h15",
-          title: "Amuse-bouches et rafraîchissements",
-          description:
-            "Savourez des jus tropicaux frais, des boissons sans alcool, des mocktails et de légères collations (végétariennes et non végétariennes) pendant que le yacht commence sa croisière.",
-          category: "repas",
-        },
-        {
-          time: "17h00",
-          title: "Croisière au coucher du soleil & DJ Live",
-          description:
-            "Admirez un magnifique coucher du soleil tout en naviguant le long des routes pittoresques. Profitez de la musique d’un DJ en direct, détendez-vous sur le pont soleil, profitez de la piscine à débordement et capturez des moments dorés.",
-          category: "exploration",
-          highlight: true,
-        },
-        {
-          time: "18h00",
-          title: "Expérience piscine à débordement",
-          description:
-            "Plongez dans la piscine à débordement du yacht pour une expérience maritime unique. Nagez, flottez ou détendez-vous alors que le ciel passe du coucher du soleil au crépuscule.",
-          category: "aventure",
-        },
-        {
-          time: "19h00",
-          title: "Dîner gastronomique",
-          description:
-            "Savourez un dîner raffiné élaboré par le chef: plateaux barbecue (végétariens et non-végétariens), sushis, accompagnements premium, salades et plats servis à table par l’équipage.",
-          category: "repas",
-          highlight: true,
-        },
-        {
-          time: "20h00",
-          title: "Desserts et moment lounge",
-          description:
-            "Dégustez des desserts raffinés: cheesecake, mousse au chocolat et fruits frais. Détendez-vous dans le salon ou profitez encore de la musique du DJ.",
-          category: "repas",
-        },
-        {
-          time: "20h30",
-          title: "Croisière au clair de lune",
-          description:
-            "Alors que la nuit tombe, profitez d’une paisible croisière au clair de lune sous les étoiles avec vue sur la côte illuminée, ambiance douce et musique chill.",
-          category: "exploration",
-          highlight: true,
-        },
-        {
-          time: "22h00",
-          title: "Retour au quai",
-          description:
-            "Le yacht accoste de nouveau, marquant la fin de votre expérience de croisière de luxe.",
-          category: "voyage",
-        },
-        {
-          time: "22h15",
-          title: "Retour à l’hôtel",
-          description:
-            "Transfert privé de retour vers votre hôtel avec des souvenirs inoubliables de cette expérience en yacht de luxe.",
-          category: "arrivée",
-        },
-      ],
-      gallery: [
-        {
-          title: "Plage de Calangute",
-          description: "Reine des plages",
-          image: "/assets/destinations/Goa/Calangute-Beach.webp",
-        },
-        {
-          title: "Fort d'Aguada",
-          description: "Fort portugais du XVIIe siècle",
-          image: "../../assets/destinations/Goa/fort-aguada.webp",
-        },
-        {
-          title: "Plage d'Anjuna",
-          description: "Plage bohème et marché aux puces",
-          image: "../../assets/destinations/Goa/Anjuna-Beach.webp",
-        },
-        {
-          title: "Églises portugaises",
-          description: "Patrimoine colonial",
-          image: "../../assets/destinations/Goa/Basilica of Bom Jesus.webp",
-        },
-        {
-          title: "Point de vue de Vagator",
-          description: "Vues imprenables sur les falaises",
-          image: "/assets/destinations/Goa/Vagator-Viewpoint.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Transport",
-          description: "",
-        },
-        {
-          title: "Petit-déjeuner",
-          description: "",
-        },
-        {
-          title: "Frais d'entrée",
-          description: "",
-        },
-        {
-          title: "guide russophone",
-          description: "",
-        },
-        {
-          title: "Visite d'une journée complète",
-          description: "Heure de début : 8h00",
-        },
-      ],
-    },
+
     "goa-one-day-sightseeing-tour": {
       file_name: "One-Day-South-Goa-trip-package.html",
       page: {
@@ -3255,369 +4384,212 @@ export const fr = {
         },
       ],
     },
-    "south-goa-1-day-cultural-&-beach-tour-package": {
-      file_name: "South-Goa-1-Day-Cultural-and-Beach-Tour-package.html",
-      page: {
-        slug: "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
-        type: "day-trip",
-        hero: {
-          title: "Sud de Goa – Goa Culturelle (Visite d'une Journée)",
-          subtitle:
-            "Une immersion d'une journée complète dans la riche histoire, l'architecture et le patrimoine spirituel du sud de Goa.",
-          backgroundImage: "/assets/hero/Goa-Sightseeing-hero.webp",
-          "meta": {
-            "duration": "Full Day (8:00 AM – 5:30 PM)"
-          }
-        },
-        language: "fr",
-        "metadata": {
-          "title": "Tour au Sud de Goa : Patrimoine, Plages et Dîner-Croisière",
-          "description": "Explorez les églises du Vieux Goa, les temples, les plages et profitez d'un dîner-croisière sur la rivière Mandovi en tour privé."
-        }
-      },
-      cta: {
-        headline: "Réservez votre expérience culturelle à Goa",
-        description:
-          "Réservez votre place pour une journée d'exploration des sites du patrimoine de l'UNESCO, des temples anciens et de la beauté pittoresque de Goa.",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "Salut!Je suis intéressé par la visite culturelle d'une journée dans le sud de Goa.S'il vous plaît envoyez-moi des détails.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Heure de début",
-          description: "8h00",
-        },
-        {
-          title: "Transport",
-          description: "Véhicule climatisé confortable",
-        },
-        {
-          title: "Petit-déjeuner",
-          description: "Compris",
-        },
-        {
-          title: "Guide",
-          description: "Guide russophone",
-        },
-      ],
-      itinerary: [
-        {
-          time: "8h00",
-          title: "Départ de l’hôtel",
-          description:
-            "Commencez votre journée par un trajet confortable vers Old Goa. Rencontrez votre guide russophone qui vous présentera l’histoire et la culture riches de Goa.",
-          category: "voyage",
-        },
-        {
-          time: "9h00",
-          title: "Pause petit-déjeuner",
-          description:
-            "Profitez d’un petit-déjeuner copieux en route avant de commencer l’exploration culturelle.",
-          category: "repas",
-        },
-        {
-          time: "9h30",
-          title: "Visite des églises d’Old Goa",
-          description:
-            "Explorez Old Goa, un site classé au patrimoine mondial de l’UNESCO célèbre pour son architecture coloniale. Visitez la Tour de Saint-Augustin, la Basilique du Bon Jésus (reliques de Saint François Xavier), la Cathédrale Sainte-Catherine et l’Église Saint-Cajetan inspirée de la Basilique Saint-Pierre de Rome. Le guide expliquera la signification historique de chaque monument.",
-          category: "exploration",
-          highlight: true,
-        },
-        {
-          time: "11h30",
-          title: "Visite des temples",
-          description:
-            "Découvrez le patrimoine spirituel de Goa en visitant le Temple de Shanta Durga (déesse de la paix), le Temple de Mangeshi (l’un des plus anciens temples de Shiva à Goa) et le Temple de Balaji, inspiré du sanctuaire de Tirupati Balaji, entouré de verdure.",
-          category: "exploration",
-        },
-        {
-          time: "14h00",
-          title: "Plage de Miramar",
-          description:
-            "Détendez-vous sur la plage de Miramar, à l’embouchure de la rivière Mandovi, offrant une vue magnifique sur la mer d’Oman.",
-          category: "exploration",
-        },
-        {
-          time: "14h45",
-          title: "Point de vue de Dona Paula",
-          description:
-            "Visitez le point de vue pittoresque et romantique de Dona Paula, célèbre pour ses panoramas marins et sa jetée emblématique.",
-          category: "exploration",
-          highlight: true,
-        },
-        {
-          time: "16h30",
-          title: "Marché de Panjim",
-          description:
-            "Explorez le marché local de Panjim pour acheter des souvenirs, des épices, des noix de cajou, de l’artisanat et des spécialités goanaises.",
-          category: "exploration",
-        },
-        {
-          time: "17h30",
-          title: "Retour à l’hôtel",
-          description:
-            "Détendez-vous pendant votre trajet retour après une journée riche en histoire, culture et beauté naturelle.",
-          category: "voyage",
-        },
-      ],
-      gallery: [
-        {
-          title: "Vieilles églises de Goa",
-          description: "Site du patrimoine de l'UNESCO",
-          image: "../../assets/destinations/Goa/Basilica of Bom Jesus.webp",
-        },
-        {
-          title: "Temple Mangeshi",
-          description: "La demeure du Seigneur Shiva",
-          image: "../../assets/destinations/Goa/Mangeshi-Temple.webp",
-        },
-        {
-          title: "Marché de Panaji",
-          description: "Shopping et culture locale",
-          image: "../../assets/destinations/Goa/Panjim-Market.webp",
-        },
-        {
-          title: "Cathédrale de Sé",
-          description: "La plus grande église d'Asie",
-          image: "../../assets/destinations/Goa/Se-Cathedral.webp",
-        },
-        {
-          title: "Temple Shanta Durga",
-          description: "Serein et paisible",
-          image: "../../assets/destinations/Goa/Shanta-Durga-Temple.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Transport",
-          description: "Véhicule confortable pour toute la durée du circuit.",
-        },
-        {
-          title: "Petit-déjeuner",
-          description: "Petit-déjeuner sain inclus en cours de route.",
-        },
-        {
-          title: "Frais d'entrée",
-          description:
-            "Tous les frais d’entrée aux monuments et sites selon l’itinéraire.",
-        },
-        {
-          title: "Guide",
-          description: "Services d'un guide russophone compétent.",
-        },
-      ],
-    },
-    "south-goa-1-day-trip-package": {
-      file_name: "South-Goa-1-Day-Trip-package.html",
-      page: {
-        slug: "palolem-cola-full-day-tour",
-        type: "day-trip",
-        hero: {
-          title: "Journée Complète à Palolem et Cola",
-          subtitle:
-            "Visite d'île en île, observation des dauphins, kayak dans le Blue Lagoon et exploration des joyaux cachés du sud de Goa",
-          backgroundImage: "/assets/destinations/South-goa/palolem-beach.webp",
-          "meta": {
-            "duration": "Full Day",
-            "rating": "4.9/5 Rating"
-          }
-        },
-        language: "fr",
-        "metadata": {
-          "title": "Tour Palolem-Cola : Dauphins et Saut d'Île en Île",
-          "description": "Le meilleur du sud de Goa : dauphins, îles, plage de Butterfly, kayak à Cola Lagoon et fort de Cabo de Rama en tour privé."
-        }
-      },
-      cta: {
-        headline: "Prêt pour votre aventure d'île en île ?",
-        description:
-          "Réservez maintenant pour explorer les îles cachées du sud de Goa, observer les dauphins et faire du kayak dans le Blue Lagoon",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "Salut!Je suis intéressé par votre visite d'une journée complète à Palolem Cola.S'il vous plaît envoyez-moi des détails.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Visite d'île en île",
-          description: "Visitez plus de 4 îles en bateau",
-        },
-        {
-          title: "Observation des dauphins",
-          description: "Observations de dauphins garanties",
-        },
-        {
-          title: "Kayak",
-          description: "À Cola Beach, lagon bleu",
-        },
-        {
-          title: "Guide russe",
-          description: "Guide russophone inclus",
-        },
-      ],
-      itinerary: [
-        {
-          time: "8:00 AM",
-          title: "Prise en charge à l'hôtel",
-          description:
-            "Prise en charge confortable depuis votre hôtel dans un véhicule privé",
-          category: "activity",
-        },
-        {
-          time: "9:00 AM",
-          title: "Petit-déjeuner près de Palolem",
-          description:
-            "Savourez un délicieux petit-déjeuner dans un café pittoresque près de la plage de Palolem",
-          category: "meal",
-        },
-        {
-          time: "9:30 AM",
-          title: "Excursion en bateau à Palolem",
-          description:
-            "Montez à bord d'un bateau traditionnel de Goa pour une visite d'île en île",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "10:00 AM",
-          title: "Observation des dauphins",
-          description:
-            "Repérez des dauphins espiègles sautant à côté de votre bateau",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "10:30 AM",
-          title: "Plage aux papillons",
-          description:
-            "Visitez une crique cachée et sereine aux eaux claires et au sable doré",
-          category: "activity",
-        },
-        {
-          time: "11:00 AM",
-          title: "Île aux singes",
-          description:
-            "Découvrez des formations rocheuses uniques et des singes occasionnels",
-          category: "activity",
-        },
-        {
-          time: "11:15 AM",
-          title: "L'île des amoureux",
-          description: "Passez par une île romantique aux eaux cristallines",
-          category: "activity",
-        },
-        {
-          time: "11:30 AM",
-          title: "Plage de Cola (lagon bleu)",
-          description:
-            "Arrivée sur une magnifique plage avec un lagon et une rivière rencontrant la mer",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "12:00 PM",
-          title: "Kayak dans le lagon bleu",
-          description:
-            "Profitez du kayak dans le calme lagon d'eau douce (inclus)",
-          category: "adventure",
-          highlight: true,
-        },
-        {
-          time: "1:00 PM",
-          title: "Plage d'Agonda",
-          description:
-            "Visitez l'une des plages les plus propres et les plus paisibles du sud de Goa",
-          category: "activity",
-        },
-        {
-          time: "2:30 PM",
-          title: "Fort de Cabo de Rama",
-          description:
-            "Explorez l'un des plus anciens forts de Goa avec une vue imprenable sur les falaises",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "4:00 PM",
-          title: "Promenade en bateau côtier",
-          description:
-            "Promenade pittoresque en bateau près de la côte du fort avec observation des dauphins",
-          category: "activity",
-        },
-        {
-          time: "5:00 PM",
-          title: "Voyage de retour",
-          description: "Commencez par vous détendre en rentrant à votre hôtel",
-          category: "activity",
-        },
-        {
-          time: "6:30 PM",
-          title: "Dépose à l'hôtel",
-          description: "Rentrez à votre hôtel avec des souvenirs inoubliables",
-          category: "activity",
-        },
-      ],
-      gallery: [
-        {
-          title: "Lagon bleu de Cola Beach",
-          description: "Lagon d'eau douce rencontrant la mer",
-          image: "../../assets/destinations/South-goa/Blue-lagoon.webp",
-        },
-        {
-          title: "Observation des dauphins",
-          description: "Dauphins espiègles dans la mer d'Oman",
-          image: "../../assets/destinations/South-goa/dolphin-watching.webp",
-        },
-        {
-          title: "Visite d'île en île",
-          description: "Excursion en bateau traditionnel à Goa",
-          image: "../../assets/destinations/South-goa/island-hopping.webp",
-        },
-        {
-          title: "Plage d'Agonda",
-          description: "Etendue sablonneuse propre et paisible",
-          image: "../../assets/destinations/South-goa/agonda-beach.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Transports privés",
-          description: "Véhicule AC avec chauffeur pour tout le voyage",
-        },
-        {
-          title: "Petit-déjeuner",
-          description:
-            "Délicieux petit-déjeuner dans un café pittoresque près de Palolem",
-        },
-        {
-          title: "Voyage en bateau",
-          description:
-            "Bateau traditionnel de Goa pour une visite d'île en île",
-        },
-        {
-          title: "Kayak",
-          description: "Équipement de kayak à Cola Beach Blue Lagoon",
-        },
-        {
-          title: "Guide russe",
-          description: "Guide russophone compétent",
-        },
-        {
-          title: "Tous les frais d'entrée",
-          description: "Frais d'entrée à toutes les attractions mentionnées",
-        },
-      ],
-    },
+
+
+    //   file_name: "South-Goa-1-Day-Trip-package.html",
+    //   page: {
+    //     slug: "palolem-cola-full-day-tour",
+    //     type: "day-trip",
+    //     hero: {
+    //       title: "Journée Complète à Palolem et Cola",
+    //       subtitle:
+    //         "Visite d'île en île, observation des dauphins, kayak dans le Blue Lagoon et exploration des joyaux cachés du sud de Goa",
+    //       backgroundImage: "/assets/destinations/South-goa/palolem-beach.webp",
+    //       "meta": {
+    //         "duration": "Full Day",
+    //         "rating": "4.9/5 Rating"
+    //       }
+    //     },
+    //     language: "fr",
+    //     "metadata": {
+    //       "title": "Tour Palolem-Cola : Dauphins et Saut d'Île en Île",
+    //       "description": "Le meilleur du sud de Goa : dauphins, îles, plage de Butterfly, kayak à Cola Lagoon et fort de Cabo de Rama en tour privé."
+    //     }
+    //   },
+    //   cta: {
+    //     headline: "Prêt pour votre aventure d'île en île ?",
+    //     description:
+    //       "Réservez maintenant pour explorer les îles cachées du sud de Goa, observer les dauphins et faire du kayak dans le Blue Lagoon",
+    //     contact: {
+    //       whatsapp: {
+    //         number: "+919067972295",
+    //         message:
+    //           "Salut!Je suis intéressé par votre visite d'une journée complète à Palolem Cola.S'il vous plaît envoyez-moi des détails.",
+    //       },
+    //       phone: "+919067972295",
+    //     },
+    //   },
+    //   quickInfo: [
+    //     {
+    //       title: "Visite d'île en île",
+    //       description: "Visitez plus de 4 îles en bateau",
+    //     },
+    //     {
+    //       title: "Observation des dauphins",
+    //       description: "Observations de dauphins garanties",
+    //     },
+    //     {
+    //       title: "Kayak",
+    //       description: "À Cola Beach, lagon bleu",
+    //     },
+    //     {
+    //       title: "Guide russe",
+    //       description: "Guide russophone inclus",
+    //     },
+    //   ],
+    //   itinerary: [
+    //     {
+    //       time: "8:00 AM",
+    //       title: "Prise en charge à l'hôtel",
+    //       description:
+    //         "Prise en charge confortable depuis votre hôtel dans un véhicule privé",
+    //       category: "activity",
+    //     },
+    //     {
+    //       time: "9:00 AM",
+    //       title: "Petit-déjeuner près de Palolem",
+    //       description:
+    //         "Savourez un délicieux petit-déjeuner dans un café pittoresque près de la plage de Palolem",
+    //       category: "meal",
+    //     },
+    //     {
+    //       time: "9:30 AM",
+    //       title: "Excursion en bateau à Palolem",
+    //       description:
+    //         "Montez à bord d'un bateau traditionnel de Goa pour une visite d'île en île",
+    //       category: "activity",
+    //       highlight: true,
+    //     },
+    //     {
+    //       time: "10:00 AM",
+    //       title: "Observation des dauphins",
+    //       description:
+    //         "Repérez des dauphins espiègles sautant à côté de votre bateau",
+    //       category: "activity",
+    //       highlight: true,
+    //     },
+    //     {
+    //       time: "10:30 AM",
+    //       title: "Plage aux papillons",
+    //       description:
+    //         "Visitez une crique cachée et sereine aux eaux claires et au sable doré",
+    //       category: "activity",
+    //     },
+    //     {
+    //       time: "11:00 AM",
+    //       title: "Île aux singes",
+    //       description:
+    //         "Découvrez des formations rocheuses uniques et des singes occasionnels",
+    //       category: "activity",
+    //     },
+    //     {
+    //       time: "11:15 AM",
+    //       title: "L'île des amoureux",
+    //       description: "Passez par une île romantique aux eaux cristallines",
+    //       category: "activity",
+    //     },
+    //     {
+    //       time: "11:30 AM",
+    //       title: "Plage de Cola (lagon bleu)",
+    //       description:
+    //         "Arrivée sur une magnifique plage avec un lagon et une rivière rencontrant la mer",
+    //       category: "activity",
+    //       highlight: true,
+    //     },
+    //     {
+    //       time: "12:00 PM",
+    //       title: "Kayak dans le lagon bleu",
+    //       description:
+    //         "Profitez du kayak dans le calme lagon d'eau douce (inclus)",
+    //       category: "adventure",
+    //       highlight: true,
+    //     },
+    //     {
+    //       time: "1:00 PM",
+    //       title: "Plage d'Agonda",
+    //       description:
+    //         "Visitez l'une des plages les plus propres et les plus paisibles du sud de Goa",
+    //       category: "activity",
+    //     },
+    //     {
+    //       time: "2:30 PM",
+    //       title: "Fort de Cabo de Rama",
+    //       description:
+    //         "Explorez l'un des plus anciens forts de Goa avec une vue imprenable sur les falaises",
+    //       category: "activity",
+    //       highlight: true,
+    //     },
+    //     {
+    //       time: "4:00 PM",
+    //       title: "Promenade en bateau côtier",
+    //       description:
+    //         "Promenade pittoresque en bateau près de la côte du fort avec observation des dauphins",
+    //       category: "activity",
+    //     },
+    //     {
+    //       time: "5:00 PM",
+    //       title: "Voyage de retour",
+    //       description: "Commencez par vous détendre en rentrant à votre hôtel",
+    //       category: "activity",
+    //     },
+    //     {
+    //       time: "6:30 PM",
+    //       title: "Dépose à l'hôtel",
+    //       description: "Rentrez à votre hôtel avec des souvenirs inoubliables",
+    //       category: "activity",
+    //     },
+    //   ],
+    //   gallery: [
+    //     {
+    //       title: "Lagon bleu de Cola Beach",
+    //       description: "Lagon d'eau douce rencontrant la mer",
+    //       image: "../../assets/destinations/South-goa/Blue-lagoon.webp",
+    //     },
+    //     {
+    //       title: "Observation des dauphins",
+    //       description: "Dauphins espiègles dans la mer d'Oman",
+    //       image: "../../assets/destinations/South-goa/dolphin-watching.webp",
+    //     },
+    //     {
+    //       title: "Visite d'île en île",
+    //       description: "Excursion en bateau traditionnel à Goa",
+    //       image: "../../assets/destinations/South-goa/island-hopping.webp",
+    //     },
+    //     {
+    //       title: "Plage d'Agonda",
+    //       description: "Etendue sablonneuse propre et paisible",
+    //       image: "../../assets/destinations/South-goa/agonda-beach.webp",
+    //     },
+    //   ],
+    //   inclusions: [
+    //     {
+    //       title: "Transports privés",
+    //       description: "Véhicule AC avec chauffeur pour tout le voyage",
+    //     },
+    //     {
+    //       title: "Petit-déjeuner",
+    //       description:
+    //         "Délicieux petit-déjeuner dans un café pittoresque près de Palolem",
+    //     },
+    //     {
+    //       title: "Voyage en bateau",
+    //       description:
+    //         "Bateau traditionnel de Goa pour une visite d'île en île",
+    //     },
+    //     {
+    //       title: "Kayak",
+    //       description: "Équipement de kayak à Cola Beach Blue Lagoon",
+    //     },
+    //     {
+    //       title: "Guide russe",
+    //       description: "Guide russophone compétent",
+    //     },
+    //     {
+    //       title: "Tous les frais d'entrée",
+    //       description: "Frais d'entrée à toutes les attractions mentionnées",
+    //     },
+    //   ],
+    // },
     "south-goa-sunset-cruise": {
       file_name: "south-goa-sunset-cruise.html",
       page: {
