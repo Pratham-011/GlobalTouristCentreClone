@@ -1817,8 +1817,8 @@ export const en = {
         "slug": "wondrous-wildernest-trip-package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Wondrous Wildernest Trip",
-          "herotitle": "Wondrous Wildernest Trip",
+          "title": "3-Day Wildernest Nature & Adventure Retreat in Goap",
+          "herotitle": "3-Day Wildernest Nature & Adventure Retreat in Goa",
           "subtitle": "A magical 2-night, 3-day escape into the wilderness of Goa's nature resort",
           "backgroundImage": "/assets/hero/wildernest-hero.webp",
           "meta": {
@@ -1829,8 +1829,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Wondrous Wildernest 2N/3D Trip – Global Tourist Centre",
-          "description": "Book a 2N/3D Wildernest Nature Resort trip from Goa. Includes forest treks, pottery, henna, sunset treks, entertainment, all meals, and hotel pick-up & drop-off."
+          "title": "Wildernest Nature Retreat: 3-Day Goa Forest & Adventure Trip",
+          "description": "Experience Goa’s Wildernest Nature Resort with forest treks, pottery,henna, sunset hikes, and full-board luxury on a 3-day adventure retreat"
         }
       },
       "cta": {
@@ -2584,7 +2584,7 @@ export const en = {
         "slug": "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
         "type": "day-trip",
         "hero": {
-          "title": "South Goa – Cultural Goa (Full-Day Tour)",
+          "title": "South Goa 1-Day Tour: Heritage, Beaches & River Cruise Adventure",
           "herotitle": "South Goa – Cultural Goa",
           "subtitle": "A full-day immersion into the rich history, architecture, and spiritual heritage of South Goa.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
@@ -2751,7 +2751,7 @@ export const en = {
         "slug": "One-Day-South-Goa-trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "South Goa Coastal Adventure",
+          "title": "One-Day South Goa Exploration Tour for Foreign Travelers",
           "herotitle": "South Goa Coastal Adventure",
           "subtitle": "Experience the pristine beaches and hidden gems of South Goa in one unforgettable day",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
@@ -4215,8 +4215,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "7N/8D Bhutan Tour Package | Himalayan Kingdom Adventure",
-          "description": "Book 7 Nights 8 Days Bhutan trip from Goa at 30% off. Explore Thimphu, Punakha, Paro & Tiger's Nest with guided tours, transfers, meals & hotel stay."
+          "title": "7N/8D Bhutan Tour Package @30% Off Only from Goa",
+          "description": "Book 7 Nights 8 Days Bhutan trip from Goa at 30% off. Explore Thimphu,Punakha, Paro & Tiger’s Nest with guided tours, transfers, meals & hotel stay."
         }
       },
       "cta": {
@@ -5330,7 +5330,7 @@ export const en = {
         "slug": "Cabo-Serai-2N-3D-Luxury-Getaway",
         "type": "domestic-trip",
         "hero": {
-          "title": "Luxury 2N/3D Cabo Serai Getaway",
+          "title": "Luxury 2N/3D Cabo Serai Getaway: Relax, Explore & Indulge in Goa",
           "subtitle": "Experience Goa's best kept secret - luxury cottages with breathtaking Arabian Sea views",
           "backgroundImage": "/assets/hero/Cabo-hero.webp",
           "meta": {
@@ -5671,8 +5671,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Dandeli Elephant Safari Day Excursion – Jungle Adventure",
-          "description": "Enjoy a thrilling Dandeli elephant safari day excursion with white water rafting, jeep safari & wildlife views. Book an action-packed nature adventure now!."
+          "title": "Dandeli Elephant Safari & Adventure Day Trip Package",
+          "description": "Experience a one-day Dandeli trip with elephant safari, jeep ride, river rafting, kayaking & natural jacuzzi. Perfect for wildlife & adventure lovers"
         }
       },
       "cta": {
@@ -6351,7 +6351,7 @@ export const en = {
         "slug": "Dudhsagar-and-Spice-Plantation-Day-Trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Dudhsagar Falls & Spice Plantation Day Trip",
+          "title": "One-Day Dudhsagar Waterfall & Spice Plantation Tour for Foreign Travelers",
           "subtitle": "Experience the majestic Dudhsagar Falls and explore aromatic spice plantations in one unforgettable day",
           "backgroundImage": "/assets/hero/Dudhsagar-hero.webp",
           "meta": {
@@ -6362,7 +6362,7 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Dudhsagar Falls & Spice Plantation Day excursion for foreigners",
+          "title": "Dudhsagar Falls & Spice Plantation Day Trip for Foreigners",
           "description": "Experience Goa’s Dudhsagar Falls, guided spice plantation excursion & traditional lunch on a full-day adventure. Private transport and scenic views await!."
         }
       },
@@ -6664,7 +6664,7 @@ export const en = {
         "slug": "Gokarna-Murdeshwar-one-day-trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Gokarna & Murdeshwar Day Trip Package from Goa",
+          "title": "One-Day Gokarna & Murdeshwar Trip Package from Goa",
           "subtitle": "Discover beaches, Temples in one  day",
           "backgroundImage": "/assets/hero/Gokarna-hero.webp",
           "meta": {
@@ -6675,8 +6675,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": " Gokarna & Murdeshwar Day Excursion – Coastal India Tour",
-          "description": "Enjoy a day excursion from Goa to Gokarna’s beaches & temples and Murudeshwar’s iconic Shiva statue with sea views. Perfect for first-time foreign travellers!"
+          "title": "One-Day Gokarna & Murdeshwar Trip from Goa for Foreigners",
+          "description": "Explore Gokarna & Murdeshwar in a one-day trip from Goa. Visit ancient temples, Om Beach & Shiva statue—perfect for foreign travelers in India."
         }
       },
       "cta": {
@@ -7965,7 +7965,7 @@ export const en = {
         "slug": "luxury-yacht-day-tour-goa",
         "type": "",
         "hero": {
-          "title": "3D/2N Yacht Day Tour Package – Luxury Sunset Cruise Goa\"",
+          "title": "3D/2N Yacht Day Tour Package – Luxury Sunset Cruise Goa",
           "herotitle": "Luxury Yacht Tour: Sunset to Dinner Experience",
           "subtitle": "An exclusive 3D/2N premium experience with infinity pool, live DJ, gourmet dining, and sunset views",
           "backgroundImage": "/assets/hero/Luxury-Yacht-Goa-hero.webp",
@@ -8135,8 +8135,8 @@ export const en = {
         "slug": "Mumbai-day-trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Mumbai - City of Lights",
-          "herotitle": "Mumbai in a Day: Complete City Tour Experience",
+          "title": "Mumbai in a Day Tour Package from Goa for Foreign Travelers",
+          "herotitle": "Mumbai in a Day Tour Package from Goa for Foreign Travelers",
           "subtitle": "Full Day tour from Goa to Mumbai including airfare, Gateway of India, Taj Mahal Palace, and English-speaking guide",
           "backgroundImage": "/assets/hero/mumbai-hero.webp",
           "meta": {
@@ -8147,8 +8147,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Mumbai One Day Excursion from Goa – City Highlights Tour",
-          "description": "Fly from Goa for a full-day Mumbai excursion with iconic sights like Gateway of India, Marine Drive & Elephanta Caves. Experience culture, history & city life!"
+          "title": "Mumbai Day Trip from Goa for Foreign Travelers",
+          "description": "Fly from Goa for a one-day Mumbai tour. Explore Gateway of India,Dharavi, Dhobi Ghat & UNESCO sites with a guide—perfect for foreign travelers in India."
         }
       },
       "cta": {
@@ -8338,7 +8338,7 @@ export const en = {
         "slug": "Netravali-day-trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Netravali Trip",
+          "title": "One-Day Netravali Trip: Wildlife, Waterfalls & Scenic Goan Villages",
           "subtitle": "Immerse yourself in the natural beauty and cultural richness of Goa's hinterland",
           "backgroundImage": "/assets/hero/Netravali-hero.webp",
           "meta": {
@@ -8349,8 +8349,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Netravali Wildlife Day Excursion – Goa Nature Safari",
-          "description": "Explore Netravali Wildlife Sanctuary on a day excursion with waterfalls, jeep safari, birdwatching & lush Western Ghats views. Perfect for nature lovers!"
+          "title": "Netravali Day Trip: Wildlife, Waterfalls & Goan Villages",
+          "description": "Explore Netravali Wildlife Sanctuary, Bubbling Lake, waterfalls & scenic Goan villages on a one-day trip. Perfect nature escape for travelers in India!"
         }
       },
       "cta": {
@@ -10497,8 +10497,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Shimoga Trip Package from Goa – 1N/2D Nature Escape | Global Tourist Centre",
-          "description": "Book a 1 Night 2 Days Shimoga trip from Goa. Includes hotel stay, guide, and transportation."
+          "title": "Goa to Shimoga Safari: Yana Caves & Jog Falls 2D Trip",
+          "description": "Experience a 2-day nature & wildlife retreat from Goa. Explore Yana Caves, Shimoga safari, Aghoreshwara Temple & Jog Falls with guided tours."
         }
       },
       "cta": {
@@ -12206,7 +12206,7 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": " Best Vietnam Tour package – Top Vietnam Experiences & Highlights",
+          "title": "5N6D Vietnam Tour Package from Goa - Book now",
           "description": "Book a 5 Nights 6 Days Vietnam trip package including Hanoi, Ha Long Bay, Da Nang & Hoi An. Includes guided tours, cruises & cultural experiences."
         }
       },

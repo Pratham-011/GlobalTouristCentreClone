@@ -1790,10 +1790,11 @@ export const fr = {
           }
         },
         "language": "fr",
-        "metadata": {
-          "title": "Merveilleux Voyage à Wildernest 2N/3J – Global Tourist Centre",
-          "description": "Réservez un voyage 2N/3J au Wildernest Nature Resort depuis Goa. Inclut treks forestiers, poterie, henné, treks au coucher du soleil, divertissements, tous les repas et transfert hôtel."
-        }
+  metadata: {
+    title: "Wildernest Nature Retreat : séjour nature et aventure de 3 jours à Goa",
+    description:
+      "Découvrez le Wildernest Nature Resort à Goa avec des randonnées en forêt, poterie, henné, balades au coucher du soleil et pension complète dans un séjour aventure de 3 jours."
+  }
       },
       "cta": {
         "headline": "Prêt pour votre aventure à Wildernest ?",
@@ -2353,7 +2354,7 @@ export const fr = {
         "slug": "South-Goa-1-Day-Trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Tour d'une Journée Entière Palolem Cola",
+          "title": "Excursion privée d’une journée dans le sud de Goa : plages, dauphins et kayak",
           "herotitle": "Tour d'une Journée Entière Palolem Cola",
           "subtitle": "Saut d'île en île, observation des dauphins, kayak dans la Lagune Bleue et joyaux cachés du Goa du Sud",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
@@ -2366,8 +2367,8 @@ export const fr = {
         },
         "language": "fr",
         "metadata": {
-          "title": "Tour d'une Journée Entière Palolem Cola : Observation des Dauphins et Saut d'Île en Île",
-          "description": "Le meilleur du Goa du Sud : observation des dauphins, saut d'île en île, Butterfly Beach, kayak à la Lagune de Cola, Agonda Beach et Fort Cabo de Rama."
+          "title": "Excursion d’une journée dans le sud de Goa : dauphins et aventure plage",
+          "description": "Explorez les plages de Palolem et Cola dans le sud de Goa, observation des dauphins, plage Butterfly, kayak et fort Cabo-de-Rama dans le cadre d'une excursion privée d'une journée."
         }
       },
       "cta": {
@@ -2546,8 +2547,8 @@ export const fr = {
         "slug": "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
         "type": "day-trip",
         "hero": {
-          "title": "Goa du Sud – Goa Culturelle (Tour d'une Journée Entière)",
-          "herotitle": "Goa du Sud – Goa Culturelle",
+          "title": "Excursion d’une journée dans le sud de Goa : patrimoine, plages et croisière fluviale",
+          "herotitle": "Excursion d’une journée dans le sud de Goa : patrimoine, plages et croisière fluviale",
           "subtitle": "Une immersion d'une journée entière dans la riche histoire, l'architecture et le patrimoine spirituel du Goa du Sud.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
@@ -2714,7 +2715,7 @@ export const fr = {
         "slug": "One-Day-South-Goa-trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Aventure Côtière dans le Goa du Sud",
+          "title": "Excursion d’une journée dans le sud de Goa pour voyageurs étrangers",
           "herotitle": "Aventure Côtière dans le Goa du Sud",
           "subtitle": "Découvrez les plages préservées et les joyaux cachés du Goa du Sud en une journée inoubliable",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
@@ -3084,8 +3085,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Safari en Éléphant à Dandeli & Journée d'Aventure",
-          "description": "Expérience d'une journée à Dandeli avec safari en éléphant, jeep, rafting, kayak et jacuzzi naturel. Parfait pour les amoureux de la nature."
+          "title": "Forfait excursion d’une journée à Dandeli : safari d’éléphants et aventure",
+          "description": "Vivez une excursion d’une journée à Dandeli avec safari d’éléphants, balade en jeep, rafting, kayak et jacuzzi naturel. Parfait pour les amateurs de nature et d’aventure."
         }
       },
       cta: {
@@ -3251,7 +3252,7 @@ export const fr = {
         slug: "Dudhsagar-and-Spice-Plantation-Day-Trip-package",
         type: "day-trip",
         hero: {
-          title: "Journée aux Chutes de Dudhsagar & Plantation d'Épices",
+          title: "Excursion d’une journée aux chutes de Dudhsagar et plantations d’épices pour voyageurs étrangers",
           subtitle:
             "Découvrez les majestueuses chutes Dudhsagar et explorez les plantations d'épices aromatiques au cours d'une journée inoubliable",
           backgroundImage: "/assets/hero/Dudhsagar-hero.webp",
@@ -3263,8 +3264,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Journée aux Chutes de Dudhsagar & Plantation d'Épices pour les Étrangers",
-          "description": "Chutes de Dudhsagar et plantations d'épices de Goa en une journée. Idéal pour les voyageurs étrangers : culture, nature et déjeuner authentique."
+          "title": "Excursion d’une journée aux chutes de Dudhsagar et plantations d’épices pour étrangers",
+          "description": "Découvrez les chutes de Dudhsagar et les plantations d’épices de Goa en une journée. Idéal pour les voyageurs étrangers en Inde recherchant culture, nature et un déjeuner goanais authentique."
         }
       },
       cta: {
@@ -3421,7 +3422,7 @@ export const fr = {
         slug: "Gokarna-Murdeshwar-one-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Journée à Gokarna & Murdeshwar au départ de Goa",
+          title: "Forfait excursion d’une journée à Gokarna et Murdeshwar depuis Goa",
           subtitle: "Découvrez les plages et les temples en une journée",
           backgroundImage: "/assets/hero/Gokarna-hero.webp",
           "meta": {
@@ -3432,8 +3433,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Journée à Gokarna & Murdeshwar au départ de Goa pour les Étrangers",
-          "description": "Explorez Gokarna et Murdeshwar en une journée au départ de Goa. Temples anciens, Om Beach et statue de Shiva — parfait pour les étrangers."
+          "title": "Excursion d’une journée à Gokarna et Murdeshwar depuis Goa pour étrangers",
+          "description": "Explorez Gokarna et Murdeshwar lors d’une excursion d’une journée depuis Goa. Visitez des temples anciens, la plage Om et la statue de Shiva — parfait pour les voyageurs étrangers en Inde."
         }
       },
       cta: {
@@ -3787,7 +3788,7 @@ export const fr = {
         slug: "Mumbai-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Mumbai – Ville des Lumières",
+          title: "Forfait visite de Mumbai en une journée depuis Goa pour voyageurs étrangers",
           subtitle:
             "Excursion d'une journée complète de Goa à Mumbai comprenant le billet d'avion, la Porte de l'Inde, le palais du Taj Mahal et un guide anglophone",
           backgroundImage: "/assets/hero/mumbai-hero.webp",
@@ -3799,8 +3800,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Excursion d’une journée à Mumbai depuis Goa — Circuit des incontournables",
-          "description": "Envolez-vous depuis Goa pour une excursion d’une journée à Mumbai incluant les lieux emblématiques tels que la Gateway of India, Marine Drive et les grottes d’Elephanta. Découvrez culture, histoire et vie urbaine !"
+          "title": "Excursion d’une journée à Mumbai depuis Goa pour voyageurs étrangers",
+          "description": "Envolez-vous depuis Goa pour une visite d’une journée à Mumbai. Découvrez la Gateway of India, Dharavi, Dhobi Ghat et des sites classés à l’UNESCO avec un guide — idéal pour les voyageurs étrangers en Inde."
         }
 
       },
@@ -4008,9 +4009,9 @@ export const fr = {
         slug: "Netravali-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Voyage à Netravali",
+          title: "Excursion d’une journée à Netravali : faune, cascades et villages pittoresques de Goa",
           subtitle:
-            "Plongez dans la beauté naturelle et la richesse culturelle de l'arrière-pays de Goa",
+            "Découvrez la beauté naturelle et la richesse culturelle de l'arrière-pays de Goa lors d'une excursion d'une journée complète au départ de Goa.",
           backgroundImage: "/assets/hero/Netravali-hero.webp",
           "meta": {
             "duration": "1 jour(s)",
@@ -4021,7 +4022,7 @@ export const fr = {
         language: "fr",
         "metadata": {
           "title": "Journée à Netravali : Nature, Cascades et Villages de Goa",
-          "description": "Explorez le sanctuaire de Netravali, le lac bouillonnant, les cascades et les villages pittoresques. L'évasion nature parfaite en Inde !"
+          "description": "Explorez le sanctuaire faunique de Netravali, le lac Bubbling, les cascades et les villages pittoresques de Goa en une journée. Parfaite escapade nature pour les voyageurs en Inde!"
         }
       },
       cta: {
@@ -9200,10 +9201,11 @@ export const fr = {
           }
         },
         language: "fr",
-        "metadata": {
-          "title": "Voyage Shimoga & Chutes de Jog (1N/2J)",
-          "description": "Réservez un circuit d'1 nuit et 2 jours à Shimoga. Visitez les chutes de Jog, le safari lions/tigres de Tyavarekoppa et le camp d'éléphants de Sakrebailu."
-        }
+  metadata: {
+    title: "Safari de Goa à Shimoga : grottes de Yana et chutes de Jog (2 jours)",
+    description:
+      "Vivez une escapade nature et faune de 2 jours depuis Goa. Explorez les grottes de Yana, le safari à Shimoga, le temple Aghoreshwara et les chutes de Jog avec des visites guidées."
+  }
       },
       cta: {
         headline: "Prêt pour votre aventure nature et faune à Shimoga ?",
@@ -10379,7 +10381,7 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Forfait Voyage 7N/8D au Bhoutan | Aventure au Royaume Himalayen",
+          "title": "Forfait Bhoutan 7N/8J avec 30% de réduction depuis Goa",
           "description": "Voyage de 7 nuits et 8 jours au Bhoutan au départ de Goa à -30%. Explorez Thimphu, Punakha, Paro et le Nid du Tigre avec visites guidées, transferts, repas et hôtel."
         }
       },
@@ -13182,8 +13184,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Voyage Culturel et Scénique au Vietnam",
-          "description": "Tour de 6 jours au Vietnam : Hanoi, Baie d'Ha Long, Da Nang et Hoi An. Croisières, guides et culture inclus."
+          "title": "Forfait Vietnam 5N6J depuis Goa - Réservez maintenant",
+          "description": "Réservez un voyage au Vietnam de 5 nuits et 6 jours incluant Hanoï, la baie d’Ha Long, Da Nang et Hoi An. Comprend des visites guidées, des croisières et des expériences culturelles."
         }
       },
       cta: {

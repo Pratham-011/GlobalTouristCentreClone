@@ -1909,10 +1909,11 @@ export const it = {
           }
         },
         "language": "it",
-        "metadata": {
-          "title": "Meraviglioso Viaggio a Wildernest 2N/3G – Global Tourist Centre",
-          "description": "Prenota un viaggio 2N/3G al Wildernest Nature Resort da Goa. Include trekking forestale, ceramica, henna, trekking al tramonto, intrattenimento, tutti i pasti e trasferimento da/per l'hotel."
-        }
+  metadata: {
+    title: "Wildernest Nature Retreat: viaggio avventura nella foresta di Goa di 3 giorni",
+    description:
+      "Vivi il Wildernest Nature Resort a Goa con trekking nella foresta, ceramica, henné, escursioni al tramonto e pensione completa in un ritiro avventura di 3 giorni."
+  }
       },
       "cta": {
         "headline": "Pronti per la vostra avventura a Wildernest?",
@@ -2472,7 +2473,7 @@ export const it = {
         "slug": "South-Goa-1-Day-Trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Tour di un Giorno Intero Palolem Cola",
+          "title": "Tour privato di un giorno nel Sud di Goa: spiagge, delfini e kayak",
           "herotitle": "Tour di un Giorno Intero Palolem Cola",
           "subtitle": "Hopping tra isole, avvistamento delfini, kayak nella Laguna Blu e gemme nascoste del Goa del Sud",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
@@ -2485,8 +2486,8 @@ export const it = {
         },
         "language": "it",
         "metadata": {
-          "title": "Tour di un Giorno Intero Palolem Cola: Avvistamento Delfini e Hopping tra Isole",
-          "description": "Il meglio del Goa del Sud: avvistamento delfini, hopping tra isole, Butterfly Beach, kayak alla Laguna di Cola, Agonda Beach e Forte Cabo de Rama."
+          "title": "Gita di un giorno nel Sud di Goa: delfini e avventura in spiaggia",
+          "description": "Esplora le spiagge di Palolem e Cola nel Sud di Goa, avvistamento delfini, Butterfly Beach, kayak e forte Cabo-de-Rama nell'ambito di una gita privata di un giorno."
         }
       },
       "cta": {
@@ -2665,8 +2666,8 @@ export const it = {
         "slug": "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
         "type": "day-trip",
         "hero": {
-          "title": "Goa del Sud – Goa Culturale (Tour di un Giorno Intero)",
-          "herotitle": "Goa del Sud – Goa Culturale",
+          "title": "Tour di un giorno nel Sud di Goa: patrimonio, spiagge e crociera sul fiume",
+          "herotitle": "Tour di un giorno nel Sud di Goa: patrimonio, spiagge e crociera sul fiume",
           "subtitle": "Un'immersione di un giorno intero nella ricca storia, architettura e patrimonio spirituale del Goa del Sud.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
@@ -2833,7 +2834,7 @@ export const it = {
         "slug": "One-Day-South-Goa-trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Avventura Costiera nel Goa del Sud",
+          "title": "Tour di un giorno nel Sud di Goa per viaggiatori stranieri",
           "herotitle": "Avventura Costiera nel Goa del Sud",
           "subtitle": "Scopri le spiagge incontaminate e le gemme nascoste del Goa del Sud in una giornata indimenticabile",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
@@ -3203,9 +3204,9 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title: "Safari in Elefante a Dandeli e Giornata di Avventura",
+          title: "Pacchetto gita di un giorno a Dandeli: safari con elefanti e avventura",
           description:
-            "Esperienza di un giorno a Dandeli con safari in elefante, jeep, rafting, kayak e jacuzzi naturale. Perfetto per gli amanti della natura.",
+            "Vivi un viaggio di un giorno a Dandeli con safari con elefanti, giro in jeep, rafting, kayak e jacuzzi naturale. Perfetto per gli amanti della natura e dell’avventura.",
         },
       },
       cta: {
@@ -3368,7 +3369,7 @@ export const it = {
         slug: "Dudhsagar-and-Spice-Plantation-Day-Trip-package",
         type: "day-trip",
         hero: {
-          title: "Giornata alle Cascate di Dudhsagar e Piantagione di Spezie",
+          title: "Tour di un giorno alle cascate Dudhsagar e piantagioni di spezie per viaggiatori stranieri",
           subtitle:
             "Scopri le maestose cascate di Dudhsagar ed esplora le piantagioni di spezie aromatiche in una giornata indimenticabile",
           backgroundImage: "/assets/hero/Dudhsagar-hero.webp",
@@ -3380,10 +3381,8 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title:
-            "Giornata alle Cascate di Dudhsagar e Piantagione di Spezie per Stranieri",
-          description:
-            "Cascate di Dudhsagar e piantagioni di spezie di Goa in un giorno. Ideale per viaggiatori stranieri: cultura, natura e pranzo autentico.",
+          title:"Gita di un giorno alle cascate Dudhsagar e piantagioni di spezie per stranieri",
+          description:"Scopri le cascate Dudhsagar e le piantagioni di spezie di Goa in un giorno. Perfetto per viaggiatori stranieri in India che cercano cultura, natura e un autentico pranzo goano",
         },
       },
       cta: {
@@ -3540,7 +3539,7 @@ export const it = {
         slug: "Gokarna-Murdeshwar-one-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Giornata a Gokarna e Murdeshwar da Goa",
+          title: "Gita di un giorno a Gokarna e Murdeshwar da Goa per stranieri",
           subtitle: "Scopri spiagge, templi in un giorno",
           backgroundImage: "/assets/hero/Gokarna-hero.webp",
           meta: {
@@ -3551,9 +3550,9 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title: "Giornata a Gokarna e Murdeshwar da Goa per Stranieri",
+          title: "Gita di un giorno a Gokarna e Murdeshwar da Goa per stranieri",
           description:
-            "Esplora Gokarna e Murdeshwar in un giorno da Goa. Templi antichi, Om Beach e la statua di Shiva — perfetto per gli stranieri.",
+            "Esplora Gokarna e Murdeshwar con una gita di un giorno da Goa. Visita templi antichi, la spiaggia Om e la statua di Shiva — perfetto per viaggiatori stranieri in India.",
         },
       },
       cta: {
@@ -3910,7 +3909,7 @@ export const it = {
         slug: "Mumbai-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Mumbai – Città delle Luci",
+          title: "Pacchetto tour Mumbai in un giorno da Goa per viaggiatori stranieri",
           subtitle:
             "Tour di un'intera giornata da Goa a Mumbai incluso biglietto aereo, Porta dell'India, Palazzo Taj Mahal e guida in lingua inglese",
           backgroundImage: "/assets/hero/mumbai-hero.webp",
@@ -3924,9 +3923,9 @@ export const it = {
         language: "it",
         metadata: {
           title:
-            "Escursione di un giorno a Mumbai da Goa – I principali punti salienti della città",
+            "Gita di un giorno a Mumbai da Goa per viaggiatori stranieri",
           description:
-            "Vola da Goa per un’escursione giornaliera a Mumbai con luoghi iconici come la Gateway of India, Marine Drive e le Grotte di Elephanta. Vivi cultura, storia e la vita frenetica della metropoli!",
+            "Vola da Goa per un tour di un giorno a Mumbai. Esplora Gateway of India, Dharavi, Dhobi Ghat e siti UNESCO con guida — perfetto per viaggiatori stranieri in India.",
         },
       },
       cta: {
@@ -4133,7 +4132,7 @@ export const it = {
         slug: "Netravali-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Viaggio a Netravali",
+          title: "Gita di un giorno a Netravali: fauna, cascate e villaggi panoramici di Goa",
           subtitle:
             "Immergiti nella bellezza naturale e nella ricchezza culturale dell'entroterra di Goa",
           backgroundImage: "/assets/hero/Netravali-hero.webp",
@@ -4145,9 +4144,9 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title: "Giornata a Netravali: Natura, Cascate e Villaggi di Goa",
+          title: "Gita di un giorno a Netravali: fauna, cascate e villaggi di Goa",
           description:
-            "Esplora il santuario di Netravali, il lago gorgogliante, le cascate e i villaggi pittoreschi. La fuga perfetta nella natura !",
+            "Esplora il santuario faunistico di Netravali, il lago gorgogliante, le cascate e i villaggi pittoreschi di Goa in un giorno. Perfetta fuga nella natura per i viaggiatori in India!",
         },
       },
       cta: {
@@ -9363,11 +9362,11 @@ export const it = {
           },
         },
         language: "it",
-        metadata: {
-          title: "Natura e Cascate di Shimoga (2 Giorni)",
-          description:
-            "Visita le Cascate Jog, il Safari Tyavarekoppa e il campo elefanti Sakrebailu. 1 Notte / 2 Giorni.",
-        },
+  metadata: {
+    title: "Safari da Goa a Shimoga: grotte di Yana e cascate Jog (2 giorni)",
+    description:
+      "Vivi un’escursione di 2 giorni tra natura e fauna da Goa. Esplora le grotte di Yana, il safari a Shimoga, il tempio Aghoreshwara e le cascate Jog con tour guidati."
+  }
       },
       cta: {
         headline:
@@ -10546,10 +10545,8 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title:
-            "Pacchetto Viaggio 7N/8G in Bhutan | Avventura nel Regno Himalayano",
-          description:
-            "Viaggio di 7 notti e 8 giorni in Bhutan da Goa con il 30% di sconto. Esplora Thimphu, Punakha, Paro e il Nido della Tigre con tour guidati, pasti e hotel.",
+          title:"Pacchetto Bhutan 7N/8G con 30% di sconto da Goa",
+          description:"Prenota un viaggio in Bhutan di 7 notti e 8 giorni da Goa con il 30% di sconto. Esplora Thimphu, Punakha, Paro e il Nido della Tigre con tour guidati, pasti e hotel.",
         },
       },
       cta: {
@@ -13372,9 +13369,9 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title: "Viaggio Culturale e Scénico nel Vietnam",
+          title: "Pacchetto Vietnam 5N6G da Goa - Prenota ora",
           description:
-            "Tour di 6 giorni in Vietnam: Hanoi, Baia di Ha Long, Da Nang e Hoi An. Crociere, guide e cultura.",
+            "Prenota un viaggio in Vietnam di 5 notti e 6 giorni includendo Hanoi, Baia di Ha Long, Da Nang e Hoi An. Include tour guidati, crociere ed esperienze culturali.",
         },
       },
       cta: {

@@ -1795,10 +1795,11 @@ export const de = {
           }
         },
         "language": "de",
-        "metadata": {
-          "title": "Wundersame Wildernest-Reise 2N/3T – Global Tourist Centre",
-          "description": "Buchen Sie eine 2N/3T Wildernest Naturresort-Reise ab Goa. Inklusive Waldwanderungen, Töpfern, Henna, Sonnenuntergangs-Treks, Unterhaltung, alle Mahlzeiten und Hotel-Transfer."
-        }
+  metadata: {
+    title: "Wildernest Nature Retreat: 3-tägige Goa Wald- & Abenteuerreise",
+    description:
+      "Erleben Sie das Wildernest Nature Resort in Goa mit Waldwanderungen, Töpfern, Henna, Sonnenuntergangswanderungen und Vollpension in einem 3-tägigen Abenteuer-Retreat."
+  }
       },
       "cta": {
         "headline": "Bereit für Ihr Wildernest-Abenteuer?",
@@ -2358,7 +2359,7 @@ export const de = {
         "slug": "South-Goa-1-Day-Trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Palolem Cola Ganztages-Tour",
+          "title": "Privater Süd-Goa Tagesausflug: Strände, Delfine & Kajak-Abenteuer",
           "herotitle": "Palolem Cola Ganztages-Tour",
           "subtitle": "Inselhopping, Delfinbeobachtung, Kajaktour in der Blue Lagoon und versteckte Schätze Südgoas",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
@@ -2371,8 +2372,8 @@ export const de = {
         },
         "language": "de",
         "metadata": {
-          "title": "Palolem Cola Ganztages-Tour: Delfinbeobachtung & Inselhopping",
-          "description": "Das Beste aus Südgoa: Delfinbeobachtung, Inselhopping, Butterfly Beach, Kajaktour an der Cola-Lagune, Agonda Beach und Fort Cabo de Rama."
+          "title": "Süd-Goa Tagesausflug: Delfine & Strandabenteuer",
+          "description": "Entdecken Sie die Strände von Palolem und Cola im Süden Goas, Delfinbeobachtung, Butterfly Beach, Kajakfahren und Fort Cabo-de-Rama im Rahmen einer privaten Tagesausflug."
         }
       },
       "cta": {
@@ -2551,8 +2552,8 @@ export const de = {
         "slug": "South-Goa-1-Day-Cultural-and-Beach-Tour-package",
         "type": "day-trip",
         "hero": {
-          "title": "Südgoa – Kulturelles Goa (Ganztages-Tour)",
-          "herotitle": "Südgoa – Kulturelles Goa",
+          "title": "Süd-Goa 1-Tages-Tour: Kultur, Strände & Flusskreuzfahrt",
+          "herotitle": "Süd-Goa 1-Tages-Tour: Kultur, Strände & Flusskreuzfahrt",
           "subtitle": "Ein ganztägiges Eintauchen in die reiche Geschichte, Architektur und das spirituelle Erbe Südgoas.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
@@ -2719,7 +2720,7 @@ export const de = {
         "slug": "One-Day-South-Goa-trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Küstenabenteuer in Südgoa",
+          "title": "Eintägige Süd-Goa Erkundungstour für ausländische Reisende",
           "herotitle": "Küstenabenteuer in Südgoa",
           "subtitle": "Entdecken Sie die unberührten Strände und versteckten Schätze Südgoas an einem unvergesslichen Tag",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
@@ -3089,8 +3090,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Dandeli Elefantensafari & Abenteuer-Tagesausflug",
-          "description": "Erleben Sie eine eintägige Dandeli Reise mit Elefantensafari, Jeepfahrt, Riverrafting, Kajakfahren & natürlichem Jacuzzi. Perfekt für Tier- & Abenteuerliebhaber."
+          "title": "Dandeli Elefanten-Safari & Abenteuer Tagesausflug",
+          "description": "Erleben Sie einen eintägigen Dandeli-Ausflug mit Elefanten-Safari, Jeepfahrt, Rafting, Kajakfahren und natürlichem Jacuzzi. Perfekt für Natur- und Abenteuerliebhaber."
         }
       },
       cta: {
@@ -3256,7 +3257,7 @@ export const de = {
         slug: "Dudhsagar-and-Spice-Plantation-Day-Trip-package",
         type: "day-trip",
         hero: {
-          title: "Dudhsagar Wasserfälle & Gewürzplantage Tagesausflug",
+          title: "Eintägige Dudhsagar Wasserfall & Gewürzplantagen Tour für ausländische Reisende",
           subtitle:
             "Erleben Sie die majestätischen Dudhsagar-Wasserfälle und erkunden Sie aromatische Gewürzplantagen an einem unvergesslichen Tag",
           backgroundImage: "/assets/hero/Dudhsagar-hero.webp",
@@ -3268,8 +3269,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Dudhsagar Wasserfälle & Gewürzplantage Tagesausflug für Ausländer",
-          "description": "Dudhsagar Wasserfälle & Goas Gewürzplantagen in einem eintägigen Ausflug. Perfekt für ausländische Reisende in Indien, die Kultur, Natur & ein authentisches Goanisches Mittagessen suchen."
+          "title": "Dudhsagar Wasserfälle & Gewürzplantagen Tagesausflug für Ausländer",
+          "description": "Erleben Sie die Dudhsagar-Wasserfälle und Goas Gewürzplantagen an einem Tag. Perfekt für ausländische Reisende in Indien, die Kultur, Natur und ein authentisches Goanisches Mittagessen suchen."
         }
       },
       cta: {
@@ -3428,7 +3429,7 @@ export const de = {
         slug: "Gokarna-Murdeshwar-one-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Gokarna & Murdeshwar Tagesausflug-Paket von Goa",
+          title: "Eintägiges Gokarna & Murdeshwar Reisepaket ab Goa",
           subtitle: "Entdecken Sie Strände und Tempel an einem Tag",
           backgroundImage: "/assets/hero/Gokarna-hero.webp",
           "meta": {
@@ -3439,8 +3440,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Eintägiger Gokarna & Murdeshwar Ausflug von Goa für Ausländer",
-          "description": "Erkunden Sie Gokarna & Murdeshwar in einem eintägigen Ausflug von Goa. Besuchen Sie antike Tempel, Om Beach & Shiva-Statue — perfekt für ausländische Reisende in Indien."
+          "title": "Eintägiger Gokarna & Murdeshwar Ausflug ab Goa für Ausländer",
+          "description": "Erkunden Sie Gokarna und Murdeshwar bei einem eintägigen Ausflug ab Goa. Besuchen Sie alte Tempel, den Om-Strand und die Shiva-Statue – ideal für ausländische Reisende in Indien."
         }
       },
       cta: {
@@ -3796,7 +3797,7 @@ export const de = {
         slug: "Mumbai-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Mumbai - Stadt der Lichter",
+          title: "Mumbai an einem Tag – Reisepaket ab Goa für ausländische Reisende",
           subtitle:
             "Ganztagestour von Goa nach Mumbai inklusive Flug, Gateway of India, Taj Mahal Palace und englischsprachigem Reiseführer",
           backgroundImage: "/assets/hero/mumbai-hero.webp",
@@ -3808,8 +3809,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Eintägiger Ausflug nach Mumbai ab Goa – Highlights der Stadt",
-          "description": "Fliegen Sie von Goa für einen Tagesausflug nach Mumbai mit ikonischen Sehenswürdigkeiten wie dem Gateway of India, der Marine Drive Promenade und den Elephanta-Höhlen. Erleben Sie Kultur, Geschichte und das Stadtleben!"
+          "title": "Mumbai Tagesausflug ab Goa für ausländische Reisende",
+          "description": "Fliegen Sie von Goa für einen eintägigen Mumbai-Ausflug. Erkunden Sie das Gateway of India, Dharavi, Dhobi Ghat und UNESCO-Stätten mit einem Guide – perfekt für ausländische Reisende in Indien."
         }
 
       },
@@ -4016,9 +4017,9 @@ export const de = {
         slug: "Netravali-day-trip-package",
         type: "day-trip",
         hero: {
-          title: "Netravali Ausflug",
+          title: "Eintägiger Netravali Trip: Wildtiere, Wasserfälle & malerische Goanische Dörfer",
           subtitle:
-            "Tauchen Sie ein in die natürliche Schönheit und den kulturellen Reichtum des Hinterlandes von Goa",
+            "Entdecken Sie die natürliche Schönheit und den kulturellen Reichtum des Hinterlandes von Goa auf einer ganztägigen Tour ab Goa.",
           backgroundImage: "/assets/hero/Netravali-hero.webp",
           "meta": {
             "duration": "1 Tag(e)",
@@ -4028,7 +4029,7 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Netravali Tagesausflug: Wildtiere, Wasserfälle & goanische Dörfer",
+          "title": "Netravali Tagesausflug: Wildtiere, Wasserfälle & Goanische Dörfe",
           "description": "Erkunden Sie das Netravali Wildlife Sanctuary, den Bubbling Lake, Wasserfälle & malerische goanische Dörfer bei einem eintägigen Ausflug. Perfekte Naturflucht für Reisende in Indien!"
         }
       },
@@ -9181,9 +9182,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Kultur- & Naturreise Shimoga (2 Tage)",
-          "description": "Besuchen Sie die Jog-Wasserfälle, das Tyavarekoppa-Safari und das Sakrebailu-Elefantencamp. 2 Tage Kultur und Natur pur."
+        metadata: {
+          title: "Safari von Goa nach Shimoga: Yana-Höhlen & Jog-Fälle (2 Tage)",
+          description:
+            "Erleben Sie einen 2-tägigen Natur- und Wildtierausflug ab Goa. Erkunden Sie die Yana-Höhlen, das Shimoga-Safari, den Aghoreshwara-Tempel und die Jog-Fälle mit geführten Touren."
         }
       },
       cta: {
@@ -10355,7 +10357,7 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "7N/8D Bhutan Tour-Paket | Abenteuer im Himalaya-Königreich",
+          "title": "7N/8T Bhutan-Reisepaket mit 30% Rabatt ab Goa",
           "description": "Buchen Sie eine 7 Nächte 8 Tage Bhutan Reise von Goa mit 30% Rabatt. Erkunden Sie Thimphu, Punakha, Paro & Tiger's Nest mit geführten Touren, Transfers, Mahlzeiten & Hotelaufenthalt."
         }
       },
@@ -13149,8 +13151,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Vietnam Kultur & malerische Reise",
-          "description": "Buchen Sie ein 5 Nächte 6 Tage Vietnam Reisepaket inklusive Hanoi, Ha Long Bucht, Da Nang & Hoi An. Inklusive geführter Touren, Kreuzfahrten & kultureller Erlebnisse."
+          "title": "5N6T Vietnam Reise ab Goa – Jetzt buchen",
+          "description": "Buchen Sie ein Vietnam-Reisepaket für 5 Nächte und 6 Tage inklusive Hanoi, Ha Long Bucht, Da Nang und Hoi An. Enthält geführte Touren, Kreuzfahrten und kulturelle Erlebnisse."
         }
       },
       cta: {
