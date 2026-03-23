@@ -1513,7 +1513,7 @@ export const ru = {
         "Полный тур по Вьетнаму: Ханой, залив Халонг, Дананг, Хойан и Хошимин. Культурные достопримечательности, живописные круизы и исторические места.",
       duration: "8 Дней / 7 Ночей",
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       title: "Лучшее Вьетнама",
       description:
         "Основные достопримечательности Вьетнама: Ханой, залив Халонг, Дананг и Хойан. Идеально для тех, у кого мало времени.",
@@ -13009,7 +13009,7 @@ export const ru = {
         },
       ],
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       file_name: "Vietnam-tour-package-from-goa.html",
       page: {
         slug: "Vietnam-tour-package-from-goa",

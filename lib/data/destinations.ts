@@ -197,7 +197,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-vietnam-002",
-    slug: "Vitnam-tour-package-from-goa",
+    slug: "vitnam-tour-package-from-goa",
     rating: 4.5,
     imageQuery: "/destinations/Thumbnails/Vietnam2.webp",
     category: "international",
@@ -453,7 +453,7 @@ export const dayTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Goa3.webp",
     category: "day-trips",
   },
-    {
+  {
     id: "dom-wilderness-012",
     slug: "wondrous-wildernest-trip-package",
     rating: 4.7,

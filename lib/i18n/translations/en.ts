@@ -1555,7 +1555,7 @@ export const en = {
         "Comprehensive Vietnam tour covering Hanoi, Halong Bay, Da Nang, Hoi An, and Ho Chi Minh City. Experience cultural highlights, scenic cruises, and historic sites.",
       duration: "8 Days / 7 Nights",
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       title: "Best of Vietnam",
       description:
         "Discover the highlights of Vietnam including Hanoi, Halong Bay, Da Nang, and Hoi An. Perfect for those with limited time wanting to experience Vietnam's beauty.",
@@ -12190,7 +12190,7 @@ export const en = {
         }
       ]
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
       "page": {
         "slug": "Vietnam-tour-package-from-goa",

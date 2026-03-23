@@ -1532,7 +1532,7 @@ export const de = {
         "Umfassende Vietnam-Tour: Hanoi, Halong-Bucht, Da Nang, Hoi An und Ho-Chi-Minh-Stadt. Kulturelle Highlights, landschaftliche Kreuzfahrten und historische Stätten.",
       duration: "8 Tage / 7 Nächte",
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       title: "Vietnam Highlights",
       description:
         "Die Highlights Vietnams: Hanoi, Halong-Bucht, Da Nang und Hoi An. Perfekt für Reisende mit wenig Zeit, die Vietnams Schönheit erleben möchten.",
@@ -13132,7 +13132,7 @@ export const de = {
         },
       ],
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       file_name: "Vietnam-tour-package-from-goa.html",
       page: {
         slug: "Vietnam-tour-package-from-goa",

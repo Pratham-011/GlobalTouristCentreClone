@@ -25,7 +25,7 @@ export const TOUR_CATEGORIES = {
   ],
 
   domestic: [
- // verified
+    // verified
     "goa-sightseeing-tour", // verified //prent in en.ts
     // "mysore-ooty-tour", // temporarily removed (used in home)
 
@@ -45,8 +45,8 @@ export const TOUR_CATEGORIES = {
     "sikkim-darjeeling-gangtok-tour-from-goa", // verified
     "lakshadweep-islands-tour-from-goa", // verified
     "andaman-islands-tour-from-goa", // verified
-    
- // verified
+
+    // verified
     "ajanta-ellora-caves-tour-from-goa", // verified
     // "ladakh-tour-package-from-goa",
     "varanasi-tour-package-from-goa", // verified
@@ -63,7 +63,7 @@ export const TOUR_CATEGORIES = {
     "7n-8d-bhutan-tour-package", // verified
     "bali-luxury-getaway", // verified
     "7n-8d-vietam-tour-package", // verified
-    "Vitnam-tour-package-from-goa", // temporarily removed (used in destination.ts) // verified
+    "vitnam-tour-package-from-goa", // temporarily removed (used in destination.ts) // verified
     // "nepal-tour-package",
     "nepal-muktinath-special", // verified
     "singapore-tour-package", // verified

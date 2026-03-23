@@ -1647,7 +1647,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "Vitnam-tour-package-from-goa": {
+  "vitnam-tour-package-from-goa": {
     gallery: [
       {
         title: "Ha Long Bay",

@@ -1647,7 +1647,7 @@ export const it = {
         "Tour completo Vietnam: Hanoi, baia Halong, Da Nang, Hoi An e Ho Chi Minh. Highlight culturali, crociere panoramiche e siti storici.",
       duration: "8 Giorni / 7 Notti",
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       title: "Miglior Vietnam",
       description:
         "Scopri i punti salienti del Vietnam: Hanoi, baia Halong, Da Nang e Hoi An. Perfetto per chi ha poco tempo ma vuole vivere la bellezza vietnamita.",
@@ -13355,7 +13355,7 @@ export const it = {
         },
       ],
     },
-    "Vitnam-tour-package-from-goa": {
+    "vitnam-tour-package-from-goa": {
       file_name: "Vietnam-tour-package-from-goa.html",
       page: {
         slug: "Vietnam-tour-package-from-goa",
