@@ -434,7 +434,7 @@ export const dayTrips: Destination[] = [
   },
   {
     id: "dom-cabo-serai-013",
-    slug: " cabo-serai-2n-3d-luxury-getaway",
+    slug: "cabo-serai-2n-3d-luxury-getaway",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Cabo-Serai.webp",
     category: "day-trips",

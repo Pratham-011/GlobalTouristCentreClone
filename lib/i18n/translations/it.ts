@@ -148,7 +148,7 @@ export const it = {
         description:
           "Gita in barca verso Grand Island con snorkeling, jet-ski, banana boat, parasailing, avvistamento dei delfini e divertimento in mare.",
       },
-      " cabo-serai-2n-3d-luxury-getaway": {
+      "cabo-serai-2n-3d-luxury-getaway": {
         title: "Soggiorno di Lusso Serai Cabo a Goa",
         duration: "2 notti / 3 giorni",
         description:
@@ -1609,7 +1609,7 @@ export const it = {
       duration: "3 Notti / 4 Giorni",
     },
 
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       title: "Cabo Serai Segreto",
       description:
         "Soggiorno di lusso a Cabo Serai con viste mozzafiato sul Mar Arabico, passeggiate nella natura, birdwatching ed esperienze benessere opzionali.",
@@ -1909,11 +1909,11 @@ export const it = {
           }
         },
         "language": "it",
-  metadata: {
-    title: "Wildernest Nature Retreat: viaggio avventura nella foresta di Goa di 3 giorni",
-    description:
-      "Vivi il Wildernest Nature Resort a Goa con trekking nella foresta, ceramica, henné, escursioni al tramonto e pensione completa in un ritiro avventura di 3 giorni."
-  }
+        metadata: {
+          title: "Wildernest Nature Retreat: viaggio avventura nella foresta di Goa di 3 giorni",
+          description:
+            "Vivi il Wildernest Nature Resort a Goa con trekking nella foresta, ceramica, henné, escursioni al tramonto e pensione completa in un ritiro avventura di 3 giorni."
+        }
       },
       "cta": {
         "headline": "Pronti per la vostra avventura a Wildernest?",
@@ -2835,7 +2835,6 @@ export const it = {
         "type": "day-trip",
         "hero": {
           "title": "Tour di un giorno nel Sud di Goa per viaggiatori stranieri",
-          "herotitle": "Avventura Costiera nel Goa del Sud",
           "subtitle": "Scopri le spiagge incontaminate e le gemme nascoste del Goa del Sud in una giornata indimenticabile",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
@@ -3005,8 +3004,7 @@ export const it = {
         "slug": "Delhi-Agra-1N-2D-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Tour da Delhi ad Agra con Taj Mahal e Forte di Agra",
-          "herotitle": "Tour da Delhi ad Agra",
+          "title": "1 Notte / 2 Giorni Tour da Delhi ad Agra con Taj Mahal e Forte di Agra",
           "subtitle": "Vivi la magia del Taj Mahal e dell'architettura Mughal in questo viaggio indimenticabile",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
@@ -3381,8 +3379,8 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title:"Gita di un giorno alle cascate Dudhsagar e piantagioni di spezie per stranieri",
-          description:"Scopri le cascate Dudhsagar e le piantagioni di spezie di Goa in un giorno. Perfetto per viaggiatori stranieri in India che cercano cultura, natura e un autentico pranzo goano",
+          title: "Gita di un giorno alle cascate Dudhsagar e piantagioni di spezie per stranieri",
+          description: "Scopri le cascate Dudhsagar e le piantagioni di spezie di Goa in un giorno. Perfetto per viaggiatori stranieri in India che cercano cultura, natura e un autentico pranzo goano",
         },
       },
       cta: {
@@ -4907,8 +4905,8 @@ export const it = {
         slug: "2-Day-Aurangabad-Trip-Package",
         type: "domestic-trip",
         hero: {
-          title: "Pacchetto Viaggio Aurangabad",
-          subtitle: "",
+          title: "1 Notte / 2 Giorni Pacchetto Viaggio ad Aurangabad con le Grotte di Ajanta ed Ellora",
+          subtitle: "Scopri Aurangabad con le Grotte di Ajanta ed Ellora",
           backgroundImage: "/assets/hero/aurangabad-hero.webp",
           meta: {},
         },
@@ -5960,7 +5958,7 @@ export const it = {
         },
       ],
     },
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       file_name: "Cabo-Serai-2N-3D-Luxury-Getaway.html",
       page: {
         slug: "Cabo-Serai-2N-3D-Luxury-Getaway",
@@ -9362,11 +9360,11 @@ export const it = {
           },
         },
         language: "it",
-  metadata: {
-    title: "Safari da Goa a Shimoga: grotte di Yana e cascate Jog (2 giorni)",
-    description:
-      "Vivi un’escursione di 2 giorni tra natura e fauna da Goa. Esplora le grotte di Yana, il safari a Shimoga, il tempio Aghoreshwara e le cascate Jog con tour guidati."
-  }
+        metadata: {
+          title: "Safari da Goa a Shimoga: grotte di Yana e cascate Jog (2 giorni)",
+          description:
+            "Vivi un’escursione di 2 giorni tra natura e fauna da Goa. Esplora le grotte di Yana, il safari a Shimoga, il tempio Aghoreshwara e le cascate Jog con tour guidati."
+        }
       },
       cta: {
         headline:
@@ -10545,8 +10543,8 @@ export const it = {
         },
         language: "it",
         metadata: {
-          title:"Pacchetto Bhutan 7N/8G con 30% di sconto da Goa",
-          description:"Prenota un viaggio in Bhutan di 7 notti e 8 giorni da Goa con il 30% di sconto. Esplora Thimphu, Punakha, Paro e il Nido della Tigre con tour guidati, pasti e hotel.",
+          title: "Pacchetto Bhutan 7N/8G con 30% di sconto da Goa",
+          description: "Prenota un viaggio in Bhutan di 7 notti e 8 giorni da Goa con il 30% di sconto. Esplora Thimphu, Punakha, Paro e il Nido della Tigre con tour guidati, pasti e hotel.",
         },
       },
       cta: {

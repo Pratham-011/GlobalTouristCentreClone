@@ -44,7 +44,7 @@ export function ContactInfoGrid() {
       content: (
         <>
           <p>Monday – Sunday</p>
-          <p>10:00 AM – 9:00 PM</p>
+          <p>9:30 AM – 9:00 PM</p>
         </>
       ),
     },

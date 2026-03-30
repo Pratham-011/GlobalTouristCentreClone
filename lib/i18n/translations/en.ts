@@ -134,7 +134,7 @@ export const en = {
         description:
           "Take a scenic boat trip to Grand Island and enjoy snorkeling, jet skiing, banana rides, parasailing, dolphin spotting, swimming, and a full day of sea adventure.",
       },
-      " cabo-serai-2n-3d-luxury-getaway": {
+      "cabo-serai-2n-3d-luxury-getaway": {
         title: "Goa Luxury Serai Cabo Retreat",
         duration: "2 Nights / 3 Days",
         description:
@@ -1392,7 +1392,7 @@ export const en = {
   },
   // FAQ
   faq: {
-    q1: "How do I book a tour with Global Tourist Fibre?",
+    q1: "How do I book a tour with Global Tourist Center?",
     a1: "You can book a tour by contacting us through our website, phone, or email. Our travel consultants will help you plan and book your perfect trip.",
     q2: "What payment methods do you accept?",
     a2: "We accept various payment methods including credit/debit cards, bank transfers, and UPI payments for your convenience.",
@@ -1514,7 +1514,7 @@ export const en = {
     },
 
 
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       title: "Secret Cabo Serai",
       description:
         "Luxury getaway at Cabo Serai with breathtaking Arabian Sea views, nature walks, birdwatching, and optional wellness experiences.",
@@ -2391,8 +2391,7 @@ export const en = {
         "slug": "South-Goa-1-Day-Trip-package",
         "type": "day-trip",
         "hero": {
-          "title": "Palolem Cola Full-Day Tour",
-          "herotitle": "Palolem Cola Full-Day Tour",
+          "title": "Private South Goa Day Trip: Beaches, Dolphins & Kayaking Adventure",
           "subtitle": "Island hopping, dolphin watching, kayaking in Blue Lagoon & exploring South Goa's hidden gems",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
           "meta": {
@@ -2404,8 +2403,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Palolem Cola Full-Day Tour: Dolphin Watching & Island Hopping",
-          "description": "Experience South Goa's best with dolphin watching, island hopping, Butterfly Beach, kayaking at Cola Lagoon, Agonda Beach & Cabo de Rama Fort on a full-day private tour."
+          "title": "South Goa Day Trip: Dolphin & Beach Adventure",
+          "description": "Explore South Goa’s Palolem & Cola beaches, dolphin spotting, Butterfly Beach, kayaking, and Cabo de Rama Fort on a private one-day tour."
         }
       },
       "cta": {
@@ -2585,7 +2584,6 @@ export const en = {
         "type": "day-trip",
         "hero": {
           "title": "South Goa 1-Day Tour: Heritage, Beaches & River Cruise Adventure",
-          "herotitle": "South Goa – Cultural Goa",
           "subtitle": "A full-day immersion into the rich history, architecture, and spiritual heritage of South Goa.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
@@ -2752,7 +2750,6 @@ export const en = {
         "type": "day-trip",
         "hero": {
           "title": "One-Day South Goa Exploration Tour for Foreign Travelers",
-          "herotitle": "South Goa Coastal Adventure",
           "subtitle": "Experience the pristine beaches and hidden gems of South Goa in one unforgettable day",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
@@ -2922,8 +2919,7 @@ export const en = {
         "slug": "Delhi-Agra-1N-2D-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Delhi to Agra Tour with Taj Mahal & Agra Fort",
-          "herotitle": "Delhi to Agra Tour",
+          "title": "1 Night / 2 Days Delhi to Agra Tour with Taj Mahal & Agra Fort",
           "subtitle": "Experience the magic of the Taj Mahal and the Mughal architecture on this unforgettable journey",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
@@ -3109,15 +3105,14 @@ export const en = {
         "slug": "2-Day-Aurangabad-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Aurangabad Trip Package",
-          "herotitle": "Aurangabad Tour ",
+          "title": "1 Night / 2 Days Aurangabad Tour Package with Ajanta & Ellora",
           "subtitle": "Explore Aurangabad with Ajanta & Ellora Caves",
           "backgroundImage": "/assets/hero/aurangabad-hero.webp",
           "meta": {}
         },
         "language": "en",
         "metadata": {
-          "title": "2 Day Aurangabad Trip Package from Goa With Ajanta & Ellora Caves",
+          "title": "Aurangabad 1N/2D Tour with Ajanta & Ellora Caves",
           "description": "Ajanta & Ellora Caves, Bibi Ka Maqbara & Daulatabad Fort with a 1N/2D Aurangabad trip. Includes hotel stay, guided tours & monument entry."
         }
       },
@@ -5324,7 +5319,7 @@ export const en = {
         }
       ]
     },
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       "file_name": "Cabo-Serai-2N-3D-Luxury-Getaway.html",
       "page": {
         "slug": "Cabo-Serai-2N-3D-Luxury-Getaway",
@@ -7058,7 +7053,6 @@ export const en = {
         "type": "domestic-trip",
         "hero": {
           "title": "1 Night / 2 Days Hampi Tour Package from Goa",
-          "herotitle": "2D/1N Hampi & Badami Heritage Tour",
           "subtitle": "Discover the UNESCO World Heritage Site of Hampi with its ancient ruins and stunning landscapes",
           "backgroundImage": "/assets/hero/Hampi-hero.webp",
           "meta": {

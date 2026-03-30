@@ -56,9 +56,14 @@ export function ContactForm() {
   icon={User}
   placeholder={t.form.name + "*"}
   value={form.name}
-  onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-    setForm({ ...form, name: e.target.value })
-  }
+  onChange={(e: React.ChangeEvent<HTMLInputElement>) =>{
+        const value = e.target.value;
+
+    // Allow only alphabets and spaces
+    if (/^[A-Za-z\s]*$/.test(value)) {
+      setForm({ ...form, name: value });
+    }
+  }}
 />
 
 <InputWithIcon
@@ -76,9 +81,14 @@ export function ContactForm() {
   placeholder={t.form.phone + "*"}
   type="tel"
   value={form.phone}
-  onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
-    setForm({ ...form, phone: e.target.value })
-  }
+  onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+    const value = e.target.value;
+
+    // Allow only numbers
+    if (/^[0-9]*$/.test(value)) {
+      setForm({ ...form, phone: value });
+    }
+  }}
 />
 
 

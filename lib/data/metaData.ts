@@ -90,7 +90,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  " cabo-serai-2n-3d-luxury-getaway": {
+  "cabo-serai-2n-3d-luxury-getaway": {
     meta: {
       duration: "2 Nights / 3 Days",
       rating: "5.0/5 Rating",

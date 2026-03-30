@@ -48,9 +48,9 @@ export default function TourClient({ tourId }: TourClientProps) {
           HERO
       ======================================================= */}
       <DetailedTourHero
-        title={page.hero?.herotitle ?? page.hero.title}
-        subtitle={page.hero?.subtitle}
-        backgroundImage={page.hero?.backgroundImage}
+        title={(page.hero as any).herotitle || (page.hero as any).title}
+        subtitle={(page.hero as any).subtitle}
+        backgroundImage={(page.hero as any).backgroundImage}
         meta={meta}
       />
 

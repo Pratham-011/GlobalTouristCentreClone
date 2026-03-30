@@ -135,7 +135,7 @@ export const de = {
         description:
           "Bootsausflug zur Grand Island mit Schnorcheln, Jetski, Bananenboot, Parasailing, Delfinbeobachtung und maritimen Abenteuern.",
       },
-      " cabo-serai-2n-3d-luxury-getaway": {
+      "cabo-serai-2n-3d-luxury-getaway": {
         title: "Luxusaufenthalt Serai Cabo in Goa",
         duration: "2 Nächte / 3 Tage",
         description:
@@ -1494,7 +1494,7 @@ export const de = {
       duration: "3 Nächte / 4 Tage",
     },
 
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       title: "Geheimes Cabo Serai",
       description:
         "Luxus-Auszeit in Cabo Serai mit atemberaubenden Arabischen Meer-Blicken, Naturspaziergängen, Vogelbeobachtung und Wellness-Optionen.",
@@ -1795,11 +1795,11 @@ export const de = {
           }
         },
         "language": "de",
-  metadata: {
-    title: "Wildernest Nature Retreat: 3-tägige Goa Wald- & Abenteuerreise",
-    description:
-      "Erleben Sie das Wildernest Nature Resort in Goa mit Waldwanderungen, Töpfern, Henna, Sonnenuntergangswanderungen und Vollpension in einem 3-tägigen Abenteuer-Retreat."
-  }
+        metadata: {
+          title: "Wildernest Nature Retreat: 3-tägige Goa Wald- & Abenteuerreise",
+          description:
+            "Erleben Sie das Wildernest Nature Resort in Goa mit Waldwanderungen, Töpfern, Henna, Sonnenuntergangswanderungen und Vollpension in einem 3-tägigen Abenteuer-Retreat."
+        }
       },
       "cta": {
         "headline": "Bereit für Ihr Wildernest-Abenteuer?",
@@ -2360,7 +2360,6 @@ export const de = {
         "type": "day-trip",
         "hero": {
           "title": "Privater Süd-Goa Tagesausflug: Strände, Delfine & Kajak-Abenteuer",
-          "herotitle": "Palolem Cola Ganztages-Tour",
           "subtitle": "Inselhopping, Delfinbeobachtung, Kajaktour in der Blue Lagoon und versteckte Schätze Südgoas",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
           "meta": {
@@ -2553,7 +2552,6 @@ export const de = {
         "type": "day-trip",
         "hero": {
           "title": "Süd-Goa 1-Tages-Tour: Kultur, Strände & Flusskreuzfahrt",
-          "herotitle": "Süd-Goa 1-Tages-Tour: Kultur, Strände & Flusskreuzfahrt",
           "subtitle": "Ein ganztägiges Eintauchen in die reiche Geschichte, Architektur und das spirituelle Erbe Südgoas.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
@@ -2721,7 +2719,6 @@ export const de = {
         "type": "day-trip",
         "hero": {
           "title": "Eintägige Süd-Goa Erkundungstour für ausländische Reisende",
-          "herotitle": "Küstenabenteuer in Südgoa",
           "subtitle": "Entdecken Sie die unberührten Strände und versteckten Schätze Südgoas an einem unvergesslichen Tag",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
@@ -2891,8 +2888,7 @@ export const de = {
         "slug": "Delhi-Agra-1N-2D-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Delhi nach Agra Tour mit Taj Mahal & Agra Fort",
-          "herotitle": "Delhi nach Agra Tour",
+          "title": "1 Nacht / 2 Tage Delhi nach Agra Tour mit Taj Mahal & Agra Fort",
           "subtitle": "Erleben Sie die Magie des Taj Mahals und die Mogularchitektur auf dieser unvergesslichen Reise",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
@@ -4789,8 +4785,8 @@ export const de = {
         slug: "2-Day-Aurangabad-Trip-Package",
         type: "domestic-trip",
         hero: {
-          title: "Aurangabad Reise-Paket",
-          subtitle: "",
+          title: "1 Nacht / 2 Tage Aurangabad Tourpaket mit Ajanta & Ellora Höhlen",
+          subtitle: "Entdecken Sie Aurangabad mit den Ajanta & Ellora Höhlen",
           backgroundImage: "/assets/hero/aurangabad-hero.webp",
           "meta": {}
         },
@@ -5831,7 +5827,7 @@ export const de = {
         },
       ],
     },
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       file_name: "Cabo-Serai-2N-3D-Luxury-Getaway.html",
       page: {
         slug: "Cabo-Serai-2N-3D-Luxury-Getaway",

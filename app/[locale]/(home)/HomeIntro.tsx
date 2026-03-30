@@ -73,8 +73,8 @@ const travelCollections: TravelCollection[] = [
   /* ================= SHORT STAYS ================= */
 
   {
-    id: " cabo-serai-2n-3d-luxury-getaway",
-    href: "/destinations/domestic/ cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
+    id: "cabo-serai-2n-3d-luxury-getaway",
+    href: "/destinations/domestic/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
     imageUrl: "/assets/destinations/Thumbnails/SeraiCabo.webp",
   },
   {

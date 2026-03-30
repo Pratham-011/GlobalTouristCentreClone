@@ -134,7 +134,7 @@ export const fr = {
         description:
           "Excursion en bateau vers l’île Grand avec snorkeling, jet-ski, banane, parachute ascensionnel, observation des dauphins, baignade et aventures marines.",
       },
-      " cabo-serai-2n-3d-luxury-getaway": {
+      "cabo-serai-2n-3d-luxury-getaway": {
         title: "Séjour de luxe Serai Cabo à Goa",
         duration: "2 nuits / 3 jours",
         description:
@@ -1489,7 +1489,7 @@ export const fr = {
       duration: "3 Nuits / 4 Jours",
     },
 
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       title: "Cabo Serai secret",
       description:
         "Séjour de luxe à Cabo Serai avec vues époustouflantes sur mer d'Arabie, promenades nature, observation d'oiseaux et expériences bien-être optionnelles.",
@@ -1790,11 +1790,11 @@ export const fr = {
           }
         },
         "language": "fr",
-  metadata: {
-    title: "Wildernest Nature Retreat : séjour nature et aventure de 3 jours à Goa",
-    description:
-      "Découvrez le Wildernest Nature Resort à Goa avec des randonnées en forêt, poterie, henné, balades au coucher du soleil et pension complète dans un séjour aventure de 3 jours."
-  }
+        metadata: {
+          title: "Wildernest Nature Retreat : séjour nature et aventure de 3 jours à Goa",
+          description:
+            "Découvrez le Wildernest Nature Resort à Goa avec des randonnées en forêt, poterie, henné, balades au coucher du soleil et pension complète dans un séjour aventure de 3 jours."
+        }
       },
       "cta": {
         "headline": "Prêt pour votre aventure à Wildernest ?",
@@ -2355,7 +2355,6 @@ export const fr = {
         "type": "day-trip",
         "hero": {
           "title": "Excursion privée d’une journée dans le sud de Goa : plages, dauphins et kayak",
-          "herotitle": "Tour d'une Journée Entière Palolem Cola",
           "subtitle": "Saut d'île en île, observation des dauphins, kayak dans la Lagune Bleue et joyaux cachés du Goa du Sud",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
           "meta": {
@@ -2548,7 +2547,6 @@ export const fr = {
         "type": "day-trip",
         "hero": {
           "title": "Excursion d’une journée dans le sud de Goa : patrimoine, plages et croisière fluviale",
-          "herotitle": "Excursion d’une journée dans le sud de Goa : patrimoine, plages et croisière fluviale",
           "subtitle": "Une immersion d'une journée entière dans la riche histoire, l'architecture et le patrimoine spirituel du Goa du Sud.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
@@ -2716,7 +2714,6 @@ export const fr = {
         "type": "day-trip",
         "hero": {
           "title": "Excursion d’une journée dans le sud de Goa pour voyageurs étrangers",
-          "herotitle": "Aventure Côtière dans le Goa du Sud",
           "subtitle": "Découvrez les plages préservées et les joyaux cachés du Goa du Sud en une journée inoubliable",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
@@ -2886,8 +2883,7 @@ export const fr = {
         "slug": "Delhi-Agra-1N-2D-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Tour de Delhi à Agra avec le Taj Mahal et le Fort d'Agra",
-          "herotitle": "Tour de Delhi à Agra",
+          "title": "1 Nuit / 2 Jours Tour de Delhi à Agra avec Taj Mahal et Fort d'Agra",
           "subtitle": "Vivez la magie du Taj Mahal et de l'architecture moghole dans ce voyage inoubliable",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
@@ -4783,8 +4779,8 @@ export const fr = {
         slug: "2-Day-Aurangabad-Trip-Package",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Voyage à Aurangabad",
-          subtitle: "",
+          title: "1 Nuit / 2 Jours Forfait Voyage à Aurangabad avec les grottes d'Ajanta et d'Ellora",
+          subtitle: "Explorez Aurangabad avec les grottes d'Ajanta et d'Ellora",
           backgroundImage: "/assets/hero/aurangabad-hero.webp",
           "meta": {}
         },
@@ -5826,7 +5822,7 @@ export const fr = {
         },
       ],
     },
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       file_name: "Cabo-Serai-2N-3D-Luxury-Getaway.html",
       page: {
         slug: "Cabo-Serai-2N-3D-Luxury-Getaway",
@@ -9201,11 +9197,11 @@ export const fr = {
           }
         },
         language: "fr",
-  metadata: {
-    title: "Safari de Goa à Shimoga : grottes de Yana et chutes de Jog (2 jours)",
-    description:
-      "Vivez une escapade nature et faune de 2 jours depuis Goa. Explorez les grottes de Yana, le safari à Shimoga, le temple Aghoreshwara et les chutes de Jog avec des visites guidées."
-  }
+        metadata: {
+          title: "Safari de Goa à Shimoga : grottes de Yana et chutes de Jog (2 jours)",
+          description:
+            "Vivez une escapade nature et faune de 2 jours depuis Goa. Explorez les grottes de Yana, le safari à Shimoga, le temple Aghoreshwara et les chutes de Jog avec des visites guidées."
+        }
       },
       cta: {
         headline: "Prêt pour votre aventure nature et faune à Shimoga ?",

@@ -444,7 +444,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  " cabo-serai-2n-3d-luxury-getaway": {
+  "cabo-serai-2n-3d-luxury-getaway": {
     gallery: [
       {
         title: "Luxury Cottage",

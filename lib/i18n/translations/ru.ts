@@ -133,7 +133,7 @@ export const ru = {
         description:
           "Лодочная прогулка к острову Гранд с снорклингом, гидроциклами, банановыми лодками, парасейлингом, наблюдением за дельфинами и морскими приключениями.",
       },
-      " cabo-serai-2n-3d-luxury-getaway": {
+      "cabo-serai-2n-3d-luxury-getaway": {
         title: "Роскошный отдых Serai Cabo в Гоа",
         duration: "2 ночи / 3 дня",
         description:
@@ -1475,7 +1475,7 @@ export const ru = {
       duration: "3 Ночи / 4 Дня",
     },
 
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       title: "Тайный Кабо-Серай",
       description:
         "Роскошный отдых в Кабо-Серай с потрясающими видами на Аравийское море, прогулками по природе, наблюдением за птицами и оздоровительными процедурами.",
@@ -1775,11 +1775,11 @@ export const ru = {
           }
         },
         "language": "ru",
-  metadata: {
-    title: "Wildernest Nature Retreat: 3-дневное лесное и приключенческое путешествие в Гоа",
-    description:
-      "Ощутите отдых в Wildernest Nature Resort в Гоа с лесными походами, гончарным мастерством, мехенди, прогулками на закате и полным пансионом в рамках 3-дневного приключенческого ретрита."
-  }
+        metadata: {
+          title: "Wildernest Nature Retreat: 3-дневное лесное и приключенческое путешествие в Гоа",
+          description:
+            "Ощутите отдых в Wildernest Nature Resort в Гоа с лесными походами, гончарным мастерством, мехенди, прогулками на закате и полным пансионом в рамках 3-дневного приключенческого ретрита."
+        }
       },
       "cta": {
         "headline": "Готовы к приключению в Вайлдернесте?",
@@ -2340,7 +2340,6 @@ export const ru = {
         "type": "day-trip",
         "hero": {
           "title": "Частный однодневный тур по Южному Гоа: пляжи, дельфины и каякинг",
-          "herotitle": "Однодневный тур Палолем – Кола",
           "subtitle": "Прыжки по островам, наблюдение за дельфинами, каякинг на Голубой лагуне и скрытые жемчужины Южного Гоа",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
           "meta": {
@@ -2533,7 +2532,6 @@ export const ru = {
         "type": "day-trip",
         "hero": {
           "title": "Однодневный тур по Южному Гоа: наследие, пляжи и речной круиз",
-          "herotitle": "Южный Гоа – Культурный Гоа",
           "subtitle": "Однодневное погружение в богатую историю, архитектуру и духовное наследие Южного Гоа.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
@@ -2701,7 +2699,6 @@ export const ru = {
         "type": "day-trip",
         "hero": {
           "title": "Однодневный тур по Южному Гоа для иностранных туристов",
-          "herotitle": "Однодневный тур по Южному Гоа для иностранных туристов",
           "subtitle": "Откройте для себя нетронутые пляжи и скрытые жемчужины Южного Гоа за один незабываемый день",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
@@ -2871,8 +2868,7 @@ export const ru = {
         "slug": "Delhi-Agra-1N-2D-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Тур из Дели в Агру с Тадж-Махалом и фортом Агры",
-          "herotitle": "Тур из Дели в Агру",
+          "title": "1 Ночь / 2 Дня Тур из Дели в Агру с Тадж-Махалом и фортом Агры",
           "subtitle": "Ощутите магию Тадж-Махала и архитектуры Великих Моголов в этом незабываемом путешествии",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
@@ -4744,8 +4740,8 @@ export const ru = {
         slug: "2-Day-Aurangabad-Trip-Package",
         type: "domestic-trip",
         hero: {
-          title: "Турпакет в Аурангабад",
-          subtitle: "",
+          title: "1 Ночь / 2 Дня Турпакет в Аурангабад с пещерами Аджанта и Эллора",
+          subtitle: "Исследуйте Аурангабад с пещерами Аджанта и Эллора",
           backgroundImage: "/assets/hero/aurangabad-hero.webp",
           "meta": {}
         },
@@ -5782,7 +5778,7 @@ export const ru = {
         },
       ],
     },
-    " cabo-serai-2n-3d-luxury-getaway": {
+    "cabo-serai-2n-3d-luxury-getaway": {
       file_name: "Cabo-Serai-2N-3D-Luxury-Getaway.html",
       page: {
         slug: "Cabo-Serai-2N-3D-Luxury-Getaway",
@@ -6789,7 +6785,6 @@ export const ru = {
         type: "domestic-trip",
         hero: {
           title: "Турпакет в Хампи 1 ночь / 2 дня из Гоа",
-          herotitle: "Тур по историческим местам Хампи и Бадами 2 дня / 1 ночь",
           subtitle:
             "Откройте для себя объект Всемирного наследия ЮНЕСКО Хампи с его древними руинами и живописными пейзажами",
           backgroundImage: "/assets/hero/Hampi-hero.webp",
@@ -9060,11 +9055,11 @@ export const ru = {
           }
         },
         language: "ru",
-  metadata: {
-    title: "Сафари из Гоа в Шимогу: пещеры Яна и водопад Джог (2 дня)",
-    description:
-      "Откройте для себя 2-дневное путешествие на природу и в мир дикой природы из Гоа. Посетите пещеры Яна, сафари в Шимоге, храм Агхорешвара и водопад Джог с экскурсиями."
-  }
+        metadata: {
+          title: "Сафари из Гоа в Шимогу: пещеры Яна и водопад Джог (2 дня)",
+          description:
+            "Откройте для себя 2-дневное путешествие на природу и в мир дикой природы из Гоа. Посетите пещеры Яна, сафари в Шимоге, храм Агхорешвара и водопад Джог с экскурсиями."
+        }
       },
       cta: {
         headline: "Готовы к приключениям на природе и дикой природе в Симоге?",
