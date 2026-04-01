@@ -14,20 +14,14 @@ export function middleware(request: NextRequest) {
     return;
   }
 
-  // If user is on `/`, redirect to default locale
-  if (pathname === "/") {
-    return NextResponse.redirect(new URL(`/${defaultLocale}`, request.url));
-  }
-
   // If pathname already starts with a locale, allow it
   const hasLocale = locales.some(
-    (locale) => pathname.startsWith(`/`) || pathname === ``
+    (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
   );
 
+  // If it's English (no locale prefix), allow it to fall through to top-level routes
   if (!hasLocale) {
-    return NextResponse.redirect(
-      new URL(`/${defaultLocale}${pathname}`, request.url)
-    );
+    return;
   }
 }
 

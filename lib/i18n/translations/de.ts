@@ -1069,6 +1069,8 @@ export const de = {
       group: "Gruppenreise",
       custom: "Individuelle Reise",
       feedback: "Feedback",
+      flight: "Flugbuchung",
+      visa: "Visa Services",
     },
   },
   // Blog Page
@@ -1387,8 +1389,6 @@ export const de = {
     a3: "Absolut! Wir sind spezialisiert auf die Erstellung maßgeschneiderter Tourpakete nach Ihren Vorlieben und Budget.",
     q4: "Was ist Ihre Stornierungsrichtlinie?",
     a4: "Unsere Stornierungsrichtlinie variiert je nach Tourpaket. Kontaktieren Sie uns für spezifische Details.",
-    q5: "Bieten Sie Reiseversicherungen an?",
-    a5: "Ja, wir können eine umfassende Reiseversicherung organisieren.",
   },
   trips: {
     "north-goa-english-tour": {

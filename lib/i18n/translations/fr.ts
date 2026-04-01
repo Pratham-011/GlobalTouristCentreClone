@@ -1065,6 +1065,8 @@ export const fr = {
       group: "Voyage en groupe",
       custom: "Voyage sur mesure",
       feedback: "Retour d’expérience",
+      flight: "Réservation de vol",
+      visa: "Services de visa",
     },
   },
   // Blog Page
@@ -1382,8 +1384,6 @@ export const fr = {
     a3: "Absolument! Nous sommes spécialisés dans la création de forfaits personnalisés selon vos préférences et budget.",
     q4: "Quelle est votre politique d'annulation?",
     a4: "Notre politique d'annulation varie selon le forfait. Contactez-nous pour les détails spécifiques.",
-    q5: "Fournissez-vous une assurance voyage?",
-    a5: "Oui, nous pouvons organiser une assurance voyage complète.",
   },
   trips: {
     "north-goa-english-tour": {

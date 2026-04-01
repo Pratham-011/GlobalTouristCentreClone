@@ -1186,6 +1186,8 @@ export const it = {
       group: "Viaggio di gruppo",
       custom: "Tour personalizzato",
       feedback: "Feedback",
+      flight: "Prenotazione volo",
+      visa: "Servizi di visto",
     },
   },
   // Blog Page
@@ -1502,8 +1504,6 @@ export const it = {
     a3: "Assolutamente! Siamo specializzati nella creazione di pacchetti personalizzati secondo le tue preferenze e budget.",
     q4: "Qual è la vostra politica di cancellazione?",
     a4: "La nostra politica di cancellazione varia a seconda del pacchetto. Contattaci per i dettagli specifici.",
-    q5: "Fornite assicurazione di viaggio?",
-    a5: "Sì, possiamo organizzare un'assicurazione di viaggio completa.",
   },
   trips: {
     "north-goa-english-tour": {
