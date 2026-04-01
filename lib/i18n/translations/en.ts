@@ -1075,6 +1075,8 @@ export const en = {
       group: "Group Travel",
       custom: "Custom Tour",
       feedback: "Feedback",
+      flight: "Flight Booking",
+      visa: "Visa Services",
     },
   },
   // Blog Page
@@ -1400,8 +1402,6 @@ export const en = {
     a3: "We specialize in creating customized tour packages tailored to your preferences, budget, and travel dates.",
     q4: "What is your cancellation policy?",
     a4: "Our cancellation policy varies depending on the tour package and timing. Please contact us for specific details about your booking.",
-    q5: "Do you provide travel insurance?",
-    a5: "Yes, we can arrange comprehensive travel insurance to cover medical emergencies, trip cancellations, and other unforeseen circumstances.",
   },
   trips: {
     "north-goa-english-tour": {

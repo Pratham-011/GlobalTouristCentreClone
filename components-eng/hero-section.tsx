@@ -34,20 +34,24 @@ export function HeroSection({
   const { t, locale } = useI18n();
   const [isOpen, setIsOpen] = useState(false);
 
+  const getHref = (path: string) => {
+    return locale === "en" ? path : `/${locale}${path}`;
+  };
+
   const navLinks = [
-    { href: ``, label: t.nav.home },
-    { href: `/destinations`, label: t.nav.destinations },
+    { href: getHref("/"), label: t.nav.home },
+    { href: getHref("/destinations"), label: t.nav.destinations },
     {
-      href: `/luxury-trips`,
+      href: getHref("/luxury-trips"),
       label: t.nav.luxuryDestinations,
     },
-    { href: `/about`, label: t.nav.about },
-    { href: `/services`, label: t.nav.services },
+    { href: getHref("/about"), label: t.nav.about },
+    { href: getHref("/services"), label: t.nav.services },
     {
-      href: `/contact-us`,
+      href: getHref("/contact-us"),
       label: t.nav.contact,
     },
-    { href: `/blog`, label: t.nav.blog },
+    { href: getHref("/blog"), label: t.nav.blog },
   ];
 
   return (
@@ -75,7 +79,7 @@ export function HeroSection({
         <div className="flex items-center justify-between px-[5%] py-3">
           {/* Logo */}
           <Link
-            href={``}
+            href={getHref("/")}
             className="flex items-center"
             aria-label="Global Tourist Centre - Home"
           >
