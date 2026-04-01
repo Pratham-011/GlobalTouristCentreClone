@@ -113,6 +113,12 @@ export function ContactForm() {
               <SelectItem value="feedback">
                 {t.contact.subjects.feedback}
               </SelectItem>
+              <SelectItem value="flight">
+                {t.contact.subjects.flight}
+              </SelectItem>
+              <SelectItem value="visa">
+                {t.contact.subjects.visa}
+              </SelectItem>
             </SelectContent>
           </Select>
 
