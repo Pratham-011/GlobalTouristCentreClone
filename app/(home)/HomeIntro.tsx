@@ -136,10 +136,9 @@ const travelCollections: TravelCollection[] = [
 
   /* ================= INTERNATIONAL ================= */
 
-  // removed andaman-islands-5n6d because that itinerary is commented out
   {
     id: "andaman-islands-tour-from-goa",
-    href: "/destinations/international/andaman-islands-tour-from-goa", // matches int-andaman-021.slug
+    href: "/destinations/domestic/andaman-islands-tour-from-goa", // matches int-andaman-021.slug
     imageUrl: "/assets/destinations/Thumbnails/Andaman.webp",
   },
   {

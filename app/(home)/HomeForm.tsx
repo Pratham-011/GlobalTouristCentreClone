@@ -115,7 +115,7 @@ Phone: ${formData.phone}
                   shadow-md hover:shadow-lg
                 "
               >
-                {t.form.submit}sitema
+                {t.form.submit}
               </button>
 
               <p className="text-center text-xs text-slate-500 mt-4">

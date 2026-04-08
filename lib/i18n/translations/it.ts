@@ -1548,7 +1548,7 @@ export const it = {
         "Esplora Srinagar, Sonamarg, Gulmarg e Pahalgam con giardini moghul, soggiorno in houseboat e paesaggi himalayani mozzafiato.",
       duration: "5 Notti / 6 Giorni",
     },
-    "ladakh-tour-package-from-goa ": {
+    "ladakh-tour-package-from-goa": {
       title: "Leh, Turtuk & Pangong",
       description:
         "Vivi il passo Khardung La, valle Nubra, lago Pangong e villaggio Turtuk in questa avventura himalayana in alta quota.",
@@ -1806,7 +1806,7 @@ export const it = {
       description:
         "Scopri l’importanza spirituale e storica di Amritsar con visite al Tempio d’Oro, al Jallianwala Bagh e ad altri siti iconici.",
     },
-    "bijapur-heritage-tour-from-goa ": {
+    "bijapur-heritage-tour-from-goa": {
       title: "Tour del Patrimonio di Bijapur",
       duration: "1 notte / 2 giorni",
       description:
@@ -5832,7 +5832,7 @@ export const it = {
         },
       ],
     },
-    "bijapur-heritage-tour-from-goa ": {
+    "bijapur-heritage-tour-from-goa": {
       file_name: "bijapur-heritage-tour-from-goa-from-goa.html",
       page: {
         slug: "bijapur-heritage-tour-from-goa",
@@ -8286,7 +8286,7 @@ export const it = {
         },
       ],
     },
-    "ladakh-tour-package-from-goa ": {
+    "ladakh-tour-package-from-goa": {
       file_name: "ladakh-tour-package-from-goa-for-goa.html",
       page: {
         slug: "ladakh-tour-package-from-goa-for-goa",

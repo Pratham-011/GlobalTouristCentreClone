@@ -1414,7 +1414,7 @@ export const ru = {
         "Исследуйте Шринагар, Сонмарг, Гулмарг и Пахалгам с могольскими садами, проживанием на лодке-доме и захватывающими видами Гималаев.",
       duration: "5 Ночей / 6 Дней",
     },
-    "ladakh-tour-package-from-goa ": {
+    "ladakh-tour-package-from-goa": {
       title: "Лех, Туртук и Пангонг",
       description:
         "Пройдите перевал Кардунг-Ла, Долину Нубра, озеро Пангонг и деревню Туртук в этом высокогорном гималайском приключении.",
@@ -1738,7 +1738,7 @@ export const ru = {
       description:
         "Откройте для себя духовное и историческое значение Амритсара с посещением Золотого храма, Джаллианвала-Багха и других знаковых мест.",
     },
-    "bijapur-heritage-tour-from-goa ": {
+    "bijapur-heritage-tour-from-goa": {
       title: "Исторический тур по Биджапуру",
       duration: "1 ночь / 2 дня",
       description:
@@ -5654,7 +5654,7 @@ export const ru = {
         },
       ],
     },
-    "bijapur-heritage-tour-from-goa ": {
+    "bijapur-heritage-tour-from-goa": {
       file_name: "bijapur-heritage-tour-from-goa-from-goa.html",
       page: {
         slug: "bijapur-heritage-tour-from-goa",
@@ -8108,7 +8108,7 @@ export const ru = {
         },
       ],
     },
-    "ladakh-tour-package-from-goa ": {
+    "ladakh-tour-package-from-goa": {
       file_name: "ladakh-tour-package-from-goa-for-goa.html",
       page: {
         slug: "ladakh-tour-package-from-goa-for-goa",

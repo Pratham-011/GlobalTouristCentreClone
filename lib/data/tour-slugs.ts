@@ -22,13 +22,14 @@ export const TOUR_CATEGORIES = {
     "cabo-serai-2n-3d-luxury-getaway",
     "1n-2d-shimoga-trip-package",
     "wondrous-wildernest-trip-package",
+    
   ],
 
   domestic: [
     // verified
+    "andaman-islands-tour-from-goa",
     "goa-sightseeing-tour", // verified //prent in en.ts
     // "mysore-ooty-tour", // temporarily removed (used in home)
-
     // "taj-mahal-tour", // temporarily removed (used in home)
     "kerala-tour-package-from-goa", // verified
     "dandeli-2-day-tour-from-goa", // verified
@@ -58,13 +59,13 @@ export const TOUR_CATEGORIES = {
   ],
 
   international: [
-    // "maldives-luxury-tour",
+    "maldives-luxury-tour",
     "sri-lanka-tour-package", // verified
     "7n-8d-bhutan-tour-package", // verified
     "bali-luxury-getaway", // verified
     "7n-8d-vietam-tour-package", // verified
     "vitnam-tour-package-from-goa", // temporarily removed (used in destination.ts) // verified
-    // "nepal-tour-package",
+  
     "nepal-muktinath-special", // verified
     "singapore-tour-package", // verified
     "4N-5D-bangkok-tour-package", //verified
