@@ -7,6 +7,7 @@ import { I18nProvider } from "@/lib/i18n/context";
 import { Footer } from "@/components/footer";
 
 import { WhatsAppButton } from "@/components/whatsapp-button";
+import { CookieBanner } from "@/components/cookie-banner";
 import { locales } from "@/lib/i18n/config";
 import type { Locale } from "@/lib/i18n/translations";
 import "../globals.css";
@@ -323,6 +324,7 @@ export default function LocaleLayout({
             message="Hi! I am planning a trip, can you help me out?"
             tooltipText="Chat with us on WhatsApp"
           />
+          <CookieBanner />
         </I18nProvider>
         <Script
           id="travel-agency-schema"

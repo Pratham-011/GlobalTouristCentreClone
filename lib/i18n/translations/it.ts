@@ -16186,6 +16186,37 @@ export const it = {
       ],
     },
   },
+  cookies: {
+    banner: {
+      title: "Rispettiamo la tua privacy",
+      description: "Utilizziamo i cookie per migliorare la tua esperienza di navigazione, personalizzare le offerte di viaggio, analizzare il traffico del sito e supportare le nostre attività di marketing. Puoi scegliere come utilizziamo i cookie.",
+      acceptAll: "Accetta tutti",
+      rejectAll: "Rifiuta tutti",
+      settings: "Impostazioni",
+    },
+    modal: {
+      title: "Impostazioni cookie",
+      intro: "Al Global Tourist Centre utilizziamo i cookie per migliorare la tua esperienza di pianificazione dei viaggi. Questi cookie ci aiutano a capire come utilizzi il nostro sito, ricordare le tue preferenze e mostrarti pacchetti tour e offerte pertinenti.",
+      essential: {
+        title: "Cookie essenziali",
+        desc: "Questi cookie sono necessari per il corretto funzionamento del sito. Abilitano funzioni di base come la navigazione tra le pagine, i moduli di prenotazione e l'accesso sicuro.",
+      },
+      analytics: {
+        title: "Cookie analitici",
+        desc: "Ci aiutano a capire come i visitatori interagiscono con il sito, ad esempio quali pacchetti viaggio sono più popolari, per migliorare i nostri servizi.",
+      },
+      marketing: {
+        title: "Cookie di marketing",
+        desc: "Questi cookie vengono utilizzati per mostrarti offerte di viaggio, pacchetti vacanza e promozioni pertinenti in base ai tuoi interessi.",
+      },
+      preference: {
+        title: "Cookie di preferenza",
+        desc: "Ricordano le tue impostazioni, come le destinazioni preferite o la lingua, per offrirti un'esperienza più personalizzata.",
+      },
+      saveSettings: "Salva impostazioni",
+      essentialNote: "Sempre attivi",
+    },
+  },
   notfound: {
     title: "L'avventura attende, ma hai preso una deviazione!",
     description:

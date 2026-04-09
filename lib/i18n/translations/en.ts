@@ -15090,6 +15090,37 @@ export const en = {
       ],
     },
   },
+  cookies: {
+    banner: {
+      title: "We Value Your Privacy",
+      description: "We use cookies to improve your browsing experience, personalize travel offers, analyze website traffic, and support our marketing efforts. You can choose how we use cookies.",
+      acceptAll: "Accept All",
+      rejectAll: "Reject All",
+      settings: "Settings",
+    },
+    modal: {
+      title: "Cookie Settings",
+      intro: "At Global Tourist Centre, we use cookies to enhance your travel planning experience. These cookies help us understand how you use our website, remember your preferences, and show you relevant tour packages and offers.",
+      essential: {
+        title: "Essential Cookies",
+        desc: "These cookies are necessary for the website to function properly. They enable basic features like page navigation, booking forms, and secure access.",
+      },
+      analytics: {
+        title: "Analytics Cookies",
+        desc: "These help us understand how visitors interact with our website, such as which travel packages are most popular, so we can improve our services.",
+      },
+      marketing: {
+        title: "Marketing Cookies",
+        desc: "These cookies are used to show you relevant travel deals, holiday packages, and promotions based on your interests.",
+      },
+      preference: {
+        title: "Preference Cookies",
+        desc: "These remember your settings, such as preferred destinations or language, to provide a more personalized experience.",
+      },
+      saveSettings: "Save Settings",
+      essentialNote: "Always Active",
+    },
+  },
   notfound: {
     title: "Adventure Awaits, But You've Taken a Detour!",
     description: "Even the most seasoned explorers sometimes wander off the path. Don't worry - getting lost is just part of the journey. Let us guide you back to incredible destinations and unforgettable experiences!",

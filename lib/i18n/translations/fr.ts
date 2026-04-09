@@ -15971,6 +15971,37 @@ export const fr = {
       ],
     },
   },
+  cookies: {
+    banner: {
+      title: "Nous respectons votre vie privée",
+      description: "Nous utilisons des cookies pour améliorer votre expérience de navigation, personnaliser les offres de voyage, analyser le trafic du site et soutenir nos efforts marketing. Vous pouvez choisir comment nous utilisons les cookies.",
+      acceptAll: "Tout accepter",
+      rejectAll: "Tout refuser",
+      settings: "Paramètres",
+    },
+    modal: {
+      title: "Paramètres des cookies",
+      intro: "Chez Global Tourist Centre, nous utilisons des cookies pour améliorer votre expérience de planification de voyage. Ces cookies nous aident à comprendre comment vous utilisez notre site, à mémoriser vos préférences et à vous montrer des forfaits et offres de voyage pertinents.",
+      essential: {
+        title: "Cookies essentiels",
+        desc: "Ces cookies sont nécessaires au bon fonctionnement du site. Ils activent des fonctions de base telles que la navigation, les formulaires de réservation et l'accès sécurisé.",
+      },
+      analytics: {
+        title: "Cookies analytiques",
+        desc: "Ils nous aident à comprendre comment les visiteurs interagissent avec notre site, par exemple quels forfaits voyage sont les plus populaires, afin d'améliorer nos services.",
+      },
+      marketing: {
+        title: "Cookies marketing",
+        desc: "Ces cookies sont utilisés pour vous montrer des offres de voyage, des forfaits vacances et des promotions pertinents selon vos intérêts.",
+      },
+      preference: {
+        title: "Cookies de préférence",
+        desc: "Ils mémorisent vos paramètres, tels que les destinations préférées ou la langue, pour offrir une expérience plus personnalisée.",
+      },
+      saveSettings: "Enregistrer les paramètres",
+      essentialNote: "Toujours actifs",
+    },
+  },
   notfound: {
     title: "L'aventure vous attend, mais vous avez fait un détour !",
     description: "Même les explorateurs les plus aguerris s'égarent parfois. Ne vous inquiétez pas, se perdre fait partie du voyage. Laissez-nous vous guider vers des destinations incroyables et des expériences inoubliables !",

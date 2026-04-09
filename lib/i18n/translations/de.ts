@@ -15736,6 +15736,37 @@ export const de = {
       ],
     },
   },
+  cookies: {
+    banner: {
+      title: "Wir schätzen Ihre Privatsphäre",
+      description: "Wir verwenden Cookies, um Ihr Surferlebnis zu verbessern, Reiseangebote zu personalisieren, den Website-Traffic zu analysieren und unsere Marketingmaßnahmen zu unterstützen. Sie können wählen, wie wir Cookies verwenden.",
+      acceptAll: "Alle akzeptieren",
+      rejectAll: "Alle ablehnen",
+      settings: "Einstellungen",
+    },
+    modal: {
+      title: "Cookie-Einstellungen",
+      intro: "Beim Global Tourist Centre verwenden wir Cookies, um Ihr Reiseplanungserlebnis zu verbessern. Diese Cookies helfen uns zu verstehen, wie Sie unsere Website nutzen, Ihre Einstellungen zu speichern und Ihnen relevante Reisepakete und Angebote zu zeigen.",
+      essential: {
+        title: "Notwendige Cookies",
+        desc: "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website erforderlich. Sie ermöglichen grundlegende Funktionen wie Seitennavigation, Buchungsformulare und sicheren Zugang.",
+      },
+      analytics: {
+        title: "Analyse-Cookies",
+        desc: "Diese helfen uns zu verstehen, wie Besucher mit unserer Website interagieren, z. B. welche Reisepakete am beliebtesten sind, damit wir unsere Dienste verbessern können.",
+      },
+      marketing: {
+        title: "Marketing-Cookies",
+        desc: "Diese Cookies werden verwendet, um Ihnen relevante Reiseangebote, Urlaubspakete und Aktionen basierend auf Ihren Interessen zu zeigen.",
+      },
+      preference: {
+        title: "Präferenz-Cookies",
+        desc: "Diese speichern Ihre Einstellungen, wie bevorzugte Reiseziele oder Sprache, um ein personalisiertes Erlebnis zu bieten.",
+      },
+      saveSettings: "Einstellungen speichern",
+      essentialNote: "Immer aktiv",
+    },
+  },
   notfound: {
     title: "Das Abenteuer wartet, aber Sie haben einen Umweg gemacht!",
     description: "Selbst die erfahrensten Entdecker kommen manchmal vom Weg ab. Keine Sorge – sich zu verirren gehört zur Reise dazu. Lassen Sie sich von uns zu unglaublichen Zielen und unvergesslichen Erlebnissen zurückführen!",
