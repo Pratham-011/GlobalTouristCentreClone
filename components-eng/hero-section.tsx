@@ -66,6 +66,8 @@ export function HeroSection({
           alt=""
           className="w-full h-full object-cover"
           fill
+          sizes="100vw"
+          priority
           aria-hidden="true"
         />
         <div
@@ -84,9 +86,11 @@ export function HeroSection({
             aria-label="Global Tourist Centre - Home"
           >
             <div className="w-15 h-15 rounded-full border-3 border-[#f8d56b] flex items-center justify-center mb-4 sm:mt-[10px] mt-4">
-              <img
+              <Image
                 src="/assets/logo.webp"
                 alt="Global Tourist Centre Logo"
+                width={56}
+                height={56}
                 className="h-14 w-auto rounded-full"
               />
             </div>

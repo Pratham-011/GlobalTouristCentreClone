@@ -1053,6 +1053,7 @@ export const de = {
     ourOffice: "Unser Büro",
     callUs: "Rufen Sie Uns An",
     emailUs: "Schreiben Sie Uns",
+    date: "Montag - Sonntag",
     workingHours: "Öffnungszeiten",
     viewOnMap: "Auf Karte Anzeigen",
     businessInquiry: "Geschäftsanfrage",

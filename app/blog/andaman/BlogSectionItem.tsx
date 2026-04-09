@@ -1,5 +1,6 @@
 // components/blog/BlogSectionItem.tsx
 import { BlogSectionData } from "../blogData";
+import Image from "next/image";
 
 const BlogSectionItem = ({ data }: { data: BlogSectionData }) => {
   return (
@@ -11,10 +12,12 @@ const BlogSectionItem = ({ data }: { data: BlogSectionData }) => {
       {/* Image Wrapper */}
       <figure className="mb-6 mx-auto max-w-[600px] w-full overflow-hidden rounded-xl shadow-md bg-gray-100">
         <div className="relative aspect-video">
-          <img
+          <Image
             src={data.image}
             alt={data.imageAlt}
-            className="max-w-[600px] max-h-[600px] object-cover transition-transform duration-300"
+            fill
+            sizes="(max-width: 600px) 100vw, 600px"
+            className="object-cover transition-transform duration-300"
           />
         </div>
         <figcaption className="px-4 py-3 text-center text-xs sm:text-sm italic text-emerald-800/70 bg-emerald-50/50">

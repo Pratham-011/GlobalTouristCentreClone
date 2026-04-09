@@ -6,6 +6,7 @@ import { useI18n } from "@/lib/i18n/context";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { useParams } from "next/navigation";
+import Image from "next/image";
 
 export default function AndamanBlogPage() {
   const { t } = useI18n();
@@ -141,9 +142,11 @@ export default function AndamanBlogPage() {
               {/* Full-width Image */}
               <figure className="mb-6 mx-auto max-w-[600px]">
                 <div className="rounded-xl overflow-hidden shadow-lg">
-                  <img
+                  <Image
                     src={section.image}
                     alt={section.caption}
+                    width={600}
+                    height={400}
                     className="w-full h-auto object-cover"
                   />
                 </div>
@@ -203,9 +206,11 @@ export default function AndamanBlogPage() {
               {/* Active card - Kerala */}
               <Link href={`/${locale}/blog/kerala`} className="group block">
                 <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all h-full flex flex-col">
-                  <img
+                  <Image
                     src="/assets/destinations/Thumbnails/Kerala.webp"
                     alt={t.blog.keralaTitle}
+                    width={600}
+                    height={192}
                     className="w-full h-48 object-cover group-hover:scale-105 transition-transform"
                   />
                   <div className="p-5 flex-grow">
@@ -225,9 +230,11 @@ export default function AndamanBlogPage() {
               {/* Coming Soon card - Sikkim */}
               <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
                 <div className="relative">
-                  <img
+                  <Image
                     src="/assets/destinations/Thumbnails/Sikkim.webp"
                     alt={t.blogKerala.sikkimTitle}
+                    width={600}
+                    height={192}
                     className="w-full h-48 object-cover opacity-70"
                   />
                   <div className="absolute inset-0 flex items-center justify-center">
@@ -249,9 +256,11 @@ export default function AndamanBlogPage() {
               {/* Coming Soon card - South Goa */}
               <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
                 <div className="relative">
-                  <img
+                  <Image
                     src="/assets/destinations/Thumbnails/south-goa.webp"
                     alt={t.blogKerala.southGoaTitle}
+                    width={600}
+                    height={192}
                     className="w-full h-48 object-cover opacity-70"
                   />
                   <div className="absolute inset-0 flex items-center justify-center">

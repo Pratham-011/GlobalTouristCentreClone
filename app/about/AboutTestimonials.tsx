@@ -25,6 +25,7 @@ import {
 } from "@/components-eng/ui/carousel";
 
 import { useRef, useState, useEffect } from "react";
+import Image from "next/image";
 
 export function AboutTestimonials() {
   const { t } = useI18n();
@@ -195,9 +196,11 @@ export function AboutTestimonials() {
             hover:text-gray-900
           "
         >
-          <img
+          <Image
             src="/assets/icons8-google-48.png"
             alt="Google Reviews"
+            width={24}
+            height={24}
             className="h-6 w-6"
           />
           <span>

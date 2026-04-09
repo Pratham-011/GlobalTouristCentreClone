@@ -47,17 +47,17 @@ const contactInfoTranslations = {
     ru: {
         address: "Адрес: Бенаулим, Гоа 403716, Индия",
         phone: "Телефон: +91 9067972295",
-        email: "Email: sales@globaltouristcentre.com",
+        email: "Электронная почта: sales@globaltouristcentre.com",
     },
     it: {
         address: "Indirizzo: Benaulim, Goa 403716, India",
         phone: "Telefono: +91 9067972295",
-        email: "Email: sales@globaltouristcentre.com",
+        email: "Posta elettronica: sales@globaltouristcentre.com",
     },
     fr: {
         address: "Adresse: Benaulim, Goa 403716, Inde",
         phone: "Téléphone: +91 9067972295",
-        email: "Email: sales@globaltouristcentre.com",
+        email: "Courriel: sales@globaltouristcentre.com",
     },
     de: {
         address: "Adresse: Benaulim, Goa 403716, Indien",

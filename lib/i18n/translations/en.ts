@@ -1060,6 +1060,7 @@ export const en = {
     callUs: "Call Us",
     emailUs: "Email Us",
     workingHours: "Working Hours",
+    date:"Monday - Sunday",
     viewOnMap: "View on Map",
     businessInquiry: "Business Inquiry",
     salesInquiry: "Sales Inquiry",

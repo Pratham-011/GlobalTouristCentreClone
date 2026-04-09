@@ -1,15 +1,20 @@
 // app/[locale]/loading.tsx
 "use client";
 
+import Image from "next/image";
+
 export default function Loading() {
   return (
     <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-[#f9fafb]">
       <div className="flex flex-col items-center gap-6">
         {/* Brand Logo */}
-        <img
+        <Image
           src="/assets/logo.png"
           alt="Global Tourist Centre"
+          width={96}
+          height={96}
           className="w-24 h-24"
+          priority
         />
 
         {/* Elegant Loader Ring */}
@@ -26,3 +31,4 @@ export default function Loading() {
     </div>
   );
 }
+

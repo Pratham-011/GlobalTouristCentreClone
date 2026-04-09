@@ -6,6 +6,7 @@ import { Instagram, Facebook, } from "lucide-react";
 import { FaWhatsapp } from "react-icons/fa";
 import { Button } from "@/components-eng/ui/button";
 import { useEffect, useRef } from "react";
+import Image from "next/image";
 
 
 export function Footer() {
@@ -87,9 +88,11 @@ export function Footer() {
           {/* Logo & Description */}
           <div className="col-span-2 lg:col-span-1">
             <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-full border-2 border-[#f8d56b] flex items-center justify-center mb-3">
-              <img
+              <Image
                 src="/assets/logo.webp"
                 alt="Global Tourist Centre Logo"
+                width={56}
+                height={56}
                 className="h-12 sm:h-14 w-auto rounded-full"
               />
             </div>

@@ -2,6 +2,7 @@
 
 import { useI18n } from "@/lib/i18n/context";
 import { Check } from "lucide-react";
+import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card, CardContent } from "@/components/ui/card";
@@ -83,9 +84,12 @@ export default function LuxuryDestinationsPage() {
       {/* HERO */}
       <section className="relative min-h-[60vh] sm:min-h-[70vh] flex items-center">
         <div className="absolute inset-0">
-          <img
+          <Image
             src="/assets/dubai-skyline-burj-khalifa-luxury-evening.jpg"
             alt=""
+            fill
+            sizes="100vw"
+            priority
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-[#1a2332]/90 via-[#1a2332]/70 to-transparent" />
@@ -181,9 +185,11 @@ export default function LuxuryDestinationsPage() {
                   <div className="relative h-72 overflow-hidden">
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent z-10" />
 
-                    <img
+                    <Image
                       src={item.image}
                       alt={content.title}
+                      fill
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                       className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                     />
 

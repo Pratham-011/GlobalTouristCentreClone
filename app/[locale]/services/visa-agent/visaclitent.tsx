@@ -2,6 +2,7 @@
 
 import { useI18n } from "@/lib/i18n/context";
 import { HeroSection } from "@/components/hero-section";
+import Image from "next/image";
 import {
     Check,
     FileText,
@@ -107,11 +108,15 @@ ${formData.get("notes") || "—"}
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid lg:grid-cols-2 gap-12 items-center">
               <div>
-                <img
+                <div className="relative w-full h-[400px]">
+                <Image
                   src="/assets/services/visa-about.webp"
                   alt={page.aboutTitle}
-                  className="w-full h-[400px] object-cover rounded-xl shadow-lg"
+                  fill
+                  sizes="(max-width: 1024px) 100vw, 50vw"
+                  className="object-cover rounded-xl shadow-lg"
                 />
+              </div>
               </div>
               <div>
                 <h2 className="font-serif text-3xl sm:text-4xl font-bold text-emerald-950 mb-6">
