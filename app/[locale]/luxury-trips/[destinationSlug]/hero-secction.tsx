@@ -13,11 +13,25 @@ export function HeroSection({ slug }: HeroSectionProps) {
 
   const pageText = t.luxuryPages[slug];
   const pageMedia = luxuryPageContent[slug];
+  const encodePathSegment = (segment: string) => {
+    try {
+      return encodeURIComponent(decodeURIComponent(segment));
+    } catch {
+      return encodeURIComponent(segment);
+    }
+  };
+  const encodeAssetPath = (src: string) =>
+    src
+      .split("/")
+      .map((segment, index) =>
+        index === 0 && segment === "" ? "" : encodePathSegment(segment)
+      )
+      .join("/");
   const toVariant = (src: string, suffix: "-sm" | "-md") =>
     src.replace(/\.webp$/i, `${suffix}.webp`);
 
   if (!pageText || !pageMedia) return null;
-  const backgroundBase = encodeURI(pageMedia.image);
+  const backgroundBase = encodeAssetPath(pageMedia.image);
   const backgroundMd = toVariant(backgroundBase, "-md");
   const backgroundSm = toVariant(backgroundBase, "-sm");
 

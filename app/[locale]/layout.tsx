@@ -350,7 +350,6 @@ export default function LocaleLayout({
           <img
             src="https://mc.yandex.ru/watch/105467216"
             style={{ position: "absolute", left: "-9999px" }}
-            loading="lazy"
             decoding="async"
             alt=""
           />

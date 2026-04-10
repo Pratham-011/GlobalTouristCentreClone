@@ -24,11 +24,25 @@ export function PackageHero({ data }: PackageHeroProps) {
   if (!data) return null;
 
   const backgroundImage = data.background_image || "/assets/Luxury/default-hero.webp";
+  const encodePathSegment = (segment: string) => {
+    try {
+      return encodeURIComponent(decodeURIComponent(segment));
+    } catch {
+      return encodeURIComponent(segment);
+    }
+  };
+  const encodeAssetPath = (src: string) =>
+    src
+      .split("/")
+      .map((segment, index) =>
+        index === 0 && segment === "" ? "" : encodePathSegment(segment)
+      )
+      .join("/");
   const toVariant = (src: string, suffix: "-sm" | "-md") =>
     src.replace(/\.webp$/i, `${suffix}.webp`);
   const title = data.title || "Luxury Experience";
   const ctaLink = data.cta_link || "#";
-  const backgroundBase = encodeURI(backgroundImage);
+  const backgroundBase = encodeAssetPath(backgroundImage);
   const backgroundMd = toVariant(backgroundBase, "-md");
   const backgroundSm = toVariant(backgroundBase, "-sm");
 
