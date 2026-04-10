@@ -53,6 +53,9 @@ export function HeroSection({
     },
     { href: getHref("/blog"), label: t.nav.blog },
   ];
+  const heroImageBase = `/assets/hero/${backgroundQuery}.webp`;
+  const heroImageMd = `/assets/hero/${backgroundQuery}-md.webp`;
+  const heroImageSm = `/assets/hero/${backgroundQuery}-sm.webp`;
 
   return (
     <section
@@ -61,13 +64,17 @@ export function HeroSection({
     >
       {/* Background */}
       <div className="absolute inset-0 z-0">
-        <Image
-          src={`/assets/hero/${backgroundQuery}.webp`}
+        <img
+          src={heroImageBase}
+          srcSet={`${heroImageSm} 640w, ${heroImageMd} 1024w, ${heroImageBase} 1920w`}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
           alt=""
+          width={1920}
+          height={1080}
+          fetchPriority="high"
+          loading="eager"
+          decoding="async"
           className="w-full h-full object-cover"
-          fill
-          sizes="100vw"
-          priority
           aria-hidden="true"
         />
         <div

@@ -35,6 +35,8 @@ const RelatedTripCard: React.FC<RelatedTripCardProps> = ({
           alt={title}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          loading="lazy"
+          decoding="async"
           className={`w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 ${isComingSoon ? "grayscale-[0.5]" : ""
             }`}
         />
