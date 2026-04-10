@@ -35,9 +35,9 @@ export function TeamMemberCard({ name, role, imagelink }: TeamMemberCardProps) {
         </AvatarFallback>
       </Avatar>
 
-      <h4 className="font-serif font-bold text-gray-900 text-lg mb-1">
+      <p className="font-serif font-bold text-gray-900 text-lg mb-1">
         {name}
-      </h4>
+      </p>
       <p className="text-teal-600 text-sm font-medium">{role}</p>
     </article>
     
