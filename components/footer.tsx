@@ -139,10 +139,10 @@ export function Footer() {
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="group relative inline-block text-gray-400 text-xs transition-all hover:text-[#f8d56b] hover:translate-x-1"
+                    className="group relative inline-block text-gray-400 text-xs lg:transition-all lg:hover:text-[#f8d56b] lg:hover:translate-x-1"
                   >
                     {link.label}
-                    <span className="absolute -bottom-0.5 left-0 h-[2px] w-0 bg-gradient-to-r from-[#f8d56b] to-transparent transition-all duration-300 group-hover:w-6" />
+                    <span className="absolute -bottom-0.5 left-0 h-[2px] w-0 bg-gradient-to-r from-[#f8d56b] to-transparent lg:transition-all lg:duration-300 lg:group-hover:w-6" />
                   </Link>
                 </li>
               ))}
@@ -161,10 +161,10 @@ export function Footer() {
                 <li key={tour.href}>
                   <Link
                     href={tour.href}
-                    className="group relative inline-block text-gray-400 text-xs transition-all hover:text-[#f8d56b] hover:translate-x-1"
+                    className="group relative inline-block text-gray-400 text-xs lg:transition-all lg:hover:text-[#f8d56b] lg:hover:translate-x-1"
                   >
                     {tour.label}
-                    <span className="absolute -bottom-0.5 left-0 h-[2px] w-0 bg-gradient-to-r from-[#f8d56b] to-transparent transition-all duration-300 group-hover:w-6" />
+                    <span className="absolute -bottom-0.5 left-0 h-[2px] w-0 bg-gradient-to-r from-[#f8d56b] to-transparent lg:transition-all lg:duration-300 lg:group-hover:w-6" />
                   </Link>
                 </li>
               ))}
@@ -202,13 +202,13 @@ export function Footer() {
           <p className="shrink-0">{t.footer.copyright}</p>
 
           <div className="flex gap-3">
-            <Link href={`/${locale}/legal/privacy-policy`} className="hover:text-[#f8d56b]">
+            <Link href={`/${locale}/legal/privacy-policy`} className="lg:hover:text-[#f8d56b]">
               {t.form.privacyPolicy}
             </Link>
-            <Link href={`/${locale}/legal/terms-and-conditions`} className="hover:text-[#f8d56b]">
+            <Link href={`/${locale}/legal/terms-and-conditions`} className="lg:hover:text-[#f8d56b]">
               {t.footer.termsConditions}
             </Link>
-            <Link href={`/${locale}/sitemap.xml`} className="hover:text-[#f8d56b]">
+            <Link href={`/${locale}/sitemap.xml`} className="lg:hover:text-[#f8d56b]">
               {t.footer.sitemap}
             </Link>
           </div>
