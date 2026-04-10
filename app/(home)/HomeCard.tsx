@@ -49,7 +49,7 @@ const HomeCard: React.FC<HomeCardProps> = ({
               will-change-transform
               group-hover:scale-110
             "
-            sizes="(max-width: 768px) 85vw, (max-width: 1200px) 50vw, 25vw"
+            sizes="(max-width: 768px) 85vw, 300px"
           />
         </div>
 
