@@ -223,7 +223,7 @@ export const ru = {
         description:
           "Роскошные виллы над водой, частные ужины, спа и захватывающие закаты.",
       },
-      "sri-lanka-tour-package": {
+      "srilanka-tour-package": {
         title: "Путешествие по Шри-Ланке",
         duration: "6 ночей / 7 дней",
         description:
@@ -1335,7 +1335,7 @@ export const ru = {
           "Идеальное сочетание городского стиля и спокойствия горных станций в Южной Индии.",
       },
       "mahraja-train-tour-package": {
-        "title": "Maharajas' Express",
+        "title": "Махараджас Экспресс",
         "description": "Королевская железнодорожная одиссея по легендарным фортам Раджастхана, заповедникам и городам на озерах на борту легендарного поезда Maharajas' Express."
       }
     },
@@ -1586,37 +1586,37 @@ export const ru = {
         "Райский островной опыт: тур по 4 островам Краби и тур по острову Фи-Фи с Пхукета. Нетронутые пляжи и бирюзовая вода.",
       duration: "5 Дней / 4 Ночи",
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       title: "Гонконг и Макао - Побег",
       description:
         "Яркие города, потрясающий горизонт и культурные чудеса. Ocean Park, городские туры и паромы между Гонконгом и Макао.",
       duration: "6 Дней / 5 Ночей",
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       title: "Азербайджан - Открытие Баку",
       description:
         "Древняя история и современная архитектура Азербайджана. Баку, Габала, Шеки и Куба с канатными дорогами и объектами ЮНЕСКО.",
       duration: "7 Дней / 6 Ночей",
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       title: "Бали - Роскошный отдых",
       description:
         "Расслабьтесь в тропическом раю Бали с пляжами, рисовыми террасами, храмами и спа. Водные виды спорта, качели Бали и тур по Нуса-Пенида.",
       duration: "5 Дней / 4 Ночи",
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       title: "Камбоджа и Лаос - Открытие",
       description:
         "Древние храмы и пышные ландшафты двух стран Юго-Восточной Азии. Рассвет в Ангкор-Вате и культурные впечатления.",
       duration: "9 Дней / 8 Ночей",
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       title: "Грузия - Кавказское приключение",
       description:
         "Древние церкви, винная страна и горные ландшафты Кавказа. Дегустация вина, верховые прогулки и уроки катания на лыжах.",
       duration: "8 Дней / 7 Ночей",
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       title: "Япония - Роскошный опыт",
       description:
         "Идеальное сочетание традиционной культуры и современных инноваций в Токио, Осаке, Киото и дальше. Поездки на скоростных поездах.",
@@ -1628,7 +1628,7 @@ export const ru = {
         "Городской шарм Алматы, потрясающие горные озера и каньон Чаryn. Идеальное сочетание горных приключений и культуры.",
       duration: "5 Дней / 4 Ночи",
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       title: "Шри-Ланка - Роскошный тур",
       description:
         "Жемчужина Индийского океана с культурными чудесами, приключениями в дикой природе и нетронутыми пляжами. Все включено.",
@@ -1982,7 +1982,7 @@ export const ru = {
           "title": "Северный Гоа – Португальский Гоа",
           "herotitle": "Северный Гоа – Португальский Гоа",
           "subtitle": "Однодневный тур по пляжам, фортам и португальскому наследию Северного Гоа",
-          "backgroundImage": "../../assets/hero/Goa-1-hero.jpg",
+          "backgroundImage": "../../assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Весь день",
             "locations": "Северный Гоа",
@@ -10061,7 +10061,7 @@ export const ru = {
         },
       ],
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       file_name: "5n-6d-hongkong-tour-package.html",
       page: {
         slug: "hongkong-macau-tour-package",
@@ -10903,7 +10903,7 @@ export const ru = {
         },
       ],
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       file_name: "baku-tour-package.html",
       page: {
         slug: "baku-tour-package",
@@ -11077,7 +11077,7 @@ export const ru = {
         },
       ],
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       file_name: "bali-tour-package.html",
       page: {
         slug: "bali-tour-package",
@@ -11224,7 +11224,7 @@ export const ru = {
         },
       ],
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       file_name: "combodia-tour-package.html",
       page: {
         slug: "cambodia-laos-tour-package",
@@ -11557,7 +11557,7 @@ export const ru = {
         },
       ],
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       file_name: "georgia-tour-package.html",
       page: {
         slug: "georgia-tour-package",
@@ -11575,7 +11575,7 @@ export const ru = {
         language: "ru",
         "metadata": {
           "title": "Турпакет в Грузию из Индии – Откройте магию Кавказа с Global Tourist Centre",
-          "description": "Отправьтесь в уникальный тур в Грузию из Индии: старый Тбилиси, Казбеги, побережье Батуми и многое другое. Перелеты, гиды и культурная программа включены."
+          "description": "Отправьтесь в уникальный тур по Грузии из Индии с Global Tourist Centre: исследуйте очаровательный старый город Тбилиси, горные пейзажи Казбеги, побережье Чёрного моря в Батуми и многое другое — прямые перелёты, местные гиды и богатая культурная программа включены."
         }
       },
       cta: {
@@ -11724,7 +11724,7 @@ export const ru = {
         },
       ],
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       file_name: "japan-tour-package.html",
       page: {
         slug: "japan-tour-package",
@@ -12685,10 +12685,10 @@ export const ru = {
         },
       ],
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       file_name: "srilanka-tour-package.html",
       page: {
-        slug: "sri-lanka-tour-package-package",
+        slug: "srilanka-tour-package-package",
         type: "",
         hero: {
           title: "Тур в Шри-Ланку 7 ночей - 8 дней",

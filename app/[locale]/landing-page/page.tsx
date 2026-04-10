@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const locale = params.locale || "en";
   const t = getTranslations(locale);
 
-  const image ="/assets/luxury-travel-destination-mountains-sunset.jpg";
+  const image ="/assets/luxury-travel-destination-mountains-sunset.webp";
   const canonical = `https://globaltouristcentre.com/${locale}/landing-page`;
 
   const meta = t.metadata.landingPage;
@@ -89,7 +89,7 @@ export default function LandingPage() {
                   "@id": "https://globaltouristcentre.com/#organization",
                   name: "Global Tourist Centre",
                   url: "https://globaltouristcentre.com",
-                  logo: "https://globaltouristcentre.com/logo.png",
+                  logo: "https://globaltouristcentre.com/logo.webp",
                   foundingDate: "2010",
                   sameAs: [
                     "https://www.instagram.com/globaltouristcentre",

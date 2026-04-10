@@ -9,7 +9,7 @@ export default function Loading() {
       <div className="flex flex-col items-center gap-6">
         {/* Brand Logo */}
         <Image
-          src="/assets/logo.png"
+          src="/assets/logo.webp"
           alt="Global Tourist Centre"
           width={96}
           height={96}

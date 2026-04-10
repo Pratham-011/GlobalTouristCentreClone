@@ -27,13 +27,13 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/assets/favicon/favicon-96x96.png",
+        url: "/assets/favicon/favicon-96x96.webp",
         sizes: "96x96",
-        type: "image/png",
+        type: "image/webp",
       },
       { url: "/assets/favicon/favicon.svg", type: "image/svg+xml" },
     ],
-    apple: "/assets/favicon/apple-touch-icon.png",
+    apple: "/assets/favicon/apple-touch-icon.webp",
     shortcut: "/assets/favicon/favicon.ico",
   },
   manifest: "/assets/favicon/site.webmanifest",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
       "Book your dream vacation with exclusive deals. Kerala, Goa, Dubai, Rajasthan & more. Best price guarantee + personalized service.",
     images: [
       {
-        url: "/og-landing.jpg",
+        url: "/og-default.webp",
         width: 1200,
         height: 630,
         alt: "Global Tourist Centre - Luxury Travel Experiences",
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     title: "Luxury India & Dubai Holiday Packages | Up to 35% OFF",
     description:
       "Book your dream vacation with exclusive deals. Best price guarantee + personalized service.",
-    images: ["/og-landing.jpg"],
+    images: ["/og-default.webp"],
   },
   alternates: {
     canonical: "https://globaltouristcentre.com/landing-page",
@@ -93,7 +93,7 @@ const jsonLd = {
   name: "Global Tourist Centre",
   description: "Luxury travel experiences since 2010",
   url: "https://globaltouristcentre.com",
-  logo: "https://globaltouristcentre.com/logo.png",
+  logo: "https://globaltouristcentre.com/logo.webp",
   telephone: "+91-9067972295",
   email: "info@globaltouristcentre.com",
   address: {

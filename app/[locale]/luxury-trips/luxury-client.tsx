@@ -85,7 +85,7 @@ export default function LuxuryDestinationsPage() {
       <section className="relative min-h-[60vh] sm:min-h-[70vh] flex items-center">
         <div className="absolute inset-0">
           <Image
-            src="/assets/dubai-skyline-burj-khalifa-luxury-evening.jpg"
+            src="/assets/dubai-skyline-burj-khalifa-luxury-evening.webp"
             alt=""
             fill
             sizes="100vw"

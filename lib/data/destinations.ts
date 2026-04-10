@@ -219,14 +219,14 @@ export const internationalTrips: Destination[] = [
     category: "international",
     zone: "asia",
   },
-  {
-    id: "int-nepal-005",
-    slug: "nepal-muktinath-special",
-    rating: 4.8,
-    imageQuery: "/destinations/Thumbnails/Nepal2.webp",
-    category: "international",
-    zone: "asia",
-  },
+  // {
+  //   id: "int-nepal-005",
+  //   slug: "nepal-muktinath-special",
+  //   rating: 4.8,
+  //   imageQuery: "/destinations/Thumbnails/Nepal2.webp",
+  //   category: "international",
+  //   zone: "asia",
+  // },
   {
     id: "int-singapore-malaysia-006",
     slug: "singapore-tour-package",
@@ -293,7 +293,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-hongkong-013",
-    slug: "hong-kong-macau-tour",
+    slug: "5n-6d-hongkong-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/HongKong.webp",
     category: "international",
@@ -301,7 +301,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-baku-014",
-    slug: "azerbaijan-baku-tour",
+    slug: "baku-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Baku.webp",
     category: "international",
@@ -309,7 +309,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-bali-015",
-    slug: "bali-luxury-getaway",
+    slug: "bali-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Bali.webp",
     category: "international",
@@ -317,7 +317,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-cambodia-laos-016",
-    slug: "cambodia-laos-discovery",
+    slug: "combodia-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Cambodia.webp",
     category: "international",
@@ -325,7 +325,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-georgia-017",
-    slug: "georgia-caucasus-adventure",
+    slug: "georgia-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Georgia.webp",
     category: "international",
@@ -333,7 +333,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-japan-018",
-    slug: "japan-luxury-experience",
+    slug: "japan-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Japan.webp",
     category: "international",
@@ -350,7 +350,7 @@ export const internationalTrips: Destination[] = [
 
   {
     id: "int-srilanka-023",
-    slug: "sri-lanka-tour-package",
+    slug: "srilanka-tour-package",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/SriLanka.webp",
     category: "international",

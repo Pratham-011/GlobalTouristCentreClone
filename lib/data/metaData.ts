@@ -42,7 +42,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "hong-kong-macau-tour": {
+  "5n-6d-hongkong-tour-package": {
     meta: {
       duration: "6 Days",
       rating: "4.7/5 Rating",
@@ -84,7 +84,7 @@ export const metaData: Record<string, any> = {
       rating: "4.9/5 Rating",
     },
   },
-  "azerbaijan-baku-tour": {
+  "baku-tour-package": {
     meta: {
       duration: "7 Days",
       rating: "4.8/5 Rating",
@@ -96,7 +96,7 @@ export const metaData: Record<string, any> = {
       rating: "5.0/5 Rating",
     },
   },
-  "cambodia-laos-discovery": {
+  "combodia-tour-package": {
     meta: {
       duration: "9 Days",
       rating: "4.7/5 Rating",
@@ -134,7 +134,7 @@ export const metaData: Record<string, any> = {
       rating: "4.9/5 Rating",
     },
   },
-  "georgia-caucasus-adventure": {
+  "georgia-tour-package": {
     meta: {
       duration: "8 Days",
       rating: "4.8/5 Rating",
@@ -160,7 +160,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "japan-luxury-experience": {
+  "japan-tour-package": {
     meta: {
       duration: "8 Days",
       rating: "4.8/5 Rating",
@@ -296,7 +296,7 @@ export const metaData: Record<string, any> = {
       duration: "2 Nights / 3 Days",
     },
   },
-  "bali-luxury-getaway": {
+  "bali-tour-package": {
     meta: {
       duration: "5 Days",
       rating: "4.7/5 Rating",
@@ -308,12 +308,12 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "nepal-muktinath-special": {
-    meta: {
-      duration: "7 Days",
-      rating: "4.8/5 Rating",
-    },
-  },
+  // "nepal-muktinath-special": {
+  //   meta: {
+  //     duration: "7 Days",
+  //     rating: "4.8/5 Rating",
+  //   },
+  // },
   "phuket-krabi-tour-package": {
     meta: {
       duration: "5 Days",
@@ -326,7 +326,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "sri-lanka-tour-package": {
+  "srilanka-tour-package": {
     meta: {
       duration: "8 Days",
       rating: "4.6/5 Rating",

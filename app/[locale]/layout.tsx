@@ -111,7 +111,7 @@ export default function LocaleLayout({
     "@id": `https://globaltouristcentre.com/${params.locale}`,
     "name": "Global Tourist Centre",
     "url": `https://globaltouristcentre.com/${params.locale}`,
-    "image": "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.png",
+    "image": "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.webp",
     "telephone": "+91-9067972295",
 
     "address": {

@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: t.metadata.landingPage.title,
     description: t.metadata.landingPage.description,
-    images: ["/assets/luxury-travel-destination-mountains-sunset.jpg"],
+    images: ["/assets/luxury-travel-destination-mountains-sunset.webp"],
     siteName: t.metadata.brandname,
     type: "website",
     url: "https://globaltouristcentre.com/landing-page",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     images: [
       {
-        url: "/assets/luxury-travel-destination-mountains-sunset.jpg",
+        url: "/assets/luxury-travel-destination-mountains-sunset.webp",
         width: 1200,
         height: 630,
         alt: t.metadata.landingPage.title,
@@ -77,7 +77,7 @@ export default function LandingPage() {
                   "@id": "https://globaltouristcentre.com/#organization",
                   name: "Global Tourist Centre",
                   url: "https://globaltouristcentre.com",
-                  logo: "https://globaltouristcentre.com/logo.png",
+                  logo: "https://globaltouristcentre.com/logo.webp",
                   foundingDate: "2010",
                   sameAs: [
                     "https://www.instagram.com/globaltouristcentre",

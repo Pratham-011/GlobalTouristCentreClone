@@ -207,7 +207,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "hong-kong-macau-tour": {
+  "5n-6d-hongkong-tour-package": {
     gallery: [
       {
         title: "Hong Kong Skyline",
@@ -410,7 +410,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "azerbaijan-baku-tour": {
+  "baku-tour-package": {
     gallery: [
       {
         title: "Sheki Khans Palace",
@@ -473,7 +473,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "cambodia-laos-discovery": {
+  "combodia-tour-package": {
     gallery: [
       {
         title: "Angkor Wat Sunrise",
@@ -642,7 +642,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "georgia-caucasus-adventure": {
+  "georgia-tour-package": {
     gallery: [
       {
         title: "Tbilisi Old Town",
@@ -758,7 +758,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "japan-luxury-experience": {
+  "japan-tour-package": {
     gallery: [
       {
         title: "Mount Fuji",
@@ -1444,7 +1444,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "bali-luxury-getaway": {
+  "bali-tour-package": {
     gallery: [
       {
         title: "Kuta Beach",
@@ -1502,35 +1502,35 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "nepal-muktinath-special": {
-    gallery: [
-      {
-        title: "Muktinath Temple",
-        description: "Sacred pilgrimage site",
-        image: "/assets/destinations/Nepal/Muktinath Temple.webp",
-      },
-      {
-        title: "Phewa Lake",
-        description: "Serene boating experience",
-        image: "/assets/destinations/Nepal/Phewa Lake.webp",
-      },
-      {
-        title: "Sarangkot Sunrise",
-        description: "Himalayan panorama",
-        image: "/assets/destinations/Nepal/Sarangkot Sunrise.webp",
-      },
-      {
-        title: "Pashupatinath Temple",
-        description: "Holy Hindu temple",
-        image: "/assets/destinations/Nepal/Pashupatinath Temple.webp",
-      },
-      {
-        title: "Bhaktapur Durbar Square",
-        description: "UNESCO World Heritage",
-        image: "/assets/destinations/Nepal/Bhaktapur Durbar Square.webp",
-      },
-    ],
-  },
+  // "nepal-muktinath-special": {
+  //   gallery: [
+  //     {
+  //       title: "Muktinath Temple",
+  //       description: "Sacred pilgrimage site",
+  //       image: "/assets/destinations/Nepal/Muktinath Temple.webp",
+  //     },
+  //     {
+  //       title: "Phewa Lake",
+  //       description: "Serene boating experience",
+  //       image: "/assets/destinations/Nepal/Phewa Lake.webp",
+  //     },
+  //     {
+  //       title: "Sarangkot Sunrise",
+  //       description: "Himalayan panorama",
+  //       image: "/assets/destinations/Nepal/Sarangkot Sunrise.webp",
+  //     },
+  //     {
+  //       title: "Pashupatinath Temple",
+  //       description: "Holy Hindu temple",
+  //       image: "/assets/destinations/Nepal/Pashupatinath Temple.webp",
+  //     },
+  //     {
+  //       title: "Bhaktapur Durbar Square",
+  //       description: "UNESCO World Heritage",
+  //       image: "/assets/destinations/Nepal/Bhaktapur Durbar Square.webp",
+  //     },
+  //   ],
+  // },
   "phuket-krabi-tour-package": {
     gallery: [
       {
@@ -1589,7 +1589,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "sri-lanka-tour-package": {
+  "srilanka-tour-package": {
     gallery: [
       {
         title: "Sigiriya Rock",

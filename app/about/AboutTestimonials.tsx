@@ -197,7 +197,7 @@ export function AboutTestimonials() {
           "
         >
           <Image
-            src="/assets/icons8-google-48.png"
+            src="/assets/icons8-google-48.webp"
             alt="Google Reviews"
             width={24}
             height={24}

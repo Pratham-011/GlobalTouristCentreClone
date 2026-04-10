@@ -88,7 +88,7 @@ export default function RootLayout({
     name: "Global Tourist Centre",
     url: "https://globaltouristcentre.com/",
     image:
-      "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.png",
+      "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.webp",
     telephone: "+91-9067972295",
 
     address: {
