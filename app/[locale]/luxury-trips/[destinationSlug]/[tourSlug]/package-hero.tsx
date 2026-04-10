@@ -29,8 +29,8 @@ export function PackageHero({ data }: PackageHeroProps) {
   const title = data.title || "Luxury Experience";
   const ctaLink = data.cta_link || "#";
   const backgroundBase = encodeURI(backgroundImage);
-  const backgroundMd = encodeURI(toVariant(backgroundImage, "-md"));
-  const backgroundSm = encodeURI(toVariant(backgroundImage, "-sm"));
+  const backgroundMd = toVariant(backgroundBase, "-md");
+  const backgroundSm = toVariant(backgroundBase, "-sm");
 
   return (
     <section className="relative h-[60vh] min-h-[500px] w-full flex flex-col items-center justify-center text-center overflow-hidden">

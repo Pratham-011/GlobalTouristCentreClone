@@ -18,8 +18,8 @@ export function HeroSection({ slug }: HeroSectionProps) {
 
   if (!pageText || !pageMedia) return null;
   const backgroundBase = encodeURI(pageMedia.image);
-  const backgroundMd = encodeURI(toVariant(pageMedia.image, "-md"));
-  const backgroundSm = encodeURI(toVariant(pageMedia.image, "-sm"));
+  const backgroundMd = toVariant(backgroundBase, "-md");
+  const backgroundSm = toVariant(backgroundBase, "-sm");
 
   return (
     <section className="relative w-full h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden">
