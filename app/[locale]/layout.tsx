@@ -340,6 +340,7 @@ export default function LocaleLayout({
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-5CNKV323"
+            title="Google Tag Manager"
             height="0"
             width="0"
             style={{ display: "none", visibility: "hidden" }}
@@ -349,6 +350,7 @@ export default function LocaleLayout({
           <img
             src="https://mc.yandex.ru/watch/105467216"
             style={{ position: "absolute", left: "-9999px" }}
+            decoding="async"
             alt=""
           />
         </noscript>

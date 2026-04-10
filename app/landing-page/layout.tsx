@@ -157,7 +157,7 @@ export default function LandingPageLayout({
       <PromoPopup />
       <Script
         id="gtm-script"
-        strategy="afterInteractive"
+        strategy="lazyOnload"
         dangerouslySetInnerHTML={{
           __html: `
       (function(w,d,s,l,i){w[l]=w[l]||[];
@@ -172,7 +172,7 @@ export default function LandingPageLayout({
       />
       <Script
         id="yandex-metrika"
-        strategy="afterInteractive"
+        strategy="lazyOnload"
         dangerouslySetInnerHTML={{
           __html: `
       (function(m,e,t,r,i,k,a){
