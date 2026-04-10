@@ -68,7 +68,7 @@ export function Footer() {
       <div className="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-[#f8d56b] via-[#0d9488] to-[#f8d56b]" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-5 pb-4">
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-x-4 gap-y-5 sm:gap-6">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-x-4 gap-y-1 sm:gap-6">
 
           {/* Logo & Description */}
           <div className="col-span-2 lg:col-span-1 flex flex-row lg:flex-col items-start gap-3">
@@ -127,7 +127,7 @@ export function Footer() {
               <span className="absolute bottom-0 left-0 w-6 h-[2px] bg-gradient-to-r from-[#f8d56b] to-transparent" />
             </h3>
 
-            <ul className="space-y-1">
+            <ul className="space-y-0.5">
               {[
                 { href: `/${locale}`, label: t.nav.home },
                 { href: `/${locale}/destinations`, label: t.nav.destinations },
