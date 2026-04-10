@@ -1,13 +1,16 @@
 import type React from "react";
 import type { Metadata } from "next";
+import Script from "next/script";
 
 import { OfferBanner } from "@/components-eng/offer-banner";
 import { getTranslations } from "@/lib/i18n/getTranslations";
 
-import Testimonials from "./Testimonials";
-import Memories from "./Memories";
-import Services from "./Services";
-import CuratedTravel from "./CuratedTravel";
+import dynamic from "next/dynamic";
+
+const Testimonials = dynamic(() => import("./Testimonials"));
+const Memories = dynamic(() => import("./Memories"));
+const Services = dynamic(() => import("./Services"));
+const CuratedTravel = dynamic(() => import("./CuratedTravel"));
 import Signature from "./Signature";
 import Hero from "./Hero";
 
@@ -66,8 +69,10 @@ export default function LandingPage() {
       {/* MAIN LANDMARK */}
       <main id="main-content">
         {/* JSON-LD Schema */}
-        <script
+        <Script
+          id="landing-page-schema"
           type="application/ld+json"
+          strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
