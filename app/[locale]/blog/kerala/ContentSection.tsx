@@ -1,4 +1,5 @@
 import { BlogSectionData } from "./types";
+import Image from "next/image";
 
 const ContentSection = ({ data }: { data: BlogSectionData }) => (
   <section className="mb-12 scroll-mt-24">
@@ -8,7 +9,7 @@ const ContentSection = ({ data }: { data: BlogSectionData }) => (
 
     {data.image && (
       <figure className="mb-6 rounded-xl overflow-hidden">
-        <img src={data.image} alt={data.imageAlt} />
+        <Image src={data.image} alt={data.imageAlt} width={800} height={450} className="w-full h-auto" />
         {data.caption && <figcaption>{data.caption}</figcaption>}
       </figure>
     )}

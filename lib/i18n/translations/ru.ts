@@ -223,7 +223,7 @@ export const ru = {
         description:
           "Роскошные виллы над водой, частные ужины, спа и захватывающие закаты.",
       },
-      "sri-lanka-tour-package": {
+      "srilanka-tour-package": {
         title: "Путешествие по Шри-Ланке",
         duration: "6 ночей / 7 дней",
         description:
@@ -240,7 +240,7 @@ export const ru = {
   // Form
   form: {
     name: "Ваше Имя",
-    email: "Ваш Email",
+    email: "Ваш Электронная почта",
     phone: "Ваш Телефон",
     destination: "Интересующее Направление",
     subject: "Выберите Тему",
@@ -541,7 +541,7 @@ export const ru = {
         "Заполните эту форму, и наши визовые эксперты свяжутся с вами в течение 24 часов для начала процесса.",
       fullNameLabel: "Полное Имя*",
       fullNamePlaceholder: "Введите ваше полное имя",
-      emailLabel: "Email*",
+      emailLabel: "Электронная почта*",
       emailPlaceholder: "Ваш адрес электронной почты",
       phoneLabel: "Номер Телефона*",
       phonePlaceholder: "Ваш контактный номер",
@@ -600,7 +600,7 @@ export const ru = {
         "Заполните детали ниже, и мы свяжемся с вами в течение 24 часов",
       yourName: "Ваше Имя*",
       namePlaceholder: "Полное имя",
-      email: "Email*",
+      email: "Электронная почта*",
       emailPlaceholder: "Ваш адрес электронной почты",
       phone: "Номер Телефона*",
       phonePlaceholder: "Номер с кодом страны",
@@ -665,7 +665,7 @@ export const ru = {
         "Заполните детали ниже, и мы свяжемся с вами в течение 24 часов",
       yourName: "Ваше Имя*",
       namePlaceholder: "Полное имя",
-      email: "Email*",
+      email: "Электронная почта*",
       emailPlaceholder: "Ваш адрес электронной почты",
       phone: "Номер Телефона*",
       phonePlaceholder: "Номер с кодом страны",
@@ -781,7 +781,7 @@ export const ru = {
     form: {
       yourName: "Ваше Имя*",
       namePlaceholder: "Полное имя",
-      email: "Email*",
+      email: "Электронная почта*",
       emailPlaceholder: "Ваш email",
       phone: "Телефон*",
       phonePlaceholder: "Ваш номер телефона",
@@ -1042,6 +1042,7 @@ export const ru = {
     ourOffice: "Наш Офис",
     callUs: "Позвоните Нам",
     emailUs: "Напишите Нам",
+    date: "Понедельник - Воскресенье",
     workingHours: "Часы Работы",
     viewOnMap: "Показать на Карте",
     businessInquiry: "Деловой Запрос",
@@ -1334,7 +1335,7 @@ export const ru = {
           "Идеальное сочетание городского стиля и спокойствия горных станций в Южной Индии.",
       },
       "mahraja-train-tour-package": {
-        "title": "Maharajas' Express",
+        "title": "Махараджас Экспресс",
         "description": "Королевская железнодорожная одиссея по легендарным фортам Раджастхана, заповедникам и городам на озерах на борту легендарного поезда Maharajas' Express."
       }
     },
@@ -1585,37 +1586,37 @@ export const ru = {
         "Райский островной опыт: тур по 4 островам Краби и тур по острову Фи-Фи с Пхукета. Нетронутые пляжи и бирюзовая вода.",
       duration: "5 Дней / 4 Ночи",
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       title: "Гонконг и Макао - Побег",
       description:
         "Яркие города, потрясающий горизонт и культурные чудеса. Ocean Park, городские туры и паромы между Гонконгом и Макао.",
       duration: "6 Дней / 5 Ночей",
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       title: "Азербайджан - Открытие Баку",
       description:
         "Древняя история и современная архитектура Азербайджана. Баку, Габала, Шеки и Куба с канатными дорогами и объектами ЮНЕСКО.",
       duration: "7 Дней / 6 Ночей",
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       title: "Бали - Роскошный отдых",
       description:
         "Расслабьтесь в тропическом раю Бали с пляжами, рисовыми террасами, храмами и спа. Водные виды спорта, качели Бали и тур по Нуса-Пенида.",
       duration: "5 Дней / 4 Ночи",
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       title: "Камбоджа и Лаос - Открытие",
       description:
         "Древние храмы и пышные ландшафты двух стран Юго-Восточной Азии. Рассвет в Ангкор-Вате и культурные впечатления.",
       duration: "9 Дней / 8 Ночей",
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       title: "Грузия - Кавказское приключение",
       description:
         "Древние церкви, винная страна и горные ландшафты Кавказа. Дегустация вина, верховые прогулки и уроки катания на лыжах.",
       duration: "8 Дней / 7 Ночей",
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       title: "Япония - Роскошный опыт",
       description:
         "Идеальное сочетание традиционной культуры и современных инноваций в Токио, Осаке, Киото и дальше. Поездки на скоростных поездах.",
@@ -1627,7 +1628,7 @@ export const ru = {
         "Городской шарм Алматы, потрясающие горные озера и каньон Чаryn. Идеальное сочетание горных приключений и культуры.",
       duration: "5 Дней / 4 Ночи",
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       title: "Шри-Ланка - Роскошный тур",
       description:
         "Жемчужина Индийского океана с культурными чудесами, приключениями в дикой природе и нетронутыми пляжами. Все включено.",
@@ -1981,7 +1982,7 @@ export const ru = {
           "title": "Северный Гоа – Португальский Гоа",
           "herotitle": "Северный Гоа – Португальский Гоа",
           "subtitle": "Однодневный тур по пляжам, фортам и португальскому наследию Северного Гоа",
-          "backgroundImage": "../../assets/hero/Goa-1-hero.jpg",
+          "backgroundImage": "../../assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Весь день",
             "locations": "Северный Гоа",
@@ -10060,7 +10061,7 @@ export const ru = {
         },
       ],
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       file_name: "5n-6d-hongkong-tour-package.html",
       page: {
         slug: "hongkong-macau-tour-package",
@@ -10902,7 +10903,7 @@ export const ru = {
         },
       ],
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       file_name: "baku-tour-package.html",
       page: {
         slug: "baku-tour-package",
@@ -11076,7 +11077,7 @@ export const ru = {
         },
       ],
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       file_name: "bali-tour-package.html",
       page: {
         slug: "bali-tour-package",
@@ -11223,7 +11224,7 @@ export const ru = {
         },
       ],
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       file_name: "combodia-tour-package.html",
       page: {
         slug: "cambodia-laos-tour-package",
@@ -11556,7 +11557,7 @@ export const ru = {
         },
       ],
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       file_name: "georgia-tour-package.html",
       page: {
         slug: "georgia-tour-package",
@@ -11574,7 +11575,7 @@ export const ru = {
         language: "ru",
         "metadata": {
           "title": "Турпакет в Грузию из Индии – Откройте магию Кавказа с Global Tourist Centre",
-          "description": "Отправьтесь в уникальный тур в Грузию из Индии: старый Тбилиси, Казбеги, побережье Батуми и многое другое. Перелеты, гиды и культурная программа включены."
+          "description": "Отправьтесь в уникальный тур по Грузии из Индии с Global Tourist Centre: исследуйте очаровательный старый город Тбилиси, горные пейзажи Казбеги, побережье Чёрного моря в Батуми и многое другое — прямые перелёты, местные гиды и богатая культурная программа включены."
         }
       },
       cta: {
@@ -11723,7 +11724,7 @@ export const ru = {
         },
       ],
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       file_name: "japan-tour-package.html",
       page: {
         slug: "japan-tour-package",
@@ -12684,10 +12685,10 @@ export const ru = {
         },
       ],
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       file_name: "srilanka-tour-package.html",
       page: {
-        slug: "sri-lanka-tour-package-package",
+        slug: "srilanka-tour-package-package",
         type: "",
         hero: {
           title: "Тур в Шри-Ланку 7 ночей - 8 дней",
@@ -15109,6 +15110,37 @@ export const ru = {
         { "icon": "fas fa-shield-alt", "title": "Налоги и поддержка", "description": "Все применимые налоги и экскурсии включены" }
       ]
     }
+  },
+  cookies: {
+    banner: {
+      title: "Мы ценим вашу конфиденциальность",
+      description: "Мы используем файлы cookie для улучшения работы сайта, персонализации туристических предложений, анализа трафика и поддержки маркетинговых усилий. Вы можете выбрать, как мы используем cookie.",
+      acceptAll: "Принять все",
+      rejectAll: "Отклонить все",
+      settings: "Настройки",
+    },
+    modal: {
+      title: "Настройки файлов cookie",
+      intro: "В Global Tourist Centre мы используем файлы cookie для улучшения вашего опыта планирования путешествий. Они помогают нам понять, как вы используете наш сайт, запомнить ваши предпочтения и показывать актуальные туры и предложения.",
+      essential: {
+        title: "Необходимые файлы cookie",
+        desc: "Эти файлы cookie необходимы для корректной работы сайта. Они обеспечивают базовые функции: навигацию, формы бронирования и безопасный доступ.",
+      },
+      analytics: {
+        title: "Аналитические файлы cookie",
+        desc: "Помогают нам понять, как посетители взаимодействуют с сайтом, например какие турпакеты наиболее популярны, чтобы улучшить наши услуги.",
+      },
+      marketing: {
+        title: "Маркетинговые файлы cookie",
+        desc: "Используются для показа актуальных туристических предложений, праздничных пакетов и акций на основе ваших интересов.",
+      },
+      preference: {
+        title: "Файлы cookie предпочтений",
+        desc: "Запоминают ваши настройки, такие как предпочитаемые направления или язык, для более персонализированного опыта.",
+      },
+      saveSettings: "Сохранить настройки",
+      essentialNote: "Всегда активны",
+    },
   },
   notfound: {
     title: "Приключения ждут, но вы свернули не туда!",

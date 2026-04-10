@@ -10,6 +10,7 @@ import {
 } from "@/components/ui/accordion";
 import { useI18n } from "@/lib/i18n/context";
 import { domesticTrips, internationalTrips } from "@/lib/data/destinations";
+import Image from "next/image";
 
 export default function DomesticInternationalTripsPage() {
   const { t, locale } = useI18n();
@@ -29,11 +30,15 @@ export default function DomesticInternationalTripsPage() {
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
           <div className="rounded-xl overflow-hidden">
-            <img
-              src="/assets/services/domestic-international-about.webp"
-              alt={data.about.title}
-              className="w-[600px] h-[400px] object-cover"
-            />
+            <div className="relative w-[600px] h-[400px]">
+              <Image
+                src="/assets/services/domestic-international-about.webp"
+                alt={data.about.title}
+                fill
+                sizes="(max-width: 768px) 100vw, 600px"
+                className="object-cover"
+              />
+            </div>
           </div>
 
           <div>

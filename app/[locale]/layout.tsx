@@ -7,6 +7,7 @@ import { I18nProvider } from "@/lib/i18n/context";
 import { Footer } from "@/components/footer";
 
 import { WhatsAppButton } from "@/components/whatsapp-button";
+import { CookieBanner } from "@/components/cookie-banner";
 import { locales } from "@/lib/i18n/config";
 import type { Locale } from "@/lib/i18n/translations";
 import "../globals.css";
@@ -110,7 +111,7 @@ export default function LocaleLayout({
     "@id": `https://globaltouristcentre.com/${params.locale}`,
     "name": "Global Tourist Centre",
     "url": `https://globaltouristcentre.com/${params.locale}`,
-    "image": "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.png",
+    "image": "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.webp",
     "telephone": "+91-9067972295",
 
     "address": {
@@ -323,6 +324,7 @@ export default function LocaleLayout({
             message="Hi! I am planning a trip, can you help me out?"
             tooltipText="Chat with us on WhatsApp"
           />
+          <CookieBanner />
         </I18nProvider>
         <Script
           id="travel-agency-schema"

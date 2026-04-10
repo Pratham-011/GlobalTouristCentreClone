@@ -4,6 +4,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
 import { useParams } from "next/navigation";
+import Image from "next/image";
 
 type Props = {
   title: string;
@@ -20,7 +21,7 @@ const RelatedTripCard = ({ title, desc, image, link, isComingSoon }: Props) => {
 
   return (
     <div className="bg-white rounded-xl overflow-hidden shadow-sm flex flex-col relative">
-      <img src={image} alt={title} className="h-48 w-full object-cover" />
+      <Image src={image} alt={title} width={600} height={192} className="h-48 w-full object-cover" />
 
       <div className="p-5 flex flex-col flex-grow">
         <h3 className="font-serif text-lg font-bold mb-2">{title}</h3>

@@ -224,7 +224,7 @@ export const en = {
         description:
           "Indulge in a luxury Maldives getaway with overwater villas, pristine beaches, private dining, spa retreats, and stunning sunsets.",
       },
-      "sri-lanka-tour-package": {
+      "srilanka-tour-package": {
         title: "Sri Lanka Cultural & Scenic Tour",
         duration: "6 Nights / 7 Days",
         description:
@@ -1060,6 +1060,7 @@ export const en = {
     callUs: "Call Us",
     emailUs: "Email Us",
     workingHours: "Working Hours",
+    date: "Monday - Sunday",
     viewOnMap: "View on Map",
     businessInquiry: "Business Inquiry",
     salesInquiry: "Sales Inquiry",
@@ -1627,37 +1628,37 @@ export const en = {
         "Island paradise experience with 4 Islands Tour in Krabi and Phi Phi Island Tour from Phuket. Pristine beaches, limestone cliffs, and turquoise waters.",
       duration: "5 Days / 4 Nights",
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       title: "Hong Kong & Macau Escape",
       description:
         "Experience vibrant cities, stunning skyline, and cultural wonders. Includes Ocean Park, city tours, and ferry transfers between Hong Kong and Macau.",
       duration: "6 Days / 5 Nights",
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       title: "Azerbaijan - Baku Discovery",
       description:
         "Discover ancient history and modern architecture in Azerbaijan. Visit Baku, Gabala, Sheki, and Quba with cable car rides and UNESCO heritage sites.",
       duration: "7 Days / 6 Nights",
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       title: "Bali Luxury Getaway",
       description:
         "Unwind in Bali's tropical paradise with beaches, rice terraces, temples, and spa retreats. Includes water sports, Bali swing, and Nusa Penida island tour.",
       duration: "5 Days / 4 Nights",
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       title: "Cambodia & Laos Discovery",
       description:
         "Explore ancient temples and lush landscapes across two incredible Southeast Asian nations. Includes Angkor Wat sunrise and cultural experiences.",
       duration: "9 Days / 8 Nights",
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       title: "Georgia - Caucasus Adventure",
       description:
         "Discover ancient churches, wine country, and mountain landscapes in the Caucasus. Includes wine tasting, horseback riding, and ski lessons.",
       duration: "8 Days / 7 Nights",
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       title: "Japan Luxury Experience",
       description:
         "Experience the perfect blend of traditional culture and modern innovation in Tokyo, Osaka, Kyoto, and beyond. Includes bullet train rides.",
@@ -1669,7 +1670,7 @@ export const en = {
         "Explore Almaty's urban charm, breathtaking mountain lakes, and stunning Charyn Canyon. Perfect blend of mountain adventures and cultural experiences.",
       duration: "5 Days / 4 Nights",
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       title: "Sri Lanka Luxury Tour",
       description:
         "Experience the pearl of the Indian Ocean with cultural wonders, wildlife adventures, and pristine beaches. Includes all meals and curated experiences.",
@@ -2033,7 +2034,7 @@ export const en = {
           "title": "North Goa – Portuguese Goa",
           "herotitle": "North Goa – Portuguese Goa",
           "subtitle": "Full Day tour exploring North Goa's beaches, forts, and Portuguese heritage",
-          "backgroundImage": "/assets/hero/Goa-1-hero.jpg",
+          "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Full Day",
             "locations": "North Goa",
@@ -3462,7 +3463,7 @@ export const en = {
           "title": "North Goa – Portuguese Goa",
           "herotitle": "Explore the Best of North Goa in 1 Days",
           "subtitle": "Full Day tour exploring North Goa's beaches, forts, and Portuguese heritage",
-          "backgroundImage": "/assets/hero/Goa-1-hero.jpg",
+          "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Full Day",
             "rating": "4.8/5 Rating",
@@ -4050,7 +4051,7 @@ export const en = {
         }
       ]
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       "file_name": "5n-6d-hongkong-tour-package.html",
       "page": {
         "slug": "hongkong-macau-tour-package",
@@ -5156,7 +5157,7 @@ export const en = {
         }
       ]
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       "file_name": "baku-tour-package.html",
       "page": {
         "slug": "baku-tour-package",
@@ -5486,7 +5487,7 @@ export const en = {
         }
       ]
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       "file_name": "combodia-tour-package.html",
       "page": {
         "slug": "cambodia-laos-tour-package",
@@ -6497,7 +6498,7 @@ export const en = {
         }
       ]
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       "file_name": "georgia-tour-package.html",
       "page": {
         "slug": "georgia-tour-package",
@@ -6513,8 +6514,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Georgia Tour Package from India | Global Tourist centre",
-          "description": "Georgia’s Caucasus adventure tour package — from Tbilisi’s charm to Kazbegi mountains, wine regions & ancient culture. Perfect international escape!"
+          "title": "Georgia Tour Package from India – Discover Caucasus Magic with Global Tourist Centre",
+          "description": "Embark on a unique Georgia tour package from India with Global Tourist Centre: explore Tbilisi’s charming old town, the mountain landscapes of Kazbegi, the Black Sea coast at Batumi and more — seamless flights, local guides and rich cultural experiences included."
         }
       },
       "cta": {
@@ -7264,7 +7265,7 @@ export const en = {
         }
       ]
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       "file_name": "japan-tour-package.html",
       "page": {
         "slug": "japan-tour-package",
@@ -11155,7 +11156,7 @@ export const en = {
         }
       ]
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       "file_name": "bali-tour-package.html",
       "page": {
         "slug": "bali-tour-package",
@@ -11885,10 +11886,10 @@ export const en = {
         }
       ]
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       "file_name": "srilanka-tour-package.html",
       "page": {
-        "slug": "sri-lanka-tour-package-package",
+        "slug": "srilanka-tour-package-package",
         "type": "",
         "hero": {
           "title": "7 Nights - 8 Days Sri Lanka Tour",
@@ -15087,6 +15088,37 @@ export const en = {
             "All applicable taxes, sightseeing & transfers as per itinerary",
         },
       ],
+    },
+  },
+  cookies: {
+    banner: {
+      title: "We Value Your Privacy",
+      description: "We use cookies to improve your browsing experience, personalize travel offers, analyze website traffic, and support our marketing efforts. You can choose how we use cookies.",
+      acceptAll: "Accept All",
+      rejectAll: "Reject All",
+      settings: "Settings",
+    },
+    modal: {
+      title: "Cookie Settings",
+      intro: "At Global Tourist Centre, we use cookies to enhance your travel planning experience. These cookies help us understand how you use our website, remember your preferences, and show you relevant tour packages and offers.",
+      essential: {
+        title: "Essential Cookies",
+        desc: "These cookies are necessary for the website to function properly. They enable basic features like page navigation, booking forms, and secure access.",
+      },
+      analytics: {
+        title: "Analytics Cookies",
+        desc: "These help us understand how visitors interact with our website, such as which travel packages are most popular, so we can improve our services.",
+      },
+      marketing: {
+        title: "Marketing Cookies",
+        desc: "These cookies are used to show you relevant travel deals, holiday packages, and promotions based on your interests.",
+      },
+      preference: {
+        title: "Preference Cookies",
+        desc: "These remember your settings, such as preferred destinations or language, to provide a more personalized experience.",
+      },
+      saveSettings: "Save Settings",
+      essentialNote: "Always Active",
     },
   },
   notfound: {

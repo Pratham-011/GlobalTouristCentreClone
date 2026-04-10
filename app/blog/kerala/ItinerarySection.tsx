@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import { itineraryData } from "./data/itinerary"; // adjust path if needed
+import Image from "next/image";
 
 const ItinerarySection: React.FC = () => {
   const [activeTab, setActiveTab] = useState(0);
@@ -50,11 +51,13 @@ const ItinerarySection: React.FC = () => {
 
             {itineraryData[activeTab].image && (
               <div className="mt-4 rounded-lg overflow-hidden h-48 w-full sm:w-2/3">
-                <img
+                <Image
                   src={`/placeholder.svg?height=300&width=500&text=${encodeURIComponent(
                     itineraryData[activeTab].title
                   )}`}
                   alt={itineraryData[activeTab].title}
+                  width={500}
+                  height={300}
                   className="w-full h-full object-cover"
                 />
               </div>

@@ -225,7 +225,7 @@ export const de = {
         description:
           "Überwasservillen, private Dinner, entspannende Spas und atemberaubende Sonnenuntergänge.",
       },
-      "sri-lanka-tour-package": {
+      "srilanka-tour-package": {
         title: "Kultur- und Naturreise Sri Lanka",
         duration: "6 Nächte / 7 Tage",
         description:
@@ -1053,6 +1053,7 @@ export const de = {
     ourOffice: "Unser Büro",
     callUs: "Rufen Sie Uns An",
     emailUs: "Schreiben Sie Uns",
+    date: "Montag - Sonntag",
     workingHours: "Öffnungszeiten",
     viewOnMap: "Auf Karte Anzeigen",
     businessInquiry: "Geschäftsanfrage",
@@ -1353,7 +1354,7 @@ export const de = {
           "Eine perfekte Mischung aus urbanem Luxus und der Ruhe der Hill Stations in Südindien.",
       },
       "mahraja-train-tour-package": {
-        "title": "Maharajas' Express",
+        "title": "Maharajas-Express",
         "description": "Eine königliche Eisenbahn-Odyssee durch die ikonischen Festungen, Wildparks und Seestädte von Rajasthan an Bord des legendären Maharajas' Express."
       }
     },
@@ -1604,35 +1605,35 @@ export const de = {
         "Insel-Paradies mit 4-Inseln-Tour in Krabi und Phi Phi-Insel-Tour von Phuket. Unberührte Strände, Kalksteinfelsen und türkisfarbenes Wasser.",
       duration: "5 Tage / 4 Nächte",
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       title: "Hongkong & Macau Auszeit",
       description:
         "Lebendige Städte, atemberaubende Skyline und kulturelle Wunder. Ocean Park, Stadttouren und Fährverbindungen zwischen Hongkong und Macau.",
       duration: "6 Tage / 5 Nächte",
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       title: "Aserbaidschan - Baku Entdeckung",
       description:
         "Antike Geschichte und moderne Architektur in Aserbaidschan. Besuchen Sie Baku, Gabala, Sheki und Quba mit Seilbahnen und UNESCO-Stätten.",
       duration: "7 Tage / 6 Nächte",
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       title: "Bali Luxus-Auszeit",
       description:
         "Entspannen Sie im tropischen Bali-Paradies mit Stränden, Reisterrassen, Tempeln und Spa. Wassersport, Bali-Swing und Nusa Penida-Tour.",
       duration: "5 Tage / 4 Nächte",
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       title: "Kambodscha & Laos Entdeckung",
       description:
         "Antike Tempel und üppige Landschaften in zwei Südostasien-Ländern. Angkor Wat-Sonnenaufgang und kulturelle Erlebnisse.",
       duration: "9 Tage / 8 Nächte",
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       title: "Georgien - Kaukasus-Abenteuer",
       duration: "8 Tage / 7 Nächte",
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       title: "Japan Luxus-Erlebnis",
       description:
         "Perfekte Mischung aus traditioneller Kultur und moderner Innovation in Tokyo, Osaka, Kyoto und darüber hinaus. Shinkansen-Fahrten inklusive.",
@@ -1644,7 +1645,7 @@ export const de = {
         "Almatys städtischer Charme, atemberaubende Bergseen und beeindruckender Charyn-Canyon. Perfekte Mischung aus Bergabenteuern und Kultur.",
       duration: "5 Tage / 4 Nächte",
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       title: "Sri Lanka Luxus-Tour",
       description:
         "Perle des Indischen Ozeans mit kulturellen Wundern, Wildtierabenteuern und unberührten Stränden. Alle Mahlzeiten und kuratierte Erlebnisse inklusive.",
@@ -2001,7 +2002,7 @@ export const de = {
           "title": "Nordgoa – Portugiesisches Goa",
           "herotitle": "Nordgoa – Portugiesisches Goa",
           "subtitle": "Ganztägige Tour durch Strände, Festungen und portugiesisches Erbe Nordgoas",
-          "backgroundImage": "../../assets/hero/Goa-1-hero.jpg",
+          "backgroundImage": "../../assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Ganzer Tag",
             "locations": "Nordgoa",
@@ -10184,7 +10185,7 @@ export const de = {
         },
       ],
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       file_name: "5n-6d-hongkong-tour-package.html",
       page: {
         slug: "hongkong-macau-tour-package",
@@ -11029,7 +11030,7 @@ export const de = {
         },
       ],
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       file_name: "baku-tour-package.html",
       page: {
         slug: "baku-tour-package",
@@ -11202,7 +11203,7 @@ export const de = {
         },
       ],
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       file_name: "bali-tour-package.html",
       page: {
         slug: "bali-tour-package",
@@ -11348,7 +11349,7 @@ export const de = {
         },
       ],
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       file_name: "combodia-tour-package.html",
       page: {
         slug: "cambodia-laos-tour-package",
@@ -11680,7 +11681,7 @@ export const de = {
         },
       ],
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       file_name: "georgia-tour-package.html",
       page: {
         slug: "georgia-tour-package",
@@ -11697,8 +11698,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Georgien Tour-Paket von Indien – Entdecken Sie den Kaukasus-Zauber mit Global Tourist Centre",
-          "description": "Begeben Sie sich auf ein einzigartiges Georgien Tour-Paket von Indien mit dem Global Tourist Centre: Erkunden Sie die charmante Altstadt von Tiflis, die Berglandschaften von Kazbegi, die Schwarzmeerküste bei Batumi und mehr — inklusive nahtloser Flüge, lokaler Guides und reicher kultureller Erfahrungen."
+          "title": "Georgien-Reisepaket ab Indien – Entdecken Sie den Zauber des Kaukasus mit Global Tourist Centre",
+          "description": "Begeben Sie sich auf ein einzigartiges Georgien-Reisepaket ab Indien mit Global Tourist Centre: Erkunden Sie die charmante Altstadt von Tiflis, die Berglandschaften von Kazbegi, die Schwarzmeerküste bei Batumi und vieles mehr — nahtlose Flüge, lokale Reiseleiter und unvergessliche kulturelle Erlebnisse inklusive."
         }
       },
       cta: {
@@ -11848,7 +11849,7 @@ export const de = {
         },
       ],
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       file_name: "japan-tour-package.html",
       page: {
         slug: "japan-tour-package",
@@ -12807,10 +12808,10 @@ export const de = {
         },
       ],
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       file_name: "srilanka-tour-package.html",
       page: {
-        slug: "sri-lanka-tour-package-package",
+        slug: "srilanka-tour-package-package",
         type: "",
         hero: {
           title: "7 Nächte - 8 Tage Sri Lanka Tour",
@@ -15733,6 +15734,37 @@ export const de = {
           description: "Alle Steuern und Transfers laut Reiseverlauf inklusive",
         },
       ],
+    },
+  },
+  cookies: {
+    banner: {
+      title: "Wir schätzen Ihre Privatsphäre",
+      description: "Wir verwenden Cookies, um Ihr Surferlebnis zu verbessern, Reiseangebote zu personalisieren, den Website-Traffic zu analysieren und unsere Marketingmaßnahmen zu unterstützen. Sie können wählen, wie wir Cookies verwenden.",
+      acceptAll: "Alle akzeptieren",
+      rejectAll: "Alle ablehnen",
+      settings: "Einstellungen",
+    },
+    modal: {
+      title: "Cookie-Einstellungen",
+      intro: "Beim Global Tourist Centre verwenden wir Cookies, um Ihr Reiseplanungserlebnis zu verbessern. Diese Cookies helfen uns zu verstehen, wie Sie unsere Website nutzen, Ihre Einstellungen zu speichern und Ihnen relevante Reisepakete und Angebote zu zeigen.",
+      essential: {
+        title: "Notwendige Cookies",
+        desc: "Diese Cookies sind für das ordnungsgemäße Funktionieren der Website erforderlich. Sie ermöglichen grundlegende Funktionen wie Seitennavigation, Buchungsformulare und sicheren Zugang.",
+      },
+      analytics: {
+        title: "Analyse-Cookies",
+        desc: "Diese helfen uns zu verstehen, wie Besucher mit unserer Website interagieren, z. B. welche Reisepakete am beliebtesten sind, damit wir unsere Dienste verbessern können.",
+      },
+      marketing: {
+        title: "Marketing-Cookies",
+        desc: "Diese Cookies werden verwendet, um Ihnen relevante Reiseangebote, Urlaubspakete und Aktionen basierend auf Ihren Interessen zu zeigen.",
+      },
+      preference: {
+        title: "Präferenz-Cookies",
+        desc: "Diese speichern Ihre Einstellungen, wie bevorzugte Reiseziele oder Sprache, um ein personalisiertes Erlebnis zu bieten.",
+      },
+      saveSettings: "Einstellungen speichern",
+      essentialNote: "Immer aktiv",
     },
   },
   notfound: {

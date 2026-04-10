@@ -1,6 +1,7 @@
 "use client";
 
 import { useI18n } from "@/lib/i18n/context";
+import Image from "next/image";
 // import { OfferBanner } from "@/components/offer-banner";
 
 export function AboutIntro() {
@@ -32,9 +33,11 @@ export function AboutIntro() {
           <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-start">
             {/* Image Section */}
             <div className="order-2 lg:order-1">
-              <img
+              <Image
                 src="/assets/About-us.webp"
                 alt="Global Tourist Centre office"
+                width={800}
+                height={600}
                 className="rounded-lg w-full shadow-md"
               />
             </div>

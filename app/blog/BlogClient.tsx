@@ -8,6 +8,7 @@ import { Calendar, User, ArrowRight } from "lucide-react";
 import { Card, CardContent } from "@/components-eng/ui/card";
 import { Button } from "@/components-eng/ui/button";
 import { Badge } from "@/components-eng/ui/badge";
+import Image from "next/image";
 
 export default function BlogClient() {
     const { t } = useI18n();
@@ -82,9 +83,11 @@ export default function BlogClient() {
                             >
                                 <article className="h-full flex flex-col">
                                     <div className="relative aspect-video overflow-hidden rounded-t-lg">
-                                        <img
+                                        <Image
                                             src={post.image}
                                             alt={post.title}
+                                            fill
+                                            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                                             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                         />
                                         <Badge className="absolute top-3 right-3 z-10 bg-teal-600 hover:bg-teal-700 text-white">

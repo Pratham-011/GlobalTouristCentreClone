@@ -238,7 +238,7 @@ export const it = {
         description:
           "Ville sull’acqua, cene private, spa rilassanti e tramonti mozzafiato.",
       },
-      "sri-lanka-tour-package": {
+      "srilanka-tour-package": {
         title: "Tour Culturale e Paesaggistico dello Sri Lanka",
         duration: "6 notti / 7 giorni",
         description:
@@ -255,7 +255,7 @@ export const it = {
   // Form
   form: {
     name: "Il Tuo Nome",
-    email: "La Tua Email",
+    email: "La Tua Posta elettronica",
     phone: "Il Tuo Telefono",
     destination: "Destinazione di Interesse",
     subject: "Seleziona Oggetto",
@@ -552,7 +552,7 @@ export const it = {
         "Compila questo modulo e i nostri esperti visti ti contatteranno entro 24 ore.",
       fullNameLabel: "Nome Completo*",
       fullNamePlaceholder: "Il tuo nome completo",
-      emailLabel: "Email*",
+      emailLabel: "Posta elettronica*",
       emailPlaceholder: "Il tuo indirizzo email",
       phoneLabel: "Numero di Telefono*",
       phonePlaceholder: "Numero di telefono",
@@ -627,7 +627,7 @@ export const it = {
       formSubtitle: "Share your travel details and we’ll handle the rest",
       yourName: "Your Name*",
       namePlaceholder: "Full name",
-      email: "Email*",
+      email: "Posta elettronica*",
       emailPlaceholder: "Your email address",
       phone: "Phone Number*",
       phonePlaceholder: "Phone number with country code",
@@ -712,7 +712,7 @@ export const it = {
       formSubtitle: "Submit your details and let us handle the rest",
       yourName: "Your Name*",
       namePlaceholder: "Full name",
-      email: "Email*",
+      email: "Posta elettronica*",
       emailPlaceholder: "Your email address",
       phone: "Phone Number*",
       phonePlaceholder: "Phone number with country code",
@@ -859,7 +859,7 @@ export const it = {
     form: {
       yourName: "Your Name*",
       namePlaceholder: "Full name",
-      email: "Email*",
+      email: "Posta elettronica*",
       emailPlaceholder: "Your email address",
       phone: "Phone Number*",
       phonePlaceholder: "Your phone number",
@@ -1173,6 +1173,7 @@ export const it = {
     callUs: "Chiamaci",
     emailUs: "Scrivici",
     workingHours: "Orari di Lavoro",
+    date: "Lunedì - Domenica",
     viewOnMap: "Vedi sulla Mappa",
     businessInquiry: "Richieste Commerciali",
     salesInquiry: "Richieste Vendite",
@@ -1468,7 +1469,7 @@ export const it = {
           "Un mix perfetto di lusso urbano e serenità delle località collinari nell'India meridionale.",
       },
       "mahraja-train-tour-package": {
-        "title": "Maharajas' Express",
+        "title": "Maharaja's Express",
         "description": "Un'odissea reale su rotaia tra gli iconici forti del Rajasthan, i parchi naturali e le città lacustri a bordo del leggendario Maharajas' Express."
       }
     },
@@ -1719,37 +1720,37 @@ export const it = {
         "Paradiso insulare con Tour 4 Isole Krabi e Tour isola Phi Phi da Phuket. Spiagge incontaminate, scogliere calcaree e acque turchesi.",
       duration: "5 Giorni / 4 Notti",
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       title: "Hong Kong & Macao Fuga",
       description:
         "Città vibranti, skyline spettacolare e meraviglie culturali. Ocean Park, tour città e trasferimenti ferry Hong Kong-Macao.",
       duration: "6 Giorni / 5 Notti",
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       title: "Azerbaijan - Scoperta Baku",
       description:
         "Storia antica e architettura moderna Azerbaijan. Visita Baku, Gabala, Sheki e Quba con cabinovie e siti UNESCO.",
       duration: "7 Giorni / 6 Notti",
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       title: "Bali Lusso",
       description:
         "Rilassati nel paradiso tropicale Bali con spiagge, terrazze di riso, templi e ritiri spa. Sport acquatici, Bali swing e tour Nusa Penida.",
       duration: "5 Giorni / 4 Notti",
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       title: "Cambogia & Laos Scoperta",
       description:
         "Templi antichi e paesaggi lussureggianti in due nazioni sud-est asiatiche incredibili. Alba Angkor Wat ed esperienze culturali.",
       duration: "9 Giorni / 8 Notti",
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       title: "Georgia - Avventura Caucaso",
       description:
         "Scopri chiese antiche, paese del vino e paesaggi montani nel Caucaso. Degustazione vini, equitazione e lezioni di sci.",
       duration: "8 Giorni / 7 Notti",
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       title: "Giappone Esperienza Lusso",
       description:
         "Perfetta combinazione di cultura tradizionale e innovazione moderna a Tokyo, Osaka, Kyoto e oltre. Viaggi shinkansen inclusi.",
@@ -1761,7 +1762,7 @@ export const it = {
         "Fascino urbano Almaty, laghi montani mozzafiato e canyon Charyn spettacolare. Perfetta combinazione avventure montane e cultura.",
       duration: "5 Giorni / 4 Notti",
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       title: "Sri Lanka Tour Lusso",
       description:
         "Perla dell'Oceano Indiano con meraviglie culturali, avventure fauna e spiagge incontaminate. Tutti i pasti ed esperienze curate inclusi.",
@@ -2115,7 +2116,7 @@ export const it = {
           "title": "Goa del Nord – Goa Portoghese",
           "herotitle": "Goa del Nord – Goa Portoghese",
           "subtitle": "Tour di un'intera giornata tra spiagge, forti e patrimonio portoghese del Goa del Nord",
-          "backgroundImage": "../../assets/hero/Goa-1-hero.jpg",
+          "backgroundImage": "../../assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Giornata intera",
             "locations": "Goa del Nord",
@@ -10373,7 +10374,7 @@ export const it = {
         },
       ],
     },
-    "hong-kong-macau-tour": {
+    "5n-6d-hongkong-tour-package": {
       file_name: "5n-6d-hongkong-tour-package.html",
       page: {
         slug: "hongkong-macau-tour-package",
@@ -11222,7 +11223,7 @@ export const it = {
         },
       ],
     },
-    "azerbaijan-baku-tour": {
+    "baku-tour-package": {
       file_name: "baku-tour-package.html",
       page: {
         slug: "baku-tour-package",
@@ -11397,7 +11398,7 @@ export const it = {
         },
       ],
     },
-    "bali-luxury-getaway": {
+    "bali-tour-package": {
       file_name: "bali-tour-package.html",
       page: {
         slug: "bali-tour-package",
@@ -11548,7 +11549,7 @@ export const it = {
         },
       ],
     },
-    "cambodia-laos-discovery": {
+    "combodia-tour-package": {
       file_name: "combodia-tour-package.html",
       page: {
         slug: "cambodia-laos-tour-package",
@@ -11884,7 +11885,7 @@ export const it = {
         },
       ],
     },
-    "georgia-caucasus-adventure": {
+    "georgia-tour-package": {
       file_name: "georgia-tour-package.html",
       page: {
         slug: "georgia-tour-package",
@@ -11902,9 +11903,9 @@ export const it = {
         language: "it",
         metadata: {
           title:
-            "Pacchetto Viaggio in Georgia dall'India – Scopri la Magia del Caucaso",
+            "Pacchetto Viaggio in Georgia dall'India – Scopri la Magia del Caucaso con Global Tourist Centre",
           description:
-            "Scopri la Georgia: centro storico di Tbilisi, paesaggi di Kazbegi, costa di Batumi e altro ancora. Voli, guide e cultura inclusi.",
+            "Parti per un viaggio unico in Georgia dall'India con Global Tourist Centre: esplora l'affascinante centro storico di Tbilisi, i paesaggi montani di Kazbegi, la costa del Mar Nero a Batumi e molto altro — voli diretti, guide locali ed esperienze culturali autentiche incluse.",
         },
       },
       cta: {
@@ -12055,7 +12056,7 @@ export const it = {
         },
       ],
     },
-    "japan-luxury-experience": {
+    "japan-tour-package": {
       file_name: "japan-tour-package.html",
       page: {
         slug: "japan-tour-package",
@@ -13023,10 +13024,10 @@ export const it = {
         },
       ],
     },
-    "sri-lanka-tour-package": {
+    "srilanka-tour-package": {
       file_name: "srilanka-tour-package.html",
       page: {
-        slug: "sri-lanka-tour-package-package",
+        slug: "srilanka-tour-package-package",
         type: "",
         hero: {
           title: "Tour in Sri Lanka 7 notti - 8 giorni",
@@ -16183,6 +16184,37 @@ export const it = {
             "Tutte le tasse e i trasferimenti inclusi come da itinerario",
         },
       ],
+    },
+  },
+  cookies: {
+    banner: {
+      title: "Rispettiamo la tua privacy",
+      description: "Utilizziamo i cookie per migliorare la tua esperienza di navigazione, personalizzare le offerte di viaggio, analizzare il traffico del sito e supportare le nostre attività di marketing. Puoi scegliere come utilizziamo i cookie.",
+      acceptAll: "Accetta tutti",
+      rejectAll: "Rifiuta tutti",
+      settings: "Impostazioni",
+    },
+    modal: {
+      title: "Impostazioni cookie",
+      intro: "Al Global Tourist Centre utilizziamo i cookie per migliorare la tua esperienza di pianificazione dei viaggi. Questi cookie ci aiutano a capire come utilizzi il nostro sito, ricordare le tue preferenze e mostrarti pacchetti tour e offerte pertinenti.",
+      essential: {
+        title: "Cookie essenziali",
+        desc: "Questi cookie sono necessari per il corretto funzionamento del sito. Abilitano funzioni di base come la navigazione tra le pagine, i moduli di prenotazione e l'accesso sicuro.",
+      },
+      analytics: {
+        title: "Cookie analitici",
+        desc: "Ci aiutano a capire come i visitatori interagiscono con il sito, ad esempio quali pacchetti viaggio sono più popolari, per migliorare i nostri servizi.",
+      },
+      marketing: {
+        title: "Cookie di marketing",
+        desc: "Questi cookie vengono utilizzati per mostrarti offerte di viaggio, pacchetti vacanza e promozioni pertinenti in base ai tuoi interessi.",
+      },
+      preference: {
+        title: "Cookie di preferenza",
+        desc: "Ricordano le tue impostazioni, come le destinazioni preferite o la lingua, per offrirti un'esperienza più personalizzata.",
+      },
+      saveSettings: "Salva impostazioni",
+      essentialNote: "Sempre attivi",
     },
   },
   notfound: {

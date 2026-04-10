@@ -34,7 +34,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const title = t.metadata?.luxuryDestinations?.title || "Luxury Destinations | Global Tourist Centre";
   const description = t.metadata?.luxuryDestinations?.description || "Discover luxury destinations with Global Tourist Centre - the perfect blend of comfort and style.";
 
-  const image = "/assets/dubai-skyline-burj-khalifa-luxury-evening.jpg";
+  const image = "/assets/dubai-skyline-burj-khalifa-luxury-evening.webp";
   const canonical = `https://globaltouristcentre.com/${locale}/luxury-trips`;
 
   return {

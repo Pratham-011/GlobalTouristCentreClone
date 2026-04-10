@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { useState } from "react";
+import Image from "next/image";
 
 export default function KeralaBlogPage() {
   const { t } = useI18n();
@@ -98,9 +99,11 @@ export default function KeralaBlogPage() {
             </h2>
             <figure className="mb-6 mx-auto max-w-[600px]">
               <div className="rounded-xl overflow-hidden shadow-lg">
-                <img
+                <Image
                   src="/assets/blog/kerala/kerala-roadtrip.webp"
                   alt="Scenic road trip from Goa to Kerala"
+                  width={600}
+                  height={400}
                   className="w-full h-auto object-cover"
                 />
               </div>
@@ -130,9 +133,11 @@ export default function KeralaBlogPage() {
             </h2>
             <figure className="mb-6 mx-auto max-w-[600px]">
               <div className="rounded-xl overflow-hidden shadow-lg">
-                <img
+                <Image
                   src="/assets/blog/kerala/kerala-monsoon.webp"
                   alt="Kerala during monsoon season"
+                  width={600}
+                  height={400}
                   className="w-full h-auto object-cover"
                 />
               </div>
@@ -178,9 +183,11 @@ export default function KeralaBlogPage() {
                 </p>
                 {itinerary[activeTab].image && (
                   <div className="rounded-lg overflow-hidden">
-                    <img
+                    <Image
                       src={itinerary[activeTab].image}
                       alt={itinerary[activeTab].title}
+                      width={800}
+                      height={450}
                       className="w-full h-auto object-cover"
                     />
                   </div>
@@ -286,9 +293,11 @@ export default function KeralaBlogPage() {
               {/* Active card - Andaman */}
               <Link href={`/${locale}/blog/andaman`} className="group block">
                 <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all h-full flex flex-col">
-                  <img
+                  <Image
                     src="/assets/destinations/Thumbnails/Andaman.webp"
                     alt={t.blog.andamanTitle}
+                    width={600}
+                    height={192}
                     className="w-full h-48 object-cover group-hover:scale-105 transition-transform"
                   />
                   <div className="p-5 flex-grow">
@@ -308,9 +317,11 @@ export default function KeralaBlogPage() {
               {/* Coming Soon card - Sikkim */}
               <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
                 <div className="relative">
-                  <img
+                  <Image
                     src="/assets/destinations/Thumbnails/Sikkim.webp"
                     alt={t.blogKerala.sikkimTitle}
+                    width={600}
+                    height={192}
                     className="w-full h-48 object-cover opacity-70"
                   />
                   <div className="absolute inset-0 flex items-center justify-center">
@@ -332,9 +343,11 @@ export default function KeralaBlogPage() {
               {/* Coming Soon card - South Goa */}
               <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
                 <div className="relative">
-                  <img
+                  <Image
                     src="/assets/destinations/Thumbnails/south-goa.webp"
                     alt={t.blogKerala.southGoaTitle}
+                    width={600}
+                    height={192}
                     className="w-full h-48 object-cover opacity-70"
                   />
                   <div className="absolute inset-0 flex items-center justify-center">

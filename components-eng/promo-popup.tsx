@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { X, Gift, ArrowRight } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
+import Image from "next/image";
 
 interface PromoPopupProps {
   delayMs?: number;
@@ -75,10 +76,12 @@ export function PromoPopup({ delayMs = 5000 }: PromoPopupProps) {
         <div className="relative p-6 sm:p-12 lg:p-20 text-center min-h-[420px] sm:min-h-[700px] flex flex-col items-center justify-center">
           {/* Background */}
           <div className="absolute inset-0 z-0">
-            <img
-              src="/assets/car_offer.png"
+            <Image
+              src="/assets/car_offer.webp"
               alt=""
               aria-hidden="true"
+              fill
+              sizes="(max-width: 672px) 100vw, 672px"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/60 to-black/80" />

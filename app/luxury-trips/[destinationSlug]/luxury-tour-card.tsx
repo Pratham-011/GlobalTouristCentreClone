@@ -3,6 +3,7 @@
 import { MapPin } from "lucide-react";
 import { Button } from "@/components-eng/ui/button";
 import Link from "next/link";
+import Image from "next/image";
 
 interface LuxuryTourCardProps {
   image: string;
@@ -39,9 +40,11 @@ export function LuxuryTourCard({
     >
       {/* IMAGE */}
       <div className="relative h-40 sm:h-44 md:h-48 overflow-hidden">
-        <img
+        <Image
           src={image}
           alt={title}
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 520px"
           className="
             w-full h-full object-cover
             transition-transform duration-500

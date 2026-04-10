@@ -15,15 +15,17 @@ export const translations = {
 export type Locale = keyof typeof translations;
 type RawTranslationKeys = typeof translations.en;
 export type TourDataItem = RawTranslationKeys["tourData"]["aurangabad-1n-2d-trip-package"];
+export type TripItem = RawTranslationKeys["trips"]["north-goa-english-tour"];
 
 export type LuxuryTrainItem = RawTranslationKeys["luxuryTrain"]["mahraja-train-tour-package"];
 export type LuxuryPageItem = RawTranslationKeys["luxuryPages"]["mumbai-luxury"];
 
 
-export interface TranslationKeys extends Omit<RawTranslationKeys, "tourData" | "luxuryTrain" | "luxuryPages"> {
+export interface TranslationKeys extends Omit<RawTranslationKeys, "tourData" | "luxuryTrain" | "luxuryPages" | "trips"> {
   tourData: Record<string, TourDataItem>;
   luxuryTrain: Record<string, LuxuryTrainItem>;
   luxuryPages: Record<string, LuxuryPageItem>;
+  trips: Record<string, TripItem>;
 }
 
 

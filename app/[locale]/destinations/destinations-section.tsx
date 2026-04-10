@@ -81,6 +81,7 @@ function DestinationBlock({
   href: string;
 }) {
     const [mounted, setMounted] = useState(false);
+    const { t } = useI18n();
 
     useEffect(() => {
       setMounted(true);
@@ -155,7 +156,7 @@ function DestinationBlock({
     lg:px-10 lg:py-6 lg:text-lg
   "
           >
-            View More {title}
+            {t.destinations.viewMore} {title}
           </Button>
         </Link>
       </div>

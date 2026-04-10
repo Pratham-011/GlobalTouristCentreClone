@@ -22,7 +22,7 @@ export const TOUR_CATEGORIES = {
     "cabo-serai-2n-3d-luxury-getaway",
     "1n-2d-shimoga-trip-package",
     "wondrous-wildernest-trip-package",
-    
+
   ],
 
   domestic: [
@@ -59,14 +59,12 @@ export const TOUR_CATEGORIES = {
   ],
 
   international: [
-    "maldives-luxury-tour",
-    "sri-lanka-tour-package", // verified
+    // "maldives-luxury-tour",
+    "srilanka-tour-package", // verified
     "7n-8d-bhutan-tour-package", // verified
-    "bali-luxury-getaway", // verified
+    "bali-tour-package", // verified
     "7n-8d-vietam-tour-package", // verified
     "vitnam-tour-package-from-goa", // temporarily removed (used in destination.ts) // verified
-  
-    "nepal-muktinath-special", // verified
     "singapore-tour-package", // verified
     "4N-5D-bangkok-tour-package", //verified
     "7N-8D-thailand-tour-package", // verified
@@ -76,11 +74,11 @@ export const TOUR_CATEGORIES = {
     "turkey-tour-package",
     "dubai-tour-package", // verified
     "phuket-krabi-tour-package", // verified
-    "hong-kong-macau-tour", // verified
-    "azerbaijan-baku-tour", // verified
-    "cambodia-laos-discovery", // verified
-    "georgia-caucasus-adventure", // verified
-    "japan-luxury-experience", // verified
+    "5n-6d-hongkong-tour-package", // verified
+    "baku-tour-package", // verified
+    "combodia-tour-package", // verified
+    "georgia-tour-package", // verified
+    "japan-tour-package", // verified
     "kazakhstan-almaty-explorer", // temporarily removed (used in destination.ts) // verified
     "nepal-tour-package", // temporarily removed (used in en.ts) // verified
   ],

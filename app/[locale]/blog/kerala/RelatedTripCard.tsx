@@ -5,6 +5,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { useI18n } from "@/lib/i18n/context";
 import { useParams } from "next/navigation";
+import Image from "next/image";
 
 type RelatedTripCardProps = {
   title: string;
@@ -29,9 +30,11 @@ const RelatedTripCard: React.FC<RelatedTripCardProps> = ({
     <div className="group relative bg-white border border-gray-100 rounded-xl overflow-hidden hover:shadow-xl transition-all duration-300 flex flex-col h-full">
       {/* Image */}
       <div className="relative h-48 overflow-hidden">
-        <img
+        <Image
           src={image}
           alt={title}
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           className={`w-full h-full object-cover transition-transform duration-500 group-hover:scale-110 ${isComingSoon ? "grayscale-[0.5]" : ""
             }`}
         />

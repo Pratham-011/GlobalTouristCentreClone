@@ -7,6 +7,7 @@ import Script from "next/script";
 import { I18nProvider } from "@/lib/i18n/context";
 import { Footer } from "@/components-eng/footer";
 import { WhatsAppButton } from "@/components-eng/whatsapp-button";
+import { CookieBanner } from "@/components/cookie-banner";
 
 import "./globals.css";
 
@@ -87,7 +88,7 @@ export default function RootLayout({
     name: "Global Tourist Centre",
     url: "https://globaltouristcentre.com/",
     image:
-      "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.png",
+      "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.webp",
     telephone: "+91-9067972295",
 
     address: {
@@ -313,6 +314,7 @@ export default function RootLayout({
             message="Hi! I am planning a trip, can you help me out?"
             tooltipText="Chat with us on WhatsApp"
           />
+          <CookieBanner />
         </I18nProvider>
 
         <Script

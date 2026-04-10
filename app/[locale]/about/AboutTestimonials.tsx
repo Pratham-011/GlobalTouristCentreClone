@@ -24,6 +24,7 @@ import {
 
 import Autoplay from "embla-carousel-autoplay";
 import { useRef, useState, useEffect } from "react";
+import Image from "next/image";
 
 export function AboutTestimonials() {
   const { t } = useI18n();
@@ -194,9 +195,11 @@ export function AboutTestimonials() {
             hover:text-gray-900
           "
         >
-          <img
-            src="/assets/icons8-google-48.png"
+          <Image
+            src="/assets/icons8-google-48.webp"
             alt="Google Reviews"
+            width={24}
+            height={24}
             className="h-6 w-6"
           />
           <span>
