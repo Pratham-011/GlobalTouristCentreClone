@@ -63,9 +63,9 @@ export function TestimonialCard({
           </Avatar>
 
           <div className="text-left">
-            <h4 className="text-base font-semibold text-card-foreground leading-tight">
+            <p className="text-base font-semibold text-card-foreground leading-tight">
               {name}
-            </h4>
+            </p>
             <p className="text-xs text-muted-foreground">{timeAgo}</p>
           </div>
         </div>
