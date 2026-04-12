@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useI18n } from "@/lib/i18n/context";
 import { Instagram, Facebook } from "lucide-react";
-import { FaWhatsapp } from "react-icons/fa";
+import { FaWhatsapp,FaPinterest } from "react-icons/fa";
 import { Button } from "@/components/ui/button";
 import { useEffect, useRef } from "react";
 import Image from "next/image";
@@ -103,6 +103,11 @@ export function Footer() {
                     href: "https://wa.me/919067972295",
                     icon: FaWhatsapp,
                     label: "WhatsApp",
+                  },
+                  {
+                    href: "https://in.pinterest.com/globaltouristcentregoa/",
+                    icon: FaPinterest,
+                    label: "Pinterest",
                   },
                 ].map(({ href, icon: Icon, label }) => (
                   <a

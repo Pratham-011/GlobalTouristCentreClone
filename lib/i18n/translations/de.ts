@@ -440,425 +440,431 @@ export const de = {
     groupToursDesc:
       "Gut organisierte Gruppenreisen mit erfahrenen Guides, perfekt für Familien und Gruppen.",
   },
-  servicePages: {
-    customizeTripPackage: {
-      metadata: {
-        title: "Maßgeschneiderte Reiseerlebnisse - Global Tourist Centre",
-        description: "Individuell gestaltete Touren, die genau auf Ihre Interessen und Vorlieben zugeschnitten sind."
-      },
-      heroTitle: "Maßgeschneiderte Touren",
-      aboutTitle: "Ihre Reise, Ihr Weg",
-      aboutDesc:
-        "Wir glauben, dass jeder Reisende einzigartig ist. Unsere maßgeschneiderten Touren sind auf Ihre Interessen, Budget und Reisevorlieben zugeschnitten.",
-      whyChooseTitle: "Warum Maßgeschneiderte Touren Wählen:",
-      benefit1: "An Ihre Interessen und Tempo angepasst",
-      benefit2: "Flexible Daten und Dauer",
-      benefit3: "Auswahl an Unterkünften nach Ihrem Stil",
-      benefit4: "Personalisierte Aktivitäten und Erlebnisse",
-      benefit5: "Lokale Expertenguides",
-      benefit6: "24/7 Support während Ihrer Reise",
-      formTitle: "Erstellen Sie Ihren Traumurlaub",
-      formDesc:
-        "Erzählen Sie uns von Ihren Vorlieben und wir erstellen einen personalisierten Reiseplan.",
-      formHeader: "Lassen Sie Uns Beginnen",
-      formSubtitle:
-        "Füllen Sie die Details aus und wir kontaktieren Sie innerhalb von 24 Stunden",
-      // Form Specifics
-      travelDates: "Bevorzugte Reisedaten",
-      datesPlaceholder: "Flexible oder bestimmte Daten",
-      travelersLabel: "Anzahl der Reisenden*",
-      travelersPlaceholder: "Erwachsene und Kinder",
-      durationLabel: "Reisedauer*",
-      durationPlaceholder: "Dauer auswählen",
-      duration3to5: "3-5 Tage",
-      duration6to8: "6-8 Tage",
-      duration9to12: "9-12 Tage",
-      duration13plus: "13+ Tage",
-      budgetLabel: "Ungefähres Budget (pro Person)",
-      budgetPlaceholder: "Budgetbereich auswählen",
-      budgetEconomy: "Economy (₹15,000 - ₹30,000)",
-      budgetMid: "Mittelklasse (₹30,000 - ₹60,000)",
-      budgetLuxury: "Luxus (₹60,000+)",
-      budgetFlexible: "Flexibel/Unsicher",
-      specialLabel: "Besondere Anforderungen",
-      specialPlaceholder:
-        "Diätetische Bedürfnisse, Barrierefreiheit, besondere Anlässe usw.",
-      submitButton: "Individuelle Reiseroute erhalten",
-      privacyNote:
-        "Wir respektieren Ihre Privatsphäre. Ihre Informationen werden nicht weitergegeben.",
-      // FAQ
-      faqTitle: "FAQ zu individuellen Touren",
-      faqSubtitle:
-        "Antworten auf häufige Fragen zu unseren maßgeschneiderten Reisepaketen.",
-      faq1Question:
-        "Entwerfen Sie Touren für Familien, Gruppen oder Alleinreisende?",
-      faq1Answer:
-        "Wir entwerfen Touren für alle, einschließlich Familien, Reisegruppen, Alleinreisende und alle, die ab und zu entfliehen möchten. Ob es sich um einen entspannten Urlaub, eine Solo-Reise oder einen lustigen Trip voller Spontanität handelt, wir sorgen dafür, dass sich die Reiseroute anfühlt, als wäre sie für Sie geplant.",
-
-      faq2Question: "Was ist in einem maßgeschneiderten Paket enthalten?",
-      faq2Answer:
-        "Sie erhalten eine Reiseroute, die auf das zugeschnitten ist, was Ihnen wichtig ist. Sie umfasst Reiseziele, Aufenthalte, bequeme Transfers, lokale Guides und sogar Aktivitäten, die Ihren Interessen entsprechen. Wir kümmern uns um die Details, damit Sie sich ganz auf den Genuss Ihrer Reise konzentrieren können.",
-      faq3Question:
-        "Wie lange dauert es normalerweise, eine persönliche Reise zu entwerfen?",
-      faq3Answer:
-        "Wir bemühen uns um eine reibungslose und zeitnahe Planung. Zuerst wird Sie unser Reiseexperte kontaktieren, um Ihre Anforderungen im Detail zu besprechen. Wir erstellen dann eine vorläufige Reiseroute für Ihre Überprüfung. Sie können Änderungen anfordern, bis die Reiseroute perfekt Ihren Erwartungen entspricht. Nach der Fertigstellung kümmern wir uns um alle Buchungen und stellen Ihnen detaillierte Reiseunterlagen zur Verfügung.",
-      faq4Question:
-        "Kann ich ein Standardpaket ändern, anstatt ein neues zu erstellen?",
-      faq4Answer:
-        "Absolut. Unser Routenplanungsservice ist kostenlos, wenn Sie Ihre Tour bei uns buchen. Bitte beachten Sie jedoch, dass für komplexe Reiserouten, die umfangreiche Recherchen erfordern, eine geringe Planungsgebühr anfallen kann, die vollständig vom endgültigen Buchungsbetrag abgezogen wird.",
-    },
-    visaAgent: {
-      metadata: {
-        title: "Visa-Service & Unterstützung - Global Tourist Centre",
-        description: "Professionelle Hilfe bei Ihren Visumanträgen und Reisedokumenten."
-      },
-      heroTitle: "Visa-Service und Dokumentation",
-      aboutTitle: "Vereinfachen Sie Ihren Visumprozess",
-      aboutDesc:
-        "Ein Visum zu erhalten kann ein komplexer und langwieriger Prozess sein. Unser Expertenservice nimmt Ihnen den Stress der internationalen Reisedokumentation ab. Wir kümmern uns um alles, vom Ausfüllen der Formulare bis zur sorgfältigen Prüfung der Dokumente, um ein erfolgreiches Ergebnis zu gewährleisten.",
-      servicesTitle: "Unsere Visa-Dienstleistungen Umfassen:",
-      service1: "Umfassende Visa-Beratung für alle Länder",
-      service2: "Unterstützung bei der Vorbereitung und Prüfung von Dokumenten",
-      service3: "Präzises Ausfüllen und Einreichen von Antragsformularen",
-      service4: "Terminvereinbarung bei Botschaften und Konsulaten",
-      service5: "Laufende Überwachung Ihres Antragsstatus",
-      service6: "Express-Bearbeitung für dringende Anträge",
-      processTitle: "Visums-Antragsprozess",
-      processDesc:
-        "Unser schrittweiser Prozess garantiert, dass Ihr Visumsantrag professionell und effizient bearbeitet wird.",
-      step1Title: "Schritt 1: Beratung",
-      step1Desc:
-        "Wir bewerten Ihre Reisepläne und informieren Sie detailliert über Anforderungen, Bearbeitungszeiten und Visagebühren für Ihr Zielland.",
-      step2Title: "Schritt 2: Dokumentenvorbereitung",
-      step2Desc:
-        "Unsere Experten führen Sie durch die Zusammenstellung aller notwendigen Unterlagen, einschließlich Reisepass, Fotos, Finanznachweise und Unterstützungsschreiben.",
-      step3Title: "Schritt 3: Antragstellung",
-      step3Desc:
-        "Wir füllen alle Antragsformulare genau aus, vereinbaren Termine und reichen Ihre Unterlagen beim entsprechenden Konsulat oder der Botschaft ein.",
-      step4Title: "Schritt 4: Verfolgung und Abholung",
-      step4Desc:
-        "Wir überwachen den Status Ihres Antrags und halten Sie auf dem Laufenden. Nach der Genehmigung koordinieren wir die Abholung und Zustellung Ihres Reisepasses.",
-      // Form Specifics
-      formTitle: "Visum-Unterstützung Anfordern",
-      formDesc:
-        "Füllen Sie dieses Formular aus, und unsere Visa-Experten werden sich innerhalb von 24 Stunden bei Ihnen melden, um den Prozess zu starten.",
-      fullNameLabel: "Vollständiger Name*",
-      fullNamePlaceholder: "Ihr vollständiger Name",
-      emailLabel: "E-Mail*",
-      emailPlaceholder: "Ihre E-Mail-Adresse",
-      phoneLabel: "Telefonnummer*",
-      phonePlaceholder: "Ihre Kontaktnummer",
-      destinationLabel: "Zielland*",
-      destinationPlaceholder: "Land auswählen",
-      visaTypeLabel: "Visumart*",
-      visaTypePlaceholder: "Visumtyp auswählen",
-      travelDateLabel: "Geplantes Reisedatum*",
-      notesLabel: "Zusätzliche Anmerkungen",
-      notesPlaceholder: "Besondere Anforderungen oder Fragen",
-      submitButton: "Anfrage Senden",
-      privacyNote:
-        "Wir respektieren Ihre Privatsphäre. Ihre persönlichen Daten sind sicher und werden nicht weitergegeben.",
-      // FAQ
-      faqTitle: "Häufig Gestellte Fragen zu Visa",
-      faqDesc:
-        "Antworten auf häufige Fragen zu unseren Visa-Unterstützungsdiensten.",
-      faq1Question:
-        "Helfen Sie sowohl bei Touristen- als auch bei Geschäftsvisa?",
-      faq1Answer:
-        "Ja, wir bieten umfassende Unterstützung bei der Dokumentation für Touristen- und Geschäftsvisa. Wir führen Sie durch die Formulare, helfen bei der Zusammenstellung der richtigen Unterlagen und behalten alle Anforderungen im Blick, damit nichts vergessen wird.",
-      faq2Question:
-        "Wann sollte ich den Visumprozess vor meiner Reise beginnen?",
-      faq2Answer:
-        "Es ist ratsam, mindestens einige Wochen im Voraus zu beginnen. Einige Länder bearbeiten Anträge schnell, andere benötigen mehr Zeit. Ein ausreichender Zeitpuffer hilft, unnötigen Stress zu vermeiden.",
-      faq3Question: "Buchen Sie Termine für Visa-Interviews?",
-      faq3Answer:
-        "Wir helfen Ihnen genau zu verstehen, wohin Sie gehen müssen und wie Sie Ihren Termin buchen. Die Botschaften oder Konsulate legen die Verfügbarkeiten fest, aber wir tun alles, um Sie bestmöglich anzuleiten und vorzubereiten.",
-      faq4Question:
-        "Kann ich meinen Aufenthalt im Ausland verlängern, wenn mein Visum es erlaubt?",
-      faq4Answer:
-        "Das hängt ganz von den Regeln des Ziellandes ab. Einige Länder erlauben eine Verlängerung vor Ort, wenn Ihr Visumtyp dies vorsieht. Wir empfehlen, dies im Voraus zu prüfen.",
-    },
-    hotelBooking: {
-      metadata: {
-        title: "Hotelbuchungsservice - Global Tourist Centre",
-        description: "Buchen Sie die besten Hotels zu den besten Preisen mit GTC."
-      },
-      heroTitle: "Hotelbuchungen",
-      aboutTitle: "Finden Sie Ihre Perfekte Unterkunft",
-      aboutDesc:
-        "Wir arbeiten mit Hotels weltweit zusammen, um Ihnen die besten Unterkünfte zu wettbewerbsfähigen Preisen anzubieten.",
-      whyBookTitle: "Warum Bei Uns Buchen:",
-      benefit1: "Exklusive Tarife und Sonderangebote",
-      benefit2: "Verifizierte Bewertungen und Empfehlungen",
-      benefit3: "24/7 Kundensupport",
-      benefit4: "Flexible Stornierungsrichtlinien",
-      benefit5: "Pakete mit Flügen und Aktivitäten",
-      benefit6: "Personalisierter Service",
-      formTitle: "Hotelbuchungsanfrage",
-      formDesc:
-        "Füllen Sie das Formular aus und wir finden das perfekte Hotel.",
-      formHeader: "Finden Wir Ihren Idealen Aufenthalt",
-      formSubtitle:
-        "Füllen Sie die Details aus und wir kontaktieren Sie innerhalb von 24 Stunden",
-      yourName: "Ihr Name*",
-      namePlaceholder: "Vollständiger Name",
-      email: "E-Mail*",
-      emailPlaceholder: "Ihre E-Mail-Adresse",
-      phone: "Telefonnummer*",
-      phonePlaceholder: "Nummer mit Ländervorwahl",
-      destination: "Stadt/Reiseziel*",
-      destinationPlaceholder: "Wohin möchten Sie reisen?",
-      checkIn: "Anreisedatum*",
-      checkOut: "Abreisedatum*",
-      guests: "Anzahl der Gäste*",
-      guestsPlaceholder: "Erwachsene",
-      rooms: "Anzahl der Zimmer*",
-      roomsPlaceholder: "Benötigte Zimmer",
-      category: "Bevorzugte Hotelkategorie",
-      categoryPlaceholder: "Jede Kategorie",
-      budget: "Ungefähres Budget (pro Nacht)",
-      budgetPlaceholder: "Ihre Budgetspanne",
-      message: "Sonderwünsche",
-      messagePlaceholder: "Zimmerpräferenzen, Barrierefreiheit, etc.",
-      submit: "Hotels Finden",
-      // FAQ
-      faqTitle: "Hotelbuchung FAQ",
-      faqDesc: "Häufige Fragen zu unseren Hotelbuchungsdiensten.",
-      faq1Question:
-        "Bieten Sie sowohl nationale als auch internationale Hotelbuchungen an?",
-      faq1Answer:
-        "Absolut. Wir arbeiten mit Hotels weltweit zusammen, um Ihnen die besten Unterkünfte zu wettbewerbsfähigen Preisen anzubieten. Ob Sie einen günstigen Aufenthalt, ein Boutique-Hotel oder ein Luxusresort suchen, wir haben Optionen für jeden Geschmack und jedes Budget.",
-      faq2Question:
-        "Können Sie Hotels als Teil eines kompletten Reisepakets oder nur als Einzelaufenthalt buchen?",
-      faq2Answer:
-        "Wir können beides tun. Sie können entweder eine eigenständige Buchung anfragen oder uns das Hotel als Teil Ihres kompletten Pakets mit Flügen, Transfers und Aktivitäten buchen lassen. Was auch immer Sie brauchen, wir kümmern uns um die Details.",
-
-      faq3Question: "Kann ich meine Hotelbuchung ändern oder stornieren?",
-      faq3Answer:
-        "Änderungs- und Stornierungsrichtlinien variieren je nach Hotel. Die meisten Buchungen können bis zu 24-48 Stunden vor dem Check-in kostenlos geändert oder storniert werden. Einige Buchungen mit Sonderraten können abweichende Richtlinien haben. Ihre Bestätigungs-E-Mail wird die Stornierungsbedingungen für Ihre spezielle Reservierung angeben.",
-
-      faq4Question:
-        "Kann ich mehrere Hotels in verschiedenen Städten unter einem Reiseplan buchen?",
-      faq4Answer:
-        "Definitiv. Zum Beispiel, wenn Ihre Reise Sie von Mumbai nach Sikkim und zu den Andamanen führt, buchen wir jedes Hotel für die richtigen Nächte während Ihrer Reise. Um Ihre Reise nahtlos zu gestalten, sind wir da, wenn Sie Ihre Pläne ändern oder später einen Stopp hinzufügen möchten.",
-    },
-    flightBooking: {
-      metadata: {
-        title: "Flugbuchung & Tickets - Global Tourist Centre",
-        description: "Inlands- und internationale Flüge zu wettbewerbsfähigen Preisen."
-      },
-      heroTitle: "Flugbuchungen",
-      aboutTitle: "Fliegen Sie Mit Leichtigkeit",
-      aboutDesc:
-        "Als autorisierter Agent bieten wir wettbewerbsfähige Tarife bei allen großen Fluggesellschaften für nationale und internationale Flüge.",
-      servicesTitle: "Unsere Flug-Services:",
-      service1: "Nationale und internationale Flugbuchungen",
-      service2: "Multi-City-Routen",
-      service3: "Sitzplatz- und Mahlzeitenauswahl",
-      service4: "Unterstützung bei Änderungen und Stornierungen",
-      service5: "Gruppenrabatte",
-      service6: "24/7 Buchungssupport",
-      formTitle: "Flugbuchungsanfrage",
-      formDesc:
-        "Geben Sie Ihre Reisedetails an und wir finden die besten Flugoptionen für Sie.",
-      formHeader: "Legen Wir Los",
-      formSubtitle:
-        "Füllen Sie die Details unten aus und wir kontaktieren Sie innerhalb von 24 Stunden",
-      yourName: "Ihr Name*",
-      namePlaceholder: "Vollständiger Name",
-      email: "E-Mail*",
-      emailPlaceholder: "Ihre E-Mail-Adresse",
-      phone: "Telefonnummer*",
-      phonePlaceholder: "Nummer mit Ländervorwahl",
-      tripType: "Reiseart*",
-      tripTypePlaceholder: "Reiseart Wählen",
-      from: "Von (Stadt/Flughafen)*",
-      fromPlaceholder: "Abflugort",
-      to: "Nach (Stadt/Flughafen)*",
-      toPlaceholder: "Zielort",
-      departureDate: "Abflugdatum*",
-      returnDate: "Rückflugdatum",
-      adults: "Erwachsene (12+ J.)*",
-      children: "Kinder (2-11 J.)",
-      infants: "Kleinkinder (<2 J.)",
-      preferredClass: "Bevorzugte Klasse*",
-      preferredClassPlaceholder: "Economy",
-      preferredAirlines: "Bevorzugte Airlines",
-      preferredAirlinesPlaceholder: "Bestimmte Fluggesellschaften?",
-      message: "Sonderwünsche",
-      messagePlaceholder: "Sitzplatzpräferenzen, Mahlzeiten, etc.",
-      submit: "Flüge Finden",
-      // FAQ
-      faqTitle: "Flugbuchung FAQ",
-      faqDesc: "Häufige Fragen zu unseren Flugbuchungsdiensten.",
-      faq1Question:
-        "Können Sie Kindersitze, Haustiere oder Sportausrüstung zu meiner Buchung hinzufügen?",
-      faq1Answer:
-        "Wir können Sie anleiten, wie Sie spezielle Gegenstände wie Kindersitze oder Sportausrüstung einbeziehen können. Viele Fluggesellschaften ermöglichen es Ihnen, diese bei der Buchung über Zusatzdienste hinzuzufügen. Bei Haustieren hängt es von den Regeln der Fluggesellschaft ab. Wir teilen Ihnen mit, was erlaubt ist und wie Sie es bei der Buchung einbeziehen können.",
-
-      faq2Question:
-        "Können Sie neben den Flügen auch Flughafentransfers organisieren?",
-      faq2Answer:
-        "Ja, wir kümmern uns darum. Sie können uns bitten, eine Abholung oder einen Transfer an Ihrem Zielort als Teil Ihrer Reiseroute zu organisieren.",
-
-      faq3Question:
-        "Wie lauten die Stornierungs-, Änderungs- oder Rückerstattungsrichtlinien für Buchungen?",
-      faq3Answer:
-        "Alles wird von der Fluggesellschaft oder den Regeln des Tickets festgelegt. Wir sind da, um Ihnen bei den Optionen zu helfen, damit Sie wählen können, was Sinn macht, egal ob Sie Daten verschieben oder ganz stornieren müssen.",
-
-      faq4Question:
-        "Welche Unterstützung bieten Sie bei Flugverspätungen oder -annullierungen?",
-      faq4Answer:
-        "Wenn Verspätungen oder Annullierungen auftreten, sind wir hier, um zu helfen. Sie können uns erreichen und wir werden Sie anleiten, was als nächstes zu tun ist. Das könnte eine Umbuchung sein, Unterstützung am Flughafen oder das Erreichen alternativer Flüge. Wir helfen Ihnen, ruhig zu bleiben und weiterzukommen.",
-    },
-    groupTrip: {
-      metadata: {
-        title: "Gruppenreisen & Touren - Global Tourist Centre",
-        description: "Schließen Sie sich unseren Gruppenreisen für unvergessliche Abenteuer an."
-      },
-      heroTitle: "Gruppenreisen",
-      aboutTitle: "Gemeinsam Reisen, Gemeinsam Sparen",
-      aboutDesc:
-        "Unsere Gruppenreisen bieten die perfekte Mischung aus sozialer Verbindung, Bequemlichkeit und Wert. Wir kümmern uns um alle Details.",
-      benefitsTitle: "Vorteile von Gruppenreisen:",
-      benefit1: "Erhebliche Einsparungen mit Gruppenrabatten",
-      benefit2: "Professioneller Tourmanager",
-      benefit3: "Geplante Routen mit Flexibilität",
-      benefit4: "Treffen Sie gleichgesinnte Reisende",
-      benefit5: "Reibungslose Logistik und Transfers",
-      benefit6: "Gruppenaktivitäten und Erlebnisse",
-      formTitle: "Lass uns anfangen",
-      formDesc:
-        "Füllen Sie die Details unten aus und wir kontaktieren Sie innerhalb von 24 Stunden",
-      formHeader: "Lass uns anfangen",
-      formSubtitle:
-        "Füllen Sie die Details unten aus und wir kontaktieren Sie innerhalb von 24 Stunden",
-      groupOrganizerName: "Name des Gruppenorganisators*",
-      namePlaceholder: "Vollständiger Name",
-      phoneNumber: "Telefonnummer*",
-      phonePlaceholder: "Nummer mit Ländervorwahl",
-      groupType: "Gruppentyp*",
-      groupTypePlaceholder: "Gruppentyp Wählen",
-      groupSize: "Ungefähre Gruppengröße*",
-      groupSizePlaceholder: "Mindestens 8 Personen",
-      destination: "Reiseziel(e) von Interesse*",
-      destinationPlaceholder: "Wohin möchte Ihre Gruppe reisen?",
-      startDate: "Bevorzugtes Startdatum",
-      startDatePlaceholder: "TT/MM/JJJJ",
-      tripDuration: "Reisedauer (Tage)",
-      tripDurationPlaceholder: "Anzahl der Tage",
-      budget: "Ungefähres Budget (pro Person)",
-      budgetPlaceholder: "Ihr Budgetbereich",
-      interests: "Gruppeninteressen/Aktivitäten",
-      interestsPlaceholder:
-        "An welcher Art von Erlebnissen ist Ihre Gruppe interessiert?",
-      submit: "Gruppenangebot Anfordern",
-      privacyFooter:
-        "Wir respektieren Ihre Privatsphäre. Ihre Informationen werden nicht weitergegeben.",
-      // FAQ
-      faqTitle: "Gruppenreisen FAQ",
-      faqDesc: "Häufige Fragen zu unseren Gruppenreisediensten.",
-      faq1Question:
-        "Was ist die minimale und maximale Gruppengröße für Ihre nationalen und internationalen Touren?",
-      faq1Answer:
-        "Die meisten unserer Touren sind für kleine Gruppen konzipiert, oft zwischen sechs und zwölf Reisenden gleichzeitig. Auf Wunsch können wir die Größe je nach Reisestil und Ihrem Komfortniveau etwas erhöhen.",
-
-      faq2Question:
-        "Wie stellen Sie eine reibungslose Koordination und Zeitmanagement während einer Gruppenreise sicher?",
-      faq2Answer:
-        "Wir planen jeden Tag mit klaren Zeitplänen, bequemen Transportmitteln und vertrauenswürdigen lokalen Guides, die den Ort gut kennen. Wir sorgen auch dafür, dass wir unterwegs in Verbindung bleiben, damit nichts vom Weg abkommt und Sie sich immer auf das freuen, was als nächstes kommt.",
-
-      faq3Question:
-        "Können Sie Visa, Flüge und Hotelbuchungen für alle Mitglieder der Gruppe arrangieren?",
-      faq3Answer:
-        "Ja, wir wickeln das für Ihre Gruppe von A bis Z ab. Sobald wir alle Details von jedem haben, kümmern wir uns um Flüge, Gästeaufenthalte, Visa, Transfers und fügen sie in einer zusammenhängenden Reiseroute zusammen. Sie reisen entspannt und sorgenfrei mit Ihrer Gruppe, während wir die Logistik koordinieren.",
-
-      faq4Question:
-        "Welche Zahlungspläne oder Ratenzahlungsoptionen bieten Sie für Gruppenreisebuchungen an?",
-      faq4Answer:
-        "Für Gruppenbuchungen verlangen wir in der Regel eine Anzahlung von 25%, um Reservierungen zu bestätigen, wobei der Restbetrag 30-45 Tage vor Abflug fällig ist. Für sehr große Gruppen oder komplexe Reiserouten können wir einen Zahlungsplan mit mehreren Raten vereinbaren. Wir können auch individuelle Zahlungen von Gruppenmitgliedern akzeptieren, wenn dies bevorzugt wird.",
-    },
-    form: {
-      yourName: "Ihr Name*",
-      namePlaceholder: "Vollständiger Name",
-      email: "E-Mail*",
-      emailPlaceholder: "Ihre E-Mail-Adresse",
-      phone: "Telefon*",
-      phonePlaceholder: "Ihre Telefonnummer",
-      destination: "Bevorzugtes Reiseziel",
-      destinationPlaceholder: "Wohin möchten Sie reisen?",
-      dates: "Reisedaten",
-      travelers: "Anzahl der Reisenden",
-      budget: "Budget",
-      message: "Zusätzliche Anforderungen",
-      messagePlaceholder: "Erzählen Sie uns mehr über Ihre Wünsche...",
-      submit: "Anfrage Senden",
-      submitting: "Wird gesendet...",
-    },
-    domesticInternational: {
-      metadata: {
-        title: "Inlands- & Auslandsreisen - Global Tourist Centre",
-        description: "Entdecken Sie Indien und die Welt mit unseren exklusiven Reisepaketen."
-      },
-      hero: {
-        title: "Inlands- & Auslands-Reisepakete",
-      },
-      about: {
-        title: "Entdecken Sie die Welt mit uns",
-        description:
-          "Egal, ob Sie die verborgenen Schätze Indiens erkunden oder in exotische internationale Destinationen reisen möchten – wir erstellen maßgeschneiderte Reiserouten, die genau auf Ihren Stil und Ihre Vorlieben zugeschnitten sind. Unsere Inlands- und Auslands-Pakete bieten authentische Erlebnisse, komfortable Unterkünfte und eine reibungslose Logistik.",
-        whyTitle: "Warum Sie unsere Pakete wählen sollten:",
-        points: [
-          "Sorgfältig kuratierte Routen mit lokalen Erlebnissen",
-          "Erfahrene Guides und 24/7-Support während Ihrer Reise",
-          "Wettbewerbsfähige Preise ohne versteckte Kosten",
-          "Flexible Anpassungsmöglichkeiten",
-          "Handverlesene Unterkünfte und Transportmittel",
-        ],
-      },
-      domestic: {
-        title: "Inlandsreisen",
-        subtitle:
-          "Entdecken Sie die vielfältige Schönheit Indiens mit unseren handverlesenen Inlandszielen.",
-        viewMore: "Mehr Inlandsreisen ansehen",
-      },
-      international: {
-        title: "Auslandsreisen",
-        subtitle:
-          "Entdecken Sie exotische Reiseziele auf der ganzen Welt mit unseren internationalen Reisepaketen.",
-        viewMore: "Mehr Auslandsreisen ansehen",
-      },
-      faq: {
-        title: "Häufig gestellte Fragen",
-        subtitle:
-          "Hier finden Sie Antworten auf häufige Fragen zu unseren Inlands- und Auslandsreisen.",
-        questions: [
-          {
-            question: "Welche Dokumente benötigen Sie von mir bei der Buchung?",
-            answer:
-              "Wir benötigen einen gültigen Reisepass und einen amtlichen Identitätsnachweis, um die Buchung zu starten. Je nach Zielort und Anforderungen der Fluggesellschaft fragen wir ggf. nach weiteren Unterlagen wie Ihrer Aadhaar-Karte oder Kopien Ihrer Reisedokumente.",
-          },
-          {
-            question: "Bieten Sie Hilfe bei der Visumsbeantragung an?",
-            answer:
-              "Ja, unser Team begleitet Sie durch den Prozess, hilft Ihnen beim Ausfüllen der Unterlagen и stellt sicher, dass vor der Einreichung alles korrekt ist.",
-          },
-          {
-            question:
-              "Wie ist Ihre Regelung für Rückerstattungen bei Servicefehlern (verpasste Hotelübernachtung, abgesagte Ausflüge)?",
-            answer:
-              "Sollte eine Hotelübernachtung verpasst oder ein Ausflug aufgrund von Serviceproblemen abgesagt werden, kümmern wir uns um die Klärung. Je nach Umstand wird Ihnen eine Rückerstattung oder ein Reiseguthaben angeboten.",
-          },
-          {
-            question:
-              "Sollte ich für internationale Flüge früher am Flughafen sein als für Inlandsflüge?",
-            answer:
-              "Bei Inlandsflügen sollten Sie 2 Stunden vor Abflug am Flughafen sein. Bei internationalen Flügen empfehlen wir 3 bis 4 Stunden vorher, um Sicherheitskontrollen und Immigration stressfrei zu bewältigen.",
-          },
-        ],
-      },
+ servicePages :{
+  // Customize Trip Package
+  customizeTripPackage: {
+    heroTitle: "Individuelle Reisepakete",
+    aboutTitle: "Ihre Reise, Ihr Weg",
+    aboutDesc:
+      "Wir glauben, dass jeder Reisende einzigartig ist und Ihr Urlaub Ihren persönlichen Stil widerspiegeln sollte. Unsere individuellen Reisepakete werden rund um Ihre Interessen, Ihr Budget und Ihre Reisepräferenzen gestaltet. Ob Sie auf der Suche nach Abenteuer, Entspannung, Kultur oder einem Mix aus allem sind – wir erstellen einen Reiseplan, der perfekt zu Ihnen passt.",
+    whyChooseTitle: "Warum Individuelle Touren Wählen:",
+    benefit1: "Zugeschnitten auf Ihre spezifischen Interessen und Ihr Tempo",
+    benefit2: "Flexible Termine und Reisedauer",
+    benefit3: "Auswahl an Unterkünften passend zu Ihrem Stil",
+    benefit4: "Personalisierte Aktivitäten und Erlebnisse",
+    benefit5: "Lokale Expertenführer für authentische Erfahrungen",
+    benefit6: "24/7-Support während Ihrer Reise",
+    formTitle: "Erschaffen Sie Ihren Traumurlaub",
+    formDesc:
+      "Erzählen Sie uns von Ihren Reisepräferenzen und wir entwerfen einen persönlichen Reiseplan speziell für Sie.",
+    formHeader: "Legen Wir Los",
+    formSubtitle:
+      "Füllen Sie die Details unten aus und wir melden uns innerhalb von 24 Stunden",
+    // Form Specifics
+    travelDates: "Gewünschte Reisedaten",
+    datesPlaceholder: "Flexible oder konkrete Daten",
+    travelersLabel: "Anzahl der Reisenden*",
+    travelersPlaceholder: "Erwachsene und Kinder",
+    durationLabel: "Reisedauer*",
+    durationPlaceholder: "Dauer auswählen",
+    duration3to5: "3–5 Tage",
+    duration6to8: "6–8 Tage",
+    duration9to12: "9–12 Tage",
+    duration13plus: "13+ Tage",
+    budgetLabel: "Ungefähres Budget (pro Person)",
+    budgetPlaceholder: "Budgetbereich auswählen",
+    budgetEconomy: "Economy (₹15.000 – ₹30.000)",
+    budgetMid: "Mittelklasse (₹30.000 – ₹60.000)",
+    budgetLuxury: "Luxus (₹60.000+)",
+    budgetFlexible: "Flexibel / Noch nicht sicher",
+    specialLabel: "Besondere Anforderungen",
+    specialPlaceholder:
+      "Ernährungsbedürfnisse, Barrierefreiheitsanforderungen, besondere Anlässe usw.",
+    submitButton: "Individuellen Reiseplan Anfordern",
+    privacyNote:
+      "Wir respektieren Ihre Privatsphäre. Ihre Daten werden nicht weitergegeben.",
+    // FAQ
+    faqTitle: "Häufige Fragen zu Individuellen Touren",
+    faqSubtitle:
+      "Antworten auf häufige Fragen zu unseren individuellen Reisepaketen.",
+    faq1Question:
+      "Planen Sie Touren für Familien, Gruppen oder Alleinreisende?",
+    faq1Answer:
+      "Wir gestalten Touren für alle: Familien, Reisegruppen, Alleinreisende und alle, die es lieben, neue Orte zu entdecken. Ob entspannter Urlaub, Solotrip oder spontanes Abenteuer – wir gestalten den Reiseplan so, als wäre er genau für Sie gemacht.",
+    faq2Question: "Was ist in einem individuellen Paket enthalten?",
+    faq2Answer:
+      "Sie erhalten einen Reiseplan, der rund um das gestaltet ist, was Ihnen wichtig ist. Er umfasst Reiseziele, Unterkünfte, bequeme und reibungslose Transfers, lokale Guides und Aktivitäten passend zu Ihren Interessen. Wir kümmern uns um die Details, damit Sie sich voll auf das Erleben Ihrer Reise konzentrieren können.",
+    faq3Question:
+      "Wie lange dauert es in der Regel, eine individuelle Reise zu planen?",
+    faq3Answer:
+      "Wir streben eine reibungslose und zeitnahe Planung an. Zunächst wird sich unser Reiseexperte mit Ihnen in Verbindung setzen, um Ihre Anforderungen im Detail zu besprechen. Anschließend erstellen wir einen vorläufigen Reiseplan zur Überprüfung. Sie können Änderungen anfordern, bis der Plan Ihren Erwartungen vollständig entspricht. Nach der Fertigstellung übernehmen wir alle Buchungen und stellen Ihnen detaillierte Reisedokumente zur Verfügung.",
+    faq4Question:
+      "Kann ich ein Standardpaket anpassen, anstatt ein neues zu erstellen?",
+    faq4Answer:
+      "Absolut. Unser Reiseplanungsservice ist kostenlos, wenn Sie Ihre Tour bei uns buchen. Bitte beachten Sie, dass für komplexe Reisepläne, die umfangreiche Recherchen erfordern, eine geringe Planungsgebühr anfallen kann, die vollständig von Ihrem endgültigen Buchungsbetrag abgezogen wird.",
+    metadata: {
+      title: "Individuelle Reisepakete - Global Tourist Centre",
+      description:
+        "Maßgeschneiderte Reiseerlebnisse, die speziell auf Ihre Vorlieben und Bedürfnisse zugeschnitten sind.",
     },
   },
+  // Visa Agent
+  visaAgent: {
+    heroTitle: "Visa- und Dokumentationsservices",
+    aboutTitle: "Vereinfachen Sie Ihren Visaprozess",
+    aboutDesc:
+      "Die Visaanforderungen zu navigieren kann komplex und zeitaufwändig sein. Unser Experten-Visaservice nimmt Ihnen den Stress bei der Dokumentation für internationale Reisen ab. Wir kümmern uns um alles – von Antragsformularen bis zur Dokumentenprüfung – und sorgen dafür, dass Ihr Visaprozess reibungslos und erfolgreich verläuft.",
+    servicesTitle: "Unsere Visaservices Umfassen:",
+    service1: "Umfassende Visaberatung für alle Länder",
+    service2: "Dokumentencheckliste und Hilfe bei der Vorbereitung",
+    service3: "Ausfüllen und Einreichen von Antragsformularen",
+    service4: "Terminvereinbarung mit Botschaften/Konsulaten",
+    service5: "Nachverfolgung und Statusüberwachung",
+    service6: "Expressbearbeitung für dringende Anträge",
+    processTitle: "Visaantragsprozess",
+    processDesc:
+      "Unser schrittweiser Prozess stellt sicher, dass Ihr Visaantrag professionell bearbeitet wird.",
+    step1Title: "Schritt 1: Beratung",
+    step1Desc:
+      "Wir bewerten Ihre Reisepläne und stellen detaillierte Informationen zu Visaanforderungen, Bearbeitungszeiten und Gebühren für Ihr Reiseziel bereit.",
+    step2Title: "Schritt 2: Dokumentenvorbereitung",
+    step2Desc:
+      "Unsere Experten unterstützen Sie beim Zusammenstellen aller erforderlichen Dokumente, darunter Reisepass, Fotos, Finanznachweise und Begleitschreiben.",
+    step3Title: "Schritt 3: Antragseinreichung",
+    step3Desc:
+      "Wir füllen alle Antragsformulare korrekt aus, vereinbaren Termine und reichen Ihren Antrag beim zuständigen Konsulat oder der Botschaft ein.",
+    step4Title: "Schritt 4: Nachverfolgung und Abholung",
+    step4Desc:
+      "Wir überwachen den Status Ihres Antrags und halten Sie auf dem Laufenden. Nach der Genehmigung koordinieren wir die Passabholung und -lieferung.",
+    // Form Specifics
+    formTitle: "Visaunterstützung Beantragen",
+    formDesc:
+      "Füllen Sie dieses Formular aus und unsere Visaexperten melden sich innerhalb von 24 Stunden.",
+    fullNameLabel: "Vollständiger Name*",
+    fullNamePlaceholder: "Ihr vollständiger Name",
+    emailLabel: "E-Mail*",
+    emailPlaceholder: "Ihre E-Mail-Adresse",
+    phoneLabel: "Telefonnummer*",
+    phonePlaceholder: "Telefonnummer",
+    destinationLabel: "Zielland*",
+    destinationPlaceholder: "Land auswählen",
+    visaTypeLabel: "Visaart*",
+    visaTypePlaceholder: "Visaart auswählen",
+    travelDateLabel: "Geplantes Reisedatum*",
+    notesLabel: "Weitere Anmerkungen",
+    notesPlaceholder: "Besondere Anforderungen oder Anmerkungen",
+    submitButton: "Visaantrag Einreichen",
+    privacyNote:
+      "Wir respektieren Ihre Privatsphäre. Ihre Daten werden nicht weitergegeben.",
+    // FAQ
+    faqTitle: "Häufige Fragen zu Visa",
+    faqDesc: "Häufige Fragen zu unseren Visaunterstützungsservices.",
+    faq1Question:
+      "Helfen Sie sowohl bei Touristen- als auch bei Geschäftsvisa?",
+    faq1Answer:
+      "Ja, wir helfen bei der Dokumentation sowohl für Touristen- als auch für Geschäftsvisa. Wir führen durch die Formulare, helfen dabei, die richtigen Dokumente zusammenzustellen, und behalten alle Anforderungen im Blick, damit nichts vergessen wird.",
+    faq2Question:
+      "Wann sollte ich den Visaprozess vor meinem Reisedatum beginnen?",
+    faq2Answer:
+      "Es ist ratsam, mindestens einige Wochen im Voraus zu beginnen. Manche Länder bearbeiten Anträge schneller, andere brauchen länger. Sich genug Zeit zu geben hilft, Stress zu vermeiden.",
+    faq3Question:
+      "Bieten Sie die Terminvereinbarung für Visainterviews an?",
+    faq3Answer:
+      "Wir helfen Ihnen herauszufinden, wohin Sie gehen und wie Sie einen Termin vereinbaren müssen. Die Botschaften oder Konsulate legen die verfügbaren Slots fest, und wir tun unser Möglichstes, um Sie in Bezug auf Dokumente und Vorbereitung in die richtige Richtung zu lenken.",
+    faq4Question:
+      "Kann ich meinen Auslandsaufenthalt verlängern, wenn mein Visum mehr Tage erlaubt als geplant?",
+    faq4Answer:
+      "Das hängt von den Regelungen Ihres Ziellandes ab. Bestimmte Länder erlauben einen längeren Aufenthalt, wenn Ihr Visum dies abdeckt, oder wenn Sie lokal eine Verlängerung beantragen.",
+    metadata: {
+      title: "Visa und Dokumentation - Global Tourist Centre",
+      description:
+        "Umfassende Visahilfe und Dokumentationsservices für problemlose internationale Reisen.",
+    },
+  },
+  // Hotel Booking
+  hotelBooking: {
+    heroTitle: "Hotelbuchungsservices",
+    aboutTitle: "Finden Sie Ihre Perfekte Unterkunft",
+    aboutDesc:
+      "Wir arbeiten mit Hotels weltweit zusammen, um Ihnen die besten Unterkünfte zu wettbewerbsfähigen Preisen anzubieten. Ob Sie eine preisgünstige Unterkunft, ein Boutique-Hotel oder ein Luxusresort suchen – wir haben Optionen für jeden Geschmack und jedes Budget. Unsere lokale Expertise stellt sicher, dass Sie die besten Lagen und Annehmlichkeiten für Ihre Reisebedürfnisse erhalten.",
+    whyBookTitle: "Warum Bei Uns Buchen:",
+    benefit1: "Zugang zu exklusiven Tarifen und Sonderangeboten",
+    benefit2: "Verifizierte Bewertungen und persönliche Empfehlungen",
+    benefit3: "24/7-Kundensupport bei allen Problemen",
+    benefit4: "Flexible Stornierungsbedingungen",
+    benefit5: "Paketangebote mit Flügen und Aktivitäten",
+    benefit6: "Persönlicher Service von Hotelexperten",
+    formTitle: "Hotelbuchungsanfrage",
+    formDesc:
+      "Füllen Sie dieses Formular aus und wir finden das perfekte Hotel für Ihren Aufenthalt.",
+    formHeader: "Finden Wir Ihre Perfekte Unterkunft",
+    formSubtitle:
+      "Füllen Sie die Details unten aus und wir melden uns innerhalb von 24 Stunden",
+    yourName: "Ihr Name*",
+    namePlaceholder: "Vollständiger Name",
+    email: "E-Mail*",
+    emailPlaceholder: "Ihre E-Mail-Adresse",
+    phone: "Telefonnummer*",
+    phonePlaceholder: "Telefonnummer mit Ländervorwahl",
+    destination: "Stadt/Reiseziel*",
+    destinationPlaceholder: "Wo möchten Sie übernachten?",
+    checkIn: "Check-in-Datum*",
+    checkOut: "Check-out-Datum*",
+    guests: "Anzahl der Gäste*",
+    guestsPlaceholder: "Erwachsene",
+    rooms: "Anzahl der Zimmer*",
+    roomsPlaceholder: "Benötigte Zimmer",
+    category: "Bevorzugte Hotelkategorie",
+    categoryPlaceholder: "Beliebige Kategorie",
+    budget: "Ungefähres Budget (pro Nacht)",
+    budgetPlaceholder: "Ihr Budgetbereich",
+    message: "Sonderwünsche",
+    messagePlaceholder: "Zimmerpräferenzen, Barrierefreiheitsbedarf usw.",
+    submit: "Hotels Suchen",
+    // FAQ
+    faqTitle: "Häufige Fragen zur Hotelbuchung",
+    faqDesc: "Häufige Fragen zu unseren Hotelbuchungsservices.",
+    faq1Question:
+      "Bieten Sie sowohl inländische als auch internationale Hotelbuchungen an?",
+    faq1Answer:
+      "Absolut. Wir arbeiten mit Hotels weltweit zusammen, um Ihnen die besten Unterkünfte zu wettbewerbsfähigen Preisen anzubieten. Ob preisgünstige Unterkunft, Boutique-Hotel oder Luxusresort – wir haben Optionen für jeden Geschmack und jedes Budget.",
+    faq2Question:
+      "Können Sie Hotels als Teil eines Komplettreisepakets oder nur als Einzelbuchungen buchen?",
+    faq2Answer:
+      "Wir können beides. Sie können entweder eine Einzelbuchung anfragen oder uns das Hotel als Teil Ihres Komplettpakets mit Flügen, Transfers und Aktivitäten buchen lassen. Was auch immer Sie benötigen – wir kümmern uns um die Details.",
+    faq3Question: "Kann ich meine Hotelbuchung ändern oder stornieren?",
+    faq3Answer:
+      "Änderungs- und Stornierungsrichtlinien variieren je nach Hotel. Die meisten Buchungen können bis zu 24–48 Stunden vor dem Check-in kostenlos geändert oder storniert werden. Einige Sonderpreisbuchungen können abweichende Bedingungen haben. In Ihrer Bestätigungs-E-Mail sind die Stornierungsbedingungen für Ihre spezifische Reservierung angegeben.",
+    faq4Question:
+      "Kann ich mehrere Hotels in verschiedenen Städten unter einem Reiseplan buchen?",
+    faq4Answer:
+      "Selbstverständlich. Wenn Ihre Reise Sie beispielsweise von Mumbai nach Sikkim bis zu den Andamanen führt, buchen wir jedes Hotel für die richtigen Nächte auf Ihrer gesamten Reise. Wir sind für Sie da, um Ihren Aufenthalt nahtlos zu gestalten – auch wenn Sie die Pläne später ändern oder eine Etappe hinzufügen möchten.",
+    metadata: {
+      title: "Hotelbuchung - Global Tourist Centre",
+      description:
+        "Buchen Sie das perfekte Hotel für Ihren Aufenthalt aus unserer umfangreichen Auswahl an Unterkünften weltweit.",
+    },
+  },
+  // Flight Booking
+  flightBooking: {
+    heroTitle: "Flugbuchungsservices",
+    aboutTitle: "Fliegen Sie Entspannt",
+    aboutDesc:
+      "Als autorisierter Flugbuchungsagent bieten wir Zugang zu wettbewerbsfähigen Flugpreisen aller großen Fluggesellschaften. Ob Sie Inlandsflüge innerhalb Indiens oder internationale Verbindungen weltweit benötigen – unser erfahrenes Team findet für Sie die besten Strecken und Preise. Wir kümmern uns um alles: von einfachen Einzeltickets bis hin zu komplexen Mehrstadt-Reiseplänen.",
+    servicesTitle: "Unsere Flugservices Umfassen:",
+    service1: "Inländische und internationale Flugbuchungen",
+    service2: "Mehrstadt- und Hin- und Rückflug-Reisepläne",
+    service3: "Sitzplatzauswahl und Mahlzeitenpräferenzen",
+    service4: "Hilfe bei Flugänderungen und -stornierungen",
+    service5: "Gruppenrabatte",
+    service6: "24/7-Buchungssupport",
+    formTitle: "Flugbuchungsanfrage",
+    formDesc:
+      "Geben Sie Ihre Reisedaten an und wir finden die besten Flugoptionen für Sie.",
+    formHeader: "Legen Wir Los",
+    formSubtitle:
+      "Füllen Sie die Details unten aus und wir melden uns innerhalb von 24 Stunden",
+    yourName: "Ihr Name*",
+    namePlaceholder: "Vollständiger Name",
+    email: "E-Mail*",
+    emailPlaceholder: "Ihre E-Mail-Adresse",
+    phone: "Telefonnummer*",
+    phonePlaceholder: "Telefonnummer mit Ländervorwahl",
+    tripType: "Reiseart*",
+    tripTypePlaceholder: "Reiseart auswählen",
+    from: "Von (Stadt/Flughafen)*",
+    fromPlaceholder: "Abflugstadt",
+    to: "Nach (Stadt/Flughafen)*",
+    toPlaceholder: "Zielstadt",
+    departureDate: "Abflugdatum*",
+    returnDate: "Rückflugdatum",
+    adults: "Erwachsene (ab 12 Jahren)*",
+    children: "Kinder (2–11 Jahre)",
+    infants: "Kleinkinder (unter 2 Jahre)",
+    preferredClass: "Bevorzugte Klasse*",
+    preferredClassPlaceholder: "Economy",
+    preferredAirlines: "Bevorzugte Fluggesellschaften",
+    preferredAirlinesPlaceholder: "Bestimmte Fluggesellschaften?",
+    message: "Sonderwünsche",
+    messagePlaceholder: "Sitzplatzpräferenzen, Mahlzeitenanforderungen usw.",
+    submit: "Flüge Suchen",
+    // FAQ
+    faqTitle: "Häufige Fragen zur Flugbuchung",
+    faqDesc: "Häufige Fragen zu unseren Flugbuchungsservices.",
+    faq1Question:
+      "Können Sie einen Kindersitz, ein Haustier oder Sportausrüstung zu meiner Buchung hinzufügen?",
+    faq1Answer:
+      "Wir können Sie dabei beraten, wie Sie spezielle Gegenstände wie Kindersitze oder Sportausrüstung einschließen können. Viele Fluggesellschaften erlauben es, diese beim Buchen über Zusatzservices hinzuzufügen. Bei Haustieren hängt es von den Regeln der Fluggesellschaft ab. Wir teilen Ihnen mit, was erlaubt ist und wie Sie es bei der Buchung einschließen können.",
+    faq2Question:
+      "Können Sie neben Flügen auch den Flughafentransfer koordinieren?",
+    faq2Answer:
+      "Ja, das übernehmen wir gerne. Sie können uns bitten, als Teil Ihres Reiseplans einen Transfer an Ihrem Zielort zu organisieren.",
+    faq3Question:
+      "Wie lauten die Stornierungsbedingungen, Änderungsrichtlinien oder Rückerstattungsregeln?",
+    faq3Answer:
+      "Alles wird durch die Fluggesellschaft oder die Ticketbedingungen festgelegt. Wir sind dafür da, Ihnen die Optionen aufzuzeigen, damit Sie die passende Lösung wählen können – ob Sie die Daten verschieben oder vollständig stornieren möchten.",
+    faq4Question:
+      "Welche Unterstützung bieten Sie bei Flugverspätungen oder -ausfällen?",
+    faq4Answer:
+      "Bei Verspätungen oder Stornierungen sind wir für Sie da. Wenden Sie sich an uns und wir führen Sie durch die nächsten Schritte: Umbuchung, Unterstützung am Flughafen oder Alternativflüge. Wir helfen Ihnen, ruhig zu bleiben und weiterzureisen.",
+    metadata: {
+      title: "Flugbuchung - Global Tourist Centre",
+      description:
+        "Buchen Sie Inlands- und Auslandsflüge zu wettbewerbsfähigen Preisen mit unseren professionellen Flugbuchungsservices.",
+    },
+  },
+  // Group Trip
+  groupTrip: {
+    heroTitle: "Gruppenreisen und -pakete",
+    aboutTitle: "Gemeinsam Reisen, Gemeinsam Sparen",
+    aboutDesc:
+      "Unsere Gruppenreisen bieten die perfekte Mischung aus sozialem Zusammenhalt, Komfort und Preis-Leistungs-Verhältnis. Ob Sie mit der Familie, Freunden oder Kollegen reisen – unsere fachmännisch geplanten Gruppenreisepläne kümmern sich um alle Details, damit Sie sich auf das gemeinsame Erleben konzentrieren können. Dank Sondergruppenrabatten und dedizierten Reiseleitern erleben Sie mehr und geben weniger aus.",
+    benefitsTitle: "Vorteile des Gruppenreisens:",
+    benefit1: "Erhebliche Einsparungen durch Gruppenrabatte",
+    benefit2: "Professioneller Reiseleiter während der gesamten Reise",
+    benefit3: "Vorausgeplante Reisepläne mit Flexibilität",
+    benefit4: "Gleichgesinnte Reisende kennenlernen",
+    benefit5: "Problemlose Logistik und Transfers",
+    benefit6: "Gruppenaktivitäten und gemeinsame Erlebnisse",
+    formTitle: "Legen Wir Los",
+    formDesc:
+      "Füllen Sie die Details unten aus und wir melden uns innerhalb von 24 Stunden",
+    formHeader: "Legen Wir Los",
+    formSubtitle:
+      "Füllen Sie die Details unten aus und wir melden uns innerhalb von 24 Stunden",
+    groupOrganizerName: "Name des Gruppenorganisators*",
+    namePlaceholder: "Vollständiger Name",
+    phoneNumber: "Telefonnummer*",
+    phonePlaceholder: "Telefonnummer mit Ländervorwahl",
+    groupType: "Gruppenart*",
+    groupTypePlaceholder: "Gruppenart auswählen",
+    groupSize: "Ungefähre Gruppengröße*",
+    groupSizePlaceholder: "Mindestens 8 Personen",
+    destination: "Gewünschte Reiseziele*",
+    destinationPlaceholder: "Wohin möchte Ihre Gruppe reisen?",
+    startDate: "Gewünschtes Startdatum",
+    startDatePlaceholder: "TT/MM/JJJJ",
+    tripDuration: "Reisedauer (Tage)",
+    tripDurationPlaceholder: "Anzahl der Tage",
+    budget: "Ungefähres Budget (pro Person)",
+    budgetPlaceholder: "Ihr Budgetbereich",
+    interests: "Interessen/Aktivitäten der Gruppe",
+    interestsPlaceholder:
+      "Welche Art von Erlebnissen interessiert Ihre Gruppe?",
+    submit: "Gruppenangebot Anfordern",
+    privacyFooter:
+      "Wir respektieren Ihre Privatsphäre. Ihre Daten werden nicht weitergegeben.",
+    // FAQ
+    faqTitle: "Häufige Fragen zu Gruppenreisen",
+    faqDesc: "Häufige Fragen zu unseren Gruppenreiseservices.",
+    faq1Question:
+      "Was ist die minimale und maximale Gruppengröße für Ihre Inlands- und Auslandsreisen?",
+    faq1Answer:
+      "Die meisten unserer Reisen sind für kleine Gruppen konzipiert, oft zwischen sechs und zwölf Reisenden gleichzeitig. Auf Anfrage können wir je nach Reisestil und Ihrem Komfortniveau etwas größere Gruppen accommodieren.",
+    faq2Question:
+      "Wie stellen Sie eine reibungslose Koordination und ein gutes Zeitmanagement während einer Gruppenreise sicher?",
+    faq2Answer:
+      "Wir planen jeden Tag mit klaren Zeitplänen, komfortablem Transport und zuverlässigen lokalen Guides, die die Gegend gut kennen. Wir stellen auch sicher, während der Reise in Kontakt zu bleiben, damit nichts aus dem Ruder läuft und Sie immer gespannt auf das Nächste sein können.",
+    faq3Question:
+      "Können Sie Visa, Flüge und Hotelbuchungen für alle Gruppenmitglieder organisieren?",
+    faq3Answer:
+      "Ja, wir übernehmen alles von Anfang bis Ende für Ihre Gruppe. Sobald wir alle Details von jedem erhalten haben, kümmern wir uns um Flüge, Unterkünfte, Visa, Transfers und fassen alles in einem stimmigen Reiseplan zusammen. Sie reisen entspannt und sorgenfrei mit Ihrer Gruppe, während wir die Logistik koordinieren.",
+    faq4Question:
+      "Welche Zahlungspläne oder Ratenzahlungsoptionen bieten Sie für Gruppenreisebuchungen an?",
+    faq4Answer:
+      "Für Gruppenbuchungen verlangen wir in der Regel eine Anzahlung von 25 %, um die Reservierungen zu bestätigen, mit dem Restbetrag fällig 30–45 Tage vor der Abreise. Für sehr große Gruppen oder komplexe Reisepläne können wir einen Zahlungsplan mit mehreren Raten vereinbaren. Wir können auch individuelle Zahlungen von Gruppenmitgliedern akzeptieren, wenn dies bevorzugt wird.",
+    metadata: {
+      title: "Gruppenreisen - Global Tourist Centre",
+      description:
+        "Organisierte Gruppenreisen für Familien, Freunde und Unternehmensteams mit erfahrenen Guides und reibungsloser Logistik.",
+    },
+  },
+  // Common form labels
+  form: {
+    yourName: "Ihr Name*",
+    namePlaceholder: "Vollständiger Name",
+    email: "E-Mail*",
+    emailPlaceholder: "Ihre E-Mail-Adresse",
+    phone: "Telefonnummer*",
+    phonePlaceholder: "Ihre Telefonnummer",
+    destination: "Bevorzugtes Reiseziel",
+    destinationPlaceholder: "Wohin würden Sie gerne reisen?",
+    dates: "Reisedaten",
+    travelers: "Anzahl der Reisenden",
+    budget: "Budgetbereich",
+    message: "Weitere Anforderungen",
+    messagePlaceholder: "Erzählen Sie uns mehr über Ihre Präferenzen...",
+    submit: "Anfrage Senden",
+    submitting: "Wird gesendet...",
+  },
+  domesticInternational: {
+    hero: {
+      title: "Inlands- und Internationale Reisepakete",
+    },
+    about: {
+      title: "Entdecken Sie die Welt Mit Uns",
+      description:
+        "Ob Sie die versteckten Schätze Indiens erkunden oder exotische internationale Reiseziele entdecken möchten – wir erstellen personalisierte Reisepläne, die auf Ihren Reisestil und Ihre Vorlieben zugeschnitten sind. Unsere inländischen und internationalen Reisepakete sind darauf ausgelegt, authentische Erlebnisse, komfortable Unterkünfte und eine reibungslose Logistik zu bieten.",
+      whyTitle: "Warum Unsere Pakete Wählen:",
+      points: [
+        "Sorgfältig kuratierte Reisepläne mit lokalen Erfahrungen",
+        "Expertenführer und 24/7-Support während Ihrer Reise",
+        "Wettbewerbsfähige Preise ohne versteckte Kosten",
+        "Flexible Anpassungsoptionen",
+        "Handverlesene Unterkünfte und Transportmittel",
+      ],
+    },
+    domestic: {
+      title: "Inlandsreisen",
+      subtitle:
+        "Erkunden Sie die vielfältige Schönheit Indiens mit unseren handverlesenen inländischen Reisezielen.",
+      viewMore: "Weitere Inlandsreisen Anzeigen",
+    },
+    international: {
+      title: "Internationale Reisen",
+      subtitle:
+        "Entdecken Sie exotische Reiseziele rund um die Welt mit unseren internationalen Reisepaketen.",
+      viewMore: "Weitere Internationale Reisen Anzeigen",
+    },
+    faq: {
+      title: "Häufig Gestellte Fragen",
+      subtitle:
+        "Finden Sie Antworten auf häufige Fragen zu unseren Inlands- und Auslandsreisen.",
+      questions: [
+        {
+          question:
+            "Welche Dokumente benötigen Sie von mir bei der Buchung?",
+          answer:
+            "Wir benötigen einen gültigen Reisepass und einen amtlichen Lichtbildausweis, um die Buchung zu starten. Je nach Reiseziel und Anforderungen der Fluggesellschaft können wir weitere Dokumente wie Ihre Aadhaar-Karte oder eine Kopie Ihrer Reisedokumente anfordern.",
+        },
+        {
+          question:
+            "Bieten Sie Visaunterstützung oder Visabearbeitungsservices an?",
+          answer:
+            "Ja, unser Team führt Sie durch den Prozess, hilft Ihnen mit den erforderlichen Unterlagen und stellt sicher, dass alles vor der Einreichung in Ordnung ist.",
+        },
+        {
+          question:
+            "Wie ist Ihre Richtlinie für Rückerstattungen/Entschädigungen bei Serviceausfällen (verpasste Hotelnächte, abgesagte Ausflüge)?",
+          answer:
+            "Wenn eine Hotelnacht verpasst oder ein Ausflug aufgrund von Serviceproblemen abgesagt wird, greifen wir ein, um die Situation zu klären. Je nach Umstand kann eine Rückerstattung oder ein Reiseguthaben angeboten werden.",
+        },
+        {
+          question:
+            "Soll ich bei internationalen Flügen früher am Flughafen sein als bei Inlandsflügen?",
+          answer:
+            "Bei Inlandsflügen kommen Sie bitte 2 Stunden vor Abflug am Flughafen an. Bei internationalen Flügen sollten Sie 3 bis 4 Stunden früher erscheinen, um Sicherheitskontrolle und Einreise stressfrei zu durchlaufen.",
+        },
+      ],
+    },
+    metadata: {
+      title:
+        "Inlands- und Internationale Reisepakete - Global Tourist Centre",
+      description:
+        "Entdecken Sie unsere sorgfältig ausgewählten Inlands- und Auslandsreisepakete für unvergessliche Reiseerlebnisse.",
+    },
+  },
+},
   // Why Choose Us
   whyChoose: {
     title: "Warum Global Tourist Centre",

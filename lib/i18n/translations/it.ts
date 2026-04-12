@@ -17,7 +17,7 @@ export const it = {
   },
   // Navigation
   nav: {
-    home: "Home",
+    home: "Casa",
     destinations: "Destinazioni",
     luxuryDestinations: "Destinazioni di Lusso",
     about: "Chi Siamo",
@@ -452,540 +452,429 @@ export const it = {
     groupToursDesc:
       "Tour di gruppo organizzati con guide esperte, perfetti per famiglie e gruppi aziendali.",
   },
-  servicePages: {
-    customizeTripPackage: {
-      heroTitle: "Pacchetti Tour Personalizzati",
-      aboutTitle: "Il Tuo Viaggio, a Modo Tuo",
-      aboutDesc:
-        "Crediamo che ogni viaggiatore sia unico e che la tua vacanza debba riflettere il tuo stile personale. I nostri pacchetti tour personalizzati sono progettati in base ai tuoi interessi, al budget e alle preferenze di viaggio. Che tu stia cercando avventura, relax, cultura o un mix di tutto, creeremo un itinerario perfetto per te.",
-      whyChooseTitle: "Perché Scegliere i Tour Personalizzati:",
-      benefit1: "Su misura per i tuoi interessi specifici e il tuo ritmo",
-      benefit2: "Date e durata flessibili",
-      benefit3: "Scelta di alloggi in linea con il tuo stile",
-      benefit4: "Attività ed esperienze personalizzate",
-      benefit5: "Guide locali esperte per esperienze autentiche",
-      benefit6: "Supporto 24/7 durante il viaggio",
-      formTitle: "Crea la Vacanza dei Tuoi Sogni",
-      formDesc:
-        "Raccontaci le tue preferenze di viaggio e progetteremo un itinerario personalizzato solo per te.",
-      formHeader: "Iniziamo",
-      formSubtitle:
-        "Compila i dettagli qui sotto e ti contatteremo entro 24 ore",
-      // Form Specifics
-      travelDates: "Date di Viaggio Preferite",
-      datesPlaceholder: "Date flessibili o specifiche",
-      travelersLabel: "Numero di Viaggiatori*",
-      travelersPlaceholder: "Adulti e bambini",
-      durationLabel: "Durata del Viaggio*",
-      durationPlaceholder: "Seleziona la Durata",
-      duration3to5: "3-5 Giorni",
-      duration6to8: "6-8 Giorni",
-      duration9to12: "9-12 Giorni",
-      duration13plus: "13+ Giorni",
-      budgetLabel: "Budget Approssimativo (a persona)",
-      budgetPlaceholder: "Seleziona la Fascia di Budget",
-      budgetEconomy: "Economy (₹15.000 - ₹30.000)",
-      budgetMid: "Fascia Media (₹30.000 - ₹60.000)",
-      budgetLuxury: "Lusso (₹60.000+)",
-      budgetFlexible: "Flessibile / Non Sicuro",
-      specialLabel: "Requisiti Speciali",
-      specialPlaceholder:
-        "Esigenze alimentari, requisiti di accessibilità, occasioni speciali, ecc.",
-      submitButton: "Ottieni Itinerario Personalizzato",
-      privacyNote:
-        "Rispettiamo la tua privacy. Le tue informazioni non verranno condivise.",
-      // FAQ
-      faqTitle: "FAQ sui Tour Personalizzati",
-      faqSubtitle:
-        "Risposte alle domande più comuni sui nostri pacchetti tour personalizzati.",
-      faq1Question:
-        "Progettate tour per famiglie, gruppi o viaggiatori singoli?",
-      faq1Answer:
-        "Progettiamo tour per tutti: famiglie, gruppi di amici e viaggiatori singoli. Che si tratti di una vacanza rilassante, di un viaggio in solitaria o di un’esperienza dinamica e spontanea, rendiamo ogni itinerario davvero su misura.",
-      faq2Question: "Cosa è incluso in un pacchetto personalizzato?",
-      faq2Answer:
-        "Riceverai un itinerario progettato in base a ciò che conta per te. Include destinazioni, alloggi, trasferimenti comodi e senza intoppi, guide locali e attività in linea con i tuoi interessi. Ci occupiamo noi di ogni dettaglio, così potrai concentrarti solo sul piacere del viaggio.",
-      faq3Question:
-        "Quanto tempo è necessario per progettare un viaggio personalizzato?",
-      faq3Answer:
-        "Puntiamo a rendere la pianificazione semplice e puntuale. Un nostro consulente ti contatterà per approfondire le tue esigenze, quindi creeremo una proposta preliminare per la tua revisione. Potrai richiedere modifiche finché l’itinerario non rispecchierà perfettamente le tue aspettative. Una volta finalizzato, gestiremo tutte le prenotazioni e ti forniremo la documentazione di viaggio completa.",
-      faq4Question:
-        "Posso modificare un pacchetto standard invece di crearne uno nuovo?",
-      faq4Answer:
-        "Certamente. Il servizio di pianificazione dell’itinerario è gratuito se prenoti il tour con noi. Tuttavia, per itinerari complessi che richiedono una ricerca approfondita, potrebbe essere applicata una tariffa di pianificazione nominale, interamente detraibile dall’importo finale della prenotazione.",
-      metadata: {
-        title: "Pacchetti Tour Personalizzati - Global Tourist Centre",
-        description:
-          "Esperienze di viaggio su misura progettate specificamente in base alle tue preferenze ed esigenze.",
-      },
-    },
-    visaAgent: {
-      heroTitle: "Servizi Visti e Documentazione",
-      aboutTitle: "Semplifica il Processo di Visto",
-      aboutDesc:
-        "Gestire i requisiti per il visto può essere complesso e richiedere molto tempo. Il nostro servizio di assistenza visti elimina lo stress dalla documentazione per i viaggi internazionali. Ci occupiamo di tutto, dalla compilazione delle domande alla verifica dei documenti, garantendo un processo fluido e di successo.",
-      servicesTitle: "I Nostri Servizi per i Visti Includono:",
-      service1: "Consulenza completa per visti di tutti i Paesi",
-      service2: "Checklist documentale e supporto nella preparazione",
-      service3: "Compilazione e invio delle domande di visto",
-      service4: "Prenotazione appuntamenti con ambasciate e consolati",
-      service5: "Follow-up e monitoraggio dello stato della pratica",
-      service6: "Procedura accelerata per richieste urgenti",
-      processTitle: "Processo di Richiesta del Visto",
-      processDesc:
-        "Il nostro processo strutturato garantisce che la tua domanda di visto sia gestita in modo professionale.",
-      step1Title: "Fase 1: Consulenza",
-      step1Desc:
-        "Valutiamo i tuoi piani di viaggio e forniamo informazioni dettagliate sui requisiti del visto, sui tempi di elaborazione e sui costi per la tua destinazione.",
-      step2Title: "Fase 2: Preparazione dei Documenti",
-      step2Desc:
-        "I nostri esperti ti guidano nella raccolta di tutti i documenti necessari, inclusi passaporto, fotografie, prove finanziarie e lettere di supporto.",
-      step3Title: "Fase 3: Invio della Domanda",
-      step3Desc:
-        "Compiliamo accuratamente tutti i moduli, fissiamo gli appuntamenti e presentiamo la domanda al consolato o all’ambasciata competente.",
-      step4Title: "Fase 4: Tracciamento e Ritiro",
-      step4Desc:
-        "Monitoriamo lo stato della tua domanda e ti teniamo aggiornato. Una volta approvata, coordiniamo il ritiro e la consegna del passaporto.",
-      // Form Specifics
-      formTitle: "Richiedi Assistenza per il Visto",
-      formDesc:
-        "Compila questo modulo e i nostri esperti visti ti contatteranno entro 24 ore.",
-      fullNameLabel: "Nome Completo*",
-      fullNamePlaceholder: "Il tuo nome completo",
-      emailLabel: "Posta elettronica*",
-      emailPlaceholder: "Il tuo indirizzo email",
-      phoneLabel: "Numero di Telefono*",
-      phonePlaceholder: "Numero di telefono",
-      destinationLabel: "Paese di Destinazione*",
-      destinationPlaceholder: "Seleziona il Paese",
-      visaTypeLabel: "Tipo di Visto*",
-      visaTypePlaceholder: "Seleziona il Tipo di Visto",
-      travelDateLabel: "Data di Viaggio Prevista*",
-      notesLabel: "Note Aggiuntive",
-      notesPlaceholder: "Eventuali requisiti o note speciali",
-      submitButton: "Invia Richiesta di Visto",
-      privacyNote:
-        "Rispettiamo la tua privacy. Le tue informazioni non verranno condivise.",
-      // FAQ
-      faqTitle: "FAQ sui Visti",
-      faqDesc: "Domande frequenti sui nostri servizi di assistenza visti.",
-      faq1Question: "Fornite assistenza sia per visti turistici che business?",
-      faq1Answer:
-        "Sì, offriamo supporto completo sia per visti turistici che per visti business. Ti guidiamo nella compilazione dei moduli, nella preparazione della documentazione corretta e nel rispetto di tutti i requisiti.",
-      faq2Question:
-        "Quando dovrei iniziare la procedura per il visto prima della data di viaggio?",
-      faq2Answer:
-        "È consigliabile iniziare almeno alcune settimane prima. Alcuni Paesi hanno tempi di elaborazione rapidi, altri più lunghi. Muoversi in anticipo aiuta a evitare stress inutili.",
-      faq3Question:
-        "Vi occupate della prenotazione degli appuntamenti per i colloqui?",
-      faq3Answer:
-        "Ti aiutiamo a capire dove andare e come prenotare. Gli slot sono gestiti da ambasciate e consolati, e noi ti supportiamo nella preparazione e nella documentazione richiesta.",
-      faq4Question:
-        "Posso estendere il mio soggiorno all’estero se il visto consente più giorni?",
-      faq4Answer:
-        "Dipende dalle normative del Paese di destinazione. Alcuni Stati consentono l’estensione se il visto lo permette o se si presenta una richiesta di proroga a livello locale.",
-      metadata: {
-        title: "Visti e Documentazione - Global Tourist Centre",
-        description:
-          "Servizi completi di assistenza visti e documentazione per viaggi internazionali senza stress.",
-      },
-    },
-    hotelBooking: {
-      heroTitle: "Hotel Booking Services",
-      aboutTitle: "Find Your Perfect Stay",
-      aboutDesc:
-        "We partner with trusted hotels worldwide to deliver reliable, cost-effective accommodation solutions. From budget stays to premium luxury resorts, we match your travel objectives with the right property, location, and amenities. Our curated network and negotiation leverage ensure value without compromise.",
-      whyBookTitle: "Why Book With Us:",
-      benefit1: "Access to exclusive rates and negotiated partner pricing",
-      benefit2: "Verified properties with quality assurance checks",
-      benefit3: "24/7 customer support before, during, and after your stay",
-      benefit4: "Flexible modification and cancellation options",
-      benefit5: "Bundled packages with flights, transfers, and activities",
-      benefit6: "Personalized recommendations based on travel intent",
-
-      processTitle: "Our Hotel Booking Process",
-      processDesc:
-        "Our streamlined booking workflow ensures clarity, speed, and zero guesswork from inquiry to check-out.",
-      step1Title: "Step 1: Requirement Analysis",
-      step1Desc:
-        "We evaluate your destination, travel dates, budget range, and preferences such as location, hotel category, and amenities.",
-      step2Title: "Step 2: Shortlisting Options",
-      step2Desc:
-        "Our team curates the best available hotel options, balancing price, reviews, location, and value-added benefits.",
-      step3Title: "Step 3: Confirmation & Booking",
-      step3Desc:
-        "Once you select a property, we secure the booking, share confirmation details, and clearly outline policies and inclusions.",
-      step4Title: "Step 4: Support During Stay",
-      step4Desc:
-        "From check-in coordination to mid-stay assistance, our support team remains available to resolve any issues quickly.",
-
-      // Form Section
-      formTitle: "Hotel Booking Request",
-      formDesc:
-        "Submit your requirements and our hotel specialists will respond within 24 hours.",
-      formHeader: "Let’s Find Your Ideal Hotel",
-      formSubtitle: "Share your travel details and we’ll handle the rest",
-      yourName: "Your Name*",
-      namePlaceholder: "Full name",
-      email: "Posta elettronica*",
-      emailPlaceholder: "Your email address",
-      phone: "Phone Number*",
-      phonePlaceholder: "Phone number with country code",
-      destination: "City / Destination*",
-      destinationPlaceholder: "Where do you want to stay?",
-      checkIn: "Check-in Date*",
-      checkOut: "Check-out Date*",
-      guests: "Number of Guests*",
-      guestsPlaceholder: "Adults",
-      rooms: "Number of Rooms*",
-      roomsPlaceholder: "Rooms required",
-      category: "Preferred Hotel Category",
-      categoryPlaceholder: "Any category",
-      budget: "Approximate Budget (per night)",
-      budgetPlaceholder: "Your budget range",
-      message: "Special Requests",
-      messagePlaceholder:
-        "Room preferences, accessibility needs, meal plans, etc.",
-      submit: "Find Hotels",
-      privacyNote:
-        "Your information is kept confidential and used only for booking assistance.",
-
-      // FAQ
-      faqTitle: "Hotel Booking FAQs",
-      faqDesc: "Frequently asked questions about our hotel booking services.",
-      faq1Question:
-        "Do you offer both domestic and international hotel bookings?",
-      faq1Answer:
-        "Yes. We handle hotel bookings across India and internationally, covering budget, mid-range, boutique, and luxury properties.",
-      faq2Question:
-        "Can hotels be booked as part of a complete travel package?",
-      faq2Answer:
-        "Absolutely. Hotels can be booked standalone or bundled with flights, transfers, sightseeing, and visas for a seamless experience.",
-      faq3Question: "Can I modify or cancel my hotel booking?",
-      faq3Answer:
-        "Policies depend on the hotel and rate selected. Most standard bookings allow free modification or cancellation up to 24–48 hours before check-in. All terms are shared transparently before confirmation.",
-      faq4Question: "Can I book multiple hotels across different cities?",
-      faq4Answer:
-        "Yes. Multi-city itineraries are fully supported. We manage check-in and check-out dates across locations to keep your journey frictionless.",
-
-      metadata: {
-        title: "Hotel Booking - Global Tourist Centre",
-        description:
-          "Book verified hotels worldwide with expert assistance, exclusive rates, and end-to-end customer support.",
-      },
-    },
-    flightBooking: {
-      heroTitle: "Flight Booking Services",
-      aboutTitle: "Fly With Ease",
-      aboutDesc:
-        "As an authorized flight booking partner, we deliver optimized airfare solutions across domestic and international routes. Leveraging global airline partnerships and real-time fare intelligence, we secure cost-effective, reliable flight options tailored to your schedule, budget, and travel objectives—from simple point-to-point trips to complex multi-city itineraries.",
-
-      servicesTitle: "Our Flight Services Include:",
-      service1: "Domestic and international flight bookings",
-      service2: "One-way, round-trip, and multi-city itineraries",
-      service3: "Seat selection, meals, and special assistance requests",
-      service4: "Ticket changes, cancellations, and re-issuance support",
-      service5: "Group bookings and corporate fare solutions",
-      service6: "24/7 assistance for booking and post-booking support",
-
-      processTitle: "Our Flight Booking Process",
-      processDesc:
-        "Our structured booking workflow minimizes risk, saves time, and ensures pricing transparency from inquiry to boarding.",
-      step1Title: "Step 1: Travel Requirement Assessment",
-      step1Desc:
-        "We analyze your travel dates, origin, destination, passenger details, preferred airlines, and class of travel to define the optimal search criteria.",
-      step2Title: "Step 2: Fare Comparison & Optimization",
-      step2Desc:
-        "Using multiple airline systems, we identify the best fare options, routes, and layover combinations while balancing price, duration, and reliability.",
-      step3Title: "Step 3: Booking & Ticket Issuance",
-      step3Desc:
-        "Upon confirmation, tickets are issued promptly. You receive complete itinerary details along with fare rules and airline policies.",
-      step4Title: "Step 4: Post-Booking Support",
-      step4Desc:
-        "We remain available for changes, cancellations, upgrades, or disruption management in case of delays or cancellations.",
-
-      // Form Section
-      formTitle: "Flight Booking Request",
-      formDesc:
-        "Share your travel details and our flight specialists will respond within 24 hours.",
-      formHeader: "Plan Your Flight",
-      formSubtitle: "Submit your details and let us handle the rest",
-      yourName: "Your Name*",
-      namePlaceholder: "Full name",
-      email: "Posta elettronica*",
-      emailPlaceholder: "Your email address",
-      phone: "Phone Number*",
-      phonePlaceholder: "Phone number with country code",
-      tripType: "Trip Type*",
-      tripTypePlaceholder: "Select trip type",
-      from: "From (City / Airport)*",
-      fromPlaceholder: "Departure city or airport",
-      to: "To (City / Airport)*",
-      toPlaceholder: "Destination city or airport",
-      departureDate: "Departure Date*",
-      returnDate: "Return Date",
-      adults: "Adults (12+ years)*",
-      children: "Children (2–11 years)",
-      infants: "Infants (Below 2 years)",
-      preferredClass: "Preferred Class*",
-      preferredClassPlaceholder: "Economy",
-      preferredAirlines: "Preferred Airlines",
-      preferredAirlinesPlaceholder: "Any airline preference?",
-      message: "Special Requests",
-      messagePlaceholder:
-        "Seat preferences, meals, extra baggage, assistance, etc.",
-      submit: "Find Flights",
-      privacyNote:
-        "Your personal details are secure and used only for booking assistance.",
-
-      // FAQ
-      faqTitle: "Flight Booking FAQs",
-      faqDesc: "Frequently asked questions about our flight booking services.",
-      faq1Question:
-        "Can you assist with infant seats, pets, or sports equipment?",
-      faq1Answer:
-        "Yes. Airline policies vary, but we guide you through adding infant services, extra baggage, sports equipment, or pets where permitted. We clearly explain costs and limitations before booking.",
-      faq2Question:
-        "Can airport pickup or drop-off be arranged with flight bookings?",
-      faq2Answer:
-        "Absolutely. Airport transfers can be arranged as an add-on or bundled into a complete travel package for a seamless experience.",
-      faq3Question: "What are the cancellation, change, or refund policies?",
-      faq3Answer:
-        "Policies are governed by airline fare rules. We explain these upfront and assist you with changes, cancellations, or refunds as per the ticket conditions.",
-      faq4Question:
-        "What support do you provide during delays or cancellations?",
-      faq4Answer:
-        "In case of disruptions, we help you understand airline options, rebook flights where possible, and guide you through next steps to minimize inconvenience.",
-
-      metadata: {
-        title: "Flight Booking - Global Tourist Centre",
-        description:
-          "Book domestic and international flights with expert support, transparent pricing, and end-to-end assistance.",
-      },
-    },
-    groupTrip: {
-      heroTitle: "Group Tours & Packages",
-      aboutTitle: "Travel Together, Save Together",
-      aboutDesc:
-        "Our group tour solutions are designed to deliver scale advantages, seamless coordination, and memorable shared experiences. Whether you are traveling with family, friends, educational institutions, or corporate teams, we structure group itineraries that optimize cost, time, and comfort—while preserving flexibility and personalization.",
-
-      benefitsTitle: "Benefits of Group Travel:",
-      benefit1: "Lower per-person costs through negotiated group rates",
-      benefit2: "Dedicated tour manager for on-ground coordination",
-      benefit3: "Structured itineraries with built-in flexibility",
-      benefit4: "Shared experiences with like-minded travelers",
-      benefit5: "End-to-end logistics management",
-      benefit6: "Enhanced safety, support, and accountability",
-
-      servicesTitle: "Our Group Travel Services Include:",
-      service1: "Customized domestic and international group itineraries",
-      service2: "Group airfare negotiation and ticketing",
-      service3: "Hotel, resort, and group accommodation management",
-      service4: "Visa coordination for all group members",
-      service5: "Private transfers, sightseeing, and activities",
-      service6: "Tour manager and local guide support",
-
-      processTitle: "Our Group Tour Planning Process",
-      processDesc:
-        "Our structured planning approach ensures clarity, cost control, and smooth execution from inquiry to return.",
-      step1Title: "Step 1: Group Requirement Discovery",
-      step1Desc:
-        "We assess group size, destination preferences, budget range, travel dates, and special requirements to define the scope of the trip.",
-      step2Title: "Step 2: Itinerary & Cost Optimization",
-      step2Desc:
-        "Our team designs a day-wise itinerary, negotiates group rates, and shares a transparent cost breakup for review.",
-      step3Title: "Step 3: Confirmation & Bookings",
-      step3Desc:
-        "Once approved, we secure flights, hotels, visas, and activities while collecting the initial deposit to lock in services.",
-      step4Title: "Step 4: Tour Execution & Support",
-      step4Desc:
-        "A dedicated tour manager oversees the trip, manages timelines, and handles on-ground coordination to ensure a smooth experience.",
-
-      // Form Section
-      formTitle: "Request a Group Tour Proposal",
-      formDesc:
-        "Share your group details and our travel specialists will contact you within 24 hours.",
-      formHeader: "Plan Your Group Trip",
-      formSubtitle:
-        "Submit your requirements and receive a customized proposal",
-      groupOrganizerName: "Group Organizer Name*",
-      namePlaceholder: "Full name",
-      phoneNumber: "Phone Number*",
-      phonePlaceholder: "Phone number with country code",
-      groupType: "Group Type*",
-      groupTypePlaceholder: "Family / Friends / Corporate / Educational",
-      groupSize: "Approximate Group Size*",
-      groupSizePlaceholder: "Minimum 8 travelers",
-      destination: "Destination(s) of Interest*",
-      destinationPlaceholder: "Preferred destination(s)",
-      startDate: "Preferred Start Date",
-      startDatePlaceholder: "dd/mm/yyyy",
-      tripDuration: "Trip Duration (Days)",
-      tripDurationPlaceholder: "Number of days",
-      budget: "Approximate Budget (per person)",
-      budgetPlaceholder: "Estimated budget range",
-      interests: "Group Interests / Activities",
-      interestsPlaceholder:
-        "Adventure, leisure, sightseeing, culture, team bonding, etc.",
-      submit: "Request Group Proposal",
-      privacyFooter:
-        "Your information is secure and will be used only for trip planning.",
-
-      // FAQ
-      faqTitle: "Group Tour FAQs",
-      faqDesc: "Frequently asked questions about our group travel services.",
-      faq1Question: "What is the minimum and maximum group size you support?",
-      faq1Answer:
-        "Most group tours operate efficiently between 8 and 25 travelers. Larger groups can also be accommodated with additional planning and resources based on destination and itinerary complexity.",
-      faq2Question:
-        "How do you manage coordination and time discipline during the trip?",
-      faq2Answer:
-        "Each tour follows a clearly defined schedule and is supported by a tour manager and local partners. This ensures smooth transitions, timely departures, and minimal delays.",
-      faq3Question:
-        "Do you handle flights, hotels, and visas for the entire group?",
-      faq3Answer:
-        "Yes. We manage the complete travel stack—including flights, accommodations, visas, transfers, and activities—under a single, unified itinerary.",
-      faq4Question: "What payment structure applies to group bookings?",
-      faq4Answer:
-        "Typically, a 25% deposit is required to confirm the group booking, with the remaining balance due 30–45 days prior to departure. Flexible installment plans may be arranged for larger or customized groups.",
-
-      metadata: {
-        title: "Group Tours - Global Tourist Centre",
-        description:
-          "End-to-end group tour solutions for families, friends, corporate teams, and institutions with expert planning and execution.",
-      },
-    },
-    // Common form labels
-    form: {
-      yourName: "Your Name*",
-      namePlaceholder: "Full name",
-      email: "Posta elettronica*",
-      emailPlaceholder: "Your email address",
-      phone: "Phone Number*",
-      phonePlaceholder: "Your phone number",
-      destination: "Preferred Destination",
-      destinationPlaceholder: "Where would you like to go?",
-      dates: "Travel Dates",
-      travelers: "Number of Travelers",
-      budget: "Budget Range",
-      message: "Additional Requirements",
-      messagePlaceholder: "Tell us more about your preferences...",
-      submit: "Submit Request",
-      submitting: "Submitting...",
-    },
-
-    domesticInternational: {
-      hero: {
-        title: "Domestic & International Tour Packages",
-        subtitle:
-          "Curated travel experiences across India and the world, designed for comfort, value, and authenticity.",
-      },
-
-      about: {
-        title: "Explore the World With Us",
-        description:
-          "From India’s cultural heartlands to the world’s most iconic international destinations, we design travel experiences that balance discovery, comfort, and seamless execution. Every itinerary is crafted around your interests, pace, and budget—backed by local expertise and end-to-end support.",
-        whyTitle: "Why Choose Our Packages:",
-        points: [
-          "Expertly curated itineraries with authentic local experiences",
-          "Dedicated support before, during, and after your trip",
-          "Transparent pricing with no hidden charges",
-          "Flexible customization across destinations and durations",
-          "Hand-selected hotels, transport, and activity partners",
-        ],
-      },
-
-      services: {
-        title: "What Our Tour Packages Include",
-        items: [
-          "Destination research and itinerary planning",
-          "Hotel and resort accommodations",
-          "Private and shared transportation",
-          "Sightseeing and activity coordination",
-          "Local guides and on-ground assistance",
-          "Optional flights and visa assistance",
-        ],
-      },
-
-      process: {
-        title: "Our Tour Planning Process",
-        description:
-          "Our structured approach ensures clarity, cost control, and a smooth travel experience.",
-        step1Title: "Step 1: Requirement Discovery",
-        step1Desc:
-          "We understand your destination preferences, travel dates, group size, budget, and interests.",
-        step2Title: "Step 2: Itinerary Design",
-        step2Desc:
-          "A customized day-wise itinerary is created with accommodation options, activities, and transfers.",
-        step3Title: "Step 3: Review & Optimization",
-        step3Desc:
-          "You review the plan, request changes, and finalize the itinerary that best suits your needs.",
-        step4Title: "Step 4: Booking & Execution",
-        step4Desc:
-          "Once confirmed, we handle bookings, documentation, and provide detailed travel support.",
-      },
-
-      domestic: {
-        title: "Domestic Trips",
-        subtitle:
-          "Experience India’s diverse landscapes, cultures, and heritage through thoughtfully designed domestic tours.",
-        highlights: [
-          "Hill stations, beaches, deserts, and cultural circuits",
-          "Family, honeymoon, solo, and group-friendly itineraries",
-          "Short getaways and extended holiday options",
-        ],
-        viewMore: "View More Domestic Trips",
-      },
-
-      international: {
-        title: "International Trips",
-        subtitle:
-          "Explore iconic global destinations with carefully planned international tour packages.",
-        highlights: [
-          "Asia, Europe, Middle East, and island destinations",
-          "Visa-assisted and fully supported itineraries",
-          "Balanced schedules with sightseeing and leisure time",
-        ],
-        viewMore: "View More International Trips",
-      },
-
-      faq: {
-        title: "Frequently Asked Questions",
-        subtitle:
-          "Answers to common questions about our domestic and international tour packages.",
-        questions: [
-          {
-            question: "What documents are required at the time of booking?",
-            answer:
-              "A valid government-issued ID is required for domestic trips. For international travel, a valid passport is mandatory. Depending on the destination, additional documents such as visas or address proof may be required.",
-          },
-          {
-            question: "Do you provide visa assistance for international tours?",
-            answer:
-              "Yes. We guide you through the visa process, assist with documentation, and help ensure timely submission as per destination requirements.",
-          },
-          {
-            question:
-              "What happens if a service like a hotel stay or excursion is cancelled?",
-            answer:
-              "In case of service disruptions, we coordinate alternatives or provide refunds or credits as applicable, based on the situation and service provider policies.",
-          },
-          {
-            question:
-              "When should I arrive at the airport for domestic and international flights?",
-            answer:
-              "For domestic flights, arrive at least 2 hours before departure. For international flights, we recommend arriving 3–4 hours early to allow time for security and immigration.",
-          },
-        ],
-      },
-
-      metadata: {
-        title: "Domestic & International Tour Packages - Global Tourist Centre",
-        description:
-          "Discover curated domestic and international tour packages with personalized itineraries, trusted partners, and seamless travel support.",
-      },
+ servicePages : {
+  // Customize Trip Package
+  customizeTripPackage: {
+    heroTitle: "Pacchetti Viaggio Personalizzati",
+    aboutTitle: "Il Tuo Viaggio, a Modo Tuo",
+    aboutDesc:
+      "Crediamo che ogni viaggiatore sia unico e che la tua vacanza debba rispecchiare il tuo stile personale. I nostri pacchetti viaggio personalizzati sono progettati attorno ai tuoi interessi, al tuo budget e alle tue preferenze di viaggio. Che tu stia cercando avventura, relax, cultura o un mix di tutto, creeremo un itinerario perfetto per te.",
+    whyChooseTitle: "Perché Scegliere i Tour Personalizzati:",
+    benefit1: "Adattato ai tuoi interessi specifici e al tuo ritmo",
+    benefit2: "Date e durata flessibili",
+    benefit3: "Scelta di alloggi in linea con il tuo stile",
+    benefit4: "Attività ed esperienze personalizzate",
+    benefit5: "Guide locali esperte per esperienze autentiche",
+    benefit6: "Assistenza 24/7 durante il viaggio",
+    formTitle: "Crea la Tua Vacanza dei Sogni",
+    formDesc:
+      "Raccontaci le tue preferenze di viaggio e progetteremo un itinerario personalizzato solo per te.",
+    formHeader: "Iniziamo",
+    formSubtitle:
+      "Compila i dettagli qui sotto e ti contatteremo entro 24 ore",
+    // Form Specifics
+    travelDates: "Date di Viaggio Preferite",
+    datesPlaceholder: "Date flessibili o specifiche",
+    travelersLabel: "Numero di Viaggiatori*",
+    travelersPlaceholder: "Adulti e bambini",
+    durationLabel: "Durata del Viaggio*",
+    durationPlaceholder: "Seleziona la Durata",
+    duration3to5: "3-5 Giorni",
+    duration6to8: "6-8 Giorni",
+    duration9to12: "9-12 Giorni",
+    duration13plus: "13+ Giorni",
+    budgetLabel: "Budget Approssimativo (a persona)",
+    budgetPlaceholder: "Seleziona la Fascia di Budget",
+    budgetEconomy: "Economico (₹15.000 - ₹30.000)",
+    budgetMid: "Medio (₹30.000 - ₹60.000)",
+    budgetLuxury: "Lusso (₹60.000+)",
+    budgetFlexible: "Flessibile / Non so",
+    specialLabel: "Esigenze Particolari",
+    specialPlaceholder:
+      "Esigenze alimentari, requisiti di accessibilità, occasioni speciali, ecc.",
+    submitButton: "Ottieni un Itinerario Personalizzato",
+    privacyNote:
+      "Rispettiamo la tua privacy. Le tue informazioni non saranno condivise.",
+    // FAQ
+    faqTitle: "Domande Frequenti sui Tour Personalizzati",
+    faqSubtitle:
+      "Risposte alle domande più comuni sui nostri pacchetti viaggio personalizzati.",
+    faq1Question:
+      "Organizzate tour per famiglie, gruppi o viaggiatori solitari?",
+    faq1Answer:
+      "Progettiamo tour per tutti: famiglie, gruppi di amici, avventurieri solitari e chiunque ami viaggiare. Che si tratti di una vacanza rilassante, di un viaggio in solitaria o di un'avventura piena di spontaneità, rendiamo l'itinerario su misura per te.",
+    faq2Question: "Cosa è incluso in un pacchetto personalizzato?",
+    faq2Answer:
+      "Riceverai un itinerario progettato attorno a ciò che conta per te. Include destinazioni, alloggi, trasferimenti comodi e senza intoppi, guide locali e attività in linea con i tuoi interessi. Ci occupiamo dei dettagli affinché tu possa concentrarti solo sul godere del viaggio.",
+    faq3Question:
+      "Quanto tempo ci vuole di solito per progettare un viaggio personalizzato?",
+    faq3Answer:
+      "Miriamo a rendere la pianificazione fluida e tempestiva. Prima di tutto, un nostro esperto di viaggi ti contatterà per discutere le tue esigenze nel dettaglio. Creeremo quindi un itinerario preliminare per la tua revisione. Potrai richiedere modifiche finché l'itinerario non corrisponderà perfettamente alle tue aspettative. Una volta finalizzato, gestiremo tutte le prenotazioni e ti forniremo i documenti di viaggio dettagliati.",
+    faq4Question:
+      "Posso modificare un pacchetto standard invece di crearne uno nuovo?",
+    faq4Answer:
+      "Assolutamente sì. Il nostro servizio di pianificazione dell'itinerario è gratuito quando prenoti il tuo tour con noi. Tuttavia, per itinerari complessi che richiedono ricerche approfondite, potrebbe essere applicata una modesta commissione di pianificazione, interamente deducibile dall'importo finale della prenotazione.",
+    metadata: {
+      title: "Pacchetti Viaggio Personalizzati - Global Tourist Centre",
+      description:
+        "Esperienze di viaggio su misura progettate specificamente per le tue preferenze e necessità.",
     },
   },
+  // Visa Agent
+  visaAgent: {
+    heroTitle: "Servizi Visto e Documentazione",
+    aboutTitle: "Semplifica il Tuo Processo di Visto",
+    aboutDesc:
+      "Orientarsi tra i requisiti per il visto può essere complesso e dispendioso in termini di tempo. Il nostro servizio esperto di assistenza visto elimina lo stress dalla documentazione per i viaggi internazionali. Gestiamo tutto, dai moduli di domanda alla verifica dei documenti, garantendo un processo di visto fluido e di successo.",
+    servicesTitle: "I Nostri Servizi Visto Includono:",
+    service1: "Consulenza visto completa per tutti i paesi",
+    service2: "Checklist dei documenti e assistenza nella preparazione",
+    service3: "Compilazione e invio del modulo di domanda",
+    service4: "Programmazione degli appuntamenti con ambasciate/consolati",
+    service5: "Follow-up e monitoraggio dello stato",
+    service6: "Elaborazione rapida per pratiche urgenti",
+    processTitle: "Processo di Richiesta del Visto",
+    processDesc:
+      "Il nostro processo passo dopo passo garantisce che la tua domanda di visto sia gestita in modo professionale.",
+    step1Title: "Passo 1: Consulenza",
+    step1Desc:
+      "Valutiamo i tuoi piani di viaggio e forniamo informazioni dettagliate sui requisiti del visto, i tempi di elaborazione e le tariffe per la tua destinazione.",
+    step2Title: "Passo 2: Preparazione dei Documenti",
+    step2Desc:
+      "I nostri esperti ti guidano nella raccolta di tutti i documenti necessari, tra cui passaporto, fotografie, prove finanziarie e lettere di supporto.",
+    step3Title: "Passo 3: Invio della Domanda",
+    step3Desc:
+      "Compiliamo accuratamente tutti i moduli di domanda, fissiamo gli appuntamenti e inviamo la tua domanda al consolato o all'ambasciata competente.",
+    step4Title: "Passo 4: Monitoraggio e Ritiro",
+    step4Desc:
+      "Monitoriamo lo stato della tua domanda e ti teniamo aggiornato. Una volta approvata, coordiniamo il ritiro e la consegna del passaporto.",
+    // Form Specifics
+    formTitle: "Richiedi Assistenza per il Visto",
+    formDesc:
+      "Compila questo modulo e i nostri esperti di visto ti contatteranno entro 24 ore.",
+    fullNameLabel: "Nome Completo*",
+    fullNamePlaceholder: "Il tuo nome completo",
+    emailLabel: "Email*",
+    emailPlaceholder: "Il tuo indirizzo email",
+    phoneLabel: "Numero di Telefono*",
+    phonePlaceholder: "Numero di telefono",
+    destinationLabel: "Paese di Destinazione*",
+    destinationPlaceholder: "Seleziona il Paese",
+    visaTypeLabel: "Tipo di Visto*",
+    visaTypePlaceholder: "Seleziona il Tipo di Visto",
+    travelDateLabel: "Data di Viaggio Prevista*",
+    notesLabel: "Note Aggiuntive",
+    notesPlaceholder: "Eventuali requisiti speciali o note",
+    submitButton: "Invia Richiesta di Visto",
+    privacyNote:
+      "Rispettiamo la tua privacy. Le tue informazioni non saranno condivise.",
+    // FAQ
+    faqTitle: "Domande Frequenti sul Visto",
+    faqDesc: "Domande comuni sui nostri servizi di assistenza visto.",
+    faq1Question: "Assistete sia per i visti turistici che per quelli d'affari?",
+    faq1Answer:
+      "Sì, assistiamo per la documentazione sia dei visti turistici che di quelli d'affari. Guidiamo attraverso i moduli, aiutiamo a raccogliere la documentazione corretta e teniamo traccia di tutti i requisiti affinché nulla venga tralasciato.",
+    faq2Question:
+      "Quando dovrei iniziare il processo di visto prima della data di viaggio?",
+    faq2Answer:
+      "È consigliabile iniziare almeno qualche settimana prima. Alcuni paesi sono più veloci, altri richiedono più tempo. Avere del margine aiuta a evitare lo stress.",
+    faq3Question: "Offrite la prenotazione degli appuntamenti per i colloqui di visto?",
+    faq3Answer:
+      "Ti aiutiamo a capire dove andare e come prenotare. Le ambasciate o i consolati fissano gli orari disponibili e faremo tutto il possibile per indirizzarti nella giusta direzione in termini di documenti e preparazione.",
+    faq4Question:
+      "Posso prolungare il mio soggiorno all'estero se il mio visto consente più giorni di quelli pianificati?",
+    faq4Answer:
+      "Dipenderà dalle norme del tuo paese di destinazione. Alcuni paesi ti permettono di prolungare il soggiorno se il tuo visto lo copre o se fai domanda di proroga localmente.",
+    metadata: {
+      title: "Visto e Documentazione - Global Tourist Centre",
+      description:
+        "Assistenza completa per visti e documentazione per viaggi internazionali senza problemi.",
+    },
+  },
+  // Hotel Booking
+  hotelBooking: {
+    heroTitle: "Servizi di Prenotazione Hotel",
+    aboutTitle: "Trova il Tuo Soggiorno Perfetto",
+    aboutDesc:
+      "Collaboriamo con hotel di tutto il mondo per offrirti i migliori alloggi a prezzi competitivi. Che tu stia cercando un soggiorno economico, un hotel boutique o un resort di lusso, abbiamo soluzioni per ogni preferenza e budget. La nostra competenza locale garantisce le migliori posizioni e servizi per le tue esigenze di viaggio.",
+    whyBookTitle: "Perché Prenotare Con Noi:",
+    benefit1: "Accesso a tariffe esclusive e offerte speciali",
+    benefit2: "Recensioni verificate e raccomandazioni personali",
+    benefit3: "Assistenza clienti 24/7 per qualsiasi problema",
+    benefit4: "Politiche di cancellazione flessibili",
+    benefit5: "Pacchetti con voli e attività",
+    benefit6: "Servizio personalizzato da esperti alberghieri",
+    formTitle: "Richiesta di Prenotazione Hotel",
+    formDesc:
+      "Compila questo modulo e troveremo l'hotel perfetto per il tuo soggiorno.",
+    formHeader: "Troviamo il Tuo Soggiorno Perfetto",
+    formSubtitle:
+      "Compila i dettagli qui sotto e ti contatteremo entro 24 ore",
+    yourName: "Il Tuo Nome*",
+    namePlaceholder: "Nome completo",
+    email: "Email*",
+    emailPlaceholder: "Il tuo indirizzo email",
+    phone: "Numero di Telefono*",
+    phonePlaceholder: "Numero di telefono con prefisso internazionale",
+    destination: "Città/Destinazione*",
+    destinationPlaceholder: "Dove vuoi soggiornare?",
+    checkIn: "Data di Check-in*",
+    checkOut: "Data di Check-out*",
+    guests: "Numero di Ospiti*",
+    guestsPlaceholder: "Adulti",
+    rooms: "Numero di Camere*",
+    roomsPlaceholder: "Camere necessarie",
+    category: "Categoria Hotel Preferita",
+    categoryPlaceholder: "Qualsiasi Categoria",
+    budget: "Budget Approssimativo (per notte)",
+    budgetPlaceholder: "La tua fascia di budget",
+    message: "Richieste Speciali",
+    messagePlaceholder: "Preferenze camera, esigenze di accessibilità, ecc.",
+    submit: "Cerca Hotel",
+    // FAQ
+    faqTitle: "Domande Frequenti sulla Prenotazione Hotel",
+    faqDesc: "Domande comuni sui nostri servizi di prenotazione hotel.",
+    faq1Question:
+      "Offrite prenotazioni alberghiere sia nazionali che internazionali?",
+    faq1Answer:
+      "Assolutamente sì. Collaboriamo con hotel di tutto il mondo per offrirti i migliori alloggi a prezzi competitivi. Che tu stia cercando un soggiorno economico, un hotel boutique o un resort di lusso, abbiamo soluzioni per ogni preferenza e budget.",
+    faq2Question:
+      "Potete prenotare hotel come parte di un pacchetto viaggio completo o solo soggiorni singoli?",
+    faq2Answer:
+      "Possiamo fare entrambe le cose. Puoi richiedere una prenotazione singola oppure farci prenotare l'hotel come parte del tuo pacchetto completo con voli, trasferimenti e attività. Qualunque cosa tu abbia bisogno, ci occupiamo noi dei dettagli.",
+    faq3Question: "Posso modificare o cancellare la mia prenotazione hotel?",
+    faq3Answer:
+      "Le politiche di modifica e cancellazione variano a seconda dell'hotel. La maggior parte delle prenotazioni può essere modificata o cancellata gratuitamente fino a 24-48 ore prima del check-in. Alcune tariffe speciali potrebbero avere politiche diverse. L'email di conferma specificherà la politica di cancellazione per la tua prenotazione.",
+    faq4Question:
+      "Posso prenotare più hotel in città diverse con un unico itinerario?",
+    faq4Answer:
+      "Certamente. Ad esempio, se il tuo viaggio ti porta da Mumbai al Sikkim fino alle Andamane, prenoteremo ogni hotel per le notti corrette durante il tuo viaggio. Siamo qui per rendere i tuoi spostamenti impeccabili, anche se vuoi cambiare i piani o aggiungere una tappa in seguito.",
+    metadata: {
+      title: "Prenotazione Hotel - Global Tourist Centre",
+      description:
+        "Prenota l'hotel perfetto per il tuo soggiorno con la nostra ampia selezione di strutture ricettive in tutto il mondo.",
+    },
+  },
+  // Flight Booking
+  flightBooking: {
+    heroTitle: "Servizi di Prenotazione Voli",
+    aboutTitle: "Vola con Facilità",
+    aboutDesc:
+      "Come agente di prenotazione voli autorizzato, offriamo accesso a tariffe aeree competitive su tutte le principali compagnie aeree. Che tu abbia bisogno di voli nazionali in India o di connessioni internazionali in tutto il mondo, il nostro team esperto troverà per te i migliori percorsi e prezzi. Gestiamo tutto, dai semplici biglietti di sola andata agli itinerari complessi in più città.",
+    servicesTitle: "I Nostri Servizi di Volo Includono:",
+    service1: "Prenotazioni di voli nazionali e internazionali",
+    service2: "Itinerari multi-città e di andata e ritorno",
+    service3: "Selezione del posto e preferenze pasto",
+    service4: "Assistenza per cambi e cancellazioni di voli",
+    service5: "Sconti per prenotazioni di gruppo",
+    service6: "Assistenza alla prenotazione 24/7",
+    formTitle: "Richiesta di Prenotazione Volo",
+    formDesc:
+      "Fornisci i tuoi dettagli di viaggio e troveremo le migliori opzioni di volo per te.",
+    formHeader: "Iniziamo",
+    formSubtitle:
+      "Compila i dettagli qui sotto e ti contatteremo entro 24 ore",
+    yourName: "Il Tuo Nome*",
+    namePlaceholder: "Nome completo",
+    email: "Email*",
+    emailPlaceholder: "Il tuo indirizzo email",
+    phone: "Numero di Telefono*",
+    phonePlaceholder: "Numero di telefono con prefisso internazionale",
+    tripType: "Tipo di Viaggio*",
+    tripTypePlaceholder: "Seleziona il Tipo di Viaggio",
+    from: "Da (Città/Aeroporto)*",
+    fromPlaceholder: "Città di partenza",
+    to: "A (Città/Aeroporto)*",
+    toPlaceholder: "Città di destinazione",
+    departureDate: "Data di Partenza*",
+    returnDate: "Data di Ritorno",
+    adults: "Adulti (12+ anni)*",
+    children: "Bambini (2-11 anni)",
+    infants: "Neonati (<2 anni)",
+    preferredClass: "Classe Preferita*",
+    preferredClassPlaceholder: "Economy",
+    preferredAirlines: "Compagnie Aeree Preferite",
+    preferredAirlinesPlaceholder: "Compagnie aeree specifiche?",
+    message: "Richieste Speciali",
+    messagePlaceholder: "Preferenze posto, esigenze pasto, ecc.",
+    submit: "Cerca Voli",
+    // FAQ
+    faqTitle: "Domande Frequenti sulla Prenotazione Voli",
+    faqDesc: "Domande comuni sui nostri servizi di prenotazione voli.",
+    faq1Question:
+      "Potete aggiungere seggiolino per neonati/bambini, animale domestico o attrezzatura sportiva alla mia prenotazione?",
+    faq1Answer:
+      "Possiamo guidarti su come includere articoli speciali come seggiolini per neonati o attrezzature sportive. Molte compagnie aeree consentono di aggiungerli tramite servizi aggiuntivi al momento della prenotazione. Per gli animali domestici dipende dalle regole della compagnia aerea. Ti informeremo su cosa è consentito e come includerlo quando prenoti.",
+    faq2Question:
+      "Potete coordinare il trasferimento aeroportuale di arrivo o partenza insieme ai voli?",
+    faq2Answer:
+      "Sì, ce ne occupiamo noi. Puoi chiederci di organizzare un trasferimento di arrivo o di partenza nella tua destinazione come parte del tuo itinerario.",
+    faq3Question:
+      "Qual è la politica di cancellazione, modifica o rimborso per le prenotazioni?",
+    faq3Answer:
+      "Tutto è stabilito dalla compagnia aerea o dalle condizioni del biglietto. Siamo qui per aiutarti con le opzioni disponibili in modo che tu possa scegliere la soluzione più adatta, che tu debba spostare le date o cancellare del tutto.",
+    faq4Question:
+      "Che tipo di assistenza offrite in caso di ritardo o cancellazione del mio volo?",
+    faq4Answer:
+      "Quando si verificano ritardi o cancellazioni, siamo qui per aiutarti. Puoi contattarci e ti guideremo su cosa fare dopo. Potrebbe trattarsi di una nuova prenotazione, di assistenza in aeroporto o di voli alternativi. Ti aiutiamo a mantenere la calma e ad andare avanti.",
+    metadata: {
+      title: "Prenotazione Voli - Global Tourist Centre",
+      description:
+        "Prenota voli nazionali e internazionali a tariffe competitive con i nostri servizi esperti di prenotazione voli.",
+    },
+  },
+  // Group Trip
+  groupTrip: {
+    heroTitle: "Tour e Pacchetti di Gruppo",
+    aboutTitle: "Viaggiare Insieme, Risparmiare Insieme",
+    aboutDesc:
+      "I nostri tour di gruppo offrono il perfetto equilibrio tra connessione sociale, comodità e convenienza. Che tu stia viaggiando con la famiglia, gli amici o i colleghi, i nostri itinerari di gruppo pianificati da esperti si occupano di tutti i dettagli affinché tu possa concentrarti sul godere il viaggio insieme. Con sconti speciali per gruppi e tour manager dedicati, vivrai esperienze più ricche spendendo meno.",
+    benefitsTitle: "Vantaggi del Viaggio di Gruppo:",
+    benefit1: "Risparmi significativi con sconti di gruppo",
+    benefit2: "Tour manager professionista per tutta la durata",
+    benefit3: "Itinerari pre-pianificati con flessibilità",
+    benefit4: "Incontra viaggiatori con interessi simili",
+    benefit5: "Logistica e trasferimenti senza pensieri",
+    benefit6: "Attività di gruppo ed esperienze di condivisione",
+    formTitle: "Iniziamo",
+    formDesc:
+      "Compila i dettagli qui sotto e ti contatteremo entro 24 ore",
+    formHeader: "Iniziamo",
+    formSubtitle:
+      "Compila i dettagli qui sotto e ti contatteremo entro 24 ore",
+    groupOrganizerName: "Nome dell'Organizzatore del Gruppo*",
+    namePlaceholder: "Nome completo",
+    phoneNumber: "Numero di Telefono*",
+    phonePlaceholder: "Numero di telefono con prefisso internazionale",
+    groupType: "Tipo di Gruppo*",
+    groupTypePlaceholder: "Seleziona il Tipo di Gruppo",
+    groupSize: "Dimensione Approssimativa del Gruppo*",
+    groupSizePlaceholder: "Minimo 8 persone",
+    destination: "Destinazione/i di Interesse*",
+    destinationPlaceholder: "Dove vuole andare il tuo gruppo?",
+    startDate: "Data di Inizio Preferita",
+    startDatePlaceholder: "gg/mm/aaaa",
+    tripDuration: "Durata del Viaggio (Giorni)",
+    tripDurationPlaceholder: "Numero di giorni",
+    budget: "Budget Approssimativo (a persona)",
+    budgetPlaceholder: "La tua fascia di budget",
+    interests: "Interessi/Attività del Gruppo",
+    interestsPlaceholder:
+      "Che tipo di esperienze interessa al tuo gruppo?",
+    submit: "Richiedi Proposta per il Gruppo",
+    privacyFooter:
+      "Rispettiamo la tua privacy. Le tue informazioni non saranno condivise.",
+    // FAQ
+    faqTitle: "Domande Frequenti sui Tour di Gruppo",
+    faqDesc: "Domande comuni sui nostri servizi di viaggio di gruppo.",
+    faq1Question:
+      "Qual è la dimensione minima e massima del gruppo per i vostri tour nazionali e internazionali?",
+    faq1Answer:
+      "La maggior parte dei nostri tour è progettata per piccoli gruppi, spesso tra sei e dodici viaggiatori alla volta. Su richiesta possiamo aumentare il numero, a seconda dello stile del viaggio e del livello di comfort desiderato.",
+    faq2Question:
+      "Come garantite una coordinazione fluida e una buona gestione dei tempi durante un viaggio di gruppo?",
+    faq2Answer:
+      "Pianifichiamo ogni giornata con orari precisi, trasporti confortevoli e guide locali fidate che conoscono bene il territorio. Assicuriamo anche di restare in contatto durante il viaggio, affinché nulla vada fuori controllo e tu possa sempre guardare con entusiasmo a ciò che viene dopo.",
+    faq3Question:
+      "Potete organizzare visto, volo e prenotazioni alberghiere per tutti i membri del gruppo?",
+    faq3Answer:
+      "Sì, gestiamo tutto dall'inizio alla fine per il tuo gruppo. Una volta raccolti i dettagli di tutti, ci occupiamo di voli, alloggi, visti, trasferimenti e li integriamo in un unico itinerario coerente. Voi viaggiate rilassati e sereni con il vostro gruppo mentre noi coordiniamo la logistica.",
+    faq4Question:
+      "Quali piani di pagamento o opzioni a rate offrite per le prenotazioni di tour di gruppo?",
+    faq4Answer:
+      "Per le prenotazioni di gruppo, in genere richiediamo un deposito del 25% per confermare le prenotazioni, con il saldo dovuto 30-45 giorni prima della partenza. Per gruppi molto numerosi o itinerari complessi, possiamo concordare un piano di pagamento con più rate. Possiamo anche gestire pagamenti individuali da parte dei singoli membri del gruppo, se preferito.",
+    metadata: {
+      title: "Tour di Gruppo - Global Tourist Centre",
+      description:
+        "Tour di gruppo organizzati per famiglie, amici e team aziendali con guide esperte e logistica impeccabile.",
+    },
+  },
+  // Common form labels
+  form: {
+    yourName: "Il Tuo Nome*",
+    namePlaceholder: "Nome completo",
+    email: "Email*",
+    emailPlaceholder: "Il tuo indirizzo email",
+    phone: "Numero di Telefono*",
+    phonePlaceholder: "Il tuo numero di telefono",
+    destination: "Destinazione Preferita",
+    destinationPlaceholder: "Dove vorresti andare?",
+    dates: "Date di Viaggio",
+    travelers: "Numero di Viaggiatori",
+    budget: "Fascia di Budget",
+    message: "Requisiti Aggiuntivi",
+    messagePlaceholder: "Raccontaci di più sulle tue preferenze...",
+    submit: "Invia Richiesta",
+    submitting: "Invio in corso...",
+  },
+  domesticInternational: {
+    hero: {
+      title: "Pacchetti Tour Nazionali e Internazionali",
+    },
+    about: {
+      title: "Esplora il Mondo Con Noi",
+      description:
+        "Che tu voglia scoprire le gemme nascoste dell'India o avventurarti in destinazioni internazionali esotiche, creiamo itinerari personalizzati che si adattano al tuo stile di viaggio e alle tue preferenze. I nostri pacchetti tour nazionali e internazionali sono progettati per offrire esperienze autentiche, alloggi confortevoli e una logistica impeccabile.",
+      whyTitle: "Perché Scegliere i Nostri Pacchetti:",
+      points: [
+        "Itinerari accuratamente curati con esperienze locali",
+        "Guide esperte e assistenza 24/7 durante il tuo viaggio",
+        "Prezzi competitivi senza costi nascosti",
+        "Opzioni di personalizzazione flessibili",
+        "Alloggi e trasporti selezionati con cura",
+      ],
+    },
+    domestic: {
+      title: "Viaggi Nazionali",
+      subtitle:
+        "Esplora la bellezza variegata dell'India con le nostre destinazioni nazionali selezionate.",
+      viewMore: "Scopri Altri Viaggi Nazionali",
+    },
+    international: {
+      title: "Viaggi Internazionali",
+      subtitle:
+        "Scopri destinazioni esotiche in tutto il mondo con i nostri pacchetti tour internazionali.",
+      viewMore: "Scopri Altri Viaggi Internazionali",
+    },
+    faq: {
+      title: "Domande Frequenti",
+      subtitle:
+        "Trova risposte alle domande più comuni sui nostri tour nazionali e internazionali.",
+      questions: [
+        {
+          question:
+            "Quali documenti sono necessari al momento della prenotazione?",
+          answer:
+            "Avremo bisogno di un passaporto valido e di un documento d'identità rilasciato dal governo per avviare la prenotazione. A seconda della destinazione e dei requisiti della compagnia aerea, potremmo richiedere ulteriore documentazione come la carta Aadhaar o una copia dei tuoi documenti di viaggio.",
+        },
+        {
+          question:
+            "Offrite assistenza o servizi di elaborazione del visto?",
+          answer:
+            "Sì, il nostro team ti guiderà attraverso il processo, ti aiuterà con la documentazione necessaria e si assicurerà che tutto sia in ordine prima dell'invio.",
+        },
+        {
+          question:
+            "Qual è la vostra politica per rimborsi/indennizzi in caso di mancata prestazione del servizio (notti hotel mancate, escursioni cancellate)?",
+          answer:
+            "Se una notte in hotel viene persa o un'escursione viene cancellata a causa di problemi del servizio, interveniamo per risolvere la situazione. A seconda delle circostanze, potrebbe essere offerto un rimborso o un credito di viaggio.",
+        },
+        {
+          question:
+            "Devo arrivare in aeroporto prima per i voli internazionali rispetto a quelli nazionali?",
+          answer:
+            "Per i voli nazionali, arriva all'aeroporto 2 ore prima. Per i voli internazionali, arriva 3-4 ore prima per gestire senza stress sicurezza e immigrazione.",
+        },
+      ],
+    },
+    metadata: {
+      title:
+        "Pacchetti Tour Nazionali e Internazionali - Global Tourist Centre",
+      description:
+        "Esplora i nostri pacchetti tour nazionali e internazionali curati per esperienze di viaggio indimenticabili.",
+    },
+  },
+},
   testimonials: {
     title: "Testimonianze dei viaggiatori",
     subtitle:
@@ -1206,7 +1095,7 @@ export const it = {
     julyDate: "Luglio 2025",
     juneDate: "Giugno 2025",
     // Author
-    globalTeam: "Team Global Tourist Centre",
+    globalTeam: "Squadra Global Tourist Centre",
     // Andaman Post
     andamanTitle:
       "Scatta, Cattura e Rilassati: I Luoghi Più Instagrammabili delle Andamane",

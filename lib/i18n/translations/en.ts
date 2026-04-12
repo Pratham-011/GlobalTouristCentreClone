@@ -1395,7 +1395,7 @@ export const en = {
   },
   // FAQ
   faq: {
-    q1: "How do I book a tour with Global Tourist Center?",
+    q1: "How do I book a tour with Global Tourist Centre?",
     a1: "You can book a tour by contacting us through our website, phone, or email. Our travel consultants will help you plan and book your perfect trip.",
     q2: "What payment methods do you accept?",
     a2: "We accept various payment methods including credit/debit cards, bank transfers, and UPI payments for your convenience.",
