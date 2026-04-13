@@ -87,65 +87,32 @@ export function CookieBanner() {
       {/* ── Cookie Consent Banner ── */}
       {isVisible && (
         <div
-          className="fixed z-50 bottom-3 left-3 right-3 sm:bottom-6 sm:left-1/2 sm:-translate-x-1/2 sm:w-full sm:max-w-2xl rounded-xl px-8 py-6"
+          className="fixed z-50 bottom-4 left-4 right-4 sm:bottom-8 sm:left-8 sm:right-auto sm:w-[380px] rounded-2xl p-8"
           style={{
             backgroundColor: "#ebe3e1",
             border: "1.5px solid #a6b8bc",
-            borderTop: "3px solid #008081",
-            boxShadow: "0 8px 32px rgba(0,0,0,0.15)",
+            borderTop: "5px solid #008081",
+            boxShadow: "0 15px 50px rgba(0,0,0,0.18)",
           }}
         >
+          {/* ── Title (Optional but adds to "Window" feel) ── */}
+          <h3 className="text-xl font-bold mb-3" style={{ color: "#064965" }}>
+            {t.cookies?.modal?.title || "Cookie Settings"}
+          </h3>
+
           {/* ── Description ── */}
           <p
-            className="leading-[1.6]"
-            style={{ fontSize: "14px", color: "#000000" }}
+            className="leading-relaxed"
+            style={{ fontSize: "14px", color: "#333333" }}
           >
             {t.cookies.banner.description}
           </p>
 
-          {/* ── Desktop buttons: right-aligned row ── */}
-          <div className="hidden sm:flex justify-end gap-3 mt-4">
-            <button
-              onClick={() => setIsModalOpen(true)}
-              className="px-5 py-2.5 rounded-md text-sm font-semibold transition-all duration-200 bg-transparent"
-              style={{
-                border: "2px solid #064965",
-                color: "#064965",
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.backgroundColor = "#064965";
-                e.currentTarget.style.color = "#ffffff";
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.backgroundColor = "transparent";
-                e.currentTarget.style.color = "#064965";
-              }}
-            >
-              {t.cookies.banner.settings}
-            </button>
-
-            <button
-              onClick={handleRejectAll}
-              className="px-5 py-2.5 rounded-md text-sm font-semibold transition-all duration-200 bg-transparent"
-              style={{
-                border: "2px solid #008081",
-                color: "#008081",
-              }}
-              onMouseEnter={(e) => {
-                e.currentTarget.style.backgroundColor = "#008081";
-                e.currentTarget.style.color = "#ffffff";
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.style.backgroundColor = "transparent";
-                e.currentTarget.style.color = "#008081";
-              }}
-            >
-              {t.cookies.banner.rejectAll}
-            </button>
-
+          {/* ── Buttons Layout ── */}
+          <div className="flex flex-col gap-3 mt-8">
             <button
               onClick={handleAcceptAll}
-              className="px-5 py-2.5 rounded-md text-sm font-bold transition-all duration-200 hover:brightness-90"
+              className="w-full py-3.5 rounded-xl text-sm font-bold transition-all duration-300 hover:brightness-110 active:scale-[0.98] shadow-md"
               style={{
                 backgroundColor: "#d8972f",
                 color: "#000000",
@@ -153,42 +120,20 @@ export function CookieBanner() {
             >
               {t.cookies.banner.acceptAll}
             </button>
-          </div>
-
-          {/* ── Mobile buttons: stacked full-width ── */}
-          <div className="flex flex-col gap-2 mt-4 sm:hidden">
-            <button
-              onClick={handleAcceptAll}
-              className="w-full px-5 py-2.5 rounded-md text-sm font-bold transition-all duration-200 hover:brightness-90"
-              style={{
-                backgroundColor: "#d8972f",
-                color: "#000000",
-              }}
-            >
-              {t.cookies.banner.acceptAll}
-            </button>
-
-            <button
-              onClick={handleRejectAll}
-              className="w-full px-5 py-2.5 rounded-md text-sm font-semibold transition-all duration-200 bg-transparent"
-              style={{
-                border: "2px solid #008081",
-                color: "#008081",
-              }}
-            >
-              {t.cookies.banner.rejectAll}
-            </button>
-
-            <button
-              onClick={() => setIsModalOpen(true)}
-              className="w-full px-5 py-2.5 rounded-md text-sm font-semibold transition-all duration-200 bg-transparent"
-              style={{
-                border: "2px solid #064965",
-                color: "#064965",
-              }}
-            >
-              {t.cookies.banner.settings}
-            </button>
+            <div className="grid grid-cols-2 gap-3">
+              <button
+                onClick={handleRejectAll}
+                className="px-4 py-3 rounded-xl text-sm font-semibold transition-all duration-300 bg-transparent border-2 border-[#008081] text-[#008081] hover:bg-[#008081] hover:text-white active:scale-[0.98]"
+              >
+                {t.cookies.banner.rejectAll}
+              </button>
+              <button
+                onClick={() => setIsModalOpen(true)}
+                className="px-4 py-3 rounded-xl text-sm font-semibold transition-all duration-300 bg-transparent border-2 border-[#064965] text-[#064965] hover:bg-[#064965] hover:text-white active:scale-[0.98]"
+              >
+                {t.cookies.banner.settings}
+              </button>
+            </div>
           </div>
         </div>
       )}
