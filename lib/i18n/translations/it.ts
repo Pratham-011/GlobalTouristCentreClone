@@ -1358,7 +1358,7 @@ export const it = {
           "Un mix perfetto di lusso urbano e serenità delle località collinari nell'India meridionale.",
       },
       "mahraja-train-tour-package": {
-        "title": "Maharaja's Express",
+        "title": "Espresso del Maharaja",
         "description": "Un'odissea reale su rotaia tra gli iconici forti del Rajasthan, i parchi naturali e le città lacustri a bordo del leggendario Maharajas' Express."
       }
     },
