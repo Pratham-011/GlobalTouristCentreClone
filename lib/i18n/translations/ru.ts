@@ -13817,7 +13817,7 @@ export const ru = {
       accommodations: [
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Rambagh Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Rambagh Palace.webp",
             alt: "Rambagh Palace",
           },
           name: "Rambagh Palace",
@@ -13828,7 +13828,7 @@ export const ru = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Jai Mahal Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Jai Mahal Palace.webp",
             alt: "Jai Mahal Palace",
           },
           name: "Jai Mahal Palace",
@@ -13839,7 +13839,7 @@ export const ru = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
+            src: "/assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
             alt: "Oberoi Udaivilas",
           },
           name: "Oberoi Udaivilas",
@@ -13850,7 +13850,7 @@ export const ru = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Taj Lake Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Taj Lake Palace.webp",
             alt: "Taj Lake Palace",
           },
           name: "Taj Lake Palace",

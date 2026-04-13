@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import { useI18n } from "@/lib/i18n/context";
+import Link from "next/link";
 
 const WHATSAPP_NUMBER = "919067972295";
 
@@ -117,22 +118,21 @@ Phone: ${formData.phone}
               >
                 {t.form.submit}sitema
               </button>
-
-              <p className="text-center text-xs text-slate-500 mt-4">
+            <p className="text-center text-xs text-slate-500 mt-4">
                 {t.form.privacyNote}{" "}
-                <a
-                  href={`${locale}/legal/privacy-policy`}
+                <Link
+                  href={`/${locale}/legal/privacy-policy`}
                   className="text-teal-600 hover:underline"
                 >
                   {t.form.privacyPolicy}
-                </a>{" "}
+                </Link>{" "}
                 {t.form.and}{" "}
-                <a
-                  href={`${locale}/legal/terms-and-conditions`}
+                <Link
+                  href={`/${locale}/legal/terms-and-conditions`}
                   className="text-teal-600 hover:underline"
                 >
                   {t.form.termsOfUse}
-                </a>
+                </Link>
               </p>
             </form>
           </div>

@@ -879,7 +879,7 @@ export const de = {
     pricing: "Wettbewerbsfähige Preise",
     pricingDesc:
       "Direkte Partnerschaften garantieren das beste Preis-Leistungs-Verhältnis.",
-    support: "24/7 Support",
+    support: "24/7 Unterstützung",
     supportDesc:
       "Rund-um-die-Uhr-Unterstützung während Ihrer Reisen für völlige Sorglosigkeit.",
     localExpertise: "Lokale Expertise",
@@ -14162,7 +14162,7 @@ export const de = {
       accommodations: [
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Rambagh Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Rambagh Palace.webp",
             alt: "Rambagh Palace",
           },
           name: "Rambagh Palace",
@@ -14173,7 +14173,7 @@ export const de = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Jai Mahal Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Jai Mahal Palace.webp",
             alt: "Jai Mahal Palace",
           },
           name: "Jai Mahal Palace",
@@ -14184,7 +14184,7 @@ export const de = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
+            src: "/assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
             alt: "Oberoi Udaivilas",
           },
           name: "Oberoi Udaivilas",
@@ -14195,7 +14195,7 @@ export const de = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Taj Lake Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Taj Lake Palace.webp",
             alt: "Taj Lake Palace",
           },
           name: "Taj Lake Palace",

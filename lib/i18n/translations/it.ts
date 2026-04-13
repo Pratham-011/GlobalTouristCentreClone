@@ -13393,426 +13393,7 @@ export const it = {
         },
       ],
     },
-    "4n-5d-rajasthan-luxury-package": {
-      file_name: "4n-5d-rajasthan-luxury-package.html",
-      page: {
-        slug: "4n-5d-rajasthan-luxury-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto tour di lusso del Rajasthan di lusso 4N/5D |Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "6n-7d-golden-triangle-luxury-tour-package": {
-      file_name: "6n-7d-golden-triangle-luxury-tour-package.html",
-      page: {
-        slug: "6n-7d-golden-triangle-luxury-tour-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto turistico di lusso del Triangolo d'oro 6 N/7 D |Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "6N-7D-rajasthan-luxury-package": {
-      file_name: "6N-7D-rajasthan-luxury-package.html",
-      page: {
-        slug: "6N-7D-rajasthan-luxury-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto tour di lusso del Rajasthan di lusso 6N/7D |Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "golden-triangle-luxury": {
-      file_name: "golden-triangle-luxury.html",
-      page: {
-        slug: "golden-triangle-luxury",
-        type: "",
-        hero: {
-          title:
-            "Tour di lusso del Triangolo d'oro |Circuito Premium Delhi-Agra-Jaipur – Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "golden-triangle-luxury-package": {
-      file_name: "golden-triangle-luxury-package.html",
-      page: {
-        slug: "golden-triangle-luxury-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto turistico di lusso del Triangolo d'oro 4N/5D |Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "karnataka-luxury": {
-      file_name: "karnataka-luxury.html",
-      page: {
-        slug: "karnataka-luxury",
-        type: "",
-        hero: {
-          title:
-            "Tour di lusso del Karnataka: esperienza su misura per il patrimonio e la fauna selvatica |Centro Turistico Globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "Karnataka-Luxury-Package": {
-      file_name: "Karnataka-Luxury-Package.html",
-      page: {
-        slug: "Karnataka-Luxury-Package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto tour di lusso Karnataka 7N / 8D |GlobalTouristCentre – Hotel storici e safari privati",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "kerala-luxury": {
-      file_name: "kerala-luxury.html",
-      page: {
-        slug: "kerala-luxury",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto tour di lusso del Kerala |Centro turistico globale – Fuga premium in Kerala",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "Kerala-luxury-package": {
-      file_name: "Kerala-luxury-package.html",
-      page: {
-        slug: "Kerala-luxury-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto viaggio di lusso Kerala 4N/5D – 30% di sconto |Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "kerala-luxury-tour-package": {
-      file_name: "kerala-luxury-tour-package.html",
-      page: {
-        slug: "kerala-luxury-tour-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto viaggio di lusso Kerala 7N / 8D - 30% di sconto |Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "mumbai-luxury": {
-      file_name: "mumbai-luxury.html",
-      page: {
-        slug: "mumbai-luxury",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto viaggio di lusso a Mumbai |Centro turistico globale – Fuga premium a Mumbai",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "mumbai-luxury-package": {
-      file_name: "mumbai-luxury-package.html",
-      page: {
-        slug: "mumbai-luxury-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto tour di lusso a Mumbai 2N/3D |Fuga Premium a Mumbai – Centro turistico globale",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "rajasthan-luxury": {
-      file_name: "rajasthan-luxury.html",
-      page: {
-        slug: "rajasthan-luxury",
-        type: "",
-        hero: {
-          title:
-            "Tour di lusso del Rajasthan |Centro turistico globale – Patrimonio reale e comfort a 5 stelle",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
-    "rajasthan-luxury-package": {
-      file_name: "rajasthan-luxury-package.html",
-      page: {
-        slug: "rajasthan-luxury-package",
-        type: "",
-        hero: {
-          title:
-            "Pacchetto tour di lusso Rajasthan 8N/9D |Centro Turistico Globale – Patrimonio Reale, Comfort 5★",
-          subtitle: "",
-          backgroundImage: "",
-          meta: {},
-        },
-        language: "it",
-      },
-      cta: {
-        headline: "",
-        description: "",
-        contact: {
-          whatsapp: {
-            number: "",
-            message: "",
-          },
-          phone: "",
-        },
-      },
-      quickInfo: [],
-      itinerary: [],
-      gallery: [],
-      inclusions: [],
-    },
+
   },
   luxuryPages: {
 
@@ -14412,7 +13993,7 @@ export const it = {
         type: "package-hero",
         badge: "Pacchetto Premium",
         title: "Pacchetto Lusso in Rajasthan 4N/5G",
-        location: "Jaipur & Udaipur - 4N/5D",
+        location: "Jaipur & Udaipur - 4N/5G",
         cta_text: "Prenota ora",
         cta_link:
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Rajasthan%20Luxury%20Package%20(Jaipur%20%26%20Udaipur).%20Can%20you%20please%20provide%20more%20details?",
@@ -14490,7 +14071,7 @@ export const it = {
       accommodations: [
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Rambagh Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Rambagh Palace.webp",
             alt: "Rambagh Palace",
           },
           name: "Rambagh Palace",
@@ -14501,7 +14082,7 @@ export const it = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Jai Mahal Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Jai Mahal Palace.webp",
             alt: "Jai Mahal Palace",
           },
           name: "Jai Mahal Palace",
@@ -14512,7 +14093,7 @@ export const it = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
+            src: "/assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
             alt: "Oberoi Udaivilas",
           },
           name: "Oberoi Udaivilas",
@@ -14523,7 +14104,7 @@ export const it = {
         },
         {
           image: {
-            src: "../../assets/Luxury/Rajasthan/Taj Lake Palace.webp",
+            src: "/assets/Luxury/Rajasthan/Taj Lake Palace.webp",
             alt: "Taj Lake Palace",
           },
           name: "Taj Lake Palace",
@@ -14591,7 +14172,7 @@ export const it = {
         badge: "Pacchetto Premium",
         title:
           "Pacchetto Tour di Lusso Triangolo d'Oro 6N/7G (DELHI, AGRA, JAIPUR)",
-        location: "Delhi, Agra, Jaipur - 6N/7D",
+        location: "Delhi, Agra, Jaipur - 6N/7G",
         cta_text: "Prenota ora",
         cta_link:
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
@@ -14751,7 +14332,7 @@ export const it = {
         type: "package-hero",
         badge: "Pacchetto Premium",
         title: "Pacchetto Lusso in Rajasthan 6N/7G",
-        location: "Jaipur, Jodhpur & Udaipur - 6N/7D",
+        location: "Jaipur, Jodhpur & Udaipur - 6N/7G",
         cta_text: "Prenota ora",
         cta_link:
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Rajasthan%20Luxury%20Package%20(Jaipur,%20Jodhpur%20%26%20Udaipur).%20Can%20you%20please%20provide%20more%20details?",
@@ -15006,7 +14587,7 @@ export const it = {
         type: "package-hero",
         badge: "Pacchetto Premium",
         title: "Pacchetto Lusso Triangolo d'Oro 4N/5G (DELHI, AGRA, JAIPUR)",
-        location: "Delhi, Agra, Jaipur - 4N/5D",
+        location: "Delhi, Agra, Jaipur - 4N/5G",
         cta_text: "Prenota ora",
         cta_link:
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
@@ -15146,7 +14727,7 @@ export const it = {
         type: "package-hero",
         badge: "Pacchetto Premium",
         title: "Pacchetto Lusso Karnataka 7N/8G (Bangalore, Mysore, Ooty)",
-        location: "Bangalore, Mysore, Bandipur & Ooty - 7N/8D",
+        location: "Bangalore, Mysore, Bandipur & Ooty - 7N/8G",
         cta_text: "Prenota ora",
         cta_link:
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%20Karnataka%20Luxury%20Tour%20Package%20(Bangalore,%20Mysore%20%26%20Ooty).%20Can%20you%20please%20provide%20more%20details?",
@@ -15677,7 +15258,7 @@ export const it = {
         type: "package-hero",
         badge: "Pacchetto Ultra Premium",
         title: "Pacchetto Lusso Rajasthan 8N/9G",
-        location: "Jaipur, Udaipur, Jodhpur, Ranthambore - 8N/9D",
+        location: "Jaipur, Udaipur, Jodhpur, Ranthambore - 8N/9G",
         cta_text: "Prenota ora",
         cta_link:
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%208N/9D%20Rajasthan%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
@@ -15892,7 +15473,7 @@ export const it = {
         badge: "Pacchetto Premium",
         title:
           "Tour di Lusso in Kerala 7N/8G (Kochi Alleppey Munnar Thekkady Poovar)",
-        location: "Kochi, Alleppey, Munnar, Thekkady, Poovar - 7N/8D",
+        location: "Kochi, Alleppey, Munnar, Thekkady, Poovar - 7N/8G",
         cta_text: "Prenota ora",
         cta_link:
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%207N/8D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
