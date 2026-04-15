@@ -1763,33 +1763,33 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  // "hyderabad-tour-package-from-goa": {
-  //   gallery: [
-  //     {
-  //       title: "Munnar Tea Gardens",
-  //       description: "Rolling hills of green",
-  //       image: "/assets/destinations/Kerala/Munnar Tea Gardens.webp",
-  //     },
-  //     {
-  //       title: "Alleppey Backwaters",
-  //       description: "Serene houseboat experience",
-  //       image: "/assets/destinations/Kerala/Alleppey Backwaters.webp",
-  //     },
-  //     {
-  //       title: "Periyar Wildlife Sanctuary",
-  //       description: "Boat ride in the sanctuary",
-  //       image: "/assets/destinations/Kerala/Periyar Wildlife.webp",
-  //     },
-  //     {
-  //       title: "Cochin Fishing Nets",
-  //       description: "Iconic Chinese fishing nets",
-  //       image: "/assets/destinations/Kerala/Cochin Fishing Nets.webp",
-  //     },
-  //     {
-  //       title: "Kerala Backwaters",
-  //       description: "Tranquil waterways",
-  //       image: "/assets/destinations/Kerala/Kerala Backwaters.webp",
-  //     },
-  //   ]
-  // }
+  "hyderabad-tour-package-from-goa": {
+    gallery: [
+        {
+          "title": "Golconda Fort",
+          "description": "Historic Fortress",
+          "image": "/assets/destinations/Hyderabad/Golconda-Fort.webp"
+        },
+        {
+          "title": "Charminar",
+          "description": "Iconic Hyderabad Monument",
+          "image": "/assets/destinations/Hyderabad/Charminar.webp"
+        },
+        {
+          "title": "Chowmahalla Palace",
+          "description": "Royal Court Complex",
+          "image": "/assets/destinations/Hyderabad/Chowmahalla-Palace.webp"
+        },
+        {
+          "title": "Salar Jung Museum",
+          "description": "Major Single-Collector Museum",
+          "image": "/assets/destinations/Hyderabad/Salar-Jung-Museum.webp"
+        },
+        {
+          "title": "Hyderabadi Cuisine",
+          "description": "Famous Biryani and Local Dishes",
+          "image": "/assets/destinations/Hyderabad/Biryani.webp"
+        }
+    ]
+  }
 };
