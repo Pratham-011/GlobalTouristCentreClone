@@ -372,6 +372,7 @@ export const fr = {
       galleryTitle: "Voyage visuel",
       gallerySubtitle:
         "Découvrez un aperçu des lieux spectaculaires que vous allez explorer",
+      highlight: "Point fort",
     },
   },
   // Curated Collections

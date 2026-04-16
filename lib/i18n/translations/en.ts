@@ -372,6 +372,7 @@ export const en = {
       galleryTitle: "Visual Journey",
       gallerySubtitle:
         "Get a glimpse of the stunning locations you’ll experience",
+      highlight: "Highlight",
     },
   },
   // Curated Collections

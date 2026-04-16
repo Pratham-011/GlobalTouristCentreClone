@@ -386,6 +386,7 @@ export const it = {
       galleryTitle: "Viaggio visivo",
       gallerySubtitle:
         "Scopri in anteprima le splendide destinazioni che vivrai",
+      highlight: "In evidenza",
     },
   },
   // Curated Collections

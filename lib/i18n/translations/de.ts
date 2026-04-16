@@ -374,6 +374,7 @@ export const de = {
       galleryTitle: "Visuelle Reise",
       gallerySubtitle:
         "Erhalten Sie einen Eindruck von den atemberaubenden Orten, die Sie erleben werden",
+      highlight: "Highlight",
     },
   },
   // Curated Collections

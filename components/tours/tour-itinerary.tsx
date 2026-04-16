@@ -86,7 +86,7 @@ export default function TourItinerary({ items }: TourItineraryProps) {
 
                       {item.highlight && (
                         <span className="inline-flex items-center gap-1 text-xs font-medium text-amber-600 bg-amber-50 px-3 py-1 rounded-full">
-                          ★ Highlight
+                          ★ {t.destinations.tour.highlight}
                         </span>
                       )}
                     </div>

@@ -342,6 +342,7 @@ export const ru = {
       galleryTitle: "Визуальное путешествие",
       gallerySubtitle:
         "Ознакомьтесь с потрясающими местами, которые вы посетите",
+      highlight: "Главное",
     },
   },
   // Curated Collections
