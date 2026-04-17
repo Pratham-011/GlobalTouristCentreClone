@@ -683,7 +683,7 @@ export const de = {
     children: "Kinder (2–11 Jahre)",
     infants: "Kleinkinder (unter 2 Jahre)",
     preferredClass: "Bevorzugte Klasse*",
-    preferredClassPlaceholder: "Economy",
+    preferredClassPlaceholder: "Economy-Klasse",
     preferredAirlines: "Bevorzugte Fluggesellschaften",
     preferredAirlinesPlaceholder: "Bestimmte Fluggesellschaften?",
     message: "Sonderwünsche",
@@ -761,7 +761,7 @@ export const de = {
     faq1Question:
       "Was ist die minimale und maximale Gruppengröße für Ihre Inlands- und Auslandsreisen?",
     faq1Answer:
-      "Die meisten unserer Reisen sind für kleine Gruppen konzipiert, oft zwischen sechs und zwölf Reisenden gleichzeitig. Auf Anfrage können wir je nach Reisestil und Ihrem Komfortniveau etwas größere Gruppen accommodieren.",
+      "Die meisten unserer Reisen sind für kleine Gruppen konzipiert, oft zwischen sechs und zwölf Reisenden gleichzeitig. Auf Anfrage können wir je nach Reisestil und Ihrem Komfortniveau etwas größere Gruppen aufnehmen.",
     faq2Question:
       "Wie stellen Sie eine reibungslose Koordination und ein gutes Zeitmanagement während einer Gruppenreise sicher?",
     faq2Answer:
@@ -1078,7 +1078,7 @@ export const de = {
       custom: "Individuelle Reise",
       feedback: "Feedback",
       flight: "Flugbuchung",
-      visa: "Visa Services",
+      visa: "Visa-Services",
     },
   },
   // Blog Page
@@ -1815,7 +1815,7 @@ export const de = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Wondrous Wildernest 2N/3D Trip. Please send me details."
+            "message": "Hallo! Ich interessiere mich für Ihren Wildernest-Ausflug (2 Nächte/3 Tage). Bitte senden Sie mir die Details."
           },
           "phone": "+919067972295"
         }
@@ -2028,7 +2028,7 @@ export const de = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
+            "message": "Hallo! Ich interessiere mich für Ihren Nordgoa-Ganztagesausflug. Bitte senden Sie mir die Details."
           },
           "phone": "+919067972295"
         }
@@ -2195,7 +2195,7 @@ export const de = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Sightseeing with Sunset Cruise tour. Please send me details."
+            "message": "Hallo! Ich interessiere mich für die Südgoa-Besichtigungstour mit Sonnenuntergangs-Kreuzfahrt. Bitte senden Sie mir die Details."
           },
           "phone": "+919067972295"
         }
@@ -2389,7 +2389,7 @@ export const de = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+            "message": "Hallo! Ich interessiere mich für Ihren Ganztagesausflug nach Palolem und Cola. Bitte senden Sie mir die Details."
           },
           "phone": "+919067972295"
         }
@@ -2580,7 +2580,7 @@ export const de = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
+            "message": "Hallo! Ich interessiere mich für den Südgoa-Kulturausflug (ganztägig). Bitte senden Sie mir die Details."
           },
           "phone": "+919067972295"
         }
@@ -2747,7 +2747,7 @@ export const de = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your South Goa tour package. Please send me details."
+            "message": "Hallo! Ich interessiere mich für Ihr Südgoa-Reisepaket. Bitte senden Sie mir die Details."
           },
           "phone": "+919067972295"
         }
@@ -2917,7 +2917,7 @@ export const de = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Delhi to Agra tour package. Please send me details."
+            "message": "Hallo! Ich interessiere mich für Ihr Delhi-Agra-Reisepaket. Bitte senden Sie mir die Details."
           },
           "phone": "+919067972295"
         }

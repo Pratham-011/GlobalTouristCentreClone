@@ -85,7 +85,7 @@ export const fr = {
   home: {
     title: "Choisissez votre prochaine aventure",
     mainsubtitle:
-      "Découvrez notre sélection de destinations soigneusement choisies pour créer des souvenirs inoubliables..",
+      "Découvrez notre sélection de destinations soigneusement choisies pour créer des souvenirs inoubliables.",
     formtitle: "Contactez-nous",
     formsubtitle:
       "Aidez-nous à planifier vos vacances de rêve et transformons ce rêve en réalité.",
@@ -1810,7 +1810,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Wondrous Wildernest 2N/3D Trip. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre séjour Wildernest de 2 nuits/3 jours. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2023,7 +2023,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre excursion d'une journée dans le Nord de Goa. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2190,7 +2190,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Sightseeing with Sunset Cruise tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par la visite du Sud de Goa avec croisière au coucher du soleil. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2384,7 +2384,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre excursion d'une journée à Palolem et Cola. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2575,7 +2575,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par le circuit culturel d'une journée dans le Sud de Goa. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2742,7 +2742,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your South Goa tour package. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre forfait Sud de Goa. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2912,7 +2912,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Delhi to Agra tour package. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre forfait Delhi-Agra. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }

@@ -14906,7 +14906,7 @@ export const en = {
         type: "package-hero",
         badge: "Premium Package",
         title:
-          "7N/8D Kerala Luxury Tour Package (Kochi Alleppy Munnar Thekkady Poovar)",
+          "7N/8D Kerala Luxury Tour Package (Kochi Alleppey Munnar Thekkady Poovar)",
         location: "Kochi, Alleppey, Munnar, Thekkady, Poovar - 7N/8D",
         cta_text: "Book Now",
         cta_link:

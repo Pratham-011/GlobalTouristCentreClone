@@ -94,7 +94,7 @@ export const it = {
     title: "Scopri Viaggi Straordinari",
     subtitle: "Pianifica la Vacanza dei Tuoi Sogni",
     cta: "Preventivo Gratuito",
-    tagline: "Non Prenotamo Solo Viaggi — Creiamo Storie per la Vita",
+    tagline: "Non Prenotiamo Solo Viaggi — Creiamo Storie per la Vita",
   },
   home: {
     title: "Scegli la tua prossima avventura",
@@ -263,7 +263,7 @@ export const it = {
     submit: "Inviami Preventivi",
     sendMessage: "Invia Messaggio",
     privacyNote: "Cliccando su 'Inviami Preventivi', accetti la nostra",
-    privacyPolicy: "Privacy Policy",
+    privacyPolicy: "Informativa sulla Privacy",
     termsOfUse: "Termini di Utilizzo",
     and: "e",
     destinationPlaceholder: "Seleziona una destinazione",
@@ -693,7 +693,7 @@ export const it = {
     children: "Bambini (2-11 anni)",
     infants: "Neonati (<2 anni)",
     preferredClass: "Classe Preferita*",
-    preferredClassPlaceholder: "Economy",
+    preferredClassPlaceholder: "Classe Economy",
     preferredAirlines: "Compagnie Aeree Preferite",
     preferredAirlinesPlaceholder: "Compagnie aeree specifiche?",
     message: "Richieste Speciali",
@@ -1812,7 +1812,7 @@ export const it = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Wondrous Wildernest 2N/3D Trip. Please send me details."
+            "message": "Salve! Sono interessato/a al vostro soggiorno Wildernest di 2 notti/3 giorni. Potete inviarmi i dettagli?"
           },
           "phone": "+919067972295"
         }
@@ -2025,7 +2025,7 @@ export const it = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
+            "message": "Salve! Sono interessato/a al vostro tour di un giorno nel Nord Goa. Potete inviarmi i dettagli?"
           },
           "phone": "+919067972295"
         }
@@ -2192,7 +2192,7 @@ export const it = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Sightseeing with Sunset Cruise tour. Please send me details."
+            "message": "Salve! Sono interessato/a al tour panoramico del Sud Goa con crociera al tramonto. Potete inviarmi i dettagli?"
           },
           "phone": "+919067972295"
         }
@@ -2387,7 +2387,7 @@ export const it = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+            "message": "Salve! Sono interessato/a al vostro tour di un giorno a Palolem e Cola. Potete inviarmi i dettagli?"
           },
           "phone": "+919067972295"
         }
@@ -2579,7 +2579,7 @@ export const it = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
+            "message": "Salve! Sono interessato/a al tour culturale di un giorno nel Sud Goa. Potete inviarmi i dettagli?"
           },
           "phone": "+919067972295"
         }
@@ -2746,7 +2746,7 @@ export const it = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your South Goa tour package. Please send me details."
+            "message": "Salve! Sono interessato/a al vostro pacchetto tour Sud Goa. Potete inviarmi i dettagli?"
           },
           "phone": "+919067972295"
         }
@@ -2916,7 +2916,7 @@ export const it = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Delhi to Agra tour package. Please send me details."
+            "message": "Salve! Sono interessato/a al vostro pacchetto tour Delhi-Agra. Potete inviarmi i dettagli?"
           },
           "phone": "+919067972295"
         }

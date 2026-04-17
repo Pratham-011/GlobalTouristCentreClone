@@ -240,7 +240,7 @@ export const ru = {
   // Form
   form: {
     name: "Ваше Имя",
-    email: "Ваш Электронная почта",
+    email: "Ваша Электронная почта",
     phone: "Ваш Телефон",
     destination: "Интересующее Направление",
     subject: "Выберите Тему",
@@ -1802,7 +1802,7 @@ export const ru = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Wondrous Wildernest 2N/3D Trip. Please send me details."
+            "message": "Здравствуйте! Меня интересует ваш тур «Уайлдернест» (2 ночи/3 дня). Пожалуйста, пришлите мне подробности."
           },
           "phone": "+919067972295"
         }
@@ -2015,7 +2015,7 @@ export const ru = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
+            "message": "Здравствуйте! Меня интересует ваш полнодневный тур по Северному Гоа. Пожалуйста, пришлите мне подробности."
           },
           "phone": "+919067972295"
         }
@@ -2182,7 +2182,7 @@ export const ru = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Sightseeing with Sunset Cruise tour. Please send me details."
+            "message": "Здравствуйте! Меня интересует тур «Южное Гоа с закатным круизом». Пожалуйста, пришлите мне подробности."
           },
           "phone": "+919067972295"
         }
@@ -2376,7 +2376,7 @@ export const ru = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+            "message": "Здравствуйте! Меня интересует ваш полнодневный тур в Палолем и Кола. Пожалуйста, пришлите мне подробности."
           },
           "phone": "+919067972295"
         }
@@ -2567,7 +2567,7 @@ export const ru = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
+            "message": "Здравствуйте! Меня интересует культурный тур по Южному Гоа на полный день. Пожалуйста, пришлите мне подробности."
           },
           "phone": "+919067972295"
         }
@@ -2734,7 +2734,7 @@ export const ru = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your South Goa tour package. Please send me details."
+            "message": "Здравствуйте! Меня интересует ваш тур-пакет по Южному Гоа. Пожалуйста, пришлите мне подробности."
           },
           "phone": "+919067972295"
         }
@@ -2904,7 +2904,7 @@ export const ru = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Delhi to Agra tour package. Please send me details."
+            "message": "Здравствуйте! Меня интересует ваш тур-пакет Дели–Агра. Пожалуйста, пришлите мне подробности."
           },
           "phone": "+919067972295"
         }
@@ -14748,6 +14748,10 @@ export const ru = {
         "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%202N/3D%20Mumbai%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
         "background_image": "/assets/Luxury/Mumbai/mumbai-hero.webp"
       },
+      "metadata": {
+        "title": "2Н/3Д Роскошный тур в Мумбаи | Премиум отдых в Мумбаи – Global Tourist Centre",
+        "description": "Забронируйте 3-дневный люкс-тур в Мумбаи со звёздными отелями (Taj Mahal Palace / Oberoi), частными гидами и незабываемыми впечатлениями."
+      },
       "footer": {
         "about": "Воплощаем ваши мечты в незабываемые приключения с 2010 года. Ваш надежный партнер по организации индивидуальных туров.",
         "social_links": [
@@ -14854,100 +14858,104 @@ export const ru = {
       "file_name": "rajasthan-luxury-package.html",
       "hero_section": {
         "type": "package-hero",
-        "badge": "Ultra Premium Paket",
-        "title": "8N/9D Rajasthan Luxus-Paket",
-        "location": "Jaipur, Udaipur, Jodhpur, Ranthambore - 8N/9D",
-        "cta_text": "Jetzt buchen",
-        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%208N/9D%20Rajasthan%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "badge": "Ультра-премиум пакет",
+        "title": "8Н/9Д Раджастхан — Роскошный тур пакет",
+        "location": "Джайпур, Удайпур, Джодхпур, Рантхамбор — 8Н/9Д",
+        "cta_text": "Забронировать сейчас",
+        "cta_link": "https://wa.me/919067972295?text=Здравствуйте!%20Меня%20интересует%20люкс-пакет%20Раджастхан%208Н/9Д.%20Пришлите%20подробности.",
         "background_image": "/assets/Luxury/Rajasthan/raj3-hero.webp"
       },
+      "metadata": {
+        "title": "Люкс-тур Раджастхан 8Н/9Д | Global Tourist Centre – Королевское наследие, комфорт 5★",
+        "description": "Забронируйте люкс-тур по Раджастхану (8Н/9Д): дворцы-отели в Джайпуре, Удайпуре, Джодхпуре и Рантхамборе, частные трансферы, сафари и королевские впечатления."
+      },
       "itinerary": {
-        "title": "Königliche Rajasthan-Reise durch Paläste & Forts",
+        "title": "Королевское путешествие по Раджастхану — дворцы и форты",
         "days": [
           {
-            "day_title": "Tag 1: Ankunft in Jaipur",
-            "location": "Jaipur",
-            "description": "Ankunft am Flughafen Jaipur. Privater Luxustransfer zu Ihrem Palasthotel (Rambagh Palace / Jai Mahal Palace). Bevorzugter Check-in und Begrüßungsritual.",
+            "day_title": "День 1: Прибытие в Джайпур",
+            "location": "Джайпур",
+            "description": "Прибытие в международный аэропорт Джайпура. Частный люкс-трансфер в дворцовый отель (Rambagh Palace / Jai Mahal Palace). Приоритетный заезд и приветственный ритуал.",
             "activities": [
-              "Gemütliches Mittagessen & Signature Spa-Ritual",
-              "Private Tour: Stadtpalast + Jantar Mantar",
-              "Abendessen im Innenhof mit klassischer Rajasthani-Musik",
-              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+              "Обед и фирменный спа-ритуал",
+              "Вечерняя частная экскурсия: Городской дворец + Джантар-Мантар",
+              "Ужин во дворцовом дворике под классическую раджастханскую музыку",
+              "Ночлег в Джайпуре (Роскошный дворцовый отель)"
             ]
           },
           {
-            "day_title": "Tag 2: Jaipur (Ganztägig)",
-            "location": "Jaipur",
-            "description": "Heißluftballon-Erlebnis zum Sonnenaufgang mit Champagner-Frühstück oder Fotoshooting am Nahargarh. Besuch des Amber Forts (Jeep- oder Elefanten-Option).",
+            "day_title": "День 2: Джайпур (Весь день)",
+            "location": "Джайпур",
+            "description": "Полёт на воздушном шаре на рассвете с шампанским или фотосессия у Нахаргарха. Утренняя экскурсия в форт Амбер с поездкой на джипе/слоне.",
             "activities": [
-              "Mittagessen in einem historischen Haveli",
-              "Kuratiertes Shopping auf lokalen Märkten",
-              "Chef's-Table Abendessen oder privates Palast-Dining",
-              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+              "Обед в историческом хавели",
+              "Шопинг на местных рынках",
+              "Ужин у шеф-повара или во дворце",
+              "Ночлег в Джайпуре (Роскошный дворцовый отель)"
             ]
           },
           {
-            "day_title": "Tag 3: Jaipur → Ranthambore",
-            "location": "Ranthambore",
-            "description": "Transfer nach Ranthambore. Check-in in einer Luxus-Wildnis-Lodge (Oberoi Vanyavilas o.ä.). Zeit zur freien Verfügung.",
+            "day_title": "День 3: Джайпур → Рантхамбор",
+            "location": "Рантхамбор",
+            "description": "Переезд в Рантхамбор. Заселение в роскошный экологический лодж (Oberoi Vanyavilas или аналог). Свободное время и инструктаж по правилам сафари.",
             "activities": [
-              "Sternenbeobachtung",
-              "Privates Dschungel-Dinner unter den Sternen",
-              "Übernachtung in Ranthambore (Luxus-Wildnis-Lodge)"
+              "Наблюдение за звёздами",
+              "Частный ужин в джунглях под звёздным небом",
+              "Ночлег в Рантхамборе (Роскошный экологический лодж)"
             ]
           },
           {
-            "day_title": "Tag 4: Ranthambore Safari-Tag",
-            "location": "Ranthambore",
-            "description": "Frühmorgendliche Safari im Ranthambore Nationalpark. Frühstück im Resort. Mittags Spa oder optionaler Dorfbesuch.",
+            "day_title": "День 4: Рантхамбор — День сафари",
+            "location": "Рантхамбор",
+            "description": "Раннее утреннее сафари (джип/кантер) в Национальном парке Рантхамбор. Возвращение на поздний завтрак. Дневной спа или посещение деревни.",
             "activities": [
-              "Nachmittags-Safari in einer anderen Zone",
-              "Privates Lagerfeuer-Abendessen oder Resort Fine Dining",
-              "Übernachtung in Ranthambore (Luxus-Wildnis-Lodge)"
+              "Второе послеполуденное сафари в другой зоне",
+              "Частный ужин у костра или изысканный ужин в лодже",
+              "Ночлег в Рантхамборе (Роскошный экологический лодж)"
             ]
           },
           {
-            "day_title": "Tag 5: Ranthambore → Jodhpur",
-            "location": "Jodhpur",
-            "description": "Transfer nach Jodhpur. Check-in im Umaid Bhawan Palace oder RAAS. Abendliche Tour zum Mehrangarh Fort bei Sonnenuntergang.",
+            "day_title": "День 5: Рантхамбор → Джодхпур",
+            "location": "Джодхпур",
+            "description": "Переезд в Джодхпур. Заселение в Umaid Bhawan Palace или RAAS. Вечерняя экскурсия по форту Мехрангарх и музею на закате.",
             "activities": [
-              "Rooftop-Dinner mit Blick auf das Fort",
-              "Übernachtung in Jodhpur (Luxus-Palasthotel)"
+              "Ужин на крыше с видом на форт",
+              "Ночлег в Джодхпуре (Роскошный дворцовый отель)"
             ]
           },
           {
-            "day_title": "Tag 6: Jodhpur intensiv",
-            "location": "Jodhpur",
-            "description": "Besuch von Jaswant Thada & Fotowanderung durch die Blaue Stadt. Besuche bei lokalen Kunsthandwerkern.",
+            "day_title": "День 6: Джодхпур (Полное погружение)",
+            "location": "Джодхпур",
+            "description": "Посещение Джасвант Тхада и фотопрогулка по «Голубому городу». Визиты к местным мастерам. Обед во дворце.",
             "activities": [
-              "Besuch des Polofelds oder königlicher Kochkurs",
-              "Heritage Dinner-Erlebnis",
-              "Übernachtung in Jodhpur (Luxus-Palasthotel)"
+              "Посещение поло-поля или мастер-класс по королевской кухне",
+              "Исторический ужин",
+              "Ночлег в Джодхпуре (Роскошный дворцовый отель)"
             ]
           },
           {
-            "day_title": "Tag 7: Jodhpur → Udaipur",
-            "location": "Udaipur",
-            "description": "Morgendlicher Flug nach Udaipur. Check-in im Palast am See (Oberoi Udaivilas / Taj Lake Palace). Private Bootsfahrt auf dem Pichola-See zur Goldenen Stunde.",
+            "day_title": "День 7: Джодхпур → Удайпур",
+            "location": "Удайпур",
+            "description": "Утренний перелёт в Удайпур. Заселение в дворцовый отель на берегу озера (Oberoi Udaivilas / Taj Lake Palace). Частная прогулка по озеру Пичола в «золотой час».",
             "activities": [
-              "Privates Dinner am Seeufer mit klassischer Musik",
-              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+              "Частный ужин у озера под классическую музыку",
+              "Ночлег в Удайпуре (Роскошный дворцовый отель)"
             ]
           },
           {
-            "day_title": "Tag 8: Udaipur (Ganztägig)",
-            "location": "Udaipur",
-            "description": "Kuratierte Stadtpalast-Tour. Chef's Table Mittagessen. Besuch von Saheliyon-ki-Bari oder Malkurs.",
+            "day_title": "День 8: Удайпур (Весь день)",
+            "location": "Удайпур",
+            "description": "Экскурсия по Городскому дворцу. Обед у шеф-повара. Посещение Сахелионки-Бари / Багоре-ки-Хавели / урок живописи.",
             "activities": [
-              "Monsun-Palast (Sajjangarh) zum Sonnenuntergang",
-              "Abschiedsbankett (Palasterrasse oder Privatboot)",
-              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+              "Дворец Мусун (Саджанджарх) — вид на закат",
+              "Прощальный банкет (дворцовая терраса или частная лодка)",
+              "Ночлег в Удайпуре (Роскошный дворцовый отель)"
             ]
           },
           {
-            "day_title": "Tag 9: Abreise",
-            "location": "Departure",
-            "description": "Frühstück im Hotel. Optionales Bootserlebnis oder Spa. Privater Flughafentransfer. Ende der königlichen Reise.",
+            "day_title": "День 9: Отъезд",
+            "location": "Отъезд",
+            "description": "Завтрак в отеле. Ранняя лодочная прогулка или спа-процедура. Частный трансфер в аэропорт Удайпура. Конец королевского люкс-путешествия по Раджастхану.",
             "activities": []
           }
         ]
@@ -14956,41 +14964,41 @@ export const ru = {
         {
           "image": { "src": "/assets/Luxury/Rajasthan/Rambagh Palace.webp", "alt": "Rambagh Palace" },
           "name": "Rambagh Palace",
-          "location": "Jaipur, Indien",
-          "description": "Ehemalige Residenz des Maharadschas von Jaipur mit unvergleichlichem Luxus im Herzen der Pink City.",
+          "location": "Джайпур, Индия",
+          "description": "Бывшая резиденция махараджи Джайпура — непревзойдённый люкс и королевское гостеприимство в сердце «Розового города».",
           "rating": 5
         },
         {
           "image": { "src": "/assets/Luxury/Rajasthan/Oberoi Vanyavilas.webp", "alt": "Oberoi Vanyavilas" },
           "name": "Oberoi Vanyavilas",
-          "location": "Ranthambore, Indien",
-          "description": "Luxuriöses Zeltcamp für ein exquisites Wildniserlebnis mit erstklassigem Safari-Service.",
+          "location": "Рантхамбор, Индия",
+          "description": "Роскошный лагерь с шатрами — изысканный опыт жизни в дикой природе с премиальным сафари.",
           "rating": 5
         },
         {
           "image": { "src": "/assets/Luxury/Rajasthan/Umaid Bhawan Palace.webp", "alt": "Umaid Bhawan Palace" },
           "name": "Umaid Bhawan Palace",
-          "location": "Jodhpur, Indien",
-          "description": "Eine der weltweit größten Privatresidenzen mit königlichen Suiten und Art-Déco-Interieur.",
+          "location": "Джодхпур, Индия",
+          "description": "Один из крупнейших частных дворцов в мире с королевскими апартаментами, интерьерами ар-деко и безупречным сервисом.",
           "rating": 5
         },
         {
           "image": { "src": "/assets/Luxury/Rajasthan/Oberoi Udaivilas.webp", "alt": "Oberoi Udaivilas" },
           "name": "Oberoi Udaivilas",
-          "location": "Udaipur, Indien",
-          "description": "Weitläufiges Luxusresort am Ufer des Pichola-Sees mit prachtvoller Palastarchitektur.",
+          "location": "Удайпур, Индия",
+          "description": "Роскошный курорт на берегу озера Пичола с дворцовой архитектурой и захватывающим видом на озеро.",
           "rating": 5
         }
       ],
       "inclusions": [
-        { "icon": "fas fa-hotel", "title": "Luxus-Unterkunft", "description": "8 Nächte in Luxus-Palasthotels (Jaipur, Ranthambore, Jodhpur, Udaipur) inkl. Frühstück" },
-        { "icon": "fas fa-utensils", "title": "Gourmet-Dining", "description": "Frühstück + 5 private kulinarische Erlebnisse (Chef’s Table und Palast-Dinner)" },
-        { "icon": "fas fa-car", "title": "Private Transfers", "description": "Durchgehend private Luxusfahrzeuge + Inlandsflüge oder Chauffeur-Service" },
-        { "icon": "fas fa-user-tie", "title": "Professionelle Guides", "description": "Englischsprachige Profi-Guides für alle geplanten Besichtigungen" },
-        { "icon": "fas fa-paw", "title": "Safari-Erlebnisse", "description": "2 Safaris im Ranthambore Nationalpark inkl. Genehmigungen & Gebühren" },
-        { "icon": "fas fa-ship", "title": "Bootsfahrt", "description": "Private Sonnenuntergangs-Bootsfahrt auf dem Pichola-See mit Champagner & Canapés" },
-        { "icon": "fas fa-gem", "title": "Kuratierte Erlebnisse", "description": "3 private Erlebnisse (Jaipur Dinner, Shopping-Tour, Udaipur Chef's Table)" },
-        { "icon": "fas fa-shield-alt", "title": "Steuern & Support", "description": "Sämtliche Eintrittsgelder, Fast-Track-Zugang und 24/7 Concierge-Support" }
+        { "icon": "fas fa-hotel", "title": "Роскошное проживание", "description": "8 ночей в люкс-дворцах (Джайпур, Рантхамбор, Джодхпур, Удайпур) с завтраком" },
+        { "icon": "fas fa-utensils", "title": "Изысканное питание", "description": "Ежедневный завтрак + 5 авторских ужинов, включая ужин у шеф-повара и королевский банкет" },
+        { "icon": "fas fa-car", "title": "Частные трансферы", "description": "Люкс-автомобиль на весь маршрут + межгородские перелёты или трансферы с водителем" },
+        { "icon": "fas fa-user-tie", "title": "Профессиональные гиды", "description": "Англо- и русскоязычные гиды для всех запланированных экскурсий" },
+        { "icon": "fas fa-paw", "title": "Сафари", "description": "2 сафари в Национальном парке Рантхамбор с оплатой всех сборов" },
+        { "icon": "fas fa-ship", "title": "Прогулка по озеру", "description": "Частная прогулка на закате по озеру Пичола с шампанским" },
+        { "icon": "fas fa-gem", "title": "Авторские впечатления", "description": "3 частных удовольствия: ужин в Джайпуре, шопинг, стол шеф-повара в Удайпуре" },
+        { "icon": "fas fa-shield-alt", "title": "Налоги и поддержка", "description": "Все входные билеты, ускоренный проход и круглосуточная поддержка консьержа" }
       ]
     },
     "kerala-luxury-tour-package": {
@@ -15003,6 +15011,10 @@ export const ru = {
         "cta_text": "Забронировать сейчас",
         "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%207N/8D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         "background_image": "/assets/Luxury/Kerala/hero-comprehensive.webp"
+      },
+      "metadata": {
+        "title": "7Н/8Д Люкс-тур в Кералу – скидка 30% | Global Tourist Centre",
+        "description": "Эксклюзивный люкс-тур в Кералу (7 ночей/8 дней) со скидкой 30%: ультра-люкс проживание, частные круизы по заводям, горные курорты."
       },
       "itinerary": {
         "title": "Комплексный роскошный отдых в Керале",
