@@ -85,7 +85,7 @@ export const fr = {
   home: {
     title: "Choisissez votre prochaine aventure",
     mainsubtitle:
-      "Découvrez notre sélection de destinations soigneusement choisies pour créer des souvenirs inoubliables..",
+      "Découvrez notre sélection de destinations soigneusement choisies pour créer des souvenirs inoubliables.",
     formtitle: "Contactez-nous",
     formsubtitle:
       "Aidez-nous à planifier vos vacances de rêve et transformons ce rêve en réalité.",
@@ -188,7 +188,7 @@ export const fr = {
         description:
           "Visitez Delhi, Agra et Jaipur avec le Taj Mahal, des forts majestueux et des palais royaux.",
       },
-      "odhpur-udaipur-tour-from-goa": {
+      "jodhpur-udaipur-tour-from-goa": {
         title: "Rajasthan Royal – Udaipur et Jodhpur",
         duration: "4 nuits / 5 jours",
         description:
@@ -366,6 +366,10 @@ export const fr = {
       ctaTitle: "Prêt pour l’aventure ?",
       ctaSubtitle:
         "Réservez maintenant et assurez votre place pour une expérience inoubliable",
+      ctaBookWhatsApp: "Réserver via WhatsApp",
+      ctaBookWhatsAppAria: "Réserver via WhatsApp",
+      ctaCallUs: "Appelez-nous",
+      ctaCallUsAria: "Appelez-nous",
       inclusionsTitle: "Ce qui est inclus",
       inclusionsSubtitle:
         "Tout ce dont vous avez besoin pour une expérience fluide et confortable",
@@ -440,431 +444,431 @@ export const fr = {
     groupToursDesc:
       "Tours de groupe organisés avec des guides experts, parfaits pour familles et groupes.",
   },
- servicePages : {
-  // Customize Trip Package
-  customizeTripPackage: {
-    heroTitle: "Forfaits Voyage Personnalisés",
-    aboutTitle: "Votre Voyage, À Votre Façon",
-    aboutDesc:
-      "Nous croyons que chaque voyageur est unique et que vos vacances doivent refléter votre style personnel. Nos forfaits voyage personnalisés sont conçus autour de vos intérêts, de votre budget et de vos préférences de voyage. Que vous recherchiez l'aventure, la détente, la culture ou un mélange de tout, nous créerons un itinéraire parfait pour vous.",
-    whyChooseTitle: "Pourquoi Choisir les Tours Personnalisés :",
-    benefit1: "Adapté à vos intérêts spécifiques et à votre rythme",
-    benefit2: "Dates et durée flexibles",
-    benefit3: "Choix d'hébergements correspondant à votre style",
-    benefit4: "Activités et expériences personnalisées",
-    benefit5: "Guides locaux experts pour des expériences authentiques",
-    benefit6: "Assistance 24h/24 et 7j/7 pendant votre voyage",
-    formTitle: "Créez Vos Vacances de Rêve",
-    formDesc:
-      "Parlez-nous de vos préférences de voyage et nous concevrons un itinéraire personnalisé rien que pour vous.",
-    formHeader: "Commençons",
-    formSubtitle:
-      "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
-    // Form Specifics
-    travelDates: "Dates de Voyage Souhaitées",
-    datesPlaceholder: "Dates flexibles ou précises",
-    travelersLabel: "Nombre de Voyageurs*",
-    travelersPlaceholder: "Adultes et enfants",
-    durationLabel: "Durée du Voyage*",
-    durationPlaceholder: "Sélectionner la Durée",
-    duration3to5: "3 à 5 Jours",
-    duration6to8: "6 à 8 Jours",
-    duration9to12: "9 à 12 Jours",
-    duration13plus: "13 Jours et Plus",
-    budgetLabel: "Budget Approximatif (par personne)",
-    budgetPlaceholder: "Sélectionner une Tranche de Budget",
-    budgetEconomy: "Économique (₹15 000 – ₹30 000)",
-    budgetMid: "Intermédiaire (₹30 000 – ₹60 000)",
-    budgetLuxury: "Luxe (₹60 000+)",
-    budgetFlexible: "Flexible / Pas encore décidé",
-    specialLabel: "Exigences Particulières",
-    specialPlaceholder:
-      "Besoins alimentaires, exigences d'accessibilité, occasions spéciales, etc.",
-    submitButton: "Obtenir un Itinéraire Personnalisé",
-    privacyNote:
-      "Nous respectons votre vie privée. Vos informations ne seront pas partagées.",
-    // FAQ
-    faqTitle: "FAQ sur les Tours Personnalisés",
-    faqSubtitle:
-      "Réponses aux questions fréquentes sur nos forfaits voyage personnalisés.",
-    faq1Question:
-      "Organisez-vous des tours pour les familles, les groupes ou les voyageurs en solo ?",
-    faq1Answer:
-      "Nous concevons des tours pour tout le monde : les familles, les groupes d'amis, les aventuriers en solo et tous ceux qui aiment s'évader. Qu'il s'agisse de vacances relaxantes, d'un voyage en solitaire ou d'une aventure pleine de spontanéité, nous façonnons l'itinéraire comme s'il avait été prévu spécialement pour vous.",
-    faq2Question: "Qu'est-ce qui est inclus dans un forfait personnalisé ?",
-    faq2Answer:
-      "Vous recevrez un itinéraire conçu autour de ce qui compte pour vous. Il comprend les destinations, les hébergements, des transferts confortables et sans tracas, des guides locaux et des activités correspondant à vos centres d'intérêt. Nous gérons les détails pour que vous puissiez vous concentrer uniquement sur l'appréciation de votre voyage.",
-    faq3Question:
-      "Combien de temps faut-il généralement pour concevoir un voyage personnalisé ?",
-    faq3Answer:
-      "Nous visons une planification fluide et ponctuelle. D'abord, notre expert en voyages vous contactera pour discuter de vos exigences en détail. Nous créerons ensuite un itinéraire préliminaire pour votre examen. Vous pourrez demander des modifications jusqu'à ce que l'itinéraire corresponde parfaitement à vos attentes. Une fois finalisé, nous gérons toutes les réservations et vous fournissons des documents de voyage détaillés.",
-    faq4Question:
-      "Puis-je modifier un forfait standard au lieu d'en créer un nouveau ?",
-    faq4Answer:
-      "Absolument. Notre service de planification d'itinéraire est gratuit lorsque vous réservez votre tour avec nous. Veuillez noter que pour les itinéraires complexes nécessitant des recherches importantes, des frais de planification modiques peuvent s'appliquer, entièrement déductibles de votre montant de réservation final.",
-    metadata: {
-      title: "Forfaits Voyage Personnalisés - Global Tourist Centre",
-      description:
-        "Des expériences de voyage sur mesure conçues spécifiquement selon vos préférences et besoins.",
+  servicePages: {
+    // Customize Trip Package
+    customizeTripPackage: {
+      heroTitle: "Forfaits Voyage Personnalisés",
+      aboutTitle: "Votre Voyage, À Votre Façon",
+      aboutDesc:
+        "Nous croyons que chaque voyageur est unique et que vos vacances doivent refléter votre style personnel. Nos forfaits voyage personnalisés sont conçus autour de vos intérêts, de votre budget et de vos préférences de voyage. Que vous recherchiez l'aventure, la détente, la culture ou un mélange de tout, nous créerons un itinéraire parfait pour vous.",
+      whyChooseTitle: "Pourquoi Choisir les Tours Personnalisés :",
+      benefit1: "Adapté à vos intérêts spécifiques et à votre rythme",
+      benefit2: "Dates et durée flexibles",
+      benefit3: "Choix d'hébergements correspondant à votre style",
+      benefit4: "Activités et expériences personnalisées",
+      benefit5: "Guides locaux experts pour des expériences authentiques",
+      benefit6: "Assistance 24h/24 et 7j/7 pendant votre voyage",
+      formTitle: "Créez Vos Vacances de Rêve",
+      formDesc:
+        "Parlez-nous de vos préférences de voyage et nous concevrons un itinéraire personnalisé rien que pour vous.",
+      formHeader: "Commençons",
+      formSubtitle:
+        "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
+      // Form Specifics
+      travelDates: "Dates de Voyage Souhaitées",
+      datesPlaceholder: "Dates flexibles ou précises",
+      travelersLabel: "Nombre de Voyageurs*",
+      travelersPlaceholder: "Adultes et enfants",
+      durationLabel: "Durée du Voyage*",
+      durationPlaceholder: "Sélectionner la Durée",
+      duration3to5: "3 à 5 Jours",
+      duration6to8: "6 à 8 Jours",
+      duration9to12: "9 à 12 Jours",
+      duration13plus: "13 Jours et Plus",
+      budgetLabel: "Budget Approximatif (par personne)",
+      budgetPlaceholder: "Sélectionner une Tranche de Budget",
+      budgetEconomy: "Économique (₹15 000 – ₹30 000)",
+      budgetMid: "Intermédiaire (₹30 000 – ₹60 000)",
+      budgetLuxury: "Luxe (₹60 000+)",
+      budgetFlexible: "Flexible / Pas encore décidé",
+      specialLabel: "Exigences Particulières",
+      specialPlaceholder:
+        "Besoins alimentaires, exigences d'accessibilité, occasions spéciales, etc.",
+      submitButton: "Obtenir un Itinéraire Personnalisé",
+      privacyNote:
+        "Nous respectons votre vie privée. Vos informations ne seront pas partagées.",
+      // FAQ
+      faqTitle: "FAQ sur les Tours Personnalisés",
+      faqSubtitle:
+        "Réponses aux questions fréquentes sur nos forfaits voyage personnalisés.",
+      faq1Question:
+        "Organisez-vous des tours pour les familles, les groupes ou les voyageurs en solo ?",
+      faq1Answer:
+        "Nous concevons des tours pour tout le monde : les familles, les groupes d'amis, les aventuriers en solo et tous ceux qui aiment s'évader. Qu'il s'agisse de vacances relaxantes, d'un voyage en solitaire ou d'une aventure pleine de spontanéité, nous façonnons l'itinéraire comme s'il avait été prévu spécialement pour vous.",
+      faq2Question: "Qu'est-ce qui est inclus dans un forfait personnalisé ?",
+      faq2Answer:
+        "Vous recevrez un itinéraire conçu autour de ce qui compte pour vous. Il comprend les destinations, les hébergements, des transferts confortables et sans tracas, des guides locaux et des activités correspondant à vos centres d'intérêt. Nous gérons les détails pour que vous puissiez vous concentrer uniquement sur l'appréciation de votre voyage.",
+      faq3Question:
+        "Combien de temps faut-il généralement pour concevoir un voyage personnalisé ?",
+      faq3Answer:
+        "Nous visons une planification fluide et ponctuelle. D'abord, notre expert en voyages vous contactera pour discuter de vos exigences en détail. Nous créerons ensuite un itinéraire préliminaire pour votre examen. Vous pourrez demander des modifications jusqu'à ce que l'itinéraire corresponde parfaitement à vos attentes. Une fois finalisé, nous gérons toutes les réservations et vous fournissons des documents de voyage détaillés.",
+      faq4Question:
+        "Puis-je modifier un forfait standard au lieu d'en créer un nouveau ?",
+      faq4Answer:
+        "Absolument. Notre service de planification d'itinéraire est gratuit lorsque vous réservez votre tour avec nous. Veuillez noter que pour les itinéraires complexes nécessitant des recherches importantes, des frais de planification modiques peuvent s'appliquer, entièrement déductibles de votre montant de réservation final.",
+      metadata: {
+        title: "Forfaits Voyage Personnalisés - Global Tourist Centre",
+        description:
+          "Des expériences de voyage sur mesure conçues spécifiquement selon vos préférences et besoins.",
+      },
+    },
+    // Visa Agent
+    visaAgent: {
+      heroTitle: "Services de Visa et de Documentation",
+      aboutTitle: "Simplifiez Votre Procédure de Visa",
+      aboutDesc:
+        "Naviguer dans les exigences en matière de visa peut être complexe et chronophage. Notre service expert d'assistance visa élimine le stress lié à la documentation pour les voyages internationaux. Nous gérons tout, des formulaires de demande à la vérification des documents, afin que votre procédure de visa se déroule sans encombre et avec succès.",
+      servicesTitle: "Nos Services de Visa Comprennent :",
+      service1: "Consultation visa complète pour tous les pays",
+      service2: "Liste de documents et aide à la préparation",
+      service3: "Remplissage et soumission des formulaires de demande",
+      service4: "Prise de rendez-vous avec les ambassades/consulats",
+      service5: "Suivi et contrôle du statut",
+      service6: "Traitement express pour les demandes urgentes",
+      processTitle: "Processus de Demande de Visa",
+      processDesc:
+        "Notre processus étape par étape garantit que votre demande de visa est gérée de manière professionnelle.",
+      step1Title: "Étape 1 : Consultation",
+      step1Desc:
+        "Nous évaluons vos projets de voyage et fournissons des informations détaillées sur les conditions de visa, les délais de traitement et les frais pour votre destination.",
+      step2Title: "Étape 2 : Préparation des Documents",
+      step2Desc:
+        "Nos experts vous guident dans la collecte de tous les documents nécessaires, notamment le passeport, les photographies, les justificatifs financiers et les lettres d'accompagnement.",
+      step3Title: "Étape 3 : Soumission de la Demande",
+      step3Desc:
+        "Nous remplissons tous les formulaires de demande avec précision, planifions les rendez-vous et soumettons votre dossier au consulat ou à l'ambassade compétent.",
+      step4Title: "Étape 4 : Suivi et Récupération",
+      step4Desc:
+        "Nous surveillons le statut de votre demande et vous tenons informé. Une fois approuvé, nous coordonnons la récupération et la livraison de votre passeport.",
+      // Form Specifics
+      formTitle: "Demander une Assistance Visa",
+      formDesc:
+        "Remplissez ce formulaire et nos experts en visa vous contacteront dans les 24 heures.",
+      fullNameLabel: "Nom Complet*",
+      fullNamePlaceholder: "Votre nom complet",
+      emailLabel: "E-mail*",
+      emailPlaceholder: "Votre adresse e-mail",
+      phoneLabel: "Numéro de Téléphone*",
+      phonePlaceholder: "Numéro de téléphone",
+      destinationLabel: "Pays de Destination*",
+      destinationPlaceholder: "Sélectionner le Pays",
+      visaTypeLabel: "Type de Visa*",
+      visaTypePlaceholder: "Sélectionner le Type de Visa",
+      travelDateLabel: "Date de Voyage Prévue*",
+      notesLabel: "Notes Supplémentaires",
+      notesPlaceholder: "Exigences particulières ou notes",
+      submitButton: "Soumettre la Demande de Visa",
+      privacyNote:
+        "Nous respectons votre vie privée. Vos informations ne seront pas partagées.",
+      // FAQ
+      faqTitle: "FAQ sur les Visas",
+      faqDesc: "Questions fréquentes sur nos services d'assistance visa.",
+      faq1Question:
+        "Assistez-vous pour les visas touristiques et les visas d'affaires ?",
+      faq1Answer:
+        "Oui, nous aidons avec la documentation pour les visas touristiques et d'affaires. Nous guidons à travers les formulaires, aidons à rassembler les bons documents et suivons toutes les exigences pour ne rien omettre.",
+      faq2Question:
+        "Quand devrais-je commencer le processus de visa avant ma date de voyage ?",
+      faq2Answer:
+        "Il est judicieux de commencer au moins quelques semaines à l'avance. Certains pays traitent les demandes plus rapidement, d'autres prennent plus de temps. Se donner suffisamment de temps permet d'éviter le stress.",
+      faq3Question:
+        "Proposez-vous la prise de rendez-vous pour les entretiens de visa ?",
+      faq3Answer:
+        "Nous vous aidons à déterminer où aller et comment prendre rendez-vous. Les ambassades et consulats fixent les créneaux disponibles et nous faisons tout notre possible pour vous orienter dans la bonne direction en matière de documents et de préparation.",
+      faq4Question:
+        "Puis-je prolonger mon séjour à l'étranger si mon visa autorise plus de jours que prévu ?",
+      faq4Answer:
+        "Cela dépendra des règles de votre pays de destination. Certains pays vous permettent de rester plus longtemps si votre visa le couvre ou si vous faites une demande de prolongation sur place.",
+      metadata: {
+        title: "Visa et Documentation - Global Tourist Centre",
+        description:
+          "Assistance visa complète et services de documentation pour des voyages internationaux sans tracas.",
+      },
+    },
+    // Hotel Booking
+    hotelBooking: {
+      heroTitle: "Services de Réservation d'Hôtels",
+      aboutTitle: "Trouvez Votre Hébergement Idéal",
+      aboutDesc:
+        "Nous collaborons avec des hôtels du monde entier pour vous offrir les meilleurs hébergements aux tarifs les plus compétitifs. Que vous recherchiez un séjour économique, un hôtel de charme ou un complexe de luxe, nous avons des options adaptées à toutes les préférences et tous les budgets. Notre expertise locale garantit les meilleurs emplacements et équipements pour vos besoins.",
+      whyBookTitle: "Pourquoi Réserver Avec Nous :",
+      benefit1: "Accès à des tarifs exclusifs et des offres spéciales",
+      benefit2: "Avis vérifiés et recommandations personnelles",
+      benefit3: "Assistance client 24h/24 pour tout problème",
+      benefit4: "Politiques d'annulation flexibles",
+      benefit5: "Forfaits combinés avec vols et activités",
+      benefit6: "Service personnalisé d'experts hôteliers",
+      formTitle: "Demande de Réservation d'Hôtel",
+      formDesc:
+        "Remplissez ce formulaire et nous trouverons l'hôtel idéal pour votre séjour.",
+      formHeader: "Trouvons Votre Hébergement Idéal",
+      formSubtitle:
+        "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
+      yourName: "Votre Nom*",
+      namePlaceholder: "Nom complet",
+      email: "E-mail*",
+      emailPlaceholder: "Votre adresse e-mail",
+      phone: "Numéro de Téléphone*",
+      phonePlaceholder: "Numéro de téléphone avec indicatif pays",
+      destination: "Ville/Destination*",
+      destinationPlaceholder: "Où souhaitez-vous séjourner ?",
+      checkIn: "Date d'Arrivée*",
+      checkOut: "Date de Départ*",
+      guests: "Nombre de Personnes*",
+      guestsPlaceholder: "Adultes",
+      rooms: "Nombre de Chambres*",
+      roomsPlaceholder: "Chambres nécessaires",
+      category: "Catégorie d'Hôtel Souhaitée",
+      categoryPlaceholder: "Toute Catégorie",
+      budget: "Budget Approximatif (par nuit)",
+      budgetPlaceholder: "Votre fourchette de budget",
+      message: "Demandes Particulières",
+      messagePlaceholder: "Préférences de chambre, besoins d'accessibilité, etc.",
+      submit: "Chercher des Hôtels",
+      // FAQ
+      faqTitle: "FAQ sur la Réservation d'Hôtels",
+      faqDesc: "Questions fréquentes sur nos services de réservation d'hôtels.",
+      faq1Question:
+        "Proposez-vous des réservations d'hôtels nationaux et internationaux ?",
+      faq1Answer:
+        "Absolument. Nous collaborons avec des hôtels du monde entier pour vous offrir les meilleurs hébergements aux tarifs les plus compétitifs. Que vous recherchiez un séjour économique, un hôtel de charme ou un complexe de luxe, nous avons des options pour chaque préférence et budget.",
+      faq2Question:
+        "Pouvez-vous réserver des hôtels dans le cadre d'un forfait complet ou uniquement des séjours indépendants ?",
+      faq2Answer:
+        "Nous pouvons faire les deux. Vous pouvez demander une réservation indépendante ou nous faire réserver l'hôtel dans le cadre de votre forfait complet avec vols, transferts et activités. Quoi que vous ayez besoin, nous gérons les détails.",
+      faq3Question: "Puis-je modifier ou annuler ma réservation d'hôtel ?",
+      faq3Answer:
+        "Les politiques de modification et d'annulation varient selon l'hôtel. La plupart des réservations peuvent être modifiées ou annulées gratuitement jusqu'à 24 à 48 heures avant l'arrivée. Certains tarifs spéciaux peuvent être soumis à des conditions différentes. Votre e-mail de confirmation précisera la politique d'annulation applicable à votre réservation.",
+      faq4Question:
+        "Puis-je réserver plusieurs hôtels dans différentes villes sous un même itinéraire ?",
+      faq4Answer:
+        "Certainement. Par exemple, si votre voyage vous emmène de Mumbai au Sikkim jusqu'aux Andaman, nous réserverons chaque hôtel pour les bonnes nuits tout au long de votre périple. Nous sommes là pour rendre vos déplacements parfaits, même si vous souhaitez modifier vos plans ou ajouter une étape ultérieurement.",
+      metadata: {
+        title: "Réservation d'Hôtels - Global Tourist Centre",
+        description:
+          "Réservez l'hôtel idéal pour votre séjour avec notre large sélection d'hébergements dans le monde entier.",
+      },
+    },
+    // Flight Booking
+    flightBooking: {
+      heroTitle: "Services de Réservation de Vols",
+      aboutTitle: "Voyagez en Toute Sérénité",
+      aboutDesc:
+        "En tant qu'agent de réservation de vols agréé, nous vous donnons accès à des tarifs aériens compétitifs auprès de toutes les grandes compagnies aériennes. Que vous ayez besoin de vols intérieurs en Inde ou de liaisons internationales dans le monde entier, notre équipe expérimentée trouvera pour vous les meilleures routes et les meilleurs prix. Nous gérons tout, des simples billets aller simple aux itinéraires complexes multi-villes.",
+      servicesTitle: "Nos Services de Vol Comprennent :",
+      service1: "Réservations de vols nationaux et internationaux",
+      service2: "Itinéraires multi-villes et aller-retour",
+      service3: "Sélection des sièges et préférences de repas",
+      service4: "Assistance pour les modifications et annulations de vols",
+      service5: "Réductions pour les réservations de groupe",
+      service6: "Assistance à la réservation 24h/24",
+      formTitle: "Demande de Réservation de Vol",
+      formDesc:
+        "Fournissez vos détails de voyage et nous trouverons les meilleures options de vol pour vous.",
+      formHeader: "Commençons",
+      formSubtitle:
+        "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
+      yourName: "Votre Nom*",
+      namePlaceholder: "Nom complet",
+      email: "E-mail*",
+      emailPlaceholder: "Votre adresse e-mail",
+      phone: "Numéro de Téléphone*",
+      phonePlaceholder: "Numéro de téléphone avec indicatif pays",
+      tripType: "Type de Voyage*",
+      tripTypePlaceholder: "Sélectionner le Type de Voyage",
+      from: "De (Ville/Aéroport)*",
+      fromPlaceholder: "Ville de départ",
+      to: "Vers (Ville/Aéroport)*",
+      toPlaceholder: "Ville de destination",
+      departureDate: "Date de Départ*",
+      returnDate: "Date de Retour",
+      adults: "Adultes (12 ans et plus)*",
+      children: "Enfants (2 à 11 ans)",
+      infants: "Nourrissons (moins de 2 ans)",
+      preferredClass: "Classe Souhaitée*",
+      preferredClassPlaceholder: "Économique",
+      preferredAirlines: "Compagnies Aériennes Préférées",
+      preferredAirlinesPlaceholder: "Des compagnies aériennes spécifiques ?",
+      message: "Demandes Particulières",
+      messagePlaceholder: "Préférences de siège, régimes alimentaires, etc.",
+      submit: "Chercher des Vols",
+      // FAQ
+      faqTitle: "FAQ sur la Réservation de Vols",
+      faqDesc: "Questions fréquentes sur nos services de réservation de vols.",
+      faq1Question:
+        "Pouvez-vous ajouter un siège bébé/enfant, un animal de compagnie ou du matériel sportif à ma réservation ?",
+      faq1Answer:
+        "Nous pouvons vous guider sur la manière d'inclure des articles spéciaux comme des sièges bébé ou du matériel sportif. De nombreuses compagnies aériennes permettent de les ajouter via des services supplémentaires lors de la réservation. Pour les animaux de compagnie, cela dépend des règles de la compagnie. Nous vous informerons de ce qui est autorisé et de la manière de l'inclure lors de la réservation.",
+      faq2Question:
+        "Pouvez-vous coordonner la navette depuis ou vers l'aéroport en plus des vols ?",
+      faq2Answer:
+        "Oui, nous nous en occupons. Vous pouvez nous demander d'organiser une navette à votre destination dans le cadre de votre itinéraire.",
+      faq3Question:
+        "Quelle est la politique d'annulation, de modification ou de remboursement pour les réservations ?",
+      faq3Answer:
+        "Tout est défini par la compagnie aérienne ou les conditions du billet. Nous sommes là pour vous présenter les options afin que vous puissiez choisir ce qui vous convient, que vous ayez besoin de changer les dates ou d'annuler complètement.",
+      faq4Question:
+        "Quelle assistance proposez-vous en cas de retard ou d'annulation de mon vol ?",
+      faq4Answer:
+        "En cas de retard ou d'annulation, nous sommes là pour vous aider. Contactez-nous et nous vous guiderons sur les prochaines étapes : rebooking, assistance à l'aéroport ou vols alternatifs. Nous vous aidons à garder votre calme et à continuer votre voyage.",
+      metadata: {
+        title: "Réservation de Vols - Global Tourist Centre",
+        description:
+          "Réservez des vols nationaux et internationaux aux meilleurs tarifs avec nos services experts de réservation de vols.",
+      },
+    },
+    // Group Trip
+    groupTrip: {
+      heroTitle: "Tours et Forfaits de Groupe",
+      aboutTitle: "Voyagez Ensemble, Économisez Ensemble",
+      aboutDesc:
+        "Nos tours de groupe offrent le mélange parfait de liens sociaux, de commodité et de rapport qualité-prix. Que vous voyagiez en famille, entre amis ou avec des collègues, nos itinéraires de groupe soigneusement planifiés prennent en charge tous les détails pour que vous puissiez vous concentrer sur le plaisir de voyager ensemble. Grâce aux remises de groupe spéciales et aux chefs de groupe dédiés, vivez plus d'expériences en dépensant moins.",
+      benefitsTitle: "Avantages du Voyage en Groupe :",
+      benefit1: "Économies significatives grâce aux remises de groupe",
+      benefit2: "Chef de groupe professionnel tout au long du voyage",
+      benefit3: "Itinéraires pré-planifiés avec flexibilité",
+      benefit4: "Rencontrez des voyageurs partageant les mêmes centres d'intérêt",
+      benefit5: "Logistique et transferts sans tracas",
+      benefit6: "Activités de groupe et expériences de cohésion",
+      formTitle: "Commençons",
+      formDesc:
+        "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
+      formHeader: "Commençons",
+      formSubtitle:
+        "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
+      groupOrganizerName: "Nom de l'Organisateur du Groupe*",
+      namePlaceholder: "Nom complet",
+      phoneNumber: "Numéro de Téléphone*",
+      phonePlaceholder: "Numéro de téléphone avec indicatif pays",
+      groupType: "Type de Groupe*",
+      groupTypePlaceholder: "Sélectionner le Type de Groupe",
+      groupSize: "Taille Approximative du Groupe*",
+      groupSizePlaceholder: "Minimum 8 personnes",
+      destination: "Destination(s) d'Intérêt*",
+      destinationPlaceholder: "Où votre groupe souhaite-t-il aller ?",
+      startDate: "Date de Début Souhaitée",
+      startDatePlaceholder: "jj/mm/aaaa",
+      tripDuration: "Durée du Voyage (Jours)",
+      tripDurationPlaceholder: "Nombre de jours",
+      budget: "Budget Approximatif (par personne)",
+      budgetPlaceholder: "Votre fourchette de budget",
+      interests: "Intérêts/Activités du Groupe",
+      interestsPlaceholder:
+        "Quels types d'expériences intéressent votre groupe ?",
+      submit: "Demander une Proposition de Groupe",
+      privacyFooter:
+        "Nous respectons votre vie privée. Vos informations ne seront pas partagées.",
+      // FAQ
+      faqTitle: "FAQ sur les Tours de Groupe",
+      faqDesc: "Questions fréquentes sur nos services de voyage en groupe.",
+      faq1Question:
+        "Quelle est la taille minimale et maximale du groupe pour vos tours nationaux et internationaux ?",
+      faq1Answer:
+        "La plupart de nos tours sont conçus pour de petits groupes, souvent entre six et douze voyageurs à la fois. Si demandé, nous pouvons augmenter légèrement la taille selon le type de voyage et vos préférences.",
+      faq2Question:
+        "Comment assurez-vous une coordination fluide et une bonne gestion du temps lors d'un voyage de groupe ?",
+      faq2Answer:
+        "Nous planifions chaque journée avec des horaires précis, des transports confortables et des guides locaux de confiance qui connaissent bien la région. Nous nous assurons également de rester en contact tout au long du voyage, afin que rien ne déraille et que vous ayez toujours quelque chose à attendre avec impatience.",
+      faq3Question:
+        "Pouvez-vous organiser les visas, vols et réservations d'hôtels pour tous les membres du groupe ?",
+      faq3Answer:
+        "Oui, nous gérons tout de A à Z pour votre groupe. Une fois que nous avons tous les détails de chaque participant, nous nous occupons des vols, des hébergements, des visas, des transferts et les intégrons dans un itinéraire cohérent. Vous voyagez sereinement avec votre groupe pendant que nous coordonnons la logistique.",
+      faq4Question:
+        "Quels plans de paiement ou options d'échelonnement proposez-vous pour les réservations de groupe ?",
+      faq4Answer:
+        "Pour les réservations de groupe, nous demandons généralement un acompte de 25 % pour confirmer les réservations, le solde étant dû 30 à 45 jours avant le départ. Pour les très grands groupes ou les itinéraires complexes, nous pouvons établir un échéancier de paiement avec plusieurs versements. Nous pouvons également accepter des paiements individuels de la part des membres du groupe si c'est préférable.",
+      metadata: {
+        title: "Tours de Groupe - Global Tourist Centre",
+        description:
+          "Tours de groupe organisés pour les familles, les amis et les équipes d'entreprise avec des guides experts et une logistique impeccable.",
+      },
+    },
+    // Common form labels
+    form: {
+      yourName: "Votre Nom*",
+      namePlaceholder: "Nom complet",
+      email: "E-mail*",
+      emailPlaceholder: "Votre adresse e-mail",
+      phone: "Numéro de Téléphone*",
+      phonePlaceholder: "Votre numéro de téléphone",
+      destination: "Destination Souhaitée",
+      destinationPlaceholder: "Où souhaiteriez-vous aller ?",
+      dates: "Dates de Voyage",
+      travelers: "Nombre de Voyageurs",
+      budget: "Fourchette de Budget",
+      message: "Exigences Supplémentaires",
+      messagePlaceholder: "Dites-nous-en plus sur vos préférences...",
+      submit: "Envoyer la Demande",
+      submitting: "Envoi en cours...",
+    },
+    domesticInternational: {
+      hero: {
+        title: "Forfaits Tours Nationaux et Internationaux",
+      },
+      about: {
+        title: "Explorez le Monde Avec Nous",
+        description:
+          "Que vous souhaitiez explorer les joyaux cachés de l'Inde ou vous aventurer vers des destinations internationales exotiques, nous créons des itinéraires personnalisés adaptés à votre style de voyage et à vos préférences. Nos forfaits tours nationaux et internationaux sont conçus pour offrir des expériences authentiques, des hébergements confortables et une logistique sans faille.",
+        whyTitle: "Pourquoi Choisir Nos Forfaits :",
+        points: [
+          "Itinéraires soigneusement élaborés avec des expériences locales",
+          "Guides experts et assistance 24h/24 pendant votre voyage",
+          "Prix compétitifs sans frais cachés",
+          "Options de personnalisation flexibles",
+          "Hébergements et transports sélectionnés avec soin",
+        ],
+      },
+      domestic: {
+        title: "Voyages Nationaux",
+        subtitle:
+          "Explorez la beauté diverse de l'Inde avec nos destinations nationales triées sur le volet.",
+        viewMore: "Voir Plus de Voyages Nationaux",
+      },
+      international: {
+        title: "Voyages Internationaux",
+        subtitle:
+          "Découvrez des destinations exotiques dans le monde entier avec nos forfaits tours internationaux.",
+        viewMore: "Voir Plus de Voyages Internationaux",
+      },
+      faq: {
+        title: "Foire Aux Questions",
+        subtitle:
+          "Trouvez des réponses aux questions courantes sur nos tours nationaux et internationaux.",
+        questions: [
+          {
+            question:
+              "De quels documents avez-vous besoin de ma part au moment de la réservation ?",
+            answer:
+              "Nous aurons besoin d'un passeport valide et d'une pièce d'identité officielle pour lancer la réservation. Selon la destination et les exigences de la compagnie aérienne, nous pourrons vous demander des documents supplémentaires tels que votre carte Aadhaar ou une copie de vos documents de voyage.",
+          },
+          {
+            question:
+              "Proposez-vous une assistance ou des services de traitement de visa ?",
+            answer:
+              "Oui, notre équipe vous guidera tout au long du processus, vous aidera avec les documents nécessaires et s'assurera que tout est en ordre avant la soumission.",
+          },
+          {
+            question:
+              "Quelle est votre politique de remboursement/compensation en cas de défaillance de service (nuits d'hôtel manquées, excursions annulées) ?",
+            answer:
+              "Si une nuit d'hôtel est manquée ou qu'une excursion est annulée en raison d'une défaillance de service, nous interviendrons pour régler la situation. Selon les circonstances, un remboursement ou un crédit de voyage pourra vous être proposé.",
+          },
+          {
+            question:
+              "Dois-je arriver plus tôt à l'aéroport pour les vols internationaux que pour les vols nationaux ?",
+            answer:
+              "Pour les vols nationaux, arrivez à l'aéroport 2 heures avant. Pour les vols internationaux, arrivez 3 à 4 heures avant afin de gérer sereinement la sécurité et l'immigration.",
+          },
+        ],
+      },
+      metadata: {
+        title:
+          "Forfaits Tours Nationaux et Internationaux - Global Tourist Centre",
+        description:
+          "Découvrez nos forfaits tours nationaux et internationaux soigneusement sélectionnés pour des expériences de voyage inoubliables.",
+      },
     },
   },
-  // Visa Agent
-  visaAgent: {
-    heroTitle: "Services de Visa et de Documentation",
-    aboutTitle: "Simplifiez Votre Procédure de Visa",
-    aboutDesc:
-      "Naviguer dans les exigences en matière de visa peut être complexe et chronophage. Notre service expert d'assistance visa élimine le stress lié à la documentation pour les voyages internationaux. Nous gérons tout, des formulaires de demande à la vérification des documents, afin que votre procédure de visa se déroule sans encombre et avec succès.",
-    servicesTitle: "Nos Services de Visa Comprennent :",
-    service1: "Consultation visa complète pour tous les pays",
-    service2: "Liste de documents et aide à la préparation",
-    service3: "Remplissage et soumission des formulaires de demande",
-    service4: "Prise de rendez-vous avec les ambassades/consulats",
-    service5: "Suivi et contrôle du statut",
-    service6: "Traitement express pour les demandes urgentes",
-    processTitle: "Processus de Demande de Visa",
-    processDesc:
-      "Notre processus étape par étape garantit que votre demande de visa est gérée de manière professionnelle.",
-    step1Title: "Étape 1 : Consultation",
-    step1Desc:
-      "Nous évaluons vos projets de voyage et fournissons des informations détaillées sur les conditions de visa, les délais de traitement et les frais pour votre destination.",
-    step2Title: "Étape 2 : Préparation des Documents",
-    step2Desc:
-      "Nos experts vous guident dans la collecte de tous les documents nécessaires, notamment le passeport, les photographies, les justificatifs financiers et les lettres d'accompagnement.",
-    step3Title: "Étape 3 : Soumission de la Demande",
-    step3Desc:
-      "Nous remplissons tous les formulaires de demande avec précision, planifions les rendez-vous et soumettons votre dossier au consulat ou à l'ambassade compétent.",
-    step4Title: "Étape 4 : Suivi et Récupération",
-    step4Desc:
-      "Nous surveillons le statut de votre demande et vous tenons informé. Une fois approuvé, nous coordonnons la récupération et la livraison de votre passeport.",
-    // Form Specifics
-    formTitle: "Demander une Assistance Visa",
-    formDesc:
-      "Remplissez ce formulaire et nos experts en visa vous contacteront dans les 24 heures.",
-    fullNameLabel: "Nom Complet*",
-    fullNamePlaceholder: "Votre nom complet",
-    emailLabel: "E-mail*",
-    emailPlaceholder: "Votre adresse e-mail",
-    phoneLabel: "Numéro de Téléphone*",
-    phonePlaceholder: "Numéro de téléphone",
-    destinationLabel: "Pays de Destination*",
-    destinationPlaceholder: "Sélectionner le Pays",
-    visaTypeLabel: "Type de Visa*",
-    visaTypePlaceholder: "Sélectionner le Type de Visa",
-    travelDateLabel: "Date de Voyage Prévue*",
-    notesLabel: "Notes Supplémentaires",
-    notesPlaceholder: "Exigences particulières ou notes",
-    submitButton: "Soumettre la Demande de Visa",
-    privacyNote:
-      "Nous respectons votre vie privée. Vos informations ne seront pas partagées.",
-    // FAQ
-    faqTitle: "FAQ sur les Visas",
-    faqDesc: "Questions fréquentes sur nos services d'assistance visa.",
-    faq1Question:
-      "Assistez-vous pour les visas touristiques et les visas d'affaires ?",
-    faq1Answer:
-      "Oui, nous aidons avec la documentation pour les visas touristiques et d'affaires. Nous guidons à travers les formulaires, aidons à rassembler les bons documents et suivons toutes les exigences pour ne rien omettre.",
-    faq2Question:
-      "Quand devrais-je commencer le processus de visa avant ma date de voyage ?",
-    faq2Answer:
-      "Il est judicieux de commencer au moins quelques semaines à l'avance. Certains pays traitent les demandes plus rapidement, d'autres prennent plus de temps. Se donner suffisamment de temps permet d'éviter le stress.",
-    faq3Question:
-      "Proposez-vous la prise de rendez-vous pour les entretiens de visa ?",
-    faq3Answer:
-      "Nous vous aidons à déterminer où aller et comment prendre rendez-vous. Les ambassades et consulats fixent les créneaux disponibles et nous faisons tout notre possible pour vous orienter dans la bonne direction en matière de documents et de préparation.",
-    faq4Question:
-      "Puis-je prolonger mon séjour à l'étranger si mon visa autorise plus de jours que prévu ?",
-    faq4Answer:
-      "Cela dépendra des règles de votre pays de destination. Certains pays vous permettent de rester plus longtemps si votre visa le couvre ou si vous faites une demande de prolongation sur place.",
-    metadata: {
-      title: "Visa et Documentation - Global Tourist Centre",
-      description:
-        "Assistance visa complète et services de documentation pour des voyages internationaux sans tracas.",
-    },
-  },
-  // Hotel Booking
-  hotelBooking: {
-    heroTitle: "Services de Réservation d'Hôtels",
-    aboutTitle: "Trouvez Votre Hébergement Idéal",
-    aboutDesc:
-      "Nous collaborons avec des hôtels du monde entier pour vous offrir les meilleurs hébergements aux tarifs les plus compétitifs. Que vous recherchiez un séjour économique, un hôtel de charme ou un complexe de luxe, nous avons des options adaptées à toutes les préférences et tous les budgets. Notre expertise locale garantit les meilleurs emplacements et équipements pour vos besoins.",
-    whyBookTitle: "Pourquoi Réserver Avec Nous :",
-    benefit1: "Accès à des tarifs exclusifs et des offres spéciales",
-    benefit2: "Avis vérifiés et recommandations personnelles",
-    benefit3: "Assistance client 24h/24 pour tout problème",
-    benefit4: "Politiques d'annulation flexibles",
-    benefit5: "Forfaits combinés avec vols et activités",
-    benefit6: "Service personnalisé d'experts hôteliers",
-    formTitle: "Demande de Réservation d'Hôtel",
-    formDesc:
-      "Remplissez ce formulaire et nous trouverons l'hôtel idéal pour votre séjour.",
-    formHeader: "Trouvons Votre Hébergement Idéal",
-    formSubtitle:
-      "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
-    yourName: "Votre Nom*",
-    namePlaceholder: "Nom complet",
-    email: "E-mail*",
-    emailPlaceholder: "Votre adresse e-mail",
-    phone: "Numéro de Téléphone*",
-    phonePlaceholder: "Numéro de téléphone avec indicatif pays",
-    destination: "Ville/Destination*",
-    destinationPlaceholder: "Où souhaitez-vous séjourner ?",
-    checkIn: "Date d'Arrivée*",
-    checkOut: "Date de Départ*",
-    guests: "Nombre de Personnes*",
-    guestsPlaceholder: "Adultes",
-    rooms: "Nombre de Chambres*",
-    roomsPlaceholder: "Chambres nécessaires",
-    category: "Catégorie d'Hôtel Souhaitée",
-    categoryPlaceholder: "Toute Catégorie",
-    budget: "Budget Approximatif (par nuit)",
-    budgetPlaceholder: "Votre fourchette de budget",
-    message: "Demandes Particulières",
-    messagePlaceholder: "Préférences de chambre, besoins d'accessibilité, etc.",
-    submit: "Chercher des Hôtels",
-    // FAQ
-    faqTitle: "FAQ sur la Réservation d'Hôtels",
-    faqDesc: "Questions fréquentes sur nos services de réservation d'hôtels.",
-    faq1Question:
-      "Proposez-vous des réservations d'hôtels nationaux et internationaux ?",
-    faq1Answer:
-      "Absolument. Nous collaborons avec des hôtels du monde entier pour vous offrir les meilleurs hébergements aux tarifs les plus compétitifs. Que vous recherchiez un séjour économique, un hôtel de charme ou un complexe de luxe, nous avons des options pour chaque préférence et budget.",
-    faq2Question:
-      "Pouvez-vous réserver des hôtels dans le cadre d'un forfait complet ou uniquement des séjours indépendants ?",
-    faq2Answer:
-      "Nous pouvons faire les deux. Vous pouvez demander une réservation indépendante ou nous faire réserver l'hôtel dans le cadre de votre forfait complet avec vols, transferts et activités. Quoi que vous ayez besoin, nous gérons les détails.",
-    faq3Question: "Puis-je modifier ou annuler ma réservation d'hôtel ?",
-    faq3Answer:
-      "Les politiques de modification et d'annulation varient selon l'hôtel. La plupart des réservations peuvent être modifiées ou annulées gratuitement jusqu'à 24 à 48 heures avant l'arrivée. Certains tarifs spéciaux peuvent être soumis à des conditions différentes. Votre e-mail de confirmation précisera la politique d'annulation applicable à votre réservation.",
-    faq4Question:
-      "Puis-je réserver plusieurs hôtels dans différentes villes sous un même itinéraire ?",
-    faq4Answer:
-      "Certainement. Par exemple, si votre voyage vous emmène de Mumbai au Sikkim jusqu'aux Andaman, nous réserverons chaque hôtel pour les bonnes nuits tout au long de votre périple. Nous sommes là pour rendre vos déplacements parfaits, même si vous souhaitez modifier vos plans ou ajouter une étape ultérieurement.",
-    metadata: {
-      title: "Réservation d'Hôtels - Global Tourist Centre",
-      description:
-        "Réservez l'hôtel idéal pour votre séjour avec notre large sélection d'hébergements dans le monde entier.",
-    },
-  },
-  // Flight Booking
-  flightBooking: {
-    heroTitle: "Services de Réservation de Vols",
-    aboutTitle: "Voyagez en Toute Sérénité",
-    aboutDesc:
-      "En tant qu'agent de réservation de vols agréé, nous vous donnons accès à des tarifs aériens compétitifs auprès de toutes les grandes compagnies aériennes. Que vous ayez besoin de vols intérieurs en Inde ou de liaisons internationales dans le monde entier, notre équipe expérimentée trouvera pour vous les meilleures routes et les meilleurs prix. Nous gérons tout, des simples billets aller simple aux itinéraires complexes multi-villes.",
-    servicesTitle: "Nos Services de Vol Comprennent :",
-    service1: "Réservations de vols nationaux et internationaux",
-    service2: "Itinéraires multi-villes et aller-retour",
-    service3: "Sélection des sièges et préférences de repas",
-    service4: "Assistance pour les modifications et annulations de vols",
-    service5: "Réductions pour les réservations de groupe",
-    service6: "Assistance à la réservation 24h/24",
-    formTitle: "Demande de Réservation de Vol",
-    formDesc:
-      "Fournissez vos détails de voyage et nous trouverons les meilleures options de vol pour vous.",
-    formHeader: "Commençons",
-    formSubtitle:
-      "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
-    yourName: "Votre Nom*",
-    namePlaceholder: "Nom complet",
-    email: "E-mail*",
-    emailPlaceholder: "Votre adresse e-mail",
-    phone: "Numéro de Téléphone*",
-    phonePlaceholder: "Numéro de téléphone avec indicatif pays",
-    tripType: "Type de Voyage*",
-    tripTypePlaceholder: "Sélectionner le Type de Voyage",
-    from: "De (Ville/Aéroport)*",
-    fromPlaceholder: "Ville de départ",
-    to: "Vers (Ville/Aéroport)*",
-    toPlaceholder: "Ville de destination",
-    departureDate: "Date de Départ*",
-    returnDate: "Date de Retour",
-    adults: "Adultes (12 ans et plus)*",
-    children: "Enfants (2 à 11 ans)",
-    infants: "Nourrissons (moins de 2 ans)",
-    preferredClass: "Classe Souhaitée*",
-    preferredClassPlaceholder: "Économique",
-    preferredAirlines: "Compagnies Aériennes Préférées",
-    preferredAirlinesPlaceholder: "Des compagnies aériennes spécifiques ?",
-    message: "Demandes Particulières",
-    messagePlaceholder: "Préférences de siège, régimes alimentaires, etc.",
-    submit: "Chercher des Vols",
-    // FAQ
-    faqTitle: "FAQ sur la Réservation de Vols",
-    faqDesc: "Questions fréquentes sur nos services de réservation de vols.",
-    faq1Question:
-      "Pouvez-vous ajouter un siège bébé/enfant, un animal de compagnie ou du matériel sportif à ma réservation ?",
-    faq1Answer:
-      "Nous pouvons vous guider sur la manière d'inclure des articles spéciaux comme des sièges bébé ou du matériel sportif. De nombreuses compagnies aériennes permettent de les ajouter via des services supplémentaires lors de la réservation. Pour les animaux de compagnie, cela dépend des règles de la compagnie. Nous vous informerons de ce qui est autorisé et de la manière de l'inclure lors de la réservation.",
-    faq2Question:
-      "Pouvez-vous coordonner la navette depuis ou vers l'aéroport en plus des vols ?",
-    faq2Answer:
-      "Oui, nous nous en occupons. Vous pouvez nous demander d'organiser une navette à votre destination dans le cadre de votre itinéraire.",
-    faq3Question:
-      "Quelle est la politique d'annulation, de modification ou de remboursement pour les réservations ?",
-    faq3Answer:
-      "Tout est défini par la compagnie aérienne ou les conditions du billet. Nous sommes là pour vous présenter les options afin que vous puissiez choisir ce qui vous convient, que vous ayez besoin de changer les dates ou d'annuler complètement.",
-    faq4Question:
-      "Quelle assistance proposez-vous en cas de retard ou d'annulation de mon vol ?",
-    faq4Answer:
-      "En cas de retard ou d'annulation, nous sommes là pour vous aider. Contactez-nous et nous vous guiderons sur les prochaines étapes : rebooking, assistance à l'aéroport ou vols alternatifs. Nous vous aidons à garder votre calme et à continuer votre voyage.",
-    metadata: {
-      title: "Réservation de Vols - Global Tourist Centre",
-      description:
-        "Réservez des vols nationaux et internationaux aux meilleurs tarifs avec nos services experts de réservation de vols.",
-    },
-  },
-  // Group Trip
-  groupTrip: {
-    heroTitle: "Tours et Forfaits de Groupe",
-    aboutTitle: "Voyagez Ensemble, Économisez Ensemble",
-    aboutDesc:
-      "Nos tours de groupe offrent le mélange parfait de liens sociaux, de commodité et de rapport qualité-prix. Que vous voyagiez en famille, entre amis ou avec des collègues, nos itinéraires de groupe soigneusement planifiés prennent en charge tous les détails pour que vous puissiez vous concentrer sur le plaisir de voyager ensemble. Grâce aux remises de groupe spéciales et aux chefs de groupe dédiés, vivez plus d'expériences en dépensant moins.",
-    benefitsTitle: "Avantages du Voyage en Groupe :",
-    benefit1: "Économies significatives grâce aux remises de groupe",
-    benefit2: "Chef de groupe professionnel tout au long du voyage",
-    benefit3: "Itinéraires pré-planifiés avec flexibilité",
-    benefit4: "Rencontrez des voyageurs partageant les mêmes centres d'intérêt",
-    benefit5: "Logistique et transferts sans tracas",
-    benefit6: "Activités de groupe et expériences de cohésion",
-    formTitle: "Commençons",
-    formDesc:
-      "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
-    formHeader: "Commençons",
-    formSubtitle:
-      "Remplissez les détails ci-dessous et nous vous contacterons dans les 24 heures",
-    groupOrganizerName: "Nom de l'Organisateur du Groupe*",
-    namePlaceholder: "Nom complet",
-    phoneNumber: "Numéro de Téléphone*",
-    phonePlaceholder: "Numéro de téléphone avec indicatif pays",
-    groupType: "Type de Groupe*",
-    groupTypePlaceholder: "Sélectionner le Type de Groupe",
-    groupSize: "Taille Approximative du Groupe*",
-    groupSizePlaceholder: "Minimum 8 personnes",
-    destination: "Destination(s) d'Intérêt*",
-    destinationPlaceholder: "Où votre groupe souhaite-t-il aller ?",
-    startDate: "Date de Début Souhaitée",
-    startDatePlaceholder: "jj/mm/aaaa",
-    tripDuration: "Durée du Voyage (Jours)",
-    tripDurationPlaceholder: "Nombre de jours",
-    budget: "Budget Approximatif (par personne)",
-    budgetPlaceholder: "Votre fourchette de budget",
-    interests: "Intérêts/Activités du Groupe",
-    interestsPlaceholder:
-      "Quels types d'expériences intéressent votre groupe ?",
-    submit: "Demander une Proposition de Groupe",
-    privacyFooter:
-      "Nous respectons votre vie privée. Vos informations ne seront pas partagées.",
-    // FAQ
-    faqTitle: "FAQ sur les Tours de Groupe",
-    faqDesc: "Questions fréquentes sur nos services de voyage en groupe.",
-    faq1Question:
-      "Quelle est la taille minimale et maximale du groupe pour vos tours nationaux et internationaux ?",
-    faq1Answer:
-      "La plupart de nos tours sont conçus pour de petits groupes, souvent entre six et douze voyageurs à la fois. Si demandé, nous pouvons augmenter légèrement la taille selon le type de voyage et vos préférences.",
-    faq2Question:
-      "Comment assurez-vous une coordination fluide et une bonne gestion du temps lors d'un voyage de groupe ?",
-    faq2Answer:
-      "Nous planifions chaque journée avec des horaires précis, des transports confortables et des guides locaux de confiance qui connaissent bien la région. Nous nous assurons également de rester en contact tout au long du voyage, afin que rien ne déraille et que vous ayez toujours quelque chose à attendre avec impatience.",
-    faq3Question:
-      "Pouvez-vous organiser les visas, vols et réservations d'hôtels pour tous les membres du groupe ?",
-    faq3Answer:
-      "Oui, nous gérons tout de A à Z pour votre groupe. Une fois que nous avons tous les détails de chaque participant, nous nous occupons des vols, des hébergements, des visas, des transferts et les intégrons dans un itinéraire cohérent. Vous voyagez sereinement avec votre groupe pendant que nous coordonnons la logistique.",
-    faq4Question:
-      "Quels plans de paiement ou options d'échelonnement proposez-vous pour les réservations de groupe ?",
-    faq4Answer:
-      "Pour les réservations de groupe, nous demandons généralement un acompte de 25 % pour confirmer les réservations, le solde étant dû 30 à 45 jours avant le départ. Pour les très grands groupes ou les itinéraires complexes, nous pouvons établir un échéancier de paiement avec plusieurs versements. Nous pouvons également accepter des paiements individuels de la part des membres du groupe si c'est préférable.",
-    metadata: {
-      title: "Tours de Groupe - Global Tourist Centre",
-      description:
-        "Tours de groupe organisés pour les familles, les amis et les équipes d'entreprise avec des guides experts et une logistique impeccable.",
-    },
-  },
-  // Common form labels
-  form: {
-    yourName: "Votre Nom*",
-    namePlaceholder: "Nom complet",
-    email: "E-mail*",
-    emailPlaceholder: "Votre adresse e-mail",
-    phone: "Numéro de Téléphone*",
-    phonePlaceholder: "Votre numéro de téléphone",
-    destination: "Destination Souhaitée",
-    destinationPlaceholder: "Où souhaiteriez-vous aller ?",
-    dates: "Dates de Voyage",
-    travelers: "Nombre de Voyageurs",
-    budget: "Fourchette de Budget",
-    message: "Exigences Supplémentaires",
-    messagePlaceholder: "Dites-nous-en plus sur vos préférences...",
-    submit: "Envoyer la Demande",
-    submitting: "Envoi en cours...",
-  },
-  domesticInternational: {
-    hero: {
-      title: "Forfaits Tours Nationaux et Internationaux",
-    },
-    about: {
-      title: "Explorez le Monde Avec Nous",
-      description:
-        "Que vous souhaitiez explorer les joyaux cachés de l'Inde ou vous aventurer vers des destinations internationales exotiques, nous créons des itinéraires personnalisés adaptés à votre style de voyage et à vos préférences. Nos forfaits tours nationaux et internationaux sont conçus pour offrir des expériences authentiques, des hébergements confortables et une logistique sans faille.",
-      whyTitle: "Pourquoi Choisir Nos Forfaits :",
-      points: [
-        "Itinéraires soigneusement élaborés avec des expériences locales",
-        "Guides experts et assistance 24h/24 pendant votre voyage",
-        "Prix compétitifs sans frais cachés",
-        "Options de personnalisation flexibles",
-        "Hébergements et transports sélectionnés avec soin",
-      ],
-    },
-    domestic: {
-      title: "Voyages Nationaux",
-      subtitle:
-        "Explorez la beauté diverse de l'Inde avec nos destinations nationales triées sur le volet.",
-      viewMore: "Voir Plus de Voyages Nationaux",
-    },
-    international: {
-      title: "Voyages Internationaux",
-      subtitle:
-        "Découvrez des destinations exotiques dans le monde entier avec nos forfaits tours internationaux.",
-      viewMore: "Voir Plus de Voyages Internationaux",
-    },
-    faq: {
-      title: "Foire Aux Questions",
-      subtitle:
-        "Trouvez des réponses aux questions courantes sur nos tours nationaux et internationaux.",
-      questions: [
-        {
-          question:
-            "De quels documents avez-vous besoin de ma part au moment de la réservation ?",
-          answer:
-            "Nous aurons besoin d'un passeport valide et d'une pièce d'identité officielle pour lancer la réservation. Selon la destination et les exigences de la compagnie aérienne, nous pourrons vous demander des documents supplémentaires tels que votre carte Aadhaar ou une copie de vos documents de voyage.",
-        },
-        {
-          question:
-            "Proposez-vous une assistance ou des services de traitement de visa ?",
-          answer:
-            "Oui, notre équipe vous guidera tout au long du processus, vous aidera avec les documents nécessaires et s'assurera que tout est en ordre avant la soumission.",
-        },
-        {
-          question:
-            "Quelle est votre politique de remboursement/compensation en cas de défaillance de service (nuits d'hôtel manquées, excursions annulées) ?",
-          answer:
-            "Si une nuit d'hôtel est manquée ou qu'une excursion est annulée en raison d'une défaillance de service, nous interviendrons pour régler la situation. Selon les circonstances, un remboursement ou un crédit de voyage pourra vous être proposé.",
-        },
-        {
-          question:
-            "Dois-je arriver plus tôt à l'aéroport pour les vols internationaux que pour les vols nationaux ?",
-          answer:
-            "Pour les vols nationaux, arrivez à l'aéroport 2 heures avant. Pour les vols internationaux, arrivez 3 à 4 heures avant afin de gérer sereinement la sécurité et l'immigration.",
-        },
-      ],
-    },
-    metadata: {
-      title:
-        "Forfaits Tours Nationaux et Internationaux - Global Tourist Centre",
-      description:
-        "Découvrez nos forfaits tours nationaux et internationaux soigneusement sélectionnés pour des expériences de voyage inoubliables.",
-    },
-  },
-},
   // Why Choose Us
   whyChoose: {
     title: "Pourquoi Choisir Global Tourist Centre",
@@ -1748,7 +1752,7 @@ export const fr = {
       description:
         "Admirez les anciennes grottes rupestres d’Ellora et d’Ajanta mettant en valeur l’art bouddhiste, hindou et jaïn.",
     },
-    "odhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-from-goa": {
       title: "Circuit royal du Rajasthan : Udaipur & Jodhpur",
       duration: "4 nuits / 5 jours",
       description:
@@ -1810,7 +1814,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Wondrous Wildernest 2N/3D Trip. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre séjour Wildernest de 2 nuits/3 jours. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2004,7 +2008,7 @@ export const fr = {
           "title": "Goa du Nord – Goa Portugaise",
           "herotitle": "Goa du Nord – Goa Portugaise",
           "subtitle": "Tour d'une journée entière à travers les plages, forts et patrimoine portugais du Goa du Nord",
-          "backgroundImage": "../../assets/hero/Goa-1-hero.webp",
+          "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Journée entière",
             "locations": "Goa du Nord",
@@ -2023,7 +2027,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your North Goa Full Day tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre excursion d'une journée dans le Nord de Goa. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2190,7 +2194,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Sightseeing with Sunset Cruise tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par la visite du Sud de Goa avec croisière au coucher du soleil. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2384,7 +2388,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Palolem Cola Full-Day Tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre excursion d'une journée à Palolem et Cola. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2575,7 +2579,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in the South Goa Cultural Full-Day Tour. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par le circuit culturel d'une journée dans le Sud de Goa. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2742,7 +2746,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your South Goa tour package. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre forfait Sud de Goa. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -2912,7 +2916,7 @@ export const fr = {
         "contact": {
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Delhi to Agra tour package. Please send me details."
+            "message": "Bonjour ! Je suis intéressé(e) par votre forfait Delhi-Agra. Pouvez-vous m'envoyer les détails ?"
           },
           "phone": "+919067972295"
         }
@@ -3609,6 +3613,7 @@ export const fr = {
         slug: "luxury-yacht-day-tour-goa",
         type: "",
         hero: {
+          "herotitle": "Tour yacht de luxe : coucher de soleil à dîner expérience",
           title: "Forfait Journée en Yacht 3J/2N – Croisière de Luxe au Coucher du Soleil à Goa",
           subtitle:
             "Une expérience premium exclusive de 6 heures avec piscine à débordement, DJ live, dîner gastronomique et coucher de soleil",
@@ -5419,7 +5424,7 @@ export const fr = {
         slug: "amritsar-tour-package-from-goa-2n3d",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Voyage à Amritsar 3J/2N – Temple d'Or et Wagah Border",
+"herotitle": "Tour Amritsar",
           subtitle:
             "2 nuits 3 jours à la découverte du Temple d'Or, de la frontière de Wagah, de Jallianwala Bagh et du patrimoine culturel d'Amritsar",
           backgroundImage: "/assets/hero/Amritsar-hero.webp",
@@ -5713,7 +5718,7 @@ export const fr = {
         slug: "bijapur-heritage-tour-from-goa",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Bijapur 2J/1N au départ de Goa | Aihole & Pattadakal",
+          "herotitle": "Tour Bijapur, Pattadakal et Aihole",
           subtitle:
             "1 nuit 2 jours à la découverte de l'historique Bijapur, du site Pattadakal classé au patrimoine mondial de l'UNESCO et des anciens temples d'Aihole",
           backgroundImage: "/assets/hero/Bijapur-hero.webp",
@@ -5759,23 +5764,119 @@ export const fr = {
           description: "Site du patrimoine de Pattadakal",
         },
       ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Goa → Bijapur (Vijayapura)",
-          description:
-            "5h00 – Prise en charge à l'hôtel à Goa.Commencez votre voyage tôt avec un taxi AC confortable.Rencontrez votre guide anglophone, qui vous accompagnera tout au long de la visite.Profitez d'une route panoramique à travers les Ghâts occidentaux et sur le plateau du Deccan du Karnataka",
-          category: "activity",
-        },
-        {
-          time: "Day 2",
-          title: "Bijapur → Aihole → Pattadakal → Goa",
-          description:
-            "7h00 – Petit-déjeuner à l’hôtel.Commencez votre journée avec un petit-déjeuner sain avant de payer",
-          category: "activity",
-          highlight: true,
-        },
-      ],
+"itinerary": [
+  {
+    "time": "Jour 1 · 5:00",
+    "title": "Prise en charge à l'hôtel à Goa",
+    "description": "Prise en charge tôt le matin depuis votre hôtel à Goa.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 1 · 8:00",
+    "title": "Arrêt petit-déjeuner",
+    "description": "Petit-déjeuner.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 1 · 12:00",
+    "title": "Arrivée à Bijapur",
+    "description": "Arrivée et début de la visite.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 1 · 12:15",
+    "title": "Gol Gumbaz",
+    "description": "Visite de Gol Gumbaz.",
+    "category": "exploration",
+    "highlight": true
+  },
+  {
+    "time": "Jour 1 · 1:30",
+    "title": "Ibrahim Rauza",
+    "description": "Visite.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 1 · 2:15",
+    "title": "Déjeuner",
+    "description": "Déjeuner.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 1 · 3:15",
+    "title": "Fort de Bijapur",
+    "description": "Visite.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 1 · 4:30",
+    "title": "Jama Masjid",
+    "description": "Visite.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 1 · 6:00",
+    "title": "Check-in hôtel",
+    "description": "Installation.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 1 · 7:30",
+    "title": "Dîner",
+    "description": "Dîner.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 2 · 7:00",
+    "title": "Petit-déjeuner",
+    "description": "Petit-déjeuner.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 2 · 7:30",
+    "title": "Route vers Aihole",
+    "description": "Trajet.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 2 · 9:30",
+    "title": "Temples d’Aihole",
+    "description": "Visite.",
+    "category": "exploration",
+    "highlight": true
+  },
+  {
+    "time": "Jour 2 · 11:30",
+    "title": "Route vers Pattadakal",
+    "description": "Trajet.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 2 · 12:00",
+    "title": "Temples de Pattadakal",
+    "description": "Visite.",
+    "category": "exploration",
+    "highlight": true
+  },
+  {
+    "time": "Jour 2 · 1:30",
+    "title": "Déjeuner",
+    "description": "Déjeuner.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 2 · 2:30",
+    "title": "Retour à Goa",
+    "description": "Retour.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 2 · 7:30",
+    "title": "Arrivée à Goa",
+    "description": "Fin du tour.",
+    "category": "arrival"
+  }
+],
       gallery: [
         {
           title: "Gol Gumbaz",
@@ -6019,7 +6120,7 @@ export const fr = {
         slug: "dandeli-2-day-tour-from-goa",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Voyage Dandeli – Safari Éléphant & Tigre 2J/1N au départ de Goa",
+          title: "Forfait tour Dandeli avec safari éléphant et tigre",
           subtitle:
             "1 nuit 2 jours à la découverte de la réserve faunique de Dandeli avec interaction avec les éléphants et safari avec les tigres",
           backgroundImage: "/assets/hero/Dandeli-hero.webp",
@@ -6065,114 +6166,100 @@ export const fr = {
           description: "Safari éléphants et tigres",
         },
       ],
-      itinerary: [
-        {
-          time: "Jour 1 · 5h00",
-          title: "Départ de l’hôtel à Goa",
-          description:
-            "Départ matinal en voiture climatisée depuis votre hôtel à Goa. Rencontrez votre guide francophone et profitez du trajet à travers les forêts, rivières et montagnes des Ghâts occidentaux vers Dandeli.",
-          category: "voyage",
-        },
-        {
-          time: "Jour 1 · 7h30",
-          title: "Petit‑déjeuner en route",
-          description:
-            "Arrêt dans un restaurant local pour un petit‑déjeuner typique du sud de l’Inde avant d’entrer dans la forêt de Dandeli.",
-          category: "repas",
-        },
-        {
-          time: "Jour 1 · 9h30",
-          title: "Arrivée à Dandeli & installation à l’hôtel",
-          description:
-            "Arrivée à Dandeli et installation dans un écolodge ou resort 3 étoiles au cœur de la forêt. Temps pour vous rafraîchir avant les activités.",
-          category: "arrivée",
-        },
-        {
-          time: "Jour 1 · 10h30",
-          title: "Interaction avec les éléphants & visite du sanctuaire",
-          description:
-            "Découvrez la zone de conservation des éléphants et observez‑les dans leur environnement naturel. Apprenez‑en plus sur leur comportement et leur protection.",
-          category: "faune",
-          highlight: true,
-        },
-        {
-          time: "Jour 1 · 12h00",
-          title: "Balade nature & observation des oiseaux",
-          description:
-            "Promenade guidée dans la forêt luxuriante de Dandeli – apercevez des calaos, martins‑pêcheurs, pics et autres espèces tropicales.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 1 · 13h30",
-          title: "Déjeuner (libre)",
-          description:
-            "Déjeuner au restaurant de l’hôtel avec choix végétarien et non végétarien.",
-          category: "repas",
-        },
-        {
-          time: "Jour 1 · 15h00",
-          title: "Rochers de Syntheri",
-          description:
-            "Visitez les Rochers de Syntheri, imposante formation monolithique sculptée par la rivière Kaneri – rivières, nids d’abeilles et paysages spectaculaires.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 1 · 17h30",
-          title: "Point de vue au coucher du soleil",
-          description:
-            "Admirez le coucher de soleil sur les eaux tranquilles du fleuve Kali – moment de calme et de relaxation.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 1 · 19h00",
-          title: "Dîner & nuit à Dandeli",
-          description:
-            "Retour à l’hôtel, dîner et nuit reposante dans votre hébergement 3 étoiles.",
-          category: "arrivée",
-        },
-        {
-          time: "Jour 2 · 5h30",
-          title: "Réveil & thé/café",
-          description:
-            "Réveil matinal avec boisson chaude avant le safari aux heures de forte activité animalière.",
-          category: "repas",
-        },
-        {
-          time: "Jour 2 · 6h00",
-          title: "Safari tigres – réserve de Dandeli",
-          description:
-            "Partez en safari dans la réserve de Dandeli accompagné de votre guide et des forestiers – possibles rencontres avec tigres, éléphants, cerfs et écureuils géants.",
-          category: "faune",
-          highlight: true,
-        },
-        {
-          time: "Jour 2 · 9h00",
-          title: "Retour à l’hôtel & petit‑déjeuner",
-          description: "Retour au lodge et copieux petit‑déjeuner.",
-          category: "repas",
-        },
-        {
-          time: "Jour 2 · 10h00",
-          title: "Départ & retour à Goa",
-          description:
-            "Check‑out de l’hôtel et route panoramique vers Goa à travers les montagnes et forêts.",
-          category: "voyage",
-        },
-        {
-          time: "Jour 2 · 13h00",
-          title: "Déjeuner en route (libre)",
-          description:
-            "Arrêt déjeuner dans un restaurant de route recommandé par le guide.",
-          category: "repas",
-        },
-        {
-          time: "Jour 2 · 16h30",
-          title: "Arrivée à Goa",
-          description:
-            "Retour à votre hôtel à Goa – fin de l’expérience « Safari éléphants et tigres de Dandeli ».",
-          category: "arrivée",
-        },
-      ],
+"itinerary": [
+  {
+    "time": "Jour 1 · 5:00",
+    "title": "Prise en charge à l'hôtel à Goa",
+    "description": "Prise en charge tôt le matin depuis votre hôtel à Goa dans un véhicule climatisé confortable. Rencontre avec votre guide parlant russe qui vous accompagnera pendant tout le voyage. Profitez des vues des forêts, rivières et des Ghâts occidentaux en voyageant vers Dandeli.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 1 · 7:30",
+    "title": "Petit-déjeuner en route",
+    "description": "Arrêt dans un restaurant local pour un petit-déjeuner sud-indien avant d'entrer dans la région forestière de Dandeli.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 1 · 9:30",
+    "title": "Arrivée à Dandeli et enregistrement à l'hôtel",
+    "description": "Arrivée à Dandeli et enregistrement dans un lodge ou resort 3 étoiles entouré de nature. Se rafraîchir et se préparer pour les activités.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 1 · 10:30",
+    "title": "Interaction avec les éléphants et visite de l'habitat forestier",
+    "description": "Visite de la zone de conservation des éléphants pour observer les éléphants dans leur environnement naturel. Activités incluant observation et apprentissage sur leur comportement et leur protection.",
+    "category": "wildlife",
+    "highlight": true
+  },
+  {
+    "time": "Jour 1 · 12:00",
+    "title": "Promenade nature et observation des oiseaux",
+    "description": "Promenade guidée dans la nature. Observation d'oiseaux.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 1 · 13:30",
+    "title": "Pause déjeuner",
+    "description": "Déjeuner optionnel.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 1 · 15:00",
+    "title": "Visite de Syntheri Rocks",
+    "description": "Exploration des rochers Syntheri.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 1 · 17:30",
+    "title": "Point de coucher de soleil et vue sur les eaux",
+    "description": "Profitez de la vue du coucher de soleil.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 1 · 19:00",
+    "title": "Dîner et nuit",
+    "description": "Retour à l'hôtel pour le dîner et nuit.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 2 · 5:30",
+    "title": "Réveil et thé/café",
+    "description": "Réveil tôt avec thé ou café.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 2 · 6:00",
+    "title": "Safari tigre – sanctuaire de Dandeli",
+    "description": "Safari dans la forêt de Dandeli.",
+    "category": "wildlife",
+    "highlight": true
+  },
+  {
+    "time": "Jour 2 · 9:00",
+    "title": "Retour à l'hôtel et petit-déjeuner",
+    "description": "Retour et petit-déjeuner.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 2 · 10:00",
+    "title": "Check-out et retour à Goa",
+    "description": "Retour vers Goa.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 2 · 13:00",
+    "title": "Pause déjeuner en route",
+    "description": "Déjeuner optionnel.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 2 · 16:30",
+    "title": "Arrivée à Goa",
+    "description": "Fin de l'expérience.",
+    "category": "arrival"
+  }
+],
       gallery: [
         {
           title: "Interaction avec les éléphants",
@@ -6438,6 +6525,7 @@ export const fr = {
         type: "domestic-trip",
         hero: {
           title: "Forfait 4J/3N Triangle d'Or – Delhi, Agra, Jaipur",
+          herotitle: "Escapade express du Triangle d'Or",
           subtitle:
             "3 nuits 4 jours à la découverte de Delhi, Agra et Jaipur avec visites guidées et expériences culturelles",
           backgroundImage: "/assets/hero/Golden-Triangle-hero.webp",
@@ -6484,34 +6572,119 @@ export const fr = {
           description: "Toutes les principales attractions",
         },
       ],
-      itinerary: [
+      "itinerary": [
         {
-          time: "Day 1",
-          title: "Arrivée à Delhi |Visite de Delhi",
-          description:
-            "À votre arrivée à l'aéroport de Delhi, rencontrez et saluez le représentant.",
-          category: "arrival",
+          "time": "Jour 1 · Arrivée",
+          "title": "Arrivée à Delhi",
+          "description": "Arrivée à l'aéroport de Delhi suivie d'une rencontre et d'un accueil avec le représentant du tour. Transfert à l'hôtel et enregistrement.",
+          "category": "arrival"
         },
         {
-          time: "Day 2",
-          title: "Delhi → Agra (environ 4 heures) |Visite d'Agra",
-          description: "Petit-déjeuner à l'hôtel et route vers Agra.",
-          category: "activity",
-          highlight: true,
+          "time": "Jour 1 · Matin",
+          "title": "Visite de la ville de Delhi",
+          "description": "Après s'être rafraîchi, commencer la visite de la ville de Delhi comprenant India Gate, Rashtrapati Bhawan (de l'extérieur) et le Parlement (de l'extérieur).",
+          "category": "exploration"
         },
         {
-          time: "Day 3",
-          title: "Agra → Jaipur (environ 5 heures) |Fatehpur Sikri en route",
-          description: "Après le petit-déjeuner, route vers Jaipur.",
-          category: "activity",
-          highlight: true,
+          "time": "Jour 1 · Après-midi",
+          "title": "Monuments historiques de Delhi",
+          "description": "Visiter Qutub Minar, le tombeau de Humayun et le Temple du Lotus avec des explications du guide parlant russe.",
+          "category": "exploration",
+          "highlight": true
         },
         {
-          time: "Day 4",
-          title: "Visite de Jaipur → Départ",
-          description: "Petit-déjeuner à l'hôtel.",
-          category: "travel",
+          "time": "Jour 1 · Soir",
+          "title": "Shopping à Connaught Place",
+          "description": "Soirée libre pour shopping et loisirs à Connaught Place.",
+          "category": "exploration"
         },
+        {
+          "time": "Jour 1 · Nuit",
+          "title": "Nuit à Delhi",
+          "description": "Retour à l'hôtel pour la nuit à Delhi.",
+          "category": "arrival"
+        },
+        {
+          "time": "Jour 2 · Matin",
+          "title": "Delhi → Agra en voiture",
+          "description": "Après le petit-déjeuner à l'hôtel, trajet en voiture de Delhi à Agra (environ 4 heures).",
+          "category": "travel"
+        },
+        {
+          "time": "Jour 2 · Arrivée",
+          "title": "Enregistrement à l'hôtel à Agra",
+          "description": "Arrivée à Agra et enregistrement à l'hôtel.",
+          "category": "arrival"
+        },
+        {
+          "time": "Jour 2 · Après-midi",
+          "title": "Visite d'Agra",
+          "description": "Visiter le Taj Mahal, le symbole d'amour le plus emblématique au monde, suivi du Fort d'Agra, site du patrimoine mondial de l'UNESCO.",
+          "category": "exploration",
+          "highlight": true
+        },
+        {
+          "time": "Jour 2 · Soir",
+          "title": "Baby Taj et artisanat local",
+          "description": "Visiter Itmad-ud-Daulah (Baby Taj) et explorer les usines de marbre locales et les boutiques d'artisanat.",
+          "category": "exploration"
+        },
+        {
+          "time": "Jour 2 · Nuit",
+          "title": "Nuit à Agra",
+          "description": "Retour à l'hôtel pour la nuit à Agra.",
+          "category": "arrival"
+        },
+        {
+          "time": "Jour 3 · Matin",
+          "title": "Agra → Jaipur en voiture",
+          "description": "Après le petit-déjeuner, trajet en voiture d'Agra à Jaipur (environ 5 heures).",
+          "category": "travel"
+        },
+        {
+          "time": "Jour 3 · En route",
+          "title": "Visite de Fatehpur Sikri",
+          "description": "En route, visite de Fatehpur Sikri incluant Jama Masjid, Buland Darwaza, Panch Mahal et le palais de Jodha Bai.",
+          "category": "exploration",
+          "highlight": true
+        },
+        {
+          "time": "Jour 3 · Arrivée",
+          "title": "Arrivée et enregistrement à l'hôtel à Jaipur",
+          "description": "Continuer vers Jaipur et s'enregistrer à l'hôtel.",
+          "category": "arrival"
+        },
+        {
+          "time": "Jour 3 · Soir (Optionnel)",
+          "title": "Expérience culturelle Chokhi Dhani",
+          "description": "Visite optionnelle en soirée au village culturel Chokhi Dhani avec dîner traditionnel du Rajasthan.",
+          "category": "exploration"
+        },
+        {
+          "time": "Jour 3 · Nuit",
+          "title": "Nuit à Jaipur",
+          "description": "Retour à l'hôtel pour la nuit à Jaipur.",
+          "category": "arrival"
+        },
+        {
+          "time": "Jour 4 · Matin",
+          "title": "Visite de Jaipur",
+          "description": "Après le petit-déjeuner, commencer la visite de Jaipur incluant Amer Fort (avec promenade optionnelle à dos d'éléphant), Jal Mahal (arrêt photo) et Hawa Mahal (arrêt photo).",
+          "category": "exploration",
+          "highlight": true
+        },
+        {
+          "time": "Jour 4 · Après-midi",
+          "title": "City Palace et Jantar Mantar",
+          "description": "Visiter le City Palace et Jantar Mantar (observatoire astronomique) avec des explications guidées.",
+          "category": "exploration"
+        },
+        {
+          "time": "Jour 4 · Soir",
+          "title": "Transfert à l'aéroport et départ",
+          "description": "Transfert en soirée vers l'aéroport de Jaipur ou Delhi pour le vol de retour. Le tour se termine avec de beaux souvenirs.",
+          "category": "travel"
+        }
       ],
       gallery: [
         {
@@ -7283,7 +7456,7 @@ export const fr = {
         slug: "jodhpur-tour-package-from-goa-3N4D",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Jodhpur – Tour Jodhpur & Jaisalmer 3N/4D",
+          title: "Tour du patrimoine désertique Jodhpur et Jaisalmer",
           subtitle:
             "3 nuits 4 jours à la découverte de la ville bleue et de la ville dorée du Rajasthan avec safari dans le désert et expériences culturelles",
           backgroundImage: "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
@@ -7551,13 +7724,13 @@ export const fr = {
         },
       ],
     },
-    "odhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-from-goa": {
       file_name: "jodhpur-udaipur-trip-4n5d.html",
       page: {
         slug: "Jodhpur-Udaipur-tour-package",
         type: "domestic-trip",
         hero: {
-          title: "Jodhpur & Udaipur (4 nuits - 5 jours)",
+          title: "Rajasthan Royal : Jodhpur et Udaipur Escapey",
           subtitle:
             "4 nuits 5 jours à la découverte de Jodhpur et d'Udaipur avec des visites guidées et des expériences culturelles",
           backgroundImage: "/assets/hero/Jodhpur-Udaipur-hero.webp",
@@ -8443,7 +8616,7 @@ export const fr = {
         slug: "mathura-vrindavan-tour-from-goa",
         type: "",
         hero: {
-          title: "Tour de Mathura & Vrindavan (2 nuits – 3 jours)",
+          title: "Tour Mathura – Vrindavan",
           subtitle:
             "Voyage spirituel de 2 nuits et 3 jours au lieu de naissance du Seigneur Krishna avec visites guidées et expériences culturelles",
           backgroundImage: "/assets/hero/Mathura-Vrindavan-hero.webp",
@@ -8490,145 +8663,125 @@ export const fr = {
           description: "Tous les temples majeurs",
         },
       ],
-      itinerary: [
-        // ================= JOUR 1 =================
-        {
-          time: "Jour 1 · Matin / Midi",
-          title: "Arrivée à Delhi et route vers Mathura",
-          description:
-            "Arrivée à l’aéroport ou à la gare de Delhi le matin ou à midi. Accueil par le représentant du voyage, puis trajet jusqu’à Mathura (180 km / environ 3h30), ville natale du Seigneur Krishna.",
-          category: "voyage",
-        },
-        {
-          time: "Jour 1 · Arrivée",
-          title: "Enregistrement à l’hôtel à Mathura",
-          description:
-            "À votre arrivée à Mathura, installation à l’hôtel et temps pour se rafraîchir.",
-          category: "arrivée",
-        },
-        {
-          time: "Jour 1 · Après‑midi",
-          title: "Visite du temple Shri Krishna Janmabhoomi",
-          description:
-            "Visitez le temple Shri Krishna Janmabhoomi, le lieu le plus sacré de Mathura, considéré comme le berceau du Seigneur Krishna.",
-          category: "exploration",
-          highlight: true,
-        },
-        {
-          time: "Jour 1 · Après‑midi",
-          title: "Temple Dwarkadhish",
-          description:
-            "Découvrez le temple Dwarkadhish, dédié au Seigneur Krishna, connu pour son architecture magnifique et son atmosphère spirituelle.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 1 · Soir",
-          title: "Vishram Ghat – Cérémonie du soir (Aarti)",
-          description:
-            "Assistez à la prière du soir (Aarti) sur les rives de la Yamuna au Vishram Ghat – une expérience spirituelle et paisible.",
-          category: "exploration",
-          highlight: true,
-        },
-        {
-          time: "Jour 1 · Nuit",
-          title: "Nuit à Mathura",
-          description: "Retour à l’hôtel. Dîner en option. Nuit à Mathura.",
-          category: "arrivée",
-        },
-
-        // ================= JOUR 2 =================
-        {
-          time: "Jour 2 · Matin",
-          title: "Petit‑déjeuner à l’hôtel",
-          description:
-            "Prenez le petit‑déjeuner avant de commencer la journée d’excursion.",
-          category: "repas",
-        },
-        {
-          time: "Jour 2 · Matin",
-          title: "Route vers Vrindavan",
-          description:
-            "Après le petit‑déjeuner, départ pour Vrindavan – la ville de l’amour et de la dévotion éternelle de Krishna.",
-          category: "voyage",
-        },
-        {
-          time: "Jour 2 · Matin",
-          title: "Temple de Banke Bihari",
-          description:
-            "Visitez le célèbre temple Banke Bihari, le plus vénéré de Vrindavan, dédié au Seigneur Krishna sous sa forme joyeuse.",
-          category: "exploration",
-          highlight: true,
-        },
-        {
-          time: "Jour 2 · Fin de matinée",
-          title: "Temple ISKCON",
-          description:
-            "Visitez le temple ISKCON, centre spirituel de la dévotion par la musique, la danse et le bhakti yoga.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 2 · Après‑midi",
-          title: "Temple Prem Mandir",
-          description:
-            "Visitez le magnifique temple de marbre blanc Prem Mandir illustrant la vie de Krishna, magnifiquement illuminé le soir.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 2 · Après‑midi",
-          title: "Nidhivan",
-          description:
-            "Découvrez Nidhivan, bois mystique considéré comme le lieu des jeux divins de Krishna et Radha.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 2 · Après‑midi (optionnel)",
-          title: "Govardhan Parikrama",
-          description:
-            "Excursion optionnelle au mont Govardhan, que Krishna aurait soulevé pour protéger les habitants.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 2 · Soir",
-          title: "Retour à l’hôtel et détente",
-          description: "Retour à l’hôtel à Mathura ou Vrindavan. Soirée libre.",
-          category: "arrivée",
-        },
-        {
-          time: "Jour 2 · Nuit",
-          title: "Nuit à Mathura / Vrindavan",
-          description: "Nuit à l’hôtel.",
-          category: "arrivée",
-        },
-
-        // ================= JOUR 3 =================
-        {
-          time: "Jour 3 · Matin",
-          title: "Petit‑déjeuner à l’hôtel",
-          description: "Petit‑déjeuner à l’hôtel avant le départ.",
-          category: "repas",
-        },
-        {
-          time: "Jour 3 · Matin",
-          title: "Temps libre / Visite optionnelle de temples",
-          description:
-            "Matinée libre pour les loisirs ou visite optionnelle de temples à proximité.",
-          category: "exploration",
-        },
-        {
-          time: "Jour 3 · Fin de matinée",
-          title: "Départ et retour à Delhi",
-          description:
-            "Départ de l’hôtel et retour vers l’aéroport ou la gare de Delhi pour votre trajet suivant.",
-          category: "voyage",
-        },
-        {
-          time: "Jour 3 · Après‑midi / Soir",
-          title: "Arrivée à Delhi et fin du circuit",
-          description:
-            "Arrivée à Delhi en fin de journée, marquant la fin du voyage avec des bénédictions spirituelles et d’inoubliables souvenirs.",
-          category: "arrivée",
-        },
-      ],
+"itinerary": [
+  {
+    "time": "Jour 1 · Matin / Midi",
+    "title": "Arrivée à Delhi et trajet vers Mathura",
+    "description": "Arrivée le matin ou à midi à l'aéroport ou à la gare de Delhi. Rencontre avec le représentant du tour suivie d'un trajet confortable vers Mathura (180 km / environ 3,5 heures), lieu de naissance du Seigneur Krishna.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 1 · Arrivée",
+    "title": "Enregistrement à l'hôtel à Mathura",
+    "description": "À l'arrivée à Mathura, enregistrement à l'hôtel et repos après le voyage.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 1 · Après-midi",
+    "title": "Visite de Mathura – Shri Krishna Janmabhoomi",
+    "description": "Visite du temple Shri Krishna Janmabhoomi, le site le plus sacré de Mathura.",
+    "category": "exploration",
+    "highlight": true
+  },
+  {
+    "time": "Jour 1 · Après-midi",
+    "title": "Temple Dwarkadhish",
+    "description": "Visite du temple Dwarkadhish, un grand temple dédié au Seigneur Krishna.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 1 · Soir",
+    "title": "Vishram Ghat – Aarti du soir",
+    "description": "Assister à l'Aarti du soir à Vishram Ghat sur les rives de la rivière Yamuna.",
+    "category": "exploration",
+    "highlight": true
+  },
+  {
+    "time": "Jour 1 · Nuit",
+    "title": "Nuit à Mathura",
+    "description": "Retour à l'hôtel. Dîner optionnel. Nuit à Mathura.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 2 · Matin",
+    "title": "Petit-déjeuner à l'hôtel",
+    "description": "Petit-déjeuner à l'hôtel avant l'excursion.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 2 · Matin",
+    "title": "Trajet vers Vrindavan",
+    "description": "Après le petit-déjeuner, départ pour Vrindavan.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 2 · Matin",
+    "title": "Temple Banke Bihari",
+    "description": "Visite du temple Banke Bihari.",
+    "category": "exploration",
+    "highlight": true
+  },
+  {
+    "time": "Jour 2 · Fin de matinée",
+    "title": "Temple ISKCON",
+    "description": "Visite du temple ISKCON.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 2 · Après-midi",
+    "title": "Prem Mandir",
+    "description": "Visite de Prem Mandir.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 2 · Après-midi",
+    "title": "Nidhivan",
+    "description": "Visite de Nidhivan.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 2 · Après-midi (Optionnel)",
+    "title": "Govardhan Parikrama",
+    "description": "Visite optionnelle de Govardhan.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 2 · Soir",
+    "title": "Retour à l'hôtel et détente",
+    "description": "Retour à l'hôtel et détente.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 2 · Nuit",
+    "title": "Nuit à Mathura / Vrindavan",
+    "description": "Nuit à l'hôtel.",
+    "category": "arrival"
+  },
+  {
+    "time": "Jour 3 · Matin",
+    "title": "Petit-déjeuner à l'hôtel",
+    "description": "Petit-déjeuner avant le départ.",
+    "category": "meal"
+  },
+  {
+    "time": "Jour 3 · Matin",
+    "title": "Temps libre / Visite optionnelle",
+    "description": "Matinée libre ou visite optionnelle.",
+    "category": "exploration"
+  },
+  {
+    "time": "Jour 3 · Fin de matinée",
+    "title": "Départ et retour à Delhi",
+    "description": "Départ et trajet retour vers Delhi.",
+    "category": "travel"
+  },
+  {
+    "time": "Jour 3 · Après-midi / Soir",
+    "title": "Arrivée à Delhi et fin du tour",
+    "description": "Arrivée à Delhi et fin du tour.",
+    "category": "arrival"
+  }
+],
       gallery: [
         {
           title: "Shri Krishna Jamnabhoomi",

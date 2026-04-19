@@ -188,7 +188,7 @@ export const en = {
         description:
           "Cover Delhi, Agra, and Jaipur with visits to India Gate, Qutub Minar, Taj Mahal, Agra Fort, Amber Fort, royal palaces, and vibrant local bazaars.",
       },
-      "odhpur-udaipur-tour-from-goa": {
+      "jodhpur-udaipur-tour-from-goa": {
         title: "Udaipur & Jodhpur Royal Rajasthan Tour",
         duration: "4 Nights / 5 Days",
         description:
@@ -366,6 +366,10 @@ export const en = {
       ctaTitle: "Ready for Your Adventure?",
       ctaSubtitle:
         "Book now and secure your spot for an unforgettable experience",
+      ctaBookWhatsApp: "Book via WhatsApp",
+      ctaBookWhatsAppAria: "Book via WhatsApp",
+      ctaCallUs: "Call Us",
+      ctaCallUsAria: "Call us",
       inclusionsTitle: "What’s Included",
       inclusionsSubtitle:
         "Everything you need for a seamless and comfortable experience",
@@ -1753,7 +1757,7 @@ export const en = {
         "Marvel at the ancient rock-cut caves of Ellora and Ajanta, showcasing Buddhist, Hindu, and Jain art, sculptures, and frescoes.",
     },
 
-    "odhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-from-goa": {
       title: "Udaipur & Jodhpur Royal Rajasthan Tour",
       duration: "4 Nights / 5 Days",
       description:
@@ -4889,7 +4893,6 @@ export const en = {
         "slug": "amritsar-tour-package-from-goa-2n3d",
         "type": "domestic-trip",
         "hero": {
-          "title": "3D/2N Amritsar Tour Package – Golden Temple & Wagah Border Trip",
           "herotitle": "Amritsar Tour",
           "subtitle": "2 Nights 3 Days exploring Golden Temple, Wagah Border, Jallianwala Bagh, and Amritsar's cultural heritage",
           "backgroundImage": "/assets/hero/Amritsar-hero.webp",
@@ -5820,7 +5823,6 @@ export const en = {
         "slug": "dandeli-2-day-tour-from-goa",
         "type": "domestic-trip",
         "hero": {
-          "title": "Dandeli Tour Package – Elephant & Tiger Safari 2D/1N from Goa",
           "herotitle": "Dandeli Tour Package with Elephant & Tiger Safari",
           "subtitle": "1 Night 2 Days exploring Dandeli Wildlife Sanctuary with elephant interaction and tiger safari",
           "backgroundImage": "/assets/hero/Dandeli-hero.webp",
@@ -7422,10 +7424,10 @@ export const en = {
         }
       ]
     },
-    "odhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-from-goa": {
       "file_name": "jodhpur-udaipur-trip-4n5d.html",
       "page": {
-        "slug": "odhpur-udaipur-tour-from-goa-package",
+        "slug": "jodhpur-udaipur-tour-from-goa-package",
         "type": "domestic-trip",
         "hero": {
           "title": "Jodhpur & Udaipur (4 Nights - 5 days)",
@@ -8704,7 +8706,6 @@ export const en = {
         "slug": "bijapur-heritage-tour-from-goa",
         "type": "domestic-trip",
         "hero": {
-          "title": "2D/1N Bijapur Tour Package from Goa | Aihole & Pattadakal Trip",
           "herotitle": "Bijapur, Pattadakal & Aihole Tour",
           "subtitle": "1 Night 2 Days exploring historical Bijapur, UNESCO World Heritage Site Pattadakal, and ancient Aihole temples",
           "backgroundImage": "/assets/hero/Bijapur-hero.webp",
@@ -8923,7 +8924,7 @@ export const en = {
         "type": "domestic-trip",
         "hero": {
           "title": "Hyderabad Trip",
-          "herotitle": "1N/2D Hyderabad Heritage Tour",
+          "herotitle": "Hyderabad Heritage Tour",
           "subtitle": "1 Night 2 Days exploring Hyderabad's heritage including Golconda Fort, Charminar, and Chowmahalla Palace",
           "backgroundImage": "/assets/hero/Hyderabad-hero.webp",
           "meta": {
@@ -9786,8 +9787,8 @@ export const en = {
         "slug": "mathura-vrindavan-tour-from-goa",
         "type": "",
         "hero": {
-          "title": "Mathura – Vrindavan Tour (2 Nights – 3 Days)",
-          "herottile": "3-Day Mathura–Vrindavan Pilgrimage",
+          "title": "Mathura – Vrindavan Tour",
+          "herottile": "Mathura – Vrindavan Tour",
           "subtitle": "2 Nights 3 Days spiritual journey to the birthplace of Lord Krishna with guided tours and cultural experiences",
           "backgroundImage": "/assets/hero/Mathura-Vrindavan-hero.webp",
           "meta": {
@@ -14906,7 +14907,7 @@ export const en = {
         type: "package-hero",
         badge: "Premium Package",
         title:
-          "7N/8D Kerala Luxury Tour Package (Kochi Alleppy Munnar Thekkady Poovar)",
+          "7N/8D Kerala Luxury Tour Package (Kochi Alleppey Munnar Thekkady Poovar)",
         location: "Kochi, Alleppey, Munnar, Thekkady, Poovar - 7N/8D",
         cta_text: "Book Now",
         cta_link:

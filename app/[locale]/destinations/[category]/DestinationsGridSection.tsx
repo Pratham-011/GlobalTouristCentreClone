@@ -6,6 +6,7 @@ import { DestinationCard } from "@/components/destination-card";
 import { FILTERS_BY_SLUG } from "./filters";
 import { useI18n } from "@/lib/i18n/context";
 import { SectionTitle } from "@/components/SectionTitle";
+import { useFilterStore } from "@/lib/store/useFilterStore";
 
 type Props = {
   slug: "domestic" | "international" | "day-trips";
@@ -28,17 +29,22 @@ export function DestinationsGridSection({ slug, items }: Props) {
   const { locale, t } = useI18n();
   const filters = FILTERS_BY_SLUG[slug];
 
-  const [activeFilter, setActiveFilter] = useState<"all" | string>("all");
-
-  /* Reset filter when category changes */
+  const [hydrated, setHydrated] = useState(false);
   useEffect(() => {
-    setActiveFilter("all");
-  }, [slug]);
+    setHydrated(true);
+  }, []);
+
+  const activeFilterStore = useFilterStore((state) => state.activeFilters[slug] || "all");
+  const activeFilter = hydrated ? activeFilterStore : "all";
+  
+  const setActiveFilterState = useFilterStore((state) => state.setActiveFilter);
+  const setActiveFilter = (filter: string) => setActiveFilterState(slug, filter);
 
   const filteredItems = useMemo(() => {
     if (!filters || activeFilter === "all") return items;
     return items.filter((item) => item.zone === activeFilter);
   }, [items, activeFilter, filters]);
+
 
   const title = t.destinations[TITLE_KEY_BY_SLUG[slug]];
   const subtitle = t.destinations[SUBTITLE_KEY_BY_SLUG[slug]];

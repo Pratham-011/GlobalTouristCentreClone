@@ -115,7 +115,7 @@ export const metaData: Record<string, any> = {
       rating: "4.6/5 Rating",
     },
   },
-  "delhi-agra-tour-from-goa": {
+  "delhi-agra-1n-2d-trip-package": {
     meta: {
       duration: "2 Days",
       locations: 6,
@@ -166,7 +166,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "odhpur-udaipur-tour-from-goa": {
+  "jodhpur-udaipur-tour-from-goa": {
     meta: {
       duration: "5 Tage",
       rating: "4.7/5 Rating",
