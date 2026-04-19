@@ -119,8 +119,8 @@ const travelCollections: TravelCollection[] = [
     imageUrl: "/assets/destinations/Thumbnails/GoldenTriangle.webp",
   },
   {
-    id: "odhpur-udaipur-tour-from-goa",
-    href: "/destinations/domestic/odhpur-udaipur-tour-from-goa", // matches dom-udaipur-jodhpur-026.slug
+    id: "jodhpur-udaipur-tour-from-goa",
+    href: "/destinations/domestic/jodhpur-udaipur-tour-from-goa", // matches dom-udaipur-jodhpur-026.slug
     imageUrl: "/assets/destinations/Thumbnails/Udaipur.webp",
   },
   {

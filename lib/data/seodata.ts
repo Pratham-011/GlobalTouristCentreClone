@@ -154,7 +154,7 @@ export const seoData = {
     duration: "3N/4D",
     category_match: true,
   },
-  "odhpur-udaipur-tour-from-goa": {
+  "jodhpur-udaipur-tour-from-goa": {
     google_drive_link:
       "https://drive.google.com/file/d/1YXHyP64N-xfTaHU4W9xfwtMh2hzw6BYL/view?usp=drive_link",
     actual_url:

@@ -144,33 +144,33 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "thailand-bangkok-pattaya-tour-special": {
+  "3N-4D-thailand-tour-package": {
     gallery: [
       {
-        title: "Bangkok Temples",
-        description: "Golden Buddha & Reclining Buddha",
-        image: "/assets/destinations/Bangkok/Bangkok Temples.webp",
+        "title": "Bangkok Skyline",
+        "description": "Vibrant capital city",
+        "image": "/assets/destinations/Thailand/Bangkok Cityscape.webp"
       },
       {
-        title: "Pattaya Beaches",
-        description: "Tropical Beach Relaxation",
-        image: "/assets/destinations/Bangkok/Pattaya Beaches.webp",
+        "title": "Coral Island",
+        "description": "Crystal clear waters",
+        "image": "/assets/destinations/Thailand/Coral Island.webp"
       },
       {
-        title: "Coral Island",
-        description: "Crystal Clear Waters",
-        image: "/assets/destinations/Bangkok/Coral Island.webp",
+        "title": "Chao Phraya River",
+        "description": "Dinner cruise experience",
+        "image": "/assets/destinations/Thailand/Chao Phraya River.webp"
       },
       {
-        title: "Safari World",
-        description: "Wildlife Adventure",
-        image: "/assets/destinations/Bangkok/Safari World.webp",
+        "title": "Golden Buddha",
+        "description": "Cultural heritage",
+        "image": "/assets/destinations/Thailand/Golden Buddha.webp"
       },
       {
-        title: "Sri Racha Tiger Zoo",
-        description: "Close Encounters with Tigers",
-        image: "/assets/destinations/Bangkok/Sri Racha Tiger Zoo.webp",
-      },
+        "title": "Pattaya Beach",
+        "description": "Tropical paradise",
+        "image": "/assets/destinations/Thailand/Pattaya Beach.webp"
+      }
     ],
   },
   "7N-8D-thailand-tour-package": {
@@ -560,32 +560,32 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "delhi-agra-tour-from-goa": {
+  "delhi-agra-1n-2d-trip-package": {
     gallery: [
       {
         title: "Taj Mahal",
         description: "Symbol of love",
-        image: "/assets/destinations/Delhi to Agra/Taj Mahal.webp",
+        image: "/assets/destinations/DelhitoAgra/TajMahal.webp",
       },
       {
         title: "Agra Fort",
         description: "Mughal architecture",
-        image: "/assets/destinations/Delhi to Agra/Agra Fort.webp",
+        image: "/assets/destinations/DelhitoAgra/AgraFort.webp",
       },
       {
         title: "Baby Taj",
         description: "Itimad-ud-Daulah",
-        image: "/assets/destinations/Delhi to Agra/Baby Taj.webp",
+        image: "/assets/destinations/DelhitoAgra/BabyTaj.webp",
       },
       {
         title: "Mehtab Bagh",
         description: "Taj Mahal view",
-        image: "/assets/destinations/Delhi to Agra/Mehtab Bagh.webp",
+        image: "/assets/destinations/DelhitoAgra/MehtabBagh.webp",
       },
       {
         title: "Taj Mahal Sunrise",
         description: "Magical morning",
-        image: "/assets/destinations/Delhi to Agra/Taj Mahal Sunrise.webp",
+        image: "/assets/destinations/DelhitoAgra/TajMahalSunrise.webp",
       },
     ],
   },
@@ -787,7 +787,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "odhpur-udaipur-tour-from-goa": {
+  "jodhpur-udaipur-tour-from-goa": {
     gallery: [
       {
         title: "Mehrangarh-Festung",
@@ -1037,6 +1037,35 @@ export const galleryData: Record<string, any> = {
         image: "/assets/destinations/South-goa/agonda-beach.webp",
       },
     ],
+  },
+  "one-day-south-goa-trip-package":{
+      "gallery": [
+        {
+          "title": "Palolem Beach",
+          "description": "Morning breakfast spot",
+          "image": "/assets/destinations/South-goa/palolem-beach.webp"
+        },
+        {
+          "title": "Butterfly Beach",
+          "description": "Secluded paradise",
+          "image": "/assets/destinations/South-goa/butterfly-beach.webp"
+        },
+        {
+          "title": "Blue Lagoon",
+          "description": "Kayaking adventure",
+          "image": "/assets/destinations/South-goa/Blue-lagoon.webp"
+        },
+        {
+          "title": "Cabo de Rama Fort",
+          "description": "Historic viewpoint",
+          "image": "/assets/destinations/South-goa/cabo-de-rama.webp"
+        },
+        {
+          "title": "Talpona Sunset",
+          "description": "Evening spectacle",
+          "image": "/assets/destinations/South-goa/Talpona Sunset.webp"
+        }
+      ]
   },
   "bijapur-heritage-tour-from-goa": {
     gallery: [
@@ -1765,31 +1794,31 @@ export const galleryData: Record<string, any> = {
   },
   "hyderabad-tour-package-from-goa": {
     gallery: [
-        {
-          "title": "Golconda Fort",
-          "description": "Historic Fortress",
-          "image": "/assets/destinations/Hyderabad/Golconda-Fort.webp"
-        },
-        {
-          "title": "Charminar",
-          "description": "Iconic Hyderabad Monument",
-          "image": "/assets/destinations/Hyderabad/Charminar.webp"
-        },
-        {
-          "title": "Chowmahalla Palace",
-          "description": "Royal Court Complex",
-          "image": "/assets/destinations/Hyderabad/Chowmahalla-Palace.webp"
-        },
-        {
-          "title": "Salar Jung Museum",
-          "description": "Major Single-Collector Museum",
-          "image": "/assets/destinations/Hyderabad/Salar-Jung-Museum.webp"
-        },
-        {
-          "title": "Hyderabadi Cuisine",
-          "description": "Famous Biryani and Local Dishes",
-          "image": "/assets/destinations/Hyderabad/Biryani.webp"
-        }
+      {
+        "title": "Golconda Fort",
+        "description": "Historic Fortress",
+        "image": "/assets/destinations/Hyderabad/Golconda-Fort.webp"
+      },
+      {
+        "title": "Charminar",
+        "description": "Iconic Hyderabad Monument",
+        "image": "/assets/destinations/Hyderabad/Charminar.webp"
+      },
+      {
+        "title": "Chowmahalla Palace",
+        "description": "Royal Court Complex",
+        "image": "/assets/destinations/Hyderabad/Chowmahalla-Palace.webp"
+      },
+      {
+        "title": "Salar Jung Museum",
+        "description": "Major Single-Collector Museum",
+        "image": "/assets/destinations/Hyderabad/Salar-Jung-Museum.webp"
+      },
+      {
+        "title": "Hyderabadi Cuisine",
+        "description": "Famous Biryani and Local Dishes",
+        "image": "/assets/destinations/Hyderabad/Biryani.webp"
+      }
     ]
   }
 };

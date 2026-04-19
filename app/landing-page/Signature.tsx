@@ -49,7 +49,7 @@ const Signature = () => {
         id: "taj",
         imageUrl: "/assets/destinations/Thumbnails/agra.webp",
         price: "$300",
-        link: `/destinations/domestic/delhi-agra-tour-from-goa`,
+        link: `/destinations/domestic/delhi-agra-1n-2d-trip-package`,
         popular: true,
       },
       {

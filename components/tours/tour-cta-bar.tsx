@@ -50,10 +50,10 @@ export function TourCtaBar({
               href={whatsappLink}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Book via WhatsApp"
+              aria-label={t.destinations.tour.ctaBookWhatsAppAria}
             >
               <MessageCircle className="w-5 h-5 mr-2" />
-              Book via WhatsApp
+              {t.destinations.tour.ctaBookWhatsApp}
             </a>
           </Button>
 
@@ -62,9 +62,9 @@ export function TourCtaBar({
             variant="secondary"
             className="px-6 py-6 rounded-full shadow-md"
           >
-            <a href={callLink} aria-label="Call us">
+            <a href={callLink} aria-label={t.destinations.tour.ctaCallUsAria}>
               <Phone className="w-5 h-5 mr-2" />
-              Call Us
+              {t.destinations.tour.ctaCallUs}
             </a>
           </Button>
         </div>

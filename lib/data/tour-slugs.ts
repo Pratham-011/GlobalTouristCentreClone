@@ -36,8 +36,8 @@ export const TOUR_CATEGORIES = {
     "amritsar-tour-package-from-goa", // verified
     "golden-triangle-4-day-tour-from-goa", // verified // two are there with same name
     "golden-triangle-tour-from-goa", // verified
-    "delhi-agra-tour-from-goa", // verified
-    "odhpur-udaipur-tour-from-goa", // temporarily removed (used in home) // verified
+    // "delhi-agra-tour-from-goa", // verified
+    "jodhpur-udaipur-tour-from-goa", // temporarily removed (used in home) // verified
     "rajasthan-royal-tour-from-goa", // temporarily removed (used in desination.ts)  // verified
     "north-india-heritage-tour-from-goa", // verified
     "mathura-vrindavan-tour-from-goa", // verified

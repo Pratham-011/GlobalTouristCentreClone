@@ -120,7 +120,7 @@ export const domesticTrips: Destination[] = [
 
   {
     id: "dom-udaipur-jodhpur-026",
-    slug: "odhpur-udaipur-tour-from-goa",
+    slug: "jodhpur-udaipur-tour-from-goa",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Udaipur.webp",
     category: "domestic",
