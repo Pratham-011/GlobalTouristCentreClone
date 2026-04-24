@@ -590,11 +590,10 @@ export const it = {
         "Posso prolungare il mio soggiorno all'estero se il mio visto consente più giorni di quelli pianificati?",
       faq4Answer:
         "Dipenderà dalle norme del tuo paese di destinazione. Alcuni paesi ti permettono di prolungare il soggiorno se il tuo visto lo copre o se fai domanda di proroga localmente.",
-      metadata: {
-        title: "Visto e Documentazione - Global Tourist Centre",
-        description:
-          "Assistenza completa per visti e documentazione per viaggi internazionali senza problemi.",
-      },
+  "metadata": {
+    "title": "Agente per visti a Goa | Servizi visti rapidi e affidabili - GTC",
+    "description": "Cerchi un agente per visti affidabile a Goa? Ottieni assistenza esperta per i visti, supporto per la documentazione e un'elaborazione rapida per visti turistici, di lavoro e per studenti."
+  },
     },
     // Hotel Booking
     hotelBooking: {

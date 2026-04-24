@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { getTranslations } from "@/lib/i18n/getTranslations";
 import ServicesClient from "./ServicesClient";
-import { LOCALES } from "@/lib/data/tour-slugs";
+
 
 /* ================================
    Types
@@ -12,15 +12,13 @@ type PageProps = {
   };
 };
 
-export function generateStaticParams() {
-  return LOCALES.map((locale) => ({ locale }));
-}
+
 
 /* ================================
    SEO Metadata
 ================================ */
-export function generateMetadata({ params }: PageProps): Metadata {
-  const { locale } = params;
+export function generateMetadata(): Metadata {
+  const locale = "en";
   const t = getTranslations(locale);
 
   const title = t.metadata?.services?.title || "Our Services | Global Tourist Centre";

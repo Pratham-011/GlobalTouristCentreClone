@@ -164,7 +164,7 @@ export default function LocaleLayout({
               "itemOffered": {
                 "@type": "Service",
                 "name": "Visa Documentation",
-                "url": `https://globaltouristcentre.com/${params.locale}/service/visa-agent`
+                "url": `https://globaltouristcentre.com/${params.locale}/service/visa-agent-in-goa`
               }
             },
             {

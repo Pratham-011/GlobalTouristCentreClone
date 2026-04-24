@@ -1,4 +1,4 @@
-import { LOCALES, TOUR_CATEGORIES } from "@/lib/data/tour-slugs";
+import { LOCALES } from "@/lib/data/tour-slugs";
 import DestinationsClient from "./DestinationsClient";
 import type { Metadata } from "next";
 import { getTranslations } from "@/lib/i18n/getTranslations";
@@ -9,22 +9,11 @@ type PageProps = {
   };
 };
 
-/* ---------- STATIC PARAMS (REQUIRED FOR EXPORT) ---------- */
-export async function generateStaticParams() {
-  const params: { locale: string }[] = [];
-
-  for (const locale of LOCALES) {
-    for (const category of Object.keys(TOUR_CATEGORIES)) {
-      params.push({ locale });
-    }
-  }
-
-  return params;
-}
 
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const locale = params.locale || "en";
+
+export async function generateMetadata(): Promise<Metadata> {
+  const locale = "en";
   const t = getTranslations(locale);
 
   const image = "/assets/hero/Destinations-hero.webp";

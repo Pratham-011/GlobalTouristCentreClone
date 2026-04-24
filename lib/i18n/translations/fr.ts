@@ -580,9 +580,8 @@ export const fr = {
       faq4Answer:
         "Cela dépendra des règles de votre pays de destination. Certains pays vous permettent de rester plus longtemps si votre visa le couvre ou si vous faites une demande de prolongation sur place.",
       metadata: {
-        title: "Visa et Documentation - Global Tourist Centre",
-        description:
-          "Assistance visa complète et services de documentation pour des voyages internationaux sans tracas.",
+        title: "Agent de visa à Goa | Services de visa rapides et fiables - GTC",
+        description: "Vous recherchez un agent de visa fiable à Goa ? Bénéficiez d'une assistance experte pour les visas, d'un soutien pour la documentation et d'un traitement rapide pour les visas touristiques, de travail et d'études."
       },
     },
     // Hotel Booking

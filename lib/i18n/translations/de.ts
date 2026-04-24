@@ -581,9 +581,8 @@ export const de = {
       faq4Answer:
         "Das hängt von den Regelungen Ihres Ziellandes ab. Bestimmte Länder erlauben einen längeren Aufenthalt, wenn Ihr Visum dies abdeckt, oder wenn Sie lokal eine Verlängerung beantragen.",
       metadata: {
-        title: "Visa und Dokumentation - Global Tourist Centre",
-        description:
-          "Umfassende Visahilfe und Dokumentationsservices für problemlose internationale Reisen.",
+        title: "Visa-Agent in Goa | Schnelle und zuverlässige Visadienste - GTC",
+        description: "Suchen Sie einen vertrauenswürdigen Visa-Agenten in Goa? Erhalten Sie professionelle Unterstützung bei Visa, Hilfe bei der Dokumentation und eine schnelle Bearbeitung für Touristen-, Arbeits- und Studentenvisa."
       },
     },
     // Hotel Booking

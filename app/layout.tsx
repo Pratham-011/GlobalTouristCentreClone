@@ -142,7 +142,7 @@ export default function RootLayout({
               itemOffered: {
                 "@type": "Service",
                 name: "Visa Documentation",
-                url: "https://globaltouristcentre.com/service/visa-agent",
+                url: "https://globaltouristcentre.com/service/visa-agent-in-goa",
               },
             },
             {

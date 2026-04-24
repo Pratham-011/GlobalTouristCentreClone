@@ -509,8 +509,8 @@ export const en = {
       faq4Answer:
         "Absolutely. Our itinerary planning service is free when you book your tour with us. But please note that for complex itineraries requiring significant research, a nominal planning fee may apply, which is fully deductible from your final booking amount.",
       metadata: {
-        title: "Customized Tour Packages - Global Tourist Centre",
-        description: "Tailor-made travel experiences designed specifically for your preferences and needs."
+        title: "Customize Tour Packages | Personalized Travel Plans - GTC",
+        description: "Create your perfect holiday with our customize tour packages. Get personalized itineraries, flexible plans, and complete travel solutions with expert support."
       }
     },
     // Visa Agent
@@ -579,8 +579,8 @@ export const en = {
       faq4Answer:
         "It will depend on the rules of your destination. Specific countries will help you stay longer if your visa covers it or if you apply for an extension locally.",
       metadata: {
-        title: "Visa & Documentation - Global Tourist Centre",
-        description: "Comprehensive visa assistance and documentation services for hassle-free international travel."
+        title: "Visa Agent in Goa | Fast & Reliable Visa Services - GTC",
+        description: "Looking for a trusted visa agent in Goa? Get expert visa assistance, documentation support, and quick processing for tourist, work & student visas."
       }
     },
     // Hotel Booking

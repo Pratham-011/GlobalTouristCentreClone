@@ -34,7 +34,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/hero/visa-hero.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/${locale}/visa-agent`;
+  const canonical = `https://globaltouristcentre.com/services/visa-agent-in-goa`;
 
   return {
     title,
