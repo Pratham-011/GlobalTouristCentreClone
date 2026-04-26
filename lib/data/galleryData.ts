@@ -1,5 +1,5 @@
 export const galleryData: Record<string, any> = {
-  "aurangabad-1n-2d-trip-package": {
+  "aurangabad-day-excursions": {
     gallery: [
       {
         title: "Ellora Caves",
@@ -86,7 +86,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "north-goa-english-tour": {
+  "north-goa-day-excursion": {
     gallery: [
       {
         title: "Calangute Beach",
@@ -502,7 +502,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "dandeli-elephant-safari-day-trip-package": {
+  "dandeli-elephant-day-excursion": {
     gallery: [
       {
         title: "Dandeli Forests",
@@ -618,7 +618,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "dudhsagar-spice-plantation-day-trip-package": {
+  "dudhsagar-waterfal-excursion": {
     gallery: [
       {
         title: "Dudhsagar Falls",
@@ -671,7 +671,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "gokarna-murdeshwar-one-day-trip-package": {
+  "gokarna-murdeshwar-day-excursion": {
     gallery: [
       {
         title: "Gokarna Beaches",
@@ -729,7 +729,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "hampi-1n-2d-trip-package": {
+  "hampi-day-excursions": {
     gallery: [
       {
         title: "Hampi Ruins",
@@ -927,7 +927,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "mumbai-day-trip-package": {
+  "mumbai-one-day-excursion": {
     gallery: [
       {
         title: "Gateway of India",
@@ -956,7 +956,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "netravali-day-trip-package": {
+  "netravali-wildlife-day-excursion": {
     gallery: [
       {
         title: "Netravali Waterfalls",
@@ -1038,34 +1038,34 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "one-day-south-goa-trip-package":{
-      "gallery": [
-        {
-          "title": "Palolem Beach",
-          "description": "Morning breakfast spot",
-          "image": "/assets/destinations/South-goa/palolem-beach.webp"
-        },
-        {
-          "title": "Butterfly Beach",
-          "description": "Secluded paradise",
-          "image": "/assets/destinations/South-goa/butterfly-beach.webp"
-        },
-        {
-          "title": "Blue Lagoon",
-          "description": "Kayaking adventure",
-          "image": "/assets/destinations/South-goa/Blue-lagoon.webp"
-        },
-        {
-          "title": "Cabo de Rama Fort",
-          "description": "Historic viewpoint",
-          "image": "/assets/destinations/South-goa/cabo-de-rama.webp"
-        },
-        {
-          "title": "Talpona Sunset",
-          "description": "Evening spectacle",
-          "image": "/assets/destinations/South-goa/Talpona Sunset.webp"
-        }
-      ]
+  "south-goa-day-exursion": {
+    "gallery": [
+      {
+        "title": "Palolem Beach",
+        "description": "Morning breakfast spot",
+        "image": "/assets/destinations/South-goa/palolem-beach.webp"
+      },
+      {
+        "title": "Butterfly Beach",
+        "description": "Secluded paradise",
+        "image": "/assets/destinations/South-goa/butterfly-beach.webp"
+      },
+      {
+        "title": "Blue Lagoon",
+        "description": "Kayaking adventure",
+        "image": "/assets/destinations/South-goa/Blue-lagoon.webp"
+      },
+      {
+        "title": "Cabo de Rama Fort",
+        "description": "Historic viewpoint",
+        "image": "/assets/destinations/South-goa/cabo-de-rama.webp"
+      },
+      {
+        "title": "Talpona Sunset",
+        "description": "Evening spectacle",
+        "image": "/assets/destinations/South-goa/Talpona Sunset.webp"
+      }
+    ]
   },
   "bijapur-heritage-tour-from-goa": {
     gallery: [
@@ -1270,7 +1270,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "meghalaya-tour": {
+  "meghalaya-tour-package-from-goa": {
     gallery: [
       {
         title: "Living Root Bridge",

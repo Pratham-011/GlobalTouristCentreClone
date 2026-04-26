@@ -31,7 +31,7 @@ const CuratedTravel = () => {
         rating: 4.6,
         tags: ["Waterfalls", "Spices", "Nature"],
         badge: null,
-        link: `/${locale}/destinations/day-trips/dudhsagar-spice-plantation-day-trip-package`,
+        link: `/${locale}/destinations/day-trips/dudhsagar-waterfal-excursion`,
       },
       {
         id: "golden-triangle-4-day-tour-from-goa",

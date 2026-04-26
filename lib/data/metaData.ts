@@ -12,7 +12,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "north-goa-english-tour": {
+  "north-goa-day-excursion": {
     meta: {
       duration: "Full Day",
       rating: "4.8/5 Rating",
@@ -102,7 +102,7 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "dandeli-elephant-safari-day-trip-package": {
+  "dandeli-elephant-day-excursion": {
     meta: {
       duration: "1 Day",
       locations: 4,
@@ -127,7 +127,7 @@ export const metaData: Record<string, any> = {
       duration: "6 Days",
     },
   },
-  "dudhsagar-spice-plantation-day-trip-package": {
+  "dudhsagar-waterfal-excursion": {
     meta: {
       duration: "1 Day",
       locations: 3,
@@ -140,7 +140,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "gokarna-murdeshwar-one-day-trip-package": {
+  "gokarna-murdeshwar-day-excursion": {
     meta: {
       duration: "1 Day",
       locations: 5,
@@ -153,7 +153,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "hampi-1n-2d-trip-package": {
+  "hampi-day-excursions": {
     meta: {
       duration: "2 Days",
       locations: 15,
@@ -192,13 +192,13 @@ export const metaData: Record<string, any> = {
       rating: "4.6/5 Rating",
     },
   },
-  "mumbai-day-trip-package": {
+  "mumbai-one-day-excursion": {
     meta: {
       duration: "Full Day",
       rating: "4.7/5 Rating",
     },
   },
-  "netravali-day-trip-package": {
+  "netravali-wildlife-day-excursion": {
     meta: {
       duration: "1 Day",
       locations: 5,
@@ -253,7 +253,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "meghalaya-tour": {
+  "meghalaya-tour-package-from-goa": {
     meta: {
       duration: "7 Days",
       rating: "4.7/5 Rating",

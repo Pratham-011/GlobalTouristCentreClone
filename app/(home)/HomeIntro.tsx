@@ -29,13 +29,13 @@ const travelCollections: TravelCollection[] = [
     imageUrl: "/assets/destinations/Goa/basilica-bom-jesus.webp",
   },
   {
-    id: "north-goa-english-tour",
-    href: "/destinations/day-trips/north-goa-english-tour", // matches day-north-goa-009.slug
+    id: "north-goa-day-excursion",
+    href: "/destinations/day-trips/north-goa-day-excursion", // matches day-north-goa-009.slug
     imageUrl: "/assets/destinations/Thumbnails/NorthGoa.webp",
   },
   {
-    id: "dudhsagar-spice-plantation-day-trip-package",
-    href: "/destinations/day-trips/dudhsagar-spice-plantation-day-trip-package", // matches day-dudhsagar-spice-010.slug
+    id: "dudhsagar-waterfal-excursion",
+    href: "/destinations/day-trips/dudhsagar-waterfal-excursion", // matches day-dudhsagar-spice-010.slug
     imageUrl: "/assets/destinations/Thumbnails/Dudhsagar.webp",
   },
   {
@@ -59,8 +59,8 @@ const travelCollections: TravelCollection[] = [
   //   imageUrl: "/assets/destinations/Thumbnails/GrandIsland.webp",
   // },
   {
-    id: "gokarna-murdeshwar-one-day-trip-package",
-    href: "/destinations/day-trips/gokarna-murdeshwar-one-day-trip-package", // matches day-gokarna-005.slug (updated from old -tour)
+    id: "gokarna-murdeshwar-day-excursion",
+    href: "/destinations/day-trips/gokarna-murdeshwar-day-excursion", // matches day-gokarna-005.slug (updated from old -tour)
     imageUrl: "/assets/destinations/Thumbnails/Gokarna.webp",
   },
   {
@@ -77,8 +77,8 @@ const travelCollections: TravelCollection[] = [
     imageUrl: "/assets/destinations/Thumbnails/SeraiCabo.webp",
   },
   {
-    id: "hampi-1n-2d-trip-package",
-    href: "/destinations/domestic/hampi-1n-2d-trip-package", // matches dom-hampi-019.slug
+    id: "hampi-day-excursions",
+    href: "/destinations/domestic/hampi-day-excursions", // matches dom-hampi-019.slug
     imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
   },
   // removed hampi-badami because that trip is commented out in domesticTrips source of truth
@@ -88,8 +88,8 @@ const travelCollections: TravelCollection[] = [
   //   imageUrl: "/assets/destinations/Thumbnails/Ooty.webp",
   // },
   {
-    id: "mumbai-day-trip-package",
-    href: "/destinations/day-trips/mumbai-day-trip-package", // matches dom-mumbai-021.slug
+    id: "mumbai-one-day-excursion",
+    href: "/destinations/day-trips/mumbai-one-day-excursion", // matches dom-mumbai-021.slug
     imageUrl: "/assets/destinations/Thumbnails/Mumbai.webp",
   },
   {

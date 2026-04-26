@@ -48,11 +48,11 @@ export const de = {
     ,
     "domestic": {
       "title": "Inlandsreisen in Indien | Beste Indien-Reisepakete – Global Tourist Centre",
-      "description": "Entdecken Sie die besten Inlandsreisen in Indien mit Global Tourist Centre. Erleben Sie sorgfältig kuratierte Reisepakete zu ikonischen Destinationen wie Kerala, Kaschmir oder Rajasthan — ideal für unvergessliche Abenteuer, kulturelle Erfahrungen und landschaftliche Erlebnisse."
+      "description": "Entdecken Sie die besten Reiseziele in Indien mit unseren sorgfältig zusammengestellten Reisepaketen. Genießen Sie individuelle Reiserouten, beste Angebote und eine reibungslose Reiseplanung."
     },
     "international": {
-      "title": "Internationale Reisen & Globale Tourpakete | Die Welt entdecken – Global Tourist Centre",
-      "description": "Erleben Sie unvergessliche internationale Reisen mit Global Tourist Centre. Wählen Sie aus kuratierten Tourpaketen nach Türkei, Thailand, Singapur und mehr — perfekt für kulturelle Entdeckungen, Strandurlaube, Städtereisen und Luxusreisen."
+      "title": "Internationale Reisen & globale Reisepakete | Entdecken Sie die Welt – GTC",
+      "description": "Entdecken Sie die besten internationalen Reiseziele mit unseren sorgfältig zusammengestellten Reisepaketen. Genießen Sie individuelle Reiserouten, beste Angebote und eine reibungslose Reiseplanung weltweit."
     },
     "day-trips": {
       "title": "Tagesausflüge – Beste Eintagestouren für internationale Gäste",
@@ -99,13 +99,13 @@ export const de = {
         description:
           "Entdecken Sie das reiche Erbe Südgoas mit Besuchen der Kirchen von Alt-Goa, des Augustiner-Turms, der Shantadurga- und Mangeshi-Tempel, der Strände Miramar, Colva und Dona Paula, des Panjim-Marktes sowie einer Dinner-Kreuzfahrt auf dem Mandovi-Fluss.",
       },
-      "north-goa-english-tour": {
+      "north-goa-day-excursion": {
         title: "Nordgoa Besichtigung",
         duration: "1 Tag",
         description:
           "Erleben Sie das lebendige Nordgoa mit berühmten Stränden wie Baga, Calangute und Anjuna sowie historischen Festungen, Flohmärkten, Nachtleben und Kirchen aus der portugiesischen Kolonialzeit.",
       },
-      "dudhsagar-spice-plantation-day-trip-package": {
+      "dudhsagar-waterfal-excursion": {
         title: "Dudhsagar-Wasserfall & Gewürzplantage",
         duration: "1 Tag",
         description:
@@ -141,13 +141,13 @@ export const de = {
         description:
           "Entspannen Sie in einem luxuriösen Klippenresort in Cabo de Rama mit ruhigem Meerblick und erstklassiger Unterkunft.",
       },
-      "gokarna-murdeshwar-one-day-trip-package": {
+      "gokarna-murdeshwar-day-excursion": {
         title: "Gokarna & Murdeshwar",
         duration: "1 Tag",
         description:
           "Besuchen Sie die ruhigen Strände von Gokarna und die ikonische Shiva-Statue in Murdeshwar – eine perfekte Mischung aus Spiritualität und Küstenschönheit.",
       },
-      "hampi-1n-2d-trip-package": {
+      "hampi-day-excursions": {
         title: "Hampi & Badami Kulturerbe-Tour",
         duration: "1 Nacht / 2 Tage",
         description:
@@ -171,7 +171,7 @@ export const de = {
         description:
           "Entdecken Sie das königliche Erbe von Mysore sowie die Teeplantagen, Landschaften und das angenehme Klima von Ooty.",
       },
-      "mumbai-day-trip-package": {
+      "mumbai-one-day-excursion": {
         title: "Stadtrundfahrt Mumbai",
         duration: "1 Nacht / 2 Tage",
         description:
@@ -644,9 +644,8 @@ export const de = {
       faq4Answer:
         "Selbstverständlich. Wenn Ihre Reise Sie beispielsweise von Mumbai nach Sikkim bis zu den Andamanen führt, buchen wir jedes Hotel für die richtigen Nächte auf Ihrer gesamten Reise. Wir sind für Sie da, um Ihren Aufenthalt nahtlos zu gestalten – auch wenn Sie die Pläne später ändern oder eine Etappe hinzufügen möchten.",
       metadata: {
-        title: "Hotelbuchung - Global Tourist Centre",
-        description:
-          "Buchen Sie das perfekte Hotel für Ihren Aufenthalt aus unserer umfangreichen Auswahl an Unterkünften weltweit.",
+        title: "Hotelbuchungsservices | Beste Angebote & einfache Buchung - GTCe",
+        description: "Buchen Sie Hotels ganz einfach mit unseren Hotelbuchungsservices. Finden Sie die besten Angebote, Luxus- und Budgetunterkünfte und genießen Sie eine reibungslose Reservierung mit professioneller Unterstützung."
       },
     },
     // Flight Booking
@@ -712,14 +711,13 @@ export const de = {
       faq4Answer:
         "Bei Verspätungen oder Stornierungen sind wir für Sie da. Wenden Sie sich an uns und wir führen Sie durch die nächsten Schritte: Umbuchung, Unterstützung am Flughafen oder Alternativflüge. Wir helfen Ihnen, ruhig zu bleiben und weiterzureisen.",
       metadata: {
-        title: "Flugbuchung - Global Tourist Centre",
-        description:
-          "Buchen Sie Inlands- und Auslandsflüge zu wettbewerbsfähigen Preisen mit unseren professionellen Flugbuchungsservices.",
+        title: "Flugbuchungsservices | Günstige Flugtickets & Angebote - GTC",
+        description: "Buchen Sie Flüge ganz einfach mit unseren Flugbuchungsservices. Erhalten Sie günstige Flugtickets, die besten Angebote für Inlands- und internationale Flüge sowie eine reibungslose Buchungsunterstützung."
       },
     },
     // Group Trip
     groupTrip: {
-      heroTitle: "Gruppenreisen und -pakete",
+      heroTitle: "Individuelle Gruppenreisen",
       aboutTitle: "Gemeinsam Reisen, Gemeinsam Sparen",
       aboutDesc:
         "Unsere Gruppenreisen bieten die perfekte Mischung aus sozialem Zusammenhalt, Komfort und Preis-Leistungs-Verhältnis. Ob Sie mit der Familie, Freunden oder Kollegen reisen – unsere fachmännisch geplanten Gruppenreisepläne kümmern sich um alle Details, damit Sie sich auf das gemeinsame Erleben konzentrieren können. Dank Sondergruppenrabatten und dedizierten Reiseleitern erleben Sie mehr und geben weniger aus.",
@@ -777,10 +775,9 @@ export const de = {
         "Welche Zahlungspläne oder Ratenzahlungsoptionen bieten Sie für Gruppenreisebuchungen an?",
       faq4Answer:
         "Für Gruppenbuchungen verlangen wir in der Regel eine Anzahlung von 25 %, um die Reservierungen zu bestätigen, mit dem Restbetrag fällig 30–45 Tage vor der Abreise. Für sehr große Gruppen oder komplexe Reisepläne können wir einen Zahlungsplan mit mehreren Raten vereinbaren. Wir können auch individuelle Zahlungen von Gruppenmitgliedern akzeptieren, wenn dies bevorzugt wird.",
-      metadata: {
-        title: "Gruppenreisen - Global Tourist Centre",
-        description:
-          "Organisierte Gruppenreisen für Familien, Freunde und Unternehmensteams mit erfahrenen Guides und reibungsloser Logistik.",
+      "metadata": {
+        "title": "Individuelle Gruppenreisen | Maßgeschneiderte Reisepakete - GTC",
+        "description": "Planen Sie Ihre perfekte Reise mit individuellen Gruppenreisen. Genießen Sie maßgeschneiderte Reiserouten, Gruppenangebote und eine reibungslose Planung mit professioneller Unterstützung."
       },
     },
     // Common form labels
@@ -1402,7 +1399,7 @@ export const de = {
     a4: "Unsere Stornierungsrichtlinie variiert je nach Tourpaket. Kontaktieren Sie uns für spezifische Details.",
   },
   trips: {
-    "north-goa-english-tour": {
+    "north-goa-day-excursion": {
       "title": "Nordgoa – Portugiesisches Goa",
       "description": "Entdecken Sie die Strände Calangute, Baga und Anjuna, Fort Aguada, portugiesische Kirchen und den Vagator-Aussichtspunkt auf einem ganztägigen privaten Tour.",
       "duration": "Ganzer Tag"
@@ -1422,7 +1419,7 @@ export const de = {
       "description": "Tauchen Sie ein in die UNESCO-Kirchen von Old Goa, die Tempel Shanta Durga und Mangueshi, Miramar Beach, den Dona Paula-Aussichtspunkt und den Panjim-Markt.",
       "duration": "Ganzer Tag"
     },
-    "one-day-south-goa-trip-package": {
+    "south-goa-day-exursion": {
       "title": "Südgoa Küstenabenteuer",
       "description": "Entdecken Sie Palolem, Butterfly Beach, Kajaktour in der Blue Lagoon von Cola, Fort Cabo de Rama, Galgibaga Schildkrötenstrand und einen atemberaubenden Sonnenuntergang an der Talpona.",
       "duration": "1 Tag"
@@ -1432,7 +1429,7 @@ export const de = {
       "description": "Erkunden Sie den ikonischen Taj Mahal bei Sonnenaufgang, Agra Fort, Baby Taj und Mehtab Bagh auf dieser unvergesslichen Reise durch das Mogul-Erbe.",
       "duration": "1 Nacht / 2 Tage"
     },
-    "wondrous-wildernest-trip-package": {
+    "wondrous-wildernest-tour-package": {
       "title": "Wundersame Wildernest-Reise",
       "description": "Tauchen Sie in die Natur ein mit Waldwanderungen, Sonnenuntergangs-Treks, Töpfersitzungen, Henna-Kunst und Abendunterhaltung im Wildernest Naturresort auf Vollpensionsbasis.",
       "duration": "2 Nächte / 3 Tage"
@@ -1456,7 +1453,7 @@ export const de = {
         "Entdecken Sie Gangtok, Darjeeling, Pelling mit Tsomgo-See, Bergblicken und buddhistischen Klöstern im östlichen Himalaya.",
       duration: "6 Nächte / 7 Tage",
     },
-    "meghalaya-tour": {
+    "meghalaya-tour-package-from-goa": {
       title: "Mystisches Meghalaya",
       description:
         "Erkunden Sie lebende Wurzelbrücken, kristallklare Flüsse in Dawki, Asiens sauberstes Dorf und Kaziranga-Wildsafari im Nordosten Indiens.",
@@ -1517,7 +1514,7 @@ export const de = {
         "Erkunden Sie die mystischen Felsformationen der Yana-Höhlen, genießen Sie aufregende Jeep- und Boots-Safaris und erleben Sie die majestätischen Jog-Fälle.",
       duration: "1 Nacht / 2 Tage",
     },
-    "aurangabad-1n-2d-trip-package": {
+    "aurangabad-day-excursions": {
       title: "Aurangabad Erbe",
       description:
         "Entdecken Sie UNESCO-Weltkulturerbe Ajanta & Ellora-Höhlen, Bibi Ka Maqbara und die historische Daulatabad-Festung.",
@@ -1529,7 +1526,7 @@ export const de = {
         "Erleben Sie das ikonische Taj Mahal, Agra Fort und Baby Taj mit russischsprachigen Guides auf dieser romantischen Erbe-Reise.",
       duration: "1 Nacht / 2 Tage",
     },
-    "hampi-1n-2d-trip-package": {
+    "hampi-day-excursions": {
       title: "Hampi Erbe",
       description:
         "Erkunden Sie das UNESCO-Weltkulturerbe Hampi - antike Ruinen, königliche Anlagen, Tempel und einzigartigen Steinwagen.",
@@ -1663,31 +1660,31 @@ export const de = {
     },
 
     // Tagesausflüge (Day Trips)
-    "dandeli-elephant-safari-day-trip-package": {
+    "dandeli-elephant-day-excursion": {
       title: "Dandeli Elefanten-Safari",
       description:
         "Spannendes Wildtierabenteuer mit Elefanten-Safaris, Wildwasser-Rafting und Dschungel erkunden in Dandelis üppigen Landschaften.",
       duration: "1 Tag",
     },
-    "dudhsagar-spice-plantation-day-trip-package": {
+    "dudhsagar-waterfal-excursion": {
       title: "Dudhsagar Wasserfall & Gewürzplantage",
       description:
         "Erleben Sie majestätische Dudhsagar-Fälle mit Jeep-Safari durch Bhagwan Mahaveer Sanctuary und authentisches Goan-Mittagessen auf Gewürzplantage.",
       duration: "1 Tag",
     },
-    "mumbai-day-trip-package": {
+    "mumbai-one-day-excursion": {
       title: "Mumbai Tagesausflug",
       description:
         "Umfassende Mumbai-Tour mit ikonischen Wahrzeichen: Gateway of India, Dharavi Slum, Dhobi Ghat und Nachtzug zurück nach Goa.",
       duration: "1 Tag",
     },
-    "netravali-day-trip-package": {
+    "netravali-wildlife-day-excursion": {
       title: "Netravali Tagesausflug",
       description:
         "Erkunden Sie Netravalic mystischen Bubbling Lake, wandern zu unberührten Wasserfällen und entdecken Sie reiche Biodiversität in diesem unberührten Wildschutzgebiet.",
       duration: "1 Tag",
     },
-    "gokarna-murdeshwar-one-day-trip-package": {
+    "gokarna-murdeshwar-day-excursion": {
       title: "Gokarna Murdeshwar Ausflug",
       description:
         "Spirituelle Reise zum antiken Mahabaleshwar-Tempel in Gokarna und prächtigen Murdeshwar-Tempel mit weltweit höchster Shiva-Statue.",
@@ -1789,10 +1786,10 @@ export const de = {
 
   tourData: {
 
-    "wondrous-wildernest-trip-package": {
+    "wondrous-wildernest-tour-package": {
       "file_name": "WONDROUS_WILDERNEST_2N3D_TRIP.pdf",
       "page": {
-        "slug": "wondrous-wildernest-trip-package",
+        "slug": "wondrous-wildernest-tour-package",
         "type": "domestic-trip",
         "hero": {
           "title": "Wundersame Wildernest-Reise",
@@ -2003,8 +2000,8 @@ export const de = {
         }
       ]
     },
-    "north-goa-english-tour": {
-      "file_name": "north-goa-english-tour.html",
+    "north-goa-day-excursion": {
+      "file_name": "north-goa-day-excursion.html",
       "page": {
         "slug": "North-Goa-English-tour",
         "type": "day-trip",
@@ -2012,7 +2009,7 @@ export const de = {
           "title": "Nordgoa – Portugiesisches Goa",
           "herotitle": "Nordgoa – Portugiesisches Goa",
           "subtitle": "Ganztägige Tour durch Strände, Festungen und portugiesisches Erbe Nordgoas",
-     "backgroundImage": "/assets/hero/Goa-1-hero.webp",
+          "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "Ganzer Tag",
             "locations": "Nordgoa",
@@ -2021,8 +2018,8 @@ export const de = {
         },
         "language": "de",
         "metadata": {
-          "title": "Nordgoa – Portugiesisches Goa",
-          "description": "Buchen Sie eine ganztägige Nordgoa-Tour mit Calangute, Baga, Anjuna-Stränden, Fort Aguada und portugiesischen Kirchen mit russischsprachigem Reiseführer."
+          "title": "Nord-Goa Tour: Strände, Fort Aguada & Küsten-Highlights entdecken",
+          "description": "Erleben Sie Nord-Goa an einem Tag mit Stränden, Forts und lebhaften Märkten auf einer geführten Tour. Genießen Sie malerische Ausblicke und lokale Kultur. Buchen Sie jetzt Ihre Reise!"
         }
       },
       "cta": {
@@ -2723,7 +2720,7 @@ export const de = {
       ]
     },
 
-    "one-day-south-goa-trip-package": {
+    "south-goa-day-exursion": {
       "file_name": "One-Day-South-Goa-trip-package.html",
       "page": {
         "slug": "One-Day-South-Goa-trip-package",
@@ -2740,8 +2737,8 @@ export const de = {
         },
         "language": "de",
         "metadata": {
-          "title": "Eintägige Südgoa-Tour für ausländische Reisende",
-          "description": "Entdecken Sie Südgoa in einem Tag: Agonda, Palolem, Butterfly- & Cola-Strände, Kajaktour, Fort Cabo de Rama & Sonnenuntergang."
+          "title": "Süd-Goa Eintagestour für internationale Reisende in Indien",
+          "description": "Entdecken Sie Süd-Goa an einem Tag – Agonda, Palolem, Butterfly- und Cola-Strände, Kajakfahren, Cabo de Rama Fort und Sonnenuntergang. Perfekt für internationale Reisende in Indien."
         }
       },
       "cta": {
@@ -3079,10 +3076,10 @@ export const de = {
         }
       ]
     },
-    "dandeli-elephant-safari-day-trip-package": {
-      file_name: "dandeli-elephant-safari-day-trip-package.html",
+    "dandeli-elephant-day-excursion": {
+      file_name: "dandeli-elephant-day-excursion.html",
       page: {
-        slug: "dandeli-elephant-safari-day-trip-package",
+        slug: "dandeli-elephant-day-excursion",
         type: "day-trip",
         hero: {
           title: "Dandeli Elefantensafari & Abenteuer-Tagesausflug",
@@ -3098,7 +3095,7 @@ export const de = {
         language: "de",
         "metadata": {
           "title": "Dandeli Elefanten-Safari & Abenteuer Tagesausflug",
-          "description": "Erleben Sie einen eintägigen Dandeli-Ausflug mit Elefanten-Safari, Jeepfahrt, Rafting, Kajakfahren und natürlichem Jacuzzi. Perfekt für Natur- und Abenteuerliebhaber."
+          "description": "Erleben Sie einen eintägigen Dandeli-Ausflug mit Elefantensafari, Jeepfahrt, Rafting, Kajakfahren und natürlichem Jacuzzi. Perfekt für Natur- und Abenteuerliebhaber."
         }
       },
       cta: {
@@ -3258,7 +3255,7 @@ export const de = {
         },
       ],
     },
-    "dudhsagar-spice-plantation-day-trip-package": {
+    "dudhsagar-waterfal-excursion": {
       file_name: "Dudhsagar-and-Spice-Plantation-Day-Trip-package.html",
       page: {
         slug: "Dudhsagar-and-Spice-Plantation-Day-Trip-package",
@@ -3430,7 +3427,7 @@ export const de = {
         },
       ],
     },
-    "gokarna-murdeshwar-one-day-trip-package": {
+    "gokarna-murdeshwar-day-excursion": {
       file_name: "Gokarna-Murdeshwar-one-day-trip-package.html",
       page: {
         slug: "Gokarna-Murdeshwar-one-day-trip-package",
@@ -3618,24 +3615,22 @@ export const de = {
       page: {
         slug: "luxury-yacht-day-tour-goa",
         type: "",
-        hero: {
-          "herotitle": "Luxus-Yacht-Tour: Sonnenuntergang zu Abendessen Erlebnis",
-          title: "3D/2N Jacht-Tagesausflug-Paket – Luxus-Sonnenuntergangs-Kreuzfahrt Goa",
-          subtitle:
-            "Ein exklusives 6-stündiges Premium-Erlebnis mit Infinity-Pool, Live-DJ, Gourmet-Essen und Blick auf den Sonnenuntergang",
-          backgroundImage: "/assets/hero/Luxury-Yacht-Goa-hero.webp",
-          "meta": {
-            "duration": "6 Hours",
-            "rating": "4.9/5 Rating",
-            "description": "Experience a premium 3D/2N Yacht Day Tour Package with sunset cruise, infinity pool, live DJ, gourmet dinner, and hotel transfers."
-          }
-        },
-        language: "de",
-        "metadata": {
-          "title": "Luxus Jacht Tour Goa - Sonnenuntergang & Abendessen",
-          "description": "Genießen Sie eine exklusive Abend-Jacht-Erfahrung mit Infinity-Pool, Live-DJ, Gourmet-BBQ, Premium-Getränken und spektakulären Sonnenuntergängen."
-        }
-      },
+    "hero": {
+      "herotitle": "Luxus-Yachttour: Vom Sonnenuntergang bis zum Dinner",
+      "subtitle": "Ein exklusives Premium-Erlebnis mit Infinity-Pool, Live-DJ, Gourmet-Dining und Sonnenuntergangsblick",
+      "backgroundImage": "/assets/hero/Luxury-Yacht-Goa-hero.webp",
+      "meta": {
+        "duration": "6 Stunden",
+        "rating": "Bewertung 4,9/5",
+        "description": "Erleben Sie eine Premium-Yachttour mit Sonnenuntergangskreuzfahrt, Infinity-Pool, Live-DJ, Gourmet-Dinner und Hoteltransfers."
+      }
+    },
+    "language": "de",
+    "metadata": {
+      "title": "Luxus-Yacht-Tagesausflug Goa: Private Kreuzfahrt, Sonnenuntergang & Premium-Erlebnis",
+      "description": "Genießen Sie eine Luxus-Yachttour in Goa mit privater Kreuzfahrt, Sonnenuntergangsblick und Premium-Erlebnis an Bord. Perfekt für Partys, Paare und unvergessliche Momente!"
+    }
+  },
       cta: {
         headline: "Reservieren Sie Ihr Luxusyacht-Erlebnis",
         description:
@@ -3799,7 +3794,7 @@ export const de = {
         },
       ],
     },
-    "mumbai-day-trip-package": {
+    "mumbai-one-day-excursion": {
       file_name: "Mumbai-day-trip-package.html",
       page: {
         slug: "Mumbai-day-trip-package",
@@ -3817,8 +3812,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Mumbai Tagesausflug ab Goa für ausländische Reisende",
-          "description": "Fliegen Sie von Goa für einen eintägigen Mumbai-Ausflug. Erkunden Sie das Gateway of India, Dharavi, Dhobi Ghat und UNESCO-Stätten mit einem Guide – perfekt für ausländische Reisende in Indien."
+          "title": "Mumbai Tagesausflug ab Goa für internationale Reisende",
+          "description": "Fliegen Sie von Goa für eine eintägige Mumbai-Tour. Besuchen Sie das Gateway of India, Dharavi, Dhobi Ghat und UNESCO-Stätten mit einem Guide – perfekt für internationale Reisende in Indien."
         }
 
       },
@@ -4019,7 +4014,7 @@ export const de = {
         },
       ],
     },
-    "netravali-day-trip-package": {
+    "netravali-wildlife-day-excursion": {
       file_name: "Netravali-day-trip-package.html",
       page: {
         slug: "Netravali-day-trip-package",
@@ -4791,7 +4786,7 @@ export const de = {
         },
       ],
     },
-    "aurangabad-1n-2d-trip-package": {
+    "aurangabad-day-excursions": {
       file_name: "2-Day-Aurangabad-Trip-Package.html",
       page: {
         slug: "2-Day-Aurangabad-Trip-Package",
@@ -4804,8 +4799,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "2-tägiges Aurangabad Reise-Paket von Goa mit Ajanta & Ellora Höhlen",
-          "description": "Ajanta & Ellora Höhlen, Bibi Ka Maqbara & Daulatabad Fort mit einer 1N/2D Aurangabad Reise. Inklusive Hotelaufenthalt, geführten Touren & Denkmaleintritt."
+          "title": "Aurangabad 1N/2T Tour mit Ajanta- & Ellora-Höhlen",
+          "description": "Erleben Sie die Ajanta- und Ellora-Höhlen, Bibi Ka Maqbara und das Daulatabad Fort mit einer 1N/2T Reise nach Aurangabad. Inklusive Hotelaufenthalt, geführte Touren und Eintrittskarten."
         }
       },
       cta: {
@@ -5721,7 +5716,7 @@ export const de = {
         slug: "bijapur-heritage-tour-from-goa",
         type: "domestic-trip",
         hero: {
-      "herotitle": "Bijapur, Pattadakal & Aihole Tour",
+          "herotitle": "Bijapur, Pattadakal & Aihole Tour",
           subtitle:
             "1 Nacht 2 Tage Erkundung des historischen Bijapur, des UNESCO-Weltkulturerbes Pattadakal und der antiken Aihole-Tempel",
           backgroundImage: "/assets/hero/Bijapur-hero.webp",
@@ -5767,119 +5762,119 @@ export const de = {
           description: "Kulturerbestätte Pattadakal",
         },
       ],
-"itinerary": [
-  {
-    "time": "Tag 1 · 5:00",
-    "title": "Abholung vom Hotel in Goa",
-    "description": "Frühe Abholung.",
-    "category": "travel"
-  },
-  {
-    "time": "Tag 1 · 8:00",
-    "title": "Frühstück",
-    "description": "Frühstück.",
-    "category": "meal"
-  },
-  {
-    "time": "Tag 1 · 12:00",
-    "title": "Ankunft in Bijapur",
-    "description": "Ankunft.",
-    "category": "arrival"
-  },
-  {
-    "time": "Tag 1 · 12:15",
-    "title": "Gol Gumbaz",
-    "description": "Besuch.",
-    "category": "exploration",
-    "highlight": true
-  },
-  {
-    "time": "Tag 1 · 1:30",
-    "title": "Ibrahim Rauza",
-    "description": "Besuch.",
-    "category": "exploration"
-  },
-  {
-    "time": "Tag 1 · 2:15",
-    "title": "Mittagessen",
-    "description": "Mittagessen.",
-    "category": "meal"
-  },
-  {
-    "time": "Tag 1 · 3:15",
-    "title": "Bijapur Fort",
-    "description": "Besuch.",
-    "category": "exploration"
-  },
-  {
-    "time": "Tag 1 · 4:30",
-    "title": "Jama Masjid",
-    "description": "Besuch.",
-    "category": "exploration"
-  },
-  {
-    "time": "Tag 1 · 6:00",
-    "title": "Hotel Check-in",
-    "description": "Check-in.",
-    "category": "arrival"
-  },
-  {
-    "time": "Tag 1 · 7:30",
-    "title": "Abendessen",
-    "description": "Abendessen.",
-    "category": "meal"
-  },
-  {
-    "time": "Tag 2 · 7:00",
-    "title": "Frühstück",
-    "description": "Frühstück.",
-    "category": "meal"
-  },
-  {
-    "time": "Tag 2 · 7:30",
-    "title": "Fahrt nach Aihole",
-    "description": "Fahrt.",
-    "category": "travel"
-  },
-  {
-    "time": "Tag 2 · 9:30",
-    "title": "Aihole Tempel",
-    "description": "Besuch.",
-    "category": "exploration",
-    "highlight": true
-  },
-  {
-    "time": "Tag 2 · 11:30",
-    "title": "Fahrt nach Pattadakal",
-    "description": "Fahrt.",
-    "category": "travel"
-  },
-  {
-    "time": "Tag 2 · 12:00",
-    "title": "Pattadakal Tempel",
-    "description": "Besuch.",
-    "category": "exploration",
-    "highlight": true
-  },
-  {
-    "time": "Tag 2 · 1:30",
-    "title": "Mittagessen",
-    "description": "Mittagessen.",
-    "category": "meal"
-  },
-  {
-    "time": "Tag 2 · 2:30",
-    "title": "Rückfahrt nach Goa",
-    "description": "Rückfahrt.",
-    "category": "travel"
-  },
-  {
-    "time": "Tag 2 · 7:30",
-    "title": "Ankunft in Goa",
-    "description": "Ende der Tour.",
-    "category": "arrival"
-  }
-],
+      "itinerary": [
+        {
+          "time": "Tag 1 · 5:00",
+          "title": "Abholung vom Hotel in Goa",
+          "description": "Frühe Abholung.",
+          "category": "travel"
+        },
+        {
+          "time": "Tag 1 · 8:00",
+          "title": "Frühstück",
+          "description": "Frühstück.",
+          "category": "meal"
+        },
+        {
+          "time": "Tag 1 · 12:00",
+          "title": "Ankunft in Bijapur",
+          "description": "Ankunft.",
+          "category": "arrival"
+        },
+        {
+          "time": "Tag 1 · 12:15",
+          "title": "Gol Gumbaz",
+          "description": "Besuch.",
+          "category": "exploration",
+          "highlight": true
+        },
+        {
+          "time": "Tag 1 · 1:30",
+          "title": "Ibrahim Rauza",
+          "description": "Besuch.",
+          "category": "exploration"
+        },
+        {
+          "time": "Tag 1 · 2:15",
+          "title": "Mittagessen",
+          "description": "Mittagessen.",
+          "category": "meal"
+        },
+        {
+          "time": "Tag 1 · 3:15",
+          "title": "Bijapur Fort",
+          "description": "Besuch.",
+          "category": "exploration"
+        },
+        {
+          "time": "Tag 1 · 4:30",
+          "title": "Jama Masjid",
+          "description": "Besuch.",
+          "category": "exploration"
+        },
+        {
+          "time": "Tag 1 · 6:00",
+          "title": "Hotel Check-in",
+          "description": "Check-in.",
+          "category": "arrival"
+        },
+        {
+          "time": "Tag 1 · 7:30",
+          "title": "Abendessen",
+          "description": "Abendessen.",
+          "category": "meal"
+        },
+        {
+          "time": "Tag 2 · 7:00",
+          "title": "Frühstück",
+          "description": "Frühstück.",
+          "category": "meal"
+        },
+        {
+          "time": "Tag 2 · 7:30",
+          "title": "Fahrt nach Aihole",
+          "description": "Fahrt.",
+          "category": "travel"
+        },
+        {
+          "time": "Tag 2 · 9:30",
+          "title": "Aihole Tempel",
+          "description": "Besuch.",
+          "category": "exploration",
+          "highlight": true
+        },
+        {
+          "time": "Tag 2 · 11:30",
+          "title": "Fahrt nach Pattadakal",
+          "description": "Fahrt.",
+          "category": "travel"
+        },
+        {
+          "time": "Tag 2 · 12:00",
+          "title": "Pattadakal Tempel",
+          "description": "Besuch.",
+          "category": "exploration",
+          "highlight": true
+        },
+        {
+          "time": "Tag 2 · 1:30",
+          "title": "Mittagessen",
+          "description": "Mittagessen.",
+          "category": "meal"
+        },
+        {
+          "time": "Tag 2 · 2:30",
+          "title": "Rückfahrt nach Goa",
+          "description": "Rückfahrt.",
+          "category": "travel"
+        },
+        {
+          "time": "Tag 2 · 7:30",
+          "title": "Ankunft in Goa",
+          "description": "Ende der Tour.",
+          "category": "arrival"
+        }
+      ],
       gallery: [
         {
           title: "Gol Gumbaz",
@@ -6555,8 +6550,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "4 Tage Goldenes Dreieck Indien Tour",
-          "description": "Erkunden Sie Delhi, Agra und Jaipur in 4 Tagen. Inklusive Taj Mahal Besuch und Hotelunterkunft."
+          "title": "Golden-Triangle-Reisepaket ab Goa | 4 Tage / 3 Nächte",
+          "description": "Buchen Sie ein 4 Tage / 3 Nächte Golden-Triangle-Paket für Delhi, Agra und Jaipur mit geführten Touren, Denkmaleintritten und kulturellen Erlebnissen."
         }
       },
       cta: {
@@ -6935,7 +6930,7 @@ export const de = {
         },
       ],
     },
-    "hampi-1n-2d-trip-package": {
+    "hampi-day-excursions": {
       file_name: "Hampi-1N-2D-Trip-Package.html",
       page: {
         slug: "Hampi-1N-2D-Trip-Package",
@@ -6954,8 +6949,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Hampi 1N/2D Tour-Paket von Goa mit Aufenthalt & Sightseeing",
-          "description": "Erkunden Sie Hampis UNESCO-Weltkulturerbestätten bei einer 1N/2D Reise von Goa. Inklusive Hotelaufenthalt, geführte Besichtigungen, Coracle-Fahrt & Denkmaleintrittskarten."
+          "title": "Hampi 1N/2T Reisepaket ab Goa mit Unterkunft & Besichtigungen",
+          "description": "Entdecken Sie die UNESCO-Welterbestätten von Hampi mit einer 1N/2T Reise ab Goa. Inklusive Hotelaufenthalt, geführte Besichtigungen, Coracle-Fahrt und Eintrittskarten zu den Monumenten."
         }
       },
       cta: {
@@ -7635,7 +7630,7 @@ export const de = {
         slug: "Jodhpur-Udaipur-tour-package",
         type: "domestic-trip",
         hero: {
-          title:"Königliches Rajasthan: Jodhpur & Udaipur Escapey",
+          title: "Königliches Rajasthan: Jodhpur & Udaipur Escapey",
           subtitle:
             "4 Nächte, 5 Tage Erkundung von Jodhpur und Udaipur mit geführten Touren und kulturellen Erlebnissen",
           backgroundImage: "/assets/hero/Jodhpur-Udaipur-hero.webp",
@@ -7916,7 +7911,7 @@ export const de = {
         slug: "Kashmir-5N6D-Trip",
         type: "domestic-trip",
         hero: {
-          title: "Kaschmir Paradies auf Erden",
+          "title": "Kashmir-Reise 5N/6T",
           subtitle:
             "Erleben Sie die atemberaubende Schönheit Kaschmirs auf dieser Reise durch Srinagar, Gulmarg, Pahalgam und Sonamarg",
           backgroundImage: "/assets/hero/kashmir-5n6d-hero.webp",
@@ -7928,8 +7923,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Kaschmir 5N6D Reisepaket",
-          "description": "Erkunden Sie Kaschmir in 6 Tagen — Srinagar, Sonamarg, Gulmarg & Pahalgam. Perfekte 5N6D Kaschmir Reise mit Hausboot-Aufenthalt und Shikara-Fahrt."
+          "title": "Kashmir-Reisepaket ab Goa | Beste Angebote & Reiseroute",
+          "description": "Buchen Sie Ihr Kashmir-Reisepaket ab Goa zu den besten Angeboten. Entdecken Sie Srinagar, Gulmarg und Pahalgam mit individueller Reiseroute, Hotels und reibungsloser Reiseplanung."
         }
       },
       cta: {
@@ -8771,7 +8766,7 @@ export const de = {
         },
       ],
     },
-    "meghalaya-tour": {
+    "meghalaya-tour-package-from-goa": {
       file_name: "Meghalaya-Tour-Package.html",
       page: {
         slug: "Meghalaya-Tour-Package",
@@ -8937,7 +8932,8 @@ export const de = {
         slug: "North-India-Trip",
         type: "domestic-trip",
         hero: {
-          title: "Nordindien Kulturreise",
+
+          "title": "Nordindien-Reisepaket 9N/10T",
           subtitle: "",
           backgroundImage: "/assets/hero/North-india-hero.webp",
           "meta": {
@@ -8947,8 +8943,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Nordindien 10 Tage Reisepaket | Global Tourist Centre",
-          "description": "Erkunden Sie den kulturellen Reichtum Nordindiens mit unserem 10-Tage-Paket inklusive Amritsar, Delhi, Agra, Jaipur und Ranthambore."
+          "title": "Nordindien-Reisepaket ab Goa | Heritage-Tour-Angebote",
+          "description": "Buchen Sie Ihr Nordindien-Reisepaket ab Goa und entdecken Sie Delhi, Agra und Jaipur. Genießen Sie historische Sehenswürdigkeiten, geführte Touren, Hotels und eine reibungslose Reiseplanung."
         }
       },
       cta: {
@@ -9277,7 +9273,7 @@ export const de = {
         slug: "Shimoga-trip-package",
         type: "domestic-trip",
         hero: {
-          title: "2-tägiges Goa nach Shimoga Natur- & Wildtiersafari-Abenteuer",
+  "title": "2-tägiges Goa–Shimoga Natur- & Wildtier-Safari-Abenteuer",
           subtitle: "",
           backgroundImage: "/assets/hero/Shimoga-hero.webp",
           "meta": {
@@ -9287,10 +9283,9 @@ export const de = {
           }
         },
         language: "de",
-        metadata: {
-          title: "Safari von Goa nach Shimoga: Yana-Höhlen & Jog-Fälle (2 Tage)",
-          description:
-            "Erleben Sie einen 2-tägigen Natur- und Wildtierausflug ab Goa. Erkunden Sie die Yana-Höhlen, das Shimoga-Safari, den Aghoreshwara-Tempel und die Jog-Fälle mit geführten Touren."
+        "metadata": {
+          "title": "Goa–Shimoga Safari: Yana-Höhlen & Jog Falls 2-Tage-Reise",
+          "description": "Erleben Sie einen 2-tägigen Natur- und Wildtierausflug ab Goa. Entdecken Sie die Yana-Höhlen, Shimoga-Safari, den Aghoreshwara-Tempel und die Jog Falls mit geführten Touren."
         }
       },
       cta: {
@@ -10789,7 +10784,7 @@ export const de = {
         slug: "7N-8D-thailand-tour-package",
         type: "",
         hero: {
-          title: "Thailand 7N/8D Abenteuer",
+          title: "Thailand 7N/8T Abenteuer",
           subtitle:
             "Erleben Sie das Beste von Thailand – Bangkok, Pattaya, Krabi und Phuket auf einer unvergesslichen Reise",
           backgroundImage: "/assets/hero/Thailand-hero.webp",
@@ -10800,8 +10795,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Thailand 7N/8D Tour-Paket buchen @30% Rabatt nur von Goa",
-          "description": "Buchen Sie eine 7 Nächte 8 Tage Thailand Reise von Goa mit 30% Rabatt. Besuchen Sie Bangkok, Pattaya, Krabi & Phuket mit Coral Island, Phi Phi Inseln, City Touren & Transfers."
+          "title": "Buchen Sie das Thailand 7N/8T Reisepaket mit 30% Rabatt nur ab Goa",
+          "description": "Buchen Sie Ihre 7 Nächte/8 Tage Thailand-Reise ab Goa mit 30% Rabatt. Besuchen Sie Bangkok, Pattaya, Krabi und Phuket inklusive Coral Island, Phi Phi Inseln, Stadttouren und Transfers."
         }
       },
       cta: {
@@ -11155,8 +11150,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "6N/7D Baku Tour-Paket – 30% Rabatt nur für Einwohner von Goa",
-          "description": "Entdecken Sie Baku in diesem 6N/7D Tour-Paket mit exklusiven 30% Rabatt nur für Einwohner von Goa — genießen Sie die Wahrzeichen der Stadt, moderne Architektur & historischen Charme. Begrenztes Angebot!"
+          "title": "6N/7T Bali-Reisepaket – 30% Rabatt nur für Einwohner von Goa | Jetzt buchen",
+          "description": "Erleben Sie Bali mit diesem 6N/7T Reisepaket mit exklusiven 30% Rabatt nur für Einwohner von Goa – genießen Sie Strände, Tempel, Wassersport und Inselausflüge. Begrenztes Angebot – jetzt buchen!"
         }
       },
       cta: {
@@ -11806,8 +11801,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Georgien-Reisepaket ab Indien – Entdecken Sie den Zauber des Kaukasus mit Global Tourist Centre",
-          "description": "Begeben Sie sich auf ein einzigartiges Georgien-Reisepaket ab Indien mit Global Tourist Centre: Erkunden Sie die charmante Altstadt von Tiflis, die Berglandschaften von Kazbegi, die Schwarzmeerküste bei Batumi und vieles mehr — nahtlose Flüge, lokale Reiseleiter und unvergessliche kulturelle Erlebnisse inklusive."
+          "title": "6N/7T Georgien-Reisepaket – 30% Rabatt nur für Einwohner von Goa | Jetzt buchen",
+          "description": "Entdecken Sie Georgien mit unserem 6N/7T Reisepaket ab Goa. Besuchen Sie Tiflis, Kazbegi und die malerischen Landschaften des Kaukasus mit Sonderangeboten. Buchen Sie Ihre Reise noch heute!"
         }
       },
       cta: {
@@ -12142,8 +12137,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "4N/5D Kasachstan Tour-Paket – 30% Rabatt nur für Goaner | Global Tourist Centre",
-          "description": "Exklusives 4N/5D Kasachstan Tour-Paket mit 30% Rabatt nur für Einwohner von Goa: Erkunden Sie Almatys urbanen Charme, atemberaubende Bergseen, den beeindruckenden Charyn Canyon und mehr. Zeitlich begrenztes Angebot — buchen Sie noch heute Ihre ultimative Zentralasien-Flucht!"
+          "title": "4N/5T Kasachstan-Reisepaket ab Goa – Berge, Seen & Städtereise-Angebot",
+          "description": "Entdecken Sie Almaty mit unserem 4N/5T Kasachstan-Reisepaket ab Goa. Besuchen Sie Skigebiete, Seen und Stadtattraktionen mit Sonderangeboten. Buchen Sie Ihre internationale Auszeit noch heute!"
         }
       },
       cta: {
@@ -12601,7 +12596,7 @@ export const de = {
         slug: "phuket-krabi-tour-package",
         type: "",
         hero: {
-          title: "Phuket & Krabi 4N/5D Tour",
+          "title": "Phuket & Krabi 4N/5T Tour",
           subtitle:
             "Erleben Sie Thailands tropisches Paradies mit unserem exklusiven 30 % Rabatt-Angebot ab Goa",
           backgroundImage: "/assets/hero/Phuket-hero.webp",
@@ -12612,8 +12607,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "4N/5D Phuket & Krabi Tour-Paket @30% Rabatt nur von Goa",
-          "description": "Buchen Sie eine 4N/5D Phuket & Krabi Reise von Goa mit 30% Rabatt. Inklusive 4 Inseln Tour, Phi Phi Inseln, Phuket City Tour, Hotels, Transfers & Schnellboot-Exkursionen."
+          "title": "4N/5T Phuket & Krabi Reisepaket mit 30% Rabatt nur ab Goa",
+          "description": "Buchen Sie Ihre 4N/5T Phuket & Krabi Reise ab Goa mit 30% Rabatt. Inklusive 4-Insel-Tour, Phi Phi Inseln, Phuket Stadttour, Hotels, Transfers und Speedboot-Ausflüge."
         }
       },
       cta: {
@@ -12750,7 +12745,7 @@ export const de = {
         slug: "singapore-tour-package",
         type: "",
         hero: {
-          title: "6N7D Singapur Tour-Paket @30% Rabatt nur von Goa",
+          "title": "Abenteuer in Singapur & Malaysia",
           subtitle:
             "Erleben Sie das Beste von Singapur und Kuala Lumpur auf einer unvergesslichen Reise",
           backgroundImage: "/assets/hero/Singapore-hero.webp",
@@ -12761,8 +12756,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Singapur & Malaysia 6N/7D Tour-Paket",
-          "description": "Erleben Sie das Beste von Singapur und Malaysia mit Stadttouren, Themenparks und Luxusaufenthalten."
+          "title": "6N/7T Singapur-Reisepaket mit 30% Rabatt nur ab Goa",
+          "description": "Buchen Sie Ihre 6N/7T Singapur-Reise ab Goa mit 30% Rabatt. Inklusive Stadtrundfahrt, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands und Night Safari."
         }
       },
       cta: {
@@ -12933,8 +12928,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "7N/8D Sri Lanka Luxus-Tour – 30% Rabatt nur für Einwohner von Goa",
-          "description": "Erkunden Sie Sri Lanka in 7N/8D mit Top-Luxus-Aufenthalten, privaten Transfers & kuratierten Erlebnissen — jetzt mit 30% Rabatt nur für Einwohner von Goa. Zeitlich begrenztes Angebot, jetzt buchen!"
+          "title": "Sri Lanka Luxusreise 7N/8T – 30% Rabatt nur für Einwohner von Goa",
+          "description": "Entdecken Sie Sri Lanka in 7N/8T mit luxuriösen Unterkünften, privaten Transfers und kuratierten Erlebnissen – jetzt mit 30% Rabatt nur für Einwohner von Goa. Zeitlich begrenztes Angebot – jetzt buchen!"
         }
       },
       cta: {
@@ -13091,7 +13086,7 @@ export const de = {
         slug: "turkey-tour-package",
         type: "",
         hero: {
-          title: "Türkei 5N/6D Kulturreise",
+          "title": "Kulturelle Reise Türkei 5N/6T",
           subtitle:
             "Von den Feenkaminen Kappadokiens bis zu den historischen Wundern Istanbuls",
           backgroundImage: "/assets/hero/Turkey2-hero.webp",
@@ -13102,8 +13097,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "5N/6D Türkei Tour-Paket buchen @30% Rabatt nur von Goa",
-          "description": "Buchen Sie eine 5 Nächte 6 Tage Türkei Reise von Goa mit 30% Rabatt. Erkunden Sie Kappadokien-Höhlen, Istanbul-Highlights, Bosporus-Kreuzfahrt, Basare & historische Paläste."
+          "title": "Buchen Sie das Türkei 5N/6T Reisepaket mit 30% Rabatt nur ab Goa",
+          "description": "Buchen Sie Ihre 5 Nächte/6 Tage Türkei-Reise ab Goa mit 30% Rabatt. Entdecken Sie die Höhlen von Kappadokien, Highlights von Istanbul, eine Bosporus-Kreuzfahrt, Basare und historische Paläste."
         }
       },
       cta: {
@@ -13667,7 +13662,7 @@ export const de = {
         image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
       "metadata": {
-        "title": "Luxus Golden Triangle Tour | Premium Delhi-Agra-Jaipur Route – Global Tourist Centre",
+        "title": "Luxus Golden Triangle Tour | Premium Delhi-Agra-Jaipur Route – GTC",
         "description": "Genießen Sie eine exklusive Luxus-Tour durch das Goldene Dreieck mit dem Global Tourist Centre: Verwöhnende Aufenthalte in historischen Palästen, private Chauffeur-Transfers, VIP-Besichtigungen in Delhi, Agra & Jaipur und kuratierte Erlebnisse für anspruchsvolle Reisende."
       },
 
@@ -13796,7 +13791,7 @@ export const de = {
       },
       "metadata": {
         "title": "Luxus Rajasthan Tour | Global Tourist Centre – Königliches Erbe & 5-Sterne-Komfort",
-        "description": "Entdecken Sie das ultimative Rajasthan Luxus-Tour-Paket mit dem Global Tourist Centre — übernachten Sie in Palästen & Erbe-Hotels, genießen Sie private Guides, kuratierte Erlebnisse und nahtlose Transfers in Jaipur, Udaipur, Jodhpur und mehr. Buchen Sie jetzt Ihre königliche Reise!"
+        "description": "Entdecken Sie das ultimative Luxusreisepaket für Rajasthan mit Global Tourist Centre – übernachten Sie in Palästen und Heritage-Hotels, genießen Sie private Guides, kuratierte Erlebnisse und nahtlose Transfers durch Jaipur, Udaipur, Jodhpur und mehr."
       },
 
       toursSection: {
@@ -13868,7 +13863,7 @@ export const de = {
         image: "/assets/Luxury/Karnataka/hero.webp",
       },
       "metadata": {
-        "title": "Karnataka Luxus-Tour – Individuelles Erbe & Wildtier-Erlebnis | Global Tourist Centre",
+        "title": "Karnataka Luxus-Tour – Individuelles Erbe & Wildtier-Erlebnis | GTC",
         "description": "Begeben Sie sich auf eine unvergessliche Karnataka Luxus-Tour mit dem Global Tourist Centre. Übernachten Sie in königlichen Palästen, erkunden Sie Mysurus regales Erbe, tauchen Sie ein in Bandipurs wilde Safaris, entspannen Sie in den Westghats und genießen Sie private Guides sowie exquisites Speisen mit Stil."
       },
 
@@ -14194,8 +14189,8 @@ export const de = {
         background_image: "/assets/Luxury/Rajasthan/raj1-hero.webp",
       },
       "metadata": {
-        "title": "Luxus 4N/5D Rajasthan Luxus-Tour-Paket | Global Tourist Centre",
-        "description": "Ein dekadentes 4N/5D Rajasthan Luxus-Tour-Paket mit dem Global Tourist Centre — übernachten Sie in königlichen Erbe-Hoteln, erkunden Sie Jaipur, Udaipur & Jodhpur, genießen Sie private Transfers, kuratierte Erlebnisse und nahtlosen Service. Buchen Sie jetzt Ihre regale Flucht."
+        "title": "Luxusreise Rajasthan 4N/5T | Global Tourist Centre",
+        "description": "Ein exklusives 4N/5T Luxusreisepaket für Rajasthan mit Global Tourist Centre – Übernachtungen in königlichen Heritage-Hotels, Erkundung von Jaipur, Udaipur und Jodhpur, private Transfers, kuratierte Erlebnisse und nahtloser Service."
       },
       itinerary: {
         title: "Königliches Erlebnis in Jaipur & Udaipur",
@@ -14533,8 +14528,8 @@ export const de = {
         background_image: "/assets/Luxury/Rajasthan/raj2-hero.webp",
       },
       "metadata": {
-        "title": "Luxus 6N/7D Rajasthan Luxus-Tour-Paket | Global Tourist Centre",
-        "description": "Begeben Sie sich auf ein 6N/7D Rajasthan Luxus-Tour-Paket mit dem Global Tourist Centre — übernachten Sie in Palast-Erbestätten, erkunden Sie Jaipur, Udaipur, Jodhpur & Jaisalmer, genießen Sie private Transfers, kuratierte Erlebnisse und königlichen Service. Reservieren Sie noch heute Ihre regale Flucht!"
+        "title": "Luxusreise Rajasthan 6N/7T | Global Tourist Centre",
+        "description": "Begeben Sie sich auf eine 6N/7T Luxusreise durch Rajasthan mit Global Tourist Centre – Übernachtungen in Palast- und Heritage-Hotels, Erkundung von Jaipur, Udaipur, Jodhpur und Jaisalmer, private Transfers, kuratierte Erlebnisse und königlicher Service."
       },
       footer: {
         about:
@@ -15455,8 +15450,8 @@ export const de = {
         background_image: "/assets/Luxury/Rajasthan/raj3-hero.webp",
       },
       "metadata": {
-        "title": "8N/9D Rajasthan Luxus-Tour-Paket | Global Tourist Centre – Königliches Erbe, 5★ Komfort",
-        "description": "Das ultimative 8N/9D Rajasthan Luxus-Tour-Paket mit dem Global Tourist Centre — übernachten Sie in Palast-Erbe-Hotels in Jaipur, Udaipur, Jodhpur & Jaisalmer, genießen Sie private Transfers, kuratierte königliche Erlebnisse und nahtlosen VIP-Service. Buchen Sie noch heute Ihre regale Flucht."
+        "title": "Luxusreise Rajasthan 8N/9T | Global Tourist Centre – Königliches Erbe, 5★ Komfort",
+        "description": "Das ultimative 8N/9T Luxusreisepaket für Rajasthan mit Global Tourist Centre – Übernachtungen in Palast- und Heritage-Hotels in Jaipur, Udaipur, Jodhpur und Jaisalmer, private Transfers, kuratierte königliche Erlebnisse und nahtloser VIP-Service."
       },
       itinerary: {
         title: "Königliche Rajasthan-Reise durch Paläste & Forts",

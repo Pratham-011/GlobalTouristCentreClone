@@ -9,7 +9,7 @@ export const seoData = {
     duration: "3D/2N",
     category_match: true,
   },
-  "mumbai-day-trip-package": {
+  "mumbai-one-day-excursion": {
     google_drive_link:
       "https://drive.google.com/file/d/1Jr-hAY-49RWzG8XIvctR2A3mRQLa1O71/view?usp=drive_link",
     actual_url:
@@ -21,7 +21,7 @@ export const seoData = {
     duration: "1 Day",
     category_match: true,
   },
-  "dandeli-elephant-safari-day-trip-package": {
+  "dandeli-elephant-day-excursion": {
     google_drive_link:
       "https://drive.google.com/file/d/1l2FvgLkPk6Bb5MaUIu8IM4c-ygN-V7cl/view?usp=drive_link",
     actual_url:
@@ -33,11 +33,11 @@ export const seoData = {
     duration: "2D/1N",
     category_match: true,
   },
-  "north-goa-english-tour": {
+  "north-goa-day-excursion": {
     google_drive_link:
       "https://drive.google.com/file/d/1EmKQMhsiVRNsnfZGz78VpIXf2d4pzZML/view?usp=drive_link",
     actual_url:
-      "https://globaltouristcentre.com/en/destinations/domestic-trips/north-goa-english-tour",
+      "https://globaltouristcentre.com/en/destinations/domestic-trips/north-goa-day-excursion",
     title: "North Goa day Tour Package – Beaches, Forts & Churches",
     meta_description:
       "Book a North Goa tour package covering Calangute, Baga, Anjuna, Aguada Fort, churches & flea markets with breakfast, transport & guide included.",
@@ -117,11 +117,11 @@ export const seoData = {
     duration: "4D/3N",
     category_match: true,
   },
-  "hampi-1n-2d-trip-package": {
+  "hampi-day-excursions": {
     google_drive_link:
       "https://drive.google.com/file/d/1GzOefffCvl-f5RoZGIEGZucivQAhvMwm/view?usp=drive_link",
     actual_url:
-      "https://globaltouristcentre.com/en/destinations/domestic-trips/hampi-1n-2d-trip-package",
+      "https://globaltouristcentre.com/en/destinations/domestic-trips/hampi-day-excursions",
     title: "Hampi & Badami Tour Package – 2 Days Heritage Trip from Goa",
     meta_description:
       "Explore Karnataka's heritage with our 2D/1N Hampi & Badami tour package from Goa. Includes hotel, breakfast, guides, cave temples, Stone Chariot & sightseeing.",
@@ -190,7 +190,7 @@ export const seoData = {
     duration: "3D/2N",
     category_match: true,
   },
-  "aurangabad-1n-2d-trip-package": {
+  "aurangabad-day-excursions": {
     google_drive_link:
       "https://drive.google.com/file/d/1Ws7EQVtzatQ5VNH9uHNCOZnLGSU3C1UD/view?usp=drive_link",
     actual_url:
@@ -201,6 +201,6 @@ export const seoData = {
     h1: "Ajanta Ellora Tour",
     duration: "2D/1N",
     category_match: true,
-    note: "Matches aurangabad-1n-2d-trip-package as it covers Ajanta Ellora near Aurangabad",
+    note: "Matches aurangabad-day-excursions as it covers Ajanta Ellora near Aurangabad",
   },
 };

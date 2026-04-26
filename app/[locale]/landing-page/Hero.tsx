@@ -42,7 +42,7 @@ const DESTINATION_MAP: Record<string, string> = {
   "palolem-cola-dolphin": "PALOLEM COLA – DOLPHIN",
   "mumbai-one-day": "MUMBAI 1 DAY",
   "taj-mahal-tour": "TAJ MAHAL 1N2D",
-  "hampi-1n-2d-trip-package": "HAMPI BADAMI 1N2D",
+  "hampi-day-excursions": "HAMPI BADAMI 1N2D",
 };
 
 const Hero = () => {
@@ -334,7 +334,7 @@ const Hero = () => {
                         {t.form.destinations.taj}
                       </SelectItem>
 
-                      <SelectItem value="hampi-1n-2d-trip-package">
+                      <SelectItem value="hampi-day-excursions">
                         {t.form.destinations.hampi}
                       </SelectItem>
                     </SelectContent>

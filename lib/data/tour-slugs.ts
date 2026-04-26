@@ -6,22 +6,22 @@ export const TOUR_CATEGORIES = {
     // "south-goa-sightseeing-tour", // verified // peresnt in en.ts
     "south-goa-sunset-cruise", // verified // peresnt in en.ts
     // "goa-one-day-sightseeing-tour", // verified // peresnt in en.ts
-    "dudhsagar-spice-plantation-day-trip-package", // verified
+    "dudhsagar-waterfal-excursion", // verified
     "south-goa-1-day-trip-package", // verified
-    "one-day-south-goa-trip-package",
-    "north-goa-english-tour", // verified
+    "south-goa-day-exursion",
+    "north-goa-day-excursion", // verified
     // "goa-sightseeing-tour", // verified //prent in en.ts
-    "hampi-1n-2d-trip-package", // verified
+    "hampi-day-excursions", // verified
     "luxury-yacht-day-tour-goa", // verified
-    "gokarna-murdeshwar-one-day-trip-package", // verified
-    "dandeli-elephant-safari-day-trip-package",
-    "netravali-day-trip-package", //verified
-    "mumbai-day-trip-package", // verified
-    "aurangabad-1n-2d-trip-package", // verified
+    "gokarna-murdeshwar-day-excursion", // verified
+    "dandeli-elephant-day-excursion",
+    "netravali-wildlife-day-excursion", //verified
+    "mumbai-one-day-excursion", // verified
+    "aurangabad-day-excursions", // verified
     "delhi-agra-1n-2d-trip-package",
     "cabo-serai-2n-3d-luxury-getaway",
     "1n-2d-shimoga-trip-package",
-    "wondrous-wildernest-trip-package",
+    "wondrous-wildernest-tour-package",
 
   ],
 
@@ -55,7 +55,7 @@ export const TOUR_CATEGORIES = {
     "hyderabad-tour-package-from-goa", // temporarily removed (used in html code) // verified
     "jodhpur-tour-package-from-goa", // verified //temporarily added not used anywhere
     "ladakh-tour-package-from-goa", // temporarily removed (used in en.ts) // verified
-    "meghalaya-tour", // verified // temporarily removed (used in en.ts)
+    "meghalaya-tour-package-from-goa", // verified // temporarily removed (used in en.ts)
   ],
 
   international: [

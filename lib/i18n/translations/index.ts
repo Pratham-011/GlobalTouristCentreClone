@@ -14,8 +14,8 @@ export const translations = {
 
 export type Locale = keyof typeof translations;
 type RawTranslationKeys = typeof translations.en;
-export type TourDataItem = RawTranslationKeys["tourData"]["aurangabad-1n-2d-trip-package"];
-export type TripItem = RawTranslationKeys["trips"]["north-goa-english-tour"];
+export type TourDataItem = RawTranslationKeys["tourData"]["aurangabad-day-excursions"];
+export type TripItem = RawTranslationKeys["trips"]["north-goa-day-excursion"];
 
 export type LuxuryTrainItem = RawTranslationKeys["luxuryTrain"]["mahraja-train-tour-package"];
 export type LuxuryPageItem = RawTranslationKeys["luxuryPages"]["mumbai-luxury"];

@@ -37,7 +37,7 @@ export const domesticTrips: Destination[] = [
   },
   {
     id: "dom-meghalaya-004",
-    slug: "meghalaya-tour",
+    slug: "meghalaya-tour-package-from-goa",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Meghalaya.webp",
     category: "domestic",
@@ -363,21 +363,21 @@ export const internationalTrips: Destination[] = [
 export const dayTrips: Destination[] = [
   {
     id: "day-gokarna-005",
-    slug: "gokarna-murdeshwar-one-day-trip-package",
+    slug: "gokarna-murdeshwar-day-excursion",
     rating: 4.1,
     imageQuery: "/destinations/Thumbnails/Gokarna.webp",
     category: "day-trips",
   },
   {
     id: "dom-hampi-017",
-    slug: "hampi-1n-2d-trip-package",
+    slug: "hampi-day-excursions",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Hampi.webp",
     category: "day-trips",
   },
   {
     id: "dom-aurangabad-015",
-    slug: "aurangabad-1n-2d-trip-package",
+    slug: "aurangabad-day-excursions",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Aurangabad.webp",
     category: "day-trips",
@@ -391,35 +391,35 @@ export const dayTrips: Destination[] = [
   },
   {
     id: "day-dandeli-001",
-    slug: "dandeli-elephant-safari-day-trip-package",
+    slug: "dandeli-elephant-day-excursion",
     rating: 4.9,
     imageQuery: "/destinations/Dandeli/elephant-safari.webp",
     category: "day-trips",
   },
   {
     id: "day-dudhsagar-002",
-    slug: "dudhsagar-spice-plantation-day-trip-package",
+    slug: "dudhsagar-waterfal-excursion",
     rating: 4.4,
     imageQuery: "/destinations/Thumbnails/Dudhsagar.webp",
     category: "day-trips",
   },
   {
     id: "day-dudhsagar-002",
-    slug: "one-day-south-goa-trip-package",
+    slug: "south-goa-day-exursion",
     rating: 4.4,
     imageQuery: "/hero/Goa-1-hero.webp",
     category: "day-trips",
   },
   {
     id: "day-mumbai-003",
-    slug: "mumbai-day-trip-package",
+    slug: "mumbai-one-day-excursion",
     rating: 4.6,
     imageQuery: "/hero/mumbai-hero.webp",
     category: "day-trips",
   },
   {
     id: "day-netravali-004",
-    slug: "netravali-day-trip-package",
+    slug: "netravali-wildlife-day-excursion",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/netravali.webp",
     category: "day-trips",
@@ -455,7 +455,7 @@ export const dayTrips: Destination[] = [
   },
   {
     id: "dom-wilderness-012",
-    slug: "wondrous-wildernest-trip-package",
+    slug: "wondrous-wildernest-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Wildernesst.webp",
     category: "day-trips",
@@ -466,7 +466,7 @@ export const dayTrips: Destination[] = [
 
   {
     id: "day-north-goa-009",
-    slug: "north-goa-english-tour",
+    slug: "north-goa-day-excursion",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/NorthGoa.webp",
     category: "day-trips",

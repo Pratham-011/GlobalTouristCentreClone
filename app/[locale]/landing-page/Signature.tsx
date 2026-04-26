@@ -42,7 +42,7 @@ const Signature = () => {
         id: "mumbai",
         imageUrl: "/assets/destinations/Thumbnails/mumbai.webp",
         price: "$360",
-        link: `/${locale}/destinations/day-trips/mumbai-day-trip-package`,
+        link: `/${locale}/destinations/day-trips/mumbai-one-day-excursion`,
         popular: true,
       },
       {
@@ -56,7 +56,7 @@ const Signature = () => {
         id: "hampi",
         imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
         price: "$170",
-        link: `/${locale}/destinations/domestic/hampi-1n-2d-trip-package`,
+        link: `/${locale}/destinations/domestic/hampi-day-excursions`,
         popular: false,
       },
     ];
