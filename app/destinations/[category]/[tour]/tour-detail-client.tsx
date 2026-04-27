@@ -11,6 +11,7 @@ import { TourQuickInfo } from "@/components-eng/tours/tour-quick-info";
 import TourItinerary from "@/components-eng/tours/tour-itinerary";
 import { TourVisualJourney } from "@/components-eng/tours/tour-visual-journey";
 import { TourInclusions } from "@/components-eng/tours/tour-inclusions";
+import { HorizontalLeadForm } from "@/components-eng/tours/horizontal-lead-form";
 
 type TourClientProps = {
   tourId: TripId;
@@ -77,6 +78,13 @@ export default function TourClient({ tourId }: TourClientProps) {
       ======================================================= */}
       {gallery?.length > 0 && (
         <TourVisualJourney items={gallerydata} gallery={gallery} />
+      )}
+
+      {/* ======================================================
+          LEAD FORM (Conditional)
+      ======================================================= */}
+      {(tourId === "7n-8d-vietam-tour-package" || tourId === "singapore-tour-package") && (
+        <HorizontalLeadForm tourSlug={tourId} />
       )}
 
       {/* ======================================================

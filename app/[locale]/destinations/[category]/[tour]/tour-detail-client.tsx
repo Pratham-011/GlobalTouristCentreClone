@@ -1,16 +1,17 @@
 "use client";
 
 import { useI18n } from "@/lib/i18n/context";
-import type { TripId } from "@/lib/i18n/translations/index.ts";
-import { galleryData} from "@/lib/data/galleryData";
+import type { TripId } from "@/lib/i18n/translations/index";
+import { galleryData } from "@/lib/data/galleryData";
 import { metaData } from "@/lib/data/metaData";
 
 import { DetailedTourHero } from "@/components/tours/detailed-tour-hero";
 import { TourCtaBar } from "@/components/tours/tour-cta-bar";
 import { TourQuickInfo } from "@/components/tours/tour-quick-info";
-import  TourItinerary  from "@/components/tours/tour-itinerary";
+import TourItinerary from "@/components/tours/tour-itinerary";
 import { TourVisualJourney } from "@/components/tours/tour-visual-journey";
 import { TourInclusions } from "@/components/tours/tour-inclusions";
+import { HorizontalLeadForm } from "@/components/tours/horizontal-lead-form";
 
 type TourClientProps = {
   tourId: TripId;
@@ -40,8 +41,8 @@ export default function TourClient({ tourId }: TourClientProps) {
   }
 
 
-  const { page, cta, quickInfo, itinerary, inclusions,gallery } = data;
-
+  const { page, cta, quickInfo, itinerary, inclusions, gallery } = data;
+  
   return (
     <main className="bg-white">
       {/* ======================================================
@@ -80,11 +81,18 @@ export default function TourClient({ tourId }: TourClientProps) {
       )}
 
       {/* ======================================================
+          LEAD FORM (Conditional)
+      ======================================================= */}
+      {(tourId === "7n-8d-vietam-tour-package" || tourId === "singapore-tour-package") && (
+        <HorizontalLeadForm tourSlug={tourId} />
+      )}
+
+      {/* ======================================================
           INCLUSIONS
       ======================================================= */}
       {inclusions?.length > 0 && (
         <TourInclusions
-items={inclusions}
+          items={inclusions}
         />
       )}
     </main>

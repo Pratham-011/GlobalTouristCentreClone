@@ -359,25 +359,41 @@ export const en = {
     nights: "Nights",
     days: "Days",
     noResults: "No destinations available for this filter.",
-    tour: {
-      itinerarytitle: "Your Day of Adventure",
-      itinararysubtitle:
-        " Every moment carefully crafted to maximize your experience and create lasting memories",
-      ctaTitle: "Ready for Your Adventure?",
-      ctaSubtitle:
-        "Book now and secure your spot for an unforgettable experience",
-      ctaBookWhatsApp: "Book via WhatsApp",
-      ctaBookWhatsAppAria: "Book via WhatsApp",
-      ctaCallUs: "Call Us",
-      ctaCallUsAria: "Call us",
-      inclusionsTitle: "What’s Included",
-      inclusionsSubtitle:
-        "Everything you need for a seamless and comfortable experience",
-      galleryTitle: "Visual Journey",
-      gallerySubtitle:
-        "Get a glimpse of the stunning locations you’ll experience",
-      highlight: "Highlight",
-    },
+      tour: {
+        itinerarytitle: "Your Day of Adventure",
+        itinararysubtitle:
+          " Every moment carefully crafted to maximize your experience and create lasting memories",
+        ctaTitle: "Ready for Your Adventure?",
+        ctaSubtitle:
+          "Book now and secure your spot for an unforgettable experience",
+        ctaBookWhatsApp: "Book via WhatsApp",
+        ctaBookWhatsAppAria: "Book via WhatsApp",
+        ctaCallUs: "Call Us",
+        ctaCallUsAria: "Call us",
+        inclusionsTitle: "What’s Included",
+        inclusionsSubtitle:
+          "Everything you need for a seamless and comfortable experience",
+        galleryTitle: "Visual Journey",
+        gallerySubtitle:
+          "Get a glimpse of the stunning locations you’ll experience",
+        highlight: "Highlight",
+        leadForm: {
+          title: "Plan Your Dream {destination} Trip Today",
+          subtitle: "Fill in the details below and we'll help you craft the perfect itinerary for your next adventure.",
+          fullName: "Full Name",
+          fullNamePlaceholder: "Your Name",
+          phone: "Phone Number",
+          phonePlaceholder: "Your Phone",
+          email: "Email id",
+          emailPlaceholder: "Your Email",
+          travelDate: "Travel Date",
+          numPeople: "No. of People",
+          numPeoplePlaceholder: "1",
+          submit: "Book now",
+          error: "Please provide all required information to proceed.",
+          whatsappMessage: "Hi, I'm interested in the {destination} travel package",
+        },
+      },
   },
   // Curated Collections
   collections: {

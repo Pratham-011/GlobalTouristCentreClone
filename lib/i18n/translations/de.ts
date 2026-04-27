@@ -379,6 +379,22 @@ export const de = {
       gallerySubtitle:
         "Erhalten Sie einen Eindruck von den atemberaubenden Orten, die Sie erleben werden",
       highlight: "Highlight",
+      leadForm: {
+        title: "Planen Sie noch heute Ihre Traumreise nach {destination}",
+        subtitle: "Füllen Sie die folgenden Details aus und wir helfen Ihnen, die perfekte Reiseroute für Ihr nächstes Abenteuer zu erstellen.",
+        fullName: "Vollständiger Name",
+        fullNamePlaceholder: "Ihr Name",
+        phone: "Telefonnummer",
+        phonePlaceholder: "Ihr Telefon",
+        email: "E-Mail-ID",
+        emailPlaceholder: "Ihre E-Mail",
+        travelDate: "Reisedatum",
+        numPeople: "Anzahl der Personen",
+        numPeoplePlaceholder: "1",
+        submit: "Jetzt buchen",
+        error: "Bitte geben Sie alle erforderlichen Informationen an, um fortzufahren.",
+        whatsappMessage: "Hallo, ich interessiere mich für das Reisepaket {destination}",
+      },
     },
   },
   // Curated Collections

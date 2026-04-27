@@ -370,23 +370,41 @@ export const it = {
     days: "Giorni",
     noResults: "Nessuna destinazione disponibile per questo filtro.",
     tour: {
-      itinerarytitle: "La tua giornata di avventura",
+      itinerarytitle: "Il tuo giorno di avventura",
       itinararysubtitle:
-        "Ogni momento è studiato con cura per massimizzare la tua esperienza e creare ricordi indimenticabili",
-
+        "Ogni momento è curato attentamente per massimizzare la tua esperienza e creare ricordi duraturi",
       ctaTitle: "Pronto per la tua avventura?",
-      ctaSubtitle: "Prenota ora e assicurati un’esperienza indimenticabile",
-      ctaBookWhatsApp: "Prenota via WhatsApp",
-      ctaBookWhatsAppAria: "Prenota via WhatsApp",
+      ctaSubtitle:
+        "Prenota ora e assicurati il tuo posto per un'esperienza indimenticabile",
+      ctaBookWhatsApp: "Prenota tramite WhatsApp",
+      ctaBookWhatsAppAria: "Prenota tramite WhatsApp",
       ctaCallUs: "Chiamaci",
       ctaCallUsAria: "Chiamaci",
       inclusionsTitle: "Cosa è incluso",
       inclusionsSubtitle:
-        "Tutto ciò di cui hai bisogno per un’esperienza fluida e confortevole",
+        "Tutto ciò di cui hai bisogno per un'esperienza senza intoppi e confortevole",
       galleryTitle: "Viaggio visivo",
       gallerySubtitle:
-        "Scopri in anteprima le splendide destinazioni che vivrai",
+        "Dai un'occhiata agli splendidi luoghi che vivrai",
       highlight: "In evidenza",
+      leadForm: {
+        title: "Pianifica oggi stesso il tuo viaggio da sogno a {destination}",
+        subtitle:
+          "Inserisci i dettagli qui sotto e ti aiuteremo a creare l'itinerario perfetto per la tua prossima avventura.",
+        fullName: "Nome completo",
+        fullNamePlaceholder: "Il tuo nome",
+        phone: "Numero di telefono",
+        phonePlaceholder: "Il tuo telefono",
+        email: "E-mail",
+        emailPlaceholder: "La tua e-mail",
+        travelDate: "Data del viaggio",
+        numPeople: "Numero di persone",
+        numPeoplePlaceholder: "1",
+        submit: "Prenota ora",
+        error: "Si prega di fornire tutte le informazioni richieste per procedere.",
+        whatsappMessage:
+          "Ciao, sono interessato al pacchetto viaggio per {destination}",
+      },
     },
   },
   // Curated Collections

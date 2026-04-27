@@ -347,6 +347,22 @@ export const ru = {
       gallerySubtitle:
         "Ознакомьтесь с потрясающими местами, которые вы посетите",
       highlight: "Главное",
+      leadForm: {
+        title: "Запланируйте путешествие своей мечты в {destination} уже сегодня",
+        subtitle: "Заполните данные ниже, и мы поможем вам составить идеальный маршрут для вашего следующего приключения.",
+        fullName: "Полное имя",
+        fullNamePlaceholder: "Ваше имя",
+        phone: "Номер телефона",
+        phonePlaceholder: "Ваш телефон",
+        email: "E-mail",
+        emailPlaceholder: "Ваш e-mail",
+        travelDate: "Дата поездки",
+        numPeople: "Количество человек",
+        numPeoplePlaceholder: "1",
+        submit: "Забронировать",
+        error: "Пожалуйста, предоставьте всю необходимую информацию для продолжения.",
+        whatsappMessage: "Здравствуйте, меня интересует турпакет в {destination}",
+      },
     },
   },
   // Curated Collections

@@ -344,10 +344,7 @@ export const fr = {
       "Des sommets enneigés de l’Himalaya aux plages tropicales du sud — explorez l’incroyable diversité de l’Inde grâce à nos circuits intérieurs soigneusement conçus.",
     domestichero: "Découvrez l’Inde incroyable",
     internationalTitle: "Voyages internationaux",
-    internationalSubtitle:
-      "Des paradis tropicaux aux capitales culturelles — explorez les plus belles destinations du monde avec nos circuits internationaux sur mesure.",
-    internationalhero: "Explorez le monde",
-    dayTripsTitle: "Excursions d’une journée",
+        dayTripsTitle: "Excursions d’une journée",
     dayTripsSubtitle:
       "Des escapades parfaites au départ des grandes villes. Découvrez les meilleures attractions à proximité sans avoir besoin de passer la nuit.",
     dayhero: "Escapades d’une journée parfaites",
@@ -362,7 +359,6 @@ export const fr = {
       itinerarytitle: "Votre journée d’aventure",
       itinararysubtitle:
         "Chaque moment est soigneusement conçu pour maximiser votre expérience et créer des souvenirs inoubliables",
-
       ctaTitle: "Prêt pour l’aventure ?",
       ctaSubtitle:
         "Réservez maintenant et assurez votre place pour une expérience inoubliable",
@@ -377,6 +373,22 @@ export const fr = {
       gallerySubtitle:
         "Découvrez un aperçu des lieux spectaculaires que vous allez explorer",
       highlight: "Point fort",
+      leadForm: {
+        title: "Planifiez votre voyage de rêve à {destination} dès aujourd'hui",
+        subtitle: "Remplissez les détails ci-dessous et nous vous aiderons à créer l'itinéraire parfait pour votre prochaine aventure.",
+        fullName: "Nom complet",
+        fullNamePlaceholder: "Votre nom",
+        phone: "Numéro de téléphone",
+        phonePlaceholder: "Votre téléphone",
+        email: "E-mail",
+        emailPlaceholder: "Votre e-mail",
+        travelDate: "Date du voyage",
+        numPeople: "Nombre de personnes",
+        numPeoplePlaceholder: "1",
+        submit: "Réserver maintenant",
+        error: "Veuillez fournir toutes les informations requises pour continuer.",
+        whatsappMessage: "Bonjour, je suis intéressé par le forfait voyage {destination}",
+      },
     },
   },
   // Curated Collections
