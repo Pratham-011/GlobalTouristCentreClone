@@ -81,11 +81,11 @@ export const seoData = {
     duration: "3D/2N",
     category_match: true,
   },
-  "bijapur-heritage-tour-from-goa": {
+  "bijapur-heritage-tour": {
     google_drive_link:
       "https://drive.google.com/file/d/1N0C9y2-kN1KA9v6PfQDg5y2lj6YdbMqS/view?usp=drive_link",
     actual_url:
-      "https://globaltouristcentre.com/en/destinations/domestic-trips/bijapur-heritage-tour-from-goa",
+      "https://globaltouristcentre.com/en/destinations/domestic-trips/bijapur-heritage-tour",
     title: "2D/1N Bijapur Tour Package from Goa | Aihole & Pattadakal Trip",
     meta_description:
       "Explore Gol Gumbaz, Aihole & Pattadakal with our 2D/1N Bijapur tour package from Goa. Includes hotel stay, guide, taxi & sightseeing for a perfect heritage getaway.",
@@ -154,7 +154,7 @@ export const seoData = {
     duration: "3N/4D",
     category_match: true,
   },
-  "jodhpur-udaipur-tour-from-goa": {
+  "jodhpur-udaipur-tour-package": {
     google_drive_link:
       "https://drive.google.com/file/d/1YXHyP64N-xfTaHU4W9xfwtMh2hzw6BYL/view?usp=drive_link",
     actual_url:
@@ -166,11 +166,11 @@ export const seoData = {
     duration: "4N/5D",
     category_match: true,
   },
-  "mathura-vrindavan-tour-from-goa": {
+  "mathura-vrindavan-tour": {
     google_drive_link:
       "https://drive.google.com/file/d/1Vi74DS1euZj7Jl7-PsWsnU9-2HdA6Gl1/view?usp=drive_link",
     actual_url:
-      "https://globaltouristcentre.com/en/destinations/domestic-trips/mathura-vrindavan-tour-from-goa",
+      "https://globaltouristcentre.com/en/destinations/domestic-trips/mathura-vrindavan-tour",
     title: "3D/2N Mathura Tour Package – Spiritual Trip from Delhi",
     meta_description:
       "Book a 3D/2N Mathura Tour Package covering Vrindavan, Govardhan & top Krishna temples. Includes transfers, sightseeing & hotel stay. Perfect spiritual getaway.",
@@ -178,11 +178,11 @@ export const seoData = {
     duration: "3D/2N",
     category_match: true,
   },
-  "varanasi-tour-package-from-goa": {
+  "varanasi-tour-package": {
     google_drive_link:
       "https://drive.google.com/file/d/1flo7dHNhbsoXwYO2nj0amyc-TEGZ2s86/view?usp=drive_link",
     actual_url:
-      "https://globaltouristcentre.com/en/destinations/domestic-trips/varanasi-tour-package-from-goa",
+      "https://globaltouristcentre.com/en/destinations/domestic-trips/varanasi-tour-package",
     title: "3D/2N Varanasi Tour Package – Temples, Ghats & Sarnath Trip",
     meta_description:
       "Explore Kashi Vishwanath, Sarnath, sunrise Ganga boat ride & Ganga Aarti with our 3D/2N Varanasi tour package. Includes hotel stay, transfers & sightseeing.",

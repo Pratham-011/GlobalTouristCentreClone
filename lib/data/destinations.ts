@@ -85,7 +85,7 @@ export const domesticTrips: Destination[] = [
   },
   {
     id: "dom-andaman-010",
-    slug: "andaman-islands-tour-from-goa",
+    slug: "andaman-nicobar-tour-package",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/Andaman.webp",
     category: "domestic",
@@ -93,7 +93,7 @@ export const domesticTrips: Destination[] = [
   },
   {
     id: "dom-lakshadweep-011",
-    slug: "lakshadweep-islands-tour-from-goa",
+    slug: "lakshadweep-islands-tour-package",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/Lakshadweep.webp",
     category: "domestic",
@@ -120,7 +120,7 @@ export const domesticTrips: Destination[] = [
 
   {
     id: "dom-udaipur-jodhpur-026",
-    slug: "jodhpur-udaipur-tour-from-goa",
+    slug: "jodhpur-udaipur-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Udaipur.webp",
     category: "domestic",
@@ -128,7 +128,7 @@ export const domesticTrips: Destination[] = [
   },
   {
     id: "dom-varanasi-027",
-    slug: "varanasi-tour-package-from-goa",
+    slug: "varanasi-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Varanasi.webp",
     category: "domestic",
@@ -136,7 +136,7 @@ export const domesticTrips: Destination[] = [
   },
   {
     id: "dom-mathura-vrindavan-028",
-    slug: "mathura-vrindavan-tour-from-goa",
+    slug: "mathura-vrindavan-tour",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/Mathura.webp",
     category: "domestic",
@@ -152,7 +152,7 @@ export const domesticTrips: Destination[] = [
   },
   {
     id: "dom-bijapur-019",
-    slug: "bijapur-heritage-tour-from-goa",
+    slug: "bijapur-heritage-tour",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/Bijapur.webp",
     category: "domestic",

@@ -120,18 +120,18 @@ const travelCollections: TravelCollection[] = [
     imageUrl: "/assets/destinations/Thumbnails/GoldenTriangle.webp",
   },
   {
-    id: "jodhpur-udaipur-tour-from-goa",
-    href: "/destinations/domestic/jodhpur-udaipur-tour-from-goa", // matches dom-udaipur-jodhpur-026.slug
+    id: "jodhpur-udaipur-tour-package",
+    href: "/destinations/domestic/jodhpur-udaipur-tour-package", // matches dom-udaipur-jodhpur-026.slug
     imageUrl: "/assets/destinations/Thumbnails/Udaipur.webp",
   },
   {
-    id: "varanasi-tour-package-from-goa",
-    href: "/destinations/domestic/varanasi-tour-package-from-goa", // matches dom-varanasi-027.slug
+    id: "varanasi-tour-package",
+    href: "/destinations/domestic/varanasi-tour-package", // matches dom-varanasi-027.slug
     imageUrl: "/assets/destinations/Thumbnails/Varanasi.webp",
   },
   {
-    id: "mathura-vrindavan-tour-from-goa",
-    href: "/destinations/domestic/mathura-vrindavan-tour-from-goa", // matches dom-mathura-vrindavan-028.slug
+    id: "mathura-vrindavan-tour",
+    href: "/destinations/domestic/mathura-vrindavan-tour", // matches dom-mathura-vrindavan-028.slug
     imageUrl: "/assets/destinations/Thumbnails/Mathura.webp",
   },
 
@@ -139,8 +139,8 @@ const travelCollections: TravelCollection[] = [
 
   // removed andaman-islands-5n6d because that itinerary is commented out
   {
-    id: "andaman-islands-tour-from-goa",
-    href: "/destinations/international/andaman-islands-tour-from-goa", // matches int-andaman-021.slug
+    id: "andaman-nicobar-tour-package",
+    href: "/destinations/international/andaman-nicobar-tour-package", // matches int-andaman-021.slug
     imageUrl: "/assets/destinations/Thumbnails/Andaman.webp",
   },
   // {
