@@ -381,7 +381,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "andaman-islands-tour-from-goa": {
+  "andaman-nicobar-tour-package": {
     gallery: [
       {
         title: "Radhanagar Beach",
@@ -787,7 +787,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "jodhpur-udaipur-tour-from-goa": {
+  "jodhpur-udaipur-tour-package": {
     gallery: [
       {
         title: "Mehrangarh-Festung",
@@ -1067,7 +1067,7 @@ export const galleryData: Record<string, any> = {
       }
     ]
   },
-  "bijapur-heritage-tour-from-goa": {
+  "bijapur-heritage-tour": {
     gallery: [
       {
         title: "Gol Gumbaz",
@@ -1212,7 +1212,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "lakshadweep-islands-tour-from-goa": {
+  "lakshadweep-islands-tour-package": {
     gallery: [
       {
         title: "Agatti Island",
@@ -1241,7 +1241,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "mathura-vrindavan-tour-from-goa": {
+  "mathura-vrindavan-tour": {
     gallery: [
       {
         title: "Shri Krishna Jamnabhoomi",
@@ -1444,7 +1444,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "varanasi-tour-package-from-goa": {
+  "varanasi-tour-package": {
     gallery: [
       {
         title: "Ganga Aarti",

@@ -188,7 +188,7 @@ export const fr = {
         description:
           "Visitez Delhi, Agra et Jaipur avec le Taj Mahal, des forts majestueux et des palais royaux.",
       },
-      "jodhpur-udaipur-tour-from-goa": {
+      "jodhpur-udaipur-tour-package": {
         title: "Rajasthan Royal – Udaipur et Jodhpur",
         duration: "4 nuits / 5 jours",
         description:
@@ -200,19 +200,19 @@ export const fr = {
         description:
           "Visitez le célèbre Taj Mahal, symbole de l’amour éternel, ainsi que le Fort d’Agra et les sites moghols voisins.",
       },
-      "varanasi-tour-package-from-goa": {
+      "varanasi-tour-package": {
         title: "Varanasi – Inde Spirituelle",
         duration: "3 nuits / 4 jours",
         description:
           "Vivez l’atmosphère spirituelle de Varanasi avec les ghats du Gange, la cérémonie Ganga Aarti et le temple Kashi Vishwanath.",
       },
-      "mathura-vrindavan-tour-from-goa": {
+      "mathura-vrindavan-tour": {
         title: "Mathura et Vrindavan",
         duration: "2 nuits / 3 jours",
         description:
           "Plongez dans la ferveur spirituelle des lieux de naissance du Seigneur Krishna.",
       },
-      "andaman-islands-tour-from-goa": {
+      "andaman-nicobar-tour-package": {
         title: "Îles Andaman",
         duration: "5 nuits / 6 jours",
         description:
@@ -344,9 +344,6 @@ export const fr = {
       "Des sommets enneigés de l’Himalaya aux plages tropicales du sud — explorez l’incroyable diversité de l’Inde grâce à nos circuits intérieurs soigneusement conçus.",
     domestichero: "Découvrez l’Inde incroyable",
     internationalTitle: "Voyages internationaux",
-    internationalSubtitle:
-      "Des paradis tropicaux aux capitales culturelles — explorez les plus belles destinations du monde avec nos circuits internationaux sur mesure.",
-    internationalhero: "Explorez le monde",
     dayTripsTitle: "Excursions d’une journée",
     dayTripsSubtitle:
       "Des escapades parfaites au départ des grandes villes. Découvrez les meilleures attractions à proximité sans avoir besoin de passer la nuit.",
@@ -362,7 +359,6 @@ export const fr = {
       itinerarytitle: "Votre journée d’aventure",
       itinararysubtitle:
         "Chaque moment est soigneusement conçu pour maximiser votre expérience et créer des souvenirs inoubliables",
-
       ctaTitle: "Prêt pour l’aventure ?",
       ctaSubtitle:
         "Réservez maintenant et assurez votre place pour une expérience inoubliable",
@@ -377,6 +373,22 @@ export const fr = {
       gallerySubtitle:
         "Découvrez un aperçu des lieux spectaculaires que vous allez explorer",
       highlight: "Point fort",
+      leadForm: {
+        title: "Planifiez votre voyage de rêve à {destination} dès aujourd'hui",
+        subtitle: "Remplissez les détails ci-dessous et nous vous aiderons à créer l'itinéraire parfait pour votre prochaine aventure.",
+        fullName: "Nom complet",
+        fullNamePlaceholder: "Votre nom",
+        phone: "Numéro de téléphone",
+        phonePlaceholder: "Votre téléphone",
+        email: "E-mail",
+        emailPlaceholder: "Votre e-mail",
+        travelDate: "Date du voyage",
+        numPeople: "Nombre de personnes",
+        numPeoplePlaceholder: "1",
+        submit: "Réserver maintenant",
+        error: "Veuillez fournir toutes les informations requises pour continuer.",
+        whatsappMessage: "Bonjour, je suis intéressé par le forfait voyage {destination}",
+      },
     },
   },
   // Curated Collections
@@ -1490,7 +1502,7 @@ export const fr = {
         "Découvrez plages de corail, hopping d'îles, sports nautiques, vie marine préservée et prison historique Cellular Jail sur îles tropicales.",
       duration: "6 Nuits / 7 Jours",
     },
-    "lakshadweep-islands-tour-from-goa": {
+    "lakshadweep-islands-tour-package": {
       title: "Îles Lakshadweep",
       description:
         "Plages préservées, récifs coralliens & vie marine sur îles Agatti, Thinnakara & Kalpitti avec snorkeling et sports nautiques.",
@@ -1694,7 +1706,7 @@ export const fr = {
       description:
         "Découvrez l’importance spirituelle et historique d’Amritsar avec des visites du Temple d’Or, de Jallianwala Bagh et d’autres sites emblématiques.",
     },
-    "bijapur-heritage-tour-from-goa": {
+    "bijapur-heritage-tour": {
       title: "Circuit Patrimoine de Bijapur",
       duration: "1 nuit / 2 jours",
       description:
@@ -1748,25 +1760,25 @@ export const fr = {
       description:
         "Admirez les anciennes grottes rupestres d’Ellora et d’Ajanta mettant en valeur l’art bouddhiste, hindou et jaïn.",
     },
-    "jodhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-package": {
       title: "Circuit royal du Rajasthan : Udaipur & Jodhpur",
       duration: "4 nuits / 5 jours",
       description:
         "Découvrez le charme royal du Rajasthan à travers palais majestueux, lacs paisibles, forts imposants et marchés colorés.",
     },
-    "varanasi-tour-package-from-goa": {
+    "varanasi-tour-package": {
       title: "Varanasi – Inde spirituelle",
       duration: "3 nuits / 4 jours",
       description:
         "Vivez l’âme spirituelle de l’Inde avec les ghats du Gange, la cérémonie Ganga Aarti, le temple Kashi Vishwanath et Sarnath.",
     },
-    "mathura-vrindavan-tour-from-goa": {
+    "mathura-vrindavan-tour": {
       title: "Circuit Mathura & Vrindavan",
       duration: "2 nuits / 3 jours",
       description:
         "Plongez dans la dévotion sur les lieux sacrés de naissance de Krishna avec temples vibrants et expériences spirituelles.",
     },
-    "andaman-islands-tour-from-goa": {
+    "andaman-nicobar-tour-package": {
       title: "Évasion aux îles Andaman",
       duration: "5 nuits / 6 jours",
       description:
@@ -3605,25 +3617,25 @@ export const fr = {
     },
     "luxury-yacht-day-tour-goa": {
       file_name: "luxury-yacht-day-tour-goa.html",
-  "page": {
-    "slug": "luxury-yacht-day-tour-goa",
-    "type": "",
-    "hero": {
-      "herotitle": "Croisière de luxe en yacht : du coucher de soleil au dîner",
-      "subtitle": "Une expérience premium exclusive avec piscine à débordement, DJ en live, gastronomie et vues sur le coucher de soleil",
-      "backgroundImage": "/assets/hero/Luxury-Yacht-Goa-hero.webp",
-      "meta": {
-        "duration": "6 heures",
-        "rating": "Note 4.9/5",
-        "description": "Profitez d’une croisière premium en yacht avec coucher de soleil, piscine à débordement, DJ en live, dîner gastronomique et transferts depuis l’hôtel."
-      }
-    },
-    "language": "fr",
-    "metadata": {
-      "title": "Excursion de luxe en yacht à Goa : croisière privée, coucher de soleil et expérience premium",
-      "description": "Profitez d’une croisière de luxe en yacht à Goa avec vue sur le coucher de soleil et une expérience premium à bord. Parfait pour les fêtes, les couples et des moments inoubliables !"
-    }
-  },
+      "page": {
+        "slug": "luxury-yacht-day-tour-goa",
+        "type": "",
+        "hero": {
+          "herotitle": "Croisière de luxe en yacht : du coucher de soleil au dîner",
+          "subtitle": "Une expérience premium exclusive avec piscine à débordement, DJ en live, gastronomie et vues sur le coucher de soleil",
+          "backgroundImage": "/assets/hero/Luxury-Yacht-Goa-hero.webp",
+          "meta": {
+            "duration": "6 heures",
+            "rating": "Note 4.9/5",
+            "description": "Profitez d’une croisière premium en yacht avec coucher de soleil, piscine à débordement, DJ en live, dîner gastronomique et transferts depuis l’hôtel."
+          }
+        },
+        "language": "fr",
+        "metadata": {
+          "title": "Excursion de luxe en yacht à Goa : croisière privée, coucher de soleil et expérience premium",
+          "description": "Profitez d’une croisière de luxe en yacht à Goa avec vue sur le coucher de soleil et une expérience premium à bord. Parfait pour les fêtes, les couples et des moments inoubliables !"
+        }
+      },
       cta: {
         headline: "Réservez votre expérience de yacht de luxe",
         description:
@@ -5204,8 +5216,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Tour d'Ajanta & Ellora",
-          "description": "Forfait de 1 nuit et 2 jours à Ajanta & Ellora au départ de Goa. Comprend vols, hôtel 3*, guide parlant russe et visites de sites de l'UNESCO."
+          "title": "Circuit Ajanta Ellora depuis Goa | Voyage patrimonial",
+          "description": "Réservez votre circuit Ajanta Ellora depuis Goa. Explorez les grottes UNESCO, l’art ancien et les sites historiques avec visites guidées, hôtels et organisation sans tracas."
         }
       },
       cta: {
@@ -5418,7 +5430,7 @@ export const fr = {
         slug: "amritsar-tour-package-from-goa-2n3d",
         type: "domestic-trip",
         hero: {
-          "herotitle": "Tour Amritsar",
+          "title": "Forfait Amritsar",
           subtitle:
             "2 nuits 3 jours à la découverte du Temple d'Or, de la frontière de Wagah, de Jallianwala Bagh et du patrimoine culturel d'Amritsar",
           backgroundImage: "/assets/hero/Amritsar-hero.webp",
@@ -5430,8 +5442,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Forfait Voyage Amritsar - Temple d'Or & Frontière de Wagah",
-          "description": "Découvrez Amritsar avec des visites au Temple d'Or, à la frontière de Wagah et des sites historiques. Hôtel et transferts inclus."
+          "title": "Meilleur forfait Amritsar depuis Goa | Hôtel, visites et darshan",
+          "description": "Réservez un forfait Amritsar depuis Goa avec hôtel, darshan au Temple d’Or et visite de la frontière de Wagah. Profitez d’un voyage spirituel de 2N/3J. Places limitées — renseignez-vous maintenant !"
         }
       },
       cta: {
@@ -5545,13 +5557,13 @@ export const fr = {
         },
       ],
     },
-    "andaman-islands-tour-from-goa": {
+    "andaman-nicobar-tour-package": {
       file_name: "andaman-tour-for-goa.html",
       page: {
         slug: "andaman-nicobar-tour-for-goa",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Voyage aux Îles Andaman",
+          "title": "Circuit Îles Andaman et Nicobar",
           subtitle:
             "Découvrez les plages immaculées et la riche histoire des îles Andaman en 7 jours",
           backgroundImage: "/assets/hero/Andaman-hero.webp",
@@ -5562,8 +5574,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Voyage aux Îles Andaman - 6 nuits/7 jours",
-          "description": "Découvrez les plages immaculées et la riche histoire des îles Andaman avec notre forfait de 6 nuits/7 jours. Snorkeling, saut d'île en île et plus encore."
+          "title": "Circuit Andaman et Nicobar depuis Goa – 6 nuits et 7 jours",
+          "description": "Évadez-vous de Goa pour une aventure aux îles Andaman et Nicobar — plages de corail, excursions d’île en île, sports nautiques et visites guidées. Réservez votre escapade dès maintenant !"
         }
       },
       cta: {
@@ -5706,13 +5718,13 @@ export const fr = {
         },
       ],
     },
-    "bijapur-heritage-tour-from-goa": {
-      file_name: "bijapur-heritage-tour-from-goa-from-goa.html",
+    "bijapur-heritage-tour": {
+      file_name: "bijapur-heritage-tour-from-goa.html",
       page: {
-        slug: "bijapur-heritage-tour-from-goa",
+        slug: "bijapur-heritage-tour",
         type: "domestic-trip",
         hero: {
-          "herotitle": "Tour Bijapur, Pattadakal et Aihole",
+           "title": "Forfait patrimoine Bijapur",
           subtitle:
             "1 nuit 2 jours à la découverte de l'historique Bijapur, du site Pattadakal classé au patrimoine mondial de l'UNESCO et des anciens temples d'Aihole",
           backgroundImage: "/assets/hero/Bijapur-hero.webp",
@@ -5723,10 +5735,10 @@ export const fr = {
           }
         },
         language: "fr",
-        "metadata": {
-          "title": "Bijapur, Pattadakal & Aihole - Circuit Patrimoine",
-          "description": "Explorez Gol Gumbaz, les temples de Pattadakal (UNESCO) et Aihole. Circuit 2J/1N depuis Goa. Hébergement et transferts inclus."
-        }
+  "metadata": {
+    "title": "Circuit patrimoine Bijapur depuis Goa | 2N/3J – Réservez maintenant",
+    "description": "Réservez votre circuit patrimoine Bijapur depuis Goa avec hôtel et visites. Explorez Gol Gumbaz, forts et monuments. Places limitées — renseignez-vous maintenant !"
+  }
       },
       cta: {
         headline: "Prêt à explorer le Karnataka historique ?",
@@ -6125,10 +6137,10 @@ export const fr = {
           }
         },
         language: "fr",
-        "metadata": {
-          "title": "Safari Éléphant & Tigre à Dandeli 2J/1N",
-          "description": "Aventure de deux jours à Dandeli avec safaris en éléphant et tigre. Comprend l'hébergement et les activités."
-        }
+  "metadata": {
+    "title": "Meilleur forfait Dandeli depuis Goa | Séjour aventure 1N/2J",
+    "description": "Vivez des sensations fortes avec rafting, kayak et séjour en jungle à Dandeli depuis Goa. Escapade parfaite de 2 jours. Réservez votre aventure dès aujourd’hui !"
+  }
       },
       cta: {
         headline: "Prêt pour une aventure animalière ?",
@@ -6531,9 +6543,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-
           "title": "Forfait Triangle d’or depuis Goa | 4 jours / 3 nuits",
-          "description": "Explorez Delhi, Agra et Jaipur en 4 jours. Comprend la visite du Taj Mahal et l'hébergement à l'hôtel."
+          "description": "Réservez un forfait Triangle d’or de 4 jours et 3 nuits depuis Goa couvrant Delhi, Agra et Jaipur. Comprend visites guidées, hôtels et transferts."
         }
       },
       cta: {
@@ -7241,10 +7252,10 @@ export const fr = {
           }
         },
         language: "fr",
-        "metadata": {
-          "title": "Voyage à Hyderabad (1N/2J) - Charminar & Ramoji",
-          "description": "Réservez un voyage d'1 nuit et 2 jours à Hyderabad depuis Goa. Visites : Charminar, Fort Golconda, Ramoji Film City et Lac Hussain Sagar."
-        }
+  "metadata": {
+    "title": "Forfait Hyderabad depuis Goa – Culture et incontournables",
+    "description": "Explorez les sites emblématiques d’Hyderabad depuis Goa — Charminar, fort de Golconde, culture et cuisine locales avec vols, transferts et expériences guidées inclus."
+  }
       },
       cta: {
         headline: "Prêt à explorer Hyderabad?",
@@ -7451,7 +7462,7 @@ export const fr = {
         slug: "jodhpur-tour-package-from-goa-3N4D",
         type: "domestic-trip",
         hero: {
-          title: "Tour du patrimoine désertique Jodhpur et Jaisalmer",
+           "title": "Forfait Jodhpur",
           subtitle:
             "3 nuits 4 jours à la découverte de la ville bleue et de la ville dorée du Rajasthan avec safari dans le désert et expériences culturelles",
           backgroundImage: "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
@@ -7462,10 +7473,10 @@ export const fr = {
           }
         },
         language: "fr",
-        "metadata": {
-          "title": "Voyage Jodhpur & Jaisalmer 3N/4J - Rajasthan",
-          "description": "Réservez un circuit de 3 nuits et 4 jours. Visitez la Ville Bleue, la Ville d'Or, le désert de Thar, le Fort Mehrangarh et les Havelis."
-        }
+  "metadata": {
+    "title": "Forfait Jodhpur depuis Goa | Voyage 2N/3J « Ville bleue » – Réservez maintenant",
+    "description": "Découvrez la beauté royale de Jodhpur depuis Goa. Visitez forts, palais et marchés locaux. Réservez dès aujourd’hui votre voyage au Rajasthan !"
+  }
       },
       cta: {
         headline: "Prêt à explorer le Rajasthan ?",
@@ -7719,7 +7730,7 @@ export const fr = {
         },
       ],
     },
-    "jodhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-package": {
       file_name: "jodhpur-udaipur-trip-4n5d.html",
       page: {
         slug: "Jodhpur-Udaipur-tour-package",
@@ -7737,8 +7748,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Jodhpur & Udaipur (4 nuits - 5 jours)",
-          "description": "Réservez un voyage de 5 jours à Jodhpur et Udaipur. Fort de Mehrangarh, City Palace, lac Pichola et expériences culturelles."
+          "title": "Forfait Jodhpur–Udaipur 4N/5J depuis Goa | GTC",
+          "description": "Réservez votre forfait Jodhpur–Udaipur depuis Goa et explorez forts, palais et lacs. Profitez d’un itinéraire 4N/5J, d’hôtels, de visites et d’une organisation sans tracas."
         }
       },
       cta: {
@@ -8002,7 +8013,7 @@ export const fr = {
         slug: "Kashmir-5N6D-Trip",
         type: "domestic-trip",
         hero: {
-          "title": "Forfait Kashmir 5N/6J",
+          "title": "Forfait Cachemire 5N/6J",
           subtitle:
             "Découvrez la beauté à couper le souffle du Cachemire avec ce voyage à travers Srinagar, Gulmarg, Pahalgam et Sonamarg",
           backgroundImage: "/assets/hero/kashmir-5n6d-hero.webp",
@@ -8014,8 +8025,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Forfait Kashmir depuis Goa | Meilleures offres et itinéraire",
-          "description": "Réservez votre forfait Kashmir depuis Goa aux meilleurs prix. Découvrez Srinagar, Gulmarg et Pahalgam avec un itinéraire personnalisé, des hôtels et une organisation de voyage sans tracas."
+          "title": "Forfait Cachemire depuis Goa | Meilleures offres et itinéraire",
+          "description": "Réservez votre forfait Cachemire depuis Goa aux meilleures offres. Explorez Srinagar, Gulmarg et Pahalgam avec un itinéraire personnalisé, des hôtels et une organisation sans tracas."
         }
       },
       cta: {
@@ -8172,8 +8183,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Voyage au Kerala 5N/6J - Munnar, Thekkady, Alleppey",
-          "description": "Réservez un circuit de 5 nuits et 6 jours au Kerala depuis Goa. Visitez les jardins de thé de Munnar, la réserve de Thekkady et les backwaters d'Alleppey."
+          "title": "Circuit de groupe Kerala depuis Goa – 6 jours de paysages magnifiques",
+          "description": "Découvrez la beauté paisible du Kerala avec ce voyage de 5 nuits et 6 jours à travers Cochin, Munnar, Thekkady et Alleppey."
         }
       },
       cta: {
@@ -8326,8 +8337,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Voyage au Ladakh 6N/7J - Aventure Himalayenne",
-          "description": "Réservez un circuit de 6 nuits et 7 jours au Ladakh. Visitez Shanti Stupa, Palais de Leh, Vallée de Nubra, Lac Pangong et Khardung La."
+          "title": "Circuit Ladakh 7J/6N depuis Goa par Global Tourist Centre",
+          "description": "Réservez un voyage au Ladakh de 7 jours et 6 nuits depuis Goa. Comprend hébergement, guide et transport."
         }
       },
       cta: {
@@ -8467,13 +8478,13 @@ export const fr = {
         },
       ],
     },
-    "lakshadweep-islands-tour-from-goa": {
+    "lakshadweep-islands-tour-package": {
       file_name: "Lakshadweep-Trip.html",
       page: {
         slug: "Lakshadweep-Trip",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Voyage aux Îles Lakshadweep",
+          "title": "Forfait Lakshadweep",
           subtitle:
             "Découvrez la beauté immaculée des îles coralliennes de l'Inde avec notre forfait 3 nuits 4 jours",
           backgroundImage: "/assets/hero/Lakshadweep-hero.webp",
@@ -8484,8 +8495,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Forfait Lakshadweep 3N/4D | Global Tourist Centre",
-          "description": "Réservez dès maintenant votre expérience insulaire inoubliable."
+          "title": "Forfait Lakshadweep 3N/4J | Global Tourist Centre",
+          "description": "Réservez un voyage Lakshadweep de 3 nuits et 4 jours depuis Goa. Comprend hébergement, guide et transport."
         }
       },
       cta: {
@@ -8605,10 +8616,10 @@ export const fr = {
         },
       ],
     },
-    "mathura-vrindavan-tour-from-goa": {
+    "mathura-vrindavan-tour": {
       file_name: "mathura-vrindavan-trip-2n3d.html",
       page: {
-        slug: "mathura-vrindavan-tour-from-goa",
+        slug: "mathura-vrindavan-tour",
         type: "",
         hero: {
           title: "Tour Mathura – Vrindavan",
@@ -8623,8 +8634,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Tour de Mathura & Vrindavan (2 nuits – 3 jours)",
-          "description": "Tour spirituel de 3J/2N : temples Krishna Janmabhumi, Banke Bihari, Prem Mandir avec guide parlant russe/anglais."
+          "title": "Réservez un circuit Mathura depuis Goa – Darshan à Vrindavan et visite des temples",
+          "description": "Vivez un voyage spirituel à Mathura et Vrindavan depuis Goa. Comprend darshan des temples, hébergement et transferts. Réservez votre yatra de Krishna dès aujourd’hui !"
         }
       },
       cta: {
@@ -8852,8 +8863,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Forfait Meghalaya 6N/7D | Écosse de l'Orient",
-          "description": "Ponts de racines vivantes, rivières cristallines, cascades et parc national de Kaziranga en 7 jours."
+          "title": "Forfait Meghalaya 6N/7J | « L’Écosse de l’Est »",
+          "description": "Explorez le Meghalaya avec ses ponts vivants de racines, ses rivières cristallines, ses cascades et le parc national de Kaziranga dans cette aventure de 7 jours."
         }
       },
       cta: {
@@ -9003,7 +9014,7 @@ export const fr = {
         slug: "North-India-Trip",
         type: "domestic-trip",
         hero: {
-          "title": "Forfait Nord de l’Inde 9N/10J",
+          "title": "Forfait Inde du Nord 9N/10J",
           subtitle: "",
           backgroundImage: "/assets/hero/North-india-hero.webp",
           "meta": {
@@ -9013,8 +9024,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Forfait Nord de l’Inde depuis Goa | Offres de circuits patrimoniaux",
-          "description": "Réservez votre forfait pour le nord de l’Inde depuis Goa et explorez Delhi, Agra et Jaipur. Profitez des sites historiques, de visites guidées, d’hôtels et d’une organisation de voyage sans tracas."
+          "title": "Forfait Inde du Nord depuis Goa | Offres de circuits patrimoniaux",
+          "description": "Réservez votre forfait Inde du Nord depuis Goa et explorez Delhi, Agra et Jaipur. Profitez de sites historiques, de visites guidées, d’hôtels et d’une organisation sans tracas."
         }
       },
       cta: {
@@ -9183,7 +9194,7 @@ export const fr = {
         slug: "Rajasthan-Trip-Package",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Voyage au Rajasthan",
+          "title": "Forfait Rajasthan 6N/7J",
           subtitle:
             "Découvrez les majestueux forts, palais et culture du Rajasthan en 7 jours",
           backgroundImage: "/assets/hero/Rajasthan-hero.webp",
@@ -9194,8 +9205,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Expérience Royale au Rajasthan en 7 jours | Global Tourist Centre",
-          "description": "Forts majestueux, palais et cités historiques. 7 jours, transport privé, hôtels de patrimoine. Vivez un voyage royal !"
+          "title": "Forfait Rajasthan – Expérience royale de 7 jours | Global Tourist Centre",
+          "description": "Explorez forts majestueux, palais et villes historiques avec notre forfait premium Rajasthan. 7 jours, transport privé climatisé, hôtels patrimoniaux. Réservez maintenant et partez pour un voyage royal !"
         }
       },
       cta: {
@@ -9343,7 +9354,7 @@ export const fr = {
         slug: "Shimoga-trip-package",
         type: "domestic-trip",
         hero: {
-  "title": "Aventure safari nature et faune Goa–Shimoga sur 2 jours",
+          "title": "Aventure safari nature et faune Goa–Shimoga sur 2 jours",
           subtitle: "",
           backgroundImage: "/assets/hero/Shimoga-hero.webp",
           "meta": {
@@ -9548,8 +9559,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Voyage Sikkim Darjeeling Gangtok 6N/7J",
-          "description": "Réservez un circuit de 6 nuits et 7 jours au Sikkim, Darjeeling et Gangtok. Visitez le lac Tsomgo, Baba Mandir et Tiger Hill."
+          "title": "Circuit Sikkim depuis Goa – 6 nuits et 7 jours | Global Tourist Centre",
+          "description": "Réservez un voyage au Sikkim de 6 nuits et 7 jours depuis Goa. Comprend hébergement, guide et transport."
         }
       },
       cta: {
@@ -9699,7 +9710,7 @@ export const fr = {
         slug: "Tamil-Nadu-trip",
         type: "domestic-trip",
         hero: {
-          title: "Forfait Voyage au Tamil Nadu",
+          title: "Forfait Tamil Nadu",
           subtitle:
             "Découvrez le riche patrimoine, les temples et la beauté naturelle du Tamil Nadu lors de cette exploration de 7 jours",
           backgroundImage: "/assets/hero/tamil-nadu-hero.webp",
@@ -9711,8 +9722,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Voyage au Tamil Nadu 6N/7J - Temples & Culture",
-          "description": "Réservez un circuit de 6 nuits et 7 jours au Tamil Nadu. Visitez Madurai, Rameshwaram, Kanyakumari, Ooty et les temples de Chettinad."
+          "title": "Forfait Tamil Nadu 7 jours | Global Tourist Centre",
+          "description": "Réservez un voyage Tamil Nadu de 7 nuits et 8 jours depuis Goa. Comprend hébergement, guide et transport."
         }
       },
       cta: {
@@ -9855,13 +9866,13 @@ export const fr = {
         },
       ],
     },
-    "varanasi-tour-package-from-goa": {
+    "varanasi-tour-package": {
       file_name: "varanasi-2n3d-trip.html",
       page: {
         slug: "Varanasi-2N3D",
         type: "domestic-trip",
         hero: {
-          title: "Voyage à Varanasi (2 nuits - 3 jours)",
+          "title": "Forfait Varanasi 2N/3J",
           subtitle:
             "Un voyage spirituel dans l'ancienne ville de Varanasi avec Sarnath, Ganga Aarti, visites de temples et promenade en bateau sur le Gange",
           backgroundImage: "/assets/hero/Varanasi-hero.webp",
@@ -9873,8 +9884,8 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Voyage à Varanasi (2 nuits - 3 jours)",
-          "description": "Votre expérience spirituelle dans la cité antique de Varanasi pendant 3 jours."
+          "title": "Forfait Varanasi depuis Goa | Voyage spirituel 2N/3J – Réservez maintenant",
+          "description": "Découvrez le charme spirituel de Varanasi avec notre forfait depuis Goa. Inclut temples, Ganga Aarti et hébergement. Réservez dès aujourd’hui votre voyage divin !"
         }
       },
       cta: {
@@ -13598,8 +13609,8 @@ export const fr = {
         image: "/assets/Luxury/Kerala/hero-backwaters.webp",
       },
       "metadata": {
-        "title": "Forfait Luxe au Kerala | Global Tourist Centre – Évasion Premium",
-        "description": "Notre forfait exclusif luxe au Kerala : séjours opulents, houseboats privés, paysages scéniques, service personnalisé et moments inoubliables."
+        "title": "Forfait de luxe Kerala | Global Tourist Centre – Escapade premium au Kerala",
+        "description": "Découvrez notre forfait de luxe exclusif au Kerala avec Global Tourist Centre. Profitez d’hébergements haut de gamme, de houseboats privés, de stations de montagne pittoresques et des backwaters, ainsi que d’un service personnalisé et de moments inoubliables dans « le pays de Dieu »."
       },
       toursSection: {
         title: "Forfaits Voyage Premium Kerala",
@@ -13659,9 +13670,9 @@ export const fr = {
           "Jusqu'à 30% de réduction sur les réservations anticipées",
         image: "/assets/Luxury/Rajasthan/Rajasthan-Luxury.webp",
       },
-      "metadata": {
-        "title": "Tour de Luxe au Rajasthan | Global Tourist Centre – Patrimoine Royal & Confort 5 Étoiles",
-        "description": "Découvrez le forfait de luxe ultime au Rajasthan avec Global Tourist Centre — séjournez dans des palais et des hôtels patrimoniaux, profitez de guides privés, d’expériences sur mesure et de transferts fluides à travers Jaipur, Udaipur, Jodhpur et plus encore."
+      metadata: {
+        title: "Circuit de luxe Rajasthan | Global Tourist Centre – Héritage royal et confort 5★",
+        description: "Découvrez le forfait de luxe ultime au Rajasthan avec Global Tourist Centre — séjournez dans des palais et hôtels patrimoniaux, profitez de guides privés, d’expériences sur mesure et de transferts fluides à travers Jaipur, Udaipur, Jodhpur et plus encore."
       },
       toursSection: {
         title: "Forfaits Voyage Premium Rajasthan",
@@ -14058,7 +14069,7 @@ export const fr = {
       },
       "metadata": {
         "title": "Forfait de luxe Rajasthan 4N/5J | Global Tourist Centre",
-        "description": "Un forfait de luxe raffiné de 4N/5J au Rajasthan avec Global Tourist Centre — séjournez dans des hôtels patrimoniaux royaux, explorez Jaipur, Udaipur et Jodhpur, profitez de transferts privés, d’expériences sur mesure et d’un service fluide."
+        "description": "Un somptueux forfait de luxe Rajasthan 4N/5J avec Global Tourist Centre — séjournez dans des hôtels patrimoniaux royaux, explorez Jaipur, Udaipur et Jodhpur, et profitez de transferts privés, d’expériences sur mesure et d’un service impeccable."
       },
       itinerary: {
         title: "Expérience Royale à Jaipur & Udaipur",
@@ -14234,9 +14245,9 @@ export const fr = {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      "metadata": {
-        "title": "Forfait Luxe 7J/6N Triangle d'Or | Global Tourist Centre",
-        "description": "Voyage luxe de 7 jours : palais de patrimoine premium, chauffeur privé, lever de soleil au Taj Mahal et service haut de gamme."
+      metadata: {
+        title: "Forfait de luxe Triangle d’or 6N/7J | Global Tourist Centre",
+        description: "Partez pour notre forfait de luxe Triangle d’or 6N/7J avec Global Tourist Centre — palais patrimoniaux haut de gamme, transferts privés avec chauffeur, lever de soleil au Taj Mahal, séjours royaux à Jaipur et service impeccable pour les voyageurs exigeants."
       },
       itinerary: {
         title: "Un voyage au cœur de la culture indienne",
@@ -14397,7 +14408,7 @@ export const fr = {
       },
       "metadata": {
         "title": "Forfait de luxe Rajasthan 6N/7J | Global Tourist Centre",
-        "description": "Partez pour un voyage de luxe de 6N/7J au Rajasthan avec Global Tourist Centre — séjournez dans des palais et hôtels patrimoniaux, explorez Jaipur, Udaipur, Jodhpur et Jaisalmer, profitez de transferts privés, d’expériences sur mesure et d’un service royal."
+        "description": "Partez pour un circuit de luxe Rajasthan 6N/7J avec Global Tourist Centre — séjournez dans des palais et hôtels patrimoniaux, explorez Jaipur, Udaipur, Jodhpur et Jaisalmer, et profitez de transferts privés, d’expériences sur mesure et d’un service royal."
       },
       footer: {
         about:
@@ -14651,8 +14662,8 @@ export const fr = {
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
       "metadata": {
-        "title": "Forfait Luxe 5J/4N Triangle d'Or | Global Tourist Centre",
-        "description": "Exclusif forfait 5 jours : palais historiques, chauffeur privé de Delhi à Agra et Jaipur, visites VIP et luxe absolu."
+        "title": "Circuit de luxe Triangle d’or 4N/5J | Global Tourist Centre",
+        "description": "Découvrez notre forfait exclusif de luxe Triangle d’or 4N/5J avec Global Tourist Centre. Séjournez dans des palais historiques, voyagez avec chauffeur privé de Delhi à Agra et Jaipur, et profitez de visites VIP et d’expériences haut de gamme conçues pour les voyageurs exigeants."
       },
       itinerary: {
         title: "Voyage au cœur du patrimoine culturel de l'Inde",
@@ -14791,8 +14802,8 @@ export const fr = {
         background_image: "/assets/Luxury/Karnataka/hero.webp",
       },
       "metadata": {
-        "title": "Forfait Luxe 8J/7N au Karnataka | Global Tourist Centre – Palais & Safari",
-        "description": "Délicieux voyage de 8 jours au Karnataka : du confort 5 étoiles de Bangalore aux palais de Mysore et safari à Bandipur."
+        "title": "Forfait de luxe Karnataka 7N/8J | Global Tourist Centre – Hôtels patrimoniaux et safari privé",
+        "description": "Vivez un voyage de luxe 7N/8J au Karnataka avec Global Tourist Centre : du confort 5 étoiles cosmopolite de Bangalore aux palais royaux de Mysore, un safari privé à Bandipur et des séjours dans des plantations de thé à Ooty."
       },
       footer: {
         about:
@@ -14998,8 +15009,8 @@ export const fr = {
         background_image: "/assets/Luxury/Kerala/hero-backwaters.webp",
       },
       "metadata": {
-        "title": "Forfait de luxe Rajasthan 8N/9J | Global Tourist Centre – Héritage royal, confort 5★",
-        "description": "Le forfait de luxe ultime de 8N/9J au Rajasthan avec Global Tourist Centre — séjournez dans des palais et hôtels patrimoniaux à Jaipur, Udaipur, Jodhpur et Jaisalmer, profitez de transferts privés, d’expériences royales sur mesure et d’un service VIP fluide."
+        "title": "Forfait de luxe Kerala 4N/5J – 30% de réduction | Global Tourist Centre",
+        "description": "Réservez votre voyage de luxe 4N/5J au Kerala avec 30% de réduction chez Global Tourist Centre. Profitez de villas sur l’eau, de croisières privées dans les backwaters, de vues sur les stations de montagne, d’un service personnalisé et de séjours luxueux dans « le pays de Dieu »."
       },
       itinerary: {
         title: "Voyage au Pays de Dieu (God's Own Country)",
@@ -15136,9 +15147,9 @@ export const fr = {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%202N/3D%20Mumbai%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Mumbai/mumbai-hero.webp",
       },
-      "metadata": {
-        "title": "Forfait Luxe 3J/2N à Mumbai | Évasion Premium – Global Tourist Centre",
-        "description": "Exclusif forfait 3 jours à Mumbai : hôtels 5 étoiles, chauffeur privé, visites premium dans la ville des rêves."
+      metadata: {
+        title: "Forfait de luxe Mumbai 2N/3J | Escapade premium à Mumbai – Global Tourist Centre",
+        description: "Notre forfait de luxe exclusif 2N/3J à Mumbai avec Global Tourist Centre. Séjournez dans des hôtels 5 étoiles, profitez de transferts privés avec chauffeur, de visites premium et d’expériences sur mesure dans la « ville des rêves » de l’Inde."
       },
       footer: {
         about:
@@ -15314,8 +15325,8 @@ export const fr = {
         background_image: "/assets/Luxury/Rajasthan/raj3-hero.webp",
       },
       "metadata": {
-        "title": "Forfait Luxe 9J/8N au Rajasthan | Global Tourist Centre – Confort 5 Étoiles",
-        "description": "Le tour luxe ultime au Rajasthan : palais historiques à Jaipur, Udaipur, Jodhpur, transferts privés et service VIP."
+        "title": "Forfait de luxe Rajasthan 8N/9J | Global Tourist Centre – Héritage royal et confort 5★",
+        "description": "Le forfait ultime de luxe Rajasthan 8N/9J avec Global Tourist Centre — séjournez dans des palais et hôtels patrimoniaux à Jaipur, Udaipur, Jodhpur et Jaisalmer, profitez de transferts privés, d’expériences royales sur mesure et d’un service VIP irréprochable."
       },
       itinerary: {
         title: "Voyage Royal au Rajasthan entre Palais et Forts",

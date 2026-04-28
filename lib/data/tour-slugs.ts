@@ -27,7 +27,7 @@ export const TOUR_CATEGORIES = {
 
   domestic: [
     // verified
-    "andaman-islands-tour-from-goa",
+    "andaman-nicobar-tour-package",
     "goa-sightseeing-tour", // verified //prent in en.ts
     // "mysore-ooty-tour", // temporarily removed (used in home)
     // "taj-mahal-tour", // temporarily removed (used in home)
@@ -37,21 +37,21 @@ export const TOUR_CATEGORIES = {
     "golden-triangle-4-day-tour-from-goa", // verified // two are there with same name
     "golden-triangle-tour-from-goa", // verified
     // "delhi-agra-tour-from-goa", // verified
-    "jodhpur-udaipur-tour-from-goa", // temporarily removed (used in home) // verified
+    "jodhpur-udaipur-tour-package", // temporarily removed (used in home) // verified
     "rajasthan-royal-tour-from-goa", // temporarily removed (used in desination.ts)  // verified
     "north-india-heritage-tour-from-goa", // verified
-    "mathura-vrindavan-tour-from-goa", // verified
+    "mathura-vrindavan-tour", // verified
     "tamil-nadu-tour-package-from-goa", //verified
     "kashmir-tour-package-from-goa", // verified
     "sikkim-darjeeling-gangtok-tour-from-goa", // verified
-    "lakshadweep-islands-tour-from-goa", // verified
-    "andaman-islands-tour-from-goa", // verified
+    "lakshadweep-islands-tour-package", // verified
+    "andaman-nicobar-tour-package", // verified
 
     // verified
     "ajanta-ellora-caves-tour-from-goa", // verified
     // "ladakh-tour-package-from-goa",
-    "varanasi-tour-package-from-goa", // verified
-    "bijapur-heritage-tour-from-goa", // verified // not used anywhere
+    "varanasi-tour-package", // verified
+    "bijapur-heritage-tour", // verified // not used anywhere
     "hyderabad-tour-package-from-goa", // temporarily removed (used in html code) // verified
     "jodhpur-tour-package-from-goa", // verified //temporarily added not used anywhere
     "ladakh-tour-package-from-goa", // temporarily removed (used in en.ts) // verified

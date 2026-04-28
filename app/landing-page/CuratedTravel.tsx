@@ -49,7 +49,7 @@ const CuratedTravel = () => {
         rating: 4.7,
         tags: ["Spiritual", "Pilgrimage", "Ganga Aarti"],
         badge: null,
-        link: `/destinations/domestic/varanasi-tour-package-from-goa`,
+        link: `/destinations/domestic/varanasi-tour-package`,
       },
       {
         id: "amritsar",
