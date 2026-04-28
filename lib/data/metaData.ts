@@ -78,7 +78,7 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "andaman-islands-tour-from-goa": {
+  "andaman-nicobar-tour-package": {
     meta: {
       duration: "7 Days",
       rating: "4.9/5 Rating",
@@ -166,7 +166,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "jodhpur-udaipur-tour-from-goa": {
+  "jodhpur-udaipur-tour-package": {
     meta: {
       duration: "5 Tage",
       rating: "4.7/5 Rating",
@@ -216,7 +216,7 @@ export const metaData: Record<string, any> = {
       rating: "4.9/5 Rating",
     },
   },
-  "bijapur-heritage-tour-from-goa": {
+  "bijapur-heritage-tour": {
     meta: {
       duration: "2 Days",
       rating: "4.5/5 Rating",
@@ -241,13 +241,13 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "lakshadweep-islands-tour-from-goa": {
+  "lakshadweep-islands-tour-package": {
     meta: {
       duration: "3 Nights / 4 Days",
       rating: "4.8/5 Rating",
     },
   },
-  "mathura-vrindavan-tour-from-goa": {
+  "mathura-vrindavan-tour": {
     meta: {
       duration: "3 Days",
       rating: "4.8/5 Rating",
@@ -291,7 +291,7 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "varanasi-tour-package-from-goa": {
+  "varanasi-tour-package": {
     meta: {
       duration: "2 Nights / 3 Days",
     },

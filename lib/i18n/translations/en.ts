@@ -188,7 +188,7 @@ export const en = {
         description:
           "Cover Delhi, Agra, and Jaipur with visits to India Gate, Qutub Minar, Taj Mahal, Agra Fort, Amber Fort, royal palaces, and vibrant local bazaars.",
       },
-      "jodhpur-udaipur-tour-from-goa": {
+      "jodhpur-udaipur-tour-package": {
         title: "Udaipur & Jodhpur Royal Rajasthan Tour",
         duration: "4 Nights / 5 Days",
         description:
@@ -200,19 +200,19 @@ export const en = {
         description:
           "Visit the world-famous Taj Mahal, a symbol of eternal love, along with Agra Fort and surrounding Mughal heritage sites.",
       },
-      "varanasi-tour-package-from-goa": {
+      "varanasi-tour-package": {
         title: "Varanasi – Spiritual India",
         duration: "3 Nights / 4 Days",
         description:
           "Experience India’s spiritual heart with Ganga ghats, Ganga Aarti, Kashi Vishwanath Temple, and a visit to the Buddhist site of Sarnath.",
       },
-      "mathura-vrindavan-tour-from-goa": {
+      "mathura-vrindavan-tour": {
         title: "Mathura & Vrindavan Tour",
         duration: "2 Nights / 3 Days",
         description:
           "Immerse yourself in devotion at the sacred birthplaces of Lord Krishna with vibrant temples, soulful chants, and spiritual experiences.",
       },
-      "andaman-islands-tour-from-goa": {
+      "andaman-nicobar-tour-package": {
         title: "Andaman Islands Escape",
         duration: "5 Nights / 6 Days",
         description:
@@ -377,6 +377,22 @@ export const en = {
       gallerySubtitle:
         "Get a glimpse of the stunning locations you’ll experience",
       highlight: "Highlight",
+      leadForm: {
+        title: "Plan Your Dream {destination} Trip Today",
+        subtitle: "Fill in the details below and we'll help you craft the perfect itinerary for your next adventure.",
+        fullName: "Full Name",
+        fullNamePlaceholder: "Your Name",
+        phone: "Phone Number",
+        phonePlaceholder: "Your Phone",
+        email: "Email id",
+        emailPlaceholder: "Your Email",
+        travelDate: "Travel Date",
+        numPeople: "No. of People",
+        numPeoplePlaceholder: "1",
+        submit: "Book now",
+        error: "Please provide all required information to proceed.",
+        whatsappMessage: "Hi, I'm interested in the {destination} travel package",
+      },
     },
   },
   // Curated Collections
@@ -1512,7 +1528,7 @@ export const en = {
         "Discover coral beaches, island hopping, water sports, pristine marine life, and historical Cellular Jail across tropical islands.",
       duration: "6 Nights / 7 Days",
     },
-    "lakshadweep-islands-tour-from-goa": {
+    "lakshadweep-islands-tour-package": {
       title: "Lakshadweep Islands",
       description:
         "Pristine beaches, coral reefs & marine life in Agatti, Thinnakara & Kalpitti islands with snorkeling and water sports.",
@@ -1757,27 +1773,27 @@ export const en = {
         "Marvel at the ancient rock-cut caves of Ellora and Ajanta, showcasing Buddhist, Hindu, and Jain art, sculptures, and frescoes.",
     },
 
-    "jodhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-package": {
       title: "Udaipur & Jodhpur Royal Rajasthan Tour",
       duration: "4 Nights / 5 Days",
       description:
         "Experience Rajasthan’s regal charm through grand palaces, serene lakes, majestic forts, blue streets, and vibrant markets.",
     },
 
-    "varanasi-tour-package-from-goa": {
+    "varanasi-tour-package": {
       title: "Varanasi – Spiritual India",
       duration: "3 Nights / 4 Days",
       description:
         "Experience India’s spiritual heart with Ganga ghats, Ganga Aarti, Kashi Vishwanath Temple, and a visit to the Buddhist site of Sarnath.",
     },
 
-    "mathura-vrindavan-tour-from-goa": {
+    "mathura-vrindavan-tour": {
       title: "Mathura & Vrindavan Tour",
       duration: "2 Nights / 3 Days",
       description:
         "Immerse yourself in devotion at the sacred birthplaces of Lord Krishna with vibrant temples, soulful chants, and spiritual experiences.",
     },
-    "andaman-islands-tour-from-goa": {
+    "andaman-nicobar-tour-package": {
       title: "Andaman Islands Escape",
       duration: "5 Nights / 6 Days",
       description:
@@ -1796,7 +1812,7 @@ export const en = {
       description:
         "Discover the spiritual and historical significance of Amritsar with visits to Golden Temple, Jallianwala Bagh, and other iconic sites.",
     },
-    "bijapur-heritage-tour-from-goa": {
+    "bijapur-heritage-tour": {
       title: "Bijapur Heritage Tour",
       duration: "1 Nights / 2 Days",
       description:
@@ -4693,8 +4709,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Ajanta & Ellora Tour",
-          "description": "Book a 1 Night 2 Days Ajanta & Ellora trip package from Goa. Includes flights, 3-star hotel, Russian-speaking guide, and UNESCO site visits."
+          "title": "Ajanta Ellora Tour Package from Goa | Heritage Trip",
+          "description": "Book your Ajanta Ellora tour package from Goa. Explore UNESCO caves, ancient art, and heritage sites with guided tours, hotels, and hassle-free travel."
         }
       },
       "cta": {
@@ -4893,7 +4909,7 @@ export const en = {
         "slug": "amritsar-tour-package-from-goa-2n3d",
         "type": "domestic-trip",
         "hero": {
-          "herotitle": "Amritsar Tour",
+          "title": "Amritsar Tour Package",
           "subtitle": "2 Nights 3 Days exploring Golden Temple, Wagah Border, Jallianwala Bagh, and Amritsar's cultural heritage",
           "backgroundImage": "/assets/hero/Amritsar-hero.webp",
           "meta": {
@@ -4904,8 +4920,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Amritsar Trip (2 Nights 3 Days)",
-          "description": "Book a 2 Nights 3 Days Amritsar trip package. Includes flights, 3-star hotel, Russian-speaking guide, Golden Temple, Wagah Border ceremony, and city tour."
+          "title": "Best Amritsar Tour Package from Goa | Hotel, Sightseeing & Darshan",
+          "description": "Book Amritsar tour package from Goa with hotel, Golden Temple darshan & Wagah Border visit. Enjoy a 2N/3D spiritual trip. Limited seats—enquire now!."
         }
       },
       "cta": {
@@ -5012,13 +5028,13 @@ export const en = {
         }
       ]
     },
-    "andaman-islands-tour-from-goa": {
+    "andaman-nicobar-tour-package": {
       "file_name": "andaman-tour-for-goa.html",
       "page": {
         "slug": "andaman-nicobar-tour-for-goa",
         "type": "domestic-trip",
         "hero": {
-          "title": "Andaman Trip Package",
+          "title": "Andaman & Nicobar Island Tour",
           "subtitle": "Discover the pristine beaches and rich history of Andaman Islands in 7 days",
           "backgroundImage": "/assets/hero/Andaman-hero.webp",
           "meta": {
@@ -5028,8 +5044,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Andaman Island Trip - 6 Nights/7 Days",
-          "description": "Discover the pristine beaches and rich history of Andaman Islands with our 6-night/7-day tour package. Experience snorkeling, island hopping, and more."
+          "title": "Andaman & Nicobar Tour from Goa - 6 Nights & 7 Days full tour",
+          "description": "Escape Goa for a vibrant Andaman & Nicobar adventure—discover coral beaches, island hopping, water sports, and expert-guided sightseeing. Book your island getaway now!"
         }
       },
       "cta": {
@@ -5834,8 +5850,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Elephant & Tiger Safari – Dandeli",
-          "description": "Book a 1 Night 2 Days Elephant & Tiger Safari in Dandeli. Includes transportation, 3-star accommodation, Russian-speaking guide, and wildlife activities."
+          "title": "Best Dandeli Tour Package from Goa | 1N/2D Adventure Trip Deals",
+          "description": "Experience thrilling rafting, kayaking & jungle stay in Dandeli from Goa. Perfect 2-day getaway. Book your adventure today!."
         }
       },
       "cta": {
@@ -6845,13 +6861,13 @@ export const en = {
         },
         language: "en",
         "metadata": {
-          "title": "Pacchetto Kashmir da Goa | Migliori offerte e itinerario",
-          "description": "Prenota il tuo pacchetto Kashmir da Goa con le migliori offerte. Esplora Srinagar, Gulmarg e Pahalgam con itinerario personalizzato, hotel e pianificazione del viaggio senza problemi."
+          "title": "Golden Triangle Tour Package from Goa | 4 Day 3 Nights",
+          "description": "Book a 4 Day 3 Nights Golden Triangle tour package from Goa covering Delhi, Agra & Jaipur. Includes guided tours, hotels & transfers"
         },
       },
       cta: {
-        headline: "Pronto per la tua avventura nel Kashmir?",
-        description: "Prenota ora e assicurati il tuo posto per un viaggio culturale indimenticabile",
+        headline: "Ready for your Golden Triangle adventure?",
+        description: "Book now and secure your spot for an unforgettable cultural journey through India’s most iconic destinations",
         contact: {
           "whatsapp": {
             "number": "+919067972295",
@@ -7424,10 +7440,10 @@ export const en = {
         }
       ]
     },
-    "jodhpur-udaipur-tour-from-goa": {
+    "jodhpur-udaipur-tour-package": {
       "file_name": "jodhpur-udaipur-trip-4n5d.html",
       "page": {
-        "slug": "jodhpur-udaipur-tour-from-goa-package",
+        "slug": "jodhpur-udaipur-tour-package-package",
         "type": "domestic-trip",
         "hero": {
           "title": "Jodhpur & Udaipur (4 Nights - 5 days)",
@@ -7442,8 +7458,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Jodhpur & Udaipur (4 Nights - 5 days)",
-          "description": "Book a 4 Nights 5 Days Jodhpur & Udaipur trip package. Includes Mehrangarh Fort, City Palace, Lake Pichola, and cultural experiences."
+          "title": "4N/5D Jodhpur Udaipur Tour Package from Goa | GTC",
+          "description": "Book your Jodhpur Udaipur tour package from Goa and explore forts, palaces & lakes. Enjoy 4N/5D itinerary, hotels, sightseeing & hassle-free travel planning."
         }
       },
       "cta": {
@@ -8698,13 +8714,13 @@ export const en = {
     //     }
     //   ]
     // },
-    "bijapur-heritage-tour-from-goa": {
-      "file_name": "bijapur-heritage-tour-from-goa-from-goa.html",
+    "bijapur-heritage-tour": {
+      "file_name": "bijapur-heritage-tour-from-goa.html",
       "page": {
-        "slug": "bijapur-heritage-tour-from-goa",
+        "slug": "bijapur-heritage-tour",
         "type": "domestic-trip",
         "hero": {
-          "herotitle": "Bijapur, Pattadakal & Aihole Tour",
+          "title": "Bijapur Heritage Tour Package",
           "subtitle": "1 Night 2 Days exploring historical Bijapur, UNESCO World Heritage Site Pattadakal, and ancient Aihole temples",
           "backgroundImage": "/assets/hero/Bijapur-hero.webp",
           "meta": {
@@ -8715,8 +8731,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Bijapur, Pattadakal & Aihole Tour",
-          "description": "Book a 1 Night 2 Days Bijapur, Pattadakal & Aihole trip package from Goa. Includes 3-star hotel, English-speaking guide, and UNESCO site visits."
+          "title": "Bijapur Heritage Tour Package from Goa | 2N/3D Historical Trip – Book Now",
+          "description": "Book Bijapur heritage tour package from Goa with hotel & sightseeing. Explore Gol Gumbaz, forts & monuments. Limited slots—enquire now!."
         }
       },
       "cta": {
@@ -9121,8 +9137,7 @@ export const en = {
         "slug": "jodhpur-tour-package-from-goa-3N4D",
         "type": "domestic-trip",
         "hero": {
-          "title": "Jodhpur Tour Package – 3N/4D Jodhpur Jaisalmer Trip",
-          "herotitle": "Jodhpur & Jaisalmer Desert Heritage Tour",
+          "title": "Jodhpur Tour Package",
           "subtitle": "3 Nights 4 Days exploring Rajasthan's Blue City and Golden City with desert safari and cultural experiences",
           "backgroundImage": "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
           "meta": {
@@ -9133,8 +9148,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Jodhpur & Jaisalmer Trip 3N4D",
-          "description": "Book a 3 Nights 4 Days Jodhpur & Jaisalmer trip covering Rajasthan's Blue City and Golden City. Includes desert safari, cultural shows, and heritage tours."
+          "title": "Jodhpur Tour Package from Goa | 2N/3D Blue City Trip – Book Now",
+          "description": "Experience the royal beauty of Jodhpur from Goa. Visit forts, palaces & local markets. Book your Rajasthan trip today!"
         }
       },
       "cta": {
@@ -9649,13 +9664,13 @@ export const en = {
         }
       ]
     },
-    "lakshadweep-islands-tour-from-goa": {
+    "lakshadweep-islands-tour-package": {
       "file_name": "Lakshadweep-Trip.html",
       "page": {
         "slug": "Lakshadweep-Trip",
         "type": "domestic-trip",
         "hero": {
-          "title": "Lakshadweep Trip Package",
+          "title": "Lakshadweep Tour Package",
           "subtitle": "Discover the pristine beauty of India's coral islands with our 3 nights 4 days package",
           "backgroundImage": "/assets/hero/Lakshadweep-hero.webp",
           "meta": {
@@ -9665,8 +9680,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Lakshadweep 3N4D Trip Package | Global Tourist Centre",
-          "description": "Book a 3 Nights 4 Days Lakshadweep trip from Goa. Includes hotel stay, guide, and transportation."
+          "title": "Lakshadweep 3N4D Tour Package | Global Tourist Centre",
+          "description": "Book a 3 Nights 4 Days Lakshadweep tour from Goa. Includes hotel stay, guide, and transportation."
         }
       },
       "cta": {
@@ -9779,10 +9794,10 @@ export const en = {
         }
       ]
     },
-    "mathura-vrindavan-tour-from-goa": {
+    "mathura-vrindavan-tour": {
       "file_name": "mathura-vrindavan-trip-2n3d.html",
       "page": {
-        "slug": "mathura-vrindavan-tour-from-goa",
+        "slug": "mathura-vrindavan-tour",
         "type": "",
         "hero": {
           "title": "Mathura – Vrindavan Tour",
@@ -9797,8 +9812,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Mathura – Vrindavan Tour (2 Nights – 3 Days)",
-          "description": "Book a 2 Nights 3 Days Mathura Vrindavan spiritual tour covering Shri Krishna Jamnabhoomi Temple, Banke Bihari Temple, Prem Mandir with Russian/English-speaking guide."
+          "title": "Book Mathura Tour Package from Goa – Vrindavan Darshan & Temple Tour",
+          "description": "Experience a divine journey to Mathura & Vrindavan from Goa. Includes temple darshan, stay & transfers. Book your Krishna yatra today!"
         }
       },
       "cta": {
@@ -10331,7 +10346,7 @@ export const en = {
         "slug": "Rajasthan-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Rajasthan Trip Package",
+          "title": "6N/7D Rajasthan Tour Package",
           "subtitle": "Discover the majestic forts, palaces, and culture of Rajasthan in 7 days",
           "backgroundImage": "/assets/hero/Rajasthan-hero.webp",
           "meta": {
@@ -10341,8 +10356,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Rajasthan Trip Package – 7-Day Royal Rajasthan Experience | Global Tourist Centre",
-          "description": "Explore majestic forts, palaces & heritage cities with our premium Rajasthan trip package. 7 days, private AC transport, heritage hotels. Book now & embark on your royal journey!"
+          "title": "Rajasthan Tour Package – 7-Day Royal Rajasthan Experience | Global Tourist Centre",
+          "description": "Explore majestic forts, palaces & heritage cities with our premium Rajasthan tour package. 7 days, private AC transport, heritage hotels. Book now & embark on your royal journey!"
         }
       },
       "cta": {
@@ -10812,7 +10827,7 @@ export const en = {
         "slug": "Tamil-Nadu-trip",
         "type": "domestic-trip",
         "hero": {
-          "title": "Tamil Nadu Trip Package",
+          "title": "Tamil Nadu Tour Package",
           "subtitle": "Experience the rich heritage, temples, and natural beauty of Tamil Nadu in this 7-day exploration",
           "backgroundImage": "/assets/hero/tamil-nadu-hero.webp",
           "meta": {
@@ -10823,8 +10838,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Tamil Nadu 7-day Trip Package | Global Tourist Centre",
-          "description": "Book a 7 Nights 8 Days Tamil Nadu trip from Goa. Includes hotel stay, guide, and transportation."
+          "title": "Tamil Nadu 7-day Tour Package | Global Tourist Centre",
+          "description": "Book a 7 Nights 8 Days Tamil Nadu tour from Goa. Includes hotel stay, guide, and transportation."
         }
       },
       "cta": {
@@ -10956,13 +10971,13 @@ export const en = {
         }
       ]
     },
-    "varanasi-tour-package-from-goa": {
+    "varanasi-tour-package": {
       "file_name": "varanasi-2n3d-trip.html",
       "page": {
         "slug": "Varanasi-2N3D",
         "type": "domestic-trip",
         "hero": {
-          "title": "Varanasi Trip (2 Nights - 3 Days)",
+          "title": "2N/3D Varanasi Tour Package",
           "herotitle": "3D/2N Spiritual Varanasi Journey",
           "subtitle": "A spiritual journey to the ancient city of Varanasi with Sarnath, Ganga Aarti, temple tours, and Ganges boat ride",
           "backgroundImage": "/assets/hero/Varanasi-hero.webp",
@@ -10974,8 +10989,8 @@ export const en = {
         },
         "language": "en",
         "metadata": {
-          "title": "Varanasi Trip (2 Nights - 3 Days)",
-          "description": "Book a 2 Nights 3 Days Varanasi trip from Goa. Includes hotel stay, guide, and transportation."
+          "title": "Varanasi Tour Package from Goa | 2N/3D Spiritual Trip – Book Now",
+          "description": "Experience the spiritual charm of Varanasi with our Goa tour package. Includes temples, Ganga Aarti & stay. Book your divine journey today!"
         }
       },
       "cta": {
@@ -13001,7 +13016,7 @@ export const en = {
         discountBadge: "Up to 30% OFF on Early Bookings",
         image: "/assets/Luxury/Rajasthan/Rajasthan-Luxury.webp",
       },
-      "metadata": {
+      metadata: {
         title: "Luxury Rajasthan Tour | Global Tourist Centre – Royal Heritage & 5‑Star Comfort",
         description: "Explore the ultimate Rajasthan luxury tour package with Global Tourist Centre — stay in palaces & heritage hotels, enjoy private guides, curated experiences and seamless transfers across Jaipur, Udaipur, Jodhpur and more."
       },
@@ -13571,8 +13586,8 @@ export const en = {
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
       metadata: {
-        title: "6 N/7 D Luxury Golden Triangle Tour Package | Global Tourist Centre",
-        description: "Embark on our 6 N/7 D luxury Golden Triangle tour package with Global Tourist Centre — premium heritage palaces, private chauffeur transfers, Taj Mahal sunrise, Jaipur royal stays, and impeccable service for discerning travellers."
+        title: "Luxury Golden Triangle Tour 6N/7D | Global Tourist Centre",
+        description: "Embark on our 6-night, 7-day luxury Golden Triangle tour with Global Tourist Centre—featuring stays in premium heritage palaces, private chauffeur transfers, Taj Mahal sunrise, royal Jaipur hotels, and impeccable service for discerning travellers."
       },
       itinerary: {
         title: "Journey Through India's Cultural Heartland",
@@ -14698,9 +14713,9 @@ export const en = {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%208N/9D%20Rajasthan%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Rajasthan/raj3-hero.webp",
       },
-      metadata: {
-        title: "8N/9D Rajasthan Luxury Tour Package | Global Tourist Centre – Royal Heritage, 5★ Comfort",
-        description: "The ultimate 8n/9d Rajasthan luxury tour package with Global Tourist Centre — stay in palace‑heritage hotels across Jaipur, Udaipur, Jodhpur & Jaisalmer, enjoy private transfers, curated royal experiences, and seamless VIP service.",
+      "metadata": {
+        "title": "8N/9D Rajasthan Luxury Tour Package | Global Tourist Centre – Royal Heritage, 5★ Comfort",
+        "description": "The ultimate 8n/9d Rajasthan luxury tour package with Global Tourist Centre — stay in palace‑heritage hotels across Jaipur, Udaipur, Jodhpur & Jaisalmer, enjoy private transfers, curated royal experiences, and seamless VIP service."
       },
       itinerary: {
         title: "Royal Rajasthan Journey Through Palaces & Forts",
