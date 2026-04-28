@@ -23,7 +23,6 @@ export function DetailedTourHero({
 }: DetailedTourHeroProps) {
   return (
     <section className="relative h-[70vh] min-h-[520px] w-full overflow-hidden">
-      
       {/* Background Image */}
       <Image
         src={backgroundImage}
@@ -33,19 +32,14 @@ export function DetailedTourHero({
         className="object-cover"
       />
 
-      {/* Overlay (non-interactive) */}
-      <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/50 to-black/70 pointer-events-none z-10" />
-
-      {/* Header (force top layer + fixed positioning) */}
-      <div className="fixed top-0 left-0 w-full z-[999]">
-        <Header />
-      </div>
+      {/* Overlay */}
+      <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/50 to-black/70 pointer-events-none" />
+      <Header/>
 
       {/* Content */}
-      <div className="relative z-20 h-full">
+      <div className="relative z-10 h-full">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-end">
-          <div className="pb-16 pt-24 max-w-3xl text-white">
-            
+          <div className="pb-16 max-w-3xl text-white">
             {/* Title */}
             <h1 className="font-serif text-2xl sm:text-5xl md:text-5xl lg:text-6xl font-bold leading-tight">
               {title}
@@ -58,7 +52,6 @@ export function DetailedTourHero({
 
             {/* Meta */}
             <div className="mt-6 flex flex-wrap items-center gap-6 text-sm sm:text-base text-white/90">
-              
               {meta?.duration && (
                 <span className="flex items-center gap-2">
                   <Clock className="w-4 h-4" />
@@ -79,7 +72,6 @@ export function DetailedTourHero({
                   {meta.rating}
                 </span>
               )}
-
             </div>
           </div>
         </div>
