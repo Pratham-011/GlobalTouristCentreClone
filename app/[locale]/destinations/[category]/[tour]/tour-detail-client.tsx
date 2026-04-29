@@ -4,6 +4,7 @@ import { useI18n } from "@/lib/i18n/context";
 import type { TripId } from "@/lib/i18n/translations/index";
 import { galleryData } from "@/lib/data/galleryData";
 import { metaData } from "@/lib/data/metaData";
+import { QuickInfoData } from "@/lib/data/quickinfo";
 
 import { DetailedTourHero } from "@/components/tours/detailed-tour-hero";
 import { TourCtaBar } from "@/components/tours/tour-cta-bar";
@@ -66,7 +67,9 @@ export default function TourClient({ tourId }: TourClientProps) {
       {/* ======================================================
           QUICK INFO
       ======================================================= */}
-      {quickInfo?.length > 0 && <TourQuickInfo items={quickInfo} />}
+      {quickInfo?.length > 0 && QuickInfoData[tourId]?.quickInfo.length > 0 && (
+        <TourQuickInfo data={quickInfo} icondata={QuickInfoData[tourId].quickInfo} />
+      )}
 
       {/* ======================================================
           ITINERARY
