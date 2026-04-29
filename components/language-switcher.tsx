@@ -64,10 +64,14 @@ export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
     const basePath = stripLocaleFromPath(pathname);
     // Switch to English → no locale prefix
 if (newLocale === "en") {
-  window.location.href = basePath || "/";
+  const target = basePath || "/";
+  if (window.location.pathname === target) {
+    window.location.reload();
+  } else {
+    window.location.href = target;
+  }
   return;
 }
-
 
     // Switch to non-English → add locale prefix
     router.replace(`/${newLocale}${basePath === "/" ? "" : basePath}`);

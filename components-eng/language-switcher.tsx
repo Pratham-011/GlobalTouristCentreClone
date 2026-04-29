@@ -64,15 +64,19 @@ export function LanguageSwitcher({ variant = "dark" }: LanguageSwitcherProps) {
     const basePath = stripLocaleFromPath(pathname);
 
 
-    // Switch to English → no locale prefix
-    if (newLocale == "en") {
-      router.replace(basePath || "/");
-      router.refresh()
-      return;
-    }
+if (newLocale === "en") {
+  const target = basePath || "/";
+  if (window.location.pathname === target) {
+    window.location.reload();
+  } else {
+    window.location.href = target;
+  }
+  return;
+}
 
     // Switch to non-English → add locale prefix
-    router.replace(`/${newLocale}${basePath === "/" ? "" : basePath}`);
+  router.replace(`/${newLocale}${basePath === "/" ? "" : basePath}`);
+router.refresh();
   }
 
   return (
