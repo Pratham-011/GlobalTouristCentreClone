@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { MapPin } from "lucide-react";
-import { Header } from "@/components/header";
+import { Header } from "@/components-eng/header";
 
 // Define the shape of the hero_section data based on your JSON
 interface PackageHeroData {
@@ -48,7 +48,6 @@ export function PackageHero({ data }: PackageHeroProps) {
 
   return (
 <section className="relative h-[60vh] min-h-[500px] w-full flex flex-col items-center justify-end pb-12 md:justify-center md:pb-0 text-center overflow-hidden">
-  
   {/* Background Image */}
   <div className="absolute inset-0 z-0">
     <img
@@ -63,17 +62,12 @@ export function PackageHero({ data }: PackageHeroProps) {
       decoding="async"
       className="w-full h-full object-cover"
     />
-
-    {/* Gradient Overlay */}
-    <div className="absolute inset-0 bg-gradient-to-b from-[#0f2d40]/90 via-[#0f2d40]/60 to-[#0f2d40]/40 pointer-events-none" />
-  </div>
-
-  {/* ✅ HEADER — moved OUT and elevated */}
-  <div className="fixed top-0 left-0 w-full z-[999]">
     <Header />
+    {/* Gradient Overlay */}
+    <div className="absolute inset-0 bg-gradient-to-b from-[#0f2d40]/90 via-[#0f2d40]/60 to-[#0f2d40]/40" />
   </div>
 
-  {/* Content */}
+  {/* Content Container */}
   <div className="relative z-10 container mx-auto px-4 flex flex-col items-center pt-24 md:pt-28 lg:pt-20">
     {/* Premium Badge */}
     <div className="mb-6">
