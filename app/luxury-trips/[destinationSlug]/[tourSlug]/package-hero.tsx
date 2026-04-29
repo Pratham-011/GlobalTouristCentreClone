@@ -62,11 +62,11 @@ export function PackageHero({ data }: PackageHeroProps) {
       decoding="async"
       className="w-full h-full object-cover"
     />
-    <Header />
+
     {/* Gradient Overlay */}
     <div className="absolute inset-0 bg-gradient-to-b from-[#0f2d40]/90 via-[#0f2d40]/60 to-[#0f2d40]/40" />
   </div>
-
+    <Header />
   {/* Content Container */}
   <div className="relative z-10 container mx-auto px-4 flex flex-col items-center pt-24 md:pt-28 lg:pt-20">
     {/* Premium Badge */}
