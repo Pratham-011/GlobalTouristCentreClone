@@ -67,7 +67,12 @@ export default function TourClient({ tourId }: TourClientProps) {
           QUICK INFO
       ======================================================= */}
       {quickInfo?.length > 0 && QuickInfoData[tourId]?.quickInfo.length > 0 && <TourQuickInfo data={quickInfo} icondata={QuickInfoData[tourId].quickInfo} />}
-
+      {/* ======================================================
+          LEAD FORM (Conditional)
+      ======================================================= */}
+      {(tourId === "7n-8d-vietam-tour-package" || tourId === "singapore-tour-package") && (
+        <HorizontalLeadForm tourSlug={tourId} />
+      )}
       {/* ======================================================
           ITINERARY
       ======================================================= */}
@@ -80,12 +85,7 @@ export default function TourClient({ tourId }: TourClientProps) {
         <TourVisualJourney items={gallerydata} gallery={gallery} />
       )}
 
-      {/* ======================================================
-          LEAD FORM (Conditional)
-      ======================================================= */}
-      {(tourId === "7n-8d-vietam-tour-package" || tourId === "singapore-tour-package") && (
-        <HorizontalLeadForm tourSlug={tourId} />
-      )}
+
 
       {/* ======================================================
           INCLUSIONS

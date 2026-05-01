@@ -59,16 +59,13 @@ ${lf.numPeople}: ${data.numPeople}`;
   const destinationName = tourSlug === "7n-8d-vietam-tour-package" ? "Vietnam" : "Singapore";
 
   return (
-    <section className="bg-white py-16 border-b">
+    <section className="bg-white pb-10 border-b">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="bg-slate-50 rounded-3xl p-8 lg:p-12 shadow-sm border border-slate-100">
           <div className="text-center mb-10">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-4">
               {lf.title.replace("{destination}", destinationName)}
             </h2>
-            <p className="text-slate-600 max-w-2xl mx-auto">
-              {lf.subtitle}
-            </p>
           </div>
           
           <form 
