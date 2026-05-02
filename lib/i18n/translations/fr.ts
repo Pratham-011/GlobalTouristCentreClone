@@ -57,10 +57,10 @@ export const fr = {
       "title": "Excursions d'une journée – Meilleures visites pour voyageurs étrangers",
       "description": "Découvrez les meilleures excursions d’une journée pour voyageurs internationaux — cascades, faune, plages, temples et culture. Réservez votre aventure idéale d’une journée!"
     },
-    services: {
-      title: "Global Tourist Centre – Services : Visa, Hôtels & Forfaits Voyage",
-      description: "Explorez des solutions de voyage sur mesure avec Global Tourist Centre — assistance visa, réservations d’hôtels et forfaits de circuits nationaux/internationaux à Goa Sud.",
-    },
+  "services": {
+    "title": "Global Tourist Centre – Services : visas, hôtels et forfaits",
+    "description": "Découvrez des solutions de voyage sur mesure avec Global Tourist Centre — assistance visa, réservations d’hôtels et forfaits touristiques nationaux et internationaux."
+  },
     blog: {
       title: "Blog Global Tourist Centre – Récits de Voyage Inspirants & Guides",
       description: "Explorez le blog de voyage de Global Tourist Centre — découvrez des récits de voyage inspirants, des guides de destinations sélectionnés et des conseils de voyage de l’Inde et d’ailleurs pour nourrir votre envie de voyager.",

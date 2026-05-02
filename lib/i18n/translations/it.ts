@@ -61,12 +61,10 @@ export const it = {
       description:
         "Esplora le migliori escursioni giornaliere per visitatori internazionali — cascate, fauna, spiagge, templi e cultura. Prenota la tua avventura perfetta di un giorno!",
     },
-    services: {
-      title:
-        "Global Tourist Centre – Servizi: Visti, Hotel e Pacchetti Viaggio",
-      description:
-        "Esplora soluzioni di viaggio su misura con Global Tourist Centre — assistenza visti, prenotazioni alberghiere e pacchetti tour nazionali/internazionali a Goa Sud.",
-    },
+  "services": {
+    "title": "Global Tourist Centre – Servizi: visti, hotel e pacchetti viaggio",
+    "description": "Scopri soluzioni di viaggio personalizzate con Global Tourist Centre — assistenza per visti, prenotazioni alberghiere e pacchetti turistici nazionali e internazionali."
+  },
     blog: {
       title:
         "Blog Global Tourist Centre – Storie di viaggio ispiratrici e Guide",

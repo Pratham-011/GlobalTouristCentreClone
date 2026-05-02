@@ -58,10 +58,10 @@ export const de = {
       "title": "Tagesausflüge – Beste Eintagestouren für internationale Gäste",
       "description": "Entdecken Sie die besten Tagesausflüge für internationale Reisende — von Wasserfällen und Wildtieren bis hin zu Stränden, Tempeln und Kultur. Buchen Sie Ihr perfektes Eintagesabenteuer!"
     },
-    services: {
-      title: "Global Tourist Centre – Dienstleistungen: Visum, Hotels & Reisepakete",
-      description: "Entdecken Sie maßgeschneiderte Reiselösungen mit dem Global Tourist Centre – Visumsunterstützung, Hotelbuchungen sowie in- und ausländische Reisepakete in Süd-Goa.",
-    },
+  "services": {
+    "title": "Global Tourist Centre – Services: Visa, Hotels & Reisepakete",
+    "description": "Entdecken Sie maßgeschneiderte Reiselösungen mit Global Tourist Centre – Visa-Unterstützung, Hotelbuchungen sowie nationale und internationale Reisepakete."
+  },
     blog: {
       title: "Global Tourist Centre Blog – Inspirierende Reisegeschichten & Guides",
       description: "Erkunden Sie den Reiseblog des Global Tourist Centre – entdecken Sie inspirierende Reisegeschichten, kuratierte Reiseführer und Reisetipps aus Indien und der ganzen Welt, um Ihr Fernweh zu stillen.",
