@@ -60,7 +60,7 @@ export const en = {
     },
     services: {
       title: "Global Tourist Centre – Services: Visa, Hotels & Tour Packages",
-      description: "Explore tailored travel solutions with Global Tourist Centre—visa assistance, hotel bookings, and domestic/international tour packages in South Goa.",
+      description: "Explore tailored travel solutions with Global Tourist Centre—visa assistance, hotel bookings, and domestic/international tour packages etc.",
     },
     blog: {
       title: "Global Tourist Centre Blog – Inspiring Travel Stories & Guides",
@@ -660,7 +660,7 @@ export const en = {
       faq4Answer:
         "Definitely. For example, if your journey takes you from Mumbai to Sikkim to Andaman, we will book each hotel for the right nights across your trip. To make your travel seamless, we are here if you want to change your plans or add a stop later.",
       metadata: {
-        title: "Hotel Booking Services | Best Deals & Easy Booking - GTCe",
+        title: "Hotel Booking Services | Best Deals & Easy Booking - GTC",
         description: "Book hotels easily with our hotel booking services. Find the best deals, luxury and budget stays, and enjoy hassle-free reservations with expert travel support."
       }
     },
@@ -1516,7 +1516,7 @@ export const en = {
         "Experience God's Own Country with backwaters, hills, beaches, houseboat stay, tea plantations, and spice gardens.",
       duration: "5 Nights / 6 Days",
     },
-    "tamil-nadu-tour-package-from-goa": {
+    "tamil-nadu-tour-package": {
       title: "Tamil Nadu - Temple Tour",
       description:
         "Kanyakumari, Rameshwaram, Madurai temples & Ooty hill station - spiritual journey through South India's sacred sites.",
@@ -8952,6 +8952,7 @@ export const en = {
           "title": "Hyderabad Tour Package from Goa – Culture & City Highlights",
           "description": "Explore Hyderabad’s iconic sights from Goa — Charminar, Golconda Fort, local culture & cuisine with flights, transfers & guided experiences included."
         }
+
       },
       "cta": {
         "headline": "Ready to Explore Hyderabad?",
@@ -10821,7 +10822,7 @@ export const en = {
         }
       ]
     },
-    "tamil-nadu-tour-package-from-goa": {
+    "tamil-nadu-tour-package": {
       "file_name": "Tamil-Nadu-trip.html",
       "page": {
         "slug": "Tamil-Nadu-trip",

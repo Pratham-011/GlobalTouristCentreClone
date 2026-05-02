@@ -77,7 +77,7 @@ export const domesticTrips: Destination[] = [
   },
   {
     id: "dom-tamilnadu-009",
-    slug: "tamil-nadu-tour-package-from-goa",
+    slug: "tamil-nadu-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Tamil-Nadu.webp",
     category: "domestic",

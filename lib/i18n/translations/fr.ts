@@ -518,11 +518,10 @@ export const fr = {
         "Puis-je modifier un forfait standard au lieu d'en créer un nouveau ?",
       faq4Answer:
         "Absolument. Notre service de planification d'itinéraire est gratuit lorsque vous réservez votre tour avec nous. Veuillez noter que pour les itinéraires complexes nécessitant des recherches importantes, des frais de planification modiques peuvent s'appliquer, entièrement déductibles de votre montant de réservation final.",
-      metadata: {
-        title: "Forfaits Voyage Personnalisés - Global Tourist Centre",
-        description:
-          "Des expériences de voyage sur mesure conçues spécifiquement selon vos préférences et besoins.",
-      },
+  "metadata": {
+    "title": "Forfaits personnalisés | Plans de voyage sur mesure - GTC",
+    "description": "Créez vos vacances idéales avec nos forfaits personnalisés. Profitez d’itinéraires sur mesure, de plans flexibles et de solutions de voyage complètes avec un accompagnement expert."
+  },
     },
     // Visa Agent
     visaAgent: {
@@ -655,7 +654,7 @@ export const fr = {
       faq4Answer:
         "Certainement. Par exemple, si votre voyage vous emmène de Mumbai au Sikkim jusqu'aux Andaman, nous réserverons chaque hôtel pour les bonnes nuits tout au long de votre périple. Nous sommes là pour rendre vos déplacements parfaits, même si vous souhaitez modifier vos plans ou ajouter une étape ultérieurement.",
       metadata: {
-        title: "Services de réservation d’hôtels | Meilleures offres et réservation facile - GTCe",
+        title: "Services de réservation d’hôtels | Meilleures offres et réservation facile - GTC",
         description: "Réservez facilement des hôtels grâce à nos services de réservation. Trouvez les meilleures offres, des séjours de luxe ou économiques, et profitez de réservations sans tracas avec un accompagnement expert."
       },
     },
@@ -1490,7 +1489,7 @@ export const fr = {
         "Vivez le Pays de Dieu avec backwaters, collines, plages, bateau-maison, plantations de thé et jardins d'épices.",
       duration: "5 Nuits / 6 Jours",
     },
-    "tamil-nadu-tour-package-from-goa": {
+    "tamil-nadu-tour-package": {
       title: "Tamil Nadu - Tour des temples",
       description:
         "Kanyakumari, Rameshwaram, temples de Madurai & station de colline Ooty - voyage spirituel à travers les sites sacrés du Sud de l'Inde.",
@@ -5724,7 +5723,7 @@ export const fr = {
         slug: "bijapur-heritage-tour",
         type: "domestic-trip",
         hero: {
-           "title": "Forfait patrimoine Bijapur",
+          "title": "Forfait patrimoine Bijapur",
           subtitle:
             "1 nuit 2 jours à la découverte de l'historique Bijapur, du site Pattadakal classé au patrimoine mondial de l'UNESCO et des anciens temples d'Aihole",
           backgroundImage: "/assets/hero/Bijapur-hero.webp",
@@ -5735,10 +5734,10 @@ export const fr = {
           }
         },
         language: "fr",
-  "metadata": {
-    "title": "Circuit patrimoine Bijapur depuis Goa | 2N/3J – Réservez maintenant",
-    "description": "Réservez votre circuit patrimoine Bijapur depuis Goa avec hôtel et visites. Explorez Gol Gumbaz, forts et monuments. Places limitées — renseignez-vous maintenant !"
-  }
+        "metadata": {
+          "title": "Circuit patrimoine Bijapur depuis Goa | 2N/3J – Réservez maintenant",
+          "description": "Réservez votre circuit patrimoine Bijapur depuis Goa avec hôtel et visites. Explorez Gol Gumbaz, forts et monuments. Places limitées — renseignez-vous maintenant !"
+        }
       },
       cta: {
         headline: "Prêt à explorer le Karnataka historique ?",
@@ -6137,10 +6136,10 @@ export const fr = {
           }
         },
         language: "fr",
-  "metadata": {
-    "title": "Meilleur forfait Dandeli depuis Goa | Séjour aventure 1N/2J",
-    "description": "Vivez des sensations fortes avec rafting, kayak et séjour en jungle à Dandeli depuis Goa. Escapade parfaite de 2 jours. Réservez votre aventure dès aujourd’hui !"
-  }
+        "metadata": {
+          "title": "Meilleur forfait Dandeli depuis Goa | Séjour aventure 1N/2J",
+          "description": "Vivez des sensations fortes avec rafting, kayak et séjour en jungle à Dandeli depuis Goa. Escapade parfaite de 2 jours. Réservez votre aventure dès aujourd’hui !"
+        }
       },
       cta: {
         headline: "Prêt pour une aventure animalière ?",
@@ -6543,7 +6542,7 @@ export const fr = {
         },
         language: "fr",
         "metadata": {
-          "title": "Forfait Triangle d’or depuis Goa | 4 jours / 3 nuits",
+          "title": "Forfait Triangle d’or depuis Goa | 4 jours  3 nuits",
           "description": "Réservez un forfait Triangle d’or de 4 jours et 3 nuits depuis Goa couvrant Delhi, Agra et Jaipur. Comprend visites guidées, hôtels et transferts."
         }
       },
@@ -7252,10 +7251,10 @@ export const fr = {
           }
         },
         language: "fr",
-  "metadata": {
-    "title": "Forfait Hyderabad depuis Goa – Culture et incontournables",
-    "description": "Explorez les sites emblématiques d’Hyderabad depuis Goa — Charminar, fort de Golconde, culture et cuisine locales avec vols, transferts et expériences guidées inclus."
-  }
+        "metadata": {
+          "title": "Forfait Hyderabad depuis Goa – Culture et incontournables",
+          "description": "Explorez les sites emblématiques d’Hyderabad depuis Goa — Charminar, fort de Golconde, culture et cuisine locales avec vols, transferts et expériences guidées inclus."
+        }
       },
       cta: {
         headline: "Prêt à explorer Hyderabad?",
@@ -7462,7 +7461,7 @@ export const fr = {
         slug: "jodhpur-tour-package-from-goa-3N4D",
         type: "domestic-trip",
         hero: {
-           "title": "Forfait Jodhpur",
+          "title": "Forfait Jodhpur",
           subtitle:
             "3 nuits 4 jours à la découverte de la ville bleue et de la ville dorée du Rajasthan avec safari dans le désert et expériences culturelles",
           backgroundImage: "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
@@ -7473,10 +7472,10 @@ export const fr = {
           }
         },
         language: "fr",
-  "metadata": {
-    "title": "Forfait Jodhpur depuis Goa | Voyage 2N/3J « Ville bleue » – Réservez maintenant",
-    "description": "Découvrez la beauté royale de Jodhpur depuis Goa. Visitez forts, palais et marchés locaux. Réservez dès aujourd’hui votre voyage au Rajasthan !"
-  }
+        "metadata": {
+          "title": "Forfait Jodhpur depuis Goa | Voyage 2N/3J « Ville bleue » – Réservez maintenant",
+          "description": "Découvrez la beauté royale de Jodhpur depuis Goa. Visitez forts, palais et marchés locaux. Réservez dès aujourd’hui votre voyage au Rajasthan !"
+        }
       },
       cta: {
         headline: "Prêt à explorer le Rajasthan ?",
@@ -9704,7 +9703,7 @@ export const fr = {
         },
       ],
     },
-    "tamil-nadu-tour-package-from-goa": {
+    "tamil-nadu-tour-package": {
       file_name: "Tamil-Nadu-trip.html",
       page: {
         slug: "Tamil-Nadu-trip",
@@ -13546,10 +13545,10 @@ export const fr = {
           "Jusqu'à 25% de réduction sur les réservations anticipées",
         image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      "metadata": {
-        "title": "Tour de Luxe Triangle d'Or | Circuit Premium Delhi-Agra-Jaipur – GTC",
-        "description": "Tour exclusif avec séjours dans des palais de patrimoine, chauffeur privé, visites VIP et expériences sur mesure pour voyageurs exigeants."
-      },
+  "metadata": {
+    "title": "Circuit de luxe Triangle d’or | Itinéraire premium Delhi–Agra–Jaipur – GTC",
+    "description": "Profitez d’un circuit de luxe exclusif Triangle d’or avec Global Tourist Centre : séjours dans des palais patrimoniaux, transferts privés avec chauffeur, visites VIP de Delhi, Agra et Jaipur et expériences sur mesure pour les voyageurs exigeants."
+  },
       toursSection: {
         title: "Forfaits Premium Triangle d'Or",
         packages: [
@@ -13741,10 +13740,10 @@ export const fr = {
           "Jusqu'à 25% de réduction sur les réservations anticipées",
         image: "/assets/Luxury/Karnataka/hero.webp",
       },
-      "metadata": {
-        "title": "Tour de Luxe au Karnataka – Expérience Sur Mesure & Faune | GTC",
-        "description": "Tour inoubliable au Karnataka : palais royaux, héritage de Mysore, safaris à Bandipur, détente dans les Ghâts Occidentaux et gastronomie."
-      },
+  "metadata": {
+    "title": "Circuit de luxe Karnataka – Expérience sur mesure patrimoine et nature | GTC",
+    "description": "Partez pour un voyage de luxe inoubliable au Karnataka avec Global Tourist Centre. Séjournez dans des palais royaux, explorez le patrimoine de Mysore, découvrez les safaris de Bandipur, détendez-vous dans les Ghâts occidentaux et profitez de guides privés et de gastronomie raffinée."
+  },
       toursSection: {
         title: "Forfaits Voyage Premium Karnataka",
         packages: [
@@ -14245,10 +14244,10 @@ export const fr = {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      metadata: {
-        title: "Forfait de luxe Triangle d’or 6N/7J | Global Tourist Centre",
-        description: "Partez pour notre forfait de luxe Triangle d’or 6N/7J avec Global Tourist Centre — palais patrimoniaux haut de gamme, transferts privés avec chauffeur, lever de soleil au Taj Mahal, séjours royaux à Jaipur et service impeccable pour les voyageurs exigeants."
-      },
+  "metadata": {
+    "title": "Circuit de luxe Triangle d’or 6N/7J | Global Tourist Centre",
+    "description": "Partez pour un circuit de luxe Triangle d’or de 6 nuits et 7 jours avec Global Tourist Centre — séjours dans des palais patrimoniaux premium, transferts privés avec chauffeur, lever de soleil au Taj Mahal, hôtels royaux à Jaipur et service irréprochable pour les voyageurs exigeants."
+  },
       itinerary: {
         title: "Un voyage au cœur de la culture indienne",
         days: [
@@ -14662,8 +14661,8 @@ export const fr = {
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
       "metadata": {
-        "title": "Circuit de luxe Triangle d’or 4N/5J | Global Tourist Centre",
-        "description": "Découvrez notre forfait exclusif de luxe Triangle d’or 4N/5J avec Global Tourist Centre. Séjournez dans des palais historiques, voyagez avec chauffeur privé de Delhi à Agra et Jaipur, et profitez de visites VIP et d’expériences haut de gamme conçues pour les voyageurs exigeants."
+        "title": "Circuit de luxe Triangle d’or | Itinéraire premium Delhi–Agra–Jaipur – GTC",
+        "description": "Profitez d’un circuit de luxe exclusif Triangle d’or avec Global Tourist Centre : séjours dans des palais patrimoniaux, transferts privés avec chauffeur, visites VIP de Delhi, Agra et Jaipur et expériences sur mesure pour les voyageurs exigeants."
       },
       itinerary: {
         title: "Voyage au cœur du patrimoine culturel de l'Inde",

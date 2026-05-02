@@ -41,7 +41,7 @@ export const TOUR_CATEGORIES = {
     "rajasthan-royal-tour-from-goa", // temporarily removed (used in desination.ts)  // verified
     "north-india-heritage-tour-from-goa", // verified
     "mathura-vrindavan-tour", // verified
-    "tamil-nadu-tour-package-from-goa", //verified
+    "tamil-nadu-tour-package", //verified
     "kashmir-tour-package-from-goa", // verified
     "sikkim-darjeeling-gangtok-tour-from-goa", // verified
     "lakshadweep-islands-tour-package", // verified

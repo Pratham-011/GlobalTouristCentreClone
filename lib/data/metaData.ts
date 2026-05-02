@@ -284,7 +284,7 @@ export const metaData: Record<string, any> = {
       rating: "4.9/5 Rating",
     },
   },
-  "tamil-nadu-tour-package-from-goa": {
+  "tamil-nadu-tour-package": {
     meta: {
       duration: "7 Days",
       locations: 15,

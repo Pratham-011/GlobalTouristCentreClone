@@ -1415,7 +1415,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "tamil-nadu-tour-package-from-goa": {
+  "tamil-nadu-tour-package": {
     gallery: [
       {
         title: "Meenakshi Temple",

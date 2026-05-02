@@ -523,11 +523,10 @@ export const de = {
         "Kann ich ein Standardpaket anpassen, anstatt ein neues zu erstellen?",
       faq4Answer:
         "Absolut. Unser Reiseplanungsservice ist kostenlos, wenn Sie Ihre Tour bei uns buchen. Bitte beachten Sie, dass für komplexe Reisepläne, die umfangreiche Recherchen erfordern, eine geringe Planungsgebühr anfallen kann, die vollständig von Ihrem endgültigen Buchungsbetrag abgezogen wird.",
-      metadata: {
-        title: "Individuelle Reisepakete - Global Tourist Centre",
-        description:
-          "Maßgeschneiderte Reiseerlebnisse, die speziell auf Ihre Vorlieben und Bedürfnisse zugeschnitten sind.",
-      },
+  "metadata": {
+    "title": "Individuelle Reisepakete | Personalisierte Reisepläne - GTC",
+    "description": "Gestalten Sie Ihren perfekten Urlaub mit unseren individuellen Reisepaketen. Erhalten Sie maßgeschneiderte Reiserouten, flexible Pläne und umfassende Reiselösungen mit professioneller Unterstützung."
+  },
     },
     // Visa Agent
     visaAgent: {
@@ -660,7 +659,7 @@ export const de = {
       faq4Answer:
         "Selbstverständlich. Wenn Ihre Reise Sie beispielsweise von Mumbai nach Sikkim bis zu den Andamanen führt, buchen wir jedes Hotel für die richtigen Nächte auf Ihrer gesamten Reise. Wir sind für Sie da, um Ihren Aufenthalt nahtlos zu gestalten – auch wenn Sie die Pläne später ändern oder eine Etappe hinzufügen möchten.",
       metadata: {
-        title: "Hotelbuchungsservices | Beste Angebote & einfache Buchung - GTCe",
+        title: "Hotelbuchungsservices | Beste Angebote & einfache Buchung - GTC",
         description: "Buchen Sie Hotels ganz einfach mit unseren Hotelbuchungsservices. Finden Sie die besten Angebote, Luxus- und Budgetunterkünfte und genießen Sie eine reibungslose Reservierung mit professioneller Unterstützung."
       },
     },
@@ -1499,7 +1498,7 @@ export const de = {
         "Erleben Sie Gottes eigenes Land mit Backwaters, Hügeln, Stränden, Hausboot-Aufenthalt, Teepflanzungen und Gewürzgärten.",
       duration: "5 Nächte / 6 Tage",
     },
-    "tamil-nadu-tour-package-from-goa": {
+    "tamil-nadu-tour-package": {
       title: "Tamil Nadu - Tempel-Tour",
       description:
         "Kanyakumari, Rameshwaram, Madurai-Tempel & Ooty-Bergstation - spirituelle Reise durch Südindiens heilige Stätten.",
@@ -5732,7 +5731,7 @@ export const de = {
         slug: "bijapur-heritage-tour",
         type: "domestic-trip",
         hero: {
-           "title": "Bijapur Heritage-Reisepaket",
+          "title": "Bijapur Heritage-Reisepaket",
           subtitle:
             "1 Nacht 2 Tage Erkundung des historischen Bijapur, des UNESCO-Weltkulturerbes Pattadakal und der antiken Aihole-Tempel",
           backgroundImage: "/assets/hero/Bijapur-hero.webp",
@@ -5743,10 +5742,10 @@ export const de = {
           }
         },
         language: "de",
-  "metadata": {
-    "title": "Bijapur Heritage-Tour ab Goa | 2N/3T Historische Reise – Jetzt buchen",
-    "description": "Buchen Sie ein Bijapur Heritage-Reisepaket ab Goa mit Hotel und Besichtigungen. Entdecken Sie Gol Gumbaz, Festungen und Monumente. Begrenzte Plätze – jetzt anfragen!"
-  }
+        "metadata": {
+          "title": "Bijapur Heritage-Tour ab Goa | 2N/3T Historische Reise – Jetzt buchen",
+          "description": "Buchen Sie ein Bijapur Heritage-Reisepaket ab Goa mit Hotel und Besichtigungen. Entdecken Sie Gol Gumbaz, Festungen und Monumente. Begrenzte Plätze – jetzt anfragen!"
+        }
       },
       cta: {
         headline: "Sind Sie bereit, das historische Karnataka zu erkunden?",
@@ -6146,10 +6145,10 @@ export const de = {
           }
         },
         language: "de",
-  "metadata": {
-    "title": "Bestes Dandeli-Reisepaket ab Goa | 1N/2T Abenteuertrip-Angebote",
-    "description": "Erleben Sie aufregendes Rafting, Kajakfahren und Dschungelaufenthalte in Dandeli ab Goa. Perfekter 2-Tage-Ausflug. Buchen Sie Ihr Abenteuer noch heute!"
-  }
+        "metadata": {
+          "title": "Bestes Dandeli-Reisepaket ab Goa | 1N/2T Abenteuertrip-Angebote",
+          "description": "Erleben Sie aufregendes Rafting, Kajakfahren und Dschungelaufenthalte in Dandeli ab Goa. Perfekter 2-Tage-Ausflug. Buchen Sie Ihr Abenteuer noch heute!"
+        }
       },
       cta: {
         headline: "Bereit für ein Wildlife-Abenteuer?",
@@ -6566,7 +6565,7 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Golden-Triangle-Reisepaket ab Goa | 4 Tage / 3 Nächte",
+          "title": "Golden-Triangle-Reisepaket ab Goa | 4 Tage  3 Nächte",
           "description": "Buchen Sie ein 4 Tage/3 Nächte Golden-Triangle-Reisepaket ab Goa mit Delhi, Agra und Jaipur. Inklusive geführte Touren, Hotels und Transfers."
         }
       },
@@ -7162,10 +7161,10 @@ export const de = {
           }
         },
         language: "de",
-  "metadata": {
-    "title": "Hyderabad-Reisepaket ab Goa – Kultur & Stadthighlights",
-    "description": "Entdecken Sie Hyderabads ikonische Sehenswürdigkeiten ab Goa – Charminar, Golconda-Fort, lokale Kultur und Küche inklusive Flügen, Transfers und geführten Erlebnissen."
-  }
+        "metadata": {
+          "title": "Hyderabad-Reisepaket ab Goa – Kultur & Stadthighlights",
+          "description": "Entdecken Sie Hyderabads ikonische Sehenswürdigkeiten ab Goa – Charminar, Golconda-Fort, lokale Kultur und Küche inklusive Flügen, Transfers und geführten Erlebnissen."
+        }
       },
       cta: {
         headline: "Sind Sie bereit, Hyderabad zu erkunden?",
@@ -7372,8 +7371,8 @@ export const de = {
         slug: "jodhpur-tour-package-from-goa-3N4D",
         type: "domestic-trip",
         hero: {
-          
-  "title": "Jodhpur Reisepaket",
+
+          "title": "Jodhpur Reisepaket",
           subtitle:
             "3 Nächte, 4 Tage Erkundung der Blauen und Goldenen Stadt Rajasthans mit Wüstensafari und kulturellen Erlebnissen",
           backgroundImage: "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
@@ -7384,10 +7383,10 @@ export const de = {
           }
         },
         language: "de",
-  "metadata": {
-    "title": "Jodhpur-Reisepaket ab Goa | 2N/3T Blaue-Stadt-Reise – Jetzt buchen",
-    "description": "Erleben Sie die königliche Schönheit von Jodhpur ab Goa. Besuchen Sie Festungen, Paläste und lokale Märkte. Buchen Sie noch heute Ihre Rajasthan-Reise!"
-  }
+        "metadata": {
+          "title": "Jodhpur-Reisepaket ab Goa | 2N/3T Blaue-Stadt-Reise – Jetzt buchen",
+          "description": "Erleben Sie die königliche Schönheit von Jodhpur ab Goa. Besuchen Sie Festungen, Paläste und lokale Märkte. Buchen Sie noch heute Ihre Rajasthan-Reise!"
+        }
       },
       cta: {
         headline: "Bereit, Rajasthan zu erkunden?",
@@ -9637,7 +9636,7 @@ export const de = {
         },
       ],
     },
-    "tamil-nadu-tour-package-from-goa": {
+    "tamil-nadu-tour-package": {
       file_name: "Tamil-Nadu-trip.html",
       page: {
         slug: "Tamil-Nadu-trip",
@@ -9804,7 +9803,7 @@ export const de = {
         slug: "Varanasi-2N3D",
         type: "domestic-trip",
         hero: {
-          title: "Varanasi Reise (2 Nächte - 3 Tage)",
+          "title": "Varanasi 2N/3T Reisepaket",
           subtitle:
             "Eine spirituelle Reise in die antike Stadt Varanasi mit Sarnath, Ganga Aarti, Tempeltouren und Ganges-Bootsfahrt",
           backgroundImage: "/assets/hero/Varanasi-hero.webp",
@@ -9816,8 +9815,8 @@ export const de = {
         },
         language: "de",
         "metadata": {
-          "title": "Varanasi Reise (2 Nächte - 3 Tage)",
-          "description": "Buchen Sie Ihr 2-Nächte 3-Tage spirituelles Erlebnis in der antiken Stadt Varanasi."
+          "title": "Varanasi-Reisepaket ab Goa | 2N/3T spirituelle Reise – Jetzt buchen",
+          "description": "Erleben Sie den spirituellen Charme von Varanasi mit unserem Goa-Reisepaket. Inklusive Tempelbesuche, Ganga Aarti und Unterkunft. Buchen Sie noch heute Ihre spirituelle Reise!"
         }
       },
       cta: {
@@ -13467,10 +13466,10 @@ export const de = {
         discountBadge: "Bis zu 25% RABATT bei Frühbuchung",
         image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      "metadata": {
-        "title": "Luxus Golden Triangle Tour | Premium Delhi-Agra-Jaipur Route – GTC",
-        "description": "Genießen Sie eine exklusive Luxus-Tour durch das Goldene Dreieck mit dem Global Tourist Centre: Verwöhnende Aufenthalte in historischen Palästen, private Chauffeur-Transfers, VIP-Besichtigungen in Delhi, Agra & Jaipur und kuratierte Erlebnisse für anspruchsvolle Reisende."
-      },
+  "metadata": {
+    "title": "Luxus-Golden-Triangle-Tour | Premium Delhi–Agra–Jaipur Route – GTC",
+    "description": "Genießen Sie eine exklusive Luxus-Golden-Triangle-Tour mit Global Tourist Centre: Aufenthalte in Heritage-Palästen, private Chauffeur-Transfers, VIP-Besichtigungen in Delhi, Agra und Jaipur sowie kuratierte Erlebnisse für anspruchsvolle Reisende."
+  },
 
       toursSection: {
         title: "Premium Goldenes Dreieck Reisepakete",
@@ -13668,10 +13667,10 @@ export const de = {
         discountBadge: "Bis zu 25% RABATT bei Frühbuchung",
         image: "/assets/Luxury/Karnataka/hero.webp",
       },
-      "metadata": {
-        "title": "Karnataka Luxus-Tour – Individuelles Erbe & Wildtier-Erlebnis | GTC",
-        "description": "Begeben Sie sich auf eine unvergessliche Karnataka Luxus-Tour mit dem Global Tourist Centre. Übernachten Sie in königlichen Palästen, erkunden Sie Mysurus regales Erbe, tauchen Sie ein in Bandipurs wilde Safaris, entspannen Sie in den Westghats und genießen Sie private Guides sowie exquisites Speisen mit Stil."
-      },
+  "metadata": {
+    "title": "Karnataka Luxusreise – Maßgeschneiderte Heritage- & Wildlife-Erlebnisse | GTC",
+    "description": "Begeben Sie sich auf eine unvergessliche Karnataka-Luxusreise mit Global Tourist Centre. Übernachten Sie in königlichen Palästen, entdecken Sie das Erbe von Mysore, erleben Sie Safaris im Bandipur-Nationalpark, entspannen Sie in den Western Ghats und genießen Sie private Guides sowie Gourmetküche."
+  },
 
       toursSection: {
         title: "Premium Karnataka Reisepakete",
@@ -14171,10 +14170,10 @@ export const de = {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-      "metadata": {
-        "title": "Luxus-Golden-Triangle-Reise 6N/7T | Global Tourist Centre",
-        "description": "Begeben Sie sich auf unsere 6N/7T Luxus-Golden-Triangle-Reise mit Global Tourist Centre – erstklassige Heritage-Paläste, private Chauffeur-Transfers, Taj Mahal bei Sonnenaufgang, königliche Aufenthalte in Jaipur und erstklassiger Service für anspruchsvolle Reisende."
-      },
+  "metadata": {
+    "title": "Luxus-Golden-Triangle-Tour 6N/7T | Global Tourist Centre",
+    "description": "Erleben Sie unsere 6 Nächte/7 Tage Luxus-Golden-Triangle-Tour mit Global Tourist Centre – Aufenthalte in erstklassigen Heritage-Palästen, private Chauffeur-Transfers, Taj Mahal bei Sonnenaufgang, königliche Hotels in Jaipur und erstklassiger Service für anspruchsvolle Reisende."
+  },
       itinerary: {
         title: "Eine Reise durch Indiens kulturelles Herzstück",
         days: [

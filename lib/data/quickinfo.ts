@@ -1,4 +1,4 @@
-export const QuickInfoData : Record<string, any> ={
+export const QuickInfoData: Record<string, any> = {
   "wondrous-wildernest-tour-package": {
     "quickInfo": [
       {
@@ -1223,7 +1223,7 @@ export const QuickInfoData : Record<string, any> ={
       }
     ]
   },
-  "tamil-nadu-tour-package-from-goa": {
+  "tamil-nadu-tour-package": {
     "quickInfo": [
       {
         "title": "Small Groups",

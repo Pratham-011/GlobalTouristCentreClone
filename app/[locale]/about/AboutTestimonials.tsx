@@ -58,9 +58,9 @@ export function AboutTestimonials() {
       <div className="max-w-7xl mx-auto px-4 text-left">
         {/* Heading */}
         <div className="relative inline-block">
-          <h1 className="font-serif text-4xl sm:text-5xl font-bold text-gray-900 pb-3">
+          <h2 className="font-serif text-4xl sm:text-5xl font-bold text-gray-900 pb-3">
             {t.testimonials.whatTravelersSay}
-          </h1>
+          </h2>
           <span
             aria-hidden="true"
             className="

@@ -8,9 +8,9 @@ const ContactTitle = () => {
   return (
     <div className="mb-16">
       <div className="relative inline-block">
-        <h1 className="font-serif text-4xl sm:text-5xl font-bold text-gray-900 mb-3">
+        <h2 className="font-serif text-4xl sm:text-5xl font-bold text-gray-900 mb-3">
           {t.contact.mainTitle}
-        </h1>
+        </h2>
 
         <span
           aria-hidden="true"
