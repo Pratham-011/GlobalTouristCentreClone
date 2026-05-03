@@ -13467,7 +13467,7 @@ export const de = {
         image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
   "metadata": {
-    "title": "Luxus-Golden-Triangle-Tour | Premium Delhi–Agra–Jaipur Route – GTC",
+    "title": "Luxuriöse Goldene-Dreieck-Tour | Premiumroute Delhi–Agra–Jaipur – GTC",
     "description": "Genießen Sie eine exklusive Luxus-Golden-Triangle-Tour mit Global Tourist Centre: Aufenthalte in Heritage-Palästen, private Chauffeur-Transfers, VIP-Besichtigungen in Delhi, Agra und Jaipur sowie kuratierte Erlebnisse für anspruchsvolle Reisende."
   },
 
@@ -14336,6 +14336,7 @@ export const de = {
         "title": "Rajasthan Luxusreise 6N/7T | Global Tourist Centre",
         "description": "Begeben Sie sich auf eine 6N/7T Rajasthan Luxusreise mit Global Tourist Centre – Übernachten Sie in Palast- und Heritage-Hotels, erkunden Sie Jaipur, Udaipur, Jodhpur und Jaisalmer und genießen Sie private Transfers, kuratierte Erlebnisse und königlichen Service."
       },
+      
       footer: {
         about:
           "Wir verwandeln Ihre Träume seit 2010 in unvergessliche Abenteuer. Ihr vertrauenswürdiger Reisepartner für maßgeschneiderte Touren.",
