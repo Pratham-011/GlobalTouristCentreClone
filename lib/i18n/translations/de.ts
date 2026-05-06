@@ -2032,10 +2032,10 @@ export const de = {
           }
         },
         "language": "de",
-        "metadata": {
-          "title": "Nord-Goa Tour: Strände, Fort Aguada & Küsten-Highlights entdecken",
-          "description": "Erleben Sie Nord-Goa an einem Tag mit Stränden, Forts und lebhaften Märkten auf einer geführten Tour. Genießen Sie malerische Ausblicke und lokale Kultur. Buchen Sie jetzt Ihre Reise!"
-        }
+  "metadata": {
+    "title": "Nord-Goa Tour: Strände, Fort Aguada & Küsten-Highlights",
+    "description": "Erleben Sie Nord-Goa an einem Tag mit Stränden, Forts und lebhaften Märkten auf einer geführten Tour. Genießen Sie malerische Ausblicke und lokale Kultur. Jetzt buchen!"
+  }
       },
       "cta": {
         "headline": "Bereit, Nordgoa zu erkunden?",
@@ -2751,10 +2751,10 @@ export const de = {
           }
         },
         "language": "de",
-        "metadata": {
-          "title": "Süd-Goa Eintagestour für internationale Reisende in Indien",
-          "description": "Entdecken Sie Süd-Goa an einem Tag – Agonda, Palolem, Butterfly- und Cola-Strände, Kajakfahren, Cabo de Rama Fort und Sonnenuntergang. Perfekt für internationale Reisende in Indien."
-        }
+  "metadata": {
+    "title": "Süd-Goa Tagesausflug für internationale Reisende in Indien",
+    "description": "Entdecken Sie Süd-Goa an einem Tag – Agonda, Palolem, Butterfly- und Cola-Strände, Kajakfahren, Cabo de Rama Fort und Sonnenuntergang. Perfekt für internationale Reisende in Indien."
+  }
       },
       "cta": {
         "headline": "Bereit für Ihr Südgoa-Abenteuer?",
@@ -3108,10 +3108,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Dandeli Elefanten-Safari & Abenteuer Tagesausflug",
-          "description": "Erleben Sie einen eintägigen Dandeli-Ausflug mit Elefantensafari, Jeepfahrt, Rafting, Kajakfahren und natürlichem Jacuzzi. Perfekt für Natur- und Abenteuerliebhaber."
-        }
+  "metadata": {
+    "title": "Dandeli Tagesausflug: Elefantensafari & Abenteuer",
+    "description": "Erleben Sie einen eintägigen Ausflug nach Dandeli mit Elefantensafari, Jeepfahrt, Rafting, Kajakfahren und natürlichem Jacuzzi. Perfekt für Natur- und Abenteuerliebhaber."
+  }
       },
       cta: {
         headline: "Bereit für Ihr Dandeli-Abenteuer?",
@@ -3641,10 +3641,10 @@ export const de = {
           }
         },
         "language": "de",
-        "metadata": {
-          "title": "Luxus-Yacht-Tagesausflug Goa: Private Kreuzfahrt, Sonnenuntergang & Premium-Erlebnis",
-          "description": "Genießen Sie eine Luxus-Yachttour in Goa mit privater Kreuzfahrt, Sonnenuntergangsblick und Premium-Erlebnis an Bord. Perfekt für Partys, Paare und unvergessliche Momente!"
-        }
+  "metadata": {
+    "title": "Luxus-Yacht Tagesausflug Goa: Private Kreuzfahrt, Sonnenuntergang & Premium-Erlebnis",
+    "description": "Genießen Sie einen Luxus-Yacht-Tagesausflug in Goa mit privater Kreuzfahrt, Sonnenuntergang und Premium-Erlebnis an Bord. Perfekt für Partys, Paare und unvergessliche Momente!"
+  }
       },
       cta: {
         headline: "Reservieren Sie Ihr Luxusyacht-Erlebnis",
@@ -3826,10 +3826,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Mumbai Tagesausflug ab Goa für internationale Reisende",
-          "description": "Fliegen Sie von Goa für eine eintägige Mumbai-Tour. Besuchen Sie das Gateway of India, Dharavi, Dhobi Ghat und UNESCO-Stätten mit einem Guide – perfekt für internationale Reisende in Indien."
-        }
+  "metadata": {
+    "title": "Mumbai Tagesausflug ab Goa für internationale Reisende",
+    "description": "Fliegen Sie von Goa für einen eintägigen Mumbai-Ausflug. Erkunden Sie Gateway of India, Dharavi, Dhobi Ghat und UNESCO-Stätten mit Guide – perfekt für internationale Reisende in Indien."
+  }
 
       },
       cta: {
@@ -4813,10 +4813,10 @@ export const de = {
           "meta": {}
         },
         language: "de",
-        "metadata": {
-          "title": "Aurangabad 1N/2T Tour mit Ajanta- & Ellora-Höhlen",
-          "description": "Erleben Sie die Ajanta- und Ellora-Höhlen, Bibi Ka Maqbara und das Daulatabad Fort mit einer 1N/2T Reise nach Aurangabad. Inklusive Hotelaufenthalt, geführte Touren und Eintrittskarten."
-        }
+  "metadata": {
+    "title": "Aurangabad 1N/2T Tour mit Ajanta- & Ellora-Höhlen",
+    "description": "Erleben Sie die Ajanta- und Ellora-Höhlen, Bibi Ka Maqbara und das Daulatabad Fort auf einer 1N/2T Reise nach Aurangabad. Inklusive Hotelaufenthalt, geführter Touren und Eintrittskarten."
+  }
       },
       cta: {
         headline: "Bereit für Ihr Aurangabad-Abenteuer?",
@@ -6963,10 +6963,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Hampi 1N/2T Reisepaket ab Goa mit Unterkunft & Besichtigungen",
-          "description": "Entdecken Sie die UNESCO-Welterbestätten von Hampi mit einer 1N/2T Reise ab Goa. Inklusive Hotelaufenthalt, geführte Besichtigungen, Coracle-Fahrt und Eintrittskarten zu den Monumenten."
-        }
+  "metadata": {
+    "title": "Hampi 1N/2T Reisepaket ab Goa mit Unterkunft & Besichtigungen",
+    "description": "Entdecken Sie Hampis UNESCO-Welterbestätten auf einer 1N/2T Reise ab Goa. Inklusive Hotelaufenthalt, geführter Besichtigungen, Coracle-Fahrt und Eintrittskarten für Monumente."
+  }
       },
       cta: {
         headline: "Bereit für Ihr Hampi-Abenteuer?",
@@ -9298,10 +9298,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Goa–Shimoga Safari: Yana-Höhlen & Jog Falls 2-Tage-Reise",
-          "description": "Erleben Sie einen 2-tägigen Natur- und Wildtierausflug ab Goa. Entdecken Sie die Yana-Höhlen, Shimoga-Safari, den Aghoreshwara-Tempel und die Jog Falls mit geführten Touren."
-        }
+  "metadata": {
+    "title": "Goa nach Shimoga Safari: Yana-Höhlen & Jog Falls 2-Tage-Reise",
+    "description": "Erleben Sie einen 2-tägigen Natur- und Wildlife-Ausflug ab Goa. Entdecken Sie die Yana-Höhlen, Shimoga-Safari, den Aghoreshwara-Tempel und die Jog Falls mit geführten Touren."
+  }
       },
       cta: {
         headline: "Bereit für Ihr Natur- und Wildtierabenteuer in Shimoga?",
@@ -10809,10 +10809,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Buchen Sie das Thailand 7N/8T Reisepaket mit 30% Rabatt nur ab Goa",
-          "description": "Buchen Sie Ihre 7 Nächte/8 Tage Thailand-Reise ab Goa mit 30% Rabatt. Besuchen Sie Bangkok, Pattaya, Krabi und Phuket inklusive Coral Island, Phi Phi Inseln, Stadttouren und Transfers."
-        }
+  "metadata": {
+    "title": "Thailand 7N/8T Reisepaket mit 30% Rabatt nur ab Goa buchen",
+    "description": "Buchen Sie eine 7 Nächte/8 Tage Thailand-Reise ab Goa mit 30% Rabatt. Besuchen Sie Bangkok, Pattaya, Krabi und Phuket mit Coral Island, Phi Phi Inseln, Stadtrundfahrten und Transfers."
+  }
       },
       cta: {
         headline: "Bereit für Ihr Thailand-Abenteuer?",
@@ -11164,10 +11164,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "6N/7T Bali-Reisepaket – 30% Rabatt nur für Einwohner von Goa | Jetzt buchen",
-          "description": "Erleben Sie Bali mit diesem 6N/7T Reisepaket mit exklusiven 30% Rabatt nur für Einwohner von Goa – genießen Sie Strände, Tempel, Wassersport und Inselausflüge. Begrenztes Angebot – jetzt buchen!"
-        }
+  "metadata": {
+    "title": "Bali 6N/7T Reisepaket – 30% Rabatt nur für Goa-Bewohner | Jetzt buchen",
+    "description": "Erleben Sie Bali mit diesem 6N/7T Reisepaket mit exklusiven 30% Rabatt nur für Bewohner von Goa – genießen Sie Strände, Tempel, Wassersport und Inselrundfahrten. Begrenztes Angebot – jetzt buchen!"
+  }
       },
       cta: {
         headline: "Bereit für Ihr Aserbaidschan-Abenteuer?",
@@ -11815,10 +11815,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "6N/7T Georgien-Reisepaket – 30% Rabatt nur für Einwohner von Goa | Jetzt buchen",
-          "description": "Entdecken Sie Georgien mit unserem 6N/7T Reisepaket ab Goa. Besuchen Sie Tiflis, Kazbegi und die malerischen Landschaften des Kaukasus mit Sonderangeboten. Buchen Sie Ihre Reise noch heute!"
-        }
+  "metadata": {
+    "title": "Georgien 6N/7T Reisepaket – 30% Rabatt nur für Goa-Bewohner | Jetzt buchen",
+    "description": "Entdecken Sie Georgien mit unserem 6N/7T Reisepaket ab Goa. Besuchen Sie Tiflis, Kazbegi und die malerischen Kaukasuslandschaften mit Sonderangeboten. Buchen Sie noch heute Ihre Reise!"
+  }
       },
       cta: {
         headline: "Bereit für Ihr Georgia-Abenteuer?",
@@ -12151,10 +12151,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "4N/5T Kasachstan-Reisepaket ab Goa – Berge, Seen & Städtereise-Angebot",
-          "description": "Entdecken Sie Almaty mit unserem 4N/5T Kasachstan-Reisepaket ab Goa. Besuchen Sie Skigebiete, Seen und Stadtattraktionen mit Sonderangeboten. Buchen Sie Ihre internationale Auszeit noch heute!"
-        }
+  "metadata": {
+    "title": "Kasachstan 4N/5T Reisepaket ab Goa – Berge, Seen & City-Erlebnis",
+    "description": "Entdecken Sie Almaty mit unserem 4N/5T Kasachstan-Reisepaket ab Goa. Besuchen Sie Skigebiete, Seen und Stadtattraktionen mit Sonderangeboten. Buchen Sie noch heute Ihre internationale Auszeit!"
+  }
       },
       cta: {
         headline: "Bereit für Ihr Almaty-Abenteuer?",
@@ -12621,10 +12621,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "4N/5T Phuket & Krabi Reisepaket mit 30% Rabatt nur ab Goa",
-          "description": "Buchen Sie Ihre 4N/5T Phuket & Krabi Reise ab Goa mit 30% Rabatt. Inklusive 4-Insel-Tour, Phi Phi Inseln, Phuket Stadttour, Hotels, Transfers und Speedboot-Ausflüge."
-        }
+  "metadata": {
+    "title": "Phuket & Krabi 4N/5T Reisepaket mit 30% Rabatt nur ab Goa",
+    "description": "Buchen Sie eine 4N/5T Phuket & Krabi Reise ab Goa mit 30% Rabatt. Inklusive 4-Insel-Tour, Phi Phi Inseln, Phuket Stadtrundfahrt, Hotels, Transfers und Speedboot-Ausflüge."
+  }
       },
       cta: {
         headline: "Bereit für Ihr Thailand-Abenteuer?",
@@ -12770,10 +12770,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "6N/7T Singapur-Reisepaket mit 30% Rabatt nur ab Goa",
-          "description": "Buchen Sie Ihre 6N/7T Singapur-Reise ab Goa mit 30% Rabatt. Inklusive Stadtrundfahrt, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands und Night Safari."
-        }
+  "metadata": {
+    "title": "6N/7T Singapur-Reisepaket mit 30% Rabatt nur ab Goa",
+    "description": "Buchen Sie eine 6N/7T Singapur-Reise ab Goa mit 30% Rabatt. Inklusive Stadtrundfahrt, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands und Night Safari."
+  }
       },
       cta: {
         headline: "Bereit für Ihr Singapur- und Malaysia-Abenteuer?",
@@ -12942,10 +12942,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Sri Lanka Luxusreise 7N/8T – 30% Rabatt nur für Einwohner von Goa",
-          "description": "Entdecken Sie Sri Lanka in 7N/8T mit luxuriösen Unterkünften, privaten Transfers und kuratierten Erlebnissen – jetzt mit 30% Rabatt nur für Einwohner von Goa. Zeitlich begrenztes Angebot – jetzt buchen!"
-        }
+  "metadata": {
+    "title": "Sri Lanka Luxusreise 7N/8T – 30% Rabatt nur für Goa-Bewohner",
+    "description": "Entdecken Sie Sri Lanka in 7N/8T mit erstklassigen Luxusunterkünften, privaten Transfers und kuratierten Erlebnissen – jetzt mit 30% Rabatt nur für Bewohner von Goa. Zeitlich begrenztes Angebot, jetzt buchen!"
+  }
       },
       cta: {
         headline: "Bereit für Ihr Sri Lanka-Abenteuer?",
@@ -13111,10 +13111,10 @@ export const de = {
           }
         },
         language: "de",
-        "metadata": {
-          "title": "Buchen Sie das Türkei 5N/6T Reisepaket mit 30% Rabatt nur ab Goa",
-          "description": "Buchen Sie Ihre 5 Nächte/6 Tage Türkei-Reise ab Goa mit 30% Rabatt. Entdecken Sie die Höhlen von Kappadokien, Highlights von Istanbul, eine Bosporus-Kreuzfahrt, Basare und historische Paläste."
-        }
+  "metadata": {
+    "title": "5N/6T Türkei-Reisepaket mit 30% Rabatt nur ab Goa buchen",
+    "description": "Buchen Sie eine 5 Nächte/6 Tage Türkei-Reise ab Goa mit 30% Rabatt. Entdecken Sie die Höhlen von Kappadokien, Highlights von Istanbul, eine Bosporus-Kreuzfahrt, Basare und historische Paläste."
+  }
       },
       cta: {
         headline: "Bereit für Ihr türkisches Abenteuer?",
