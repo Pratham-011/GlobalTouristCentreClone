@@ -9,12 +9,13 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { useI18n } from "@/lib/i18n/context";
 
-import { User, Phone, Mail, Calendar, Users, Send } from "lucide-react";
+import { User, Phone, Mail, Calendar, Users, Send, MapPin } from "lucide-react";
 
 const formSchema = z.object({
   fullName: z.string().min(2, "Name must be at least 2 characters"),
   phone: z.string().min(10, "Phone number must be at least 10 digits"),
   email: z.string().email("Invalid email address"),
+  startingPoint: z.string().min(1, "Starting point is required"),
   travelDate: z.string().min(1, "Travel date is required"),
   numPeople: z.string().min(1, "Number of people is required"),
 });
@@ -46,6 +47,7 @@ export function HorizontalLeadForm({ tourSlug }: HorizontalLeadFormProps) {
 ${translations.fullName}: ${data.fullName}
 ${translations.phone}: ${data.phone}
 ${translations.email}: ${data.email}
+Starting Point: ${data.startingPoint}
 ${translations.travelDate}: ${data.travelDate}
 ${translations.numPeople}: ${data.numPeople}`;
 
@@ -70,7 +72,7 @@ ${translations.numPeople}: ${data.numPeople}`;
           
           <form 
             onSubmit={handleSubmit(onSubmit)}
-            className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-6 items-end"
+            className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-7 gap-6 items-end"
           >
             <div className="space-y-2 lg:col-span-1">
               <Label htmlFor="fullName" className="flex items-center gap-2 text-slate-700">
@@ -114,6 +116,20 @@ ${translations.numPeople}: ${data.numPeople}`;
             </div>
             
             <div className="space-y-2 lg:col-span-1">
+              <Label htmlFor="startingPoint" className="flex items-center gap-2 text-slate-700">
+                <MapPin className="w-4 h-4 text-emerald-600" />
+                {/* @ts-ignore */}
+                {translations.startingPoint || "Starting Point"}
+              </Label>
+              <Input 
+                id="startingPoint" 
+                placeholder={translations.startingPointPlaceholder || "Your city"} 
+                {...register("startingPoint")}
+                className={`h-12 bg-white ${errors.startingPoint ? "border-red-500" : "border-slate-200"}`}
+              />
+            </div>
+            
+            <div className="space-y-2 lg:col-span-1">
               <Label htmlFor="travelDate" className="flex items-center gap-2 text-slate-700">
                 <Calendar className="w-4 h-4 text-emerald-600" />
                 {translations.travelDate}
@@ -147,7 +163,7 @@ ${translations.numPeople}: ${data.numPeople}`;
             </Button>
           </form>
           
-          {(errors.fullName || errors.phone || errors.email || errors.travelDate || errors.numPeople) && (
+          {(errors.fullName || errors.phone || errors.email || errors.startingPoint || errors.travelDate || errors.numPeople) && (
             <p className="text-red-500 text-sm mt-6 text-center font-medium">
               {translations.error}
             </p>
