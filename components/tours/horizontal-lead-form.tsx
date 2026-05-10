@@ -47,7 +47,7 @@ export function HorizontalLeadForm({ tourSlug }: HorizontalLeadFormProps) {
 ${lf.fullName}: ${data.fullName}
 ${lf.phone}: ${data.phone}
 ${lf.email}: ${data.email}
-Starting Point: ${data.startingPoint}
+${lf.startingPoint}: ${data.startingPoint}
 ${lf.travelDate}: ${data.travelDate}
 ${lf.numPeople}: ${data.numPeople}`;
 
@@ -118,12 +118,11 @@ ${lf.numPeople}: ${data.numPeople}`;
             <div className="space-y-2 lg:col-span-1">
               <Label htmlFor="startingPoint" className="flex items-center gap-2 text-slate-700">
                 <MapPin className="w-4 h-4 text-emerald-600" />
-                {/* @ts-ignore */}
-                {lf.startingPoint || "Starting Point"}
+                {lf.startingPoint}
               </Label>
               <Input 
                 id="startingPoint" 
-                placeholder={lf.startingPointPlaceholder || "Your city"} 
+                placeholder={lf.startingPointPlaceholder} 
                 {...register("startingPoint")}
                 className={`h-12 bg-white ${errors.startingPoint ? "border-red-500" : "border-slate-200"}`}
               />

@@ -81,221 +81,207 @@ export default function RootLayout({
 }) {
   const locale = "en";
 
-  const travelAgencySchema = {
-    "@context": "https://schema.org",
-    "@type": "TravelAgency",
-    "@id": "https://globaltouristcentre.com/",
-    name: "Global Tourist Centre",
-    url: "https://globaltouristcentre.com/",
-    image:
-      "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.webp",
-    telephone: "+91-9067972295",
+ const travelAgencySchema = {
+  "@context": "https://schema.org",
+  "@type": "TravelAgency",
+  "@id": "https://globaltouristcentre.com/",
+  name: "Global Tourist Centre",
+  url: "https://globaltouristcentre.com/",
+  image: "https://globaltouristcentre.com/wp-content/uploads/2024/05/logo.webp",
+  telephone: "+91-9067972295",
 
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: "Benaulim Beach Road, South Goa",
-      addressLocality: "Benaulim",
-      addressRegion: "Goa",
-      postalCode: "403716",
-      addressCountry: "IN",
-    },
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Benaulim Beach Road, South Goa",
+    addressLocality: "Benaulim",
+    addressRegion: "Goa",
+    postalCode: "403716",
+    addressCountry: "IN",
+  },
 
-    geo: {
-      "@type": "GeoCoordinates",
-      latitude: 15.2602,
-      longitude: 73.9272,
-    },
+  geo: {
+    "@type": "GeoCoordinates",
+    latitude: 15.2602,
+    longitude: 73.9272,
+  },
 
-    sameAs: [
-      "https://www.facebook.com/globaltouristcentre",
-      "https://www.instagram.com/globaltouristcentre",
+  sameAs: [
+    "https://www.facebook.com/globaltouristcentre",
+    "https://www.instagram.com/globaltouristcentre",
+  ],
+
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Our Services & Top Trips",
+    itemListElement: [
+      {
+        "@type": "OfferCatalog",
+        name: "Our Services",
+        itemListElement: [
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Domestic and International Trips",
+              url: "https://globaltouristcentre.com/services/domestice-and-international-trips/",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Customized Tours Package",
+              url: "https://globaltouristcentre.com/services/customize-tour-package/",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Visa Agent",
+              url: "https://globaltouristcentre.com/services/visa-agent-in-goa/",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Hotel Booking",
+              url: "https://globaltouristcentre.com/services/hotel-booking/",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Flight Booking",
+              url: "https://globaltouristcentre.com/services/flight-booking/",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Customized Group Tours",
+              url: "https://globaltouristcentre.com/services/customized-group-tours/",
+            },
+          },
+        ],
+      },
+
+      {
+        "@type": "OfferCatalog",
+        name: "Top 3 Domestic Trips",
+        itemListElement: [
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/destinations/domestic/kashmir-tour-package-from-goa/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "Kashmir 5N/6D Tour Package",
+              description:
+                "Book your Kashmir tour package from Goa with best deals. Explore Srinagar, Gulmarg & Pahalgam with customized itinerary, hotels, and hassle-free travel.",
+            },
+          },
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/destinations/domestic/ladakh-tour-package-from-goa/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "Ladakh Tour for Goa",
+              description:
+                "Book a 7 Nights 6 Days Ladakh tour from Goa. Includes hotel stay, guide, and transportation.",
+            },
+          },
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/destinations/domestic/sikkim-darjeeling-gangtok-tour-from-goa/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "Sikkim Tour for Goa",
+              description:
+                "Book a 6 Nights 7 Days Sikkim tour from Goa. Includes hotel stay, guide, and transportation.",
+            },
+          },
+        ],
+      },
+
+      {
+        "@type": "OfferCatalog",
+        name: "Top 3 International Trips",
+        itemListElement: [
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/destinations/international/7n-8d-vietam-tour-package/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "7N/8D Vietnam Tour Package",
+              description:
+                "Grab 30% off on 8 Days Vietnam trip from Goa. Explore Hanoi, Ninh Binh, Ha Long Bay, Da Nang, Hoi An & Ho Chi Minh with cruises, tours & transfers. Book now!",
+            },
+          },
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/destinations/international/7n-8d-bhutan-tour-package/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "7N/8D Bhutan Tour Package",
+              description:
+                "Book 7 Nights 8 Days Bhutan trip from Goa at 30% off. Explore Thimphu, Punakha, Paro & Tiger's Nest with guided tours, transfers, meals & hotel stay.",
+            },
+          },
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/destinations/international/nepal-tour-package/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "Nepal Tour Package",
+              description:
+                "Explore Nepal 6N/7D trip from Goa with 30% off. Visit Kathmandu, Chitwan Jungle Safari & Pokhara. Includes hotels, transfers, guide & cultural tours.",
+            },
+          },
+        ],
+      },
+
+      {
+        "@type": "OfferCatalog",
+        name: "Top 3 Luxury Trips",
+        itemListElement: [
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/luxury-trips/kerala-luxury/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "Kerala Luxury Trip",
+              description:
+                "Our exclusive Kerala luxury tour package with Global Tourist Centre. Experience opulent stays, private houseboats, scenic hill-stations and backwaters, along with personalized service and unforgettable moments in \"God's Own Country\".",
+            },
+          },
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/luxury-trips/mumbai-luxury/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "Mumbai Luxury Experience",
+              description:
+                "Explore the exclusive Mumbai luxury trip package from Global Tourist Centre. Experience 5-star hotels, private chauffeur drives, premium dining and curated city tours in India's City of Dreams.",
+            },
+          },
+          {
+            "@type": "Offer",
+            url: "https://globaltouristcentre.com/luxury-trips/golden-triangle-luxury/",
+            itemOffered: {
+              "@type": "TouristTrip",
+              name: "Golden Triangle Luxury Tour",
+              description:
+                "Enjoy an exclusive luxury Golden Triangle tour with Global Tourist Centre: indulgent stays in heritage palaces, private chauffeur transfers, VIP sightseeing of Delhi, Agra & Jaipur, and curated experiences for discerning travellers.",
+            },
+          },
+        ],
+      },
     ],
-
-    hasOfferCatalog: {
-      "@type": "OfferCatalog",
-      name: "Our Services & Top Trips",
-      itemListElement: [
-        {
-          "@type": "OfferCatalog",
-          name: "Our Services",
-          itemListElement: [
-            {
-              "@type": "Offer",
-              itemOffered: {
-                "@type": "Service",
-                name: "Domestic & International Trips",
-                url:
-                  "https://globaltouristcentre.com/service/domestic-and-international-trips",
-              },
-            },
-            {
-              "@type": "Offer",
-              itemOffered: {
-                "@type": "Service",
-                name: "Customized Tours",
-                url:
-                  "https://globaltouristcentre.com/service/customize-trip-package",
-              },
-            },
-            {
-              "@type": "Offer",
-              itemOffered: {
-                "@type": "Service",
-                name: "Visa Documentation",
-                url: "https://globaltouristcentre.com/service/visa-agent-in-goa",
-              },
-            },
-            {
-              "@type": "Offer",
-              itemOffered: {
-                "@type": "Service",
-                name: "Hotel Booking",
-                url: "https://globaltouristcentre.com/service/hotel-booking",
-              },
-            },
-            {
-              "@type": "Offer",
-              itemOffered: {
-                "@type": "Service",
-                name: "Flight Booking",
-                url: "https://globaltouristcentre.com/service/flight-booking",
-              },
-            },
-            {
-              "@type": "Offer",
-              itemOffered: {
-                "@type": "Service",
-                name: "Group Tours",
-                url:
-                  "https://globaltouristcentre.com/service/customized-group-trip",
-              },
-            },
-          ],
-        },
-
-        {
-          "@type": "OfferCatalog",
-          name: "Top 3 Domestic Trips",
-          itemListElement: [
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/destination/domestic/kashmir-tour-package-from-goa",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "Kashmir 5N/6D Trip",
-                description:
-                  "Explore the beauty of Kashmir with a 5-night, 6-day tour covering Srinagar, Gulmarg, and Pahalgam.",
-              },
-            },
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/destination/domestic/ladakh-tour-package-from-goa",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "Ladakh Tour for Goa",
-                description:
-                  "Adventure-filled trip from Goa to Ladakh featuring scenic landscapes, monasteries, and mountain passes.",
-              },
-            },
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/destination/domestic/sikkim-darjeeling-gangtok-tour-from-goa",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "Sikkim Tour for Goa",
-                description:
-                  "Multi-day mountain adventure from Goa to Sikkim, covering Gangtok, Nathula Pass, and local monasteries.",
-              },
-            },
-          ],
-        },
-
-        {
-          "@type": "OfferCatalog",
-          name: "Top 3 International Trips",
-          itemListElement: [
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/destination/international/7n-8d-vietam-tour-package",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "7N/8D Vietnam Tour Package",
-                description:
-                  "Experience Vietnam's culture and landscapes with an 8-day guided tour covering Hanoi, Halong Bay, and Ho Chi Minh City.",
-              },
-            },
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/destination/international/7n-8d-bhutan-tour-package",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "7N/8D Bhutan Tour Package",
-                description:
-                  "Explore the serene beauty of Bhutan, visiting Paro, Thimphu, and Punakha with a peaceful 8-day itinerary.",
-              },
-            },
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/destination/international/nepal-tour-package",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "Nepal Tour Package",
-                description:
-                  "Discover the heritage and spirituality of Nepal, covering Kathmandu, Pokhara, and key cultural sites.",
-              },
-            },
-          ],
-        },
-
-        {
-          "@type": "OfferCatalog",
-          name: "Top 3 Luxury Trips",
-          itemListElement: [
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/luxury-trips/kerala-luxury",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "Kerala Luxury Trip",
-                description:
-                  "Luxury getaway in Kerala featuring backwater cruises, private villas, and rejuvenating spa experiences.",
-              },
-            },
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/luxury-trips/mumbai-luxury",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "Mumbai Luxury Experience",
-                description:
-                  "Exclusive Mumbai experience with luxury stays, private guided tours, and fine dining options.",
-              },
-            },
-            {
-              "@type": "Offer",
-              url:
-                "https://globaltouristcentre.com/luxury-trips/golden-triangle-luxury",
-              itemOffered: {
-                "@type": "TouristTrip",
-                name: "Golden Triangle Luxury Tour",
-                description:
-                  "Luxury exploration of Delhi, Agra, and Jaipur with 5-star accommodation and private chauffeur services.",
-              },
-            },
-          ],
-        },
-      ],
-    },
-  };
-
+  },
+};
   return (
     <html
       lang="en"

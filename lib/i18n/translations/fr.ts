@@ -382,6 +382,8 @@ export const fr = {
         phonePlaceholder: "Votre téléphone",
         email: "E-mail",
         emailPlaceholder: "Votre e-mail",
+        startingPoint: "Point de départ",
+        startingPointPlaceholder: "Votre ville",
         travelDate: "Date du voyage",
         numPeople: "Nombre de personnes",
         numPeoplePlaceholder: "1",

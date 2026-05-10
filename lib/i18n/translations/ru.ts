@@ -356,6 +356,8 @@ export const ru = {
         phonePlaceholder: "Ваш телефон",
         email: "E-mail",
         emailPlaceholder: "Ваш e-mail",
+        startingPoint: "Точка отправления",
+        startingPointPlaceholder: "Ваш город",
         travelDate: "Дата поездки",
         numPeople: "Количество человек",
         numPeoplePlaceholder: "1",

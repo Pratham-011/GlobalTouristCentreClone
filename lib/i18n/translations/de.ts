@@ -388,6 +388,8 @@ export const de = {
         phonePlaceholder: "Ihr Telefon",
         email: "E-Mail-ID",
         emailPlaceholder: "Ihre E-Mail",
+        startingPoint: "Startpunkt",
+        startingPointPlaceholder: "Ihre Stadt",
         travelDate: "Reisedatum",
         numPeople: "Anzahl der Personen",
         numPeoplePlaceholder: "1",
