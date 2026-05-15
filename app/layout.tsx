@@ -295,24 +295,7 @@ export default function RootLayout({
           imageSrcSet="/assets/hero/Index-hero-sm.webp 640w, /assets/hero/Index-hero-md.webp 1024w, /assets/hero/Index-hero.webp 1920w"
           imageSizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
         />
-      </head>
-      <body className="min-h-screen flex flex-col antialiased font-sans relative">
-        <I18nProvider locale={locale}>
-          <main id="main-content" role="main" className="flex-1">
-            {children}
-          </main>
-
-          <Footer />
-
-          <WhatsAppButton
-            phoneNumber="919067972295"
-            message="Hi! I am planning a trip, can you help me out?"
-            tooltipText="Chat with us on WhatsApp"
-          />
-          <CookieBanner />
-        </I18nProvider>
-
-        <Script
+         <Script
           id="travel-agency-schema"
           type="application/ld+json"
           strategy="afterInteractive"
@@ -342,6 +325,22 @@ export default function RootLayout({
             fbq('track', 'PageView');
           `}
         </Script>
+      </head>
+      <body className="min-h-screen flex flex-col antialiased font-sans relative">
+        <I18nProvider locale={locale}>
+          <main id="main-content" role="main" className="flex-1">
+            {children}
+          </main>
+
+          <Footer />
+
+          <WhatsAppButton
+            phoneNumber="919067972295"
+            message="Hi! I am planning a trip, can you help me out?"
+            tooltipText="Chat with us on WhatsApp"
+          />
+          <CookieBanner />
+        </I18nProvider>
 
         {/* NoScript Fallback */}
         <noscript>
