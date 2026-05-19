@@ -51,7 +51,8 @@ export const galleryData: Record<string, any> = {
         title: "Butterfly Beach",
         description: "Secluded paradise",
         image: "/assets/destinations/South-goa/butterfly-beach.webp",
-
+        wikiexists: true,
+        wikilink: "https://en.wikipedia.org/wiki/Butterfly_Beach",
       },
       {
         title: "Blue Lagoon",
@@ -623,7 +624,7 @@ export const galleryData: Record<string, any> = {
         description: "Local crafts & culture",
         image: "/assets/destinations/Cambodia/Luang_Prabang_Night_Market.webp",
         wikiexists: true,
-        wikilink: "https://en.wikipedia.org/wiki/Luang_Prabang_Night_Market",
+        wikilink: "https://en.wikipedia.org/wiki/Luang_Prabang",
       },
       {
         title: "Ta Prohm Temple",
@@ -762,6 +763,8 @@ export const galleryData: Record<string, any> = {
         title: "Dhow Cruise",
         description: "Traditional dinner cruise",
         image: "/assets/destinations/Dubai/Dhow-Cruise.webp",
+        wikiexists: true,
+        wikilink: "https://en.wikipedia.org/wiki/Dhow",
       },
       {
         title: "Aquaventure",

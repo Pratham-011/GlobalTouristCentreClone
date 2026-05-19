@@ -47,6 +47,31 @@ export const metadata: Metadata = {
       "de-DE": "https://globaltouristcentre.com/de/landing-page",
     },
   },
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    alternateLocale: ["ru_RU", "it_IT", "fr_FR", "de_DE"],
+    url: "https://globaltouristcentre.com/lp",
+    siteName: "Global Tourist Centre",
+    title: "Luxury India & Dubai Holiday Packages | Up to 35% OFF",
+    description:
+      "Book your dream vacation with exclusive deals. Kerala, Goa, Dubai, Rajasthan & more. Best price guarantee + personalized service.",
+    images: [
+      {
+        url: "/og-default.webp",
+        width: 1200,
+        height: 630,
+        alt: "Global Tourist Centre - Luxury Travel Experiences",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Luxury India & Dubai Holiday Packages | Up to 35% OFF",
+    description:
+      "Book your dream vacation with exclusive deals. Best price guarantee + personalized service.",
+    images: ["/og-default.webp"],
+  },
   other: {
     "yandex-verification": "38ec00f62a1f824b",
   },
