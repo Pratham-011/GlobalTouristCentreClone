@@ -7,6 +7,8 @@ type GalleryItem = {
   titleKey: string;
   descriptionKey: string;
   image: string;
+  wikiexists: boolean;
+  wikilink: string;
 };
 
 interface TourVisualJourneyProps {
@@ -69,9 +71,20 @@ export function TourVisualJourney({ items, gallery }: TourVisualJourneyProps) {
 
               {/* TEXT */}
               <div className="absolute bottom-0 left-0 right-0 p-4">
-                <h3 className="font-serif text-lg font-semibold text-white">
-                  {gallery[idx]?.title || item.titleKey}
-                </h3>
+  {item?.wikiexists ? (
+    <a
+      href={item.wikilink}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="font-serif text-lg font-semibold text-white hover:underline"
+    >
+      {gallery[idx]?.title}
+    </a>
+  ) : (
+    <h3 className="font-serif text-lg font-semibold text-white">
+      {gallery[idx]?.title}
+    </h3>
+  )}
                 <p className="text-sm text-white/80">
                   {gallery[idx]?.description || item.descriptionKey}
                 </p>
