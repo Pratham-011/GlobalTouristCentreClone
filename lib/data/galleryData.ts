@@ -570,6 +570,8 @@ export const galleryData: Record<string, any> = {
         title: "Nohur Lake",
         description: "Serene mountain lake",
         image: "/assets/destinations/Baku/Nohur_Lake.webp",
+        wikiexists: true,
+        wikilink: "https://en.wikipedia.org/wiki/Garanohur",
       },
     ],
   },
@@ -936,6 +938,8 @@ export const galleryData: Record<string, any> = {
         title: "Sanapur Lake",
         description: "Coracle adventure",
         image: "/assets/destinations/Hampi/Coracle-Ride.webp",
+        wikiexists: true,
+        wikilink: "https://en.wikipedia.org/wiki/Sanapur",
       },
       {
         title: "Elephant Stable",
