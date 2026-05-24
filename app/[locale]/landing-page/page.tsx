@@ -40,6 +40,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description: meta.description,
     alternates: {
       canonical,
+                languages: {
+        en: "https://globaltouristcentre.com/landing-page",
+        it: "https://globaltouristcentre.com/it/landing-page",
+        fr: "https://globaltouristcentre.com/fr/landing-page",
+        de: "https://globaltouristcentre.com/de/landing-page",
+        ru: "https://globaltouristcentre.com/ru/landing-page",
+        "x-default": "https://globaltouristcentre.com/landing-page",
+      },
     },
     openGraph: {
       title: meta.title,

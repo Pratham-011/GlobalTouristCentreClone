@@ -33,6 +33,14 @@ export async function generateMetadata({
     description,
     alternates: {
       canonical,
+            languages: {
+        en: "https://globaltouristcentre.com/about",
+        it: "https://globaltouristcentre.com/it/about",
+        fr: "https://globaltouristcentre.com/fr/about",
+        de: "https://globaltouristcentre.com/de/about",
+        ru: "https://globaltouristcentre.com/ru/about",
+        "x-default": "https://globaltouristcentre.com/about",
+      },
     },
     openGraph: {
       title,

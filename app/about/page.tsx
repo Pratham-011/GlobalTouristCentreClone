@@ -24,6 +24,14 @@ export const metadata: Metadata = {
     "Learn about Global Tourist Centre - your trusted travel partner since 2010.",
   alternates: {
     canonical: "https://globaltouristcentre.com/about",
+      languages: {
+        en: "https://globaltouristcentre.com/about",
+        it: "https://globaltouristcentre.com/it/about",
+        fr: "https://globaltouristcentre.com/fr/about",
+        de: "https://globaltouristcentre.com/de/about",
+        ru: "https://globaltouristcentre.com/ru/about",
+        "x-default": "https://globaltouristcentre.com/about",
+      },
   },
   openGraph: {
     title:

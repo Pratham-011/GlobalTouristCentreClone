@@ -26,15 +26,11 @@ export async function generateMetadata({
     t.metadata?.home?.description ??
     "Plan your perfect vacation with GTC - Goa's leading travel agency.";
 
-  const canonical =
-    locale === "en"
-      ? "https://globaltouristcentre.com/"
-      : `https://globaltouristcentre.com/${locale}/`;
+  const canonical ="https://globaltouristcentre.com/";
 
   return {
     title,
     description,
-
     alternates: {
       canonical,
       languages: {

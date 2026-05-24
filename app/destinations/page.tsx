@@ -26,6 +26,14 @@ export async function generateMetadata(): Promise<Metadata> {
     description: meta.description,
     alternates: {
       canonical,
+                  languages: {
+        en: "https://globaltouristcentre.com/destinations",
+        it: "https://globaltouristcentre.com/it/destinations",
+        fr: "https://globaltouristcentre.com/fr/destinations",
+        de: "https://globaltouristcentre.com/de/destinations",
+        ru: "https://globaltouristcentre.com/ru/destinations",
+        "x-default": "https://globaltouristcentre.com/destinations",
+      },
     },
     openGraph: {
       title: meta.title,

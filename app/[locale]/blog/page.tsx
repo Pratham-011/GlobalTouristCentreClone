@@ -18,6 +18,14 @@ export async function generateMetadata({params}: PageProps): Promise<Metadata> {
     description: t.metadata?.blog?.description || "Discover our travel blog with inspiring travel stories, destination guides, and travel tips.",
     alternates: {
       canonical: `https://globaltouristcentre.com/${params.locale}/blog`,
+    languages: {
+        en: "https://globaltouristcentre.com/blog",
+        it: "https://globaltouristcentre.com/it/blog",
+        fr: "https://globaltouristcentre.com/fr/blog",
+        de: "https://globaltouristcentre.com/de/blog",
+        ru: "https://globaltouristcentre.com/ru/blog",
+        "x-default": "https://globaltouristcentre.com/blog",
+      },
     },
     openGraph: {
       title: t.metadata?.blog?.title || "Blog | Global Tourist Centre",

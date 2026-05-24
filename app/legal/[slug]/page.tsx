@@ -46,6 +46,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         description: translation.metadata.description,
         alternates: {
             canonical,
+    languages: {
+        en: `https://globaltouristcentre.com/legal/${slug}`,
+        it: `https://globaltouristcentre.com/it/legal/${slug}`,
+        fr: `https://globaltouristcentre.com/fr/legal/${slug}`,
+        de: `https://globaltouristcentre.com/de/legal/${slug}`,
+        ru: `https://globaltouristcentre.com/ru/legal/${slug}`,
+        "x-default": `https://globaltouristcentre.com/legal/${slug}`,
+      },
         },
         openGraph: {
             title: translation.metadata.title,

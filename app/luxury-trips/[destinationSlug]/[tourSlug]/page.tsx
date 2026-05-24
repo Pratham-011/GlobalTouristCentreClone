@@ -91,7 +91,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title,
     description,
-    alternates: { canonical },
+    alternates: { 
+      canonical,
+                      languages: {
+        en: `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}`,
+        it: `https://globaltouristcentre.com/it/luxury-trips/${destinationSlug}/${tourSlug}`,
+        fr: `https://globaltouristcentre.com/fr/luxury-trips/${destinationSlug}/${tourSlug}`,
+        de: `https://globaltouristcentre.com/de/luxury-trips/${destinationSlug}/${tourSlug}`,
+        ru: `https://globaltouristcentre.com/ru/luxury-trips/${destinationSlug}/${tourSlug}`,
+        "x-default": `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}`,
+      },
+     },
     openGraph: {
       title,
       description,

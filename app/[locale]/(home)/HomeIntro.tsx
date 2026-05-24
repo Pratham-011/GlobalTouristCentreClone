@@ -71,15 +71,14 @@ const travelCollections: TravelCollection[] = [
   },
 
   /* ================= SHORT STAYS ================= */
-
   {
     id: "cabo-serai-2n-3d-luxury-getaway",
-    href: "/destinations/domestic/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
+    href: "/destinations/day-trips/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
     imageUrl: "/assets/destinations/Thumbnails/SeraiCabo.webp",
   },
   {
     id: "hampi-day-excursions",
-    href: "/destinations/domestic/hampi-day-excursions", // matches dom-hampi-019.slug
+    href: "/destinations/day-trips/hampi-day-excursions", // matches dom-hampi-019.slug
     imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
   },
   // removed hampi-badami because that trip is commented out in domesticTrips source of truth

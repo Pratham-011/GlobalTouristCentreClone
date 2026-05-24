@@ -3696,9 +3696,9 @@ export const en = {
       ],
       "gallery": [
         {
-          "title": "Bangkok Temples",
-          "description": "Golden Buddha & Reclining Buddha",
-          "image": "/assets/destinations/Bangkok/Bangkok Temples.webp"
+          "title": "Bangkok Skyline",
+          "description": "Vibrant capital city",
+          "image": "/assets/destinations/Thailand/Bangkok Cityscape.webp"
         },
         {
           "title": "Pattaya Beaches",

@@ -27,6 +27,14 @@ export const metadata: Metadata = {
   description: t.metadata.landingPage.description,
   alternates: {
     canonical: "https://globaltouristcentre.com/landing-page",
+          languages: {
+        en: "https://globaltouristcentre.com/landing-page",
+        it: "https://globaltouristcentre.com/it/landing-page",
+        fr: "https://globaltouristcentre.com/fr/landing-page",
+        de: "https://globaltouristcentre.com/de/landing-page",
+        ru: "https://globaltouristcentre.com/ru/landing-page",
+        "x-default": "https://globaltouristcentre.com/landing-page",
+      },
   },
   openGraph: {
     title: t.metadata.landingPage.title,

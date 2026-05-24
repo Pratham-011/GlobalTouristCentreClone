@@ -141,6 +141,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description: content.description,
     alternates: {
       canonical,
+                        languages: {
+        en: `https://globaltouristcentre.com/destinations/${category}`,
+        it: `https://globaltouristcentre.com/it/destinations/${category}`,
+        fr: `https://globaltouristcentre.com/fr/destinations/${category}`,
+        de: `https://globaltouristcentre.com/de/destinations/${category}`,
+        ru: `https://globaltouristcentre.com/ru/destinations/${category}`,
+        "x-default": `https://globaltouristcentre.com/destinations/${category}`,
+      },
     },
     openGraph: {
       title: `${content.title}`,

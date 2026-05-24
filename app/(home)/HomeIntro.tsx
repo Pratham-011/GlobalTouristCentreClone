@@ -43,21 +43,13 @@ const travelCollections: TravelCollection[] = [
     href: "/destinations/day-trips/south-goa-1-day-trip-package", // matches day-palolem-cola-011.slug
     imageUrl: "/assets/destinations/Thumbnails/Palolem.webp",
   },
-  // {
-  //   id: "crocodile-sightseeing-trip",
-  //   href: "/destinations/day-trips/crocodile-sightseeing-trip", // matches day-crocodile-012.slug
-  //   imageUrl: "/assets/destinations/Thumbnails/Crocodile.webp",
-  // },
+
   {
     id: "luxury-yacht-day-tour-goa",
     href: "/destinations/day-trips/luxury-yacht-day-tour-goa", // matches day-yacht-013.slug
     imageUrl: "/assets/destinations/Thumbnails/Yacht.webp",
   },
-  // {
-  //   id: "grand-island-water-sport",
-  //   href: "/destinations/day-trips/grand-island-water-sports", // matches day-grand-island-014.slug
-  //   imageUrl: "/assets/destinations/Thumbnails/GrandIsland.webp",
-  // },
+
   {
     id: "gokarna-murdeshwar-day-excursion",
     href: "/destinations/day-trips/gokarna-murdeshwar-day-excursion", // matches day-gokarna-005.slug (updated from old -tour)
@@ -73,20 +65,14 @@ const travelCollections: TravelCollection[] = [
 
   {
     id: "cabo-serai-2n-3d-luxury-getaway",
-    href: "/destinations/domestic/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
+    href: "/destinations/day-trips/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
     imageUrl: "/assets/destinations/Thumbnails/SeraiCabo.webp",
   },
   {
     id: "hampi-day-excursions",
-    href: "/destinations/domestic/hampi-day-excursions", // matches dom-hampi-019.slug
+    href: "/destinations/day-trips/hampi-day-excursions", // matches dom-hampi-019.slug
     imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
   },
-  // removed hampi-badami because that trip is commented out in domesticTrips source of truth
-  // {
-  //   id: "mysore-ooty-tour",
-  //   href: "/destinations/domestic/mysore-ooty-tour", // matches dom-mysore-ooty-020.slug
-  //   imageUrl: "/assets/destinations/Thumbnails/Ooty.webp",
-  // },
   {
     id: "mumbai-one-day-excursion",
     href: "/destinations/day-trips/mumbai-one-day-excursion", // matches dom-mumbai-021.slug
@@ -97,17 +83,6 @@ const travelCollections: TravelCollection[] = [
     href: "/destinations/domestic/ajanta-ellora-caves-tour-from-goa", // matches dom-ajanta-ellora-022.slug
     imageUrl: "/assets/destinations/Thumbnails/Ellora.webp",
   },
-  // {
-  //   id: "taj-mahal-tour",
-  //   href: "/destinations/domestic/taj-mahal-tour", // matches dom-taj-mahal-023.slug
-  //   imageUrl: "/assets/destinations/Thumbnails/TajMahal.webp",
-  // },
-  // removed taj-mahal-1n2d because that trip is commented out in domesticTrips source of truth
-
-  /* ================= MULTI-DAY DOMESTIC ================= */
-
-  // removed kerala-4n5d because kerala-backwaters-hills is commented out
-  // removed golden-triangle-3n4d because golden-triangle-tour is commented out
   {
     id: "kerala-tour-package-from-goa",
     href: "/destinations/domestic/kerala-tour-package-from-goa", // matches dom-kerala-024.slug
@@ -141,11 +116,6 @@ const travelCollections: TravelCollection[] = [
     href: "/destinations/domestic/andaman-nicobar-tour-package", // matches int-andaman-021.slug
     imageUrl: "/assets/destinations/Thumbnails/Andaman.webp",
   },
-  // {
-  //   id: "maldives-luxury-tour",
-  //   href: "/destinations/international/maldives-luxury-tour", // matches int-maldives-022.slug
-  //   imageUrl: "/assets/destinations/Thumbnails/Maldives.webp",
-  // },
   {
     id: "srilanka-tour-package",
     href: "/destinations/international/srilanka-tour-package", // matches int-srilanka-023.slug

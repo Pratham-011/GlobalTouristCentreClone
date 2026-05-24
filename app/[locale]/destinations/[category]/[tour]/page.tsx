@@ -63,7 +63,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const description = data.description;
 
   const image = t.tourData?.[tour]?.page?.hero?.backgroundImage;
-  const canonical = `https://globaltouristcentre.com/${locale}/destinations`;
+  const canonical = `https://globaltouristcentre.com/${locale}/destinations${tour}`;
 
 
   return {
@@ -71,6 +71,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description: description,
     alternates: {
       canonical,
+        languages: {
+        en:  `https://globaltouristcentre.com/destinations/${tour}`,
+        it:`https://globaltouristcentre.com/it/destinations/${tour}`,
+        fr:  `https://globaltouristcentre.com/fr/destinations/${tour}`,
+        de:  `https://globaltouristcentre.com/de/destinations/${tour}`,
+        ru:  `https://globaltouristcentre.com/ru/destinations/${tour}`,
+        "x-default":  `https://globaltouristcentre.com/destinations/${tour}`,
+      }
     },
     openGraph: {
       title: title,

@@ -25,7 +25,7 @@ export default function ServicesClient() {
     const services = [
         { icon: Globe, title: t.services.domesticInternational, description: t.services.domesticInternationalDesc, link: 'services/domestice-and-international-trips' },
         { icon: Package, title: t.services.customizedHolidays, description: t.services.customizedHolidaysDesc, link: 'services/customize-tour-package' },
-        { icon: FileText, title: t.services.visaDocumentation, description: t.services.visaDocumentationDesc, link: 'services/visa-agent' },
+        { icon: FileText, title: t.services.visaDocumentation, description: t.services.visaDocumentationDesc, link: 'services/visa-agent-in-goa' },
         { icon: Building, title: t.services.hotelBookings, description: t.services.hotelBookingsDesc, link: 'services/hotel-booking' },
         { icon: Plane, title: t.services.airTicketing, description: t.services.airTicketingDesc, link: 'services/flight-booking' },
         { icon: Users, title: t.services.groupTours, description: t.services.groupToursDesc, link: 'services/customized-group-tours' },
