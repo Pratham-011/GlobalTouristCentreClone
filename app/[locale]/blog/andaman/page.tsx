@@ -33,6 +33,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description,
     alternates: {
       canonical,
+    languages: {
+        en: "https://globaltouristcentre.com/blog/andaman",
+        it: "https://globaltouristcentre.com/it/blog/andaman",
+        fr: "https://globaltouristcentre.com/fr/blog/andaman",
+        de: "https://globaltouristcentre.com/de/blog/andaman",
+        ru: "https://globaltouristcentre.com/ru/blog/andaman",
+        "x-default": "https://globaltouristcentre.com/blog/andaman",
+      },
     },
     openGraph: {
       title,

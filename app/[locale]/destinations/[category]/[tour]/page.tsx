@@ -41,7 +41,7 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const { locale, tour } = params;
+  const { locale, tour, category } = params;
 
   const t = getTranslations(locale);
   const data = t.tourData?.[tour]?.page?.metadata;
@@ -63,7 +63,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const description = data.description;
 
   const image = t.tourData?.[tour]?.page?.hero?.backgroundImage;
-  const canonical = `https://globaltouristcentre.com/${locale}/destinations${tour}`;
+  const canonical = `https://globaltouristcentre.com/${locale}/destinations/${category}/${tour}`;
 
 
   return {
@@ -72,12 +72,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     alternates: {
       canonical,
         languages: {
-        en:  `https://globaltouristcentre.com/destinations/${tour}`,
-        it:`https://globaltouristcentre.com/it/destinations/${tour}`,
-        fr:  `https://globaltouristcentre.com/fr/destinations/${tour}`,
-        de:  `https://globaltouristcentre.com/de/destinations/${tour}`,
-        ru:  `https://globaltouristcentre.com/ru/destinations/${tour}`,
-        "x-default":  `https://globaltouristcentre.com/destinations/${tour}`,
+        en:  `https://globaltouristcentre.com/destinations/${category}/${tour}`,
+        it:`https://globaltouristcentre.com/it/destinations/${category}/${tour}`,
+        fr:  `https://globaltouristcentre.com/fr/destinations/${category}/${tour}`,
+        de:  `https://globaltouristcentre.com/de/destinations/${category}/${tour}`,
+        ru:  `https://globaltouristcentre.com/ru/destinations/${category}/${tour}`,
+        "x-default":  `https://globaltouristcentre.com/destinations/${category}/${tour}`,
       }
     },
     openGraph: {
@@ -112,7 +112,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 /* PAGE */
 /* ------------------------------------------------------------------ */
 export default function TourDetailPage({ params }: PageProps) {
-  const { category, tour } = params;
+  const { locale, category, tour } = params;
 
   /* 1️⃣ Validate category */
   const validTours = TOUR_CATEGORIES[category as keyof typeof TOUR_CATEGORIES];

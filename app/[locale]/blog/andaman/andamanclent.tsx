@@ -178,13 +178,13 @@ export default function AndamanBlogPage() {
               </p>
             </div>
             <div className="flex gap-4 flex-wrap">
-              <Link href={`/${locale}/contact`}>
+              <Link href={`/${locale}/contact-us`}>
                 <Button size="lg" className="bg-teal-600 hover:bg-teal-700">
                   {t.blogAndaman.enquireNow}
                 </Button>
               </Link>
               <Link
-                href={`/${locale}/destinations/domestic/andaman-nicobar-tour-for-goa`}
+                href={`/${locale}/destinations/domestic/andaman-nicobar-tour-package`}
               >
                 <Button
                   variant="outline"
