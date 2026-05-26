@@ -41,7 +41,7 @@ export default function BlogClient() {
             category: t.blog.comingSoon,
             date: "",
             author: "",
-            image: "/assets/destinations/Thumbnails/Kerala.webp",
+            image: "/assets/destinations/Thumbnails/Bali-thumb.webp",
             isComingSoon: true,
         },
     ];
