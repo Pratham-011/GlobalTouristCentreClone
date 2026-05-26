@@ -1,5 +1,5 @@
 import type React from "react";
-import type {  Viewport } from "next";
+import type { Metadata , Viewport } from "next";
 import { Playfair_Display, Montserrat } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
@@ -8,7 +8,11 @@ import { I18nProvider } from "@/lib/i18n/context";
 import { Footer } from "@/components-eng/footer";
 import { WhatsAppButton } from "@/components-eng/whatsapp-button";
 import { CookieBanner } from "@/components/cookie-banner";
+import { SITE_URL } from "@/lib/site";
 
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+};
 import "./globals.css";
 
 /* -----------------------------
@@ -257,7 +261,7 @@ export default function RootLayout({
         <link
           rel="preload"
           as="image"
-          href="/assets/hero/Index-hero-sm.webp/"
+          href="/assets/hero/Index-hero-sm.webp"
           imageSrcSet="/assets/hero/Index-hero-sm.webp 640w, /assets/hero/Index-hero-md.webp 1024w, /assets/hero/Index-hero.webp 1920w"
           imageSizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
         />

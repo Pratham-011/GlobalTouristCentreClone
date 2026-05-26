@@ -50,15 +50,15 @@ export function Footer() {
   const popularTours = [
     {
       label: t.footer.goaBeach,
-      href: `/${locale}/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package`,
+      href: `/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package/`,
     },
     {
       label: t.footer.exploreSikkim,
-      href: `/${locale}/destinations/domestic/sikkim-darjeeling-gangtok-tour-from-goa`,
+      href: `/destinations/domestic/sikkim-darjeeling-gangtok-tour-from-goa/`,
     },
     {
       label: t.footer.keralaBackwaters,
-      href: `/${locale}/destinations/domestic/kerala-tour-package-from-goa/`,
+      href: `/destinations/domestic/kerala-tour-package-from-goa/`,
     },
   ];
 

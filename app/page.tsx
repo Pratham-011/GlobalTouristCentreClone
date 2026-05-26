@@ -25,7 +25,7 @@ export async function generateMetadata({
   const description =
     t.metadata?.home?.description ??
     "Plan your perfect vacation with GTC - Goa's leading travel agency.";
-
+  const image = "/assets/hero/Index-hero.webp";
   const canonical ="https://globaltouristcentre.com/";
 
   return {
@@ -46,7 +46,14 @@ export async function generateMetadata({
     openGraph: {
       title,
       description,
-      images: ["/assets/hero/Index-hero.webp"],
+      images: [
+        {
+          url: image,
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
       siteName: t.metadata?.brandname,
       type: "website",
       url: canonical,
@@ -58,7 +65,7 @@ export async function generateMetadata({
       description,
       images: [
         {
-          url: "/assets/hero/Index-hero.webp",
+          url: image,
           width: 1200,
           height: 630,
           alt: title,

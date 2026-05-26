@@ -42,7 +42,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
     description,
     alternates: {
       canonical,
-          languages: {
+      languages: {
         en: `https://globaltouristcentre.com/luxury-trips/`,
         it: `https://globaltouristcentre.com/it/luxury-trips/`,
         fr: `https://globaltouristcentre.com/fr/luxury-trips/`,
