@@ -26,7 +26,7 @@ export async function generateMetadata({
   const title = t.metadata?.about?.title || "About Us | Global Tourist Centre";
   const description = t.metadata?.about?.description || "Learn about Global Tourist Centre - your trusted travel partner since 2010.";
   const image = "/assets/hero/About-hero.webp";
-  const canonical = `https://globaltouristcentre.com/${params.locale}/about`; 
+  const canonical = `https://globaltouristcentre.com/${params.locale}/about/`; 
 
   return {
     title,
@@ -34,12 +34,12 @@ export async function generateMetadata({
     alternates: {
       canonical,
             languages: {
-        en: "https://globaltouristcentre.com/about",
-        it: "https://globaltouristcentre.com/it/about",
-        fr: "https://globaltouristcentre.com/fr/about",
-        de: "https://globaltouristcentre.com/de/about",
-        ru: "https://globaltouristcentre.com/ru/about",
-        "x-default": "https://globaltouristcentre.com/about",
+        en: "https://globaltouristcentre.com/about/",
+        it: "https://globaltouristcentre.com/it/about/",
+        fr: "https://globaltouristcentre.com/fr/about/",
+        de: "https://globaltouristcentre.com/de/about/",
+        ru: "https://globaltouristcentre.com/ru/about/",
+        "x-default": "https://globaltouristcentre.com/about/",
       },
     },
     openGraph: {

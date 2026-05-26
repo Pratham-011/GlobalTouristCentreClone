@@ -33,13 +33,21 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/hero/flight-booking-hero.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/flight-booking`;
+  const canonical = `https://globaltouristcentre.com/services/flight-booking/`;
 
   return {
     title,
     description,
     alternates: {
       canonical,
+          languages: {
+        en: "https://globaltouristcentre.com/services/flight-booking/",
+        it: "https://globaltouristcentre.com/it/services/flight-booking/",
+        fr: "https://globaltouristcentre.com/fr/services/flight-booking/",
+        de: "https://globaltouristcentre.com/de/services/flight-booking/",
+        ru: "https://globaltouristcentre.com/ru/services/flight-booking/",
+        "x-default": "https://globaltouristcentre.com/services/flight-booking/",
+      },
     },
     openGraph: {
       title,

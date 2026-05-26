@@ -61,10 +61,10 @@ export const it = {
       description:
         "Esplora le migliori escursioni giornaliere per visitatori internazionali — cascate, fauna, spiagge, templi e cultura. Prenota la tua avventura perfetta di un giorno!",
     },
-  "services": {
-    "title": "Global Tourist Centre – Servizi: visti, hotel e pacchetti viaggio",
-    "description": "Scopri soluzioni di viaggio personalizzate con Global Tourist Centre — assistenza per visti, prenotazioni alberghiere e pacchetti turistici nazionali e internazionali."
-  },
+    "services": {
+      "title": "Global Tourist Centre – Servizi: visti, hotel e pacchetti viaggio",
+      "description": "Scopri soluzioni di viaggio personalizzate con Global Tourist Centre — assistenza per visti, prenotazioni alberghiere e pacchetti turistici nazionali e internazionali."
+    },
     blog: {
       title:
         "Blog Global Tourist Centre – Storie di viaggio ispiratrici e Guide",
@@ -533,10 +533,10 @@ export const it = {
         "Posso modificare un pacchetto standard invece di crearne uno nuovo?",
       faq4Answer:
         "Assolutamente sì. Il nostro servizio di pianificazione dell'itinerario è gratuito quando prenoti il tuo tour con noi. Tuttavia, per itinerari complessi che richiedono ricerche approfondite, potrebbe essere applicata una modesta commissione di pianificazione, interamente deducibile dall'importo finale della prenotazione.",
-  "metadata": {
-    "title": "Pacchetti personalizzati | Piani di viaggio su misura - GTC",
-    "description": "Crea la tua vacanza perfetta con i nostri pacchetti personalizzati. Ottieni itinerari su misura, piani flessibili e soluzioni di viaggio complete con supporto esperto."
-  },
+      "metadata": {
+        "title": "Pacchetti personalizzati | Piani di viaggio su misura - GTC",
+        "description": "Crea la tua vacanza perfetta con i nostri pacchetti personalizzati. Ottieni itinerari su misura, piani flessibili e soluzioni di viaggio complete con supporto esperto."
+      },
     },
     // Visa Agent
     visaAgent: {
@@ -2027,10 +2027,10 @@ export const it = {
           }
         },
         "language": "it",
-  "metadata": {
-    "title": "Tour Nord Goa: spiagge, Forte Aguada e attrazioni costiere",
-    "description": "Esplora il Nord Goa in un giorno con spiagge, forti e mercati vivaci in un tour guidato. Goditi viste panoramiche e cultura locale. Prenota ora!"
-  }
+        "metadata": {
+          "title": "Tour Nord Goa: spiagge, Forte Aguada e attrazioni costiere",
+          "description": "Esplora il Nord Goa in un giorno con spiagge, forti e mercati vivaci in un tour guidato. Goditi viste panoramiche e cultura locale. Prenota ora!"
+        }
       },
       "cta": {
         "headline": "Pronti a esplorare il Goa del Nord?",
@@ -2748,10 +2748,10 @@ export const it = {
           }
         },
         "language": "it",
-  "metadata": {
-    "title": "Tour di un giorno nel Sud Goa per viaggiatori stranieri in India",
-    "description": "Esplora il Sud Goa in un giorno — spiagge di Agonda, Palolem, Butterfly e Cola, kayak, Forte di Cabo de Rama e tramonto. Perfetto per viaggiatori stranieri in India."
-  }
+        "metadata": {
+          "title": "Tour di un giorno nel Sud Goa per viaggiatori stranieri in India",
+          "description": "Esplora il Sud Goa in un giorno — spiagge di Agonda, Palolem, Butterfly e Cola, kayak, Forte di Cabo de Rama e tramonto. Perfetto per viaggiatori stranieri in India."
+        }
       },
       "cta": {
         "headline": "Pronti per la vostra avventura nel Goa del Sud?",
@@ -3105,10 +3105,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Escursione giornaliera a Dandeli: safari con elefanti e avventura",
-    "description": "Vivi una gita di un giorno a Dandeli con safari con elefanti, giro in jeep, rafting, kayak e jacuzzi naturale. Perfetto per gli amanti della natura e dell’avventura."
-  }
+        "metadata": {
+          "title": "Escursione giornaliera a Dandeli: safari con elefanti e avventura",
+          "description": "Vivi una gita di un giorno a Dandeli con safari con elefanti, giro in jeep, rafting, kayak e jacuzzi naturale. Perfetto per gli amanti della natura e dell’avventura."
+        }
       },
       cta: {
         headline: "Pronto per la tua avventura con Dandeli?",
@@ -3633,10 +3633,10 @@ export const it = {
           }
         },
         "language": "it",
-  "metadata": {
-    "title": "Tour di lusso in yacht a Goa: crociera privata, tramonto ed esperienza premium",
-    "description": "Goditi un tour giornaliero di lusso in yacht a Goa con crociera privata, vista sul tramonto ed esperienza premium a bordo. Perfetto per feste, coppie e momenti indimenticabili!"
-  }
+        "metadata": {
+          "title": "Tour di lusso in yacht a Goa: crociera privata, tramonto ed esperienza premium",
+          "description": "Goditi un tour giornaliero di lusso in yacht a Goa con crociera privata, vista sul tramonto ed esperienza premium a bordo. Perfetto per feste, coppie e momenti indimenticabili!"
+        }
       },
       cta: {
         headline: "Prenota la tua esperienza in yacht di lusso",
@@ -3818,10 +3818,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Escursione di un giorno a Mumbai da Goa per viaggiatori stranieri",
-    "description": "Vola da Goa per un tour di un giorno a Mumbai. Esplora Gateway of India, Dharavi, Dhobi Ghat e siti UNESCO con una guida — perfetto per viaggiatori stranieri in India."
-  },
+        "metadata": {
+          "title": "Escursione di un giorno a Mumbai da Goa per viaggiatori stranieri",
+          "description": "Vola da Goa per un tour di un giorno a Mumbai. Esplora Gateway of India, Dharavi, Dhobi Ghat e siti UNESCO con una guida — perfetto per viaggiatori stranieri in India."
+        },
       },
       cta: {
         headline: "Pronto per esplorare Mumbai?",
@@ -4808,10 +4808,10 @@ export const it = {
           meta: {},
         },
         language: "it",
-  "metadata": {
-    "title": "Tour Aurangabad 1N/2G con grotte di Ajanta ed Ellora",
-    "description": "Visita le grotte di Ajanta ed Ellora, Bibi Ka Maqbara e il Forte di Daulatabad con un viaggio 1N/2G ad Aurangabad. Include soggiorno in hotel, tour guidati e biglietti d’ingresso."
-  }
+        "metadata": {
+          "title": "Tour Aurangabad 1N/2G con grotte di Ajanta ed Ellora",
+          "description": "Visita le grotte di Ajanta ed Ellora, Bibi Ka Maqbara e il Forte di Daulatabad con un viaggio 1N/2G ad Aurangabad. Include soggiorno in hotel, tour guidati e biglietti d’ingresso."
+        }
       },
       cta: {
         headline: "Pronto per la tua avventura ad Aurangabad?",
@@ -7039,10 +7039,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Pacchetto Hampi 1N/2G da Goa con soggiorno e visite",
-    "description": "Esplora i siti patrimonio UNESCO di Hampi con un viaggio 1N/2G da Goa. Include soggiorno in hotel, visite guidate, giro in coracle e biglietti d’ingresso ai monumenti."
-  },
+        "metadata": {
+          "title": "Pacchetto Hampi 1N/2G da Goa con soggiorno e visite",
+          "description": "Esplora i siti patrimonio UNESCO di Hampi con un viaggio 1N/2G da Goa. Include soggiorno in hotel, visite guidate, giro in coracle e biglietti d’ingresso ai monumenti."
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura a Hampi?",
@@ -10935,10 +10935,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Prenota pacchetto Thailandia 7N/8G con 30% di sconto solo da Goa",
-    "description": "Prenota un viaggio in Thailandia di 7 notti e 8 giorni da Goa con il 30% di sconto. Visita Bangkok, Pattaya, Krabi e Phuket con Coral Island, isole Phi Phi, tour della città e trasferimenti."
-  }
+        "metadata": {
+          "title": "Prenota pacchetto Thailandia 7N/8G con 30% di sconto solo da Goa",
+          "description": "Prenota un viaggio in Thailandia di 7 notti e 8 giorni da Goa con il 30% di sconto. Visita Bangkok, Pattaya, Krabi e Phuket con Coral Island, isole Phi Phi, tour della città e trasferimenti."
+        }
       },
       cta: {
         headline: "Pronto per la tua avventura in Tailandia?",
@@ -11289,10 +11289,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Pacchetto Bali 6N/7G – 30% di sconto solo per residenti di Goa | Prenota ora",
-    "description": "Scopri Bali con questo pacchetto 6N/7G con sconto esclusivo del 30% solo per residenti di Goa — goditi spiagge, templi, sport acquatici e tour dell’isola. Offerta limitata — prenota ora!"
-  },
+        "metadata": {
+          "title": "Pacchetto Bali 6N/7G – 30% di sconto solo per residenti di Goa | Prenota ora",
+          "description": "Scopri Bali con questo pacchetto 6N/7G con sconto esclusivo del 30% solo per residenti di Goa — goditi spiagge, templi, sport acquatici e tour dell’isola. Offerta limitata — prenota ora!"
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Azerbaigian?",
@@ -11950,10 +11950,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Pacchetto Georgia 6N/7G – 30% di sconto solo per residenti di Goa | Prenota ora",
-    "description": "Esplora la Georgia con il nostro pacchetto 6N/7G da Goa. Visita Tbilisi, Kazbegi e i paesaggi scenografici del Caucaso con offerte speciali. Prenota il tuo viaggio oggi!"
-  }
+        "metadata": {
+          "title": "Pacchetto Georgia 6N/7G – 30% di sconto solo per residenti di Goa | Prenota ora",
+          "description": "Esplora la Georgia con il nostro pacchetto 6N/7G da Goa. Visita Tbilisi, Kazbegi e i paesaggi scenografici del Caucaso con offerte speciali. Prenota il tuo viaggio oggi!"
+        }
       },
       cta: {
         headline: "Pronto per la tua avventura in Georgia?",
@@ -12287,10 +12287,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Pacchetto Kazakistan 4N/5G da Goa – montagne, laghi e city escape",
-    "description": "Esplora Almaty con il nostro pacchetto Kazakistan 4N/5G da Goa. Visita stazioni sciistiche, laghi e attrazioni cittadine con offerte speciali. Prenota oggi la tua fuga internazionale!"
-  },
+        "metadata": {
+          "title": "Pacchetto Kazakistan 4N/5G da Goa – montagne, laghi e city escape",
+          "description": "Esplora Almaty con il nostro pacchetto Kazakistan 4N/5G da Goa. Visita stazioni sciistiche, laghi e attrazioni cittadine con offerte speciali. Prenota oggi la tua fuga internazionale!"
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura ad Almaty?",
@@ -12760,10 +12760,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Pacchetto Phuket & Krabi 4N/5G con 30% di sconto solo da Goa",
-    "description": "Prenota un viaggio Phuket & Krabi di 4N/5G da Goa con il 30% di sconto. Include tour delle 4 isole, isole Phi Phi, tour della città di Phuket, hotel, trasferimenti ed escursioni in motoscafo."
-  },
+        "metadata": {
+          "title": "Pacchetto Phuket & Krabi 4N/5G con 30% di sconto solo da Goa",
+          "description": "Prenota un viaggio Phuket & Krabi di 4N/5G da Goa con il 30% di sconto. Include tour delle 4 isole, isole Phi Phi, tour della città di Phuket, hotel, trasferimenti ed escursioni in motoscafo."
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura in Tailandia?",
@@ -12910,10 +12910,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Pacchetto Singapore 6N/7G con 30% di sconto solo da Goa",
-    "description": "Prenota un viaggio a Singapore di 6N/7G da Goa con il 30% di sconto. Include tour della città, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands e Night Safari."
-  },
+        "metadata": {
+          "title": "Pacchetto Singapore 6N/7G con 30% di sconto solo da Goa",
+          "description": "Prenota un viaggio a Singapore di 6N/7G da Goa con il 30% di sconto. Include tour della città, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands e Night Safari."
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura a Singapore e in Malesia?",
@@ -13083,10 +13083,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Tour di lusso Sri Lanka 7N/8G – 30% di sconto solo per residenti di Goa",
-    "description": "Esplora lo Sri Lanka in 7N/8G con soggiorni di lusso, trasferimenti privati ed esperienze curate — ora con il 30% di sconto solo per residenti di Goa. Offerta a tempo limitato, prenota ora!"
-  },
+        "metadata": {
+          "title": "Tour di lusso Sri Lanka 7N/8G – 30% di sconto solo per residenti di Goa",
+          "description": "Esplora lo Sri Lanka in 7N/8G con soggiorni di lusso, trasferimenti privati ed esperienze curate — ora con il 30% di sconto solo per residenti di Goa. Offerta a tempo limitato, prenota ora!"
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura nello Sri Lanka?",
@@ -13253,10 +13253,10 @@ export const it = {
           },
         },
         language: "it",
-  "metadata": {
-    "title": "Prenota pacchetto Turchia 5N/6G con 30% di sconto solo da Goa",
-    "description": "Prenota un viaggio in Turchia di 5 notti e 6 giorni da Goa con il 30% di sconto. Esplora le grotte della Cappadocia, le attrazioni di Istanbul, una crociera sul Bosforo, bazar e palazzi storici."
-  },
+        "metadata": {
+          "title": "Prenota pacchetto Turchia 5N/6G con 30% di sconto solo da Goa",
+          "description": "Prenota un viaggio in Turchia di 5 notti e 6 giorni da Goa con il 30% di sconto. Esplora le grotte della Cappadocia, le attrazioni di Istanbul, una crociera sul Bosforo, bazar e palazzi storici."
+        },
       },
       cta: {
         headline: "Pronto per la tua avventura turca?",
@@ -13614,10 +13614,10 @@ export const it = {
         discountBadge: "Fino al 25% di SCONTO sulle prenotazioni anticipate",
         image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-  "metadata": {
-    "title": "Tour di lusso Triangolo d’Oro | Circuito premium Delhi–Agra–Jaipur – GTC",
-    "description": "Goditi un esclusivo tour di lusso Triangolo d’Oro con Global Tourist Centre: soggiorni in palazzi storici, trasferimenti privati con autista, visite VIP a Delhi, Agra e Jaipur ed esperienze curate per viaggiatori esigenti."
-  },
+      "metadata": {
+        "title": "Tour di lusso Triangolo d’Oro | Circuito premium Delhi–Agra–Jaipur – GTC",
+        "description": "Goditi un esclusivo tour di lusso Triangolo d’Oro con Global Tourist Centre: soggiorni in palazzi storici, trasferimenti privati con autista, visite VIP a Delhi, Agra e Jaipur ed esperienze curate per viaggiatori esigenti."
+      },
 
       toursSection: {
         title: "Pacchetti Premium Triangolo d'Oro",
@@ -13816,10 +13816,10 @@ export const it = {
         discountBadge: "Fino al 25% di SCONTO sulle prenotazioni anticipate",
         image: "/assets/Luxury/Karnataka/hero.webp",
       },
-  "metadata": {
-    "title": "Tour di lusso Karnataka – Esperienza su misura tra patrimonio e natura | GTC",
-    "description": "Intraprendi un indimenticabile tour di lusso in Karnataka con Global Tourist Centre. Soggiorna in palazzi reali, esplora il patrimonio di Mysore, vivi safari a Bandipur, rilassati nei Ghati occidentali e goditi guide private e cucina gourmet."
-  },
+      "metadata": {
+        "title": "Tour di lusso Karnataka – Esperienza su misura tra patrimonio e natura | GTC",
+        "description": "Intraprendi un indimenticabile tour di lusso in Karnataka con Global Tourist Centre. Soggiorna in palazzi reali, esplora il patrimonio di Mysore, vivi safari a Bandipur, rilassati nei Ghati occidentali e goditi guide private e cucina gourmet."
+      },
 
       toursSection: {
         title: "Pacchetti Viaggio Premium Karnataka",
@@ -14320,10 +14320,10 @@ export const it = {
           "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
         background_image: "/assets/Luxury/Golden Triangle/hero.webp",
       },
-  "metadata": {
-    "title": "Tour di lusso Triangolo d’Oro 6N/7G | Global Tourist Centre",
-    "description": "Intraprendi un tour di lusso Triangolo d’Oro di 6 notti e 7 giorni con Global Tourist Centre — soggiorni in palazzi storici premium, trasferimenti privati con autista, alba al Taj Mahal, hotel reali a Jaipur e servizio impeccabile per viaggiatori esigenti."
-  },
+      "metadata": {
+        "title": "Tour di lusso Triangolo d’Oro 6N/7G | Global Tourist Centre",
+        "description": "Intraprendi un tour di lusso Triangolo d’Oro di 6 notti e 7 giorni con Global Tourist Centre — soggiorni in palazzi storici premium, trasferimenti privati con autista, alba al Taj Mahal, hotel reali a Jaipur e servizio impeccabile per viaggiatori esigenti."
+      },
       itinerary: {
         title: "Un viaggio nel cuore culturale dell'India",
         days: [
@@ -14518,11 +14518,11 @@ export const it = {
               },
               {
                 text: "Esplora il Sikkim",
-                href: "../itinerary/domestic-trips/sikkim-tour-for-goa",
+                href: "../itinerary/domestic/sikkim-tour-for-goa",
               },
               {
                 text: "Backwaters del Kerala",
-                href: "../itinerary/domestic-trips/Kerala-5N6D-Trip",
+                href: "../itinerary/domestic/Kerala-5N6D-Trip",
               },
             ],
           },
@@ -14911,11 +14911,11 @@ export const it = {
               },
               {
                 text: "Esplora il Sikkim",
-                href: "../itinerary/domestic-trips/sikkim-tour-for-goa",
+                href: "../itinerary/domestic/sikkim-tour-for-goa",
               },
               {
                 text: "Backwaters del Kerala",
-                href: "../itinerary/domestic-trips/Kerala-5N6D-Trip",
+                href: "../itinerary/domestic/Kerala-5N6D-Trip",
               },
             ],
           },
@@ -15258,11 +15258,11 @@ export const it = {
               },
               {
                 text: "Esplora il Sikkim",
-                href: "../itinerary/domestic-trips/sikkim-tour-for-goa",
+                href: "../itinerary/domestic/sikkim-tour-for-goa",
               },
               {
                 text: "Backwaters del Kerala",
-                href: "../itinerary/domestic-trips/Kerala-5N6D-Trip",
+                href: "../itinerary/domestic/Kerala-5N6D-Trip",
               },
             ],
           },

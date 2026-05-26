@@ -13641,11 +13641,11 @@ export const en = {
               },
               {
                 text: "Explore Sikkim",
-                href: "../itinerary/domestic-trips/sikkim-tour-for-goa",
+                href: "../itinerary/domestic/sikkim-tour-for-goa",
               },
               {
                 text: "Kerala Backwaters",
-                href: "../itinerary/domestic-trips/Kerala-5N6D-Trip",
+                href: "../itinerary/domestic/Kerala-5N6D-Trip",
               },
             ],
           },
@@ -14056,11 +14056,11 @@ export const en = {
               },
               {
                 text: "Explore Sikkim",
-                href: "../itinerary/domestic-trips/sikkim-tour-for-goa",
+                href: "../itinerary/domestic/sikkim-tour-for-goa",
               },
               {
                 text: "Kerala Backwaters",
-                href: "../itinerary/domestic-trips/Kerala-5N6D-Trip",
+                href: "../itinerary/domestic/Kerala-5N6D-Trip",
               },
             ],
           },
@@ -14412,11 +14412,11 @@ export const en = {
               },
               {
                 text: "Explore Sikkim",
-                href: "../itinerary/domestic-trips/sikkim-tour-for-goa",
+                href: "../itinerary/domestic/sikkim-tour-for-goa",
               },
               {
                 text: "Kerala Backwaters",
-                href: "../itinerary/domestic-trips/Kerala-5N6D-Trip",
+                href: "../itinerary/domestic/Kerala-5N6D-Trip",
               },
             ],
           },

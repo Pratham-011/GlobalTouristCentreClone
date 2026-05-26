@@ -33,13 +33,21 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/hero/hotel-booking-hero.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/hotel-booking`;
+  const canonical = `https://globaltouristcentre.com/services/hotel-booking/`;
 
   return {
     title,
     description,
     alternates: {
       canonical,
+      languages: {
+        en: "https://globaltouristcentre.com/services/hotel-booking/",
+        it: "https://globaltouristcentre.com/it/services/hotel-booking/",
+        fr: "https://globaltouristcentre.com/fr/services/hotel-booking/",
+        de: "https://globaltouristcentre.com/de/services/hotel-booking/",
+        ru: "https://globaltouristcentre.com/ru/services/hotel-booking/",
+        "x-default": "https://globaltouristcentre.com/services/hotel-booking/",
+      },
     },
     openGraph: {
       title,

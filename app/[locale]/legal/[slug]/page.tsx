@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         
     const image = pageData.heroImage;
 
-    const canonical = `https://globaltouristcentre.com/${locale}/legal/${slug}`;
+    const canonical = `https://globaltouristcentre.com/${locale}/legal/${slug}/`;
 
     return {
         title: translation.metadata.title,
@@ -47,12 +47,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         alternates: {
             canonical,
     languages: {
-        en: `https://globaltouristcentre.com/legal/${slug}`,
-        it: `https://globaltouristcentre.com/it/legal/${slug}`,
-        fr: `https://globaltouristcentre.com/fr/legal/${slug}`,
-        de: `https://globaltouristcentre.com/de/legal/${slug}`,
-        ru: `https://globaltouristcentre.com/ru/legal/${slug}`,
-        "x-default": `https://globaltouristcentre.com/legal/${slug}`,
+        en: `https://globaltouristcentre.com/legal/${slug}/`,
+        it: `https://globaltouristcentre.com/it/legal/${slug}/`,
+        fr: `https://globaltouristcentre.com/fr/legal/${slug}/`,
+        de: `https://globaltouristcentre.com/de/legal/${slug}/`,
+        ru: `https://globaltouristcentre.com/ru/legal/${slug}/`,
+        "x-default": `https://globaltouristcentre.com/legal/${slug}/`,
       },
         },  
         openGraph: {

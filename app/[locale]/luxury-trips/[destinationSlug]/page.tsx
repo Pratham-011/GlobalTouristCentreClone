@@ -70,7 +70,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     ? t.luxuryTrain?.[destinationSlug]?.image
     : luxuryPageContent[destinationSlug as DestinationSlug]?.image;
 
-  const canonical = `https://globaltouristcentre.com/${locale}/luxury-trips/${destinationSlug}`;
+  const canonical = `https://globaltouristcentre.com/${locale}/luxury-trips/${destinationSlug}/`;
 
   return {
     title: pageData.metadata.title,
@@ -78,12 +78,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     alternates: {
       canonical,
                       languages: {
-        en: `https://globaltouristcentre.com/luxury-trips/${destinationSlug}`,
-        it: `https://globaltouristcentre.com/it/luxury-trips/${destinationSlug}`,
-        fr: `https://globaltouristcentre.com/fr/luxury-trips/${destinationSlug}`,
-        de: `https://globaltouristcentre.com/de/luxury-trips/${destinationSlug}`,
-        ru: `https://globaltouristcentre.com/ru/luxury-trips/${destinationSlug}`,
-        "x-default": `https://globaltouristcentre.com/luxury-trips/${destinationSlug}`,
+        en: `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/`,
+        it: `https://globaltouristcentre.com/it/luxury-trips/${destinationSlug}/`,
+        fr: `https://globaltouristcentre.com/fr/luxury-trips/${destinationSlug}/`,
+        de: `https://globaltouristcentre.com/de/luxury-trips/${destinationSlug}/`,
+        ru: `https://globaltouristcentre.com/ru/luxury-trips/${destinationSlug}/`,
+        "x-default": `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/`,
       },
     },
     openGraph: {

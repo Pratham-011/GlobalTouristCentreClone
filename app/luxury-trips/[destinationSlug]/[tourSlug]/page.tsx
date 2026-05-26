@@ -86,7 +86,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     t.luxuryTourPackages?.[tourSlug]?.metadata?.description ||
     "Custom travel solutions with Global Tourist Centre - visa assistance, hotel bookings, and travel packages.";
   const image = t.luxuryTourPackages?.[tourSlug]?.hero_section?.background_image;
-  const canonical = `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}`;
+  const canonical = `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}/`;
 
   return {
     title,
@@ -94,12 +94,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     alternates: { 
       canonical,
                       languages: {
-        en: `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}`,
-        it: `https://globaltouristcentre.com/it/luxury-trips/${destinationSlug}/${tourSlug}`,
-        fr: `https://globaltouristcentre.com/fr/luxury-trips/${destinationSlug}/${tourSlug}`,
-        de: `https://globaltouristcentre.com/de/luxury-trips/${destinationSlug}/${tourSlug}`,
-        ru: `https://globaltouristcentre.com/ru/luxury-trips/${destinationSlug}/${tourSlug}`,
-        "x-default": `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}`,
+        en: `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}/`,
+        it: `https://globaltouristcentre.com/it/luxury-trips/${destinationSlug}/${tourSlug}/`,
+        fr: `https://globaltouristcentre.com/fr/luxury-trips/${destinationSlug}/${tourSlug}/`,
+        de: `https://globaltouristcentre.com/de/luxury-trips/${destinationSlug}/${tourSlug}/`,
+        ru: `https://globaltouristcentre.com/ru/luxury-trips/${destinationSlug}/${tourSlug}/`,
+        "x-default": `https://globaltouristcentre.com/luxury-trips/${destinationSlug}/${tourSlug}/`,
       },
      },
     openGraph: {

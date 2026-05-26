@@ -26,14 +26,14 @@ export const metadata: Metadata = {
   title: t.metadata.landingPage.title,
   description: t.metadata.landingPage.description,
   alternates: {
-    canonical: "https://globaltouristcentre.com/landing-page",
+    canonical: "https://globaltouristcentre.com/landing-page/",
           languages: {
-        en: "https://globaltouristcentre.com/landing-page",
-        it: "https://globaltouristcentre.com/it/landing-page",
-        fr: "https://globaltouristcentre.com/fr/landing-page",
-        de: "https://globaltouristcentre.com/de/landing-page",
-        ru: "https://globaltouristcentre.com/ru/landing-page",
-        "x-default": "https://globaltouristcentre.com/landing-page",
+        en: "https://globaltouristcentre.com/landing-page/",
+        it: "https://globaltouristcentre.com/it/landing-page/",
+        fr: "https://globaltouristcentre.com/fr/landing-page/",
+        de: "https://globaltouristcentre.com/de/landing-page/",
+        ru: "https://globaltouristcentre.com/ru/landing-page/",
+        "x-default": "https://globaltouristcentre.com/landing-page/",
       },
   },
   openGraph: {
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     images: ["/assets/luxury-travel-destination-mountains-sunset.webp"],
     siteName: t.metadata.brandname,
     type: "website",
-    url: "https://globaltouristcentre.com/landing-page",
+    url: "https://globaltouristcentre.com/landing-page/",
   },
   twitter: {
     title: t.metadata.landingPage.title,

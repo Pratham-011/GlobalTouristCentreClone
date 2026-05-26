@@ -24,7 +24,7 @@ export async function generateMetadata({
   const title = t.metadata?.home?.title || "Global Tourist Centre | Your Journey Begins Here";
   const description = t.metadata?.home?.description || "Plan your perfect vacation with GTC - Goa's leading travel agency. From domestic tours to international holidays, we offer personalized packages.";
   const image = "/assets/hero/Index-hero.webp";
-  const canonical = `https://globaltouristcentre.com/${params.locale}`;
+  const canonical = `https://globaltouristcentre.com/${params.locale}/`;
 
   return {
     title,

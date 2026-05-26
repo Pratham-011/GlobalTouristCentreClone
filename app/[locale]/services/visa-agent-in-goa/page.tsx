@@ -34,7 +34,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/hero/visa-hero.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/${locale}/visa-agent-in-goa`;
+  const canonical = `https://globaltouristcentre.com/${locale}/services/visa-agent-in-goa/`;
 
   return {
     title,
@@ -42,6 +42,14 @@ export function generateMetadata({ params }: PageProps): Metadata {
 
     alternates: {
       canonical,
+      languages: {
+        en: "https://globaltouristcentre.com/services/visa-agent-in-goa/",
+        it: "https://globaltouristcentre.com/it/services/visa-agent-in-goa/",
+        fr: "https://globaltouristcentre.com/fr/services/visa-agent-in-goa/",
+        de: "https://globaltouristcentre.com/de/services/visa-agent-in-goa/",
+        ru: "https://globaltouristcentre.com/ru/services/visa-agent-in-goa/",
+        "x-default": "https://globaltouristcentre.com/services/visa-agent-in-goa/",
+      },
     },
 
     openGraph: {

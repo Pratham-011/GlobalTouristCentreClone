@@ -30,7 +30,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/services/custom-tour-about.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/customized-trip-package`;
+  const canonical = `https://globaltouristcentre.com/services/customize-tour-package/`;
 
 
   return {
@@ -38,6 +38,14 @@ export function generateMetadata({ params }: PageProps): Metadata {
     description,
     alternates: {
       canonical,
+      languages: {
+        en: "https://globaltouristcentre.com/services/customize-tour-package/",
+        it: "https://globaltouristcentre.com/it/services/customize-tour-package/",
+        fr: "https://globaltouristcentre.com/fr/services/customize-tour-package/",
+        de: "https://globaltouristcentre.com/de/services/customize-tour-package/",
+        ru: "https://globaltouristcentre.com/ru/services/customize-tour-package/",
+        "x-default": "https://globaltouristcentre.com/services/customize-tour-package/",
+      },
     },
     openGraph: {
       title,

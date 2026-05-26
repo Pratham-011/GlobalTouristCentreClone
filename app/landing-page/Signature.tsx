@@ -49,14 +49,14 @@ const Signature = () => {
         id: "taj",
         imageUrl: "/assets/destinations/Thumbnails/agra.webp",
         price: "$300",
-        link: `/destinations/domestic/delhi-agra-1n-2d-trip-package`,
+        link: `/destinations/day-trips/delhi-agra-1n-2d-trip-package`,
         popular: true,
       },
       {
         id: "hampi",
         imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
         price: "$170",
-        link: `/destinations/domestic/hampi-day-excursions`,
+        link: `/destinations/day-trips/hampi-day-excursions`,
         popular: false,
       },
     ];

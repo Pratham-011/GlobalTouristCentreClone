@@ -34,12 +34,23 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const image = "/assets/hero/domestic-international-hero.webp";
 
   /** 3️⃣ Canonical URL */
-  const canonical = `https://globaltouristcentre.com/domestic-international-trips`;
+  const canonical = `https://globaltouristcentre.com/services/domestice-and-international-trips/`;
 
 
   return {
     title,
     description,
+        alternates: {
+      canonical,
+      languages: {
+        en: "https://globaltouristcentre.com/services/domestice-and-international-trips/",
+        it: "https://globaltouristcentre.com/it/services/domestice-and-international-trips/",
+        fr: "https://globaltouristcentre.com/fr/services/domestice-and-international-trips/",
+        de: "https://globaltouristcentre.com/de/services/domestice-and-international-trips/",
+        ru: "https://globaltouristcentre.com/ru/services/domestice-and-international-trips/",
+        "x-default": "https://globaltouristcentre.com/services/domestice-and-international-trips/",
+      },
+    },
     openGraph: {
       title,
       description,

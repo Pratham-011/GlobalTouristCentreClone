@@ -35,7 +35,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const description = t.metadata?.luxuryDestinations?.description || "Discover luxury destinations with Global Tourist Centre - the perfect blend of comfort and style.";
 
   const image = "/assets/dubai-skyline-burj-khalifa-luxury-evening.webp";
-  const canonical = `https://globaltouristcentre.com/luxury-trips`;
+  const canonical = `https://globaltouristcentre.com/luxury-trips/`;
 
   return {
     title,
@@ -43,12 +43,12 @@ export function generateMetadata({ params }: PageProps): Metadata {
     alternates: {
       canonical,
           languages: {
-        en: `https://globaltouristcentre.com/luxury-trips`,
-        it: `https://globaltouristcentre.com/it/luxury-trips`,
-        fr: `https://globaltouristcentre.com/fr/luxury-trips`,
-        de: `https://globaltouristcentre.com/de/luxury-trips`,
-        ru: `https://globaltouristcentre.com/ru/luxury-trips`,
-        "x-default": `https://globaltouristcentre.com/luxury-trips`,
+        en: `https://globaltouristcentre.com/luxury-trips/`,
+        it: `https://globaltouristcentre.com/it/luxury-trips/`,
+        fr: `https://globaltouristcentre.com/fr/luxury-trips/`,
+        de: `https://globaltouristcentre.com/de/luxury-trips/`,
+        ru: `https://globaltouristcentre.com/ru/luxury-trips/`,
+        "x-default": `https://globaltouristcentre.com/luxury-trips/`,
       },
     },
     openGraph: {

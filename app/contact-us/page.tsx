@@ -27,14 +27,14 @@ export async function generateMetadata({params}: {params: PageProps["params"];
     title: t.metadata?.contact?.title ?? "Contact Us | Global Tourist Centre",
     description:t.metadata?.contact?.description ?? "Contact Global Tourist Centre for personalized travel packages and visa assistance.",
     alternates: {
-      canonical: `https://globaltouristcentre.com/contact-us`,
+      canonical: `https://globaltouristcentre.com/contact-us/`,
             languages: {
-        en: "https://globaltouristcentre.com/contact-us",
-        it: "https://globaltouristcentre.com/it/contact-us",
-        fr: "https://globaltouristcentre.com/fr/contact-us",
-        de: "https://globaltouristcentre.com/de/contact-us",
-        ru: "https://globaltouristcentre.com/ru/contact-us",
-        "x-default": "https://globaltouristcentre.com/contact-us",
+        en: "https://globaltouristcentre.com/contact-us/",
+        it: "https://globaltouristcentre.com/it/contact-us/",
+        fr: "https://globaltouristcentre.com/fr/contact-us/",
+        de: "https://globaltouristcentre.com/de/contact-us/",
+        ru: "https://globaltouristcentre.com/ru/contact-us/",
+        "x-default": "https://globaltouristcentre.com/contact-us/",
       },
     },
     openGraph: {
@@ -43,7 +43,7 @@ export async function generateMetadata({params}: {params: PageProps["params"];
       images: [image],
       siteName: t.metadata?.brandname,
       type: "website",
-      url: `https://globaltouristcentre.com/contact-us`,
+      url: `https://globaltouristcentre.com/contact-us/`,
     },
     twitter: {
       title: t.metadata?.contact?.title ?? "Contact Us | Global Tourist Centre",

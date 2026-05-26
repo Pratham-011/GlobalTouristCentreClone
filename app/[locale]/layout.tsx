@@ -1,5 +1,5 @@
 import type React from "react";
-import type { Metadata, Viewport } from "next";
+import type { Viewport } from "next";
 import { Playfair_Display } from "next/font/google";
 import { Montserrat } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
@@ -37,46 +37,8 @@ export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
-/* -----------------------------
-   Metadata (base – overridden per page)
------------------------------- */
-export async function generateMetadata({
-  params,
-}: {
-  params: { locale: string };
-}): Promise<Metadata> {
-  const locale = params.locale;
 
-  return {
-    title: "Global Tourist Centre | Luxury Travel Experiences",
-    description:
-      "We don't just book trips — we design lifetimes of stories. Bespoke domestic and international tours since 2010.",
-    keywords: [
-      "luxury travel",
-      "tour packages",
-      "India tours",
-      "international travel",
-      "Goa tours",
-      "Kerala luxury trips",
-    ],
-    metadataBase: new URL("https://globaltouristcentre.com"),
-    alternates: {
-      canonical: locale === "en" ? "/" : `/${locale}/`,
-      languages: {
-        en: "/",
-        ru: "/ru/",
-        it: "/it/",
-        fr: "/fr/",
-        de: "/de/",
-        "x-default": "/",
-      },
-    },
-    openGraph: {
-      type: "website",
-      siteName: "Global Tourist Centre",
-    },
-  };
-}
+
 
 /* -----------------------------
    Viewport
@@ -148,7 +110,7 @@ export default function LocaleLayout({
               "itemOffered": {
                 "@type": "Service",
                 "name": "Domestic & International Trips",
-                "url": `https://globaltouristcentre.com/${params.locale}/service/domestic-and-international-trips`
+                "url": `https://globaltouristcentre.com/${params.locale}/service/domestic-and-international-trips/`
               }
             },
             {
@@ -156,7 +118,7 @@ export default function LocaleLayout({
               "itemOffered": {
                 "@type": "Service",
                 "name": "Customized Tours",
-                "url": `https://globaltouristcentre.com/${params.locale}/service/customize-trip-package`
+                "url": `https://globaltouristcentre.com/${params.locale}/service/customize-trip-package/`
               }
             },
             {
@@ -164,7 +126,7 @@ export default function LocaleLayout({
               "itemOffered": {
                 "@type": "Service",
                 "name": "Visa Documentation",
-                "url": `https://globaltouristcentre.com/${params.locale}/service/visa-agent-in-goa`
+                "url": `https://globaltouristcentre.com/${params.locale}/service/visa-agent-in-goa/`
               }
             },
             {
@@ -172,7 +134,7 @@ export default function LocaleLayout({
               "itemOffered": {
                 "@type": "Service",
                 "name": "Hotel Booking",
-                "url": `https://globaltouristcentre.com/${params.locale}/service/hotel-booking`
+                "url": `https://globaltouristcentre.com/${params.locale}/service/hotel-booking/`
               }
             },
             {
@@ -180,7 +142,7 @@ export default function LocaleLayout({
               "itemOffered": {
                 "@type": "Service",
                 "name": "Flight Booking",
-                "url": `https://globaltouristcentre.com/${params.locale}/service/flight-booking`
+                "url": `https://globaltouristcentre.com/${params.locale}/service/flight-booking/`
               }
             },
             {
@@ -188,7 +150,7 @@ export default function LocaleLayout({
               "itemOffered": {
                 "@type": "Service",
                 "name": "Group Tours",
-                "url": `https://globaltouristcentre.com/${params.locale}/service/customized-group-trip`
+                "url": `https://globaltouristcentre.com/${params.locale}/service/customized-group-tours/`
               }
             }
           ]
@@ -200,7 +162,7 @@ export default function LocaleLayout({
           "itemListElement": [
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/domestic/kashmir-tour-package-from-goa`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/domestic/kashmir-tour-package-from-goa/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "Kashmir 5N/6D Trip",
@@ -209,7 +171,7 @@ export default function LocaleLayout({
             },
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/domestic/ladakh-tour-package-from-goa`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/domestic/ladakh-tour-package-from-goa/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "Ladakh Tour for Goa",
@@ -218,7 +180,7 @@ export default function LocaleLayout({
             },
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/domestic/sikkim-darjeeling-gangtok-tour-from-goa`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/domestic/sikkim-darjeeling-gangtok-tour-from-goa/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "Sikkim Tour for Goa",
@@ -234,7 +196,7 @@ export default function LocaleLayout({
           "itemListElement": [
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-vietam-tour-package`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-vietam-tour-package/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "7N/8D Vietnam Tour Package",
@@ -243,7 +205,7 @@ export default function LocaleLayout({
             },
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-bhutan-tour-package`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-bhutan-tour-package/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "7N/8D Bhutan Tour Package",
@@ -252,7 +214,7 @@ export default function LocaleLayout({
             },
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/nepal-tour-package`,
+              "url": `https://globaltouristcentre.com/${params.locale}/destination/international/nepal-tour-package/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "Nepal Tour Package",
@@ -268,7 +230,7 @@ export default function LocaleLayout({
           "itemListElement": [
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/luxury-trips/kerala-luxury`,
+              "url": `https://globaltouristcentre.com/${params.locale}/luxury-trips/kerala-luxury/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "Kerala Luxury Trip",
@@ -277,7 +239,7 @@ export default function LocaleLayout({
             },
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/luxury-trips/mumbai-luxury`,
+              "url": `https://globaltouristcentre.com/${params.locale}/luxury-trips/mumbai-luxury/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "Mumbai Luxury Experience",
@@ -286,7 +248,7 @@ export default function LocaleLayout({
             },
             {
               "@type": "Offer",
-              "url": `https://globaltouristcentre.com/${params.locale}/luxury-trips/golden-triangle-luxury`,
+              "url": `https://globaltouristcentre.com/${params.locale}/luxury-trips/golden-triangle-luxury/`,
               "itemOffered": {
                 "@type": "TouristTrip",
                 "name": "Golden Triangle Luxury Tour",
@@ -309,7 +271,7 @@ export default function LocaleLayout({
         <link
           rel="preload"
           as="image"
-          href="/assets/hero/Index-hero-sm.webp"
+          href="/assets/hero/Index-hero-sm.webp/"
           imageSrcSet="/assets/hero/Index-hero-sm.webp 640w, /assets/hero/Index-hero-md.webp 1024w, /assets/hero/Index-hero.webp 1920w"
           imageSizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
         />

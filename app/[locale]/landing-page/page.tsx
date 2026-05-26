@@ -27,11 +27,11 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const locale = params.locale || "en";
+  const locale = params.locale ;
   const t = getTranslations(locale);
 
   const image ="/assets/luxury-travel-destination-mountains-sunset.webp";
-  const canonical = `https://globaltouristcentre.com/${locale}/landing-page`;
+  const canonical = `https://globaltouristcentre.com/${locale}/landing-page/`;
 
   const meta = t.metadata.landingPage;
 
@@ -41,12 +41,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     alternates: {
       canonical,
                 languages: {
-        en: "https://globaltouristcentre.com/landing-page",
-        it: "https://globaltouristcentre.com/it/landing-page",
-        fr: "https://globaltouristcentre.com/fr/landing-page",
-        de: "https://globaltouristcentre.com/de/landing-page",
-        ru: "https://globaltouristcentre.com/ru/landing-page",
-        "x-default": "https://globaltouristcentre.com/landing-page",
+        en: "https://globaltouristcentre.com/landing-page/",
+        it: "https://globaltouristcentre.com/it/landing-page/",
+        fr: "https://globaltouristcentre.com/fr/landing-page/",
+        de: "https://globaltouristcentre.com/de/landing-page/",
+        ru: "https://globaltouristcentre.com/ru/landing-page/",
+        "x-default": "https://globaltouristcentre.com/landing-page/",
       },
     },
     openGraph: {
@@ -99,10 +99,10 @@ export default function LandingPage() {
               "@graph": [
                 {
                   "@type": "Organization",
-                  "@id": "https://globaltouristcentre.com/#organization",
+                  "@id": "https://globaltouristcentre.com/#organization/",
                   name: "Global Tourist Centre",
-                  url: "https://globaltouristcentre.com",
-                  logo: "https://globaltouristcentre.com/logo.webp",
+                  url: "https://globaltouristcentre.com/",
+                  logo: "https://globaltouristcentre.com/logo.webp/",
                   foundingDate: "2010",
                   sameAs: [
                     "https://www.instagram.com/globaltouristcentre",

@@ -26,13 +26,21 @@ export function generateMetadata({ params }: PageProps): Metadata {
   const title = t.blogKerala.metadata.title;
   const description = t.blogKerala.metadata.description;
   const image = "/assets/hero/Kerala-hero.webp";
-  const canonical = `https://globaltouristcentre.com/${locale}/blog/kerala`;
+  const canonical = `https://globaltouristcentre.com/${locale}/blog/kerala/`;
 
   return {
     title,
     description,
     alternates: {
       canonical,
+            languages: {
+        en: "https://globaltouristcentre.com/blog/kerala/",
+        it: "https://globaltouristcentre.com/it/blog/kerala/",
+        fr: "https://globaltouristcentre.com/fr/blog/kerala/",
+        de: "https://globaltouristcentre.com/de/blog/kerala/",
+        ru: "https://globaltouristcentre.com/ru/blog/kerala/",
+        "x-default": "https://globaltouristcentre.com/blog/kerala/",
+      },
     },
     openGraph: {
       title,

@@ -1,5 +1,5 @@
 import type React from "react";
-import type { Metadata, Viewport } from "next";
+import type {  Viewport } from "next";
 import { Playfair_Display, Montserrat } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
@@ -26,41 +26,7 @@ export const playfair = Playfair_Display({
   variable: "--font-playfair",
 });
 
-/* -----------------------------
-   Metadata (English – base)
------------------------------- */
-export async function generateMetadata(): Promise<Metadata> {
-  return {
-    title: "Global Tourist Centre | Luxury Travel Experiences",
-    description:
-      "We don't just book trips — we design lifetimes of stories. Bespoke domestic and international tours since 2010.",
-    keywords: [
-      "luxury travel",
-      "tour packages",
-      "India tours",
-      "international travel",
-      "Goa tours",
-      "Kerala luxury trips",
-    ],
-    authors: [{ name: "Global Tourist Centre" }],
-    metadataBase: new URL("https://globaltouristcentre.com"),
-    alternates: {
-      canonical: "/",
-      languages: {
-        en: "/",
-        ru: "/ru/",
-        it: "/it/",
-        fr: "/fr/",
-        de: "/de/",
-        "x-default": "/",
-      },
-    },
-    openGraph: {
-      type: "website",
-      siteName: "Global Tourist Centre",
-    },
-  };
-}
+
 /* -----------------------------
    Viewport
 ------------------------------ */
@@ -291,7 +257,7 @@ export default function RootLayout({
         <link
           rel="preload"
           as="image"
-          href="/assets/hero/Index-hero-sm.webp"
+          href="/assets/hero/Index-hero-sm.webp/"
           imageSrcSet="/assets/hero/Index-hero-sm.webp 640w, /assets/hero/Index-hero-md.webp 1024w, /assets/hero/Index-hero.webp 1920w"
           imageSizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
         />

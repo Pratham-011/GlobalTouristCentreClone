@@ -122,14 +122,14 @@ Phone: ${formData.phone}
               <p className="text-center text-xs text-slate-500 mt-4">
                 {t.form.privacyNote}{" "}
                 <Link
-                  href={`/${locale}/legal/privacy-policy`}
+                  href={`/legal/privacy-policy`}
                   className="text-teal-600 hover:underline"
                 >
                   {t.form.privacyPolicy}
                 </Link>{" "}
                 {t.form.and}{" "}
                 <Link
-                  href={`/${locale}/legal/terms-and-conditions`}
+                  href={`/legal/terms-and-conditions`}
                   className="text-teal-600 hover:underline"
                 >
                   {t.form.termsOfUse}

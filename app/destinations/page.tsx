@@ -17,7 +17,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const t = getTranslations(locale);
 
   const image = "/assets/hero/Destinations-hero.webp";
-  const canonical = `https://globaltouristcentre.com/destinations`;
+  const canonical = `https://globaltouristcentre.com/destinations/`;
 
   const meta = t.metadata.destinations;
 
@@ -27,12 +27,12 @@ export async function generateMetadata(): Promise<Metadata> {
     alternates: {
       canonical,
                   languages: {
-        en: "https://globaltouristcentre.com/destinations",
-        it: "https://globaltouristcentre.com/it/destinations",
-        fr: "https://globaltouristcentre.com/fr/destinations",
-        de: "https://globaltouristcentre.com/de/destinations",
-        ru: "https://globaltouristcentre.com/ru/destinations",
-        "x-default": "https://globaltouristcentre.com/destinations",
+        en: "https://globaltouristcentre.com/destinations/",
+        it: "https://globaltouristcentre.com/it/destinations/",
+        fr: "https://globaltouristcentre.com/fr/destinations/",
+        de: "https://globaltouristcentre.com/de/destinations/",
+        ru: "https://globaltouristcentre.com/ru/destinations/",
+        "x-default": "https://globaltouristcentre.com/destinations/",
       },
     },
     openGraph: {

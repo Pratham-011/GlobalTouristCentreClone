@@ -133,7 +133,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const image = `/assets/hero/${data.heroImageQuery}`;
-  const canonical = `https://globaltouristcentre.com/${locale}/destinations/${category}`;
+  const canonical = `https://globaltouristcentre.com/${locale}/destinations/${category}/`;
 
 
   return {
@@ -142,12 +142,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     alternates: {
       canonical,
 languages: {
-        en: `https://globaltouristcentre.com/destinations/${category}`,
-        it: `https://globaltouristcentre.com/it/destinations/${category}`,
-        fr: `https://globaltouristcentre.com/fr/destinations/${category}`,
-        de: `https://globaltouristcentre.com/de/destinations/${category}`,
-        ru: `https://globaltouristcentre.com/ru/destinations/${category}`,
-        "x-default": `https://globaltouristcentre.com/destinations/${category}`,
+        en: `https://globaltouristcentre.com/destinations/${category}/`,
+        it: `https://globaltouristcentre.com/it/destinations/${category}/`,
+        fr: `https://globaltouristcentre.com/fr/destinations/${category}/`,
+        de: `https://globaltouristcentre.com/de/destinations/${category}/`,
+        ru: `https://globaltouristcentre.com/ru/destinations/${category}/`,
+        "x-default": `https://globaltouristcentre.com/destinations/${category}/`,
       },
     },
     openGraph: {

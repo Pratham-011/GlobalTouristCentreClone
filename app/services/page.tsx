@@ -27,7 +27,7 @@ export function generateMetadata(): Metadata {
 
   const image = "/assets/hero/Service-hero.webp";
 
-  const canonical = `https://globaltouristcentre.com/services`;
+  const canonical = `https://globaltouristcentre.com/services/`;
   return {
     title,
     description,
@@ -35,12 +35,12 @@ export function generateMetadata(): Metadata {
     alternates: {
       canonical,
                   languages: {
-        en: "https://globaltouristcentre.com/services",
-        it: "https://globaltouristcentre.com/it/services",
-        fr: "https://globaltouristcentre.com/fr/services",
-        de: "https://globaltouristcentre.com/de/services",
-        ru: "https://globaltouristcentre.com/ru/services",
-        "x-default": "https://globaltouristcentre.com/services",
+        en: "https://globaltouristcentre.com/services/",
+        it: "https://globaltouristcentre.com/it/services/",
+        fr: "https://globaltouristcentre.com/fr/services/",
+        de: "https://globaltouristcentre.com/de/services/",
+        ru: "https://globaltouristcentre.com/ru/services/",
+        "x-default": "https://globaltouristcentre.com/services/",
       },
     },
     openGraph: {

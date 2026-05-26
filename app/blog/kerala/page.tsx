@@ -14,14 +14,14 @@ export const metadata: Metadata = {
   title: t.blogKerala.metadata.title,
   description: t.blogKerala.metadata.description,
   alternates: {
-    canonical: "https://globaltouristcentre.com/blog/kerala",
+    canonical: "https://globaltouristcentre.com/blog/kerala/",
               languages: {
-        en: "https://globaltouristcentre.com/blog/kerala",
-        it: "https://globaltouristcentre.com/it/blog/kerala",
-        fr: "https://globaltouristcentre.com/fr/blog/kerala",
-        de: "https://globaltouristcentre.com/de/blog/kerala",
-        ru: "https://globaltouristcentre.com/ru/blog/kerala",
-        "x-default": "https://globaltouristcentre.com/blog/kerala",
+        en: "https://globaltouristcentre.com/blog/kerala/",
+        it: "https://globaltouristcentre.com/it/blog/kerala/",
+        fr: "https://globaltouristcentre.com/fr/blog/kerala/",
+        de: "https://globaltouristcentre.com/de/blog/kerala/",
+        ru: "https://globaltouristcentre.com/ru/blog/kerala/",
+        "x-default": "https://globaltouristcentre.com/blog/kerala/",
       },
   },
   openGraph: {
