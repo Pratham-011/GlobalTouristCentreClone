@@ -344,6 +344,9 @@ export const fr = {
       "Des sommets enneigés de l’Himalaya aux plages tropicales du sud — explorez l’incroyable diversité de l’Inde grâce à nos circuits intérieurs soigneusement conçus.",
     domestichero: "Découvrez l’Inde incroyable",
     internationalTitle: "Voyages internationaux",
+    internationalSubtitle:
+  "Des paradis tropicaux aux capitales culturelles, explorez les destinations les plus incroyables du monde grâce à nos circuits internationaux soigneusement conçus.",
+internationalhero: "Explorez le monde",
     dayTripsTitle: "Excursions d’une journée",
     dayTripsSubtitle:
       "Des escapades parfaites au départ des grandes villes. Découvrez les meilleures attractions à proximité sans avoir besoin de passer la nuit.",

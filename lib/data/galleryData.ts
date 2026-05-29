@@ -51,12 +51,16 @@ export const galleryData: Record<string, any> = {
         title: "Butterfly Beach",
         description: "Secluded paradise",
         image: "/assets/destinations/South-goa/butterfly-beach.webp",
+        wikiexists: true,
+        wikilink: "https://share.google/aimode/xRi1TDLSsspftXwVX",
 
       },
       {
         title: "Blue Lagoon",
         description: "Kayaking adventure",
         image: "/assets/destinations/South-goa/Blue-lagoon.webp",
+        wikiexists: true,
+        wikilink: "https://share.google/aimode/vFtGu58JU3EhKZFEi",
       },
       {
         title: "Cabo de Rama Fort",
@@ -80,11 +84,15 @@ export const galleryData: Record<string, any> = {
       title: "Wildernest Nature Resort",
       description: "Luxury in nature",
       image: "/assets/destinations/Wildernest/resort-view.webp",
+      wikiexists: true,
+      wikilink: "https://en.wikipedia.org/wiki/Goa",
     },
     {
       title: "Forest Walk",
       description: "Explore the wilderness",
       image: "/assets/destinations/Wildernest/forest-trek.webp",
+      wikiexists: true,
+      wikilink: "https://en.wikipedia.org/wiki/Goa",
     },
     {
       title: "Pottery Session",
@@ -1385,7 +1393,8 @@ export const galleryData: Record<string, any> = {
         title: "Talpona Sunset",
         description: "Evening spectacle",
         image: "/assets/destinations/South-goa/Talpona Sunset.webp",
-
+        wikiexists: true,
+        wikilink: "https://www.avathi.com/place/talpona-beach/3186",
       },
     ],
   },
@@ -2354,6 +2363,8 @@ export const galleryData: Record<string, any> = {
         title: "Hyderabadi Cuisine",
         description: "Famous Biryani and Local Dishes",
         image: "/assets/destinations/Hyderabad/Biryani.webp",
+        wikiexists: true,
+        wikilink: "https://en.wikipedia.org/wiki/Hyderabadi_cuisine",
       },
     ],
   },
