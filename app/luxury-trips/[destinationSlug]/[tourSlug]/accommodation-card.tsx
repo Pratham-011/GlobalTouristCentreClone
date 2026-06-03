@@ -10,6 +10,7 @@ interface AccommodationCardProps {
   location: string;
   description: string;
   rating: number;
+  link:string;
 }
 
 export function AccommodationCard({
@@ -19,6 +20,7 @@ export function AccommodationCard({
   location,
   description,
   rating,
+  link,
 }: AccommodationCardProps) {
   return (
     <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100 transition-transform duration-300 hover:-translate-y-2 hover:shadow-xl h-full flex flex-col">
@@ -36,7 +38,9 @@ export function AccommodationCard({
       <div className="p-6 flex flex-col flex-1">
         {/* Title */}
         <h3 className="text-xl font-serif font-bold text-[#1a2238] mb-2">
-          {name}
+          <a href={link} target="_blank" rel="noopener noreferrer" className="hover:underline">
+            {name}
+          </a>
         </h3>
 
         {/* Location */}

@@ -2,6 +2,7 @@
 
 import { AccommodationCard } from "./accommodation-card";
 import { useI18n } from "@/lib/i18n/context";
+import { accommodationData } from "@/lib/data/accomodation";
 // Interface matches your JSON structure
 interface AccommodationData {
   image: {
@@ -16,9 +17,10 @@ interface AccommodationData {
 
 interface AccommodationSectionProps {
   data: readonly AccommodationData[];
+  slug: string;
 }
 
-export function AccommodationSection({ data }: AccommodationSectionProps) {
+export function AccommodationSection({ data, slug }: AccommodationSectionProps) {
   // Defensive check: don't render if data is missing or empty
   if (!data || !Array.isArray(data) || data.length === 0) {
     return null;
@@ -47,6 +49,7 @@ export function AccommodationSection({ data }: AccommodationSectionProps) {
               location={hotel.location}
               description={hotel.description}
               rating={hotel.rating}
+              link={accommodationData[slug].hotels[index].link}
             />
           ))}
         </div>

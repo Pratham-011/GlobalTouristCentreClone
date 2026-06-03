@@ -41,7 +41,7 @@ export default function TourClient({ tourSlug }: TourClientProps) {
       {/* ======================================================
             ACCOMMODATION
       ======================================================= */}
-      <AccommodationSection data={packageData.accommodations} />
+      <AccommodationSection data={packageData.accommodations} slug={tourSlug} />
       {/* ======================================================
           INCLUSIONS & EXCLUSIONS
       ======================================================= */}
