@@ -26,7 +26,7 @@ export async function generateMetadata({
     t.metadata?.home?.description ??
     "Plan your perfect vacation with GTC - Goa's leading travel agency.";
   const image = "/assets/hero/Index-hero.webp";
-  const canonical ="https://globaltouristcentre.com/";
+  const canonical = "https://globaltouristcentre.com/";
 
   return {
     title,
