@@ -13,7 +13,7 @@ import { SITE_URL } from "@/lib/site";
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
 };
-import "./globals.css";
+import "../globals.css";
 
 /* -----------------------------
    Fonts
