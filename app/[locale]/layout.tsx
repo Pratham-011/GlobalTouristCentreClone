@@ -62,8 +62,8 @@ export default function LocaleLayout({
 }) {
   const locale = params.locale as Locale;
 
-  // app/[locale]/layout.tsx
-  if (!locales.includes(locale as any)) {
+  // Guard: reject any path segment that is not a declared locale
+  if (!(locales as readonly string[]).includes(locale)) {
     notFound();
   }
 
