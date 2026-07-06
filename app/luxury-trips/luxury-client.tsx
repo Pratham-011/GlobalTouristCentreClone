@@ -25,15 +25,15 @@ const features = [
 const luxuryDestinations = [
   {
     slug: "kerala-luxury",
-    image: "/assets/Luxury/Kerala/Kerala Backwaters.webp",
+    image: "/assets/Luxury/Kerala/KeralaBackwaters.webp",
   },
   {
     slug: "mumbai-luxury",
-    image: "/assets/Luxury/Mumbai/Mumbai-Experience-thumb.webp",
+    image: "/assets/Luxury/Mumbai/mumbai-hero.webp",
   },
   {
     slug: "golden-triangle-luxury",
-    image: "/assets/Luxury/Golden Triangle/golden-triangle-thumb.webp",
+    image: "/assets/Luxury/Golden Triangle/hero.webp",
   },
   {
     slug: "rajasthan-luxury",
@@ -41,7 +41,7 @@ const luxuryDestinations = [
   },
   {
     slug: "karnataka-luxury",
-    image: "/assets/Luxury/Banglore/Mysore-thumb.webp",
+    image: "/assets/Luxury/Karnataka/hero.webp",
   },
   {
     slug:"mahraja-train-tour-package",

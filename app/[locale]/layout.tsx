@@ -271,9 +271,7 @@ export default function LocaleLayout({
         <link
           rel="preload"
           as="image"
-          href="/assets/hero/Index-hero-sm.webp"
-          imageSrcSet="/assets/hero/Index-hero-sm.webp 640w, /assets/hero/Index-hero-md.webp 1024w, /assets/hero/Index-hero.webp 1920w"
-          imageSizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
+          href="/assets/hero/Index-hero.webp"
         />
       </head>
       <body className="min-h-screen flex flex-col antialiased font-sans relative">

@@ -261,9 +261,7 @@ export default function RootLayout({
         <link
           rel="preload"
           as="image"
-          href="/assets/hero/Index-hero-sm.webp"
-          imageSrcSet="/assets/hero/Index-hero-sm.webp 640w, /assets/hero/Index-hero-md.webp 1024w, /assets/hero/Index-hero.webp 1920w"
-          imageSizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
+          href="/assets/hero/Index-hero.webp"
         />
          <Script
           id="travel-agency-schema"

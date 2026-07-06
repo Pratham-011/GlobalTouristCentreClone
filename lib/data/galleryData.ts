@@ -1548,7 +1548,7 @@ export const galleryData: Record<string, any> = {
       {
         title: "Kerala Backwaters",
         description: "Tranquil waterways",
-        image: "/assets/destinations/Kerala/Kerala Backwaters.webp",
+        image: "/assets/destinations/Kerala/KeralaBackwaters.webp",
         wikiexists: true,
         wikilink: "https://en.wikipedia.org/wiki/Kerala_backwaters",
       },

@@ -8196,7 +8196,7 @@ export const ru = {
         {
           title: "Керала заводи",
           description: "Спокойные водные пути",
-          image: "/assets/destinations/Kerala/Kerala Backwaters.webp",
+          image: "/assets/destinations/Kerala/KeralaBackwaters.webp",
         },
       ],
       inclusions: [
@@ -13657,7 +13657,7 @@ export const ru = {
         title: "Премиальные турпакеты в Мумбаи",
         packages: [
           {
-            image: "/assets/Luxury/Mumbai/Mumbai-thumb.webp",
+            image: "/assets/Luxury/Mumbai/Mumbai.webp",
             badge: "Премиум-пакет",
             title: "2Н/3Д Роскошный пакет в Мумбаи",
             location: "Главные достопримечательности Мумбаи",
@@ -13709,7 +13709,7 @@ export const ru = {
         title: "Премиальные пакеты по Золотому треугольнику",
         packages: [
           {
-            image: "/assets/Luxury/Golden Triangle/golden-triangle-thumb.webp",
+            image: "/assets/Luxury/Golden Triangle/golden-triangle.webp",
             badge: "Премиум-пакет",
             title: "4Н/5Д Роскошный пакет по Золотому треугольнику",
             location: "Дели, Агра и Джайпур",
@@ -13718,7 +13718,7 @@ export const ru = {
             link: "/luxury-trips/golden-triangle-luxury/golden-triangle-luxury-package",
           },
           {
-            image: "/assets/Luxury/Golden Triangle/Golden Triangle2-thumb.webp",
+            image: "/assets/Luxury/Golden Triangle/Golden Triangle2.webp",
             badge: "Премиум-пакет",
             title: "6Н/7Д Роскошный пакет по Золотому треугольнику",
             location: "Дели, Агра и Джайпур",
@@ -13770,7 +13770,7 @@ export const ru = {
         title: "Премиальные турпакеты в Кералу",
         packages: [
           {
-            image: "/assets/Luxury/Kerala/kerala1-thumb.webp",
+            image: "/assets/Luxury/Kerala/kerala1.webp",
             badge: "Премиум-пакет",
             title: "4Н/5Д Роскошный пакет в Кералу",
             location: "Кочин, Муннар и Аллеппи",
@@ -13779,7 +13779,7 @@ export const ru = {
             link: "/luxury-trips/kerala-luxury/kerala-luxury-package",
           },
           {
-            image: "/assets/Luxury/Kerala/kerala2-thumb.webp",
+            image: "/assets/Luxury/Kerala/kerala2.webp",
             badge: "Премиум-пакет",
             title: "6Н/7Д Роскошный пакет в Кералу",
             location: "Кочин, Муннар, Теккади и Аллеппи",
@@ -13831,7 +13831,7 @@ export const ru = {
         title: "Премиальные турпакеты в Раджастхан",
         packages: [
           {
-            image: "/assets/Luxury/Rajasthan/Rajasthan2-thumb.webp",
+            image: "/assets/Luxury/Rajasthan/Rajasthan2.webp",
             badge: "Премиум-пакет",
             title: "4Н/5Д Роскошный пакет в Раджастхан",
             location: "Джайпур и Удайпур",
@@ -13840,7 +13840,7 @@ export const ru = {
             link: "/luxury-trips/rajasthan-luxury/4n-5d-rajasthan-luxury-package",
           },
           {
-            image: "/assets/Luxury/Rajasthan/Rajasthan3-thumb.webp",
+            image: "/assets/Luxury/Rajasthan/Rajasthan3.webp",
             badge: "Премиум-пакет",
             title: "6Н/7Д Роскошный пакет в Раджастхан",
             location: "Джайпур, Джодхпур и Удайпур",
@@ -13849,7 +13849,7 @@ export const ru = {
             link: "/luxury-trips/rajasthan-luxury/6n-7d-rajasthan-luxury-package",
           },
           {
-            image: "/assets/Luxury/Rajasthan/Rajasthan4-thumb.webp",
+            image: "/assets/Luxury/Rajasthan/Rajasthan4.webp",
             badge: "Ультра-премиум пакет",
             title: "8Н/9Д Роскошный пакет в Раджастхан",
             location: "Джайпур, Удайпур, Джодхпур и Рантхамбор",
@@ -13901,7 +13901,7 @@ export const ru = {
         title: "Премиальные турпакеты в Карнатаку",
         packages: [
           {
-            image: "/assets/Luxury/Karnataka/Karnataka-thumb.webp",
+            image: "/assets/Luxury/Karnataka/Karnataka.webp",
             badge: "Премиум-пакет",
             title: "7Н/8Д Роскошный пакет в Карнатаку",
             location: "Бангалор, Майсур и Ути",

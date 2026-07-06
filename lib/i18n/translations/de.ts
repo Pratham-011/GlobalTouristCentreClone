@@ -8204,7 +8204,7 @@ export const de = {
         {
           title: "Kerala Backwaters",
           description: "Ruhige Wasserstraßen",
-          image: "/assets/destinations/Kerala/Kerala Backwaters.webp",
+          image: "/assets/destinations/Kerala/KeralaBackwaters.webp",
         },
       ],
       inclusions: [
@@ -13422,7 +13422,7 @@ export const de = {
         title: "Premium Mumbai Reisepakete",
         packages: [
           {
-            image: "/assets/Luxury/Mumbai/Mumbai-thumb.webp",
+            image: "/assets/Luxury/Mumbai/Mumbai.webp",
             badge: "Premium-Paket",
             title: "2N/3D Mumbai Luxus-Paket",
             location: "Mumbai Stadt-Highlights",
@@ -13477,7 +13477,7 @@ export const de = {
         title: "Premium Goldenes Dreieck Reisepakete",
         packages: [
           {
-            image: "/assets/Luxury/Golden Triangle/golden-triangle-thumb.webp",
+            image: "/assets/Luxury/Golden Triangle/golden-triangle.webp",
             badge: "Premium-Paket",
             title: "4N/5D Goldenes Dreieck Luxus-Paket",
             location: "Delhi, Agra & Jaipur",
@@ -13486,7 +13486,7 @@ export const de = {
             link: "/luxury-trips/golden-triangle-luxury/golden-triangle-luxury-package",
           },
           {
-            image: "/assets/Luxury/Golden Triangle/Golden Triangle2-thumb.webp",
+            image: "/assets/Luxury/Golden Triangle/Golden Triangle2.webp",
             badge: "Premium-Paket",
             title: "6N/7D Goldenes Dreieck Luxus-Paket",
             location: "Delhi, Agra & Jaipur",
@@ -13541,7 +13541,7 @@ export const de = {
         title: "Premium Kerala Reisepakete",
         packages: [
           {
-            image: "/assets/Luxury/Kerala/kerala1-thumb.webp",
+            image: "/assets/Luxury/Kerala/kerala1.webp",
             badge: "Premium-Paket",
             title: "4N/5D Kerala Luxus-Paket",
             location: "Cochin, Munnar & Alleppey",
@@ -13550,7 +13550,7 @@ export const de = {
             link: "/luxury-trips/kerala-luxury/kerala-luxury-package",
           },
           {
-            image: "/assets/Luxury/Kerala/kerala2-thumb.webp",
+            image: "/assets/Luxury/Kerala/kerala2.webp",
             badge: "Premium-Paket",
             title: "6N/7D Kerala Luxus-Paket",
             location: "Cochin, Munnar, Thekkady & Alleppey",
@@ -13605,7 +13605,7 @@ export const de = {
         title: "Premium Rajasthan Reisepakete",
         packages: [
           {
-            image: "/assets/Luxury/Rajasthan/Rajasthan2-thumb.webp",
+            image: "/assets/Luxury/Rajasthan/Rajasthan2.webp",
             badge: "Premium-Paket",
             title: "4N/5D Rajasthan Luxus-Paket",
             location: "Jaipur & Udaipur",
@@ -13614,7 +13614,7 @@ export const de = {
             link: "/luxury-trips/rajasthan-luxury/4n-5d-rajasthan-luxury-package",
           },
           {
-            image: "/assets/Luxury/Rajasthan/Rajasthan3-thumb.webp",
+            image: "/assets/Luxury/Rajasthan/Rajasthan3.webp",
             badge: "Premium-Paket",
             title: "6N/7D Rajasthan Luxus-Paket",
             location: "Jaipur, Jodhpur & Udaipur",
@@ -13623,7 +13623,7 @@ export const de = {
             link: "/luxury-trips/rajasthan-luxury/6n-7d-rajasthan-luxury-package",
           },
           {
-            image: "/assets/Luxury/Rajasthan/Rajasthan4-thumb.webp",
+            image: "/assets/Luxury/Rajasthan/Rajasthan4.webp",
             badge: "Ultra Premium-Paket",
             title: "8N/9D Rajasthan Luxus-Paket",
             location: "Jaipur, Udaipur, Jodhpur & Ranthambore",
@@ -13678,7 +13678,7 @@ export const de = {
         title: "Premium Karnataka Reisepakete",
         packages: [
           {
-            image: "/assets/Luxury/Karnataka/Karnataka-thumb.webp",
+            image: "/assets/Luxury/Karnataka/Karnataka.webp",
             badge: "Premium-Paket",
             title: "7N/8D Karnataka Luxus-Paket",
             location: "Bangalore, Mysore & Ooty",

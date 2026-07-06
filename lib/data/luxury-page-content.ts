@@ -1,12 +1,12 @@
 export const luxuryPageContent = {
   "kerala-luxury": {
-    image: "/assets/Luxury/Kerala/Kerala Backwaters.webp",
+    image: "/assets/Luxury/Kerala/KeralaBackwaters.webp",
   },
   "mumbai-luxury": {
     image: "/assets/Luxury/Mumbai/mumbai-hero.webp",
   },
   "golden-triangle-luxury": {
-    image: "/assets/Luxury/Golden Triangle/golden-triangle-thumb.webp",
+    image: "/assets/Luxury/Golden Triangle/hero.webp",
   },
   "rajasthan-luxury": {
     image: "/assets/Luxury/Rajasthan/Rajasthan-Luxury-hero.webp",

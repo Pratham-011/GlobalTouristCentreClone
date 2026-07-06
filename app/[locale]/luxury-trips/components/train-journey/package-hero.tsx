@@ -38,13 +38,9 @@ export function PackageHero({ data }: PackageHeroProps) {
         index === 0 && segment === "" ? "" : encodePathSegment(segment)
       )
       .join("/");
-  const toVariant = (src: string, suffix: "-sm" | "-md") =>
-    src.replace(/\.webp$/i, `${suffix}.webp`);
   const title = data.title || "Luxury Experience";
   const ctaLink = data.cta_link || "#";
   const backgroundBase = encodeAssetPath(backgroundImage);
-  const backgroundMd = toVariant(backgroundBase, "-md");
-  const backgroundSm = toVariant(backgroundBase, "-sm");
 
   return (
     <section className="relative h-[60vh] min-h-[500px] w-full flex flex-col items-center justify-center text-center overflow-hidden">
@@ -52,8 +48,6 @@ export function PackageHero({ data }: PackageHeroProps) {
       <div className="absolute inset-0 z-0">
         <img
           src={backgroundBase}
-          srcSet={`${backgroundSm} 640w, ${backgroundMd} 1024w, ${backgroundBase} 1920w`}
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
           alt={title}
           width={1920}
           height={1080}
