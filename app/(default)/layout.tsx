@@ -258,12 +258,8 @@ export default function RootLayout({
       className={`scroll-smooth ${montserrat.variable} ${playfair.variable}`}
     >
       <head>
-        <link
-          rel="preload"
-          as="image"
-          href="/assets/hero/Index-hero.webp"
-        />
-         <Script
+        <link rel="preload" as="image" href="/assets/hero/Index-hero.webp" />
+        <Script
           id="travel-agency-schema"
           type="application/ld+json"
           strategy="afterInteractive"
@@ -271,7 +267,7 @@ export default function RootLayout({
             __html: JSON.stringify(travelAgencySchema),
           }}
         />
-  <Script id="facebook-pixel" strategy="afterInteractive">
+        <Script id="facebook-pixel" strategy="afterInteractive">
           {`
             !function(f,b,e,v,n,t,s)
             {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -327,10 +323,10 @@ export default function RootLayout({
           src="https://www.privyr.com/static/js/whatsapp-widget.js"
           data-name="Global Tourist Centre"
           data-number="+919067972295"
-          data-icebreaker=""
+          data-icebreaker="Hi! I am planning a trip can you help me out?"
           data-placement="bottom-right"
           data-desktop-action="show-form"
-          data-mobile-action="open-whatsapp"
+          data-mobile-action="show-form"
           data-webhook="https://www.privyr.com/api/v1/incoming-leads/qr0ZtjXe/XPuAIJgq#whatsapp-website-widget"
           data-success-message="Thank you! We will contact you soon."
           strategy="afterInteractive"

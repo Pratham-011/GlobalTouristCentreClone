@@ -119,11 +119,7 @@ const travelCollections: TravelCollection[] = [
     href: "/destinations/domestic/andaman-nicobar-tour-package", // matches int-andaman-021.slug
     imageUrl: "/assets/destinations/Thumbnails/Andaman.webp",
   },
-  // {
-  //   id: "maldives-luxury-tour",
-  //   href: "/destinations/international/maldives-luxury-tour", // matches int-maldives-022.slug
-  //   imageUrl: "/assets/destinations/Thumbnails/Maldives.webp",
-  // },
+
   {
     id: "srilanka-tour-package",
     href: "/destinations/international/srilanka-tour-package", // matches int-srilanka-023.slug
