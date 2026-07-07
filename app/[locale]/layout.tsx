@@ -306,6 +306,20 @@ export default function LocaleLayout({
 
         <Analytics />
 
+        {/* Privyr WhatsApp Widget */}
+        <Script
+          src="https://www.privyr.com/static/js/whatsapp-widget.js"
+          data-name="Global Tourist Centre"
+          data-number="+919067972295"
+          data-icebreaker=""
+          data-placement="bottom-right"
+          data-desktop-action="show-form"
+          data-mobile-action="open-whatsapp"
+          data-webhook="https://www.privyr.com/api/v1/incoming-leads/qr0ZtjXe/XPuAIJgq#whatsapp-website-widget"
+          data-success-message="Thank you! We will contact you soon."
+          strategy="afterInteractive"
+        />
+
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-5CNKV323"
