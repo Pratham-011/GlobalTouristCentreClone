@@ -302,11 +302,11 @@ export default function RootLayout({
 
           <Footer />
 
-          <WhatsAppButton
+          {/* <WhatsAppButton
             phoneNumber="919067972295"
             message="Hi! I am planning a trip, can you help me out?"
             tooltipText="Chat with us on WhatsApp"
-          />
+          /> */}
           <CookieBanner />
         </I18nProvider>
 
