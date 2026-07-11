@@ -17,6 +17,15 @@ export default function BlogClient() {
 
     const blogPosts = [
         {
+            slug: "colonial-heritage-of-goa-and-india",
+            title: t.blog.goaTitle,
+            excerpt: t.blog.goaSubtitle,
+            category: t.blog.heritage,
+            date: t.blog.julyDate,
+            author: t.blog.globalTeam,
+            image: "/assets/blog/goa/Basilica.png",
+        },
+        {
             slug: "andaman",
             title: t.blog.andamanTitle,
             excerpt: t.blog.andamanSubtitle,

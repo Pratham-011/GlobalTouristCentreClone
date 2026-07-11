@@ -1119,6 +1119,11 @@ export const it = {
     keralaTitle: "Da Goa al Paese di Dio",
     keralaSubtitle:
       "Un viaggio in Kerala per giovani esploratori - fughe monsoniche, backwaters e stazioni collinari.",
+    // Goa Colonial Heritage Post
+    goaTitle: "Goa vs resto dell'India: la storia coloniale spiegata",
+    goaSubtitle:
+      "Ti sei mai chiesto perché Goa sembra diversa dal resto dell'India? Ripercorri la dominazione portoghese, le rotte delle spezie, le chiese coloniali e l'Inquisizione.",
+    heritage: "Patrimonio",
     // Coming Soon Post
     comingSoonTitle: "Nuove Avventure in Arrivo",
     comingSoonSubtitle:
@@ -1233,6 +1238,84 @@ export const it = {
     viewItinerary: "Vedi Itinerario Completo",
     youMightAlsoLike: "Potrebbe Piacerti Anche",
   },
+
+  // Goa Colonial Heritage Blog Detail Page
+  blogGoa: {
+    metadata: {
+      title: "Goa vs resto dell'India: la storia coloniale spiegata",
+      description:
+        "Ti sei mai chiesto perché Goa sembra diversa dal resto dell'India? Ripercorri la dominazione portoghese, le rotte delle spezie, le chiese coloniali e l'Inquisizione.",
+    },
+    heroTitle: "Un viaggio nel patrimonio coloniale di Goa e dell'India",
+    heroSubtitle: "Luglio 2025 • Patrimonio",
+    introImageAlt:
+      "Una vista panoramica di Old Goa con la Basilica del Bom Jesus e il paesaggio coloniale circostante.",
+    introParagraph1:
+      "Dopo aver visitato qualsiasi altra parte dell'India, arrivare a Goa sembra molto diverso — nel modo migliore. Ecco perché: in alcune zone le chiese superano i templi. I nomi delle strade hanno un accento latino. I locali si salutano con 'Susegad' invece di un cenno frettoloso. E l'intero stato sembra muoversi a metà della velocità di Mumbai o Delhi. Se vi siete chiesti perché, la risposta sta nella storia: quattro secoli e mezzo di dominio portoghese hanno plasmato Goa in qualcosa che il dominio britannico non ha mai toccato.",
+    introParagraph2:
+      "Questo è uno stato che, letteralmente, è rimasto un paese diverso fino al 1961. Mentre il resto dell'India lottava per l'indipendenza dalla Gran Bretagna nel 1947, Goa restò territorio portoghese per altri quattordici anni. Solo questo divario dice molto. Ma per capirlo davvero bisogna tornare al 1510 e seguire il filo storico tra navi delle spezie, conversioni forzate e un'identità coloniale che non ha mai del tutto lasciato la presa.",
+    beforePortuguese: {
+      title: "Prima dell'arrivo dei portoghesi",
+      caption:
+        "Antica mappa portoghese o illustrazione storica di Goa (XVI–XVII secolo).",
+      desc1:
+        "Molto prima che le navi di Vasco da Gama apparissero al largo della costa del Malabar, era già un porto attivo sotto una serie di dinastie indù e musulmane, la più nota delle quali era il Sultanato di Bijapur. Mercanti del mondo arabo e oltre transitavano nei suoi porti da generazioni. I portoghesi volevano il controllo di una rotta commerciale dominata per secoli da mercanti arabi e veneziani. Ciò includeva il commercio delle spezie, che all'epoca valeva più dell'oro, libbra per libbra, nei mercati europei.",
+      desc2:
+        "Afonso de Albuquerque prese la città con la forza nel 1510, sconfiggendo l'esercito del Sultanato di Bijapur nel giorno di festa di Santa Caterina, motivo per cui la grande cattedrale costruita in seguito avrebbe portato il suo nome. Nel giro di un paio di decenni, Goa divenne la capitale dell'Estado da Índia, l'intero impero orientale del Portogallo, che si estendeva dall'Africa orientale al Giappone, tutto amministrato da questa unica città portuale.",
+    },
+    goldenAge: {
+      title: "Un'età dell'oro costruita sulle spezie",
+      caption: "Cattedrale di Sé",
+      desc1:
+        "Qui la storia diventa interessante per chi oggi passeggia per Old Goa. Tra circa il 1575 e il 1625, la città raggiunse il suo apice. Storici e viaggiatori dell'epoca la chiamavano 'Goa Dourada', Goa d'Oro, e c'era un detto portoghese: chi ha visto Goa non ha bisogno di vedere Lisbona. Al suo massimo, la popolazione potrebbe aver raggiunto un quarto di milione, rivaleggiando con le grandi capitali europee con ampi viali, dimore in pietra e una corte vicereale che viveva nel lusso autentico.",
+      desc2:
+        "Quella ricchezza non veniva dal nulla. Arrivava da navi cariche di pepe, cannella e chiodi di garofano dirette a Lisbona, mentre cavalli, tessuti e altre merci fluivano in entrata. Le chiese che vedete oggi, molte delle quali siti UNESCO, furono in gran parte finanziate in questo periodo. La Basilica del Bom Jesus, che custodisce le spoglie di San Francesco Saverio, e la Cattedrale di Sé, ancora la più grande chiesa d'Asia, risalgono entrambe a questa stagione d'oro in cui denaro e ambizione religiosa attraversavano Goa in ugual misura.",
+      desc3:
+        "Ma la Goa d'Oro conobbe anche un'età oscura che la maggior parte delle brochure turistiche tralascia. A partire dal 1540 circa, la tolleranza religiosa nella colonia iniziò a crollare. Templi che sorgevano da secoli furono abbattuti. Alcuni resoconti parlano di circa 300 distrutti in un'unica ondata. Le feste indù, un tempo celebrate accanto a quelle cristiane, furono vietate. Poi, nel 1560, su impulso del missionario Francesco Saverio, la Corona portoghese istituì formalmente l'Inquisizione di Goa.",
+      desc4:
+        "Ciò che seguì fu uno dei capitoli più duri della storia religiosa coloniale in Asia. L'Inquisizione colpì i 'Nuovi Cristiani' sospettati di praticare di nascosto l'ebraismo, gli indù accusati di restare legati alle antiche usanze dopo la conversione e chiunque la cui fede non combaciava nettamente con l'ortodossia cattolica. Libri in sanscrito e konkani furono sequestrati e bruciati. Gli strumenti musicali locali furono banditi. Migliaia di persone furono processate nei circa due secoli e mezzo di attività del tribunale, con una breve pausa negli anni 1770 prima della chiusura definitiva nel 1812.",
+      desc5:
+        "È una storia scomoda. E deve esserlo. Ma è anche essenziale per capire la Goa moderna. L'identità cattolica goana che incontrate oggi — i cognomi, le chiese in quasi ogni villaggio, la fusione del konkani con il lessico portoghese — esiste a causa di questo processo forzato e violento. Passeggiando in un villaggio goano, a volte troverete un tempio indù appena fuori l'antico confine coloniale, costruito da famiglie che fuggirono piuttosto che convertirsi, portando con sé le loro divinità. Sono la traccia fisica di una resistenza ancora in piedi cinquecento anni dopo.",
+    },
+    whyDifferent: {
+      title: "Perché sembra diversa dall'India britannica?",
+      captionBritish:
+        "Architettura coloniale britannica (Victoria Terminus / Writers' Building di Kolkata)",
+      captionPortuguese: "Ville portoghesi a Fontainhas",
+      desc1:
+        "È la domanda che ogni viaggiatore curioso finisce per porsi. La risposta onesta sta nell'intento. I britannici, soprattutto dopo il 1858, governarono l'India soprattutto come progetto commerciale e amministrativo. Costruirono ferrovie, tribunali e burocrazie. L'attività missionaria certo esisteva, ma lo stato coloniale restò relativamente distante dalla religione, soprattutto dopo la rivolta del 1857 che insegnò loro il costo politico di un'interferenza troppo diretta.",
+      desc2:
+        "I portoghesi scelsero l'approccio opposto. Per loro la conversione era uno degli obiettivi centrali, accanto ai profitti delle spezie. Quella differenza si vede ovunque nell'ambiente costruito. L'India britannica lasciò stazioni ferroviarie, corti civili, cantonments e un sapore di architettura indo-saracena pensata per proiettare l'autorità imperiale. La Goa portoghese lasciò chiese barocche, cappelle imbiancate in quasi ogni villaggio, ville iberiane con tetti di tegole rosse e una popolazione cattolica che, in alcuni taluka, è ancora maggioranza.",
+      desc3:
+        "La lingua racconta la stessa storia. L'inglese nel resto dell'India divenne strumento di amministrazione e poi di opportunità, qualcosa sovrapposto alle lingue locali esistenti. Il portoghese a Goa fu imposto come lingua della vita quotidiana, dell'istruzione e del governo per secoli. Il konkani assorbì un notevole vocabolario portoghese. Anche il cibo porta l'impronta: il vindaloo, un classico goano, deriva da un piatto di maiale portoghese — carne de vinha d'alhos — rivisitato con spezie locali fino a diventare qualcosa di interamente proprio.",
+    },
+    itinerary: {
+      title: "Un itinerario culturale che vale la pena seguire",
+      intro:
+        "Se volete sentire questa storia invece di limitarti a leggerla, poche tappe fanno la differenza.",
+      oldGoa:
+        "Old Goa è il punto di partenza ovvio, e merita quella reputazione. La Basilica del Bom Jesus e la Cattedrale di Sé distano a piedi, insieme alla Chiesa di San Gaetano e alle rovine della Torre di Sant'Agostino. Tutti resti di una città che un tempo rivaleggiava con Lisbona.",
+      fontainhas:
+        "Fontainhas a Panjim offre la versione domestica e quotidiana della Goa portoghese. Vicoli stretti, facciate colorate, balconi in ferro battuto: questo quartiere latino è sopravvissuto quasi intatto e merita una passeggiata lenta, non una sosta frettolosa per le foto.",
+      reisMagos:
+        "Il Forte di Reis Magos, oltre il fiume rispetto a Panjim, unisce storia militare e religiosa in un unico sito, con una cappella che risale agli anni 1550 e viste ampie sul Mandovi.",
+      museum:
+        "Il Museo d'Arte Cristiana vicino a Old Goa è dove vivono artefatti e sculture dell'epoca dell'Inquisizione, offrendo un quadro più completo e meno edulcorato di quello che le sole chiese possono dare.",
+      spice:
+        "Un tour di una piantagione di spezie, verso l'interno in direzione di Ponda, chiude il cerchio ricollegandovi al motivo per cui i portoghesi arrivarono. Stare tra le stesse viti di pepe e le piante di cardamomo che scatenarono una lotta di potere globale cinque secoli fa mette chiese e forti in un contesto più nitido.",
+    },
+    takeaway: {
+      title: "La lezione da portare a casa",
+      desc1:
+        "Goa è il risultato diretto di un progetto coloniale che diede priorità alla trasformazione religiosa quanto al guadagno economico, gestito da una potenza europea che restò quasi 150 anni più a lungo dei britannici in qualsiasi altra parte del subcontinente. Le chiese sono belle, davvero. Ma sorgevano su un terreno che custodisce anche una storia molto più inquietante. L'identità dello stato oggi — il cibo, la lingua, l'architettura — porta entrambe le metà allo stesso tempo.",
+      desc2:
+        "Se siete il tipo di viaggiatore che da un viaggio vuole più di una sedia in spiaggia e una foto al tramonto, Goa ricompenserà quella curiosità. Passeggiate per Old Goa con in mente la storia dell'Inquisizione e la Basilica smette di essere solo un bel edificio. Diventa un luogo che davvero capite.",
+    },
+    enquireNow: "Richiedi Informazioni",
+    viewItinerary: "Esplora i Tour di Goa",
+    youMightAlsoLike: "Potrebbe Piacerti Anche",
+  },
+
   // Kerala Blog Detail Page
   blogKerala: {
     metadata: {
