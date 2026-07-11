@@ -57,7 +57,7 @@ export function TourVisualJourney({ items, gallery }: TourVisualJourneyProps) {
               <div className="relative aspect-[4/3]">
                 <Image
                   src={item.image}
-                  alt={gallery[idx]?.description || item.descriptionKey}
+                  alt={gallery[idx] ? `${gallery[idx].title}${gallery[idx].description ? ` – ${gallery[idx].description}` : ""}` : item.descriptionKey}
                   fill
                   className="
                     object-cover transition-transform duration-500

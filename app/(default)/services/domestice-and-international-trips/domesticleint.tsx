@@ -33,7 +33,7 @@ export default function DomesticInternationalTripsPage() {
             <div className="relative w-[600px] h-[400px]">
               <Image
                 src="/assets/services/domestic-international-about.webp"
-                alt={data.about.title}
+                alt="Collage of iconic Indian and international landmarks for domestic and overseas trips from Global Tourist Centre"
                 fill
                 sizes="(max-width: 768px) 100vw, 600px"
                 className="object-cover"

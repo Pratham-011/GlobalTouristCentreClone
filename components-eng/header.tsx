@@ -53,7 +53,7 @@ export function Header() {
           <div className="h-14 w-14 rounded-full border-2 border-[#f8d56b] flex items-center justify-center bg-white/90 backdrop-blur">
             <Image
               src="/assets/logo.webp"
-              alt="Global Tourist Centre Logo"
+              alt="Global Tourist Centre logo – travel agency with globe and airplane icon"
               width={48}
               height={48}
               className="rounded-full"

@@ -82,7 +82,7 @@ ${formData.get("interests") || "Not specified"}
                 <div className="relative w-full h-[400px]">
                 <Image
                   src="/assets/services/group-tour-about.webp"
-                  alt={page.aboutTitle}
+                  alt="Group of tourists exploring a scenic destination on a customized group tour with Global Tourist Centre, India"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
                   className="object-cover rounded-xl shadow-lg"

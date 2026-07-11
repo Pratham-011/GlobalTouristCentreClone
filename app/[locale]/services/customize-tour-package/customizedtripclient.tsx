@@ -92,7 +92,7 @@ ${formData.get("special") || "None"}
                 <div className="relative w-full h-[400px]">
                 <Image
                   src="/assets/services/custom-tour-about.webp"
-                  alt={page.aboutTitle}
+                  alt="Travel planners designing a personalized custom tour package itinerary at Global Tourist Centre, Goa India"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
                   className="object-cover rounded-xl shadow-lg"

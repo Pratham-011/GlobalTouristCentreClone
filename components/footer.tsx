@@ -75,7 +75,7 @@ export function Footer() {
             <div className="w-10 h-10 shrink-0 rounded-full border-2 border-[#f8d56b] flex items-center justify-center">
               <Image
                 src="/assets/logo.webp"
-                alt="Global Tourist Centre Logo"
+                alt="Global Tourist Centre logo – travel agency with globe and airplane icon"
                 width={40}
                 height={40}
                 className="h-10 w-10 rounded-full object-cover"

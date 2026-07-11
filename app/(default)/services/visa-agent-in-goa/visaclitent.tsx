@@ -111,7 +111,7 @@ ${formData.get("notes") || "—"}
               <div className="relative w-full h-[400px]">
                 <Image
                   src="/assets/services/visa-about.webp"
-                  alt={page.aboutTitle}
+                  alt="Travel consultants assisting clients with visa application documents at Global Tourist Centre, Goa India"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
                   className="object-cover rounded-xl shadow-lg"

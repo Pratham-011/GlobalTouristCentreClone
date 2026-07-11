@@ -27,7 +27,7 @@ export function TeamMemberCard({ name, role, imagelink }: TeamMemberCardProps) {
       <Avatar className="w-32 h-32 mx-auto mb-4 transition-all">
         <AvatarImage
           src={imagelink}
-          alt={`Photo of ${name}`}
+          alt={`${name}, ${role} at Global Tourist Centre travel agency, Goa India`}
           className="object-cover"
         />
         <AvatarFallback className="text-2xl bg-primary/10 text-primary">

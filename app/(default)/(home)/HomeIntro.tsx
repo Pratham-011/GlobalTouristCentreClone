@@ -18,6 +18,7 @@ type TravelCollection = {
   id: HomeItemKey;
   href: string;
   imageUrl: string;
+  alt: string;
 };
 
 const travelCollections: TravelCollection[] = [
@@ -27,38 +28,45 @@ const travelCollections: TravelCollection[] = [
     id: "south-goa-1-day-cultural-and-beach-tour-package",
     href: "/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package", // matches day-south-goa-cultural-007.slug
     imageUrl: "/assets/destinations/Goa/basilica-bom-jesus.webp",
+    alt: "Basilica of Bom Jesus Old Goa – UNESCO World Heritage Church, South Goa cultural tour",
   },
   {
     id: "north-goa-day-excursion",
     href: "/destinations/day-trips/north-goa-day-excursion", // matches day-north-goa-009.slug
     imageUrl: "/assets/destinations/Thumbnails/NorthGoa.webp",
+    alt: "Colorful Portuguese-style streets of Fontainhas Latin Quarter, North Goa sightseeing tour",
   },
   {
     id: "dudhsagar-waterfal-excursion",
     href: "/destinations/day-trips/dudhsagar-waterfal-excursion", // matches day-dudhsagar-spice-010.slug
     imageUrl: "/assets/destinations/Thumbnails/Dudhsagar.webp",
+    alt: "Dudhsagar Waterfall cascading through lush Western Ghats forests with train crossing bridge, Goa",
   },
   {
     id: "south-goa-1-day-trip-package",
     href: "/destinations/day-trips/south-goa-1-day-trip-package", // matches day-palolem-cola-011.slug
     imageUrl: "/assets/destinations/Thumbnails/Palolem.webp",
+    alt: "Palolem Beach South Goa with turquoise water, wooden fishing boats, and beachside huts under coconut palms",
   },
 
   {
     id: "luxury-yacht-day-tour-goa",
     href: "/destinations/day-trips/luxury-yacht-day-tour-goa", // matches day-yacht-013.slug
     imageUrl: "/assets/destinations/Thumbnails/Yacht.webp",
+    alt: "Illuminated luxury yacht on Goa waters at dusk – Luxury Yacht Dusk to Dine evening experience",
   },
 
   {
     id: "gokarna-murdeshwar-day-excursion",
     href: "/destinations/day-trips/gokarna-murdeshwar-day-excursion", // matches day-gokarna-005.slug (updated from old -tour)
     imageUrl: "/assets/destinations/Thumbnails/Gokarna.webp",
+    alt: "Aerial view of giant Lord Shiva statue at Murdeshwar Temple overlooking the Arabian Sea, Karnataka",
   },
   {
     id: "dandeli-2-day-tour-from-goa",
     href: "/destinations/domestic/dandeli-2-day-tour-from-goa", // matches day-dandeli-001.slug
     imageUrl: "/assets/destinations/Thumbnails/Dandeli.webp",
+    alt: "Tourists riding elephants through misty jungle trails on Dandeli wildlife safari, Western Ghats India",
   },
 
   /* ================= SHORT STAYS ================= */
@@ -67,46 +75,55 @@ const travelCollections: TravelCollection[] = [
     id: "cabo-serai-2n-3d-luxury-getaway",
     href: "/destinations/day-trips/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
     imageUrl: "/assets/destinations/Thumbnails/SeraiCabo.webp",
+    alt: "Luxury wooden villa interior with sea view balcony and palm trees at Cabo de Rama cliffside retreat, South Goa",
   },
   {
     id: "hampi-day-excursions",
     href: "/destinations/day-trips/hampi-day-excursions", // matches dom-hampi-019.slug
     imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
+    alt: "Ancient stone chariot at Vittala Temple complex, Hampi UNESCO World Heritage Site, Karnataka India",
   },
   {
     id: "mumbai-one-day-excursion",
     href: "/destinations/day-trips/mumbai-one-day-excursion", // matches dom-mumbai-021.slug
     imageUrl: "/assets/destinations/Thumbnails/Mumbai.webp",
+    alt: "Gateway of India and Taj Mahal Palace Hotel viewed from Mumbai harbour with ferry boats on Arabian Sea",
   },
   {
     id: "ajanta-ellora-caves-tour-from-goa",
     href: "/destinations/domestic/ajanta-ellora-caves-tour-from-goa", // matches dom-ajanta-ellora-022.slug
     imageUrl: "/assets/destinations/Thumbnails/Ellora.webp",
+    alt: "Intricate rock-cut architecture and stone elephant sculpture inside Kailasa Temple, Ellora Caves, Aurangabad Maharashtra",
   },
   {
     id: "kerala-tour-package-from-goa",
     href: "/destinations/domestic/kerala-tour-package-from-goa", // matches dom-kerala-024.slug
     imageUrl: "/assets/destinations/Thumbnails/Kerala.webp",
+    alt: "Traditional Kerala houseboat cruising through Alleppey backwaters surrounded by red lotus flowers and coconut palms",
   },
   {
     id: "golden-triangle-4-day-tour-from-goa",
     href: "/destinations/domestic/golden-triangle-4-day-tour-from-goa", // matches dom-golden-triangle-025.slug
     imageUrl: "/assets/destinations/Thumbnails/GoldenTriangle.webp",
+    alt: "Golden Temple (Harmandir Sahib) with gold-plated dome reflecting in the sacred Amrit Sarovar pool, Amritsar Punjab India",
   },
   {
     id: "jodhpur-udaipur-tour-package",
     href: "/destinations/domestic/jodhpur-udaipur-tour-package", // matches dom-udaipur-jodhpur-026.slug
     imageUrl: "/assets/destinations/Thumbnails/Udaipur.webp",
+    alt: "Taj Lake Palace hotel floating on Lake Pichola at golden hour with Aravalli hills in background, Udaipur Rajasthan",
   },
   {
     id: "varanasi-tour-package",
     href: "/destinations/domestic/varanasi-tour-package", // matches dom-varanasi-027.slug
     imageUrl: "/assets/destinations/Thumbnails/Varanasi.webp",
+    alt: "Sunrise over Varanasi ghats on the Ganges River with wooden boats, flocks of birds, and pilgrims gathered on the steps, Uttar Pradesh India",
   },
   {
     id: "mathura-vrindavan-tour",
     href: "/destinations/domestic/mathura-vrindavan-tour", // matches dom-mathura-vrindavan-028.slug
     imageUrl: "/assets/destinations/Thumbnails/Mathura.webp",
+    alt: "Prem Mandir white marble temple dedicated to Lord Krishna in Vrindavan, Mathura Uttar Pradesh India",
   },
 
   /* ================= INTERNATIONAL ================= */
@@ -115,16 +132,19 @@ const travelCollections: TravelCollection[] = [
     id: "andaman-nicobar-tour-package",
     href: "/destinations/domestic/andaman-nicobar-tour-package", // matches int-andaman-021.slug
     imageUrl: "/assets/destinations/Thumbnails/Andaman.webp",
+    alt: "Natural limestone rock arch on Neil Island coastline with turquoise waters and lush tropical jungle, Andaman Islands India",
   },
   {
     id: "srilanka-tour-package",
     href: "/destinations/international/srilanka-tour-package", // matches int-srilanka-023.slug
     imageUrl: "/assets/destinations/Thumbnails/SriLanka.webp",
+    alt: "Blue train crossing the Nine Arch Bridge in misty Ella highlands surrounded by green rainforest, Sri Lanka scenic tour",
   },
   {
     id: "7n-8d-bhutan-tour-package",
     href: "/destinations/international/7n-8d-bhutan-tour-package", // matches int-bhutan-024.slug
     imageUrl: "/assets/destinations/Thumbnails/Bhutan.webp",
+    alt: "Ornate Punakha Dzong Buddhist monastery-fortress with traditional Bhutanese architecture against clear blue sky, Bhutan",
   },
 ];
 
@@ -170,6 +190,7 @@ const HomeIntro = () => {
                 >
                   <HomeCard
                     imageUrl={tour.imageUrl}
+                    alt={tour.alt}
                     title={content.title}
                     duration={content.duration}
                     description={content.description}
@@ -199,6 +220,7 @@ const HomeIntro = () => {
               <HomeCard
                 key={tour.id}
                 imageUrl={tour.imageUrl}
+                alt={tour.alt}
                 title={content.title}
                 duration={content.duration}
                 description={content.description}

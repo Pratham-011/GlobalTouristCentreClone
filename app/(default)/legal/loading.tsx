@@ -10,7 +10,7 @@ export default function Loading() {
         {/* Brand Logo */}
         <Image
           src="/assets/logo.webp"
-          alt="Global Tourist Centre"
+          alt="Global Tourist Centre logo – travel agency with globe and airplane icon"
           width={96}
           height={96}
           className="w-24 h-24"

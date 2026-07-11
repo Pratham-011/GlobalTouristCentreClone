@@ -8,12 +8,12 @@ import { I18nProvider } from "@/lib/i18n/context";
 import { Footer } from "@/components-eng/footer";
 import { WhatsAppButton } from "@/components-eng/whatsapp-button";
 import { CookieBanner } from "@/components/cookie-banner";
-import { SITE_URL } from "@/lib/site";
+import { METADATA_BASE } from "@/lib/site";
+import "../globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(SITE_URL),
+  metadataBase: METADATA_BASE,
 };
-import "../globals.css";
 
 /* -----------------------------
    Fonts

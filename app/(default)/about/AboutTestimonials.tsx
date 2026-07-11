@@ -198,7 +198,7 @@ export function AboutTestimonials() {
         >
           <Image
             src="/assets/icons8-google-48.webp"
-            alt="Google Reviews"
+            alt="Google Reviews logo for Global Tourist Centre customer ratings"
             width={24}
             height={24}
             className="h-6 w-6"

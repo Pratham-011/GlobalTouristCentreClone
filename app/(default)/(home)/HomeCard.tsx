@@ -10,6 +10,7 @@ interface HomeCardProps {
   description: string;
   href: string;
   rating?: number;
+  alt?: string;
 }
 
 const HomeCard: React.FC<HomeCardProps> = ({
@@ -19,6 +20,7 @@ const HomeCard: React.FC<HomeCardProps> = ({
   description,
   href,
   rating = 4.9,
+  alt,
 }) => {
   return (
     <Link
@@ -41,7 +43,7 @@ const HomeCard: React.FC<HomeCardProps> = ({
         <div className="relative h-48 w-full overflow-hidden shrink-0">
           <Image
             src={imageUrl}
-            alt={title}
+            alt={alt ?? title}
             fill
             className="
               object-cover

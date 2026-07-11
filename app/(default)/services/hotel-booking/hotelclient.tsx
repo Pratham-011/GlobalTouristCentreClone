@@ -87,7 +87,7 @@ ${formData.get("message") || "—"}
               <div className="relative w-full h-[400px]">
                 <Image
                   src="/assets/services/hotel-booking-about.webp"
-                  alt={page.aboutTitle}
+                  alt="Luxury hotel suite with elegant furnishings available through Global Tourist Centre hotel booking service, India"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
                   className="object-cover rounded-xl shadow-lg"

@@ -26,26 +26,32 @@ const luxuryDestinations = [
   {
     slug: "kerala-luxury",
     image: "/assets/Luxury/Kerala/KeralaBackwaters.webp",
+    alt: "Traditional Kerala houseboat on calm Alleppey backwaters lined with coconut palms, Kerala India luxury tour",
   },
   {
     slug: "mumbai-luxury",
     image: "/assets/Luxury/Mumbai/mumbai-hero.webp",
+    alt: "Mumbai skyline and harbourfront skyline at dusk for luxury Mumbai city tour, Maharashtra India",
   },
   {
     slug: "golden-triangle-luxury",
     image: "/assets/Luxury/Golden Triangle/hero.webp",
+    alt: "Taj Mahal white marble mausoleum at golden hour on Golden Triangle luxury tour, Agra Uttar Pradesh India",
   },
   {
     slug: "rajasthan-luxury",
     image: "/assets/Luxury/Rajasthan/Royal Rajasthan.webp",
+    alt: "Ornate Rajasthan palace facade glowing at sunset on Royal Rajasthan luxury tour, India",
   },
   {
     slug: "karnataka-luxury",
     image: "/assets/Luxury/Karnataka/hero.webp",
+    alt: "Historic Karnataka temple architecture and stone carvings on a luxury heritage tour, India",
   },
   {
     slug:"mahraja-train-tour-package",
-    image:"/assets/Luxury/Maharaja/hero.webp"
+    image:"/assets/Luxury/Maharaja/hero.webp",
+    alt: "Luxury Maharaja Express train journey through India with premium cabin travel experience"
   }
 ] as const;
 
@@ -86,7 +92,7 @@ export default function LuxuryDestinationsPage() {
         <div className="absolute inset-0">
           <Image
             src="/assets/dubai-skyline-burj-khalifa-luxury-evening.webp"
-            alt=""
+            alt="Dubai skyline with Burj Khalifa illuminated at evening for luxury travel inspiration, United Arab Emirates"
             fill
             sizes="100vw"
             priority
@@ -187,7 +193,7 @@ export default function LuxuryDestinationsPage() {
 
                     <Image
                       src={item.image}
-                      alt={content?.title}
+                      alt={item.alt ?? content?.title}
                       fill
                       sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                       className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"

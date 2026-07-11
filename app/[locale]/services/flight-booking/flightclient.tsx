@@ -92,7 +92,7 @@ ${formData.get("message") || "—"}
               <div className="relative w-full h-[400px]">
                 <Image
                   src="/assets/services/flight-booking-about.webp"
-                  alt={page.aboutTitle}
+                  alt="Commercial airplane taking off above clouds for domestic and international flights booked via Global Tourist Centre"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
                   className="object-cover rounded-xl shadow-lg"

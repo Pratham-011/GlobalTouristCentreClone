@@ -16,6 +16,7 @@ type DestinationCardProps = {
   imageQuery: string;
   tags?: string[];
   badge?: "new" | "hot";
+  alt?: string;
 };
 
 export function DestinationCard({
@@ -28,6 +29,7 @@ export function DestinationCard({
   imageQuery,
   tags = [],
   badge,
+  alt,
 }: DestinationCardProps) {
   const { t,locale } = useI18n();
   const href = `/${locale}/destinations/${category}/${slug}`;
@@ -45,7 +47,7 @@ export function DestinationCard({
         <div className="relative aspect-[16/10] overflow-hidden">
           <Image
             src={`/assets${imageQuery}`}
-            alt={resolvedTitle}
+            alt={alt ?? resolvedTitle}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             loading="lazy"

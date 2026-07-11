@@ -1,5 +1,5 @@
 import type React from "react";
-import type { Viewport } from "next";
+import type { Metadata, Viewport } from "next";
 import { Playfair_Display } from "next/font/google";
 import { Montserrat } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
@@ -10,7 +10,12 @@ import { WhatsAppButton } from "@/components/whatsapp-button";
 import { CookieBanner } from "@/components/cookie-banner";
 import { locales } from "@/lib/i18n/config";
 import type { Locale } from "@/lib/i18n/translations";
+import { METADATA_BASE } from "@/lib/site";
 import "../globals.css";
+
+export const metadata: Metadata = {
+  metadataBase: METADATA_BASE,
+};
 import Script from "next/script";
 import { notFound } from "next/navigation";
 

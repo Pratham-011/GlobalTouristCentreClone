@@ -6,6 +6,8 @@ export type Destination = {
   category: "domestic" | "international" | "day-trips";
   tags?: string[];
   zone?: string;
+  /** Descriptive image alt for SEO/a11y (prefer over trip title when present) */
+  alt?: string;
 };
 
 /* ---------------- DOMESTIC ---------------- */
@@ -18,6 +20,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Kashmir.webp",
     category: "domestic",
     zone: "north",
+    alt: "Traditional wooden Shikara boat gliding on calm Dal Lake with mirror reflection and snow-capped Zabarwan mountains, Srinagar Kashmir",
   },
   {
     id: "dom-ladakh-002",
@@ -26,6 +29,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Leh.webp",
     category: "domestic",
     zone: "north",
+    alt: "Giant golden Maitreya Buddha statue at Diskit Monastery with ornate painted pedestal against deep blue sky, Nubra Valley Ladakh India",
   },
   {
     id: "dom-sikkim-003",
@@ -34,6 +38,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Sikkim.webp",
     category: "domestic",
     zone: "east",
+    alt: "Buddha Park of Ravangla with large golden and maroon seated Buddha statue overlooking snow-capped Himalayan peaks and pine forests, Sikkim India",
   },
   {
     id: "dom-meghalaya-004",
@@ -42,6 +47,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Meghalaya.webp",
     category: "domestic",
     zone: "east",
+    alt: "Wooden tourist boats on emerald green Umngot River cutting through misty forested gorge cliffs, Dawki Meghalaya India",
   },
   {
     id: "dom-north-heritage-005",
@@ -50,6 +56,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/GoldenTriangle.webp",
     category: "domestic",
     zone: "north",
+    alt: "Golden Temple Harmandir Sahib with gold-plated domes and white marble gateway reflecting in the sacred Amrit Sarovar pool, Amritsar Punjab India",
   },
   {
     id: "dom-golden-triangle-006",
@@ -58,6 +65,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/North-India.webp",
     category: "domestic",
     zone: "north",
+    alt: "Taj Mahal white marble mausoleum viewed from the central reflecting pool with cypress trees and tourists on a clear sunny day, Agra Uttar Pradesh India",
   },
   {
     id: "dom-rajasthan-007",
@@ -66,6 +74,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Rajasthan.webp",
     category: "domestic",
     zone: "west",
+    alt: "Hawa Mahal Palace of Winds five-storey pink sandstone facade with 953 carved lattice windows illuminated at dusk, Jaipur Pink City Rajasthan India",
   },
   {
     id: "dom-kerala-008",
@@ -74,6 +83,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Kerala.webp",
     category: "domestic",
     zone: "south",
+    alt: "Luxury Kerala houseboat cruising Alleppey backwaters with red water lilies in the foreground and coconut palms lining the canal, Kerala God's Own Country India",
   },
   {
     id: "dom-tamilnadu-009",
@@ -82,6 +92,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Tamil-Nadu.webp",
     category: "domestic",
     zone: "south",
+    alt: "Pamban Bridge railway viaduct stretching across turquoise Palk Strait sea connecting Rameswaram Island to mainland, Tamil Nadu India",
   },
   {
     id: "dom-andaman-010",
@@ -90,6 +101,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Andaman.webp",
     category: "domestic",
     zone: "island",
+    alt: "Natural limestone rock arch on Neil Island shoreline with shallow turquoise water, rocky beach and dense tropical jungle canopy, Andaman Islands India",
   },
   {
     id: "dom-lakshadweep-011",
@@ -98,16 +110,8 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Lakshadweep.webp",
     category: "domestic",
     zone: "island",
+    alt: "Leaning coconut palm tree on pristine white sand beach at golden sunset with overwater bungalows in the distance, Lakshadweep Islands India",
   },
-
-
-
-
-
-
-
-  /* ===== MERGED SHORT STAYS & MULTI-DAY ===== */
-
 
   {
     id: "dom-ellora-ajanta-022",
@@ -116,6 +120,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Ellora.webp",
     category: "domestic",
     zone: "west",
+    alt: "Stone elephant sculpture inside the Kailasa Temple courtyard surrounded by ancient rock-cut Hindu carvings and pillars at dusk, Ellora Caves Aurangabad Maharashtra",
   },
 
   {
@@ -125,6 +130,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Udaipur.webp",
     category: "domestic",
     zone: "west",
+    alt: "Taj Lake Palace white marble hotel floating on Lake Pichola at dusk with Aravalli hills silhouette reflected in still water, Udaipur Rajasthan India",
   },
   {
     id: "dom-varanasi-027",
@@ -133,6 +139,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Varanasi.webp",
     category: "domestic",
     zone: "north",
+    alt: "Varanasi Dashashwamedh Ghat at sunrise with wooden rowing boats on the Ganges River, flocks of birds in golden sky and pilgrims on temple steps, Uttar Pradesh India",
   },
   {
     id: "dom-mathura-vrindavan-028",
@@ -141,6 +148,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Mathura.webp",
     category: "domestic",
     zone: "north",
+    alt: "Prem Mandir white Italian marble temple with ornate carved pillars and devotional murals dedicated to Radha Krishna, Vrindavan Mathura Uttar Pradesh India",
   },
   {
     id: "dom-amritsar-019",
@@ -149,6 +157,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Amritsar.webp",
     category: "domestic",
     zone: "north",
+    alt: "Golden Temple Harmandir Sahib and white Akal Takht building both reflected in the sacred Amrit Sarovar pool on a clear day, Amritsar Punjab India",
   },
   {
     id: "dom-bijapur-019",
@@ -157,6 +166,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Bijapur.webp",
     category: "domestic",
     zone: "island",
+    alt: "Gol Gumbaz mausoleum with massive central dome and four octagonal towers against a clear blue sky, Bijapur Karnataka India",
   },
   {
     id: "dom-andaman-019",
@@ -165,6 +175,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Dandeli.webp",
     category: "domestic",
     zone: "island",
+    alt: "Tourists riding elephants in single file through misty green jungle trail at Dandeli Wildlife Sanctuary, Western Ghats Karnataka India",
   },
   {
     id: "dom-hyderabad-019",
@@ -173,6 +184,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Hyderabad.webp",
     category: "domestic",
     zone: "island",
+    alt: "Charminar illuminated at night with four glowing minarets surrounded by colourful bustling bazaar and city lights, Hyderabad Telangana India",
   },
   {
     id: "dom-jodhpur-019",
@@ -181,6 +193,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Jodhpur.webp",
     category: "domestic",
     zone: "island",
+    alt: "Mehrangarh Fort perched on rocky hilltop at dusk overlooking the Blue City of Jodhpur with Jaswant Thada cenotaph in the foreground, Rajasthan India",
   },
 ];
 
@@ -194,6 +207,7 @@ export const internationalTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Vietnam.webp",
     category: "international",
     zone: "southeast-asia",
+    alt: "Illuminated Chinese-style pagoda and traditional red buildings reflecting on river at sunset, Hoi An Ancient Town Vietnam",
   },
   {
     id: "int-vietnam-002",
@@ -202,6 +216,7 @@ export const internationalTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Vietnam2.webp",
     category: "international",
     zone: "southeast-asia",
+    alt: "Golden Bridge held by giant stone hands at Ba Na Hills with tourists walking above misty forested hills, Da Nang Vietnam",
   },
   {
     id: "int-bhutan-003",
@@ -210,6 +225,8 @@ export const internationalTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Bhutan.webp",
     category: "international",
     zone: "asia",
+    // More detailed phrasing preferred over homepage variant for this shared image
+    alt: "Ornate Punakha Dzong Buddhist monastery-fortress with traditional carved wooden balconies and golden roof against clear blue sky, Bhutan",
   },
   {
     id: "int-nepal-004",
@@ -218,20 +235,14 @@ export const internationalTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Nepal.webp",
     category: "international",
     zone: "asia",
+    alt: "Sunrise over snow-capped Himalayan peaks with Buddhist prayer flags, stone chortens and blooming rhododendron flowers on misty mountain trail, Nepal",
   },
-  // {
-  //   id: "int-nepal-005",
-  //   slug: "nepal-muktinath-special",
-  //   rating: 4.8,
-  //   imageQuery: "/destinations/Thumbnails/Nepal2.webp",
-  //   category: "international",
-  //   zone: "asia",
-  // },
   {
     id: "int-singapore-malaysia-006",
     slug: "singapore-tour-package",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/Singapore.webp",
+    alt: "Modern Singapore city skyline and waterfront skyline on a Southeast Asia tour package",
     category: "international",
     zone: "southeast-asia",
   },
@@ -240,6 +251,7 @@ export const internationalTrips: Destination[] = [
     slug: "4N-5D-bangkok-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Thailand.webp",
+    alt: "Bangkok city temple and skyline views on a Thailand short-break tour from Goa",
     category: "international",
     zone: "southeast-asia",
   },
@@ -248,6 +260,7 @@ export const internationalTrips: Destination[] = [
     slug: "7N-8D-thailand-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Thailand2.webp",
+    alt: "Tropical Thai coastline and beach resort scenery on a week-long Thailand tour package",
     category: "international",
     zone: "southeast-asia",
   },
@@ -256,6 +269,7 @@ export const internationalTrips: Destination[] = [
     slug: "3N-4D-thailand-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Thailand3.webp",
+    alt: "Thai beach and palm-lined shore scenery on a short Thailand holiday package",
     category: "international",
     zone: "southeast-asia",
   },
@@ -264,6 +278,7 @@ export const internationalTrips: Destination[] = [
     slug: "8n-9d-turkey-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Turkey.webp",
+    alt: "Historic Turkish cityscape and cultural landmarks on an extended Turkey tour package",
     category: "international",
     zone: "europe",
   },
@@ -272,6 +287,7 @@ export const internationalTrips: Destination[] = [
     slug: "turkey-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Turkey2.webp",
+    alt: "Iconic Turkey travel destinations and historic architecture on a guided tour package",
     category: "international",
     zone: "europe",
   },
@@ -280,6 +296,7 @@ export const internationalTrips: Destination[] = [
     slug: "dubai-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Dubai.webp",
+    alt: "Dubai modern skyline and desert city landmarks on a Middle East tour package, UAE",
     category: "international",
     zone: "asia",
   },
@@ -288,6 +305,7 @@ export const internationalTrips: Destination[] = [
     slug: "phuket-krabi-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Phuket.webp",
+    alt: "Phuket and Krabi limestone cliffs and turquoise Andaman Sea beaches, Thailand",
     category: "international",
     zone: "southeast-asia",
   },
@@ -296,6 +314,7 @@ export const internationalTrips: Destination[] = [
     slug: "5n-6d-hongkong-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/HongKong.webp",
+    alt: "Hong Kong harbour skyline and dense urban towers on a city tour package",
     category: "international",
     zone: "asia",
   },
@@ -304,6 +323,7 @@ export const internationalTrips: Destination[] = [
     slug: "baku-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Baku.webp",
+    alt: "Baku waterfront and modern city skyline on a Caucasus tour package, Azerbaijan",
     category: "international",
     zone: "asia",
   },
@@ -312,6 +332,7 @@ export const internationalTrips: Destination[] = [
     slug: "bali-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Bali.webp",
+    alt: "Bali rice terraces and tropical temple landscape on an Indonesia island tour package",
     category: "international",
     zone: "southeast-asia",
   },
@@ -320,6 +341,7 @@ export const internationalTrips: Destination[] = [
     slug: "combodia-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Cambodia.webp",
+    alt: "Cambodia ancient temple ruins and jungle setting on a Southeast Asia tour package",
     category: "international",
     zone: "southeast-asia",
   },
@@ -328,6 +350,7 @@ export const internationalTrips: Destination[] = [
     slug: "georgia-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Georgia.webp",
+    alt: "Georgia mountain valleys and historic old-town architecture on a Caucasus tour package",
     category: "international",
     zone: "europe",
   },
@@ -336,6 +359,7 @@ export const internationalTrips: Destination[] = [
     slug: "japan-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Japan.webp",
+    alt: "Japan temple gardens and traditional architecture on a Far East tour package",
     category: "international",
     zone: "asia",
   },
@@ -344,6 +368,7 @@ export const internationalTrips: Destination[] = [
     slug: "kazakhstan-almaty-explorer",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/Kazakhstan.webp",
+    alt: "Almaty mountain backdrop and city scenery on a Kazakhstan explorer tour package",
     category: "international",
     zone: "asia",
   },
@@ -355,6 +380,7 @@ export const internationalTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/SriLanka.webp",
     category: "international",
     zone: "asia",
+    alt: "Blue train crossing the Nine Arch Bridge in misty Ella highlands surrounded by green rainforest, Sri Lanka scenic tour",
   },
 ];
 
@@ -367,6 +393,7 @@ export const dayTrips: Destination[] = [
     rating: 4.1,
     imageQuery: "/destinations/Thumbnails/Gokarna.webp",
     category: "day-trips",
+    alt: "Aerial view of towering Lord Shiva statue at Murdeshwar Temple complex on clifftop overlooking the Arabian Sea, Karnataka India",
   },
   {
     id: "dom-hampi-017",
@@ -374,6 +401,7 @@ export const dayTrips: Destination[] = [
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Hampi.webp",
     category: "day-trips",
+    alt: "Stone chariot of Garuda at Vittala Temple with intricately carved wheels and guardian lion sculptures, Hampi UNESCO World Heritage Site Karnataka",
   },
   {
     id: "dom-aurangabad-015",
@@ -381,6 +409,7 @@ export const dayTrips: Destination[] = [
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Aurangabad.webp",
     category: "day-trips",
+    alt: "Bibi Ka Maqbara white marble mausoleum with four minarets and central dome under dramatic cloudy sky, Aurangabad Maharashtra India",
   },
   {
     id: "dom-aurangabad-015",
@@ -388,6 +417,7 @@ export const dayTrips: Destination[] = [
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/agra.webp",
     category: "day-trips",
+    alt: "Taj Mahal at sunrise with golden pink sky reflecting in the central pool flanked by cypress trees, Agra Uttar Pradesh India",
   },
   {
     id: "day-dandeli-001",
@@ -395,6 +425,7 @@ export const dayTrips: Destination[] = [
     rating: 4.9,
     imageQuery: "/destinations/Dandeli/elephant-safari.webp",
     category: "day-trips",
+    alt: "Tourists riding elephants in single file through misty green jungle trail at Dandeli Wildlife Sanctuary, Western Ghats Karnataka India",
   },
   {
     id: "day-dudhsagar-002",
@@ -402,12 +433,14 @@ export const dayTrips: Destination[] = [
     rating: 4.4,
     imageQuery: "/destinations/Thumbnails/Dudhsagar.webp",
     category: "day-trips",
+    alt: "Dudhsagar Waterfall cascading through lush Western Ghats forests with train crossing bridge, Goa",
   },
   {
     id: "day-dudhsagar-002",
     slug: "south-goa-day-exursion",
     rating: 4.4,
     imageQuery: "/hero/Goa-1-hero.webp",
+    alt: "South Goa palm-lined coastline and beach scenery on a day excursion from Goa, India",
     category: "day-trips",
   },
   {
@@ -416,12 +449,14 @@ export const dayTrips: Destination[] = [
     rating: 4.6,
     imageQuery: "/hero/mumbai-hero.webp",
     category: "day-trips",
+    alt: "Gateway of India and Taj Mahal Palace Hotel viewed from Mumbai harbour with ferry boats on Arabian Sea",
   },
   {
     id: "day-netravali-004",
     slug: "netravali-wildlife-day-excursion",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/netravali.webp",
+    alt: "Netravali wildlife sanctuary forest trail and greenery on a nature day trip from Goa, India",
     category: "day-trips",
   },
 
@@ -431,6 +466,7 @@ export const dayTrips: Destination[] = [
     rating: 4.6,
     imageQuery: "/destinations/South-goa/palolem-beach.webp",
     category: "day-trips",
+    alt: "Palolem Beach South Goa with turquoise water, wooden fishing boats, and beachside huts under coconut palms",
   },
   {
     id: "dom-cabo-serai-013",
@@ -438,12 +474,14 @@ export const dayTrips: Destination[] = [
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Cabo-Serai.webp",
     category: "day-trips",
+    alt: "Luxury wooden villa interior with sea view balcony and palm trees at Cabo de Rama cliffside retreat, South Goa",
   },
   {
     id: "dom-shimoga-014",
     slug: "1n-2d-shimoga-trip-package",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/Shimoga.webp",
+    alt: "Shimoga lush Western Ghats landscape and riverside scenery, Karnataka India",
     category: "day-trips",
   },
   {
@@ -452,12 +490,14 @@ export const dayTrips: Destination[] = [
     rating: 4.2,
     imageQuery: "/destinations/Thumbnails/Goa3.webp",
     category: "day-trips",
+    alt: "Basilica of Bom Jesus Old Goa – UNESCO World Heritage Church, South Goa cultural tour",
   },
   {
     id: "dom-wilderness-012",
     slug: "wondrous-wildernest-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Wildernesst.webp",
+    alt: "Wildernest Nature Resort forest canopy and hill views in the Western Ghats near Goa, India",
     category: "day-trips",
     zone: "south",
   },
@@ -470,6 +510,7 @@ export const dayTrips: Destination[] = [
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/NorthGoa.webp",
     category: "day-trips",
+    alt: "Colorful Portuguese-style streets of Fontainhas Latin Quarter, North Goa sightseeing tour",
   },
 
   {
@@ -478,5 +519,6 @@ export const dayTrips: Destination[] = [
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Yacht.webp",
     category: "day-trips",
+    alt: "Illuminated luxury yacht on Goa waters at dusk – Luxury Yacht Dusk to Dine evening experience",
   },
 ];

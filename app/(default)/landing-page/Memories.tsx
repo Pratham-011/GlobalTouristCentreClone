@@ -13,26 +13,31 @@ const travelMemories = [
     id: 1,
     imageQuery: "tourists group photo Taj Mahal",
     imageurl: "/assets/trips/trip9.webp",
+    alt: "Tour group posing in front of the white marble Taj Mahal on a clear day, Agra Uttar Pradesh India",
   },
   {
     id: 2,
     imageQuery: "female tourist at a temple",
     imageurl: "/assets/trips/trip6.webp",
+    alt: "Female traveler visiting an ornate stone temple courtyard during a guided India tour",
   },
   {
     id: 3,
     imageQuery: "couple honeymoon trip",
     imageurl: "/assets/trips/trip5.webp",
+    alt: "Couple enjoying a romantic honeymoon trip on a tropical beach holiday in India",
   },
   {
     id: 4,
     imageQuery: "group tour Rajasthan palace",
     imageurl: "/assets/trips/trip10.webp",
+    alt: "Travel group exploring a grand Rajasthan palace courtyard on a cultural heritage tour, India",
   },
   {
     id: 5,
     imageQuery: "tourist couple at a temple",
     imageurl: "/assets/trips/trip8.webp",
+    alt: "Tourist couple standing together at a historic temple during an India sightseeing trip",
   },
 ];
 
@@ -86,7 +91,7 @@ const Memories = () => {
             >
               <Image
                 src={memory.imageurl}
-                alt={memory.imageQuery}
+                alt={memory.alt}
                 fill
                 className="object-cover transition-transform duration-500 group-hover:scale-110"
               />
@@ -113,7 +118,7 @@ const Memories = () => {
               <div className="relative aspect-square rounded-xl overflow-hidden shadow-lg">
                 <Image
                   src={travelMemories[activeMemoryIndex].imageurl}
-                  alt={travelMemories[activeMemoryIndex].imageQuery}
+                  alt={travelMemories[activeMemoryIndex].alt}
                   fill
                   className="object-cover transition-transform duration-700"
                 />

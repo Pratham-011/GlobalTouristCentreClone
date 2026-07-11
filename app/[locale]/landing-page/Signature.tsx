@@ -20,6 +20,7 @@ const Signature = () => {
   const signatureExperiences: {
     id: ExperienceId;
     imageUrl: string;
+    alt: string;
     price: string;
     link: string;
     popular: boolean;
@@ -27,6 +28,7 @@ const Signature = () => {
       {
         id: "all-goa",
         imageUrl: "/assets/destinations/Thumbnails/Goa3.webp",
+        alt: "Basilica of Bom Jesus Old Goa – UNESCO World Heritage Church, South Goa cultural tour",
         price: "$70",
         link: `/${locale}/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package`,
         popular: false,
@@ -34,6 +36,7 @@ const Signature = () => {
       {
         id: "palolem",
         imageUrl: "/assets/destinations/Thumbnails/Palolem.webp",
+        alt: "Palolem Beach South Goa with turquoise water, wooden fishing boats, and beachside huts under coconut palms",
         price: "$70",
         link: `/${locale}/destinations/day-trips/south-goa-1-day-trip-package`,
         popular: true,
@@ -41,6 +44,7 @@ const Signature = () => {
       {
         id: "mumbai",
         imageUrl: "/assets/destinations/Thumbnails/mumbai.webp",
+        alt: "Gateway of India and Taj Mahal Palace Hotel viewed from Mumbai harbour with ferry boats on Arabian Sea",
         price: "$360",
         link: `/${locale}/destinations/day-trips/mumbai-one-day-excursion`,
         popular: true,
@@ -48,6 +52,7 @@ const Signature = () => {
       {
         id: "taj",
         imageUrl: "/assets/destinations/Thumbnails/agra.webp",
+        alt: "Taj Mahal at sunrise with golden pink sky reflecting in the central pool flanked by cypress trees, Agra Uttar Pradesh India",
         price: "$300",
         link: `/${locale}/destinations/domestic/delhi-agra-1n-2d-trip-package`,
         popular: true,
@@ -55,6 +60,7 @@ const Signature = () => {
       {
         id: "hampi",
         imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
+        alt: "Stone chariot of Garuda at Vittala Temple with intricately carved wheels and guardian lion sculptures, Hampi UNESCO World Heritage Site Karnataka",
         price: "$170",
         link: `/${locale}/destinations/domestic/hampi-day-excursions`,
         popular: false,
@@ -106,7 +112,7 @@ const Signature = () => {
             >
               <Image
                 src={exp.imageUrl}
-                alt={exp.title}
+                alt={exp.alt}
                 fill
                 className="w-full h-full object-cover"
               />
@@ -167,7 +173,7 @@ const Signature = () => {
                 <div className="relative h-[320px] rounded-[15px] overflow-hidden shadow-lg group">
                   <Image
                     src={exp.imageUrl}
-                    alt={exp.title}
+                    alt={exp.alt}
                     fill
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform"
                   />

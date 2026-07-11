@@ -87,7 +87,7 @@ export function HeroSection({
             <div className="w-15 h-15 rounded-full border-3 border-[#f8d56b] flex items-center justify-center mb-4 sm:mt-[10px] mt-4">
               <Image
                 src="/assets/logo.webp"
-                alt="Global Tourist Centre Logo"
+                alt="Global Tourist Centre logo – travel agency with globe and airplane icon"
                 width={56}
                 height={56}
                 className="h-14 w-14 rounded-full object-cover"
