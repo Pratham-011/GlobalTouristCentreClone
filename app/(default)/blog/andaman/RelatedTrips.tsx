@@ -20,10 +20,10 @@ const RelatedTrips = () => {
           link="kerala"
         />
         <RelatedTripCard
-          title={t.blog.comingSoonTitle}
-          desc={t.blog.comingSoonSubtitle}
-          image="/assets/destinations/Thumbnails/Sikkim.webp"
-          isComingSoon
+          title={t.blog.goaTitle}
+          desc={t.blog.goaSubtitle}
+          image="/assets/blog/goa/Basilica.png"
+          link="colonial-heritage-of-goa-and-india"
         />
       </div>
     </section>

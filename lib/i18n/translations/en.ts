@@ -80,7 +80,7 @@ export const en = {
     title: "Discover Extraordinary Journeys",
     subtitle: "Plan Your Dream Vacation",
     cta: "Get Free Quote",
-    tagline: "We Don't Just Book Trips — We Design Lifetimes of Stories",
+    tagline:"Goa's Trusted Tour Agency — We Don't Just Book Trips, We Design Lifetimes of Stories",
   },
   home: {
     title: "Choose Your Next Adventure",
@@ -1116,7 +1116,7 @@ export const en = {
     photography: "Photography",
     groupTours: "Group Tours",
     // Dates
-    julyDate: "July 2025",
+    julyDate: "July 2026",
     juneDate: "June 2025",
     // Author
     globalTeam: "Global Tourist Centre Team",
@@ -1480,6 +1480,14 @@ export const en = {
   footer: {
     tagline:
       "Weaving your dreams into unforgettable adventures since 2010. Your trusted travel partner for bespoke domestic and international tours.",
+    ourOffice: "Our Office",
+    addressLine1:
+      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo",
+    addressLine2: "Benaulim, Salcete, South Goa, Goa 403716, India",
+    callUs: "Call Us",
+    phone: "+91 9067972295",
+    emailUs: "Email",
+    email: "info@globaltouristcentre.com",
     quickLinks: "Quick Links",
     popularTours: "Popular Tours",
     latestInstagram: "Latest on Instagram",
@@ -1490,7 +1498,7 @@ export const en = {
     craftingJourneys: "Crafting unforgettable journeys since 2010",
     termsConditions: "Terms & Conditions",
     copyright: "© 2026 Global Tourist Centre. All rights reserved.",
-    sitemap: "Sitemap"
+    sitemap: "Sitemap",
   },
   // Common
   common: {

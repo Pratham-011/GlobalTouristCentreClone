@@ -52,9 +52,6 @@ export default function GoaBlogPage() {
                   priority
                 />
               </div>
-              <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                {t.blogGoa.introImageAlt}
-              </figcaption>
             </figure>
           </section>
 
@@ -74,9 +71,6 @@ export default function GoaBlogPage() {
                   className="w-full h-auto object-cover"
                 />
               </div>
-              <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                {t.blogGoa.beforePortuguese.caption}
-              </figcaption>
             </figure>
 
             <div className="space-y-4 text-gray-700 leading-relaxed text-lg max-w-3xl mx-auto">
@@ -105,9 +99,6 @@ export default function GoaBlogPage() {
                   className="w-full h-auto object-cover"
                 />
               </div>
-              <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                {t.blogGoa.goldenAge.caption}
-              </figcaption>
             </figure>
 
             <div className="space-y-4 text-gray-700 leading-relaxed text-lg max-w-3xl mx-auto">
@@ -135,9 +126,6 @@ export default function GoaBlogPage() {
                     className="w-full h-auto object-cover"
                   />
                 </div>
-                <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                  {t.blogGoa.whyDifferent.captionBritish}
-                </figcaption>
               </figure>
               <figure>
                 <div className="rounded-xl overflow-hidden shadow-lg">
@@ -149,9 +137,6 @@ export default function GoaBlogPage() {
                     className="w-full h-auto object-cover"
                   />
                 </div>
-                <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                  {t.blogGoa.whyDifferent.captionPortuguese}
-                </figcaption>
               </figure>
             </div>
 

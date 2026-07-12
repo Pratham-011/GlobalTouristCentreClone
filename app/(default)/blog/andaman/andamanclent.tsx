@@ -227,57 +227,32 @@ export default function AndamanBlogPage() {
                 </div>
               </Link>
 
-              {/* Coming Soon card - Sikkim */}
-              <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
-                <div className="relative">
-                  <Image
-                    src="/assets/destinations/Thumbnails/Sikkim.webp"
-                    alt={t.blogKerala.sikkimTitle}
-                    width={600}
-                    height={192}
-                    className="w-full h-48 object-cover opacity-70"
-                  />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <span className="bg-teal-600 text-white px-6 py-3 rounded-lg font-semibold shadow-lg">
-                      {t.blog.comingSoon}
-                    </span>
-                  </div>
-                </div>
-                <div className="p-5 flex-grow">
-                  <h3 className="font-serif text-lg font-bold mb-2 text-gray-500">
-                    {t.blogKerala.sikkimTitle}
-                  </h3>
-                  <p className="text-sm text-gray-400">
-                    {t.blogKerala.sikkimDesc}
-                  </p>
-                </div>
-              </div>
-
               {/* Coming Soon card - South Goa */}
-              <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
-                <div className="relative">
+              <Link
+                href={`/blog/colonial-heritage-of-goa-and-india`}
+                className="group block"
+              >
+                <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all h-full flex flex-col">
                   <Image
-                    src="/assets/destinations/Thumbnails/south-goa.webp"
-                    alt={t.blogKerala.southGoaTitle}
+                    src="/assets/blog/goa/Basilica.png"
+                    alt={t.blog.goaTitle}
                     width={600}
                     height={192}
-                    className="w-full h-48 object-cover opacity-70"
+                    className="w-full h-48 object-cover group-hover:scale-105 transition-transform"
                   />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <span className="bg-teal-600 text-white px-6 py-3 rounded-lg font-semibold shadow-lg">
-                      {t.blog.comingSoon}
+                  <div className="p-5 flex-grow">
+                    <h3 className="font-serif text-lg font-bold mb-2">
+                      {t.blog.keralaTitle}
+                    </h3>
+                    <p className="text-sm text-gray-600 mb-4">
+                      {t.blog.goaSubtitle}
+                    </p>
+                    <span className="inline-block border border-teal-600 text-teal-600 px-4 py-2 rounded text-sm font-medium">
+                      {t.blog.readMore}
                     </span>
                   </div>
                 </div>
-                <div className="p-5 flex-grow">
-                  <h3 className="font-serif text-lg font-bold mb-2 text-gray-500">
-                    {t.blogKerala.southGoaTitle}
-                  </h3>
-                  <p className="text-sm text-gray-400">
-                    {t.blogKerala.southGoaDesc}
-                  </p>
-                </div>
-              </div>
+              </Link>
             </div>
           </section>
         </div>

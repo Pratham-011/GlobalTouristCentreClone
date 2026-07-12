@@ -16,43 +16,36 @@ export default function BlogClient() {
     const locale = params.locale as string;
 
     const blogPosts = [
-        {
-            slug: "colonial-heritage-of-goa-and-india",
-            title: t.blog.goaTitle,
-            excerpt: t.blog.goaSubtitle,
-            category: t.blog.heritage,
-            date: t.blog.julyDate,
-            author: t.blog.globalTeam,
-            image: "/assets/blog/goa/Basilica.png",
-        },
-        {
-            slug: "andaman",
-            title: t.blog.andamanTitle,
-            excerpt: t.blog.andamanSubtitle,
-            category: t.blog.photography,
-            date: t.blog.julyDate,
-            author: t.blog.globalTeam,
-            image: "/assets/destinations/Thumbnails/Andaman.webp",
-        },
-        {
-            slug: "kerala",
-            title: t.blog.keralaTitle,
-            excerpt: t.blog.keralaSubtitle,
-            category: t.blog.groupTours,
-            date: t.blog.juneDate,
-            author: t.blog.globalTeam,
-            image: "/assets/destinations/Thumbnails/Kerala.webp",
-        },
-        {
-            slug: null,
-            title: t.blog.comingSoonTitle,
-            excerpt: t.blog.comingSoonSubtitle,
-            category: t.blog.comingSoon,
-            date: "",
-            author: "",
-            image: "/assets/destinations/Thumbnails/Bali.webp",
-            isComingSoon: true,
-        },
+      {
+        slug: "colonial-heritage-of-goa-and-india",
+        title: t.blog.goaTitle,
+        excerpt: t.blog.goaSubtitle,
+        category: t.blog.heritage,
+        date: t.blog.julyDate,
+        author: t.blog.globalTeam,
+        image: "/assets/blog/goa/Basilica.png",
+        isComingSoon: false,
+      },
+      {
+        slug: "andaman",
+        title: t.blog.andamanTitle,
+        excerpt: t.blog.andamanSubtitle,
+        category: t.blog.photography,
+        date: t.blog.julyDate,
+        author: t.blog.globalTeam,
+        image: "/assets/destinations/Thumbnails/Andaman.webp",
+        isComingSoon: false,
+      },
+      {
+        slug: "kerala",
+        title: t.blog.keralaTitle,
+        excerpt: t.blog.keralaSubtitle,
+        category: t.blog.groupTours,
+        date: t.blog.juneDate,
+        author: t.blog.globalTeam,
+        image: "/assets/destinations/Thumbnails/Kerala.webp",
+        isComingSoon: false,
+      },
     ];
 
     return (

@@ -52,9 +52,6 @@ export default function GoaBlogPage() {
                   priority
                 />
               </div>
-              <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                {t.blogGoa.introImageAlt}
-              </figcaption>
             </figure>
           </section>
 
@@ -74,9 +71,6 @@ export default function GoaBlogPage() {
                   className="w-full h-auto object-cover"
                 />
               </div>
-              <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                {t.blogGoa.beforePortuguese.caption}
-              </figcaption>
             </figure>
 
             <div className="space-y-4 text-gray-700 leading-relaxed text-lg max-w-3xl mx-auto">
@@ -105,9 +99,6 @@ export default function GoaBlogPage() {
                   className="w-full h-auto object-cover"
                 />
               </div>
-              <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                {t.blogGoa.goldenAge.caption}
-              </figcaption>
             </figure>
 
             <div className="space-y-4 text-gray-700 leading-relaxed text-lg max-w-3xl mx-auto">
@@ -135,9 +126,6 @@ export default function GoaBlogPage() {
                     className="w-full h-auto object-cover"
                   />
                 </div>
-                <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                  {t.blogGoa.whyDifferent.captionBritish}
-                </figcaption>
               </figure>
               <figure>
                 <div className="rounded-xl overflow-hidden shadow-lg">
@@ -149,9 +137,7 @@ export default function GoaBlogPage() {
                     className="w-full h-auto object-cover"
                   />
                 </div>
-                <figcaption className="mt-3 text-center text-sm italic text-emerald-800/70">
-                  {t.blogGoa.whyDifferent.captionPortuguese}
-                </figcaption>
+
               </figure>
             </div>
 
@@ -263,31 +249,8 @@ export default function GoaBlogPage() {
                 </div>
               </Link>
 
-              {/* Coming Soon card */}
-              <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
-                <div className="relative">
-                  <Image
-                    src="/assets/destinations/Thumbnails/Bali.webp"
-                    alt={t.blog.comingSoonTitle}
-                    width={600}
-                    height={192}
-                    className="w-full h-48 object-cover opacity-70"
-                  />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <span className="bg-teal-600 text-white px-6 py-3 rounded-lg font-semibold shadow-lg">
-                      {t.blog.comingSoon}
-                    </span>
-                  </div>
-                </div>
-                <div className="p-5 flex-grow">
-                  <h3 className="font-serif text-lg font-bold mb-2 text-gray-500">
-                    {t.blog.comingSoonTitle}
-                  </h3>
-                  <p className="text-sm text-gray-400">
-                    {t.blog.comingSoonSubtitle}
-                  </p>
-                </div>
-              </div>
+
+
             </div>
           </section>
         </div>

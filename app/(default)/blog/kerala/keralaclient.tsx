@@ -163,10 +163,11 @@ export default function KeralaBlogPage() {
                   <button
                     key={idx}
                     onClick={() => setActiveTab(idx)}
-                    className={`px-6 py-4 text-sm font-semibold whitespace-nowrap transition-colors ${activeTab === idx
-                      ? "text-emerald-700 border-b-2 border-emerald-600 bg-emerald-50/50"
-                      : "text-gray-500 hover:text-gray-700 hover:bg-gray-50"
-                      }`}
+                    className={`px-6 py-4 text-sm font-semibold whitespace-nowrap transition-colors ${
+                      activeTab === idx
+                        ? "text-emerald-700 border-b-2 border-emerald-600 bg-emerald-50/50"
+                        : "text-gray-500 hover:text-gray-700 hover:bg-gray-50"
+                    }`}
                   >
                     {item.day}
                   </button>
@@ -272,7 +273,9 @@ export default function KeralaBlogPage() {
                   {t.blogKerala.enquireNow}
                 </Button>
               </Link>
-              <Link href={`/destinations/domestic/kerala-tour-package-from-goa`}>
+              <Link
+                href={`/destinations/domestic/kerala-tour-package-from-goa`}
+              >
                 <Button
                   variant="outline"
                   size="lg"
@@ -315,56 +318,31 @@ export default function KeralaBlogPage() {
               </Link>
 
               {/* Coming Soon card - Sikkim */}
-              <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
-                <div className="relative">
+              <Link
+                href={`/blog/colonial-heritage-of-goa-and-india`}
+                className="group block"
+              >
+                <div className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all h-full flex flex-col">
                   <Image
-                    src="/assets/destinations/Thumbnails/Sikkim.webp"
-                    alt={t.blogKerala.sikkimTitle}
+                    src="/assets/blog/goa/Basilica.png"
+                    alt={t.blog.goaTitle}
                     width={600}
                     height={192}
-                    className="w-full h-48 object-cover opacity-70"
+                    className="w-full h-48 object-cover group-hover:scale-105 transition-transform"
                   />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <span className="bg-teal-600 text-white px-6 py-3 rounded-lg font-semibold shadow-lg">
-                      {t.blog.comingSoon}
+                  <div className="p-5 flex-grow">
+                    <h3 className="font-serif text-lg font-bold mb-2">
+                      {t.blog.keralaTitle}
+                    </h3>
+                    <p className="text-sm text-gray-600 mb-4">
+                      {t.blog.goaSubtitle}
+                    </p>
+                    <span className="inline-block border border-teal-600 text-teal-600 px-4 py-2 rounded text-sm font-medium">
+                      {t.blog.readMore}
                     </span>
                   </div>
                 </div>
-                <div className="p-5 flex-grow">
-                  <h3 className="font-serif text-lg font-bold mb-2 text-gray-500">
-                    {t.blogKerala.sikkimTitle}
-                  </h3>
-                  <p className="text-sm text-gray-400">
-                    {t.blogKerala.sikkimDesc}
-                  </p>
-                </div>
-              </div>
-
-              {/* Coming Soon card - South Goa */}
-              <div className="relative bg-white rounded-xl overflow-hidden shadow-md h-full flex flex-col">
-                <div className="relative">
-                  <Image
-                    src="/assets/destinations/Thumbnails/south-goa.webp"
-                    alt={t.blogKerala.southGoaTitle}
-                    width={600}
-                    height={192}
-                    className="w-full h-48 object-cover opacity-70"
-                  />
-                  <div className="absolute inset-0 flex items-center justify-center">
-                    <span className="bg-teal-600 text-white px-6 py-3 rounded-lg font-semibold shadow-lg">
-                      {t.blog.comingSoon}
-                    </span>
-                  </div>
-                </div>
-                <div className="p-5 flex-grow">
-                  <h3 className="font-serif text-lg font-bold mb-2 text-gray-500">
-                    {t.blogKerala.southGoaTitle}
-                  </h3>
-                  <p className="text-sm text-gray-400">
-                    {t.blogKerala.southGoaDesc}
-                  </p>
-                </div>
-              </div>
+              </Link>
             </div>
           </section>
         </div>

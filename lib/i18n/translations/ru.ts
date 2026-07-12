@@ -79,7 +79,8 @@ export const ru = {
     title: "Откройте Необычные Путешествия",
     subtitle: "Спланируйте Отпуск Вашей Мечты",
     cta: "Получить Бесплатный Расчёт",
-    tagline: "Мы Не Просто Бронируем Поездки — Мы Создаём Истории на Всю Жизнь",
+    tagline:
+      "Надёжное турагентство Гоа — Мы не просто бронируем поездки, мы создаём истории на всю жизнь",
   },
   home: {
     title: "Выберите своё следующее приключение",
@@ -1105,7 +1106,7 @@ export const ru = {
     photography: "Фотография",
     groupTours: "Групповые туры",
     // Dates
-    julyDate: "Июль 2025",
+    julyDate: "Июль 2026",
     juneDate: "Июнь 2025",
     // Author
     globalTeam: "Команда Global Tourist Centre",
@@ -1458,6 +1459,14 @@ export const ru = {
   footer: {
     tagline:
       "Воплощаем ваши мечты в незабываемые приключения с 2010 года. Ваш надёжный партнёр в путешествиях.",
+    ourOffice: "Наш офис",
+    addressLine1:
+      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo",
+    addressLine2: "Benaulim, Salcete, South Goa, Goa 403716, India",
+    callUs: "Позвоните нам",
+    phone: "+91 9067972295",
+    emailUs: "Email",
+    email: "info@globaltouristcentre.com",
     quickLinks: "Быстрые Ссылки",
     popularTours: "Популярные Туры",
     latestInstagram: "Мы в Instagram",
