@@ -186,39 +186,39 @@ export function Footer() {
               <span className="absolute bottom-0 left-0 w-6 h-[2px] bg-gradient-to-r from-[#f8d56b] to-transparent" />
             </h3>
             <div className="space-y-3 text-gray-400 text-sm">
-              <p className="flex items-start gap-2 leading-relaxed">
-                <MapPin
-                  className="w-4 h-4 mt-0.5 shrink-0 text-[#f8d56b]"
-                  aria-hidden
-                />
+              <p className="flex gap-3">
+                <div className="w-4 flex justify-center pt-0.5">
+                  <MapPin className="w-4 h-4 text-[#f8d56b]" />
+                </div>
+
                 <span>
-                  {t.footer.addressLine1}
-                  <span> </span>
-                  {t.footer.addressLine2}
+                  {t.footer.addressLine1} {t.footer.addressLine2}
                 </span>
               </p>
-              <p className="flex flex-row items-center gap-2 text-gray-400 text-sm">
-                <Phone
-                  className="w-4 h-4 shrink-0 text-[#f8d56b]"
-                  aria-hidden
-                />
-                <a
-                  href="tel:+919067972295"
-                  className="hover:text-[#f8d56b] transition-colors whitespace-nowrap"
-                >
-                  {t.footer.phone}
-                </a>
+              <p className="flex gap-3">
+                <div className="w-4 flex justify-center pt-0.5">
+                  <Phone className="w-4 h-4  text-[#f8d56b]" />
+                </div>
+                <span>
+                  <a
+                    href="tel:+919067972295"
+                    className="hover:text-[#f8d56b] transition-colors whitespace-nowrap"
+                  >{t.footer.phone}
+                  </a>
+                </span>
               </p>
 
-              <p className="flex flex-row items-center gap-2 text-gray-400 text-sm">
-                <Mail className="w-4 h-4 shrink-0 text-[#f8d56b]" aria-hidden />
-
-                <a
-                  href="mailto:info@globaltouristcentre.com"
-                  className="hover:text-[#f8d56b] transition-colors whitespace-nowrap w-4 h-4 shrink-0"
-                >
-                  {t.footer.email}
-                </a>
+              <p className="flex gap-3">
+                <div className="w-4 flex justify-center pt-0.5">
+                  <Mail className="w-4 h-4  text-[#f8d56b]" aria-hidden />
+                </div>
+                <span>
+                  <a
+                    href="mailto:info@globaltouristcentre.com"
+                    className="hover:text-[#f8d56b] transition-colors whitespace-nowrap w-4 h-4 shrink-0"
+                  >{t.footer.email}
+                  </a>
+                </span>
               </p>
             </div>
           </div>
