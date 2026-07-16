@@ -192,7 +192,9 @@ export function Footer() {
                 </div>
 
                 <span>
-                  {t.footer.addressLine1} {t.footer.addressLine2}
+                  <a href="https://share.google/snHKp13f83dCUyLe3">
+                    {t.footer.addressLine1} {t.footer.addressLine2}
+                  </a>
                 </span>
               </p>
               <p className="flex gap-3">
@@ -203,7 +205,8 @@ export function Footer() {
                   <a
                     href="tel:+919067972295"
                     className="hover:text-[#f8d56b] transition-colors whitespace-nowrap"
-                  >{t.footer.phone}
+                  >
+                    {t.footer.phone}
                   </a>
                 </span>
               </p>
@@ -216,7 +219,8 @@ export function Footer() {
                   <a
                     href="mailto:info@globaltouristcentre.com"
                     className="hover:text-[#f8d56b] transition-colors whitespace-nowrap w-4 h-4 shrink-0"
-                  >{t.footer.email}
+                  >
+                    {t.footer.email}
                   </a>
                 </span>
               </p>

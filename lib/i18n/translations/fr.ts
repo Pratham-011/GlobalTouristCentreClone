@@ -1466,7 +1466,7 @@ internationalhero: "Explorez le monde",
       "Nous transformons vos rêves en aventures inoubliables depuis 2010. Votre partenaire de confiance pour les voyages.",
     ourOffice: "Notre bureau",
     addressLine1:
-      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo",
+      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo,",
     addressLine2: "Benaulim, Salcete, South Goa, Goa 403716, India",
     callUs: "Appelez-nous",
     phone: "+91 9067972295",
@@ -8108,31 +8108,32 @@ internationalhero: "Explorez le monde",
         slug: "Kashmir-5N6D-Trip",
         type: "domestic-trip",
         hero: {
-          "title": "Forfait Cachemire 5N/6J",
+          title: "Forfait Cachemire 5N/6J",
           subtitle:
             "Découvrez la beauté à couper le souffle du Cachemire avec ce voyage à travers Srinagar, Gulmarg, Pahalgam et Sonamarg",
           backgroundImage: "/assets/hero/kashmir-5n6d-hero.webp",
-          "meta": {
-            "duration": "6 jour(s)",
-            "locations": 4,
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "6 jours",
+            locations: 4,
+            rating: "4.9/5 note",
+          },
         },
         language: "fr",
-        "metadata": {
-          "title": "Forfait Cachemire depuis Goa | Meilleures offres et itinéraire",
-          "description": "Réservez votre forfait Cachemire depuis Goa aux meilleures offres. Explorez Srinagar, Gulmarg et Pahalgam avec un itinéraire personnalisé, des hôtels et une organisation sans tracas."
-        }
+        metadata: {
+          title: "Forfait Cachemire depuis Goa | Meilleures offres et itinéraire",
+          description:
+            "Réservez votre forfait Cachemire depuis Goa aux meilleures offres. Explorez Srinagar, Gulmarg et Pahalgam avec un itinéraire personnalisé, des hôtels et une organisation sans tracas.",
+        },
       },
       cta: {
-        headline: "Prêt pour votre aventure au Cachemire ?",
+        headline: "Prêt pour votre aventure au Cachemire ?",
         description:
           "Réservez maintenant et sécurisez votre place pour un voyage inoubliable de 6 jours à travers le paradis sur Terre",
         contact: {
           whatsapp: {
             number: "+919067972295",
             message:
-              "Salut!Je suis intéressé par votre voyage organisé au Cachemire 5N6D.S'il vous plaît envoyez-moi des détails.",
+              "Bonjour ! Je suis intéressé par votre forfait Cachemire 5N6D. Merci de m'envoyer les détails.",
           },
           phone: "+919067972295",
         },
@@ -8140,75 +8141,169 @@ internationalhero: "Explorez le monde",
       quickInfo: [
         {
           title: "Séjour à l'hôtel",
-          description: "4 nuits d'hôtel + 1 nuit en péniche",
+          description: "4 nuits d'hôtel + 1 nuit en houseboat",
         },
         {
-          title: "Transports privés",
-          description: "Berline non climatisée/véhicule Innova",
+          title: "Transport privé",
+          description: "Véhicule berline/Innova non climatisé",
         },
         {
-          title: "Balade Shikara",
-          description: "Shikara d'une heure sur le lac Dal",
+          title: "Balade en shikara",
+          description: "1 heure de shikara sur le lac Dal",
         },
         {
           title: "Repas inclus",
           description: "Petit-déjeuner et dîner quotidiens",
         },
       ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivée à Srinagar - Visite de Srinagar",
-          description:
-            "Notre service commence à l'arrivée à l'aéroport de Srinagar.Rencontrez et saluez notre représentant.Transfert à l'hôtel de Srinagar – détendez-vous – rafraîchissez-vous et partez pour une visite touristique des jardins moghols, Cheshmashahi, Nishat Shalimar, du jardin des tulipes (le plus grand d'Asie) et du temple Shankarcharya au sommet de la colline.Retour à l'hôtel pour le dîner et la nuit.",
-          category: "arrival",
+      price: {
+        domestic: {
+          badge: "Voyageur indien",
+          packageName: "Kashmir Value Package",
+          amount: "₹16,999",
+          currency: "INR",
+          per: "personne",
+          note: "Chambre double · prix de départ, GST en sus",
+          points: [
+            "Berline/Innova non climatisée pour tous les transferts et visites",
+            "Petit-déjeuner et dîner quotidiens avec options de thali cachemiri",
+            "Visite des jardins moghols, du jardin des tulipes et du temple Shankaracharya",
+            "1 nuit en houseboat avec balade en shikara au coucher du soleil",
+          ],
+          cta: {
+            label: "Obtenir un devis exact",
+            whatsapp: {
+              number: "+919067972295",
+              message:
+                "Bonjour ! Je suis intéressé par le forfait Cachemire pour voyageurs indiens.",
+            },
+          },
         },
-        {
-          time: "Day 2",
-          title: "Srinagar - Sonamarg",
-          description:
-            "Excursion d'une journée complète à Sonamarg.Sonamarg est une belle route de Srinagar.Sonamarg est appelé prairie d'or et où la neige reste toute l'année au glacier Thajiwas.On peut louer des chevaux à leurs propres frais pour s'y rendre.Plus tard, retour à Srinagar pour le dîner et la nuit.",
-          category: "activity",
+        international: {
+          badge: "Voyageur international",
+          packageName: "Kashmir Discovery Package",
+          amount: "$ 349",
+          currency: "USD",
+          per: "personne",
+          note: "Chambre double · prix de départ, taxes en sus",
+          points: [
+            "Guide privé anglophone chaque jour de visite",
+            "Formalités de permis gérées pour les zones réglementées sur le parcours",
+            "Houseboat heritage premium avec terrasse face au lac",
+            "Balade guidée dans le vieux Srinagar et visite d'un atelier d'artisanat",
+          ],
+          cta: {
+            label: "Obtenir un devis exact",
+            whatsapp: {
+              number: "+919067972295",
+              message:
+                "Bonjour ! Je suis intéressé par le forfait Cachemire pour voyageurs internationaux.",
+            },
+          },
         },
-        {
-          time: "Day 3",
-          title: "Srinagar - Gulmarg",
-          description:
-            "Excursion d'une journée complète à Gulmarg.Gulmarg est l'une des plus belles stations estivales de la vallée.Il est populaire pour son parcours de golf le plus haut et pour le ski en hiver.On peut profiter d'une balade en gondole (téléphérique) jusqu'à Apharwat (13 000 pieds) à ses propres frais.Retour à la péniche d'enregistrement à Srinagar - détendez-vous - partez pour une balade en shikara et profitez du coucher de soleil sur le lac Dal.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 4",
-          title: "Srinagar - Pahalgam",
-          description:
-            "Départ pour une excursion touristique à Pahalgam en chemin, visite du champ de safran, des ruines d'Avantipora – enregistrement à l'hôtel.Plus tard, temps libre à Pahalgam.Profitez de la beauté naturelle de Pahalgam ou faites une promenade à cheval vers de magnifiques endroits autour de Pahalgam ou allez à Aru, Baisaran, Betaab Valley et Chandanwari en engageant un véhicule local à la station de taxis de Pahalgam sur place, à vos propres frais.",
-          category: "activity",
-        },
-        {
-          time: "Day 5",
-          title: "Pahalgam - Srinagar",
-          description:
-            "Départ pour Srinagar et enregistrement en péniche Srinagar - détendez-vous - départ pour une balade en shikara sur le lac Dal pour profiter du coucher de soleil - retour à la nuit et dîner en péniche.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 6",
-          title: "Srinagar - Aéroport",
-          description:
-            "Après le petit-déjeuner, départ et si le temps le permet, faites du shopping et transfert à l'aéroport de Srinagar pour la suite de votre voyage.La tournée se termine avec tant de souvenirs merveilleux et durables.",
-          category: "activity",
-        },
-      ],
+      },
+      itinerary: {
+        domestic: [
+          {
+            time: "Jour 1",
+            title: "Arrivée à Srinagar et visites",
+            description:
+              "Arrivée à l'aéroport de Srinagar et transfert à l'hôtel. Visites du soir : jardins moghols, Cheshmashahi, Nishat, Shalimar, jardin des tulipes (le plus grand d'Asie) et temple Shankaracharya en haut de la colline. Dîner et nuit à l'hôtel.",
+            category: "arrival",
+          },
+          {
+            time: "Jour 2",
+            title: "Srinagar – Sonamarg",
+            description:
+              "Excursion d'une journée à Sonamarg, la « prairie d'or », avec neige toute l'année au glacier Thajiwas. Balade à poney optionnelle à vos frais. Retour à Srinagar pour le dîner et la nuit.",
+            category: "activity",
+          },
+          {
+            time: "Jour 3",
+            title: "Srinagar – Gulmarg",
+            description:
+              "Excursion d'une journée à Gulmarg, réputée pour son parcours de golf et le ski en hiver. Télécabine optionnelle vers Apharwat (13 000 ft) à vos frais. Check-in en houseboat le soir, puis balade en shikara pour admirer le coucher du soleil sur le lac Dal.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Jour 4",
+            title: "Srinagar – Pahalgam",
+            description:
+              "Route vers Pahalgam avec arrêts aux champs de safran et aux ruines d'Avantipora. Check-in à l'hôtel, puis temps libre pour explorer Pahalgam ou excursion optionnelle en taxi local vers Aru, Baisaran, Betaab Valley ou Chandanwari.",
+            category: "activity",
+          },
+          {
+            time: "Jour 5",
+            title: "Pahalgam – Srinagar",
+            description:
+              "Retour à Srinagar et check-in en houseboat. Balade en shikara le soir pour le coucher du soleil sur le lac Dal, puis dîner et nuit en houseboat.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Jour 6",
+            title: "Srinagar – Départ",
+            description:
+              "Petit-déjeuner et check-out. Si le temps le permet, shopping de châles cachemiris, fruits secs et artisanat avant le transfert à l'aéroport de Srinagar pour la suite du voyage.",
+            category: "activity",
+          },
+        ],
+        international: [
+          {
+            time: "Jour 1",
+            title: "Arrivée et balade dans le vieux Srinagar",
+            description:
+              "Un guide privé vous accueille à l'aéroport de Srinagar et vous conduit à l'hôtel. L'après-midi couvre les jardins moghols et Nishat Bagh, puis une balade guidée dans le vieux Srinagar devant la Jamia Masjid et Zaina Kadal. Dîner et nuit à l'hôtel.",
+            category: "arrival",
+          },
+          {
+            time: "Jour 2",
+            title: "Srinagar – Sonamarg",
+            description:
+              "Journée panoramique vers Sonamarg le long de la rivière Sindh, avec formalités de permis organisées à l'avance. Arrêt photo au glacier Thajiwas. Le soir à Srinagar, courte démonstration de papier mâché cachemiri ou de tissage de tapis.",
+            category: "activity",
+          },
+          {
+            time: "Jour 3",
+            title: "Srinagar – Gulmarg",
+            description:
+              "Excursion d'une journée à Gulmarg avec télécabine incluse (phases 1 et 2, selon la météo). Retour à Srinagar pour le check-in dans une houseboat premium, suivi d'une croisière privée en shikara au coucher du soleil avec service de thé Kahwa.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Jour 4",
+            title: "Srinagar – Pahalgam",
+            description:
+              "Route vers Pahalgam via les champs de safran de Pampore et les ruines d'Avantipora. Promenade l'après-midi le long de la rivière Lidder, avec visite optionnelle de Betaab Valley ou Aru Valley. Feu de camp le soir au resort selon la saison.",
+            category: "activity",
+          },
+          {
+            time: "Jour 5",
+            title: "Pahalgam – Srinagar",
+            description:
+              "Retour à Srinagar, avec visite optionnelle tôt le matin du marché flottant de légumes sur le lac Dal. Balade en shikara au coucher du soleil, puis dîner d'adieu Wazwan multicours servi en houseboat.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Jour 6",
+            title: "Srinagar – Départ",
+            description:
+              "Petit-déjeuner détendu, puis shopping guidé de dernière minute pour le pashmina et le safran. Transfert privé à l'aéroport de Srinagar pour la suite du voyage.",
+            category: "activity",
+          },
+        ],
+      },
       gallery: [
         {
-          title: "Lac Dal Shikara",
+          title: "Shikara sur le lac Dal",
           description: "Expérience emblématique du Cachemire",
           image: "/assets/destinations/Kashmir/Dal-Lake-Shikara.webp",
         },
         {
-          title: "Télécabine Gulmarg",
+          title: "Télécabine de Gulmarg",
           description: "Le plus haut téléphérique d'Inde",
           image: "/assets/destinations/Kashmir/Gulmarg-Gondola.webp",
         },
@@ -8232,27 +8327,27 @@ internationalhero: "Explorez le monde",
         {
           title: "Hébergement",
           description:
-            "4 nuits en hôtels + 1 nuit en péniche en double partage",
+            "4 nuits en hôtel + 1 nuit en houseboat en base double",
         },
         {
-          title: "Balade Shikara",
+          title: "Balade en shikara",
           description:
-            "Balade en shikara d'une heure sur le lac Dal pour profiter du coucher du soleil",
+            "1 heure de shikara sur le lac Dal pour profiter du coucher du soleil",
         },
         {
-          title: "Transports privés",
+          title: "Transport privé",
           description:
-            "Tous les transferts et visites touristiques en berline non climatisée/véhicule Innova",
+            "Tous les transferts et visites en véhicule privé",
         },
         {
           title: "Repas quotidiens",
           description:
-            "Petit-déjeuner et dîner quotidiens pendant le séjour à l'hôtel (base MAPAI)",
+            "Petit-déjeuner et dîner quotidiens pendant le séjour à l'hôtel (base MAP)",
         },
         {
           title: "Transferts aéroport",
           description:
-            "Tous les transferts arrivée/départ comme mentionné dans l'itinéraire",
+            "Tous les transferts arrivée/départ selon l'itinéraire",
         },
         {
           title: "Toutes les taxes",

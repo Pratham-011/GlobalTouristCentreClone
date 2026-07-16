@@ -1482,7 +1482,7 @@ export const en = {
       "Weaving your dreams into unforgettable adventures since 2010. Your trusted travel partner for bespoke domestic and international tours.",
     ourOffice: "Our Office",
     addressLine1:
-      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo",
+      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo,",
     addressLine2: "Benaulim, Salcete, South Goa, Goa 403716, India",
     callUs: "Call Us",
     phone: "+91 9067972295",
@@ -7618,150 +7618,236 @@ export const en = {
         }
       ]
     },
-    "kashmir-tour-package-from-goa": {
-      "file_name": "Kashmir-5N6D-Trip.html",
-      "page": {
-        "slug": "Kashmir-5N6D-Trip",
-        "type": "domestic-trip",
-        "hero": {
-          "title": "5N/6D Kashmir Tour Package",
-          "subtitle": "Experience the breathtaking beauty of Kashmir with this trip through Srinagar, Gulmarg, Pahalgam & Sonamarg",
-          "backgroundImage": "/assets/hero/kashmir-5n6d-hero.webp",
-          "meta": {
-            "duration": "6 Days",
-            "locations": 4,
-            "rating": "4.9/5 Rating"
-          }
-        },
-        "language": "en",
-        "metadata": {
-          "title": "Kashmir Tour Package from Goa | Best Deals & Itinerary",
-          "description": "Book your Kashmir tour package from Goa with best deals. Explore Srinagar, Gulmarg & Pahalgam with customized itinerary, hotels, and hassle-free travel."
+  "kashmir-tour-package-from-goa": {
+    "file_name": "Kashmir-5N6D-Trip.html",
+    "page": {
+      "slug": "Kashmir-5N6D-Trip",
+      "type": "domestic-trip",
+      "hero": {
+        "title": "5N/6D Kashmir Tour Package",
+        "subtitle": "Experience the breathtaking beauty of Kashmir with this trip through Srinagar, Gulmarg, Pahalgam & Sonamarg",
+        "backgroundImage": "/assets/hero/kashmir-5n6d-hero.webp",
+        "meta": {
+          "duration": "6 Days",
+          "locations": 4,
+          "rating": "4.9/5 Rating"
         }
       },
-      "cta": {
-        "headline": "Ready for Your Kashmir Adventure?",
-        "description": "Book now and secure your spot for an unforgettable 6-day journey through Paradise on Earth",
-        "contact": {
+      "language": "en",
+      "metadata": {
+        "title": "Kashmir Tour Package from Goa | Best Deals & Itinerary",
+        "description": "Book your Kashmir tour package from Goa with best deals. Explore Srinagar, Gulmarg & Pahalgam with customized itinerary, hotels, and hassle-free travel."
+      }
+    },
+    "cta": {
+      "headline": "Ready for Your Kashmir Adventure?",
+      "description": "Book now and secure your spot for an unforgettable 6-day journey through Paradise on Earth",
+      "contact": {
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in your Kashmir 5N6D tour package. Please send me details."
+        },
+        "phone": "+919067972295"
+      }
+    },
+    "quickInfo": [
+      {
+        "title": "Hotel Stay",
+        "description": "4 Nights Hotel + 1 Night Houseboat"
+      },
+      {
+        "title": "Private Transport",
+        "description": "Non-AC Sedan/Innova Vehicle"
+      },
+      {
+        "title": "Shikara Ride",
+        "description": "1 Hour Shikara on Dal Lake"
+      },
+      {
+        "title": "Meals Included",
+        "description": "Daily Breakfast & Dinner"
+      }
+    ],
+    "price": {
+      "domestic": {
+        "badge": "Indian Traveller",
+        "packageName": "Kashmir Value Package",
+        "amount": "₹16,999",
+        "currency": "INR",
+        "per": "person",
+        "note": "Twin sharing · starting price, GST extra",
+        "points": [
+          "Non-AC Sedan/Innova for all transfers & sightseeing",
+          "Daily breakfast & dinner with Kashmiri thali options",
+          "Mughal Gardens, Tulip Garden & Shankaracharya Temple visit",
+          "1 night houseboat stay with sunset shikara ride"
+        ],
+        "cta": {
+          "label": "Get Exact Quote",
           "whatsapp": {
             "number": "+919067972295",
-            "message": "Hi! I'm interested in your Kashmir 5N6D tour package. Please send me details."
-          },
-          "phone": "+919067972295"
+            "message": "Hi! I'm interested in the Indian Traveller Kashmir Package."
+          }
         }
       },
-      "quickInfo": [
-        {
-          "title": "Hotel Stay",
-          "description": "4 Nights Hotel + 1 Night Houseboat"
-        },
-        {
-          "title": "Private Transport",
-          "description": "Non-AC Sedan/Innova Vehicle"
-        },
-        {
-          "title": "Shikara Ride",
-          "description": "1 Hour Shikara on Dal Lake"
-        },
-        {
-          "title": "Meals Included",
-          "description": "Daily Breakfast & Dinner"
+      "international": {
+        "badge": "International Traveller",
+        "packageName": "Kashmir Discovery Package",
+        "amount": "$ 349",
+        "currency": "USD",
+        "per": "person",
+        "note": "Twin sharing · starting price, taxes extra",
+        "points": [
+          "Private English-speaking guide on every sightseeing day",
+          "Permit paperwork handled for restricted zones en route",
+          "Premium heritage houseboat with lake-facing deck",
+          "Old Srinagar walking tour & handicraft workshop visit"
+        ],
+        "cta": {
+          "label": "Get Exact Quote",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in the International Traveller Kashmir Package."
+          }
         }
-      ],
-      "itinerary": [
+      }
+    },
+    "itinerary": {
+      "domestic": [
         {
           "time": "Day 1",
-          "title": "Srinagar Arrival - Srinagar Sightseeing",
-          "description": "Our service starts with arrival at Srinagar airport. Meet & greet our representative. Transfer to Srinagar hotel – relax – fresh up & leave for sightseeing trip to Mughal gardens, Cheshmashahi, Nishat Shalimar, Tulip garden (largest in Asia) & Shankarcharya temple on the top of hill. Back to hotel for dinner and overnight stay.",
+          "title": "Srinagar Arrival & Sightseeing",
+          "description": "Arrival at Srinagar airport, transfer to hotel. Evening sightseeing covering Mughal Gardens, Cheshmashahi, Nishat, Shalimar, the Tulip Garden (Asia's largest) and Shankaracharya Temple atop the hill. Dinner and overnight stay at hotel.",
           "category": "arrival"
         },
         {
           "time": "Day 2",
-          "title": "Srinagar - Sonamarg",
-          "description": "Full day sightseeing trip to Sonamarg. Sonamarg is a beautiful drive from Srinagar. Sonamarg is called meadow of gold and where snow remains round the year at Thajiwas glacier. One can hire horses on their own cost to visit there. Later back to Srinagar for dinner & night stay.",
+          "title": "Srinagar – Sonamarg",
+          "description": "Full-day trip to Sonamarg, the \"meadow of gold,\" with year-round snow at Thajiwas Glacier. Optional pony ride on own cost. Return to Srinagar for dinner and overnight stay.",
           "category": "activity"
         },
         {
           "time": "Day 3",
-          "title": "Srinagar - Gulmarg",
-          "description": "Full day sightseeing trip to Gulmarg. Gulmarg is one of the most beautiful summer resorts in the valley. It is popular for its highest golf course and skiing in winters. One can enjoy gondola ride (cable car) to Apharwat (13000ft) on own cost. Back to Srinagar check-in houseboat - relax - leave for shikara ride enjoy the sunset on Dal Lake.",
+          "title": "Srinagar – Gulmarg",
+          "description": "Full-day trip to Gulmarg, known for its golf course and winter skiing. Optional gondola ride to Apharwat (13,000 ft) on own cost. Check-in to houseboat in the evening, followed by a shikara ride to watch the sunset over Dal Lake.",
           "category": "activity",
           "highlight": true
         },
         {
           "time": "Day 4",
-          "title": "Srinagar - Pahalgam",
-          "description": "Leave for sightseeing trip to Pahalgam on the way visit saffron field, Avantipora ruins – check-in hotel. Later free leisure time at Pahalgam. Enjoy the natural beauty of Pahalgam or one can take horse ride to beautiful spots around Pahalgam or go to Aru, Baisaran, Betaab Valley & Chandanwari by engaging local vehicle at Pahalgam taxi stand on the spot on own cost.",
+          "title": "Srinagar – Pahalgam",
+          "description": "Drive to Pahalgam, stopping at saffron fields and the Avantipora ruins. Check-in to hotel, then free time to explore Pahalgam or take an optional local-taxi trip to Aru, Baisaran, Betaab Valley or Chandanwari.",
           "category": "activity"
         },
         {
           "time": "Day 5",
-          "title": "Pahalgam - Srinagar",
-          "description": "Leave for Srinagar and check-in houseboat Srinagar - relax – leave for shikara ride on Dal Lake to enjoy the sunset - back to overnight stay & dinner in houseboat.",
+          "title": "Pahalgam – Srinagar",
+          "description": "Return to Srinagar and check-in to houseboat. Evening shikara ride to enjoy the sunset on Dal Lake, followed by dinner and overnight stay on the houseboat.",
           "category": "activity",
           "highlight": true
         },
         {
           "time": "Day 6",
-          "title": "Srinagar - Airport",
-          "description": "After breakfast check out & if time permits shopping & get transferred to the Srinagar airport for your onward journey. Tour concludes with so many wonderful and long lasting memories.",
+          "title": "Srinagar – Departure",
+          "description": "Breakfast and check-out. Time permitting, shopping for Kashmiri shawls, dry fruits and handicrafts before transfer to Srinagar airport for onward journey.",
           "category": "activity"
         }
       ],
-      "gallery": [
+      "international": [
         {
-          "title": "Dal Lake Shikara",
-          "description": "Iconic Kashmir experience",
-          "image": "/assets/destinations/Kashmir/Dal-Lake-Shikara.webp"
+          "time": "Day 1",
+          "title": "Arrival & Old Srinagar Walk",
+          "description": "Private guide meets you at Srinagar airport and transfers you to your hotel. Afternoon covers the Mughal Gardens and Nishat Bagh, followed by a guided walk through Old Srinagar past Jamia Masjid and Zaina Kadal. Dinner and overnight at hotel.",
+          "category": "arrival"
         },
         {
-          "title": "Gulmarg Gondola",
-          "description": "Highest cable car in India",
-          "image": "/assets/destinations/Kashmir/Gulmarg-Gondola.webp"
+          "time": "Day 2",
+          "title": "Srinagar – Sonamarg",
+          "description": "Scenic day drive to Sonamarg along the Sindh River, with permit formalities pre-arranged. Photo stop at Thajiwas Glacier. Evening back in Srinagar includes a short demonstration of Kashmiri papier-mâché or carpet weaving.",
+          "category": "activity"
         },
         {
-          "title": "Sonamarg Valley",
-          "description": "Meadow of Gold",
-          "image": "/assets/destinations/Kashmir/Sonamarg-Valley.webp"
+          "time": "Day 3",
+          "title": "Srinagar – Gulmarg",
+          "description": "Full-day trip to Gulmarg with the Gondola cable car ride included (Phase 1 & 2, subject to weather). Return to Srinagar to check into a premium houseboat, followed by a private shikara sunset cruise with Kahwa tea service.",
+          "category": "activity",
+          "highlight": true
         },
         {
-          "title": "Pahalgam",
-          "description": "Valley of Shepherds",
-          "image": "/assets/destinations/Kashmir/Pahalgam.webp"
+          "time": "Day 4",
+          "title": "Srinagar – Pahalgam",
+          "description": "Drive to Pahalgam via the saffron fields of Pampore and the Avantipora ruins. Afternoon walk along the Lidder River, with an optional visit to Betaab Valley or Aru Valley. Season-dependent evening bonfire at the resort.",
+          "category": "activity"
         },
         {
-          "title": "Tulip Garden",
-          "description": "Largest in Asia",
-          "image": "/assets/destinations/Kashmir/Tulip-Garden.webp"
-        }
-      ],
-      "inclusions": [
-        {
-          "title": "Accommodation",
-          "description": "4 nights in hotels + 1 night in houseboat on double sharing basis"
+          "time": "Day 5",
+          "title": "Pahalgam – Srinagar",
+          "description": "Return to Srinagar, with an optional early-morning visit to the floating vegetable market on Dal Lake. Evening shikara ride at sunset, followed by a multi-course Kashmiri Wazwan farewell dinner served on the houseboat.",
+          "category": "activity",
+          "highlight": true
         },
         {
-          "title": "Shikara Ride",
-          "description": "1 hour shikara ride in Dal Lake to enjoy sunset"
-        },
-        {
-          "title": "Private Transport",
-          "description": "All transfers & sightseeing by non-AC sedan/Innova vehicle"
-        },
-        {
-          "title": "Daily Meals",
-          "description": "Daily breakfast and dinner during hotel stay (MAPAI basis)"
-        },
-        {
-          "title": "Airport Transfers",
-          "description": "All arrival/departure transfers as mentioned in itinerary"
-        },
-        {
-          "title": "All Taxes",
-          "description": "All applicable taxes included in the package"
+          "time": "Day 6",
+          "title": "Srinagar – Departure",
+          "description": "Relaxed breakfast, followed by guided last-minute shopping for pashmina and saffron. Private transfer to Srinagar airport for your onward journey.",
+          "category": "activity"
         }
       ]
     },
+    "gallery": [
+      {
+        "title": "Dal Lake Shikara",
+        "description": "Iconic Kashmir experience",
+        "image": "/assets/destinations/Kashmir/Dal-Lake-Shikara.webp"
+      },
+      {
+        "title": "Gulmarg Gondola",
+        "description": "Highest cable car in India",
+        "image": "/assets/destinations/Kashmir/Gulmarg-Gondola.webp"
+      },
+      {
+        "title": "Sonamarg Valley",
+        "description": "Meadow of Gold",
+        "image": "/assets/destinations/Kashmir/Sonamarg-Valley.webp"
+      },
+      {
+        "title": "Pahalgam",
+        "description": "Valley of Shepherds",
+        "image": "/assets/destinations/Kashmir/Pahalgam.webp"
+      },
+      {
+        "title": "Tulip Garden",
+        "description": "Largest in Asia",
+        "image": "/assets/destinations/Kashmir/Tulip-Garden.webp"
+      }
+    ],
+    "inclusions": [
+      {
+        "title": "Accommodation",
+        "description": "4 nights hotel + 1 night houseboat on double sharing basis"
+      },
+      {
+        "title": "Shikara Ride",
+        "description": "1 hour shikara ride on Dal Lake to enjoy sunset"
+      },
+      {
+        "title": "Private Transport",
+        "description": "All transfers & sightseeing by private vehicle"
+      },
+      {
+        "title": "Daily Meals",
+        "description": "Daily breakfast and dinner during hotel stay (MAP basis)"
+      },
+      {
+        "title": "Airport Transfers",
+        "description": "All arrival/departure transfers as per itinerary"
+      },
+      {
+        "title": "All Taxes",
+        "description": "All applicable taxes included in the package"
+      }
+    ]
+  },
     "kazakhstan-almaty-explorer": {
       "file_name": "kazakhstan-tour-package.html",
       "page": {

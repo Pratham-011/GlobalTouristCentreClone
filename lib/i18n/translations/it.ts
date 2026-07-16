@@ -1467,7 +1467,7 @@ export const it = {
       "Trasformiamo i tuoi sogni in avventure indimenticabili dal 2010. Il tuo partner di fiducia per viaggi.",
     ourOffice: "Il nostro ufficio",
     addressLine1:
-      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo",
+      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo,",
     addressLine2: "Benaulim, Salcete, South Goa, Goa 403716, India",
     callUs: "Chiamaci",
     phone: "+91 9067972295",
@@ -8133,102 +8133,197 @@ export const it = {
         slug: "Kashmir-5N6D-Trip",
         type: "domestic-trip",
         hero: {
-          "title": "Pacchetto Kashmir 5N/6G",
+          title: "Pacchetto Kashmir 5N/6G",
           subtitle:
             "Scopri la bellezza mozzafiato del Kashmir con questo viaggio attraverso Srinagar, Gulmarg, Pahalgam e Sonamarg",
           backgroundImage: "/assets/hero/kashmir-5n6d-hero.webp",
           meta: {
-            duration: "6 giorno/i",
+            duration: "6 giorni",
             locations: 4,
-            rating: "4.9/5 Rating",
+            rating: "4.9/5 Valutazione",
           },
         },
         language: "it",
-        "metadata": {
-          "title": "Pacchetto Kashmir da Goa | Migliori offerte e itinerario",
-          "description": "Prenota il tuo pacchetto Kashmir da Goa con le migliori offerte. Esplora Srinagar, Gulmarg e Pahalgam con itinerario personalizzato, hotel e viaggio senza stress."
+        metadata: {
+          title: "Pacchetto Kashmir da Goa | Migliori offerte e itinerario",
+          description:
+            "Prenota il tuo pacchetto Kashmir da Goa con le migliori offerte. Esplora Srinagar, Gulmarg e Pahalgam con itinerario personalizzato, hotel e viaggio senza stress.",
         },
       },
       cta: {
         headline: "Pronto per la tua avventura nel Kashmir?",
         description:
-          "Prenota ora e assicurati il ​​tuo posto per un indimenticabile viaggio di 6 giorni attraverso il Paradiso sulla Terra",
+          "Prenota ora e assicurati il tuo posto per un indimenticabile viaggio di 6 giorni attraverso il Paradiso sulla Terra",
         contact: {
           whatsapp: {
             number: "+919067972295",
             message:
-              "CIAO!Sono interessato al tuo pacchetto turistico Kashmir 5N6D.Per favore mandami i dettagli.",
+              "Ciao! Sono interessato al pacchetto tour Kashmir 5N6D. Per favore inviami i dettagli.",
           },
           phone: "+919067972295",
         },
       },
       quickInfo: [
         {
-          title: "Soggiorno in albergo",
-          description: "4 notti in hotel + 1 notte in casa galleggiante",
+          title: "Soggiorno in hotel",
+          description: "4 notti in hotel + 1 notte in houseboat",
         },
         {
           title: "Trasporto privato",
-          description: "Berlina/veicolo Innova senza AC",
+          description: "Veicolo berlina/Innova senza aria condizionata",
         },
         {
-          title: "Giro di Shikara",
-          description: "Shikara di 1 ora sul lago Dal",
+          title: "Giro in shikara",
+          description: "1 ora di shikara sul lago Dal",
         },
         {
           title: "Pasti inclusi",
           description: "Colazione e cena giornaliere",
         },
       ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo a Srinagar - Giro turistico di Srinagar",
-          description:
-            "Il nostro servizio inizia con l'arrivo all'aeroporto di Srinagar.Incontra e saluta il nostro rappresentante.Trasferimento all'hotel Srinagar – relax – rinfrescarsi e partire per una gita turistica ai giardini Mughal, Cheshmashahi, Nishat Shalimar, il giardino dei tulipani (il più grande in Asia) e il tempio Shankarcharya sulla cima della collina.Rientro in hotel per la cena ed il pernottamento.",
-          category: "arrival",
+      price: {
+        domestic: {
+          badge: "Viaggiatore indiano",
+          packageName: "Kashmir Value Package",
+          amount: "₹16,999",
+          currency: "INR",
+          per: "persona",
+          note: "Camera doppia · prezzo a partire da, GST esclusa",
+          points: [
+            "Berlina/Innova senza AC per tutti i trasferimenti e le visite",
+            "Colazione e cena giornaliere con opzioni di thali kashmiro",
+            "Visita ai giardini Mughal, al giardino dei tulipani e al tempio Shankaracharya",
+            "1 notte in houseboat con giro in shikara al tramonto",
+          ],
+          cta: {
+            label: "Richiedi preventivo esatto",
+            whatsapp: {
+              number: "+919067972295",
+              message:
+                "Ciao! Sono interessato al pacchetto Kashmir per viaggiatori indiani.",
+            },
+          },
         },
-        {
-          time: "Day 2",
-          title: "Srinagar-Sonamarg",
-          description:
-            "Gita turistica di un'intera giornata a Sonamarg.Sonamarg è un bellissimo viaggio da Srinagar.Sonamarg è chiamato prato d'oro e dove la neve rimane tutto l'anno nel ghiacciaio Thajiwas.Si possono noleggiare cavalli a proprie spese per visitare lì.Più tardi ritorno a Srinagar per cena e pernottamento.",
-          category: "activity",
+        international: {
+          badge: "Viaggiatore internazionale",
+          packageName: "Kashmir Discovery Package",
+          amount: "$ 349",
+          currency: "USD",
+          per: "persona",
+          note: "Camera doppia · prezzo a partire da, tasse escluse",
+          points: [
+            "Guida privata di lingua inglese in ogni giornata di visite",
+            "Pratiche per i permessi gestite per le zone regolamentate lungo il percorso",
+            "Houseboat heritage premium con terrazza fronte lago",
+            "Passeggiata nel vecchio Srinagar e visita a un laboratorio artigianale",
+          ],
+          cta: {
+            label: "Richiedi preventivo esatto",
+            whatsapp: {
+              number: "+919067972295",
+              message:
+                "Ciao! Sono interessato al pacchetto Kashmir per viaggiatori internazionali.",
+            },
+          },
         },
-        {
-          time: "Day 3",
-          title: "Srinagar-Gulmarg",
-          description:
-            "Gita turistica di un'intera giornata a Gulmarg.Gulmarg è una delle località estive più belle della valle.È famoso per il suo campo da golf più alto e per lo sci in inverno.Si può fare un giro in gondola (funivia) fino ad Apharwat (13.000 piedi) a proprie spese.Ritorno a Srinagar, check-in in casa galleggiante - relax - partenza per il giro in shikara e godersi il tramonto sul lago Dal.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 4",
-          title: "Srinagar-Pahalgam",
-          description:
-            "Partenza per la gita turistica a Pahalgam, visita del campo di zafferano e delle rovine di Avantipora – check-in in hotel.Più tardi tempo libero a Pahalgam.Goditi la bellezza naturale di Pahalgam oppure puoi fare un giro a cavallo in splendidi luoghi intorno a Pahalgam o andare ad Aru, Baisaran, Betaab Valley e Chandanwari impegnando un veicolo locale al posteggio dei taxi di Pahalgam sul posto a proprie spese.",
-          category: "activity",
-        },
-        {
-          time: "Day 5",
-          title: "Pahalgam-Srinagar",
-          description:
-            "Partenza per Srinagar e check-in nella casa galleggiante Srinagar - relax - partenza per il giro in shikara sul lago Dal per godersi il tramonto - ritorno al pernottamento e cena in casa galleggiante.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 6",
-          title: "Srinagar - Aeroporto",
-          description:
-            "Dopo la colazione check out e, se il tempo lo consente, shopping e trasferimento all'aeroporto di Srinagar per il proseguimento del viaggio.Il tour si conclude con tanti ricordi meravigliosi e duraturi.",
-          category: "activity",
-        },
-      ],
+      },
+      itinerary: {
+        domestic: [
+          {
+            time: "Giorno 1",
+            title: "Arrivo a Srinagar e visite",
+            description:
+              "Arrivo all'aeroporto di Srinagar e trasferimento in hotel. Visite serali: giardini Mughal, Cheshmashahi, Nishat, Shalimar, giardino dei tulipani (il più grande d'Asia) e tempio Shankaracharya in cima alla collina. Cena e pernottamento in hotel.",
+            category: "arrival",
+          },
+          {
+            time: "Giorno 2",
+            title: "Srinagar – Sonamarg",
+            description:
+              "Escursione di un'intera giornata a Sonamarg, il «prato d'oro», con neve tutto l'anno al ghiacciaio Thajiwas. Giro a cavallo opzionale a proprie spese. Rientro a Srinagar per cena e pernottamento.",
+            category: "activity",
+          },
+          {
+            time: "Giorno 3",
+            title: "Srinagar – Gulmarg",
+            description:
+              "Escursione di un'intera giornata a Gulmarg, nota per il campo da golf e lo sci invernale. Funivia opzionale verso Apharwat (13.000 ft) a proprie spese. Check-in in houseboat la sera, seguito da un giro in shikara per ammirare il tramonto sul lago Dal.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Giorno 4",
+            title: "Srinagar – Pahalgam",
+            description:
+              "Trasferimento a Pahalgam con fermate ai campi di zafferano e alle rovine di Avantipora. Check-in in hotel, poi tempo libero per esplorare Pahalgam o escursione opzionale con taxi locale ad Aru, Baisaran, Betaab Valley o Chandanwari.",
+            category: "activity",
+          },
+          {
+            time: "Giorno 5",
+            title: "Pahalgam – Srinagar",
+            description:
+              "Rientro a Srinagar e check-in in houseboat. Giro in shikara la sera per godersi il tramonto sul lago Dal, poi cena e pernottamento in houseboat.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Giorno 6",
+            title: "Srinagar – Partenza",
+            description:
+              "Colazione e check-out. Se il tempo lo consente, shopping di scialli kashmiri, frutta secca e artigianato prima del trasferimento all'aeroporto di Srinagar per il proseguimento del viaggio.",
+            category: "activity",
+          },
+        ],
+        international: [
+          {
+            time: "Giorno 1",
+            title: "Arrivo e passeggiata nel vecchio Srinagar",
+            description:
+              "Una guida privata ti incontra all'aeroporto di Srinagar e ti accompagna in hotel. Il pomeriggio include i giardini Mughal e Nishat Bagh, seguito da una passeggiata guidata nel vecchio Srinagar davanti a Jamia Masjid e Zaina Kadal. Cena e pernottamento in hotel.",
+            category: "arrival",
+          },
+          {
+            time: "Giorno 2",
+            title: "Srinagar – Sonamarg",
+            description:
+              "Giornata panoramica verso Sonamarg lungo il fiume Sindh, con formalità per i permessi già organizzate. Sosta fotografica al ghiacciaio Thajiwas. La sera a Srinagar include una breve dimostrazione di papier-mâché kashmiro o tessitura di tappeti.",
+            category: "activity",
+          },
+          {
+            time: "Giorno 3",
+            title: "Srinagar – Gulmarg",
+            description:
+              "Escursione di un'intera giornata a Gulmarg con funivia inclusa (fase 1 e 2, soggetta al meteo). Rientro a Srinagar per il check-in in una houseboat premium, seguito da una crociera privata in shikara al tramonto con servizio di tè Kahwa.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Giorno 4",
+            title: "Srinagar – Pahalgam",
+            description:
+              "Trasferimento a Pahalgam tramite i campi di zafferano di Pampore e le rovine di Avantipora. Passeggiata pomeridiana lungo il fiume Lidder, con visita opzionale a Betaab Valley o Aru Valley. Falò serale al resort a seconda della stagione.",
+            category: "activity",
+          },
+          {
+            time: "Giorno 5",
+            title: "Pahalgam – Srinagar",
+            description:
+              "Rientro a Srinagar, con visita opzionale al mattino presto al mercato galleggiante di verdure sul lago Dal. Giro in shikara al tramonto, seguito da una cena di addio Wazwan multicorso servita in houseboat.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Giorno 6",
+            title: "Srinagar – Partenza",
+            description:
+              "Colazione rilassata, poi shopping guidato dell'ultimo minuto per pashmina e zafferano. Trasferimento privato all'aeroporto di Srinagar per il proseguimento del viaggio.",
+            category: "activity",
+          },
+        ],
+      },
       gallery: [
         {
-          title: "Dal Lago Shikara",
+          title: "Shikara sul lago Dal",
           description: "Esperienza iconica del Kashmir",
           image: "/assets/destinations/Kashmir/Dal-Lake-Shikara.webp",
         },
@@ -8238,7 +8333,7 @@ export const it = {
           image: "/assets/destinations/Kashmir/Gulmarg-Gondola.webp",
         },
         {
-          title: "Valle del Sonamarg",
+          title: "Valle di Sonamarg",
           description: "Prato d'Oro",
           image: "/assets/destinations/Kashmir/Sonamarg-Valley.webp",
         },
@@ -8257,31 +8352,31 @@ export const it = {
         {
           title: "Alloggio",
           description:
-            "4 notti in hotel + 1 notte in houseboat in doppia condivisione",
+            "4 notti in hotel + 1 notte in houseboat in base doppia",
         },
         {
-          title: "Giro di Shikara",
+          title: "Giro in shikara",
           description:
-            "Giro in shikara di 1 ora a Dal Lake per godersi il tramonto",
+            "1 ora di shikara sul lago Dal per godersi il tramonto",
         },
         {
           title: "Trasporto privato",
           description:
-            "Tutti i trasferimenti e le visite turistiche con berlina/veicolo Innova non AC",
+            "Tutti i trasferimenti e le visite turistiche con veicolo privato",
         },
         {
           title: "Pasti giornalieri",
           description:
-            "Colazione e cena giornaliere durante il soggiorno in hotel (base MAPAI)",
+            "Colazione e cena giornaliere durante il soggiorno in hotel (base MAP)",
         },
         {
           title: "Trasferimenti aeroportuali",
           description:
-            "Tutti i trasferimenti di arrivo/partenza come indicato nell'itinerario",
+            "Tutti i trasferimenti di arrivo/partenza come da itinerario",
         },
         {
           title: "Tutte le tasse",
-          description: "Tutte le tasse applicabili sono incluse nel pacchetto",
+          description: "Tutte le tasse applicabili incluse nel pacchetto",
         },
       ],
     },
