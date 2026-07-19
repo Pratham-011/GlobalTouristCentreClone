@@ -1472,7 +1472,7 @@ export const de = {
       "Wir verwandeln Ihre Träume seit 2010 in unvergessliche Abenteuer. Ihr vertrauenswürdiger Reisepartner.",
     ourOffice: "Unser Büro",
     addressLine1:
-      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo",
+      "Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo,",
     addressLine2: "Benaulim, Salcete, South Goa, Goa 403716, India",
     callUs: "Rufen Sie uns an",
     phone: "+91 9067972295",
@@ -8020,21 +8020,22 @@ export const de = {
         slug: "Kashmir-5N6D-Trip",
         type: "domestic-trip",
         hero: {
-          "title": "Kashmir 5N/6T Reisepaket",
+          title: "Kashmir 5N/6T Reisepaket",
           subtitle:
             "Erleben Sie die atemberaubende Schönheit Kaschmirs auf dieser Reise durch Srinagar, Gulmarg, Pahalgam und Sonamarg",
           backgroundImage: "/assets/hero/kashmir-5n6d-hero.webp",
-          "meta": {
-            "duration": "6 Tag(e)",
-            "locations": 4,
-            "rating": "4.9/5 Rating"
-          }
+          meta: {
+            duration: "6 Tage",
+            locations: 4,
+            rating: "4.9/5 Bewertung",
+          },
         },
         language: "de",
-        "metadata": {
-          "title": "Kashmir Reisepaket ab Goa | Beste Angebote & Reiseroute",
-          "description": "Buchen Sie Ihr Kashmir-Reisepaket ab Goa zu den besten Angeboten. Entdecken Sie Srinagar, Gulmarg und Pahalgam mit individueller Reiseroute, Hotels und stressfreier Reiseplanung."
-        }
+        metadata: {
+          title: "Kashmir Reisepaket ab Goa | Beste Angebote & Reiseroute",
+          description:
+            "Buchen Sie Ihr Kashmir-Reisepaket ab Goa zu den besten Angeboten. Entdecken Sie Srinagar, Gulmarg und Pahalgam mit individueller Reiseroute, Hotels und stressfreier Reiseplanung.",
+        },
       },
       cta: {
         headline: "Bereit für Ihr Kaschmir-Abenteuer?",
@@ -8044,7 +8045,7 @@ export const de = {
           whatsapp: {
             number: "+919067972295",
             message:
-              "Hallo!Ich interessiere mich für Ihr Kashmir 5N6D-Tourpaket.Bitte senden Sie mir Einzelheiten zu.",
+              "Hallo! Ich interessiere mich für Ihr Kashmir 5N6D-Tourpaket. Bitte senden Sie mir die Details.",
           },
           phone: "+919067972295",
         },
@@ -8056,63 +8057,161 @@ export const de = {
         },
         {
           title: "Privater Transport",
-          description: "Limousine/Innova-Fahrzeug ohne Klimaanlage",
+          description: "Sedan/Innova-Fahrzeug ohne Klimaanlage",
         },
         {
           title: "Shikara-Fahrt",
-          description: "1 Stunde Shikara am Dal-See",
+          description: "1 Stunde Shikara auf dem Dal-See",
         },
         {
           title: "Mahlzeiten inbegriffen",
           description: "Tägliches Frühstück und Abendessen",
         },
       ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Ankunft in Srinagar – Besichtigung von Srinagar",
-          description:
-            "Unser Service beginnt mit der Ankunft am Flughafen Srinagar.Treffen und begrüßen Sie unseren Vertreter.Transfer zum Hotel in Srinagar – Entspannen, Erfrischen und Aufbruch zur Besichtigung der Mogulgärten, Cheshmashahi, Nishat Shalimar, des Tulpengartens (der größte in Asien) und des Shankarcharya-Tempels auf der Spitze des Hügels.Zurück zum Hotel zum Abendessen und Übernachtung.",
-          category: "arrival",
+      price: {
+        sectionLabel: "Wählen Sie Ihren Tarif",
+        sectionTitle: "Ein Kaschmir — zwei Pakete",
+        sectionSubtitle:
+          "Dieselbe Route, maßgeschneiderte Leistungen. Indische Reisende erhalten ein preisbewusstes Value-Paket; internationale Reisende ein führungsgestütztes Paket mit Genehmigungshilfe — abgestimmt auf Erstbesucher Kaschmirs.",
+        domestic: {
+          badge: "Indischer Reisender",
+          packageName: "Kashmir Value Package",
+          amount: "₹16,999",
+          currency: "INR",
+          per: "Person",
+          note: "Doppelzimmer · ab-Preis, zzgl. GST",
+          points: [
+            "Sedan/Innova ohne Klimaanlage für alle Transfers und Besichtigungen",
+            "Tägliches Frühstück und Abendessen mit kaschmirischen Thali-Optionen",
+            "Besuch der Mogulgärten, des Tulpengartens und des Shankaracharya-Tempels",
+            "1 Nacht Hausboot mit Shikara-Fahrt bei Sonnenuntergang",
+          ],
+          cta: {
+            label: "Genaues Angebot anfordern",
+            whatsapp: {
+              number: "+919067972295",
+              message:
+                "Hallo! Ich interessiere mich für das Kashmir-Paket für indische Reisende.",
+            },
+          },
         },
-        {
-          time: "Day 2",
-          title: "Srinagar – Sonamarg",
-          description:
-            "Ganztägiger Besichtigungsausflug nach Sonamarg.Sonamarg ist eine wunderschöne Fahrt von Srinagar entfernt.Sonamarg wird die Goldwiese genannt und auf dem Thajiwas-Gletscher liegt das ganze Jahr über Schnee.Für einen Besuch dort kann man auf eigene Kosten Pferde mieten.Später zurück nach Srinagar zum Abendessen und Übernachtung.",
-          category: "activity",
+        international: {
+          badge: "Internationaler Reisender",
+          packageName: "Kashmir Discovery Package",
+          amount: "$ 349",
+          currency: "USD",
+          per: "Person",
+          note: "Doppelzimmer · ab-Preis, zzgl. Steuern",
+          points: [
+            "Privater englischsprachiger Guide an jedem Besichtigungstag",
+            "Genehmigungsformalitäten für Sperrzonen auf der Strecke werden erledigt",
+            "Premium-Heritage-Hausboot mit seeseitiger Terrasse",
+            "Stadtspaziergang durch Alt-Srinagar und Besuch einer Handwerks-Werkstatt",
+          ],
+          cta: {
+            label: "Genaues Angebot anfordern",
+            whatsapp: {
+              number: "+919067972295",
+              message:
+                "Hallo! Ich interessiere mich für das Kashmir-Paket für internationale Reisende.",
+            },
+          },
         },
-        {
-          time: "Day 3",
-          title: "Srinagar – Gulmarg",
-          description:
-            "Ganztägiger Besichtigungsausflug nach Gulmarg.Gulmarg ist einer der schönsten Sommerferienorte im Tal.Es ist wegen seines höchstgelegenen Golfplatzes und Skifahrens im Winter beliebt.Auf eigene Kosten können Sie eine Gondelfahrt (Seilbahn) nach Apharwat (13.000 Fuß) genießen.Zurück nach Srinagar, Check-in im Hausboot, Entspannung, Abfahrt zur Shikara-Fahrt und Genießen des Sonnenuntergangs am Dal-See.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 4",
-          title: "Srinagar – Pahalgam",
-          description:
-            "Machen Sie eine Besichtigungstour nach Pahalgam. Unterwegs besuchen Sie das Safranfeld und die Ruinen von Avantipora – Check-in im Hotel.Später freie Freizeit in Pahalgam.Genießen Sie die natürliche Schönheit von Pahalgam oder unternehmen Sie einen Ausritt zu wunderschönen Orten rund um Pahalgam oder fahren Sie nach Aru, Baisaran, Betaab-Tal und Chandanwari, indem Sie auf eigene Kosten ein lokales Fahrzeug am Taxistand von Pahalgam vor Ort nehmen.",
-          category: "activity",
-        },
-        {
-          time: "Day 5",
-          title: "Pahalgam – Srinagar",
-          description:
-            "Abfahrt nach Srinagar und Einchecken im Hausboot Srinagar – Entspannen – Abfahrt zur Shikara-Fahrt auf dem Dal-See, um den Sonnenuntergang zu genießen – Rückkehr zur Übernachtung und zum Abendessen im Hausboot.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 6",
-          title: "Srinagar – Flughafen",
-          description:
-            "Nach dem Frühstück checken Sie aus und wenn es die Zeit erlaubt, gehen Sie einkaufen und werden zum Flughafen Srinagar für Ihre Weiterreise gebracht.Die Tour endet mit so vielen wunderbaren und bleibenden Erinnerungen.",
-          category: "activity",
-        },
-      ],
+      },
+      itinerary: {
+        domestic: [
+          {
+            time: "Tag 1",
+            title: "Ankunft in Srinagar & Besichtigung",
+            description:
+              "Ankunft am Flughafen Srinagar und Transfer zum Hotel. Abends Besichtigung der Mogulgärten, Cheshmashahi, Nishat, Shalimar, des Tulpengartens (der größte Asiens) und des Shankaracharya-Tempels auf dem Hügel. Abendessen und Übernachtung im Hotel.",
+            category: "arrival",
+          },
+          {
+            time: "Tag 2",
+            title: "Srinagar – Sonamarg",
+            description:
+              "Ganztagesausflug nach Sonamarg, der „Goldwiese“, mit ganzjährigem Schnee am Thajiwas-Gletscher. Optionaler Ponyrritt auf eigene Kosten. Rückkehr nach Srinagar zum Abendessen und zur Übernachtung.",
+            category: "activity",
+          },
+          {
+            time: "Tag 3",
+            title: "Srinagar – Gulmarg",
+            description:
+              "Ganztagesausflug nach Gulmarg, bekannt für seinen Golfplatz und Wintersport. Optionaler Gondelfahrt nach Apharwat (13.000 ft) auf eigene Kosten. Abends Check-in im Hausboot, gefolgt von einer Shikara-Fahrt zum Sonnenuntergang über dem Dal-See.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Tag 4",
+            title: "Srinagar – Pahalgam",
+            description:
+              "Fahrt nach Pahalgam mit Stopps an den Safranfeldern und den Ruinen von Avantipora. Check-in im Hotel, danach Freizeit in Pahalgam oder optionaler Ausflug mit lokalem Taxi nach Aru, Baisaran, Betaab Valley oder Chandanwari.",
+            category: "activity",
+          },
+          {
+            time: "Tag 5",
+            title: "Pahalgam – Srinagar",
+            description:
+              "Rückkehr nach Srinagar und Check-in im Hausboot. Abends Shikara-Fahrt zum Sonnenuntergang auf dem Dal-See, danach Abendessen und Übernachtung im Hausboot.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Tag 6",
+            title: "Srinagar – Abreise",
+            description:
+              "Frühstück und Check-out. Bei ausreichend Zeit Einkauf von kaschmirischen Schals, Trockenfrüchten und Handwerk, danach Transfer zum Flughafen Srinagar für die Weiterreise.",
+            category: "activity",
+          },
+        ],
+        international: [
+          {
+            time: "Tag 1",
+            title: "Ankunft & Spaziergang durch Alt-Srinagar",
+            description:
+              "Privater Guide holt Sie am Flughafen Srinagar ab und bringt Sie zum Hotel. Nachmittags Besuch der Mogulgärten und Nishat Bagh, danach geführter Spaziergang durch Alt-Srinagar vorbei an Jamia Masjid und Zaina Kadal. Abendessen und Übernachtung im Hotel.",
+            category: "arrival",
+          },
+          {
+            time: "Tag 2",
+            title: "Srinagar – Sonamarg",
+            description:
+              "Malerische Tagesfahrt nach Sonamarg entlang des Sindh-Flusses mit vorab organisierten Genehmigungen. Fotostopp am Thajiwas-Gletscher. Abends in Srinagar kurze Vorführung von kaschmirischem Pappmaché oder Teppichweberei.",
+            category: "activity",
+          },
+          {
+            time: "Tag 3",
+            title: "Srinagar – Gulmarg",
+            description:
+              "Ganztagesausflug nach Gulmarg inklusive Gondelfahrt (Phase 1 & 2, wetterabhängig). Rückkehr nach Srinagar zum Check-in im Premium-Hausboot, gefolgt von einer privaten Shikara-Sonnenuntergangsfahrt mit Kahwa-Tee.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Tag 4",
+            title: "Srinagar – Pahalgam",
+            description:
+              "Fahrt nach Pahalgam über die Safranfelder von Pampore und die Ruinen von Avantipora. Nachmittagsspaziergang am Lidder-Fluss, optional Besuch des Betaab Valley oder Aru Valley. Saisonabhängig abends Lagerfeuer im Resort.",
+            category: "activity",
+          },
+          {
+            time: "Tag 5",
+            title: "Pahalgam – Srinagar",
+            description:
+              "Rückkehr nach Srinagar, optional früh morgens Besuch des schwimmenden Gemüsemarkts auf dem Dal-See. Abends Shikara-Fahrt bei Sonnenuntergang, gefolgt von einem mehrgängigen Wazwan-Abschiedsessen im Hausboot.",
+            category: "activity",
+            highlight: true,
+          },
+          {
+            time: "Tag 6",
+            title: "Srinagar – Abreise",
+            description:
+              "Entspanntes Frühstück, danach geführtes Last-Minute-Shopping für Pashmina und Safran. Privater Transfer zum Flughafen Srinagar für die Weiterreise.",
+            category: "activity",
+          },
+        ],
+      },
       gallery: [
         {
           title: "Dal-See Shikara",
@@ -8144,27 +8243,27 @@ export const de = {
         {
           title: "Unterkunft",
           description:
-            "4 Nächte in Hotels + 1 Nacht im Hausboot im Doppelzimmer",
+            "4 Nächte Hotel + 1 Nacht Hausboot auf Doppelzimmerbasis",
         },
         {
           title: "Shikara-Fahrt",
           description:
-            "1-stündige Shikara-Fahrt im Dal-See, um den Sonnenuntergang zu genießen",
+            "1-stündige Shikara-Fahrt auf dem Dal-See zum Sonnenuntergang",
         },
         {
           title: "Privater Transport",
           description:
-            "Alle Transfers und Besichtigungen mit einer Limousine/einem Innova-Fahrzeug ohne Klimaanlage",
+            "Alle Transfers und Besichtigungen mit privatem Fahrzeug",
         },
         {
           title: "Tägliche Mahlzeiten",
           description:
-            "Tägliches Frühstück und Abendessen während des Hotelaufenthalts (MAPAI-Basis)",
+            "Tägliches Frühstück und Abendessen während des Hotelaufenthalts (MAP-Basis)",
         },
         {
           title: "Flughafentransfers",
           description:
-            "Alle Ankunfts-/Abreisetransfers wie im Reiseverlauf angegeben",
+            "Alle Ankunfts-/Abreisetransfers laut Reiseroute",
         },
         {
           title: "Alle Steuern",

@@ -13,8 +13,10 @@ export function ContactInfoGrid() {
       title: t.contact.ourOffice,
       content: (
         <>
-          <p>Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo</p>
-          <p>Benaulim, Salcete, South Goa, Goa 403716, India</p>
+          <a href="https://share.google/snHKp13f83dCUyLe3">
+            <p>Ground Floor, 1492/3GFS-7, Benaulim Beach Road, Vasvaddo,</p>
+            <p>Benaulim, Salcete, South Goa, Goa 403716, India</p>
+          </a>
         </>
       ),
     },
