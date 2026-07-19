@@ -7669,6 +7669,9 @@ export const en = {
       }
     ],
     "price": {
+      "sectionLabel": "Choose Your Fare",
+      "sectionTitle": "One Kashmir, Two Packages",
+      "sectionSubtitle": "Same route, tailored inclusions. Indian travellers get a value-first plan; international travellers get a permit-assisted, guide-led plan built around what first-time visitors to Kashmir usually need.",
       "domestic": {
         "badge": "Indian Traveller",
         "packageName": "Kashmir Value Package",

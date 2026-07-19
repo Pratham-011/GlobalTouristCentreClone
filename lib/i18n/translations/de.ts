@@ -8069,6 +8069,10 @@ export const de = {
         },
       ],
       price: {
+        sectionLabel: "Wählen Sie Ihren Tarif",
+        sectionTitle: "Ein Kaschmir — zwei Pakete",
+        sectionSubtitle:
+          "Dieselbe Route, maßgeschneiderte Leistungen. Indische Reisende erhalten ein preisbewusstes Value-Paket; internationale Reisende ein führungsgestütztes Paket mit Genehmigungshilfe — abgestimmt auf Erstbesucher Kaschmirs.",
         domestic: {
           badge: "Indischer Reisender",
           packageName: "Kashmir Value Package",

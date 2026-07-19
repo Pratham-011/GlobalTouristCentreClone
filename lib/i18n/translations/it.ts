@@ -8182,6 +8182,10 @@ export const it = {
         },
       ],
       price: {
+        sectionLabel: "Scegli la tua tariffa",
+        sectionTitle: "Un Kashmir, due pacchetti",
+        sectionSubtitle:
+          "Lo stesso itinerario, inclusioni su misura. I viaggiatori indiani hanno un piano orientato al valore; i viaggiatori internazionali un piano con guida e assistenza ai permessi, pensato per chi visita il Kashmir per la prima volta.",
         domestic: {
           badge: "Viaggiatore indiano",
           packageName: "Kashmir Value Package",

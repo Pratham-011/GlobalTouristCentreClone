@@ -159,6 +159,7 @@ export function TourPrice({ price }: TourPriceProps) {
   return (
     <section className="bg-white py-12 sm:py-16 lg:py-20">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        {/* Optional section chrome — provided per tour in JSON */}
         {(price.sectionLabel || price.sectionTitle || price.sectionSubtitle) && (
           <div className="mb-8 sm:mb-12 max-w-3xl">
             {price.sectionLabel?.trim() && (

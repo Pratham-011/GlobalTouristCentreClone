@@ -8157,6 +8157,10 @@ internationalhero: "Explorez le monde",
         },
       ],
       price: {
+        sectionLabel: "Choisissez votre tarif",
+        sectionTitle: "Un Cachemire, deux formules",
+        sectionSubtitle:
+          "Le même itinéraire, des inclusions adaptées. Les voyageurs indiens bénéficient d'une formule axée sur le rapport qualité-prix ; les voyageurs internationaux d'un plan avec guide et assistance aux permis, pensé pour une première visite au Cachemire.",
         domestic: {
           badge: "Voyageur indien",
           packageName: "Kashmir Value Package",
