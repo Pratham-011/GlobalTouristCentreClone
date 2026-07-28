@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useI18n } from "@/lib/i18n/context";
 import { Instagram, Facebook, MapPin, Phone, Mail } from "lucide-react";
 import { FaWhatsapp, FaPinterestP } from "react-icons/fa";
@@ -10,6 +11,8 @@ import Image from "next/image";
 
 export function Footer() {
   const { t, locale } = useI18n();
+  const pathname = usePathname();
+  const isRussian = locale === "ru" || pathname?.startsWith("/ru") || pathname?.split("/").includes("ru");
   const instagramRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -124,7 +127,14 @@ export function Footer() {
                 </a>
               ))}
             </div>
-            <iframe src="https://yandex.ru/sprav/widget/rating-badge/58724303357?type=rating" width="150" height="50" ></iframe>
+            {isRussian && (
+              <iframe
+                src="https://yandex.ru/sprav/widget/rating-badge/58724303357?type=rating"
+                width="150"
+                height="50"
+                title="Yandex Rating"
+              />
+            )}
           </div>
 
           {/* Quick Links */}

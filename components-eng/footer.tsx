@@ -128,7 +128,7 @@ export function Footer() {
                 </a>
               ))}
             </div>
-            <iframe src="https://yandex.ru/sprav/widget/rating-badge/58724303357?type=rating" width="150" height="50" ></iframe>
+  
           </div>
 
           {/* Quick Links */}
