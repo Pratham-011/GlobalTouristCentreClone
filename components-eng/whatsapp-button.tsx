@@ -21,7 +21,7 @@ import { useState, useEffect } from "react"
 
 interface WhatsAppButtonProps {
   /** WhatsApp phone number (without + or country code formatting issues) */
-  phoneNumb er?: string
+  phoneNumber?: string
   /** Pre-filled message when opening WhatsApp */
   message?: string
   /** Tooltip text shown on hover */
