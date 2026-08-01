@@ -11,6 +11,9 @@
  * - Animated pulse effect to draw attention
  * - Mobile-friendly touch target (min 44px)
  * - Accessible with proper ARIA labels
+ * 
+
+
  * - Tooltip on hover (desktop)
  */
 
@@ -18,7 +21,7 @@ import { useState, useEffect } from "react"
 
 interface WhatsAppButtonProps {
   /** WhatsApp phone number (without + or country code formatting issues) */
-  phoneNumber?: string
+  phoneNumb er?: string
   /** Pre-filled message when opening WhatsApp */
   message?: string
   /** Tooltip text shown on hover */
