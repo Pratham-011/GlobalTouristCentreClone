@@ -1888,6 +1888,625 @@ export const it = {
     },
   },
   tourData: {
+  "sikkim-darjeeling-gangtok-tour-from-goa": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Sikkim, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani hanno accesso al Nathula Pass al confine indo-cinese; i viaggiatori internazionali ricevono un pacchetto con assistenza permessi e guida, in cui il monastero di Rumtek e la Via della Seta sostituiscono il Nathula Pass.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Sikkim Value",
+        "amount": "₹22.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Veicolo con aria condizionata per tutti i trasferimenti & escursioni",
+          "Colazione, pranzo e cena inclusi ogni giorno",
+          "Visita al Nathula Pass al confine indo-cinese (solo cittadini indiani)",
+          "Tutti i permessi Inner Line e per zone speciali gestiti"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Sikkim per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Sikkim Discovery",
+        "amount": "$ 549",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Guida privata di lingua inglese per tutto il viaggio",
+          "Permessi per zone riservate organizzati in anticipo",
+          "Monastero di Rumtek & Via della Seta al posto del Nathula Pass",
+          "Passeggiata nel mercato locale e cena in stile homestay a Pelling"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Sikkim per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo a Bagdogra → Gangtok", "description": "Sarete prelevati all'aeroporto di Bagdogra per il suggestivo tragitto di circa cinque ore fino a Gangtok. Dopo il check-in, la serata è libera per rilassarvi o fare una breve passeggiata in città.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Lago Tsomgo & Baba Mandir", "description": "Escursione di un'intera giornata al lago Tsomgo, un lago glaciale a 12.400 piedi di altitudine, sorprendente anche con il cielo coperto. Al ritorno, sosta al santuario di Baba Harbhajan Singh, con la sua storia affascinante.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Nathula Pass", "description": "Oggi si sale al Nathula Pass a 14.140 piedi, proprio sul confine indo-cinese, con il permesso speciale già organizzato. Un luogo suggestivo ad alta quota e una delle tappe più memorabili di questo viaggio.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Gangtok – Pelling", "description": "Guida verso Pelling passando per Namchi, con sosta al Siddheshwar Dham e al complesso Char Dham lungo il percorso. Check-in all'hotel di Pelling in serata.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Visita di Pelling", "description": "Una giornata intera per esplorare Pelling, a partire dal sacro lago Khecheopalri, seguito dal monastero di Pemayangtse, uno dei più antichi del Sikkim. Per concludere, visita alle rovine di Rabdentse nelle vicinanze.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Pelling – Darjeeling", "description": "Guida verso Darjeeling, con soste fotografiche alle cascate di Rimbi e al punto panoramico sul Kanchenjunga. Check-in in hotel in serata.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Alba a Tiger Hill → Partenza", "description": "Partenza mattutina per l'alba a Tiger Hill, seguita da una breve visita al monastero di Ghoom. Da lì, trasferimento all'aeroporto di Bagdogra per proseguire il viaggio.", "category": "travel"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo a Bagdogra → Gangtok", "description": "La vostra guida vi accoglie all'aeroporto di Bagdogra per il tragitto verso Gangtok, con qualche sosta fotografica se il tempo lo permette. La serata è libera per esplorare a piedi MG Marg.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Lago Tsomgo & Baba Mandir", "description": "Salita al lago Tsomgo, un lago glaciale a 12.400 piedi che cambia colore nel corso della giornata. La vostra guida vi accompagnerà anche al santuario di Baba Harbhajan Singh spiegandovi la leggenda locale.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Monastero di Rumtek & Via della Seta", "description": "Poiché il Nathula Pass è riservato ai cittadini indiani, visiterete invece il monastero di Rumtek, uno dei siti buddisti più importanti del Sikkim, seguito da un percorso panoramico lungo un tratto dell'antica Via della Seta.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Gangtok – Pelling", "description": "Guida verso Pelling passando per Namchi, con sosta al Siddheshwar Dham e al complesso Char Dham, mentre la guida vi racconta il significato di ogni sito. Check-in e relax a Pelling in serata.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Visita di Pelling", "description": "Visita al sacro lago Khecheopalri e al monastero di Pemayangtse, uno dei più antichi del Sikkim, seguita dalle rovine di Rabdentse. La sera, gustate una cena in stile homestay presso una famiglia locale per un'esperienza più autentica della vita sikkimese.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Pelling – Darjeeling", "description": "Guida verso Darjeeling, con soste alle cascate di Rimbi e al punto panoramico sul Kanchenjunga lungo il percorso. All'arrivo, una rilassante passeggiata nel mercato locale di Darjeeling prima di sistemarvi per la notte.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Alba a Tiger Hill → Partenza", "description": "Sveglia mattutina per godersi l'alba da Tiger Hill, poi visita al monastero di Ghoom sulla via del ritorno. La vostra guida vi accompagna con un trasferimento privato fino all'aeroporto di Bagdogra.", "category": "travel"}
+      ]
+    }
+  },
+  "ladakh-tour-package-from-goa": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Ladakh, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico con assistenza di ossigeno inclusa; i viaggiatori internazionali ricevono un pacchetto con assistenza permessi e guida, con un pernottamento in homestay nella Nubra Valley e una sessione di osservazione delle stelle al lago Pangong.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Ladakh Value",
+        "amount": "₹28.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Innova Crysta per tutti i trasferimenti & escursioni",
+          "Colazione e cena quotidiane, con opzioni di thali ladakhi locale",
+          "Visita al Palazzo di Leh, Magnetic Hill, Sangam & Gurudwara Pathar Sahib",
+          "Bombola di ossigeno a bordo per il comfort in alta quota"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Ladakh per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Ladakh Discovery",
+        "amount": "$ 699",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Guida privata di lingua inglese per tutto il viaggio",
+          "Permessi Inner Line per zone riservate organizzati in anticipo",
+          "Pernottamento in homestay nella Nubra Valley per un'esperienza più autentica",
+          "Sessione di osservazione delle stelle al lago Pangong, uno dei cieli più bui dell'India"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Ladakh per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo a Leh", "description": "Atterrerete all'aeroporto Kushok Bakula Rimpochee e vi dirigerete subito verso l'hotel per riposare e acclimatarvi, dato che Leh si trova a 3.500 m di altitudine. In serata, una passeggiata al mercato di Leh e il tramonto dallo Shanti Stupa.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Visita locale di Leh", "description": "Una giornata intera dedicata a Leh con Shanti Stupa, Palazzo di Leh e monastero di Phyang. Sosta anche a Sangam, dove si incontrano i fiumi Indo e Zanskar, prima di dirigersi verso Magnetic Hill e il Gurudwara Pathar Sahib.", "category": "activity"},
+        {"time": "Giorno 3", "title": "Leh verso la Nubra Valley", "description": "Il tragitto di oggi attraversa il Khardung La, una delle strade carrozzabili più alte al mondo, tenete pronta la macchina fotografica. Una volta a Nubra, visiterete il monastero di Diskit e potrete provare un giro in cammello sulle dune di Hunder.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Nubra verso Turtuk", "description": "Guida verso Turtuk, il villaggio più a nord dell'India, nascosto vicino alla Linea di Controllo. Avrete un assaggio della cultura baltistana, camminerete attraverso un'antica moschea e un monastero, e ammirerete panorami davvero mozzafiato lungo il percorso.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Nubra verso il lago Pangong", "description": "Il tragitto verso Pangong segue il fiume Shyok, e il lago stesso non delude mai: cambia tonalità dal blu al verde man mano che cambia la luce del giorno. Trascorrete la serata proprio sulla riva prima di sistemarvi per la notte.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Pangong verso Leh", "description": "Ritorno a Leh attraverso il passo di Chang La, un altro attraversamento in alta quota da godersi. Lungo il percorso, sosta al monastero di Thiksey, il più grande del Ladakh, noto per la sua architettura suggestiva e l'atmosfera calma e contemplativa.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Partenza", "description": "Dopo la colazione, sarete trasferiti all'aeroporto di Leh per proseguire il viaggio, portando con voi più ricordi dell'Himalaya di quanti probabilmente vi aspettaste.", "category": "travel"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo & Acclimatazione", "description": "La vostra guida vi accoglie all'aeroporto di Leh e vi sistema in hotel, poiché l'altitudine qui richiede un inizio graduale. In serata, una rilassante passeggiata al mercato di Leh e il tramonto dallo Shanti Stupa.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Visita locale di Leh", "description": "Una giornata guidata intorno a Leh con Shanti Stupa, Palazzo di Leh e monastero di Phyang, con la guida che racconta la storia di ogni tappa. Visiterete anche Sangam, Magnetic Hill, e riceverete approfondimenti sui luoghi culturali e religiosi del Ladakh.", "category": "activity"},
+        {"time": "Giorno 3", "title": "Leh verso la Nubra Valley", "description": "Attraverserete il Khardung La, con tutti i permessi già organizzati, così niente vi rallenterà. A Nubra, visita al monastero di Diskit, giro in cammello sulle dune di Hunder e pernottamento in un homestay locale per un'esperienza più autentica della vita quotidiana ladakhi.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Esplorazione della Nubra Valley", "description": "Una giornata più tranquilla intorno a Nubra, con tempo per esplorare i villaggi, incontrare artigiani, e godersi la valle a un ritmo rilassato con la vostra guida. Una buona occasione per rallentare e godersi il paesaggio prima della prossima grande tappa.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Nubra verso il lago Pangong", "description": "Guida lungo il fiume Shyok fino al lago Pangong, osservando l'acqua cambiare colore man mano che vi avvicinate. Dopo il tramonto, restate per una sessione di osservazione delle stelle: il cielo notturno di Pangong, quasi privo di inquinamento luminoso, è uno dei veri momenti salienti del viaggio.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Pangong verso Leh", "description": "Ritorno a Leh attraverso il passo di Chang La, con sosta al monastero di Thiksey lungo il percorso. Se i tempi lo consentono, avrete anche un momento tranquillo per assistere a una sessione di preghiera nel monastero, un piccolo ma memorabile momento del viaggio.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Partenza", "description": "Una colazione rilassata prima che la vostra guida vi accompagni per gli ultimi acquisti di souvenir a Leh: pashmina, albicocche, artigianato locale. Da lì, un trasferimento agevole all'aeroporto per proseguire il viaggio.", "category": "travel"}
+      ]
+    }
+  },
+  "meghalaya-tour-package-from-goa": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Meghalaya, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico con darshan a Kamakhya l'ultima mattina; i viaggiatori internazionali ricevono un pacchetto con assistenza permessi e guida, con soste culturali aggiuntive nei villaggi e una visita al mercato più rilassata l'ultimo giorno.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Meghalaya Value",
+        "amount": "₹24.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Veicolo con aria condizionata per tutti i trasferimenti & escursioni",
+          "Colazione, pranzo e cena inclusi ogni giorno",
+          "Darshan al tempio di Kamakhya l'ultima mattina",
+          "Safari in jeep a Kaziranga con permessi inclusi"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Meghalaya per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Meghalaya Discovery",
+        "amount": "$ 579",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Guida privata di lingua inglese per tutto il viaggio",
+          "Passeggiata nel villaggio e tappa culturale Khasi aggiunta vicino a Mawlynnong",
+          "Ultima mattina rilassata con visita al mercato locale invece di una visita al tempio all'alba",
+          "Tutti i permessi, incluso Kaziranga e l'accesso alle zone di confine, organizzati in anticipo"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Meghalaya per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo a Guwahati → Shillong", "description": "Prelievo all'aeroporto di Guwahati per il tragitto verso Shillong via il lago Umiam, un'ottima prima sosta fotografica. Dopo il check-in, trascorrete la serata visitando il Museo Don Bosco e il Ward's Lake.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Escursione a Cherrapunjee", "description": "Una giornata intera intorno a Cherrapunjee, a partire dalle spettacolari cascate delle Sette Sorelle e dalle cascate di Nohkalikai. Per concludere, una passeggiata attraverso la grotta di Mawsmai e il Garden of Caves.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Mawlynnong & Dawki", "description": "Visita a Mawlynnong, noto come il villaggio più pulito dell'Asia, e camminata sul suo famoso ponte di radici vive. Da lì, verso Dawki per vedere il fiume Umngot dalle acque cristalline e il confine con il Bangladesh nelle vicinanze.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Shillong → Kaziranga", "description": "Un pittoresco tragitto verso Kaziranga, con sosta a Nongpoh per un tè. Arrivo in serata e sistemazione in vista del safari del giorno successivo.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Safari a Kaziranga", "description": "Un safari in jeep al mattino presto attraverso la Central Range alla ricerca dei rinoceronti indiani del parco. In seguito, una passeggiata in un villaggio vicino e in una piantagione di tè locale.", "category": "wildlife", "highlight": true},
+        {"time": "Giorno 6", "title": "Kaziranga → Guwahati + Crociera", "description": "Ritorno in auto a Guwahati, e in serata una crociera sul fiume Brahmaputra per ammirare il tramonto sull'acqua (condizioni meteo permettendo).", "category": "activity"},
+        {"time": "Giorno 7", "title": "Tempio di Kamakhya → Partenza", "description": "Partenza mattutina per il darshan al tempio di Kamakhya, uno dei shakti peeth più importanti in India. Da lì, trasferimento diretto all'aeroporto per la partenza.", "category": "travel"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo a Guwahati → Shillong", "description": "La vostra guida vi accoglie all'aeroporto di Guwahati per il tragitto verso Shillong, con sosta al lago Umiam lungo il percorso. La serata è dedicata alla visita del Museo Don Bosco e a una rilassante passeggiata intorno al Ward's Lake.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Escursione a Cherrapunjee", "description": "Una giornata intera per esplorare le cascate di Cherrapunjee, a partire dalle cascate delle Sette Sorelle e di Nohkalikai. Attraverserete anche la grotta di Mawsmai e il Garden of Caves, con la guida che spiega la geologia unica della regione.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Mawlynnong & Dawki", "description": "Esplorazione del villaggio di Mawlynnong e del suo ponte di radici vive, con tempo per camminare tra la comunità e scoprire come il villaggio riesce a rimanere così pulito. Si prosegue verso Dawki per un giro in barca sul fiume Umngot dalle acque cristalline vicino al confine con il Bangladesh.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Shillong → Kaziranga", "description": "Guida verso Kaziranga con sosta a Nongpoh, e se il tempo lo consente, una breve visita a un villaggio Khasi locale lungo il percorso per vedere le case tradizionali e la vita quotidiana. Arrivo in serata e riposo in vista del safari.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Safari a Kaziranga", "description": "Partenza mattutina per un safari in jeep attraverso la Central Range, casa dei famosi rinoceronti indiani del parco. In seguito, una passeggiata guidata in un villaggio vicino e in una piantagione di tè.", "category": "wildlife", "highlight": true},
+        {"time": "Giorno 6", "title": "Kaziranga → Guwahati + Crociera", "description": "Ritorno in auto a Guwahati, poi relax in serata con una crociera sul fiume Brahmaputra al tramonto (condizioni meteo permettendo).", "category": "activity"},
+        {"time": "Giorno 7", "title": "Mercato di Guwahati → Partenza", "description": "Un'ultima mattina rilassata con una visita guidata al Fancy Bazaar per gli ultimi acquisti di seta assamese, tè o artigianato. Da lì, un agevole trasferimento privato all'aeroporto per proseguire il viaggio.", "category": "travel"}
+      ]
+    }
+  },
+  "north-india-heritage-tour-from-goa": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Nord dell'India, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico con il classico giro in elefante/jeep al Forte di Amber; i viaggiatori internazionali ricevono un pacchetto con assistenza permessi e guida, con due tentativi di safari a Ranthambore e una passeggiata gastronomica a Chandni Chowk.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Nord India Value",
+        "amount": "₹34.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Veicolo con aria condizionata per tutto il viaggio, più il tragitto in treno Amritsar–Delhi",
+          "Colazione giornaliera inclusa durante il soggiorno in hotel",
+          "Tempio d'Oro, Parata al confine di Wagah & giro in elefante/jeep al Forte di Amber",
+          "Safari alla tigre a Ranthambore in jeep con permessi"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Nord India per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Nord India Discovery",
+        "amount": "$ 799",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Guida privata di lingua inglese per tutti i 10 giorni, inclusa assistenza per il treno",
+          "Visita al Forte di Amber solo in jeep (nessun giro in elefante)",
+          "Due tentativi di safari a Ranthambore per maggiori possibilità di avvistare una tigre",
+          "Percorso gastronomico guidato nella Old Delhi e a Chandni Chowk"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Nord India per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo ad Amritsar", "description": "Arrivo ad Amritsar e check-in in hotel per rilassarsi dopo il viaggio. Trascorrete la serata con una tranquilla passeggiata vicino all'hotel o nei mercati locali.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Esplorando Amritsar", "description": "Visita al Tempio d'Oro al mattino per assaporarne la calma e la splendida architettura, seguita da Jallianwala Bagh per conoscerne la storia. In serata, direzione al confine di Wagah per l'energica parata di ammainabandiera.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Viaggio a Delhi in treno", "description": "Salita a bordo del treno da Amritsar a Delhi, un viaggio di circa 6-7 ore. All'arrivo, check-in in hotel e riposo in serata.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Alla scoperta di Delhi", "description": "Esplorazione della Old Delhi con visite al Forte Rosso e a Chandni Chowk per un assaggio della vita locale. Nel pomeriggio, India Gate, l'area del Rashtrapati Bhavan e Qutub Minar, seguiti da cena in un noto ristorante di Delhi.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Delhi verso Agra", "description": "Partenza mattutina per Agra, circa 3-4 ore di viaggio. Trascorrete la giornata al maestoso Taj Mahal e al Forte di Agra, scoprendo la storia moghul dietro entrambi, poi pernottamento ad Agra.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Fatehpur Sikri & proseguimento verso Jaipur", "description": "Guida verso Fatehpur Sikri, circa un'ora di distanza, e visita a questo sito Patrimonio dell'Umanità UNESCO. Si prosegue verso Jaipur, altre 4-5 ore, e check-in in hotel.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Tour della città di Jaipur", "description": "Visita al Forte di Amber, con possibilità di salire con elefante o jeep fino all'ingresso. Esplorazione del City Palace e dell'osservatorio Jantar Mantar, poi passeggiata davanti all'Hawa Mahal e shopping nei bazar locali.", "category": "activity"},
+        {"time": "Giorno 8", "title": "Jaipur verso Ranthambore", "description": "Partenza da Jaipur verso Ranthambore, circa 3-4 ore di viaggio. Check-in al resort e serata rilassante in vista del safari del giorno dopo.", "category": "activity"},
+        {"time": "Giorno 9", "title": "Safari alla tigre di Ranthambore", "description": "Partenza per un safari in jeep al mattino, di solito il momento migliore per gli avvistamenti della fauna selvatica. Ritorno al resort per colazione/pranzo e un po' di relax nel resto della giornata.", "category": "wildlife", "highlight": true},
+        {"time": "Giorno 10", "title": "Partenza", "description": "Dopo la colazione, check-out e trasferimento verso Delhi per il volo o treno di ritorno, in base al vostro orario di partenza.", "category": "travel"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo ad Amritsar", "description": "La vostra guida vi accoglie ad Amritsar e vi accompagna al check-in in hotel. In serata, una rilassante passeggiata guidata nei mercati locali per ambientarvi nel viaggio.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Esplorando Amritsar", "description": "Visita al Tempio d'Oro al mattino, con la guida che spiega la storia e le tradizioni sikh, seguita da Jallianwala Bagh. In serata, vivrete la Parata al confine di Wagah, uno dei momenti più elettrizzanti dell'intero viaggio.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Viaggio a Delhi in treno", "description": "La vostra guida si occupa dei biglietti e della navigazione sui binari per il viaggio in treno di 6-7 ore verso Delhi, così potrete semplicemente rilassarvi e osservare il paesaggio. All'arrivo, check-in in hotel e riposo.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Alla scoperta di Delhi", "description": "Una passeggiata guidata nella Old Delhi, incluso il Forte Rosso e un vero percorso gastronomico tra i vicoli di Chandni Chowk. Nel pomeriggio, visita a India Gate, l'area del Rashtrapati Bhavan e Qutub Minar.", "category": "activity"},
+        {"time": "Giorno 5", "title": "Delhi verso Agra", "description": "Partenza mattutina per Agra, circa 3-4 ore su strada. Trascorrete la giornata esplorando il Taj Mahal e il Forte di Agra, con la guida che vi spiega la storia moghul dietro di essi, poi pernottamento ad Agra.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Fatehpur Sikri & proseguimento verso Jaipur", "description": "Sosta a Fatehpur Sikri, sito UNESCO a circa un'ora da Agra, prima di proseguire verso Jaipur, altre 4-5 ore di distanza. Check-in e sistemazione in hotel in serata.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Tour della città di Jaipur", "description": "Visita al Forte di Amber in jeep (niente giri in elefante qui, in linea con gli standard di benessere animale preferiti dalla maggior parte dei viaggiatori internazionali). Si continua verso il City Palace, il Jantar Mantar e una passeggiata davanti all'Hawa Mahal, con tempo per curiosare nei bazar locali.", "category": "activity"},
+        {"time": "Giorno 8", "title": "Jaipur verso Ranthambore", "description": "Guida verso Ranthambore, circa 3-4 ore da Jaipur, e check-in al resort. Trascorrete la serata rilassandovi e ricevendo indicazioni su cosa aspettarvi dai safari del giorno seguente.", "category": "activity"},
+        {"time": "Giorno 9", "title": "Safari alla tigre di Ranthambore", "description": "Partenza per un safari in jeep al mattino e uno alla sera, offrendovi due vere possibilità di avvistare una tigre allo stato brado. Riposo al resort tra un giro e l'altro.", "category": "wildlife", "highlight": true},
+        {"time": "Giorno 10", "title": "Partenza", "description": "Dopo la colazione, check-out e trasferimento verso Delhi, comodamente in base al vostro volo di ritorno, con la vostra guida che vi accompagna fino all'ultimo tratto del viaggio.", "category": "travel"}
+      ]
+    }
+  },
+  "andaman-nicobar-tour-package": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Andaman, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico in camere triple/quadruple; i viaggiatori internazionali ricevono un pacchetto con guida in camera doppia, con un'opzione di immersione PADI a Havelock.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Andaman Value",
+        "amount": "₹34.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera tripla/quadrupla · prezzo di partenza, voli andata e ritorno inclusi",
+        "points": [
+          "Voli andata e ritorno da Goa a Port Blair inclusi",
+          "Biglietti di crociera/traghetto con aria condizionata per tutti i trasferimenti tra le isole",
+          "Snorkeling a Elephant Beach con attrezzatura inclusa",
+          "Escursione all'isola di Baratang con mangrovie & grotte calcaree incluse"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Andaman per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Andaman Discovery",
+        "amount": "$ 799",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli andata e ritorno inclusi",
+        "points": [
+          "Guida privata di lingua inglese per tutti i 7 giorni",
+          "Camera doppia come standard (niente camere triple/quadruple)",
+          "Opzione di immersione PADI a Havelock, con prezzo separato su richiesta",
+          "Racconto guidato della storia del Cellular Jail + briefing sull'etichetta della riserva Jarawa prima di Baratang"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Andaman per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo a Port Blair", "description": "Arrivo all'aeroporto di Port Blair e check-in in hotel. Visita al Cellular Jail, alla spiaggia di Corbyn's Cove, e spettacolo serale di luci e suoni al carcere.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Isola di Baratang", "description": "Un tragitto mattutino attraverso la riserva tribale Jarawa (convoglio a orari fissi, fotografia vietata dalla legge in questo tratto), seguito da un giro in barca a fibra attraverso le mangrovie. Escursione fino alle grotte calcaree prima di tornare a Port Blair.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Isola di Havelock", "description": "Prendete il traghetto mattutino per l'isola di Havelock e fate il check-in in hotel. Trascorrete la serata a Radhanagar Beach, regolarmente classificata tra le migliori spiagge dell'Asia.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Elephant Beach", "description": "Giro in barca fino a Elephant Beach per lo snorkeling in acque cristalline, attrezzatura inclusa. Trascorrete il resto della giornata rilassandovi in spiaggia.", "category": "wildlife", "highlight": true},
+        {"time": "Giorno 5", "title": "Isola di Neil", "description": "Traghetto verso l'isola di Neil per esplorare Bharatpur Beach e la formazione rocciosa naturale, concludendo la giornata a Laxmanpur Beach per il tramonto.", "category": "activity"},
+        {"time": "Giorno 6", "title": "Ritorno a Port Blair", "description": "Prendete il traghetto mattutino di ritorno a Port Blair e fate il check-in in hotel. Il resto della giornata è libero per shopping o esplorazione locale.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Partenza", "description": "Dopo la colazione, check-out e trasferimento all'aeroporto di Port Blair per il volo di ritorno.", "category": "travel"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo a Port Blair", "description": "La vostra guida vi accoglie all'aeroporto di Port Blair e vi accompagna al check-in in hotel. Visita al Cellular Jail, con la guida che vi spiega la storia della lotta per l'indipendenza indiana dietro di esso, poi la spiaggia di Corbyn's Cove e lo spettacolo serale di luci e suoni.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Isola di Baratang", "description": "Prima di partire, la vostra guida vi informa sulle regole della riserva tribale Jarawa: fotografie e riprese sono severamente vietate dalla legge in questo tratto, e il convoglio segue un orario fisso. Da lì, godetevi un giro in barca tra le mangrovie e un'escursione fino alle grotte calcaree.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Isola di Havelock", "description": "Traghetto verso l'isola di Havelock e check-in nella vostra camera doppia. Trascorrete la serata a Radhanagar Beach, e se siete interessati alle immersioni, la vostra guida può aiutarvi a organizzare una sessione PADI opzionale per il giorno successivo.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Elephant Beach", "description": "Giro in barca fino a Elephant Beach per lo snorkeling in acque cristalline. I subacquei possono optare qui per un'immersione PADI (a pagamento separato), mentre gli altri si rilassano in spiaggia.", "category": "wildlife", "highlight": true},
+        {"time": "Giorno 5", "title": "Isola di Neil", "description": "Traghetto verso l'isola di Neil per esplorare Bharatpur Beach e la formazione rocciosa naturale, concludendo a Laxmanpur Beach per il tramonto, con la guida che vi indica i migliori angoli fotografici.", "category": "activity"},
+        {"time": "Giorno 6", "title": "Ritorno a Port Blair", "description": "Traghetto mattutino di ritorno a Port Blair e check-in in hotel. Tempo libero per shopping o una passeggiata guidata nei mercati locali.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Partenza", "description": "Una colazione rilassata prima del check-out, poi la vostra guida vi accompagna con un trasferimento agevole all'aeroporto di Port Blair per il volo di ritorno.", "category": "travel"}
+      ]
+    }
+  },
+  "golden-triangle-4-day-tour-from-goa": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Triangolo d'Oro, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico con giro in elefante opzionale al Forte di Amber; i viaggiatori internazionali ricevono un pacchetto guidato con una serata a Chokhi Dhani inclusa e assistenza allo shopping ad Agra.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Triangolo d'Oro Value",
+        "amount": "₹27.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli andata e ritorno inclusi",
+        "points": [
+          "Veicolo con aria condizionata per tutto il viaggio per tutti i trasferimenti & escursioni",
+          "Voli andata e ritorno in classe economica + colazione giornaliera inclusa",
+          "Forte di Amber con giro in elefante o jeep opzionale",
+          "Tutti i biglietti d'ingresso ai monumenti, pedaggi & spese autista inclusi"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Triangolo d'Oro per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Triangolo d'Oro Discovery",
+        "amount": "$ 649",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli andata e ritorno inclusi",
+        "points": [
+          "Guida di lingua inglese per tutti i 4 giorni",
+          "Forte di Amber solo in jeep (nessun giro in elefante)",
+          "Serata culturale a Chokhi Dhani con cena Rajasthani inclusa, non opzionale",
+          "Sosta artigianato in marmo e pashmina ad Agra con assistenza della guida su prezzi autentici vs. trappole per turisti"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Triangolo d'Oro per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo & Visita di Delhi", "description": "Atterraggio a Delhi e accoglienza da parte del vostro rappresentante per un rapido check-in in hotel. Trascorrete il resto della giornata visitando India Gate, Rashtrapati Bhawan, Qutub Minar, la Tomba di Humayun e il Tempio del Loto, prima di concludere la serata con dello shopping a Connaught Place.", "category": "arrival", "highlight": true},
+        {"time": "Giorno 2", "title": "Delhi verso Agra", "description": "Dopo la colazione, circa 4 ore di viaggio verso Agra. Dopo il check-in, trascorrete il pomeriggio al Taj Mahal e al Forte di Agra, poi concludete la serata con una visita al Baby Taj e un giro tra i negozi locali di marmo e artigianato.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Agra verso Jaipur via Fatehpur Sikri", "description": "Guida verso Jaipur con sosta a Fatehpur Sikri per vedere la Jama Masjid, il Buland Darwaza e il Panch Mahal. Dopo il check-in a Jaipur, c'è la possibilità di una serata opzionale a Chokhi Dhani con cena Rajasthani tradizionale e spettacoli folk.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Visita di Jaipur & Partenza", "description": "Iniziate la giornata al Forte di Amber, con l'opzione di salire con elefante o jeep, seguita da soste fotografiche al Jal Mahal e all'Hawa Mahal. Per concludere, City Palace e Jantar Mantar prima del trasferimento serale in aeroporto.", "category": "travel", "highlight": true}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo & Visita di Delhi", "description": "Una guida di lingua inglese vi accoglie all'arrivo a Delhi e vi accompagna al check-in in hotel. Il resto della giornata copre India Gate, Rashtrapati Bhawan, Qutub Minar, la Tomba di Humayun e il Tempio del Loto, con tempo libero per lo shopping a Connaught Place.", "category": "arrival", "highlight": true},
+        {"time": "Giorno 2", "title": "Delhi verso Agra", "description": "Un comodo viaggio di 4 ore verso Agra con la vostra guida che gestisce tutta la logistica lungo il percorso. Trascorrete il pomeriggio al Taj Mahal e al Forte di Agra, poi visitate il Baby Taj in serata, con la guida che vi aiuta a fare acquisti consapevoli nei laboratori di marmo e artigianato.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Agra verso Jaipur via Fatehpur Sikri", "description": "Si prosegue verso Jaipur con una sosta a Fatehpur Sikri per esplorare la Jama Masjid e il Buland Darwaza. In serata, direzione Chokhi Dhani per una cena Rajasthani inclusa e uno spettacolo culturale, un buon primo assaggio delle tradizioni locali.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Visita di Jaipur & Partenza", "description": "Visita al Forte di Amber in jeep, senza il giro in elefante, seguita da soste fotografiche al Jal Mahal e all'Hawa Mahal. Visita del City Palace e del Jantar Mantar prima che la guida vi saluti con il trasferimento serale in aeroporto.", "category": "travel", "highlight": true}
+      ]
+    }
+  },
+  "kerala-tour-package-from-goa": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Kerala, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico con houseboat in cabine condivise standard; i viaggiatori internazionali ricevono un pacchetto guidato con houseboat privata e una serata Kathakali inclusa.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Kerala Value",
+        "amount": "₹17.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Berlina con aria condizionata per tutti i trasferimenti & escursioni",
+          "Colazione giornaliera + tutti i pasti inclusi sulla houseboat",
+          "Panorami collinari a Munnar: Eravikulam, Museo del Tè, diga di Mattupetty & Echo Point",
+          "1 notte in houseboat con cabine condivise standard ad Alleppey"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Kerala per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Kerala Discovery",
+        "amount": "$ 479",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Guida privata di lingua inglese per tutti i 6 giorni",
+          "Giro in elefante incluso a Munnar",
+          "Houseboat Deluxe con aria condizionata privata ad Alleppey, non condivisa con altri gruppi",
+          "Spettacolo culturale Kathakali serale a Thekkady incluso, non opzionale"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Kerala per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo a Cochin – Visita di Cochin", "description": "Arrivo a Cochin e trasferimento in hotel per ambientarvi. Trascorrete la giornata esplorando le reti da pesca cinesi a Fort Kochi, il Palazzo di Mattancherry e la Sinagoga ebraica (chiusa venerdì & sabato), concludendo con una passeggiata al tramonto lungo Marine Drive.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Cochin verso Munnar", "description": "Guida verso Munnar, circa 4,5 ore, con sosta alle cascate di Cheeyappara & Valara e al punto panoramico di Karadippara lungo il percorso. Check-in in hotel e serata libera o breve passeggiata nella natura.", "category": "activity"},
+        {"time": "Giorno 3", "title": "Visita di Munnar", "description": "Una giornata intera con il Parco Nazionale di Eravikulam (chiuso Feb–Mar), il Museo del Tè, la diga di Mattupetty & Echo Point, e il lago Kundala. Nelle vicinanze è disponibile un giro in elefante o in barca a pagamento diretto, se lo desiderate.", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Munnar verso Thekkady", "description": "Guida verso Thekkady, circa 3,5 ore, e check-in in hotel. Visita alla Riserva Faunistica di Periyar e alle piantagioni di spezie, con uno spettacolo opzionale di Kathakali o Kalaripayattu in serata (a proprie spese).", "category": "wildlife"},
+        {"time": "Giorno 5", "title": "Thekkady verso Alleppey – Pernottamento in houseboat", "description": "Direzione Alleppey e check-in nella vostra houseboat con cabine condivise standard. Trascorrete la giornata in crociera tra le backwaters e i canali, con pasti keralesi autentici serviti a bordo per tutto il giorno.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Alleppey verso Cochin – Partenza", "description": "Godetevi la colazione a bordo prima di sbarcare dalla houseboat alle 9:00. Guida di ritorno a Cochin, circa 1,5 ore, per il vostro rilascio all'aeroporto o alla stazione ferroviaria.", "category": "travel"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo a Cochin – Visita di Cochin", "description": "La vostra guida vi accoglie all'arrivo e vi accompagna in hotel. Esplorate le reti da pesca cinesi a Fort Kochi, il Palazzo di Mattancherry e la Sinagoga ebraica (la guida la sostituisce con una passeggiata al mercato delle spezie se visitate di venerdì o sabato), seguita da una passeggiata al tramonto lungo Marine Drive.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Cochin verso Munnar", "description": "Guida verso Munnar, circa 4,5 ore, con una vera sosta di riposo insieme a soste fotografiche alle cascate di Cheeyappara & Valara. Check-in e serata rilassante, con passeggiata guidata nella natura opzionale.", "category": "activity"},
+        {"time": "Giorno 3", "title": "Visita di Munnar", "description": "Visita al Parco Nazionale di Eravikulam (la guida lo sostituisce con il punto panoramico di Top Station se chiuso stagionalmente), il Museo del Tè, la diga di Mattupetty & Echo Point, e il lago Kundala. Nel frattempo, godetevi un giro in elefante incluso (circa 5 $ a persona, 15 minuti, ingresso al parco pagato sul posto).", "category": "activity", "highlight": true},
+        {"time": "Giorno 4", "title": "Munnar verso Thekkady", "description": "Guida verso Thekkady, circa 3,5 ore, e check-in in hotel. Passeggiata guidata attraverso le piantagioni di spezie per scoprire la coltivazione di cardamomo, pepe e chiodi di garofano, seguita da una spettacolo culturale Kathakali serale incluso.", "category": "wildlife"},
+        {"time": "Giorno 5", "title": "Thekkady verso Alleppey – Pernottamento in houseboat", "description": "Direzione Alleppey per la vostra houseboat Deluxe con aria condizionata privata, non condivisa con altri viaggiatori. Crociera tra le backwaters e i tranquilli canali dei villaggi per tutta la giornata, con pasti keralesi serviti a bordo e la guida che vi mostra la vita locale lungo le rive.", "category": "activity", "highlight": true},
+        {"time": "Giorno 6", "title": "Alleppey verso Cochin – Partenza", "description": "Colazione a bordo prima di sbarcare dalla houseboat alle 9:00. La vostra guida vi accompagna nel viaggio di 1,5 ore di ritorno a Cochin per un rilascio agevole all'aeroporto o alla stazione ferroviaria.", "category": "travel"}
+      ]
+    }
+  },
+  "rajasthan-royal-tour-from-goa": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Rajasthan, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico con il Forte di Amber in jeep; i viaggiatori internazionali ricevono un pacchetto guidato con giro in elefante incluso e crociera al tramonto sul lago Pichola.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Rajasthan Value",
+        "amount": "₹32.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Veicolo con aria condizionata per tutto il viaggio per tutti i trasferimenti & escursioni",
+          "6 notti in hotel storici con colazione giornaliera",
+          "Visita al Forte di Amber in jeep (giro in elefante non incluso in questo pacchetto)",
+          "Giro in barca sul lago Pichola a Udaipur incluso"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Rajasthan per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Rajasthan Discovery",
+        "amount": "$ 749",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Guida privata di lingua inglese per tutti i 7 giorni",
+          "Giro in elefante al Forte di Amber",
+          "Passeggiata guidata tra i vicoli della Città Blu di Jodhpur e il mercato Sardar",
+          "Crociera al tramonto sul lago Pichola con commento su City Palace e Jag Mandir"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Rajasthan per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo a Jaipur", "description": "Arrivo nella Città Rosa e check-in in hotel per rilassarvi dopo il viaggio. In serata, una tranquilla passeggiata nei mercati locali vicino al vostro hotel.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Esplorando Jaipur", "description": "Visita al maestoso Forte di Amber, con salita ai bastioni in jeep, poi esplorazione del City Palace e dell'osservatorio Jantar Mantar. Per concludere la giornata, passeggiata davanti all'Hawa Mahal e shopping nei bazar locali.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Jaipur verso Jodhpur", "description": "Guida verso Jodhpur, circa 5-6 ore, e check-in in hotel all'arrivo. La serata è libera per esplorare i mercati locali al vostro ritmo.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Tour della città di Jodhpur", "description": "Visita al maestoso Forte di Mehrangarh, uno dei più grandi dell'India, seguita da Jaswant Thada, i cenotafi reali. Per concludere, passeggiata nel vivace mercato Sardar e nell'area della Torre dell'Orologio.", "category": "activity", "highlight": true},
+        {"time": "Giorno 5", "title": "Jodhpur verso Udaipur", "description": "Guida verso Udaipur, un altro viaggio di 5-6 ore, e check-in in hotel. Godetevi una serata tranquilla sul lago una volta sistemati.", "category": "activity"},
+        {"time": "Giorno 6", "title": "Tour della città di Udaipur", "description": "Visita al City Palace, il più grande complesso di palazzi del Rajasthan, seguita da un giro in barca sul lago Pichola per viste sul palazzo e sul Jag Mandir. Per concludere, visite a Sahelion-ki-Bari e al Tempio Jagdish.", "category": "activity", "highlight": true},
+        {"time": "Giorno 7", "title": "Partenza da Udaipur", "description": "Godetevi una colazione rilassata e fate il check-out, in base al vostro volo o treno. Trasferimento all'aeroporto o alla stazione ferroviaria per proseguire il viaggio.", "category": "travel"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo a Jaipur", "description": "La vostra guida vi accoglie a Jaipur e vi accompagna al check-in in hotel. In serata, una passeggiata guidata nei mercati locali per un primo assaggio della Città Rosa.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Esplorando Jaipur", "description": "Salita al Forte di Amber in groppa a un elefante, poi esplorazione del City Palace e del Jantar Mantar con il commento della guida. Per concludere, passeggiata davanti all'Hawa Mahal e tempo per curiosare nei bazar.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Jaipur verso Jodhpur", "description": "Guida verso Jodhpur, circa 5-6 ore, con la guida che indica il paesaggio rajasthano che cambia lungo il percorso. Check-in e serata dedicata all'esplorazione dei mercati locali.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Tour della città di Jodhpur", "description": "Esplorazione del Forte di Mehrangarh, una delle fortezze più imponenti dell'India, e dei cenotafi in marmo di Jaswant Thada. Nel pomeriggio, passeggiata guidata tra i vicoli stretti della Città Blu e il mercato Sardar, un luogo preferito per le foto.", "category": "activity", "highlight": true},
+        {"time": "Giorno 5", "title": "Jodhpur verso Udaipur", "description": "Si prosegue verso Udaipur, circa 5-6 ore di distanza, con arrivo in tempo per una serata tranquilla sul lago. Check-in in hotel e sistemazione per la notte.", "category": "activity"},
+        {"time": "Giorno 6", "title": "Tour della città di Udaipur", "description": "Visita al City Palace, il più grande complesso di palazzi del Rajasthan, seguita da una crociera al tramonto sul lago Pichola con la guida che racconta la storia del City Palace e del Jag Mandir. Per concludere, Sahelion-ki-Bari e il Tempio Jagdish.", "category": "activity", "highlight": true},
+        {"time": "Giorno 7", "title": "Partenza da Udaipur", "description": "Una colazione rilassata prima del check-out, in base al vostro volo o treno. La vostra guida vi saluta con un trasferimento agevole all'aeroporto o alla stazione ferroviaria.", "category": "travel"}
+      ]
+    }
+  },
+  "tamil-nadu-tour-package": {
+    "price": {
+      "sectionLabel": "Scegli la tua tariffa",
+      "sectionTitle": "Un Tamil Nadu, due pacchetti",
+      "sectionSubtitle": "Stesso itinerario, servizi su misura. I viaggiatori indiani ricevono un pacchetto economico con il trenino di Coonoor come extra opzionale; i viaggiatori internazionali ricevono un pacchetto guidato con trenino incluso, indicazioni sul codice di abbigliamento nei templi, e una passeggiata guidata a Dhanushkodi.",
+      "domestic": {
+        "badge": "Viaggiatore indiano",
+        "packageName": "Pacchetto Tamil Nadu Value",
+        "amount": "₹23.999",
+        "currency": "INR",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Auto con aria condizionata per tutti i trasferimenti & escursioni",
+          "Colazione giornaliera inclusa",
+          "Darshan ai templi di Kanyakumari, Rameshwaram & Meenakshi Amman",
+          "Giro in trenino a Coonoor disponibile come extra opzionale"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Tamil Nadu per viaggiatori indiani."
+          }
+        }
+      },
+      "international": {
+        "badge": "Viaggiatore internazionale",
+        "packageName": "Pacchetto Tamil Nadu Discovery",
+        "amount": "$ 549",
+        "currency": "USD",
+        "per": "persona",
+        "note": "Camera doppia · prezzo di partenza, voli esclusi",
+        "points": [
+          "Guida privata di lingua inglese, incluso il codice di abbigliamento nei templi",
+          "Giro in trenino patrimonio UNESCO incluso",
+          "Soste durante i lunghi tragitti",
+          "Passeggiata guidata nella città fantasma di Dhanushkodi"
+        ],
+        "cta": {
+          "label": "Richiedi un preventivo preciso",
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al pacchetto Tamil Nadu per viaggiatori internazionali."
+          }
+        }
+      }
+    },
+    "itinerary": {
+      "domestic": [
+        {"time": "Giorno 1", "title": "Arrivo a Trivandrum → Kanyakumari", "description": "Arrivo all'aeroporto di Trivandrum e guida verso Kanyakumari, circa 90 km/2,5 ore. Check-in in hotel e sistemazione per la serata.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Visita di Kanyakumari", "description": "Visita al Memoriale della Roccia di Vivekananda, alla statua di Thiruvalluvar e al Tempio di Kanyakumari nel corso della giornata. Per concludere, tramonto a Kanyakumari Beach, dove si incontrano tre mari.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Kanyakumari verso Rameshwaram", "description": "Alba a Kanyakumari Beach prima della colazione, poi guida verso Rameshwaram, circa 310 km/6 ore. All'arrivo, visita al Ponte Pamban, al Memoriale del Dr. A.P.J. Abdul Kalam e al Tempio Ramanathaswamy.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Rameshwaram verso Madurai", "description": "Visita alla città fantasma di Dhanushkodi e al punto panoramico dell'Adam's Bridge, oltre al Tempio Panchmukhi Hanuman e alla Pietra Galleggiante. Guida verso Madurai, circa 170 km/3,5 ore, con visita al Tempio Meenakshi Amman, al Palazzo Thirumalai Nayakkar e al Museo Memoriale Gandhi.", "category": "activity", "highlight": true},
+        {"time": "Giorno 5", "title": "Madurai verso Ooty", "description": "Un lungo e pittoresco tragitto verso Ooty, circa 330 km/7 ore via Coimbatore, attraversando le Colline Nilgiri. Check-in in hotel all'arrivo.", "category": "activity"},
+        {"time": "Giorno 6", "title": "Visita di Ooty", "description": "Visita al Picco Doddabetta, il punto più alto di Ooty, seguito dalla Fabbrica del Tè & Museo, dal Giardino Botanico, e dalle Cascate & Lago di Pykara.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Ooty verso Coonoor & partenza via Coimbatore", "description": "Direzione Coonoor in trenino (opzionale) o in auto, con visita a Sim's Park e Dolphin's Nose. Si prosegue verso l'aeroporto di Coimbatore, circa 85 km/3 ore, per proseguire il viaggio.", "category": "activity"}
+      ],
+      "international": [
+        {"time": "Giorno 1", "title": "Arrivo a Trivandrum → Kanyakumari", "description": "La vostra guida vi accoglie all'aeroporto di Trivandrum per il tragitto verso Kanyakumari, circa 90 km/2,5 ore. Check-in e sistemazione in serata.", "category": "arrival"},
+        {"time": "Giorno 2", "title": "Visita di Kanyakumari", "description": "Visita al Memoriale della Roccia di Vivekananda, alla statua di Thiruvalluvar e al Tempio di Kanyakumari, con la guida che spiega le basi del codice di abbigliamento in vista delle prossime visite ai templi. Tramonto a Kanyakumari Beach, dove si incontrano il Mar Arabico, il Golfo del Bengala e l'Oceano Indiano.", "category": "activity", "highlight": true},
+        {"time": "Giorno 3", "title": "Kanyakumari verso Rameshwaram", "description": "Un'alba opzionale a Kanyakumari Beach, seguita dalla colazione e dal viaggio di 6 ore verso Rameshwaram con una vera sosta lungo il percorso. All'arrivo, visita al Ponte Pamban, al Memoriale del Dr. A.P.J. Abdul Kalam e al Tempio Ramanathaswamy, con la guida che vi aiuta con le regole di abbigliamento e calzature del tempio.", "category": "activity"},
+        {"time": "Giorno 4", "title": "Rameshwaram verso Madurai", "description": "Una passeggiata guidata nella città fantasma di Dhanushkodi, con la guida che spiega il ciclone del 1964 che ha plasmato l'area, oltre a una sosta al Tempio Panchmukhi Hanuman. Guida verso Madurai, circa 3,5 ore, con visita al Tempio Meenakshi Amman, al Palazzo Thirumalai Nayakkar e al Museo Memoriale Gandhi.", "category": "activity", "highlight": true},
+        {"time": "Giorno 5", "title": "Madurai verso Ooty", "description": "Il lungo tragitto verso Ooty, circa 7 ore via Coimbatore, è alleggerito da una sosta caffè/relax lungo la strada delle Colline Nilgiri. Check-in in hotel all'arrivo e relax.", "category": "activity"},
+        {"time": "Giorno 6", "title": "Visita di Ooty", "description": "Visita al Picco Doddabetta, alla Fabbrica del Tè & Museo, al Giardino Botanico, e alle Cascate & Lago di Pykara, con la guida che indica i migliori punti fotografici lungo il percorso.", "category": "activity"},
+        {"time": "Giorno 7", "title": "Ooty verso Coonoor & partenza via Coimbatore", "description": "Viaggio con il trenino di montagna Nilgiri, patrimonio UNESCO, fino a Coonoor, incluso nel pacchetto, poi visita a Sim's Park e Dolphin's Nose. Si prosegue verso l'aeroporto di Coimbatore, circa 3 ore, per proseguire il viaggio.", "category": "activity", "highlight": true}
+      ]
+    }
+  },
     "wondrous-wildernest-tour-package": {
       "file_name": "WONDROUS_WILDERNEST_2N3D_TRIP.pdf",
       "page": {
@@ -5654,167 +6273,6 @@ export const it = {
         },
       ],
     },
-    "andaman-nicobar-tour-package": {
-      file_name: "andaman-tour-for-goa.html",
-      page: {
-        slug: "andaman-nicobar-tour-for-goa",
-        type: "domestic-trip",
-        hero: {
-          "title": "Tour delle Isole Andamane e Nicobare",
-          subtitle:
-            "Scopri le spiagge incontaminate e la ricca storia delle Isole Andamane in 7 giorni",
-          backgroundImage: "/assets/hero/Andaman-hero.webp",
-          meta: {
-            duration: "7 giorno/i",
-            rating: "4.9/5 Rating",
-          },
-        },
-        language: "it",
-        "metadata": {
-          "title": "Tour Andamane e Nicobare da Goa – 6 notti e 7 giorni",
-          "description": "Fuggi da Goa per un’avventura nelle Andamane e Nicobare — spiagge coralline, island hopping, sport acquatici e visite guidate. Prenota ora la tua vacanza sull’isola!"
-        },
-      },
-      cta: {
-        headline: "Pronto per la tua avventura sull'isola?",
-        description:
-          "Prenota ora e assicurati il ​​tuo posto per un indimenticabile viaggio di 7 giorni attraverso le Isole Andamane",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto turistico per l'Isola delle Andamane.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Piccoli gruppi",
-          description: "Massimo 8 viaggiatori",
-        },
-        {
-          title: "Crociera AC",
-          description: "Trasferimenti sull'isola",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Cucina locale",
-        },
-        {
-          title: "Snorkeling",
-          description: "Spiaggia dell'Elefante",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo a Port Blair",
-          description:
-            "Arrivo all'aeroporto di Port Blair, sistemazione in hotel.Visita Cellular Jail, Corbyn's Cove Beach e assisti allo spettacolo di luci e suoni.",
-          category: "arrival",
-        },
-        {
-          time: "Day 2",
-          title: "Isola di Baratang",
-          description:
-            "Viaggio panoramico attraverso la Riserva Tribale Jarawa.Giro in barca in fibra attraverso le mangrovie e trekking alle grotte calcaree.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 3",
-          title: "Isola di Havelock",
-          description:
-            "Traghetto mattutino per l'isola di Havelock.Effettua il check-in e visita la spiaggia di Radhanagar, una delle spiagge più belle dell'Asia.",
-          category: "activity",
-        },
-        {
-          time: "Day 4",
-          title: "Spiaggia dell'Elefante",
-          description:
-            "Giro in barca fino a Elephant Beach per fare snorkeling in acque cristalline.Rilassatevi e prendete il sole sulla spiaggia incontaminata.",
-          category: "wildlife",
-          highlight: true,
-        },
-        {
-          time: "Day 5",
-          title: "Neil Isola",
-          description:
-            "Traghetto per l'isola di Neil.Esplora la spiaggia di Bharatpur, la formazione rocciosa naturale e la spiaggia di Laxmanpur per ammirare la vista del tramonto.",
-          category: "activity",
-        },
-        {
-          time: "Day 6",
-          title: "Rientro a Port Blair",
-          description:
-            "Al mattino traghetto per il ritorno a Port Blair.Effettua il check-in in hotel e goditi il ​​tempo libero per lo shopping o l'esplorazione locale.",
-          category: "activity",
-        },
-        {
-          time: "Day 7",
-          title: "Partenza",
-          description:
-            "Dopo la colazione, check-out e trasferimento all'aeroporto di Port Blair per il volo di ritorno dai ricordi indimenticabili.",
-          category: "travel",
-        },
-      ],
-      gallery: [
-        {
-          title: "Spiaggia di Radhanagar",
-          description: "La spiaggia più bella dell'Asia",
-          image: "/assets/destinations/Andaman/radhanagar.webp",
-        },
-        {
-          title: "Prigione cellulare",
-          description: "Storico Kala Pani",
-          image: "/assets/destinations/Andaman/Cellular-jail.webp",
-        },
-        {
-          title: "Spiaggia dell'Elefante",
-          description: "Paradiso dello snorkeling",
-          image: "/assets/destinations/Andaman/elephant-beach.webp",
-        },
-        {
-          title: "Neil Isola",
-          description: "Ponte naturale",
-          image: "/assets/destinations/Andaman/neil-island.webp",
-        },
-        {
-          title: "Tramonto delle Andamane",
-          description: "Serate indimenticabili",
-          image: "/assets/destinations/Andaman/andaman-sunset.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Voli di andata e ritorno",
-          description: "Biglietti aerei da Goa a Port Blair e ritorno",
-        },
-        {
-          title: "Trasferimenti in traghetto",
-          description:
-            "Biglietti crociera/traghetto AC per tutti i trasferimenti sull'isola",
-        },
-        {
-          title: "Soggiorno di 6 notti",
-          description: "Sistemazione in condivisione tripla/quadrupla",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Deliziosa colazione inclusa per tutto il soggiorno",
-        },
-        {
-          title: "Trasporto privato",
-          description:
-            "Veicolo AC per tutte le visite turistiche e i trasferimenti",
-        },
-        {
-          title: "Snorkeling",
-          description: "Snorkeling a Elephant Beach con attrezzatura",
-        },
-      ],
-    },
     "bijapur-heritage-tour": {
       file_name: "bijapur-heritage-tour-from-goa.html",
       page: {
@@ -6638,237 +7096,7 @@ export const it = {
         },
       ],
     },
-    "golden-triangle-4-day-tour-from-goa": {
-      file_name: "golden-triangle-4-day-tour-from-goa-3n4d.html",
-      page: {
-        slug: "golden-triangle-4-day-tour-from-goa-3N4D",
-        type: "domestic-trip",
-        hero: {
-          title: "Pacchetto 4G/3N Triangolo d'Oro – Delhi, Agra, Jaipur",
-          herotitle: "Fuga con il Golden Triangle Express",
-          subtitle:
-            "3 notti 4 giorni esplorando Delhi, Agra e Jaipur con visite guidate ed esperienze culturali",
-          backgroundImage: "/assets/hero/Golden-Triangle-hero.webp",
-          meta: {
-            duration: "4 giorno/i",
-            rating: "4.8/5 Rating",
-            description:
-              "Experience India’s iconic Golden Triangle with our 4D/3N tour package covering Delhi, Agra & Jaipur. Includes sightseeing, hotels, transfers & guided tours.",
-          },
-        },
-        language: "it",
-        metadata: {
-          "title": "Pacchetto Triangolo d’Oro da Goa | 4 giorni  3 notti",
-          "description": "Prenota un pacchetto Triangolo d’Oro di 4 giorni e 3 notti da Goa con Delhi, Agra e Jaipur. Include tour guidati, hotel e trasferimenti."
-        }
-      },
-      cta: {
-        headline: "Pronto per esplorare il Triangolo d'Oro?",
-        description:
-          "Prenota ora e assicurati il ​​tuo posto per un viaggio culturale indimenticabile attraverso le città iconiche dell'India",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto turistico Triangolo d'Oro 3N4D.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Piccoli gruppi",
-          description: "Massimo 15 viaggiatori",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Veicoli AC ovunque",
-        },
-        {
-          title: "Pasti inclusi",
-          description: "Colazione inclusa",
-        },
-        {
-          title: "Luoghi iconici",
-          description: "Tutte le principali attrazioni",
-        },
-      ],
-      "itinerary": [
-        {
-          "time": "Giorno 1 · Arrivo",
-          "title": "Arrivo a Delhi",
-          "description": "Arrivo all'aeroporto di Delhi seguito da incontro e accoglienza con il rappresentante del tour. Trasferimento in hotel e check-in.",
-          "category": "arrival"
-        },
-        {
-          "time": "Giorno 1 · Mattina",
-          "title": "Visita della città di Delhi",
-          "description": "Dopo essersi rinfrescati, iniziare la visita della città di Delhi includendo India Gate, Rashtrapati Bhawan (dall'esterno) e Parlamento (dall'esterno).",
-          "category": "exploration"
-        },
-        {
-          "time": "Giorno 1 · Pomeriggio",
-          "title": "Monumenti storici di Delhi",
-          "description": "Visitare Qutub Minar, la tomba di Humayun e il Tempio del Loto con spiegazioni dalla guida di lingua russa.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Giorno 1 · Sera",
-          "title": "Shopping a Connaught Place",
-          "description": "Sera libera per shopping e tempo libero a Connaught Place.",
-          "category": "exploration"
-        },
-        {
-          "time": "Giorno 1 · Notte",
-          "title": "Pernottamento a Delhi",
-          "description": "Ritorno in hotel per il pernottamento a Delhi.",
-          "category": "arrival"
-        },
-        {
-          "time": "Giorno 2 · Mattina",
-          "title": "Delhi → Agra in auto",
-          "description": "Dopo colazione in hotel, viaggio in auto da Delhi ad Agra (circa 4 ore).",
-          "category": "travel"
-        },
-        {
-          "time": "Giorno 2 · Arrivo",
-          "title": "Check-in in hotel ad Agra",
-          "description": "Arrivo ad Agra e check-in in hotel.",
-          "category": "arrival"
-        },
-        {
-          "time": "Giorno 2 · Pomeriggio",
-          "title": "Visita di Agra",
-          "description": "Visitare il Taj Mahal, il simbolo d'amore più iconico al mondo, seguito dal Forte di Agra, sito patrimonio mondiale UNESCO.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Giorno 2 · Sera",
-          "title": "Baby Taj e artigianato locale",
-          "description": "Visitare Itmad-ud-Daulah (Baby Taj) ed esplorare fabbriche di marmo locali e negozi di artigianato.",
-          "category": "exploration"
-        },
-        {
-          "time": "Giorno 2 · Notte",
-          "title": "Pernottamento ad Agra",
-          "description": "Ritorno in hotel per il pernottamento ad Agra.",
-          "category": "arrival"
-        },
-        {
-          "time": "Giorno 3 · Mattina",
-          "title": "Agra → Jaipur in auto",
-          "description": "Dopo colazione, viaggio in auto da Agra a Jaipur (circa 5 ore).",
-          "category": "travel"
-        },
-        {
-          "time": "Giorno 3 · Lungo il percorso",
-          "title": "Visita di Fatehpur Sikri",
-          "description": "Lungo il percorso visita a Fatehpur Sikri includendo Jama Masjid, Buland Darwaza, Panch Mahal e Palazzo Jodha Bai.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Giorno 3 · Arrivo",
-          "title": "Arrivo e check-in in hotel a Jaipur",
-          "description": "Continuare il viaggio verso Jaipur e fare il check-in in hotel.",
-          "category": "arrival"
-        },
-        {
-          "time": "Giorno 3 · Sera (Opzionale)",
-          "title": "Esperienza culturale Chokhi Dhani",
-          "description": "Visita serale opzionale al villaggio culturale Chokhi Dhani con cena tradizionale del Rajasthan.",
-          "category": "exploration"
-        },
-        {
-          "time": "Giorno 3 · Notte",
-          "title": "Pernottamento a Jaipur",
-          "description": "Ritorno in hotel per il pernottamento a Jaipur.",
-          "category": "arrival"
-        },
-        {
-          "time": "Giorno 4 · Mattina",
-          "title": "Visita di Jaipur",
-          "description": "Dopo colazione, iniziare la visita di Jaipur includendo Amer Fort (con giro opzionale su elefante), Jal Mahal (sosta foto) e Hawa Mahal (sosta foto).",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Giorno 4 · Pomeriggio",
-          "title": "City Palace e Jantar Mantar",
-          "description": "Visitare il City Palace e Jantar Mantar (osservatorio astronomico) con spiegazioni guidate.",
-          "category": "exploration"
-        },
-        {
-          "time": "Giorno 4 · Sera",
-          "title": "Trasferimento all'aeroporto e partenza",
-          "description": "Trasferimento serale all'aeroporto di Jaipur o Delhi per il volo di ritorno. Il tour termina con bellissimi ricordi.",
-          "category": "travel"
-        }
-      ],
-      gallery: [
-        {
-          title: "Taj Mahal",
-          description: "Monumento iconico dell'amore",
-          image: "../../assets/destinations/Golden-Triangle/Taj-Mahal.webp",
-        },
-        {
-          title: "Forte Amer",
-          description: "Il maestoso forte del Rajasthan",
-          image: "../../assets/destinations/Golden-Triangle/amber-fort.webp",
-        },
-        {
-          title: "Hawa Mahal",
-          description: "Palazzo dei Venti",
-          image: "../../assets/destinations/Golden-Triangle/Hawa-Mahal.webp",
-        },
-        {
-          title: "Qutub Minar",
-          description: "Il minareto più alto di Delhi",
-          image: "../../assets/destinations/Golden-Triangle/Qutub-Minar.webp",
-        },
-        {
-          title: "Cultura indiana",
-          description: "Ricco patrimonio e tradizioni",
-          image: "../../assets/destinations/Golden-Triangle/Culture.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Alloggio",
-          description:
-            "03 pernottamenti in hotel 3 stelle con colazione giornaliera",
-        },
-        {
-          title: "Voli di andata e ritorno",
-          description: "Biglietti aerei di andata e ritorno in classe Economy",
-        },
-        {
-          title: "Trasferimenti",
-          description:
-            "Taxi esclusivo per tutti i trasferimenti e visite turistiche",
-        },
-        {
-          title: "Pasti",
-          description: "Prima colazione giornaliera in hotel",
-        },
-        {
-          title: "Tariffe d'ingresso",
-          description:
-            "Tutti i biglietti d'ingresso ai monumenti come da itinerario",
-        },
-        {
-          title: "Guida",
-          description: "Tutte le visite turistiche con guida di lingua russa",
-        },
-        {
-          title: "Pedaggi e parcheggi",
-          description:
-            "Pedaggio, parcheggio, indennità di guida e carburante inclusi",
-        },
-      ],
-    },
+
     "golden-triangle-tour-from-goa": {
       file_name: "golden-triangle-4-day-tour-from-goa-package.html",
       page: {
@@ -8384,320 +8612,6 @@ export const it = {
         },
       ],
     },
-    "kerala-tour-package-from-goa": {
-      file_name: "Kerala-5N6D-Trip.html",
-      page: {
-        slug: "Kerala-5N6D-Trip",
-        type: "domestic-trip",
-        hero: {
-          title: "Pacchetto Viaggio nel Kerala 6 Giorni",
-          subtitle:
-            "Scopri la serena bellezza del Kerala con questo viaggio di 5 notti e 6 giorni attraverso Cochin, Munnar, Thekkady e Alleppey",
-          backgroundImage: "/assets/hero/Kerala-hero.webp",
-          meta: {
-            duration: "6 giorno/i",
-            locations: 4,
-            rating: "4.8/5 Rating",
-          },
-        },
-        language: "it",
-        "metadata": {
-          "title": "Tour di gruppo Kerala da Goa – 6 giorni di bellezza scenica",
-          "description": "Scopri la bellezza serena del Kerala con questo viaggio di 5 notti e 6 giorni tra Cochin, Munnar, Thekkady e Alleppey."
-        },
-      },
-      cta: {
-        headline: "Pronto per la tua avventura in Kerala?",
-        description:
-          "Prenota ora e assicurati il ​​tuo posto per un indimenticabile viaggio di 6 giorni attraverso il Paese di Dio",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto turistico Kerala 5N6D.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Hotel a 3 stelle",
-          description: "Sistemazione premium",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Veicolo berlina AC",
-        },
-        {
-          title: "Soggiorno in casa galleggiante",
-          description: "Alleppey Backwaters",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Tutti i pasti sulla casa galleggiante",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo a Cochin – Visita Cochin",
-          description:
-            "Arrivo all'aeroporto/stazione ferroviaria di Cochin.Trasferimento al tuo hotel.Esplora Cochin con visite turistiche locali: Fort Kochi e le iconiche reti da pesca cinesi, Mattancherry Palace (Palazzo olandese), Sinagoga ebraica (chiusa il venerdì e il sabato), Chiesa di San Francesco, Marine Drive e goditi una serena vista del tramonto.",
-          category: "arrival",
-        },
-        {
-          time: "Day 2",
-          title: "Da Cochin a Munnar (circa 4,5 ore di guida)",
-          description:
-            "Dopo la colazione, partenza per Munnar, passando per cascate panoramiche e lussureggianti piantagioni di spezie.Visite lungo il percorso: cascate di Cheeyappara e Valara, punto panoramico di Karadippara.Check-in in Hotel e relax.Serata libera per svago o passeggiata nella natura.",
-          category: "activity",
-        },
-        {
-          time: "Day 3",
-          title: "Giro turistico di Munnar",
-          description:
-            "Dopo la colazione, goditi un'intera giornata esplorando Munnar: Parco Nazionale Eravikulam (chiuso da febbraio a marzo per la stagione riproduttiva), Museo del tè, Mattupetty Dam ed Echo Point, Lago Kundala, Photo Point e Blossom Park.Attività facoltative: giro in elefante o in barca (a pagamento diretto).",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 4",
-          title: "Da Munnar a Thekkady (circa 3,5 ore di guida)",
-          description:
-            "Check out dopo colazione e partenza per Thekkady.Check-in presso il tuo hotel.Visita turistica di Thekkady: Periyar Wildlife Sanctuary con giro in barca opzionale sul lago Periyar (a proprie spese), esplorazione delle piantagioni di spezie.Attività facoltative: spettacoli culturali Kathakali o Kalaripayattu la sera.",
-          category: "wildlife",
-        },
-        {
-          time: "Day 5",
-          title: "Da Thekkady ad Alleppey – Soggiorno in casa galleggiante",
-          description:
-            "Dopo la colazione partenza per Alleppey.Check-in in una casa galleggiante deluxe con aria condizionata condivisa.Goditi una crociera memorabile attraverso gli stagni, i canali e i paesaggi dei villaggi di Alleppey.Assapora l'autentica cucina del Kerala a pranzo, tè/snack serali e cena a bordo.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 6",
-          title: "Da Alleppey a Cochin – Partenza",
-          description:
-            "Fai colazione a bordo.Sbarco dalla casa galleggiante alle 9:00.Ritorno a Cochin (circa 1,5 ore).Rientro all'aeroporto/stazione ferroviaria di Cochin per il viaggio di ritorno.",
-          category: "travel",
-        },
-      ],
-      gallery: [
-        {
-          title: "Giardini del tè di Munnar",
-          description: "Dolci colline verdi",
-          image: "/assets/destinations/Kerala/Munnar Tea Gardens.webp",
-        },
-        {
-          title: "Alleppey Backwaters",
-          description: "Esperienza serena in una casa galleggiante",
-          image: "/assets/destinations/Kerala/Alleppey Backwaters.webp",
-        },
-        {
-          title: "Santuario della fauna selvatica di Periyar",
-          description: "Giro in barca nel santuario",
-          image: "/assets/destinations/Kerala/Periyar Wildlife.webp",
-        },
-        {
-          title: "Reti da pesca Cochin",
-          description: "Iconiche reti da pesca cinesi",
-          image: "/assets/destinations/Kerala/Cochin Fishing Nets.webp",
-        },
-        {
-          title: "Stagni del Kerala",
-          description: "Corsi d'acqua tranquilli",
-          image: "/assets/destinations/Kerala/Kerala Backwaters.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Sistemazione a 3 stelle",
-          description:
-            "Soggiorni in hotel premium per 5 notti a Cochin, Munnar e Thekkady",
-        },
-        {
-          title: "Soggiorno in casa galleggiante",
-          description:
-            "1 notte in houseboat deluxe con aria condizionata ad Alleppey, compresi tutti i pasti",
-        },
-        {
-          title: "Trasporto privato",
-          description:
-            "Veicolo AC Sedan per tutti i trasferimenti e visite turistiche come da itinerario",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Colazione inclusa in tutti gli hotel (Piano CP)",
-        },
-        {
-          title: "Pasti in casa galleggiante",
-          description:
-            "Tutti i pasti sulla casa galleggiante (pranzo, tè/snack serali, cena, colazione)",
-        },
-        {
-          title: "Pedaggio e parcheggio",
-          description:
-            "Tutti i pedaggi, i parcheggi, le spese di carburante, l'indennità del conducente e i permessi sono inclusi",
-        },
-      ],
-    },
-    "ladakh-tour-package-from-goa": {
-      file_name: "ladakh-tour-package-from-goa-for-goa.html",
-      page: {
-        slug: "ladakh-tour-package-from-goa-for-goa",
-        type: "domestic-trip",
-        hero: {
-          title: "Pacchetto Viaggio nel Ladakh da Goa",
-          subtitle:
-            "Scopri i maestosi paesaggi e la ricca cultura del Ladakh in questo viaggio himalayano di 7 giorni",
-          backgroundImage: "/assets/hero/ladakh-hero.webp",
-          meta: {},
-        },
-        language: "it",
-        "metadata": {
-          "title": "Tour Ladakh 7G/6N da Goa by Global Tourist Centre",
-          "description": "Prenota un viaggio in Ladakh di 7 giorni e 6 notti da Goa. Include soggiorno in hotel, guida e trasporto."
-        },
-      },
-      cta: {
-        headline: "Pronto per la tua avventura in Ladakh?",
-        description:
-          "Prenota ora e assicurati il ​​tuo posto per un indimenticabile viaggio di 7 giorni attraverso l'Himalaya",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message: "CIAO!Mi interessa il tuo Leh, Turtuk",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Piccoli gruppi",
-          description: "Massimo 6 viaggiatori",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Innova Crista",
-        },
-        {
-          title: "Pasti inclusi",
-          description: "Colazione e cena",
-        },
-        {
-          title: "Alta quota",
-          description: "Fino a 5.359 m",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo a Leh",
-          description:
-            "Arrivo all'aeroporto Kushok Bakula Rimpochee, Leh (3.500 m).Trasferimento in hotel per l'acclimatazione.Visita il mercato di Leh e Shanti Stupa per ammirare il tramonto.",
-          category: "arrival",
-        },
-        {
-          time: "Day 2",
-          title: "Giro turistico locale di Leh",
-          description:
-            "Esplora Shanti Stupa, Palazzo Leh, Monastero Phyang, Sangam (confluenza Indo-Zanskar), Magnetic Hill e Gurudwara Pathar Sahib.",
-          category: "activity",
-        },
-        {
-          time: "Day 3",
-          title: "Leh alla Valle della Nubra",
-          description:
-            "Attraversa Khardung La Pass (5.359 m), una delle strade carrozzabili più alte del mondo.Visita al Monastero di Diskit e alle Dune di Sabbia di Hunder.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 4",
-          title: "Nubra a Turtuk",
-          description:
-            "Partenza per Turtuk, il villaggio più settentrionale dell'India.Esplora la cultura baltistana, la moschea storica, il monastero e punti panoramici mozzafiato.",
-          category: "activity",
-        },
-        {
-          time: "Day 5",
-          title: "Nubra al lago Pangong",
-          description:
-            "Guidi al lago Pangong attraverso il fiume Shyok.Lasciati stupire dalle sfumature mutevoli del lago e trascorri la serata in riva alle splendide acque.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 6",
-          title: "Da Pangong a Leh",
-          description:
-            "Ritorno a Leh attraverso il passo Chang La.Visita al Monastero di Thiksey, il più grande monastero del Ladakh, noto per la sua intricata architettura.",
-          category: "activity",
-        },
-        {
-          time: "Day 7",
-          title: "Partenza",
-          description:
-            "Dopo la colazione, trasferimento all'aeroporto di Leh per il proseguimento del viaggio con i cari ricordi dell'impareggiabile bellezza del Ladakh.",
-          category: "travel",
-        },
-      ],
-      gallery: [
-        {
-          title: "Lago Pangong",
-          description: "Cambiare tonalità di blu",
-          image: "/assets/destinations/Leh/pangong-lake.webp",
-        },
-        {
-          title: "Passo Khardung La",
-          description: "La strada carrozzabile più alta del mondo",
-          image: "/assets/destinations/Leh/khardung-la.webp",
-        },
-        {
-          title: "Valle della Nubra",
-          description: "Dune di sabbia e monasteri",
-          image: "/assets/destinations/Leh/nubra-valley.webp",
-        },
-        {
-          title: "Villaggio di Turtuk",
-          description: "Villaggio più settentrionale dell'India",
-          image: "/assets/destinations/Leh/turtuk.webp",
-        },
-        {
-          title: "Palazzo Leh",
-          description: "Storica residenza reale",
-          image: "/assets/destinations/Leh/leh-palace.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Sistemazione a 4 stelle",
-          description: "Hotel e campeggi confortevoli per 6 notti",
-        },
-        {
-          title: "Pasti",
-          description: "Colazione e cena per 6 giorni (piano MAPI)",
-        },
-        {
-          title: "Trasporto privato",
-          description:
-            "Auto privata per tutti i trasporti e le visite turistiche",
-        },
-        {
-          title: "Trasferimenti aeroportuali",
-          description: "Prelievo e rientro all'aeroporto di Leh",
-        },
-        {
-          title: "Permessi",
-          description: "Permessi per aree protette (Permesso Linea Interna)",
-        },
-        {
-          title: "Supporto dell'ossigeno",
-          description: "Bombola di ossigeno di emergenza in macchina",
-        },
-      ],
-    },
     "lakshadweep-islands-tour-package": {
       file_name: "Lakshadweep-Trip.html",
       page: {
@@ -9089,508 +9003,6 @@ export const it = {
         },
       ],
     },
-    "meghalaya-tour-package-from-goa": {
-      file_name: "Meghalaya-Tour-Package.html",
-      page: {
-        slug: "Meghalaya-Tour-Package",
-        type: "domestic-trip",
-        hero: {
-          title: "Pacchetto Viaggio nel Meghalaya 6N/7G",
-          subtitle:
-            "Scopri la Scozia dell'Est con ponti viventi, fiumi cristallini e safari nella natura",
-          backgroundImage: "/assets/hero/Meghalaya-hero.webp",
-          meta: {
-            duration: "7 giorno/i",
-            rating: "4.7/5 Rating",
-          },
-        },
-        language: "it",
-        "metadata": {
-          "title": "Pacchetto Meghalaya 6N/7G | « La Scozia dell’Est »",
-          "description": "Esplora il Meghalaya con ponti viventi di radici, fiumi cristallini, cascate e il Parco Nazionale di Kaziranga in questa avventura di 7 giorni."
-        },
-      },
-      cta: {
-        headline: "Pronto per la tua avventura a Meghalaya?",
-        description:
-          "Prenota ora ed esplora la Scozia dell'Est con una guida esperta",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto turistico Meghalaya.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Tour di gruppo",
-          description: "Esperienze condivise",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Veicolo AC ovunque",
-        },
-        {
-          title: "La maggior parte dei pasti",
-          description: "Colazione, pranzo e cena",
-        },
-        {
-          title: "Sito UNESCO",
-          description: "Parco Nazionale di Kaziranga",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 01",
-          title: "Arrivo Guwahati → Shillong",
-          description:
-            "Trasferimento all'aeroporto e trasferimento a Shillong attraverso il lago Umiam.Visita di Shillong tra cui il Museo Don Bosco e il Lago di Ward.",
-          category: "activity",
-        },
-        {
-          time: "Day 02",
-          title: "Escursione Cherrapunjee",
-          description:
-            "Visita le cascate Seven Sisters, le cascate Nohkalikai, la grotta Mawsmai e il giardino delle grotte.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 03",
-          title: "Mawlynnong e Dawki",
-          description:
-            "Visita il villaggio più pulito dell'Asia, il Living Root Bridge, il cristallino fiume Umngot e il confine tra India e Bangladesh.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 04",
-          title: "Shillong → Kaziranga",
-          description:
-            "Viaggio panoramico verso il Parco Nazionale di Kaziranga (patrimonio mondiale dell'UNESCO).Serata libera.",
-          category: "activity",
-        },
-        {
-          time: "Day 05",
-          title: "Safari a Kaziranga",
-          description:
-            "Safari mattutino in jeep nella Central Range, passeggiata nel villaggio e visita al giardino del tè.",
-          category: "wildlife",
-          highlight: true,
-        },
-        {
-          time: "Day 06",
-          title: "Kaziranga → Guwahati + Crociera",
-          description:
-            "Trasferimento a Guwahati, crociera serale sul fiume Brahmaputra (a seconda delle condizioni meteorologiche).",
-          category: "activity",
-        },
-        {
-          time: "Day 07",
-          title: "Tempio Kamakhya → Partenza",
-          description:
-            "Darshan del Tempio Kamakhya al mattino presto, trasferimento in aeroporto per la partenza.",
-          category: "travel",
-        },
-      ],
-      gallery: [
-        {
-          title: "Ponte delle radici viventi",
-          description: "Meraviglia naturale di Mawlynnong",
-          image: "/assets/destinations/Meghalaya/Living Root Bridge.webp",
-        },
-        {
-          title: "Il fiume Umngot",
-          description: "Acque cristalline di Dawki",
-          image: "/assets/destinations/Meghalaya/Umngot River.webp",
-        },
-        {
-          title: "Le Sette Sorelle Cadono",
-          description: "Maestosa cascata di Cherrapunjee",
-          image: "/assets/destinations/Meghalaya/Seven Sisters Falls.webp",
-        },
-        {
-          title: "Safari a Kaziranga",
-          description: "Sito Patrimonio dell'Umanità dell'UNESCO",
-          image: "/assets/destinations/Meghalaya/Kaziranga Safari.webp",
-        },
-        {
-          title: "Crociera sul Brahmaputra",
-          description: "Esperienza serale sul fiume",
-          image: "/assets/destinations/Meghalaya/Brahmaputra Cruise.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Sistemazione in albergo",
-          description:
-            "Sistemazione in hotel per 6 notti in doppia condivisione",
-        },
-        {
-          title: "Trasporto privato",
-          description:
-            "Veicolo AC per tutti i trasferimenti e visite turistiche",
-        },
-        {
-          title: "Tutti i pasti",
-          description: "Colazione, pranzo e cena giornalieri inclusi",
-        },
-        {
-          title: "Safari a Kaziranga",
-          description: "Safari in Jeep nella Central Range con permessi",
-        },
-        {
-          title: "Crociera sul fiume",
-          description: "Crociera sul fiume Brahmaputra (tempo permettendo)",
-        },
-        {
-          title: "Guida turistica",
-          description: "Guida esperta di lingua inglese",
-        },
-      ],
-    },
-    "north-india-heritage-tour-from-goa": {
-      file_name: "North-India-Trip.html",
-      page: {
-        slug: "North-India-Trip",
-        type: "domestic-trip",
-        hero: {
-          "title": "Pacchetto India del Nord 9N/10G",
-          subtitle: "",
-          backgroundImage: "/assets/hero/North-india-hero.webp",
-          meta: {
-            duration: "10 giorno/i",
-            rating: "4.9/5 Rating",
-          },
-        },
-        language: "it",
-        "metadata": {
-          "title": "Pacchetto India del Nord da Goa | Offerte tour storici",
-          "description": "Prenota il tuo pacchetto India del Nord da Goa ed esplora Delhi, Agra e Jaipur. Goditi siti storici, tour guidati, hotel e pianificazione di viaggio senza stress."
-        },
-      },
-      cta: {
-        headline: "Pronto per la tua avventura nell'India del Nord?",
-        description:
-          "Prenota ora e assicurati il ​​tuo posto per un viaggio culturale indimenticabile",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto di 10 giorni per l'India del Nord.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Hotel a 3 stelle",
-          description: "10 pernottamenti",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Veicolo AC ovunque",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Durante il soggiorno in albergo",
-        },
-        {
-          title: "Safari della tigre",
-          description: "Safari in Jeep a Ranthambore",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo ad Amritsar",
-          description:
-            "Arrivo ad Amritsar.Effettua il check-in in hotel e rilassati dopo il viaggio.Goditi una tranquilla passeggiata serale vicino al tuo hotel o lungo i mercati locali.",
-          category: "arrival",
-        },
-        {
-          time: "Day 2",
-          title: "Esplorando Amritsar",
-          description:
-            "Visita il Tempio d'Oro: immergiti nell'atmosfera serena e ammira la bellissima architettura.Dirigiti a Jallianwala Bagh e scopri il suo significato storico.Visita serale al confine di Wagah per la parata.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 3",
-          title: "Viaggio a Delhi in treno",
-          description:
-            "Sali sul treno da Amritsar a Delhi (il viaggio dura circa 6-7 ore).Arrivo a Delhi, sistemazione in hotel e relax.",
-          category: "activity",
-        },
-        {
-          time: "Day 4",
-          title: "Alla scoperta di Delhi",
-          description:
-            "Esplora la Vecchia Delhi: visita il Forte Rosso e Chandni Chowk per un assaggio della vita locale.Visita l'India Gate e l'area di Rashtrapati Bhavan, quindi dirigiti a Qutub Minar.Goditi la cena in un famoso ristorante di Delhi.",
-          category: "activity",
-        },
-        {
-          time: "Day 5",
-          title: "Da Delhi ad Agra",
-          description:
-            "Partenza al mattino presto per Agra su strada (circa 3-4 ore di guida).Visita il maestoso Taj Mahal.Esplora il Forte di Agra e scopri la storia di Mughal.Pernottamento ad Agra.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 6",
-          title: "Fatehpur Sikri e proseguimento per Jaipur",
-          description:
-            "Guida a Fatehpur Sikri (a circa 1 ora da Agra) e visita questo sito patrimonio mondiale dell'UNESCO.Continua il tuo viaggio verso Jaipur (circa 4-5 ore di guida).Arrivo a Jaipur e sistemazione in hotel.",
-          category: "activity",
-        },
-        {
-          time: "Day 7",
-          title: "Giro della città di Jaipur",
-          description:
-            "Visita al Forte Amber;goditi un giro in elefante o in jeep sui bastioni.Esplora il Palazzo della Città e l'osservatorio Jantar Mantar.Passeggia davanti all'Hawa Mahal e fai acquisti nei bazar locali.",
-          category: "activity",
-        },
-        {
-          time: "Day 8",
-          title: "Da Jaipur a Ranthambore",
-          description:
-            "Partenza da Jaipur per Ranthambore (circa 3-4 ore di guida).Effettua il check-in nel tuo resort di Ranthambore.Rilassati e preparati per il safari.Godetevi una piacevole serata al resort.",
-          category: "activity",
-        },
-        {
-          time: "Day 9",
-          title: "Safari della tigre a Ranthambore",
-          description:
-            "Parti per un safari con la tigre (la fascia oraria mattutina è solitamente la migliore per gli avvistamenti di animali selvatici).Rientro al resort per colazione/pranzo e un po' di tempo libero.Rilassatevi nel resort.",
-          category: "wildlife",
-          highlight: true,
-        },
-        {
-          time: "Day 10",
-          title: "Partenza da Delhi",
-          description:
-            "Dopo la colazione, check out e partenza per Delhi.A seconda dell'orario del tuo volo/treno, fai una colazione rilassata e preparati per la partenza.Dirigiti all'aeroporto/stazione ferroviaria per proseguire il viaggio.",
-          category: "travel",
-        },
-      ],
-      gallery: [
-        {
-          title: "Taj Mahal",
-          description: "Simbolo dell'amore eterno",
-          image: "/assets/destinations/North India/Taj Mahal.webp",
-        },
-        {
-          title: "Tempio d'Oro",
-          description: "Cuore spirituale di Amritsar",
-          image: "/assets/destinations/North India/Golden Temple.webp",
-        },
-        {
-          title: "Forte d'Ambra",
-          description: "Maestosa architettura Rajput",
-          image: "/assets/destinations/North India/Amber Fort.webp",
-        },
-        {
-          title: "Ranthambore",
-          description: "Avventura di avvistamento di tigri",
-          image: "/assets/destinations/North India/Ranthambore.webp",
-        },
-        {
-          title: "Palazzo della città di Jaipur",
-          description: "Patrimonio reale",
-          image: "/assets/destinations/North India/jaipur city palace.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Alloggio",
-          description: "9 notti in hotel 3 stelle",
-        },
-        {
-          title: "Trasporto",
-          description: "Veicolo AC per tutta la durata del tour",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Durante il soggiorno in albergo",
-        },
-        {
-          title: "Viaggio in treno",
-          description: "Da Amritsar a Delhi in treno",
-        },
-        {
-          title: "Safari della tigre",
-          description: "Safari in Jeep a Ranthambore",
-        },
-        {
-          title: "Guida turistica",
-          description: "Guide locali esperte",
-        },
-      ],
-    },
-    "rajasthan-royal-tour-from-goa": {
-      file_name: "Rajasthan-Trip-Package.html",
-      page: {
-        slug: "Rajasthan-Trip-Package",
-        type: "domestic-trip",
-        hero: {
-          "title": "Pacchetto Rajasthan 6N/7G",
-          subtitle:
-            "Scopri i maestosi forti, i palazzi e la cultura del Rajasthan in 7 giorni",
-          backgroundImage: "/assets/hero/Rajasthan-hero.webp",
-          meta: {
-            duration: "7 giorno/i",
-            rating: "4.8/5 Rating",
-          },
-        },
-        language: "it",
-        "metadata": {
-          "title": "Pacchetto Rajasthan – Esperienza reale di 7 giorni | Global Tourist Centre",
-          "description": "Esplora forti maestosi, palazzi e città storiche con il nostro pacchetto premium Rajasthan. 7 giorni, trasporto privato con aria condizionata, hotel storici. Prenota ora e inizia il tuo viaggio reale!"
-        },
-      },
-      cta: {
-        headline: "Pronto per la tua avventura in Rajasthan?",
-        description:
-          "Prenota ora e assicurati il ​​tuo posto per un'esperienza reale indimenticabile",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto Rajasthan 7 giorni.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Hotel storici",
-          description: "Sistemazione per 6 notti",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Veicolo AC ovunque",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Durante il soggiorno in albergo",
-        },
-        {
-          title: "Spettacoli culturali",
-          description: "Spettacoli tradizionali",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo a Jaipur",
-          description:
-            "Arrivo a Jaipur, la Città Rosa.Effettua il check-in in hotel e rilassati dopo il viaggio.In serata, esplora i mercati locali intorno al tuo hotel.",
-          category: "arrival",
-        },
-        {
-          time: "Day 2",
-          title: "Esplorando Jaipur",
-          description:
-            "Visita il magnifico Forte Amber;goditi un giro in elefante sui bastioni.Esplora il Palazzo della Città e l'osservatorio Jantar Mantar.Passeggia davanti all'Hawa Mahal e fai acquisti nei bazar locali.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 3",
-          title: "Da Jaipur a Jodhpur",
-          description:
-            "Partenza da Jaipur per Jodhpur (circa 5-6 ore di guida).Arrivo a Jodhpur, sistemazione in hotel e relax.Serata a disposizione per esplorare i mercati locali.",
-          category: "activity",
-        },
-        {
-          time: "Day 4",
-          title: "Giro della città di Jodhpur",
-          description:
-            "Visita il maestoso Forte Mehrangarh, uno dei forti più grandi dell'India.Esplora Jaswant Thada, i cenotafi reali.Passeggia nel vivace mercato di Sardar e nella zona della Torre dell'Orologio.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 5",
-          title: "Da Jodhpur a Udaipur",
-          description:
-            "Partenza da Jodhpur per Udaipur (circa 5-6 ore di guida).Arrivo a Udaipur, sistemazione in hotel e relax.Godetevi una serata serena in riva al lago.",
-          category: "activity",
-        },
-        {
-          time: "Day 6",
-          title: "Tour della città di Udaipur",
-          description:
-            "Visita al City Palace, il più grande complesso di palazzi del Rajasthan.Fai un giro in barca sul Lago Pichola per una vista mozzafiato sul Palazzo della Città e su Jag Mandir.Esplora Sahelion-ki-Bari e il Tempio Jagdish.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 7",
-          title: "Partenza da Udaipur",
-          description:
-            "Dopo la colazione, check out dal tuo hotel.A seconda dell'orario del tuo volo/treno, fai una colazione rilassata e preparati per la partenza.Dirigiti all'aeroporto/stazione ferroviaria per proseguire il viaggio.",
-          category: "travel",
-        },
-      ],
-      gallery: [
-        {
-          title: "Forte d'Ambra",
-          description: "Maestosa architettura Rajput",
-          image: "/assets/destinations/Rajasthan/Amber Fort.webp",
-        },
-        {
-          title: "Forte Mehrangarh",
-          description: "Il magnifico forte di Jodhpur",
-          image: "/assets/destinations/Rajasthan/Mehrangarh Fort.webp",
-        },
-        {
-          title: "Palazzo della città di Udaipur",
-          description: "Palazzo sul lago",
-          image: "/assets/destinations/Rajasthan/Udaipur City Palace.webp",
-        },
-        {
-          title: "Città Blu",
-          description: "Le iconiche case blu di Jodhpur",
-          image: "/assets/destinations/Rajasthan/Blue City.webp",
-        },
-        {
-          title: "Lago Pichola",
-          description: "Serene gite in barca",
-          image: "/assets/destinations/Rajasthan/Lake Pichola.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Hotel storici",
-          description: "6 notti in hotel storici",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Veicolo AC per tutta la durata del tour",
-        },
-        {
-          title: "Colazione quotidiana",
-          description: "Durante il soggiorno in albergo",
-        },
-        {
-          title: "Giro in elefante",
-          description: "Al Forte Amber di Jaipur",
-        },
-        {
-          title: "Giro in barca",
-          description: "Sul lago Pichola a Udaipur",
-        },
-        {
-          title: "Guida turistica",
-          description: "Guide locali esperte",
-        },
-      ],
-    },
     "1n-2d-shimoga-trip-package": {
       file_name: "Shimoga-trip-package.html",
       page: {
@@ -9782,330 +9194,7 @@ export const it = {
         },
       ],
     },
-    "sikkim-darjeeling-gangtok-tour-from-goa": {
-      file_name: "sikkim-tour-for-goa.html",
-      page: {
-        slug: "sikkim-tour-for-goa",
-        type: "domestic-trip",
-        hero: {
-          title: "Tour di 7 Giorni nel Sikkim da Goa",
-          subtitle:
-            "Scopri la terra dei monasteri, dei laghi glaciali e dei passi montani mozzafiato",
-          backgroundImage: "/assets/hero/Sikkim-hero.webp",
-          meta: {
-            duration: "7 giorno/i",
-            rating: "4.9/5 Rating",
-          },
-        },
-        language: "it",
-        "metadata": {
-          "title": "Tour Sikkim da Goa – 6 notti e 7 giorni | Global Tourist Centre",
-          "description": "Prenota un viaggio in Sikkim di 6 notti e 7 giorni da Goa. Include soggiorno in hotel, guida e trasporto."
-        },
-      },
-      cta: {
-        headline: "Pronto per la tua avventura nel Sikkim?",
-        description:
-          "Prenota ora ed esplora il paradiso dell'Himalaya con una guida esperta",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto turistico per il Sikkim.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Piccoli gruppi",
-          description: "Esperienza personalizzata",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Veicolo AC ovunque",
-        },
-        {
-          title: "Tutti i pasti",
-          description: "Colazione, pranzo e cena",
-        },
-        {
-          title: "Permessi inclusi",
-          description: "Tutti i permessi necessari",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 01",
-          title: "Arrivo Bagdogra → Gangtok",
-          description:
-            "Trasferimento all'aeroporto e viaggio panoramico fino a Gangtok (124 km, 5 ore).Serata libera.",
-          category: "activity",
-        },
-        {
-          time: "Day 02",
-          title: "Lago Tsomgo e Baba Mandir",
-          description:
-            "Escursione di un'intera giornata al lago Tsomgo (12.400 piedi) e Baba Harbhajan Singh Mandir.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 03",
-          title: "Passo Nathula (facoltativo)",
-          description:
-            "Visita al confine tra Indocina e Nathula Pass (14.140 piedi) con permesso speciale.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 04",
-          title: "Gangtok → Pelling",
-          description:
-            "Guidi a Pelling via Namchi, visita Siddheshwar Dham e Char Dham.",
-          category: "activity",
-        },
-        {
-          time: "Day 05",
-          title: "Giro turistico di Pelling",
-          description:
-            "Visita al lago Khecheopalri, al monastero di Pemayangtse e alle rovine di Rabdentse.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 06",
-          title: "Pelling → Darjeeling",
-          description:
-            "Guidi a Darjeeling attraverso le cascate di Rimbi e il punto panoramico di Kanchenjunga.",
-          category: "activity",
-        },
-        {
-          time: "Day 07",
-          title: "Alba sulla Collina della Tigre → Partenza",
-          description:
-            "Al mattino presto, alba sulla Tiger Hill, Monastero di Ghoom, trasferimento all'aeroporto di Bagdogra.",
-          category: "travel",
-        },
-      ],
-      gallery: [
-        {
-          title: "Lago Tsomgo",
-          description: "Lago glaciale a 12.400 piedi",
-          image: "/assets/destinations/Sikkim/tsomgo-lake.webp",
-        },
-        {
-          title: "Passo Nathula",
-          description: "Confine Indo-Cina a 14.140 piedi",
-          image: "/assets/destinations/Sikkim/nathula-pass.webp",
-        },
-        {
-          title: "Monastero di Pemayangtse",
-          description: "Uno dei monasteri più antichi del Sikkim",
-          image: "/assets/destinations/Sikkim/Pemayangtse-Monastery.webp",
-        },
-        {
-          title: "Lago Khecheopalri",
-          description: "Lago sacro a Pelling",
-          image: "/assets/destinations/Sikkim/Khecheopalri-Lake.webp",
-        },
-        {
-          title: "Alba sulla collina della tigre",
-          description: "Viste panoramiche dell'Himalaya",
-          image: "/assets/destinations/Sikkim/tiger-hill.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Sistemazione in albergo",
-          description:
-            "Sistemazione in hotel per 6 notti in doppia condivisione",
-        },
-        {
-          title: "Trasporto privato",
-          description:
-            "Veicolo AC per tutti i trasferimenti e visite turistiche",
-        },
-        {
-          title: "Tutti i pasti",
-          description: "Colazione, pranzo e cena giornalieri inclusi",
-        },
-        {
-          title: "Tutti i permessi",
-          description:
-            "Permessi per linee interne e permessi per aree speciali",
-        },
-        {
-          title: "Visite guidate",
-          description: "Tutte le visite guidate come da itinerario",
-        },
-        {
-          title: "Guida turistica",
-          description: "Guida esperta di lingua inglese",
-        },
-      ],
-    },
-    "tamil-nadu-tour-package": {
-      file_name: "Tamil-Nadu-trip.html",
-      page: {
-        slug: "Tamil-Nadu-trip",
-        type: "domestic-trip",
-        hero: {
-          title: "Pacchetto Tamil Nadu",
-          subtitle:
-            "Scopri il ricco patrimonio, i templi e le bellezze naturali del Tamil Nadu in questa esplorazione di 7 giorni",
-          backgroundImage: "/assets/hero/tamil-nadu-hero.webp",
-          meta: {
-            duration: "7 giorno/i",
-            locations: 15,
-            rating: "4.7/5 Rating",
-          },
-        },
-        language: "it",
-        "metadata": {
-          "title": "Pacchetto Tamil Nadu di 7 giorni | Global Tourist Centre",
-          "description": "Prenota un viaggio in Tamil Nadu di 7 notti e 8 giorni da Goa. Include soggiorno in hotel, guida e trasporto."
-        },
-      },
-      cta: {
-        headline: "Pronto per il tuo viaggio nel Tamil Nadu?",
-        description:
-          "Prenota ora e assicurati il ​​tuo posto per un'indimenticabile esplorazione di 7 giorni del patrimonio culturale del Tamil Nadu",
-        contact: {
-          whatsapp: {
-            number: "+919067972295",
-            message:
-              "CIAO!Sono interessato al tuo pacchetto turistico nel Tamil Nadu.Per favore mandami i dettagli.",
-          },
-          phone: "+919067972295",
-        },
-      },
-      quickInfo: [
-        {
-          title: "Piccoli gruppi",
-          description: "Massimo 8 viaggiatori",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Cabina AC",
-        },
-        {
-          title: "Colazione inclusa",
-          description: "Colazione quotidiana",
-        },
-        {
-          title: "Siti culturali",
-          description: "Templi e patrimonio",
-        },
-      ],
-      itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo a Trivandrum e trasferimento a Kanyakumari",
-          description:
-            "Arrivo all'aeroporto di Trivandrum e proseguimento per Kanyakumari (90 km | 2,5 ore).Effettua il check-in in hotel.",
-          category: "arrival",
-        },
-        {
-          time: "Day 2",
-          title: "Giro turistico di Kanyakumari",
-          description:
-            "Visita il Vivekananda Rock Memorial, la statua di Thiruvalluvar, il tempio di Kanyakumari e goditi il ​​tramonto sulla spiaggia di Kanyakumari.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 3",
-          title: "Da Kanyakumari a Rameshwaram",
-          description:
-            "Alba di primo mattino alla spiaggia di Kanyakumari.Dopo la colazione partenza per Rameshwaram (310 km | 6 ore).Visita il ponte Pamban, il Dr. A.P.J.Memoriale di Abdul Kalam e Tempio di Ramanathaswamy.",
-          category: "activity",
-        },
-        {
-          time: "Day 4",
-          title: "Rameshwaram a Madurai",
-          description:
-            "Visita Dhanushkodi (città fantasma e punto panoramico del ponte di Adamo), tempio Panchmukhi Hanuman e pietra galleggiante.Guidi a Madurai (170 km | 3,5 ore).Visita il tempio Meenakshi Amman, il palazzo Thirumalai Nayakkar e il Museo commemorativo di Gandhi.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 5",
-          title: "Madurai a Ooty",
-          description:
-            "Guidi a Ooty (330 km | 7 ore via Coimbatore).Goditi il ​​viaggio panoramico sulle colline di Nilgiri.Effettua il check-in in hotel.",
-          category: "activity",
-        },
-        {
-          time: "Day 6",
-          title: "Giro turistico di Ooty",
-          description:
-            "Visita il Doddabetta Peak (punto più alto di Ooty), la fabbrica e il museo del tè, il giardino botanico, le cascate Pykara e il lago Pykara.",
-          category: "activity",
-        },
-        {
-          time: "Day 7",
-          title: "Ooty a Coonoor e Coimbatore Drop",
-          description:
-            "Procedi a Coonoor con Toy Train (opzionale) o taxi.Visita Sim's Park e Dolphin's Nose.Procedi all'aeroporto di Coimbatore (85 km | 3 ore) per la partenza.",
-          category: "activity",
-        },
-      ],
-      gallery: [
-        {
-          title: "Tempio Meenakshi",
-          description: "Meraviglia architettonica a Madurai",
-          image: "/assets/destinations/tamil nadu/Meenakshi Temple.webp",
-        },
-        {
-          title: "Tramonto di Kanyakumari",
-          description: "Dove tre mari si incontrano",
-          image: "/assets/destinations/tamil nadu/Kanyakumari Sunset.webp",
-        },
-        {
-          title: "Giardini del tè di Ooty",
-          description: "Bellezza della montagna Nilgiri",
-          image: "/assets/destinations/tamil nadu/Ooty Tea Gardens.webp",
-        },
-        {
-          title: "Tempio di Rameshwaram",
-          description: "Luogo sacro di pellegrinaggio",
-          image: "/assets/destinations/tamil nadu/Rameshwaram Temple.webp",
-        },
-        {
-          title: "Cascate di Pykara",
-          description: "Bellezza naturale a Ooty",
-          image: "/assets/destinations/tamil nadu/Pykara Falls.webp",
-        },
-      ],
-      inclusions: [
-        {
-          title: "Sistemazione a 3 stelle",
-          description: "Hotel confortevoli per il tuo intero soggiorno",
-        },
-        {
-          title: "Colazione",
-          description: "Colazione quotidiana durante il soggiorno",
-        },
-        {
-          title: "Trasporto privato",
-          description: "Taxi privato per trasferimenti e visite turistiche",
-        },
-        {
-          title: "Servizi di guida",
-          description: "Spese del conducente, pedaggi e parcheggi inclusi",
-        },
-        {
-          title: "Visite guidate",
-          description:
-            "Itinerario ben pianificato con le principali attrazioni",
-        },
-        {
-          title: "Assistenza 24 ore su 24, 7 giorni su 7",
-          description: "Assistenza clienti durante tutto il tuo viaggio",
-        },
-      ],
-    },
+
     "varanasi-tour-package": {
       file_name: "varanasi-2n3d-trip.html",
       page: {

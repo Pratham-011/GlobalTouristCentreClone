@@ -2,30 +2,21 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
-"scripts": {
-  "dev": "next dev",
-
-  "build": "next build",
-
-  "start": "next start",
-
-  "lint": "eslint .",
-
-  "type-check": "tsc --noEmit",
-
-  "crawl": "linkinator http://localhost:3000",
-
-  "crawl:external": "linkinator https://globaltouristcentre.com",
-
-  "test:seo": "playwright test tests/seo.spec.ts",
-
-  "test": "playwright test",
-
-  "lighthouse": "lhci autorun",
-
-  "verify": "npm run lint && npm run type-check && npm run build && npm run crawl && npm run test:seo"
-},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit",
+    "crawl": "linkinator http://localhost:3000",
+    "crawl:external": "linkinator https://globaltouristcentre.com",
+    "test:seo": "playwright test tests/seo.spec.ts",
+    "test": "playwright test",
+    "lighthouse": "lhci autorun",
+    "verify": "npm run lint && npm run type-check && npm run build && npm run crawl && npm run test:seo"
+  },
   "dependencies": {
+    "@base-ui/react": "^1.7.0",
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "1.2.2",
     "@radix-ui/react-alert-dialog": "1.1.4",
@@ -75,6 +66,7 @@
     "react-icons": "^5.5.0",
     "react-resizable-panels": "^2.1.7",
     "recharts": "2.15.4",
+    "shadcn": "^4.16.2",
     "sonner": "^1.7.4",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
