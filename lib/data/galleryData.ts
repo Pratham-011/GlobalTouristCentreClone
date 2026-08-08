@@ -78,39 +78,6 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-"goa-sightseeing-tour": {
-  gallery: [
-    {
-      title: "Wildernest Nature Resort",
-      description: "Luxury in nature",
-      image: "/assets/destinations/Wildernest/resort-view.webp",
-      wikiexists: true,
-      wikilink: "https://en.wikipedia.org/wiki/Goa",
-    },
-    {
-      title: "Forest Walk",
-      description: "Explore the wilderness",
-      image: "/assets/destinations/Wildernest/forest-trek.webp",
-      wikiexists: true,
-      wikilink: "https://en.wikipedia.org/wiki/Goa",
-    },
-    {
-      title: "Pottery Session",
-      description: "Creative experience",
-      image: "/assets/destinations/Wildernest/pottery-session.webp",
-    },
-    {
-      title: "Mehendi Art",
-      description: "Traditional henna art",
-      image: "/assets/destinations/Wildernest/mehendi-art.webp",
-    },
-    {
-      title: "Sunset View",
-      description: "Breathtaking landscape",
-      image: "/assets/destinations/Wildernest/sunset-view.webp",
-    },
-  ],
-},
   "north-goa-day-excursion": {
     gallery: [
       {

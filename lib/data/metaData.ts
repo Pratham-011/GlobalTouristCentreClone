@@ -6,12 +6,6 @@ export const metaData: Record<string, any> = {
       rating: "4.9/5 Rating",
     },
   },
-  "goa-sightseeing-tour": {
-    meta: {
-      duration: "3 Tage",
-      rating: "4.8/5 Rating",
-    },
-  },
   "north-goa-day-excursion": {
     meta: {
       duration: "Full Day",
@@ -22,12 +16,6 @@ export const metaData: Record<string, any> = {
     meta: {
       duration: "4 Days",
       rating: "4.7/5 Rating",
-    },
-  },
-  "thailand-bangkok-pattaya-tour-special": {
-    meta: {
-      duration: "4 Nights / 5 Days",
-      rating: "4.6/5 Rating",
     },
   },
   "7N-8D-thailand-tour-package": {

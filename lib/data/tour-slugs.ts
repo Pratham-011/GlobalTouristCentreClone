@@ -2,15 +2,13 @@ export const LOCALES = ["en", "fr", "it", "de", "ru"] as const;
 
 export const TOUR_CATEGORIES = {
   "day-trips": [
-    "south-goa-1-day-cultural-and-beach-tour-package", // verified
-    // "south-goa-sightseeing-tour", // verified // peresnt in en.ts
+    "south-goa-1-day-cultural-and-beach-tour-package", // verified // verified // peresnt in en.ts
     "south-goa-sunset-cruise", // verified // peresnt in en.ts
     // "goa-one-day-sightseeing-tour", // verified // peresnt in en.ts
     "dudhsagar-waterfal-excursion", // verified
     "south-goa-1-day-trip-package", // verified
     "south-goa-day-exursion",
     "north-goa-day-excursion", // verified
-    // "goa-sightseeing-tour", // verified //prent in en.ts
     "hampi-day-excursions", // verified
     "luxury-yacht-day-tour-goa", // verified
     "gokarna-murdeshwar-day-excursion", // verified
@@ -68,8 +66,7 @@ export const TOUR_CATEGORIES = {
     "singapore-tour-package", // verified
     "4N-5D-bangkok-tour-package", //verified
     "7N-8D-thailand-tour-package", // verified
-    "3N-4D-thailand-tour-package", // verified
-    "thailand-bangkok-pattaya-tour-special", // verified //present in en.ts
+    "3N-4D-thailand-tour-package", // verified // verified //present in en.ts
     "8n-9d-turkey-tour-package", // verified
     "turkey-tour-package",
     "dubai-tour-package", // verified

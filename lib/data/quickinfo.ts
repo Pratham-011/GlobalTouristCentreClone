@@ -215,30 +215,6 @@ export const QuickInfoData: Record<string, any> = {
       }
     ]
   },
-  "goa-sightseeing-tour": {
-    "quickInfo": [
-      {
-        "title": "Small Groups",
-        "description": "Max 15 travelers",
-        "icon": "GROUP"
-      },
-      {
-        "title": "Private Transport",
-        "description": "AC vehicles throughout",
-        "icon": "TRANSPORT"
-      },
-      {
-        "title": "Meals Included",
-        "description": "Breakfast included",
-        "icon": "MEALS"
-      },
-      {
-        "title": "Iconic Locations",
-        "description": "All major attractions",
-        "icon": "LOCATION"
-      }
-    ]
-  },
   "3N-4D-thailand-tour-package": {
     "quickInfo": [
       {

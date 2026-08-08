@@ -67,6 +67,17 @@ export default function TourClient({ tourId }: TourClientProps) {
   const { page, cta, quickInfo, itinerary, inclusions, gallery } = data;
   const price = (data as { price?: unknown }).price;
 
+  /* Guard: some locales have tourData entries with only price/itinerary but no page */
+  // if (!page?.hero) {
+  //   return (
+  //     <main className="min-h-[60vh] flex items-center justify-center">
+  //       <p className="text-muted-foreground text-lg">
+  //         Tour details not available.
+  //       </p>
+  //     </main>
+  //   );
+  // }
+
   const hasDualPrice = isDualPrice(price);
   const hasSplitItinerary = isSplitItinerary(itinerary);
   const flatItinerary = Array.isArray(itinerary)

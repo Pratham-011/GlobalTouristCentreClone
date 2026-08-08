@@ -1883,6 +1883,7 @@ export const ru = {
   },
   tourData: {
   "sikkim-darjeeling-gangtok-tour-from-goa": {
+     "file_name": "sikkim-tour-for-goa.html", "page": { "slug": "sikkim-tour-for-goa", "type": "domestic-trip", "hero": { "title": "7-дневный тур в Сикким из Гоа", "subtitle": "Откройте для себя край монастырей, ледниковых озёр и захватывающих горных перевалов", "backgroundImage": "/assets/hero/Sikkim-hero.webp", "meta": { "duration": "7 дней", "rating": "Рейтинг 4,9/5" } }, "language": "ru", "metadata": { "title": "Тур в Сикким из Гоа – 6 ночей и 7 дней | Global Tourist Centre", "description": "Забронируйте тур в Сикким из Гоа на 6 ночей и 7 дней. Включены проживание в отеле, услуги гида и транспорт." } }, "cta": { "headline": "Готовы к приключению в Сиккиме?", "description": "Забронируйте сейчас и исследуйте гималайский рай в сопровождении опытных специалистов", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Сиккиму. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Небольшие группы", "description": "Индивидуальный формат путешествия" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль на протяжении всего тура" }, { "title": "Все приёмы пищи", "description": "Завтрак, обед и ужин" }, { "title": "Разрешения включены", "description": "Все необходимые разрешения" } ], "gallery": [ { "title": "Озеро Цомго", "description": "Ледниковое озеро на высоте 12 400 футов", "image": "/assets/destinations/Sikkim/tsomgo-lake.webp" }, { "title": "Перевал Нату-Ла", "description": "Индийско-китайская граница на высоте 14 140 футов", "image": "/assets/destinations/Sikkim/nathula-pass.webp" }, { "title": "Монастырь Пемаянгце", "description": "Один из старейших монастырей Сиккима", "image": "/assets/destinations/Sikkim/Pemayangtse-Monastery.webp" }, { "title": "Озеро Кхечопалри", "description": "Священное озеро в Пеллинге", "image": "/assets/destinations/Sikkim/Khecheopalri-Lake.webp" }, { "title": "Рассвет на Тигровом холме", "description": "Панорамные виды на Гималаи", "image": "/assets/destinations/Sikkim/tiger-hill.webp" } ], "inclusions": [ { "title": "Проживание в отеле", "description": "6 ночей в отеле в номерах с размещением на двоих" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль для всех трансферов и экскурсий" }, { "title": "Все приёмы пищи", "description": "Ежедневный завтрак, обед и ужин включены" }, { "title": "Все разрешения", "description": "Внутренние разрешения и специальные разрешения для охраняемых территорий" }, { "title": "Экскурсии", "description": "Все экскурсии согласно программе тура" }, { "title": "Гид", "description": "Опытный англоговорящий гид" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Сикким, два пакета",
@@ -1952,6 +1953,7 @@ export const ru = {
     }
   },
   "ladakh-tour-package-from-goa": {
+    "file_name": "ladakh-tour-package-from-goa-for-goa.html", "page": { "slug": "ladakh-tour-package-from-goa-for-goa", "type": "domestic-trip", "hero": { "title": "Тур в Ладакх из Гоа", "subtitle": "Откройте для себя величественные пейзажи и богатую культуру Ладакха во время этого 7-дневного путешествия по Гималаям", "backgroundImage": "/assets/hero/ladakh-hero.webp", "meta": {} }, "language": "ru", "metadata": { "title": "Тур в Ладакх 7Д/6Н из Гоа | Global Tourist Centre", "description": "Забронируйте 7-дневный тур в Ладакх из Гоа с 6 ночёвками. Включены проживание в отеле, услуги гида и транспорт." } }, "cta": { "headline": "Готовы к приключению в Ладакхе?", "description": "Забронируйте сейчас и отправляйтесь в незабываемое 7-дневное путешествие по Гималаям", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашей поездке в Лех и Туртук." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Небольшие группы", "description": "Макс. 6 путешественников" }, { "title": "Частный транспорт", "description": "Innova Crysta" }, { "title": "Питание включено", "description": "Завтрак и ужин" }, { "title": "Большая высота", "description": "До 5 359 м" } ], "gallery": [ { "title": "Озеро Пангонг", "description": "Вода, меняющая оттенки синего", "image": "/assets/destinations/Leh/pangong-lake.webp" }, { "title": "Перевал Кхардунг-Ла", "description": "Одна из самых высокогорных автомобильных дорог в мире", "image": "/assets/destinations/Leh/khardung-la.webp" }, { "title": "Долина Нубра", "description": "Песчаные дюны и монастыри", "image": "/assets/destinations/Leh/nubra-valley.webp" }, { "title": "Деревня Туртук", "description": "Самая северная деревня Индии", "image": "/assets/destinations/Leh/turtuk.webp" }, { "title": "Лехский дворец", "description": "Историческая королевская резиденция", "image": "/assets/destinations/Leh/leh-palace.webp" } ], "inclusions": [ { "title": "Проживание 4 звезды", "description": "Комфортабельные отели и кемпинги на 6 ночей" }, { "title": "Питание", "description": "Завтрак и ужин в течение 6 дней (план MAPI)" }, { "title": "Частный транспорт", "description": "Частный автомобиль для всех трансферов и экскурсий" }, { "title": "Трансфер из аэропорта", "description": "Встреча и трансфер в аэропорт Леха и обратно" }, { "title": "Разрешения", "description": "Разрешения для охраняемых территорий (Inner Line Permit)" }, { "title": "Кислородная поддержка", "description": "Аварийный кислородный баллон в автомобиле" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Ладакх, два пакета",
@@ -2021,6 +2023,7 @@ export const ru = {
     }
   },
   "meghalaya-tour-package-from-goa": {
+   "file_name": "Meghalaya-Tour-Package.html", "page": { "slug": "Meghalaya-Tour-Package", "type": "domestic-trip", "hero": { "title": "Тур по Мегхалае 6Н/7Д", "subtitle": "Откройте для себя «Шотландию Востока» с живыми корневыми мостами, кристально чистыми реками и сафари по дикой природе", "backgroundImage": "/assets/hero/Meghalaya-hero.webp", "meta": { "duration": "7 дней", "rating": "Рейтинг 4,7/5" } }, "language": "ru", "metadata": { "title": "Тур по Мегхалае 6Н/7Д | Шотландия Востока", "description": "Исследуйте живые корневые мосты Мегхалаи, кристально чистые реки, водопады и национальный парк Казиранга во время этого 7-дневного приключения." } }, "cta": { "headline": "Готовы к приключению в Мегхалае?", "description": "Забронируйте сейчас и откройте для себя «Шотландию Востока» в сопровождении опытных специалистов", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Мегхалае. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Групповые туры", "description": "Совместные впечатления" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль на протяжении всего тура" }, { "title": "Большинство приёмов пищи", "description": "Завтрак, обед и ужин" }, { "title": "Объект ЮНЕСКО", "description": "Национальный парк Казиранга" } ], "gallery": [ { "title": "Живой корневой мост", "description": "Природное чудо Мавлиннонга", "image": "/assets/destinations/Meghalaya/Living Root Bridge.webp" }, { "title": "Река Умнгот", "description": "Кристально чистые воды Давки", "image": "/assets/destinations/Meghalaya/Umngot River.webp" }, { "title": "Водопад Семь сестёр", "description": "Величественный водопад Черрапунджи", "image": "/assets/destinations/Meghalaya/Seven Sisters Falls.webp" }, { "title": "Сафари в Казиранге", "description": "Объект Всемирного наследия ЮНЕСКО", "image": "/assets/destinations/Meghalaya/Kaziranga Safari.webp" }, { "title": "Круиз по Брахмапутре", "description": "Вечерняя прогулка по реке", "image": "/assets/destinations/Meghalaya/Brahmaputra Cruise.webp" } ], "inclusions": [ { "title": "Проживание в отеле", "description": "6 ночей в отеле с размещением в номере на двоих" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль для всех трансферов и экскурсий" }, { "title": "Все приёмы пищи", "description": "Ежедневный завтрак, обед и ужин включены" }, { "title": "Сафари в Казиранге", "description": "Джип-сафари в Центральной зоне с необходимыми разрешениями" }, { "title": "Речной круиз", "description": "Круиз по реке Брахмапутра (при подходящих погодных условиях)" }, { "title": "Гид", "description": "Опытный англоговорящий гид" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Мегхалая, два пакета",
@@ -2090,6 +2093,7 @@ export const ru = {
     }
   },
   "north-india-heritage-tour-from-goa": {
+    "file_name": "North-India-Trip.html", "page": { "slug": "North-India-Trip", "type": "domestic-trip", "hero": { "title": "Тур по Северной Индии на 9 ночей и 10 дней", "subtitle": "", "backgroundImage": "/assets/hero/North-india-hero.webp", "meta": { "duration": "10 дней", "rating": "Рейтинг 4,9/5" } }, "language": "ru", "metadata": { "title": "Тур по Северной Индии из Гоа | Туры по историческим достопримечательностям", "description": "Забронируйте тур по Северной Индии из Гоа и посетите Дели, Агру и Джайпур. Вас ждут исторические достопримечательности, экскурсии с гидом, отели и удобное планирование путешествия." } }, "cta": { "headline": "Готовы к приключению в Северной Индии?", "description": "Забронируйте сейчас и обеспечьте себе место в незабываемом культурном путешествии", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем 10-дневном туре по Северной Индии. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Отели 3 звезды", "description": "10 ночей проживания" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль на протяжении всего тура" }, { "title": "Ежедневный завтрак", "description": "Во время проживания в отелях" }, { "title": "Сафари с тиграми", "description": "Джип-сафари в Рантхамборе" } ], "gallery": [ { "title": "Тадж-Махал", "description": "Символ вечной любви", "image": "/assets/destinations/North India/Taj Mahal.webp" }, { "title": "Золотой храм", "description": "Духовное сердце Амритсара", "image": "/assets/destinations/North India/Golden Temple.webp" }, { "title": "Форт Амбер", "description": "Величественная архитектура раджпутов", "image": "/assets/destinations/North India/Amber Fort.webp" }, { "title": "Рантхамбор", "description": "Захватывающее сафари в поисках тигров", "image": "/assets/destinations/North India/Ranthambore.webp" }, { "title": "Городской дворец Джайпура", "description": "Королевское наследие", "image": "/assets/destinations/North India/jaipur city palace.webp" } ], "inclusions": [ { "title": "Проживание", "description": "9 ночей в отелях 3 звезды" }, { "title": "Транспорт", "description": "Кондиционированный автомобиль на протяжении всего тура" }, { "title": "Ежедневный завтрак", "description": "Во время проживания в отелях" }, { "title": "Поездка на поезде", "description": "Поезд из Амритсара в Дели" }, { "title": "Сафари с тиграми", "description": "Джип-сафари в Рантхамборе" }, { "title": "Гид", "description": "Опытные местные гиды" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Северная Индия, два пакета",
@@ -2165,6 +2169,7 @@ export const ru = {
     }
   },
   "andaman-nicobar-tour-package": {
+     "file_name": "andaman-tour-for-goa.html", "page": { "slug": "andaman-nicobar-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Тур по Андаманским и Никобарским островам", "subtitle": "Откройте для себя нетронутые пляжи и богатую историю Андаманских островов за 7 дней", "backgroundImage": "/assets/hero/Andaman-hero.webp", "meta": { "duration": "7 дней", "rating": "Рейтинг 4,9/5" } }, "language": "ru", "metadata": { "title": "Тур на Андаманские и Никобарские острова из Гоа — 6 ночей и 7 дней", "description": "Отправьтесь из Гоа в незабываемое путешествие по Андаманским островам — вас ждут коралловые пляжи, путешествия между островами, водные развлечения и экскурсии с опытными гидами. Забронируйте свой островной отдых прямо сейчас!" } }, "cta": { "headline": "Готовы к островному приключению?", "description": "Забронируйте сейчас и обеспечьте себе место в незабываемом 7-дневном путешествии по Андаманским островам", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Андаманским островам. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Небольшие группы", "description": "Макс. 8 путешественников" }, { "title": "Круиз с кондиционером", "description": "Трансферы между островами" }, { "title": "Ежедневный завтрак", "description": "Местная кухня" }, { "title": "Снорклинг", "description": "Elephant Beach" } ], "gallery": [ { "title": "Пляж Радханагар", "description": "Один из самых красивых пляжей Азии", "image": "/assets/destinations/Andaman/radhanagar.webp" }, { "title": "Сотовая тюрьма", "description": "Историческое место Кала-Пани", "image": "/assets/destinations/Andaman/Cellular-jail.webp" }, { "title": "Elephant Beach", "description": "Рай для любителей снорклинга", "image": "/assets/destinations/Andaman/elephant-beach.webp" }, { "title": "Остров Нил", "description": "Природный мост", "image": "/assets/destinations/Andaman/neil-island.webp" }, { "title": "Закат на Андаманах", "description": "Незабываемые вечера", "image": "/assets/destinations/Andaman/andaman-sunset.webp" } ], "inclusions": [ { "title": "Перелёт туда и обратно", "description": "Авиабилеты из Гоа в Порт-Блэр и обратно" }, { "title": "Паромные трансферы", "description": "Билеты на скоростные паромы/круизы с кондиционером для всех трансферов между островами" }, { "title": "6 ночей проживания", "description": "Размещение на трёхместной или четырёхместной основе" }, { "title": "Ежедневный завтрак", "description": "Вкусный завтрак включён на протяжении всего пребывания" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль для всех экскурсий и трансферов" }, { "title": "Снорклинг", "description": "Снорклинг на Elephant Beach с необходимым оборудованием" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Андаманские острова, два пакета",
@@ -2234,6 +2239,60 @@ export const ru = {
     }
   },
   "golden-triangle-4-day-tour-from-goa": {
+    "file_name": "golden-triangle-4-day-tour-from-goa-3n4d.html", 
+    "page": {
+      "slug": "golden-triangle-4-day-tour-from-goa-3N4D",
+      "type": "domestic-trip",
+      "hero": {
+        "title": "Тур по Золотому треугольнику 4Д/3Н – Дели, Агра и Джайпур",
+        "herotitle": "Экспресс-путешествие по Золотому треугольнику",
+        "subtitle": "3 ночи и 4 дня с посещением Дели, Агры и Джайпура, включая экскурсии с гидом и знакомство с культурой",
+        "backgroundImage": "/assets/hero/Golden-Triangle-hero.webp",
+        "meta": {
+          "duration": "4 дня",
+          "rating": "Рейтинг 4,8/5",
+          "description": "Познакомьтесь с легендарным Золотым треугольником Индии в рамках нашего тура 4Д/3Н по Дели, Агре и Джайпуру. В программу входят экскурсии, отели, трансферы и услуги гида."
+        }
+      },
+      "language": "ru",
+      "metadata": {
+        "title": "Тур по Золотому треугольнику из Гоа | 4 дня и 3 ночи",
+        "description": "Забронируйте тур по Золотому треугольнику из Гоа на 4 дня и 3 ночи с посещением Дели, Агры и Джайпура. Включены экскурсии с гидом, отели и трансферы"
+      }
+    },
+    "cta": {
+      "headline": "Готовы к приключению по Золотому треугольнику?",
+      "description": "Забронируйте сейчас и обеспечьте себе место в незабываемом культурном путешествии по самым известным направлениям Индии",
+      "contact": {
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Золотому треугольнику на 3 ночи и 4 дня. Пожалуйста, отправьте мне подробную информацию."
+        },
+        "phone": "+919067972295"
+      }
+    },
+    "quickInfo": [
+      { "title": "Небольшие группы", "description": "Макс. 15 путешественников" },
+      { "title": "Частный транспорт", "description": "Кондиционированный транспорт на протяжении всего тура" },
+      { "title": "Питание включено", "description": "Завтрак включён" },
+      { "title": "Знаковые достопримечательности", "description": "Все основные достопримечательности" }
+    ],
+    "gallery": [
+      { "title": "Тадж-Махал", "description": "Знаменитый символ любви", "image": "../../assets/destinations/Golden-Triangle/Taj-Mahal.webp" },
+      { "title": "Форт Амбер", "description": "Величественный форт Раджастхана", "image": "../../assets/destinations/Golden-Triangle/amber-fort.webp" },
+      { "title": "Хава-Махал", "description": "Дворец ветров", "image": "../../assets/destinations/Golden-Triangle/Hawa-Mahal.webp" },
+      { "title": "Кутб-Минар", "description": "Самый высокий минарет Дели", "image": "../../assets/destinations/Golden-Triangle/Qutub-Minar.webp" },
+      { "title": "Индийская культура", "description": "Богатое культурное наследие и традиции", "image": "../../assets/destinations/Golden-Triangle/Culture.webp" }
+    ],
+    "inclusions": [
+      { "title": "Проживание", "description": "3 ночи в отелях 3 звезды с ежедневным завтраком" },
+      { "title": "Перелёты туда и обратно", "description": "Авиабилеты туда и обратно эконом-класса" },
+      { "title": "Трансферы", "description": "Индивидуальный автомобиль для всех трансферов и экскурсий" },
+      { "title": "Питание", "description": "Ежедневный завтрак в отеле" },
+      { "title": "Входные билеты", "description": "Все входные билеты на памятники согласно программе тура" },
+      { "title": "Гид", "description": "Все экскурсии с русскоязычным гидом" },
+      { "title": "Платные дороги и парковка", "description": "Платные дороги, парковка, услуги водителя и топливо включены" }
+    ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Золотой треугольник, два пакета",
@@ -2297,6 +2356,20 @@ export const ru = {
     }
   },
   "kerala-tour-package-from-goa": {
+    "file_name": "Kerala-5N6D-Trip.html",
+    "page": { 
+      "slug": "Kerala-5N6D-Trip", 
+      "type": "domestic-trip", 
+      "hero": { 
+        "title": "6-дневный тур по Керале", 
+        "subtitle": "Откройте для себя спокойную красоту Кералы во время 5 ночей и 6 дней путешествия через Кочин, Муннар, Теккади и Аллеппи", 
+        "backgroundImage": "/assets/hero/Kerala-hero.webp", 
+        "meta": { "duration": "6 дней", "locations": 4, "rating": "Рейтинг 4,8/5" } },
+         "language": "ru",
+          "metadata": {
+             "title": "Групповой тур по Керале из Гоа – 6 дней живописных пейзажей",
+              "description": "Откройте для себя спокойную красоту Кералы во время 5 ночей и 6 дней путешествия через Кочин, Муннар, Теккади и Аллеппи" 
+            } }, "cta": { "headline": "Готовы к приключению в Керале?", "description": "Забронируйте сейчас и обеспечьте себе место в незабываемом 6-дневном путешествии по «стране Бога»", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Керале на 5 ночей и 6 дней. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Отели 3 звезды", "description": "Комфортное размещение" }, { "title": "Частный транспорт", "description": "Кондиционированный седан" }, { "title": "Проживание на хаусботе", "description": "Заводи Аллеппи" }, { "title": "Ежедневный завтрак", "description": "Все блюда на хаусботе" } ], "gallery": [ { "title": "Чайные плантации Муннара", "description": "Живописные зелёные холмы", "image": "/assets/destinations/Kerala/Munnar Tea Gardens.webp" }, { "title": "Заводи Аллеппи", "description": "Спокойный отдых на хаусботе", "image": "/assets/destinations/Kerala/Alleppey Backwaters.webp" }, { "title": "Заповедник дикой природы Перияр", "description": "Прогулка на лодке по заповеднику", "image": "/assets/destinations/Kerala/Periyar Wildlife.webp" }, { "title": "Рыбацкие сети Кочина", "description": "Знаменитые китайские рыболовные сети", "image": "/assets/destinations/Kerala/Cochin Fishing Nets.webp" }, { "title": "Заводи Кералы", "description": "Тихие водные каналы", "image": "/assets/destinations/Kerala/KeralaBackwaters.webp" } ], "inclusions": [ { "title": "Проживание в отелях 3 звезды", "description": "Комфортное проживание в отелях в течение 5 ночей в Кочине, Муннаре и Теккади" }, { "title": "Проживание на хаусботе", "description": "1 ночь на общем роскошном хаусботе с кондиционером в Аллеппи, включая все блюда" }, { "title": "Частный транспорт", "description": "Кондиционированный седан для всех трансферов и экскурсий согласно программе" }, { "title": "Ежедневный завтрак", "description": "Завтрак во всех отелях включён (тариф CP)" }, { "title": "Питание на хаусботе", "description": "Все блюда на хаусботе (обед, вечерний чай/закуски, ужин, завтрак)" }, { "title": "Платные дороги и парковка", "description": "Все расходы на платные дороги, парковку, топливо, суточные водителя и разрешения включены" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Керала, два пакета",
@@ -2364,6 +2437,7 @@ export const ru = {
     }
   },
   "rajasthan-royal-tour-from-goa": {
+   "file_name": "Rajasthan-Trip-Package.html", "page": { "slug": "Rajasthan-Trip-Package", "type": "domestic-trip", "hero": { "title": "Тур по Раджастхану на 6 ночей и 7 дней", "subtitle": "Откройте для себя величественные крепости, дворцы и богатую культуру Раджастхана за 7 дней", "backgroundImage": "/assets/hero/Rajasthan-hero.webp", "meta": { "duration": "7 дней", "rating": "Рейтинг 4,8/5" } }, "language": "ru", "metadata": { "title": "Тур по Раджастхану – 7-дневное королевское путешествие | Global Tourist Centre", "description": "Исследуйте величественные крепости, дворцы и исторические города с нашим премиальным туром по Раджастхану. 7 дней, частный транспорт с кондиционером и исторические отели. Забронируйте сейчас и отправляйтесь в своё королевское путешествие!" } }, "cta": { "headline": "Готовы к приключению в Раджастхане?", "description": "Забронируйте сейчас и обеспечьте себе место для незабываемого королевского путешествия", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем 7-дневном туре по Раджастхану. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Исторические отели", "description": "6 ночей проживания" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль на протяжении всего тура" }, { "title": "Ежедневный завтрак", "description": "Во время проживания в отелях" }, { "title": "Культурные шоу", "description": "Традиционные представления" } ], "gallery": [ { "title": "Форт Амбер", "description": "Величественная архитектура раджпутов", "image": "/assets/destinations/Rajasthan/Amber Fort.webp" }, { "title": "Форт Мехрангарх", "description": "Великолепная крепость Джодхпура", "image": "/assets/destinations/Rajasthan/Mehrangarh Fort.webp" }, { "title": "Городской дворец Удайпура", "description": "Дворец на берегу озера", "image": "/assets/destinations/Rajasthan/Udaipur City Palace.webp" }, { "title": "Голубой город", "description": "Знаменитые голубые дома Джодхпура", "image": "/assets/destinations/Rajasthan/Blue City.webp" }, { "title": "Озеро Пичола", "description": "Спокойные прогулки на лодке", "image": "/assets/destinations/Rajasthan/Lake Pichola.webp" } ], "inclusions": [ { "title": "Исторические отели", "description": "6 ночей проживания в исторических отелях" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль на протяжении всего тура" }, { "title": "Ежедневный завтрак", "description": "Во время проживания в отелях" }, { "title": "Катание на слоне", "description": "В форте Амбер в Джайпуре" }, { "title": "Прогулка на лодке", "description": "На озере Пичола в Удайпуре" }, { "title": "Гид", "description": "Опытные местные гиды" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Раджастхан, два пакета",
@@ -2433,6 +2507,7 @@ export const ru = {
     }
   },
   "tamil-nadu-tour-package": {
+    "file_name": "Tamil-Nadu-trip.html", "page": { "slug": "Tamil-Nadu-trip", "type": "domestic-trip", "hero": { "title": "Тур по Тамилнаду", "subtitle": "Откройте для себя богатое культурное наследие, храмы и природную красоту Тамилнаду во время этого 7-дневного путешествия", "backgroundImage": "/assets/hero/tamil-nadu-hero.webp", "meta": { "duration": "7 дней", "locations": 15, "rating": "Рейтинг 4,7/5" } }, "language": "ru", "metadata": { "title": "7-дневный тур по Тамилнаду | Global Tourist Centre", "description": "Забронируйте тур по Тамилнаду из Гоа на 7 ночей и 8 дней. Включены проживание в отелях, услуги гида и транспорт." } }, "cta": { "headline": "Готовы отправиться в путешествие по Тамилнаду?", "description": "Забронируйте сейчас и обеспечьте себе место в незабываемом 7-дневном путешествии по культурному наследию Тамилнаду", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Тамилнаду. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Небольшие группы", "description": "Макс. 8 путешественников" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль" }, { "title": "Завтрак включён", "description": "Ежедневный завтрак" }, { "title": "Культурные достопримечательности", "description": "Храмы и историческое наследие" } ], "gallery": [ { "title": "Храм Минакши", "description": "Архитектурное чудо в Мадурае", "image": "/assets/destinations/tamil nadu/Meenakshi Temple.webp" }, { "title": "Закат в Каньякумари", "description": "Место встречи трёх морей", "image": "/assets/destinations/tamil nadu/Kanyakumari Sunset.webp" }, { "title": "Чайные плантации Ути", "description": "Красота гор Нилгири", "image": "/assets/destinations/tamil nadu/Ooty Tea Gardens.webp" }, { "title": "Храм Рамешварам", "description": "Святое место паломничества", "image": "/assets/destinations/tamil nadu/Rameshwaram Temple.webp" }, { "title": "Водопады Пикара", "description": "Природная красота Ути", "image": "/assets/destinations/tamil nadu/Pykara Falls.webp" } ], "inclusions": [ { "title": "Проживание в отелях 3 звезды", "description": "Комфортабельные отели на протяжении всего путешествия" }, { "title": "Завтрак", "description": "Ежедневный завтрак во время проживания" }, { "title": "Частный транспорт", "description": "Частный автомобиль для трансферов и экскурсий" }, { "title": "Услуги водителя", "description": "Оплата услуг водителя, дорожные сборы и парковка включены" }, { "title": "Экскурсии с гидом", "description": "Хорошо спланированный маршрут с посещением главных достопримечательностей" }, { "title": "Поддержка 24/7", "description": "Поддержка клиентов на протяжении всего путешествия" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Тамил Наду, два пакета",

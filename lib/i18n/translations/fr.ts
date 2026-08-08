@@ -1889,6 +1889,7 @@ internationalhero: "Explorez le monde",
 
   tourData: {
   "sikkim-darjeeling-gangtok-tour-from-goa": {
+   "file_name": "sikkim-tour-for-goa.html", "page": { "slug": "sikkim-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Circuit de 7 jours au Sikkim depuis Goa", "subtitle": "Découvrez le pays des monastères, des lacs glaciaires et des cols de montagne à couper le souffle", "backgroundImage": "/assets/hero/Sikkim-hero.webp", "meta": { "duration": "7 jours", "rating": "Note de 4,9/5" } }, "language": "fr", "metadata": { "title": "Circuit au Sikkim depuis Goa – 6 nuits & 7 jours | Global Tourist Centre", "description": "Réservez un circuit de 6 nuits et 7 jours au Sikkim depuis Goa. Hébergement, guide et transport inclus." } }, "cta": { "headline": "Prêt pour votre aventure au Sikkim ?", "description": "Réservez maintenant et explorez le paradis himalayen avec un accompagnement expert", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit au Sikkim. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Petits groupes", "description": "Expérience personnalisée" }, { "title": "Transport privé", "description": "Véhicule climatisé pendant tout le circuit" }, { "title": "Tous les repas", "description": "Petit-déjeuner, déjeuner et dîner" }, { "title": "Permis inclus", "description": "Tous les permis nécessaires" } ], "gallery": [ { "title": "Lac Tsomgo", "description": "Lac glaciaire à 3 780 m d'altitude", "image": "/assets/destinations/Sikkim/tsomgo-lake.webp" }, { "title": "Col de Nathu-La", "description": "Frontière indo-chinoise à 4 310 m d'altitude", "image": "/assets/destinations/Sikkim/nathula-pass.webp" }, { "title": "Monastère de Pemayangtse", "description": "L'un des plus anciens monastères du Sikkim", "image": "/assets/destinations/Sikkim/Pemayangtse-Monastery.webp" }, { "title": "Lac Khecheopalri", "description": "Lac sacré de Pelling", "image": "/assets/destinations/Sikkim/Khecheopalri-Lake.webp" }, { "title": "Lever du soleil à Tiger Hill", "description": "Vues panoramiques sur l'Himalaya", "image": "/assets/destinations/Sikkim/tiger-hill.webp" } ], "inclusions": [ { "title": "Hébergement à l'hôtel", "description": "6 nuits d'hébergement en chambre double" }, { "title": "Transport privé", "description": "Véhicule climatisé pour tous les transferts et visites" }, { "title": "Tous les repas", "description": "Petit-déjeuner, déjeuner et dîner quotidiens inclus" }, { "title": "Tous les permis", "description": "Permis intérieurs et permis spéciaux pour les zones protégées" }, { "title": "Excursions", "description": "Toutes les visites touristiques selon l'itinéraire" }, { "title": "Guide touristique", "description": "Guide expérimenté anglophone" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Sikkim, deux formules",
@@ -1958,6 +1959,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "ladakh-tour-package-from-goa": {
+  "file_name": "ladakh-tour-package-from-goa-for-goa.html", "page": { "slug": "ladakh-tour-package-from-goa-for-goa", "type": "domestic-trip", "hero": { "title": "Circuit au Ladakh depuis Goa", "subtitle": "Découvrez les paysages majestueux et la riche culture du Ladakh lors de ce voyage de 7 jours dans l'Himalaya", "backgroundImage": "/assets/hero/ladakh-hero.webp", "meta": {} }, "language": "fr", "metadata": { "title": "Circuit au Ladakh 7J/6N depuis Goa | Global Tourist Centre", "description": "Réservez un circuit de 7 jours au Ladakh depuis Goa avec 6 nuits. Hébergement, guide et transport inclus." } }, "cta": { "headline": "Prêt pour votre aventure au Ladakh ?", "description": "Réservez maintenant et assurez votre place pour un voyage inoubliable de 7 jours à travers l'Himalaya", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre voyage à Leh et Turtuk." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Petits groupes", "description": "6 voyageurs maximum" }, { "title": "Transport privé", "description": "Innova Crysta" }, { "title": "Repas inclus", "description": "Petit-déjeuner et dîner" }, { "title": "Haute altitude", "description": "Jusqu'à 5 359 m" } ], "gallery": [ { "title": "Lac Pangong", "description": "Des nuances de bleu changeantes", "image": "/assets/destinations/Leh/pangong-lake.webp" }, { "title": "Col de Khardung La", "description": "L'une des routes carrossables les plus hautes du monde", "image": "/assets/destinations/Leh/khardung-la.webp" }, { "title": "Vallée de Nubra", "description": "Dunes de sable et monastères", "image": "/assets/destinations/Leh/nubra-valley.webp" }, { "title": "Village de Turtuk", "description": "Village le plus septentrional de l'Inde", "image": "/assets/destinations/Leh/turtuk.webp" }, { "title": "Palais de Leh", "description": "Ancienne résidence royale historique", "image": "/assets/destinations/Leh/leh-palace.webp" } ], "inclusions": [ { "title": "Hébergement 4 étoiles", "description": "Hôtels et camps confortables pour 6 nuits" }, { "title": "Repas", "description": "Petit-déjeuner et dîner pendant 6 jours (formule MAPI)" }, { "title": "Transport privé", "description": "Véhicule privé pour tous les transports et visites" }, { "title": "Transferts aéroport", "description": "Prise en charge et retour à l'aéroport de Leh" }, { "title": "Permis", "description": "Permis pour les zones protégées (Inner Line Permit)" }, { "title": "Assistance en oxygène", "description": "Bouteille d'oxygène d'urgence dans le véhicule" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Ladakh, deux formules",
@@ -2027,6 +2029,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "meghalaya-tour-package-from-goa": {
+    "file_name": "Meghalaya-Tour-Package.html", "page": { "slug": "Meghalaya-Tour-Package", "type": "domestic-trip", "hero": { "title": "Circuit de 6N/7J au Meghalaya", "subtitle": "Découvrez l’Écosse de l’Est avec ses ponts en racines vivantes, ses rivières cristallines et ses safaris animaliers", "backgroundImage": "/assets/hero/Meghalaya-hero.webp", "meta": { "duration": "7 jours", "rating": "Note de 4,7/5" } }, "language": "fr", "metadata": { "title": "Circuit Meghalaya 6N/7J | L’Écosse de l’Est", "description": "Explorez les ponts en racines vivantes, les rivières cristallines, les cascades du Meghalaya et le parc national de Kaziranga lors de cette aventure de 7 jours." } }, "cta": { "headline": "Prêt pour votre aventure au Meghalaya ?", "description": "Réservez maintenant et explorez l’Écosse de l’Est avec un accompagnement expert", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit au Meghalaya. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Circuits en groupe", "description": "Expériences partagées" }, { "title": "Transport privé", "description": "Véhicule climatisé pendant tout le circuit" }, { "title": "La plupart des repas", "description": "Petit-déjeuner, déjeuner et dîner" }, { "title": "Site UNESCO", "description": "Parc national de Kaziranga" } ], "gallery": [ { "title": "Pont en racines vivantes", "description": "Merveille naturelle de Mawlynnong", "image": "/assets/destinations/Meghalaya/Living Root Bridge.webp" }, { "title": "Rivière Umngot", "description": "Les eaux cristallines de Dawki", "image": "/assets/destinations/Meghalaya/Umngot River.webp" }, { "title": "Cascades des Sept Sœurs", "description": "La majestueuse cascade de Cherrapunjee", "image": "/assets/destinations/Meghalaya/Seven Sisters Falls.webp" }, { "title": "Safari à Kaziranga", "description": "Site du patrimoine mondial de l'UNESCO", "image": "/assets/destinations/Meghalaya/Kaziranga Safari.webp" }, { "title": "Croisière sur le Brahmapoutre", "description": "Expérience fluviale en soirée", "image": "/assets/destinations/Meghalaya/Brahmaputra Cruise.webp" } ], "inclusions": [ { "title": "Hébergement à l'hôtel", "description": "6 nuits d'hébergement en chambre double" }, { "title": "Transport privé", "description": "Véhicule climatisé pour tous les transferts et visites" }, { "title": "Tous les repas", "description": "Petit-déjeuner, déjeuner et dîner quotidiens inclus" }, { "title": "Safari à Kaziranga", "description": "Safari en jeep dans la zone centrale avec permis inclus" }, { "title": "Croisière fluviale", "description": "Croisière sur le Brahmapoutre (selon les conditions météorologiques)" }, { "title": "Guide touristique", "description": "Guide expérimenté anglophone" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Meghalaya, deux formules",
@@ -2096,6 +2099,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "north-india-heritage-tour-from-goa": {
+    "file_name": "North-India-Trip.html", "page": { "slug": "North-India-Trip", "type": "domestic-trip", "hero": { "title": "Circuit en Inde du Nord 9N/10J", "subtitle": "", "backgroundImage": "/assets/hero/North-india-hero.webp", "meta": { "duration": "10 jours", "rating": "Note de 4,9/5" } }, "language": "fr", "metadata": { "title": "Circuit en Inde du Nord depuis Goa | Offres de circuits culturels et patrimoniaux", "description": "Réservez votre circuit en Inde du Nord depuis Goa et découvrez Delhi, Agra et Jaipur. Profitez de sites historiques, de visites guidées, d'hôtels et d'une organisation de voyage sans souci." } }, "cta": { "headline": "Prêt pour votre aventure en Inde du Nord ?", "description": "Réservez maintenant et assurez votre place pour un voyage culturel inoubliable", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit de 10 jours en Inde du Nord. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Hôtels 3 étoiles", "description": "10 nuits d'hébergement" }, { "title": "Transport privé", "description": "Véhicule climatisé pendant tout le circuit" }, { "title": "Petit-déjeuner quotidien", "description": "Pendant le séjour à l'hôtel" }, { "title": "Safari aux tigres", "description": "Safari en jeep à Ranthambore" } ], "gallery": [ { "title": "Taj Mahal", "description": "Symbole de l'amour éternel", "image": "/assets/destinations/North India/Taj Mahal.webp" }, { "title": "Temple d'Or", "description": "Cœur spirituel d'Amritsar", "image": "/assets/destinations/North India/Golden Temple.webp" }, { "title": "Fort d'Amber", "description": "Majestueuse architecture rajpoute", "image": "/assets/destinations/North India/Amber Fort.webp" }, { "title": "Ranthambore", "description": "Aventure à la découverte des tigres", "image": "/assets/destinations/North India/Ranthambore.webp" }, { "title": "City Palace de Jaipur", "description": "Patrimoine royal", "image": "/assets/destinations/North India/jaipur city palace.webp" } ], "inclusions": [ { "title": "Hébergement", "description": "9 nuits dans des hôtels 3 étoiles" }, { "title": "Transport", "description": "Véhicule climatisé pendant tout le circuit" }, { "title": "Petit-déjeuner quotidien", "description": "Pendant le séjour à l'hôtel" }, { "title": "Voyage en train", "description": "Train d'Amritsar à Delhi" }, { "title": "Safari aux tigres", "description": "Safari en jeep à Ranthambore" }, { "title": "Guide touristique", "description": "Guides locaux expérimentés" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Nord de l'Inde, deux formules",
@@ -2171,6 +2175,107 @@ internationalhero: "Explorez le monde",
     }
   },
   "andaman-nicobar-tour-package": {
+  "file_name": "andaman-tour-for-goa.html",
+  "page": {
+    "slug": "andaman-nicobar-tour-for-goa",
+    "type": "domestic-trip",
+    "hero": {
+      "title": "Circuit des îles Andaman & Nicobar",
+      "subtitle": "Découvrez les plages préservées et la riche histoire des îles Andaman en 7 jours",
+      "backgroundImage": "/assets/hero/Andaman-hero.webp",
+      "meta": {
+        "duration": "7 jours",
+        "rating": "Note de 4,9/5"
+      }
+    },
+    "language": "fr",
+    "metadata": {
+      "title": "Circuit Andaman & Nicobar depuis Goa – 6 nuits et 7 jours",
+      "description": "Évadez-vous de Goa pour une aventure inoubliable aux Andaman – découvrez des plages de corail, profitez d'excursions entre les îles, de sports nautiques et de visites guidées par des experts. Réservez votre escapade insulaire dès maintenant !"
+    }
+  },
+  "cta": {
+    "headline": "Prêt pour votre aventure insulaire ?",
+    "description": "Réservez maintenant et assurez votre place pour un voyage inoubliable de 7 jours à travers les îles Andaman",
+    "contact": {
+      "whatsapp": {
+        "number": "+919067972295",
+        "message": "Bonjour ! Je suis intéressé(e) par votre circuit aux îles Andaman. Merci de m'envoyer plus d'informations."
+      },
+      "phone": "+919067972295"
+    }
+  },
+  "quickInfo": [
+    {
+      "title": "Petits groupes",
+      "description": "8 voyageurs maximum"
+    },
+    {
+      "title": "Croisière climatisée",
+      "description": "Transferts entre les îles"
+    },
+    {
+      "title": "Petit-déjeuner quotidien",
+      "description": "Cuisine locale"
+    },
+    {
+      "title": "Plongée avec tuba",
+      "description": "Elephant Beach"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Radhanagar Beach",
+      "description": "L'une des plus belles plages d'Asie",
+      "image": "/assets/destinations/Andaman/radhanagar.webp"
+    },
+    {
+      "title": "Cellular Jail",
+      "description": "Le site historique de Kala Pani",
+      "image": "/assets/destinations/Andaman/Cellular-jail.webp"
+    },
+    {
+      "title": "Elephant Beach",
+      "description": "Un paradis pour la plongée avec tuba",
+      "image": "/assets/destinations/Andaman/elephant-beach.webp"
+    },
+    {
+      "title": "Neil Island",
+      "description": "Pont naturel",
+      "image": "/assets/destinations/Andaman/neil-island.webp"
+    },
+    {
+      "title": "Coucher de soleil aux Andaman",
+      "description": "Des soirées inoubliables",
+      "image": "/assets/destinations/Andaman/andaman-sunset.webp"
+    }
+  ],
+  "inclusions": [
+    {
+      "title": "Vols aller-retour",
+      "description": "Billets d'avion de Goa à Port Blair et retour"
+    },
+    {
+      "title": "Transferts en ferry",
+      "description": "Billets de croisière/ferry climatisés pour tous les transferts entre les îles"
+    },
+    {
+      "title": "6 nuits d'hébergement",
+      "description": "Hébergement en chambre triple ou quadruple"
+    },
+    {
+      "title": "Petit-déjeuner quotidien",
+      "description": "Délicieux petit-déjeuner inclus pendant tout votre séjour"
+    },
+    {
+      "title": "Transport privé",
+      "description": "Véhicule climatisé pour toutes les visites et tous les transferts"
+    },
+    {
+      "title": "Plongée avec tuba",
+      "description": "Séance de plongée avec tuba à Elephant Beach avec équipement inclus"
+    }
+  ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Andaman, deux formules",
@@ -2240,6 +2345,113 @@ internationalhero: "Explorez le monde",
     }
   },
   "golden-triangle-4-day-tour-from-goa": {
+    "file_name": "golden-triangle-4-day-tour-from-goa-3n4d.html",
+    "page": {
+      "slug": "golden-triangle-4-day-tour-from-goa-3N4D",
+      "type": "domestic-trip",
+      "hero": {
+        "title": "Circuit Triangle d'Or 4J/3N – Voyage Delhi Agra Jaipur",
+        "herotitle": "Escapade Express dans le Triangle d'Or",
+        "subtitle": "3 nuits et 4 jours pour découvrir Delhi, Agra et Jaipur avec visites guidées et expériences culturelles",
+        "backgroundImage": "/assets/hero/Golden-Triangle-hero.webp",
+        "meta": {
+          "duration": "4 jours",
+          "rating": "Note de 4,8/5",
+          "description": "Découvrez le célèbre Triangle d'Or de l'Inde avec notre circuit 4J/3N couvrant Delhi, Agra et Jaipur. Comprend les visites, hôtels, transferts et visites guidées."
+        }
+      },
+      "language": "fr",
+      "metadata": {
+        "title": "Circuit Triangle d'Or depuis Goa | 4 jours 3 nuits",
+        "description": "Réservez un circuit Triangle d'Or de 4 jours et 3 nuits depuis Goa couvrant Delhi, Agra et Jaipur. Comprend les visites guidées, hôtels et transferts"
+      }
+    },
+    "cta": {
+      "headline": "Prêt pour votre aventure dans le Triangle d'Or ?",
+      "description": "Réservez maintenant et assurez votre place pour un voyage culturel inoubliable à travers les destinations les plus emblématiques de l'Inde",
+      "contact": {
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Bonjour ! Je suis intéressé(e) par votre circuit Triangle d'Or 3N4J. Merci de m'envoyer plus d'informations."
+        },
+        "phone": "+919067972295"
+      }
+    },
+    "quickInfo": [
+      {
+        "title": "Petits groupes",
+        "description": "15 voyageurs maximum"
+      },
+      {
+        "title": "Transport privé",
+        "description": "Véhicules climatisés pendant tout le circuit"
+      },
+      {
+        "title": "Repas inclus",
+        "description": "Petit-déjeuner inclus"
+      },
+      {
+        "title": "Sites emblématiques",
+        "description": "Toutes les principales attractions"
+      }
+    ],
+    "gallery": [
+      {
+        "title": "Taj Mahal",
+        "description": "Monument emblématique de l'amour",
+        "image": "../../assets/destinations/Golden-Triangle/Taj-Mahal.webp"
+      },
+      {
+        "title": "Fort d'Amber",
+        "description": "Majestueux fort du Rajasthan",
+        "image": "../../assets/destinations/Golden-Triangle/amber-fort.webp"
+      },
+      {
+        "title": "Hawa Mahal",
+        "description": "Palais des Vents",
+        "image": "../../assets/destinations/Golden-Triangle/Hawa-Mahal.webp"
+      },
+      {
+        "title": "Qutub Minar",
+        "description": "Le plus haut minaret de Delhi",
+        "image": "../../assets/destinations/Golden-Triangle/Qutub-Minar.webp"
+      },
+      {
+        "title": "Culture indienne",
+        "description": "Un riche patrimoine et des traditions",
+        "image": "../../assets/destinations/Golden-Triangle/Culture.webp"
+      }
+    ],
+    "inclusions": [
+      {
+        "title": "Hébergement",
+        "description": "3 nuits dans des hôtels 3 étoiles avec petit-déjeuner quotidien"
+      },
+      {
+        "title": "Vols aller-retour",
+        "description": "Billets d'avion aller-retour en classe économique"
+      },
+      {
+        "title": "Transferts",
+        "description": "Véhicule privé pour tous les transferts et visites touristiques"
+      },
+      {
+        "title": "Repas",
+        "description": "Petit-déjeuner quotidien à l'hôtel"
+      },
+      {
+        "title": "Frais d'entrée",
+        "description": "Tous les billets d'entrée aux monuments selon l'itinéraire"
+      },
+      {
+        "title": "Guide",
+        "description": "Toutes les visites avec un guide parlant russe"
+      },
+      {
+        "title": "Péages et parking",
+        "description": "Péages, parking, indemnité du chauffeur et frais de carburant inclus"
+      }
+    ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Triangle d'Or, deux formules",
@@ -2303,6 +2515,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "kerala-tour-package-from-goa": {
+    "file_name": "Kerala-5N6D-Trip.html", "page": { "slug": "Kerala-5N6D-Trip", "type": "domestic-trip", "hero": { "title": "Circuit de 6 jours au Kerala", "subtitle": "Découvrez la beauté paisible du Kerala lors de ce voyage de 5 nuits et 6 jours à travers Cochin, Munnar, Thekkady et Alleppey", "backgroundImage": "/assets/hero/Kerala-hero.webp", "meta": { "duration": "6 jours", "locations": 4, "rating": "Note de 4,8/5" } }, "language": "fr", "metadata": { "title": "Circuit de groupe au Kerala depuis Goa – 6 jours de paysages magnifiques", "description": "Découvrez la beauté paisible du Kerala lors de ce voyage de 5 nuits et 6 jours à travers Cochin, Munnar, Thekkady et Alleppey" } }, "cta": { "headline": "Prêt pour votre aventure au Kerala ?", "description": "Réservez maintenant et assurez votre place pour un voyage inoubliable de 6 jours à travers le « pays de Dieu »", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit Kerala 5N6J. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Hôtels 3 étoiles", "description": "Hébergement premium" }, { "title": "Transport privé", "description": "Berline climatisée" }, { "title": "Séjour en houseboat", "description": "Backwaters d'Alleppey" }, { "title": "Petit-déjeuner quotidien", "description": "Tous les repas sur le houseboat" } ], "gallery": [ { "title": "Jardins de thé de Munnar", "description": "Collines verdoyantes ondulantes", "image": "/assets/destinations/Kerala/Munnar Tea Gardens.webp" }, { "title": "Backwaters d'Alleppey", "description": "Une expérience paisible en houseboat", "image": "/assets/destinations/Kerala/Alleppey Backwaters.webp" }, { "title": "Sanctuaire de faune de Periyar", "description": "Balade en bateau dans le sanctuaire", "image": "/assets/destinations/Kerala/Periyar Wildlife.webp" }, { "title": "Filets de pêche de Cochin", "description": "Les emblématiques filets de pêche chinois", "image": "/assets/destinations/Kerala/Cochin Fishing Nets.webp" }, { "title": "Backwaters du Kerala", "description": "Voies navigables paisibles", "image": "/assets/destinations/Kerala/KeralaBackwaters.webp" } ], "inclusions": [ { "title": "Hébergement 3 étoiles", "description": "Séjour dans des hôtels premium pendant 5 nuits à Cochin, Munnar et Thekkady" }, { "title": "Séjour en houseboat", "description": "1 nuit dans un houseboat Deluxe climatisé partagé à Alleppey, avec tous les repas" }, { "title": "Transport privé", "description": "Berline climatisée pour tous les transferts et visites selon l'itinéraire" }, { "title": "Petit-déjeuner quotidien", "description": "Petit-déjeuner inclus dans tous les hôtels (formule CP)" }, { "title": "Repas sur le houseboat", "description": "Tous les repas sur le houseboat (déjeuner, thé/goûter du soir, dîner, petit-déjeuner)" }, { "title": "Péages et parking", "description": "Tous les frais de péage, de parking et de carburant, l'indemnité du chauffeur et les permis sont inclus" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Kerala, deux formules",
@@ -2370,6 +2583,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "rajasthan-royal-tour-from-goa": {
+    "file_name": "Rajasthan-Trip-Package.html", "page": { "slug": "Rajasthan-Trip-Package", "type": "domestic-trip", "hero": { "title": "Circuit au Rajasthan 6N/7J", "subtitle": "Découvrez les majestueuses forteresses, les palais et la culture du Rajasthan en 7 jours", "backgroundImage": "/assets/hero/Rajasthan-hero.webp", "meta": { "duration": "7 jours", "rating": "Note de 4,8/5" } }, "language": "fr", "metadata": { "title": "Circuit au Rajasthan – Expérience royale de 7 jours | Global Tourist Centre", "description": "Explorez les majestueuses forteresses, les palais et les villes historiques avec notre circuit premium au Rajasthan. 7 jours, transport privé climatisé et hôtels patrimoniaux. Réservez maintenant et embarquez pour votre voyage royal !" } }, "cta": { "headline": "Prêt pour votre aventure au Rajasthan ?", "description": "Réservez maintenant et assurez votre place pour une expérience royale inoubliable", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit de 7 jours au Rajasthan. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Hôtels patrimoniaux", "description": "6 nuits d'hébergement" }, { "title": "Transport privé", "description": "Véhicule climatisé pendant tout le circuit" }, { "title": "Petit-déjeuner quotidien", "description": "Pendant le séjour à l'hôtel" }, { "title": "Spectacles culturels", "description": "Représentations traditionnelles" } ], "gallery": [ { "title": "Fort d'Amber", "description": "Majestueuse architecture rajpoute", "image": "/assets/destinations/Rajasthan/Amber Fort.webp" }, { "title": "Fort de Mehrangarh", "description": "La magnifique forteresse de Jodhpur", "image": "/assets/destinations/Rajasthan/Mehrangarh Fort.webp" }, { "title": "City Palace d'Udaipur", "description": "Palais au bord du lac", "image": "/assets/destinations/Rajasthan/Udaipur City Palace.webp" }, { "title": "Ville Bleue", "description": "Les célèbres maisons bleues de Jodhpur", "image": "/assets/destinations/Rajasthan/Blue City.webp" }, { "title": "Lac Pichola", "description": "Promenades en bateau paisibles", "image": "/assets/destinations/Rajasthan/Lake Pichola.webp" } ], "inclusions": [ { "title": "Hôtels patrimoniaux", "description": "6 nuits dans des hôtels patrimoniaux" }, { "title": "Transport privé", "description": "Véhicule climatisé pendant toute la durée du circuit" }, { "title": "Petit-déjeuner quotidien", "description": "Pendant le séjour à l'hôtel" }, { "title": "Promenade à dos d'éléphant", "description": "Au fort d'Amber à Jaipur" }, { "title": "Promenade en bateau", "description": "Sur le lac Pichola à Udaipur" }, { "title": "Guide touristique", "description": "Guides locaux expérimentés" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Rajasthan, deux formules",
@@ -2439,6 +2653,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "tamil-nadu-tour-package": {
+    "file_name": "Tamil-Nadu-trip.html", "page": { "slug": "Tamil-Nadu-trip", "type": "domestic-trip", "hero": { "title": "Circuit au Tamil Nadu", "subtitle": "Découvrez le riche patrimoine, les temples et la beauté naturelle du Tamil Nadu lors de cette exploration de 7 jours", "backgroundImage": "/assets/hero/tamil-nadu-hero.webp", "meta": { "duration": "7 jours", "locations": 15, "rating": "Note de 4,7/5" } }, "language": "fr", "metadata": { "title": "Circuit de 7 jours au Tamil Nadu | Global Tourist Centre", "description": "Réservez un circuit de 7 nuits et 8 jours au Tamil Nadu depuis Goa. Hébergement, guide et transport inclus." } }, "cta": { "headline": "Prêt pour votre voyage au Tamil Nadu ?", "description": "Réservez maintenant et assurez votre place pour une exploration inoubliable de 7 jours du patrimoine culturel du Tamil Nadu", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit au Tamil Nadu. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Petits groupes", "description": "8 voyageurs maximum" }, { "title": "Transport privé", "description": "Véhicule climatisé" }, { "title": "Petit-déjeuner inclus", "description": "Petit-déjeuner quotidien" }, { "title": "Sites culturels", "description": "Temples et patrimoine" } ], "gallery": [ { "title": "Temple de Meenakshi", "description": "Merveille architecturale de Madurai", "image": "/assets/destinations/tamil nadu/Meenakshi Temple.webp" }, { "title": "Coucher de soleil à Kanyakumari", "description": "Là où trois mers se rencontrent", "image": "/assets/destinations/tamil nadu/Kanyakumari Sunset.webp" }, { "title": "Jardins de thé d'Ooty", "description": "La beauté des montagnes Nilgiri", "image": "/assets/destinations/tamil nadu/Ooty Tea Gardens.webp" }, { "title": "Temple de Rameshwaram", "description": "Lieu sacré de pèlerinage", "image": "/assets/destinations/tamil nadu/Rameshwaram Temple.webp" }, { "title": "Cascades de Pykara", "description": "Beauté naturelle à Ooty", "image": "/assets/destinations/tamil nadu/Pykara Falls.webp" } ], "inclusions": [ { "title": "Hébergement 3 étoiles", "description": "Hôtels confortables pendant toute la durée de votre séjour" }, { "title": "Petit-déjeuner", "description": "Petit-déjeuner quotidien pendant votre séjour" }, { "title": "Transport privé", "description": "Véhicule privé pour les transferts et les visites" }, { "title": "Services de chauffeur", "description": "Frais de chauffeur, péages et frais de stationnement inclus" }, { "title": "Visites guidées", "description": "Itinéraire soigneusement planifié avec les principales attractions" }, { "title": "Assistance 24h/24 et 7j/7", "description": "Assistance clientèle tout au long de votre voyage" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Tamil Nadu, deux formules",
