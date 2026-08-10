@@ -7,6 +7,7 @@ type GalleryItem = {
   titleKey: string;
   descriptionKey: string;
   image: string;
+  alt?: string;
   wikiexists: boolean;
   wikilink: string;
 };
@@ -57,7 +58,12 @@ export function TourVisualJourney({ items, gallery }: TourVisualJourneyProps) {
               <div className="relative aspect-[4/3]">
                 <Image
                   src={item.image}
-                  alt={gallery[idx] ? `${gallery[idx].title}${gallery[idx].description ? ` – ${gallery[idx].description}` : ""}` : item.descriptionKey}
+                  alt={
+                    gallery[idx]?.alt ??
+                    (gallery[idx]
+                      ? `${gallery[idx].title}${gallery[idx].description ? ` – ${gallery[idx].description}` : ""}`
+                      : item.descriptionKey)
+                  }
                   fill
                   className="
                     object-cover transition-transform duration-500
