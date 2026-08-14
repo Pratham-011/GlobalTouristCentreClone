@@ -139,10 +139,10 @@ export function Footer() {
 
           {/* Quick Links */}
           <nav aria-label="Quick links">
-            <h3 className="relative font-serif text-base font-semibold mb-3 pb-2">
+            <h2 className="relative font-serif text-base font-semibold mb-3 pb-2">
               {t.footer.quickLinks}
               <span className="absolute bottom-0 left-0 w-6 h-[2px] bg-gradient-to-r from-[#f8d56b] to-transparent" />
-            </h3>
+            </h2>
             <ul className="space-y-2">
               {[
                 { href: `/`, label: t.nav.home },
@@ -167,10 +167,10 @@ export function Footer() {
 
           {/* Popular Tours */}
           <nav aria-label="Popular tours">
-            <h3 className="relative font-serif text-base font-semibold mb-3 pb-2">
+            <h2 className="relative font-serif text-base font-semibold mb-3 pb-2">
               {t.footer.popularTours}
               <span className="absolute bottom-0 left-0 w-6 h-[2px] bg-gradient-to-r from-[#f8d56b] to-transparent" />
-            </h3>
+            </h2>
             <ul className="space-y-2">
               {popularTours.map((tour) => (
                 <li key={tour.href}>
@@ -188,10 +188,10 @@ export function Footer() {
 
           {/* Our Office — left of Instagram */}
           <div className="col-span-2 lg:col-span-1 lg:-ml-4">
-            <h3 className="relative font-serif text-base font-semibold mb-3 pb-2">
+            <h2 className="relative font-serif text-base font-semibold mb-3 pb-2">
               {t.footer.ourOffice}
               <span className="absolute bottom-0 left-0 w-6 h-[2px] bg-gradient-to-r from-[#f8d56b] to-transparent" />
-            </h3>
+            </h2>
             <div className="space-y-3 text-gray-400 text-sm">
               <p className="flex gap-3">
                 <div className="w-4 flex justify-center pt-0.5">
@@ -236,10 +236,10 @@ export function Footer() {
 
           {/* Instagram — desktop only */}
           <div aria-label="Instagram feed" className="hidden lg:block">
-            <h3 className="relative font-serif text-base font-semibold mb-3 pb-2">
+            <h2 className="relative font-serif text-base font-semibold mb-3 pb-2">
               {t.footer.latestInstagram}
               <span className="absolute bottom-0 left-0 w-6 h-[2px] bg-gradient-to-r from-[#f8d56b] to-transparent" />
-            </h3>
+            </h2>
             <div
               ref={instagramRef}
               className="instagram-embed bg-gray-800 rounded-lg flex items-center justify-center min-h-[200px]"
