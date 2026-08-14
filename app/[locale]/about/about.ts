@@ -4,18 +4,21 @@ export const teamMembers = [
     role: "Founder & CEO",
     imageQuery: "professional woman business portrait",
     imagelink: "/assets/team/Shifa.webp",
+    alt: "Shifa Shaikh, Founder and CEO of Global Tourist Centre",
   },
   {
     name: "Laxmi Chavan",
     role: "Sales Executive",
     imageQuery: "professional woman sales portrait",
     imagelink: "/assets/team/Laxmi.webp",
+    alt: "Laxmi Chavan, Sales Executive at Global Tourist Centre",
   },
   {
     name: "Hassan Khan",
     role: "Digital Marketer",
     imageQuery: "professional man marketing portrait",
     imagelink: "/assets/team/Hassan.webp",
+    alt: "Hassan Khan, Digital Marketer at Global Tourist Centre",
   },
   // {
   //   name: "Sheehan Sa",

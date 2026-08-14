@@ -4,9 +4,10 @@ interface TeamMemberCardProps {
   name: string;
   role: string;
   imagelink: string;
+  alt?: string;
 }
 
-export function TeamMemberCard({ name, role, imagelink }: TeamMemberCardProps) {
+export function TeamMemberCard({ name, role, imagelink, alt }: TeamMemberCardProps) {
   const initials = name
     .split(" ")
     .map((n) => n[0])
@@ -27,7 +28,7 @@ export function TeamMemberCard({ name, role, imagelink }: TeamMemberCardProps) {
       <Avatar className="w-32 h-32 mx-auto mb-4 transition-all">
         <AvatarImage
           src={imagelink}
-          alt={`${name}, ${role} at Global Tourist Centre travel agency, Goa India`}
+          alt={alt ?? `${name}, ${role} at Global Tourist Centre travel agency, Goa India`}
           className="object-cover"
         />
         <AvatarFallback className="text-2xl bg-primary/10 text-primary">
@@ -45,4 +46,3 @@ export function TeamMemberCard({ name, role, imagelink }: TeamMemberCardProps) {
     
   );
 }
-

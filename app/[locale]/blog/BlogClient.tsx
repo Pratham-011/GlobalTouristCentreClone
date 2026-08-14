@@ -24,6 +24,7 @@ export default function BlogClient() {
             date: t.blog.julyDate,
             author: t.blog.globalTeam,
             image: "/assets/blog/goa/Basilica.png",
+            alt: "Historic red laterite Portuguese-era church facade with white colonial building in Old Goa",
         },
         {
             slug: "andaman",
@@ -33,6 +34,7 @@ export default function BlogClient() {
             date: t.blog.julyDate,
             author: t.blog.globalTeam,
             image: "/assets/destinations/Thumbnails/Andaman.webp",
+            alt: "Natural rock arch formation on a secluded Andaman Islands beach with clear turquoise water",
         },
         {
             slug: "kerala",
@@ -42,6 +44,7 @@ export default function BlogClient() {
             date: t.blog.juneDate,
             author: t.blog.globalTeam,
             image: "/assets/destinations/Thumbnails/Kerala.webp",
+            alt: "Traditional Kerala houseboat surrounded by palm trees and pink water lilies in the backwaters",
         },
         {
             slug: null,
@@ -94,7 +97,7 @@ export default function BlogClient() {
                                     <div className="relative aspect-video overflow-hidden rounded-t-lg">
                                         <Image
                                             src={post.image}
-                                            alt={post.title}
+                                            alt={post.alt ?? post.title}
                                             fill
                                             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                                             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"

@@ -20,7 +20,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Kashmir.webp",
     category: "domestic",
     zone: "north",
-    alt: "Traditional wooden Shikara boat gliding on calm Dal Lake with mirror reflection and snow-capped Zabarwan mountains, Srinagar Kashmir",
+    alt: "Traditional Shikara boats floating on Dal Lake with Kashmir mountains at sunset",
   },
   {
     id: "dom-ladakh-002",
@@ -29,7 +29,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Leh.webp",
     category: "domestic",
     zone: "north",
-    alt: "Giant golden Maitreya Buddha statue at Diskit Monastery with ornate painted pedestal against deep blue sky, Nubra Valley Ladakh India",
+    alt: "Giant golden Maitreya Buddha statue at Diskit Monastery in Nubra Valley, Ladakh",
   },
   {
     id: "dom-sikkim-003",
@@ -38,7 +38,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Sikkim.webp",
     category: "domestic",
     zone: "east",
-    alt: "Buddha Park of Ravangla with large golden and maroon seated Buddha statue overlooking snow-capped Himalayan peaks and pine forests, Sikkim India",
+    alt: "Deep blue Tsomgo glacial lake surrounded by Sikkim mountains at 12,400 feet",
   },
   {
     id: "dom-meghalaya-004",
@@ -47,7 +47,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Meghalaya.webp",
     category: "domestic",
     zone: "east",
-    alt: "Wooden tourist boats on emerald green Umngot River cutting through misty forested gorge cliffs, Dawki Meghalaya India",
+    alt: "Living root bridge formed from intertwined tree roots in the misty forest of Mawlynnong, Meghalaya",
   },
   {
     id: "dom-north-heritage-005",
@@ -56,7 +56,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/GoldenTriangle.webp",
     category: "domestic",
     zone: "north",
-    alt: "Golden Temple Harmandir Sahib with gold-plated domes and white marble gateway reflecting in the sacred Amrit Sarovar pool, Amritsar Punjab India",
+    alt: "White marble Taj Mahal dome framed by trees at sunrise, symbol of eternal love in Agra",
   },
   {
     id: "dom-golden-triangle-006",
@@ -65,7 +65,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/North-India.webp",
     category: "domestic",
     zone: "north",
-    alt: "Taj Mahal white marble mausoleum viewed from the central reflecting pool with cypress trees and tourists on a clear sunny day, Agra Uttar Pradesh India",
+    alt: "Taj Mahal white marble monument with reflecting pool and cypress-lined pathway, Agra",
   },
   {
     id: "dom-rajasthan-007",
@@ -74,7 +74,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Rajasthan.webp",
     category: "domestic",
     zone: "west",
-    alt: "Hawa Mahal Palace of Winds five-storey pink sandstone facade with 953 carved lattice windows illuminated at dusk, Jaipur Pink City Rajasthan India",
+    alt: "Sandstone Amber Fort ramparts and towers overlooking the hillside, majestic Rajput architecture in Jaipur",
   },
   {
     id: "dom-kerala-008",
@@ -83,7 +83,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Kerala.webp",
     category: "domestic",
     zone: "south",
-    alt: "Luxury Kerala houseboat cruising Alleppey backwaters with red water lilies in the foreground and coconut palms lining the canal, Kerala God's Own Country India",
+    alt: "Traditional thatched-roof houseboat drifting past palm trees on Kerala's tranquil backwaters",
   },
   {
     id: "dom-tamilnadu-009",
@@ -92,7 +92,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Tamil-Nadu.webp",
     category: "domestic",
     zone: "south",
-    alt: "Pamban Bridge railway viaduct stretching across turquoise Palk Strait sea connecting Rameswaram Island to mainland, Tamil Nadu India",
+    alt: "Colorful sculpted gopuram tower of Meenakshi Temple, an architectural marvel in Madurai",
   },
   {
     id: "dom-andaman-010",
@@ -101,7 +101,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Andaman.webp",
     category: "domestic",
     zone: "island",
-    alt: "Natural limestone rock arch on Neil Island shoreline with shallow turquoise water, rocky beach and dense tropical jungle canopy, Andaman Islands India",
+    alt: "Historic red-brick Cellular Jail building, the infamous Kala Pani colonial prison in Port Blair",
   },
   {
     id: "dom-lakshadweep-011",
@@ -110,7 +110,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Lakshadweep.webp",
     category: "domestic",
     zone: "island",
-    alt: "Leaning coconut palm tree on pristine white sand beach at golden sunset with overwater bungalows in the distance, Lakshadweep Islands India",
+    alt: "White sandy beach lined with palm trees and colorful boats on Agatti Island, Lakshadweep",
   },
 
   {
@@ -120,7 +120,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Ellora.webp",
     category: "domestic",
     zone: "west",
-    alt: "Stone elephant sculpture inside the Kailasa Temple courtyard surrounded by ancient rock-cut Hindu carvings and pillars at dusk, Ellora Caves Aurangabad Maharashtra",
+    alt: "Aerial view of the rock-hewn Ellora Caves complex surrounded by greenery, a UNESCO World Heritage Site",
   },
 
   {
@@ -130,7 +130,7 @@ export const domesticTrips: Destination[] = [
     imageQuery: "/destinations/Thumbnails/Udaipur.webp",
     category: "domestic",
     zone: "west",
-    alt: "Taj Lake Palace white marble hotel floating on Lake Pichola at dusk with Aravalli hills silhouette reflected in still water, Udaipur Rajasthan India",
+    alt: "Ornate cream-colored facade of Udaipur City Palace with domed rooftops overlooking Lake Pichola",
   },
   {
     id: "dom-varanasi-027",
