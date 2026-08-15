@@ -11,6 +11,7 @@ const BlogPostHeader = () => {
       <HeroSection
         title={t.blogAndaman.heroTitle}
         backgroundQuery="Andaman-hero"
+        alt="Natural rock arch formation on a secluded Andaman Islands beach with clear turquoise water"
       />
       <header className="mb-10 text-center sm:text-left">
         <div className="flex flex-wrap items-center justify-center sm:justify-start gap-4 text-sm text-emerald-800/80 font-medium mb-6">

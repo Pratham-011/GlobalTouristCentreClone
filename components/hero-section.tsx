@@ -23,6 +23,7 @@ interface HeroSectionProps {
   subtitle?: string;
   backgroundQuery: string;
   showForm?: boolean;
+  alt?: string;
 }
 
 export function HeroSection({
@@ -30,6 +31,7 @@ export function HeroSection({
   subtitle,
   backgroundQuery,
   showForm = false,
+  alt,
 }: HeroSectionProps) {
   const { t, locale } = useI18n();
   const [isOpen, setIsOpen] = useState(false);
@@ -58,9 +60,9 @@ export function HeroSection({
     >
       {/* Background */}
       <div className="absolute inset-0 z-0">
-        <img
+        <Image
           src={heroImageBase}
-          alt=""
+          alt={alt || ""}
           width={1920}
           height={1080}
           fetchPriority="high"

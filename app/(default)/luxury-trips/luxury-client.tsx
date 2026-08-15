@@ -26,32 +26,32 @@ const luxuryDestinations = [
   {
     slug: "kerala-luxury",
     image: "/assets/Luxury/Kerala/KeralaBackwaters.webp",
-    alt: "Traditional Kerala houseboat on calm Alleppey backwaters lined with coconut palms, Kerala India luxury tour",
+    alt: "Traditional houseboat gliding through palm-fringed Kerala backwaters at sunset",
   },
   {
     slug: "mumbai-luxury",
     image: "/assets/Luxury/Mumbai/mumbai-hero.webp",
-    alt: "Mumbai skyline and harbourfront skyline at dusk for luxury Mumbai city tour, Maharashtra India",
+    alt: "Vintage taxi parked on a rain-soaked Mumbai street lined with colonial-era Gothic architecture",
   },
   {
     slug: "golden-triangle-luxury",
     image: "/assets/Luxury/Golden Triangle/hero.webp",
-    alt: "Taj Mahal white marble mausoleum at golden hour on Golden Triangle luxury tour, Agra Uttar Pradesh India",
+    alt: "Taj Mahal reflected in its garden pools with cypress-lined pathway leading to the white marble mausoleum",
   },
   {
     slug: "rajasthan-luxury",
     image: "/assets/Luxury/Rajasthan/Royal Rajasthan.webp",
-    alt: "Ornate Rajasthan palace facade glowing at sunset on Royal Rajasthan luxury tour, India",
+    alt: "Luxury Udaipur palace hotel with domed rooftop architecture and reflecting pool at sunset, Rajasthan India",
   },
   {
     slug: "karnataka-luxury",
     image: "/assets/Luxury/Karnataka/hero.webp",
-    alt: "Historic Karnataka temple architecture and stone carvings on a luxury heritage tour, India",
+    alt: "Ornate red-domed Mysore Palace architecture against a dramatic sky, Karnataka South India",
   },
   {
     slug:"mahraja-train-tour-package",
     image:"/assets/Luxury/Maharaja/hero.webp",
-    alt: "Luxury Maharaja Express train journey through India with premium cabin travel experience"
+    alt: "Woman in traditional saree boarding the luxury Maharajas' Express train at an Indian railway platform"
   }
 ] as const;
 

@@ -12,6 +12,7 @@ const BlogMetaHeader = () => {
         title={t.blogKerala.heroTitle}
         subtitle={t.blogKerala.heroSubtitle}
         backgroundQuery="Kerala-hero"
+        alt="Traditional Kerala houseboat surrounded by palm trees and pink water lilies in the backwaters"
       />
       <div className="flex flex-wrap gap-4 text-sm text-emerald-800/80 mb-8">
         <span className="flex items-center gap-1.5">

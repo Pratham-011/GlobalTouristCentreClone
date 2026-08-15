@@ -16,6 +16,7 @@ export default function GoaBlogPage() {
       <HeroSection
         title={t.blogGoa.heroTitle}
         backgroundQuery="Goa-hero"
+        alt="Historic red laterite Portuguese-era church facade with white colonial building in Old Goa"
       />
 
       {/* Blog Content */}

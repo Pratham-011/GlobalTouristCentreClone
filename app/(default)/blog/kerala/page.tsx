@@ -33,7 +33,7 @@ export const metadata: Metadata = {
         url: "/assets/hero/Kerala-hero.webp",
         width: 1200,
         height: 630,
-        alt: t.blogKerala.metadata.title,
+        alt: "Traditional Kerala houseboat surrounded by palm trees and pink water lilies in the backwaters",
       },
     ],
   },

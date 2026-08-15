@@ -16,7 +16,7 @@ export default function GoaBlogPage() {
   return (
     <>
       {/* Hero Section */}
-      <HeroSection title={t.blogGoa.heroTitle} backgroundQuery="Goa-hero" />
+      <HeroSection title={t.blogGoa.heroTitle} backgroundQuery="Goa-hero" alt="Historic red laterite Portuguese-era church facade with white colonial building in Old Goa"/>
 
       {/* Blog Content */}
       <section className="py-12">

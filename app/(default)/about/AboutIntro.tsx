@@ -35,7 +35,7 @@ export function AboutIntro() {
             <div className="order-2 lg:order-1">
               <Image
                 src="/assets/About-us.webp"
-                alt="Global Tourist Centre travel agency team office interior and hospitality space in Goa, India"
+                alt="Global Tourist Centre storefront signage offering money exchange, excursions, and tour booking services in Goa"
                 width={800}
                 height={600}
                 className="rounded-lg w-full shadow-md"
