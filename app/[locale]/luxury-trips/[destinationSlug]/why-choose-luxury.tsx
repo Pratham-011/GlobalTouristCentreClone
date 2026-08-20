@@ -1,8 +1,6 @@
 "use client";
 
 import { useI18n } from "@/lib/i18n/context";
-import Image from "next/image";
-import Link from "next/link";
 import { Hotel, User, Utensils, Gem, Sparkles } from "lucide-react";
 import { LuxurySlug } from "@/lib/data/luxury-page-content";
 
@@ -30,7 +28,7 @@ export function WhyChooseLuxury({ slug }: Props) {
     <section className="py-24 bg-white">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
-          {infoCards.map((card, index) => {
+          {infoCards.map((card: (typeof infoCards)[number], index: number) => {
             const Icon =
               ICON_MAP[card.icon as keyof typeof ICON_MAP] ?? Sparkles;
 

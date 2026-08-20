@@ -81,11 +81,13 @@ const Services = () => {
   /* ------------------------------------------------------------------ */
   const services = premiumServices
     .map((service) => {
-      const content = t.premiumServices.items?.[service.id];
+      const content = t.premiumServices.items?.[
+        service.id as keyof typeof t.premiumServices.items
+      ];
       if (!content) return null;
       return { ...service, ...content };
     })
-    .filter(Boolean);
+    .filter(Boolean) as Array<(typeof premiumServices)[number] & { title: string; description: string }>;
 
   const activeService = services[activeIndex];
   if (!activeService) return null;

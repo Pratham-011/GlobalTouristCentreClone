@@ -1,6 +1,3 @@
-types.ts;
-// components/blog/kerala/types.ts
-
 export type BlogSectionData = {
   id: string
   title?: string

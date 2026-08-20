@@ -37,7 +37,7 @@ export function LuxuryToursSection({ slug }: LuxuryToursSectionProps) {
     }
   `}
         >
-          {section.packages.map((pkg, index) => (
+          {section.packages.map((pkg: (typeof section.packages)[number], index: number) => (
             <LuxuryTourCard
               key={index}
               title={pkg.title}

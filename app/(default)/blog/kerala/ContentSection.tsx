@@ -9,7 +9,13 @@ const ContentSection = ({ data }: { data: BlogSectionData }) => (
 
     {data.image && (
       <figure className="mb-6 rounded-xl overflow-hidden">
-        <Image src={data.image} alt={data.imageAlt} width={800} height={450} className="w-full h-auto" />
+        <Image
+          src={data.image}
+          alt={data.imageAlt ?? data.title ?? "Blog image"}
+          width={800}
+          height={450}
+          className="w-full h-auto"
+        />
         {data.caption && <figcaption>{data.caption}</figcaption>}
       </figure>
     )}

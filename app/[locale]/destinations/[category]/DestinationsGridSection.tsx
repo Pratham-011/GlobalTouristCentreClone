@@ -28,6 +28,7 @@ const SUBTITLE_KEY_BY_SLUG = {
 export function DestinationsGridSection({ slug, items }: Props) {
   const { locale, t } = useI18n();
   const filters = FILTERS_BY_SLUG[slug];
+  const filterLabels = t.filters as Record<string, Record<string, string>>;
 
   const [hydrated, setHydrated] = useState(false);
   useEffect(() => {
@@ -63,7 +64,7 @@ export function DestinationsGridSection({ slug, items }: Props) {
                 filter.key !== "all" &&
                 !items.some((item) => item.zone === filter.key);
 
-              const label = t.filters?.[slug]?.[filter.key] ?? filter.key;
+              const label = filterLabels[slug]?.[filter.key] ?? filter.key;
 
               return (
                 <Button

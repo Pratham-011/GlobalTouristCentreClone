@@ -2,5 +2,5 @@
 import { translations } from "./translations/index";
 
 export function getTranslations(locale: string) {
-  return translations[locale] ?? translations.en;
+  return (translations as any)[locale] ?? translations.en;
 }

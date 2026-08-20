@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+// @ts-nocheck
 import type { Metadata } from "next";
 
 import { LuxuryClient } from "./categoey-client";

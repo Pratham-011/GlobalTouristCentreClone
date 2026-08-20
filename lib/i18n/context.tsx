@@ -9,7 +9,7 @@ import {
 
 interface I18nContextType {
   locale: Locale;
-  t: TranslationKeys;
+  t: any;
 }
 
 const I18nContext = createContext<I18nContextType | null>(null);

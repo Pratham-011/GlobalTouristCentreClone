@@ -2,7 +2,6 @@
 
 import { usePathname, useRouter } from "next/navigation";
 import type { Locale } from "@/lib/i18n/translations";
-// import { locales } from "@/lib/i18n/config";
 import {
   DropdownMenu,
   DropdownMenuTrigger,
@@ -82,7 +81,7 @@ if (newLocale === "en") {
     <>
       <div className="hidden lg:flex items-center">
         <DropdownMenu>
-          <DropdownMenuTrigger asChild>
+          <DropdownMenuTrigger>
             <button
               className="
           group inline-flex items-center gap-2
@@ -194,4 +193,3 @@ if (newLocale === "en") {
     </>
   );
 }
-
