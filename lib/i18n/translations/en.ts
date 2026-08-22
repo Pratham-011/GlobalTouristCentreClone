@@ -4667,113 +4667,98 @@ export const en = {
           "description": "Ajanta & Ellora Caves"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · 11:00 AM",
-          "title": "Flight from Goa to Aurangabad",
-          "description": "Morning flight from Goa to Aurangabad. Arrival scheduled at 1:00 PM, where your Russian-speaking guide will meet you at the airport.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 1 · 1:30 PM",
-          "title": "Hotel Check-In (3-Star Accommodation)",
-          "description": "Transfer to a comfortable 3-star hotel in Aurangabad. Check in, freshen up, and prepare for sightseeing.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · 2:00 PM",
-          "title": "Lunch Break (Self-paid)",
-          "description": "Lunch at a recommended local restaurant with vegetarian and non-vegetarian options.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 3:00 PM",
-          "title": "Visit to Bibi Ka Maqbara (Mini Taj Mahal)",
-          "description": "Explore the iconic Mughal monument built in the style of the Taj Mahal. Highlights include the Mughal garden layout, white marble carvings, scenic photo spots, and stories from Aurangzeb’s era explained by your guide.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · 4:30 PM",
-          "title": "Visit to Local Handicraft Market",
-          "description": "Explore Aurangabad’s famous handicrafts such as Paithani sarees, Himroo shawls, and hand-carved stonework. Ideal time for souvenir shopping.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 6:00 PM",
-          "title": "Return to Hotel",
-          "description": "Return to the hotel and relax for the evening.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · 8:00 PM",
-          "title": "Overnight Stay",
-          "description": "Dinner at the hotel or nearby restaurant (self-paid). Overnight stay at the hotel in Aurangabad.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · 7:00 AM",
-          "title": "Breakfast at Hotel",
-          "description": "Enjoy breakfast at the hotel before starting the day’s excursion.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 7:30 AM",
-          "title": "Drive to Ajanta Caves",
-          "description": "Scenic drive to Ajanta Caves (approximately 2.5 hours) through mountainous landscapes.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 10:00 AM",
-          "title": "Ajanta Caves (UNESCO Heritage Site)",
-          "description": "Explore the world-famous Buddhist cave complex known for ancient frescoes, rock-cut monasteries, meditation halls, intricate carvings, and historical stories dating back to the 2nd century BCE. Your Russian-speaking guide explains the art and symbolism.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · 1:00 PM",
-          "title": "Lunch Break near Ajanta (Self-paid)",
-          "description": "Lunch at a restaurant near the Ajanta Caves.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 2:00 PM",
-          "title": "Drive to Ellora Caves",
-          "description": "Drive toward Aurangabad and continue to the Ellora region (approximately 1.5 hours).",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 3:30 PM",
-          "title": "Ellora Caves (UNESCO Heritage Site)",
-          "description": "Explore the spectacular Hindu, Buddhist, and Jain rock-cut temples. Highlights include the Kailasa Temple (Cave 16), Buddhist chaityas and monasteries, and intricately carved Jain temples. Your guide provides detailed historical and architectural explanations.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · 6:00 PM",
-          "title": "Pickup Luggage from Hotel",
-          "description": "Collect luggage from the hotel before departure.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 6:30 PM",
-          "title": "Transfer to Aurangabad Airport",
-          "description": "Transfer from hotel to Aurangabad Airport for departure.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 8:00 PM",
-          "title": "Departure Flight to Goa",
-          "description": "Evening flight from Aurangabad to Goa (included in the package).",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 9:30 PM",
-          "title": "Arrival in Goa",
-          "description": "Arrival in Goa, marking the end of the Ajanta & Ellora cultural tour.",
-          "category": "arrival"
-        }
+ "price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "Explore the UNESCO-listed Ajanta and Ellora Caves at an unhurried pace, with separate full days for each cave complex and a bonus visit to Daulatabad Fort.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Ajanta & Ellora Caves Tour",
+      "amount": "₹18,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "Round-trip flight Goa–Aurangabad included",
+        "Ajanta and Ellora Caves visited on separate days with no rushing",
+        "Daulatabad Fort added as a bonus stop with the extra day"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Ajanta & Ellora Caves Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Ajanta & Ellora Heritage Discovery",
+      "amount": "$469",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "English-speaking guide throughout",
+        "Lunch included on all 3 days, not self-paid",
+        "Extra time built in for fresco viewing and photography at Ajanta",
+        "Guide-led Daulatabad Fort walk with Deccan military history"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Ajanta & Ellora Caves Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Goa to Aurangabad – Bibi Ka Maqbara",
+        "description": "Take a morning flight to Aurangabad, landing around 1 PM. Your guide meets you at the airport and transfers you to your 3-star hotel. In the afternoon, visit Bibi Ka Maqbara, the 'Mini Taj Mahal', followed by time at the local handicraft market for Paithani sarees and Himroo shawls.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Ajanta Caves, Full Day",
+        "description": "After breakfast, drive about 2.5 hours to Ajanta Caves and spend the full day exploring its 30 rock-cut Buddhist caves, ancient frescoes and meditation halls at an unhurried pace. Return to Aurangabad in the evening for dinner and an overnight stay.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Ellora Caves & Daulatabad Fort – Departure",
+        "description": "Drive about 45 minutes to Ellora Caves to explore the Kailasa Temple and the Hindu, Buddhist and Jain shrines carved into the hillside. On the way back, stop at Daulatabad Fort, a massive 14th-century hill fort, before transferring to the airport for your evening flight to Goa.",
+        "category": "travel",
+        "highlight": true
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Goa to Aurangabad – Bibi Ka Maqbara",
+        "description": "Take a morning flight to Aurangabad, where your English-speaking guide meets you at the airport and transfers you to your hotel. In the afternoon, visit Bibi Ka Maqbara, with your guide explaining its Aurangzeb-era history, followed by time at the local handicraft market.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Ajanta Caves, Full Day",
+        "description": "Drive about 2.5 hours to Ajanta Caves for a relaxed, full-day visit. Your guide takes extra time at the finest fresco panels and the best photography viewpoints. Lunch is included near the caves before returning to Aurangabad for the evening.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Ellora Caves & Daulatabad Fort – Departure",
+        "description": "Take a short drive to Ellora Caves to explore the Kailasa Temple and the Hindu, Buddhist and Jain rock-cut shrines, with lunch included. On the way back, your guide leads a walk through Daulatabad Fort, covering its role in Deccan military history, before transferring to the airport for your evening flight to Goa.",
+        "category": "travel",
+        "highlight": true
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Ajanta Caves",
@@ -4878,27 +4863,99 @@ export const en = {
           "description": "Golden Temple & Wagah Border"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1",
-          "title": "Arrival in Amritsar | Golden Temple (Night View)",
-          "description": "Arrive at Amritsar airport and meet your Russian-speaking guide. Transfer to a 3-star hotel for check-in. Freshen up and relax. In the evening, visit the Golden Temple (Sri Harmandir Sahib) to experience its beautifully illuminated night view and calm spiritual atmosphere. Optional visit to the Langar Hall for a traditional community meal. Return to the hotel for overnight stay in Amritsar.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2",
-          "title": "Amritsar City Tour & Wagah Border Ceremony",
-          "description": "After breakfast, proceed for a full-day sightseeing tour. Visit the Golden Temple (day visit) with detailed guide explanation, followed by Jallianwala Bagh memorial and museum highlighting the 1919 massacre. Continue to the Partition Museum to learn about India’s partition through audiovisual exhibits. In the afternoon, explore local markets including Hall Bazaar for handicrafts, Phulkari embroidery, woolens, and spices. In the evening, drive to the Wagah Border to witness the energetic Flag Retreat Ceremony. Return to the hotel for overnight stay.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 3",
-          "title": "Durgiana Temple | Gobindgarh Fort | Departure",
-          "description": "After breakfast, visit the Durgiana Temple, built in the architectural style of the Golden Temple and dedicated to Goddess Durga. Continue to Gobindgarh Fort to explore museum galleries, cultural displays, and the 7D show (if operational). After lunch, transfer to Amritsar Airport for departure, concluding the tour with beautiful memories.",
-          "category": "travel"
-        }
+   "price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "The same Amritsar experience, with tailored inclusions for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Amritsar Heritage Package",
+      "amount": "₹13,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price, round-trip flights included",
+      "points": [
+        "Round-trip flights from Goa to Amritsar included",
+        "Private AC car with driver for all transfers and sightseeing",
+        "Golden Temple day & night visit, Jallianwala Bagh & Partition Museum",
+        "Wagah Border Flag Retreat Ceremony included"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Amritsar Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Amritsar Heritage Discovery Package",
+      "amount": "$339",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price, round-trip flights included",
+      "points": [
+        "English-speaking guide across all 3 days",
+        "Priority foreign-visitor seating gallery at Wagah Border for faster entry and less crowding",
+        "Golden Temple etiquette briefing covering head covering and bare feet before Day 1",
+        "Guide-led context on Partition history before the museum visit"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Amritsar Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Arrival & Golden Temple Night View",
+        "description": "Arrive at Amritsar Airport and transfer to your hotel to check in and freshen up. In the evening, visit the Golden Temple for its illuminated night view, with an optional stop at the Langar Hall for a community meal.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "City Tour & Wagah Border",
+        "description": "Visit the Golden Temple by day, followed by Jallianwala Bagh memorial and the Partition Museum. In the afternoon, browse Hall Bazaar for Phulkari embroidery, woolens and spices, then head to Wagah Border in the evening for the Flag Retreat Ceremony.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Durgiana Temple, Gobindgarh Fort & Departure",
+        "description": "After breakfast, visit Durgiana Temple, built in a similar style to the Golden Temple, followed by Gobindgarh Fort's museum galleries and its 7D show, subject to availability. Transfer to Amritsar Airport after lunch for your return flight.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Arrival & Golden Temple Night View",
+        "description": "Your guide meets you at Amritsar Airport and transfers you to your hotel, briefing you on Golden Temple etiquette along the way. Head covering and bare feet are required for all visitors. In the evening, experience the temple's illuminated night view, with an optional Langar Hall meal.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "City Tour & Wagah Border",
+        "description": "Visit the Golden Temple by day with your guide's commentary, followed by Jallianwala Bagh and the Partition Museum, where your guide adds context on the history of 1947. In the afternoon, browse Hall Bazaar, then head to Wagah Border for the Flag Retreat Ceremony, entering through the dedicated foreign-visitor gallery for faster, less crowded access.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Durgiana Temple, Gobindgarh Fort & Departure",
+        "description": "Visit Durgiana Temple, then Gobindgarh Fort for its museum galleries and 7D show, subject to availability. Your guide sees you off with a smooth transfer to Amritsar Airport after lunch.",
+        "category": "travel"
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Golden Temple",
@@ -5903,100 +5960,87 @@ export const en = {
           "description": "Elephant & Tiger Safari"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · 5:00 AM",
-          "title": "Pickup from Hotel in Goa",
-          "description": "Early morning pickup from your hotel in Goa in a comfortable AC vehicle. Meet your Russian-speaking guide who will accompany you throughout the journey. Enjoy scenic views of forests, rivers, and the Western Ghats while traveling toward Dandeli.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 1 · 7:30 AM",
-          "title": "Breakfast En Route",
-          "description": "Stop at a local restaurant for a South Indian breakfast before entering the Dandeli forest region.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 9:30 AM",
-          "title": "Arrival in Dandeli & Hotel Check-In",
-          "description": "Arrive in Dandeli and check in to a 3-star jungle lodge or resort surrounded by nature. Freshen up and prepare for wildlife activities.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · 10:30 AM",
-          "title": "Elephant Interaction & Forest Habitat Visit",
-          "description": "Visit the elephant conservation area to observe elephants in their natural forest environment. Activities include watching elephants graze and interact while learning about their behavior, care, and conservation efforts explained by your guide.",
-          "category": "wildlife",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · 12:00 PM",
-          "title": "Nature Walk & Bird Watching",
-          "description": "Guided nature walk through the lush greenery of Dandeli. Spot birds such as hornbills, kingfishers, woodpeckers, and other forest species.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 1:30 PM",
-          "title": "Lunch Break (Self-paid)",
-          "description": "Optional lunch at the hotel restaurant with vegetarian and non-vegetarian options.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 3:00 PM",
-          "title": "Visit to Syntheri Rocks",
-          "description": "Explore the impressive Syntheri Rocks, a massive 300-foot monolithic granite rock formation carved by the Kaneri River. Highlights include scenic river streams, rock carvings, and bee colonies on the rock faces.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 5:30 PM",
-          "title": "Sunset Point & Backwater View",
-          "description": "Enjoy beautiful sunset views over the Kali River backwaters—calm, peaceful, and ideal for evening relaxation.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 7:00 PM",
-          "title": "Dinner & Overnight Stay",
-          "description": "Return to the hotel for dinner and a comfortable overnight stay in your 3-star accommodation.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · 5:30 AM",
-          "title": "Wake-Up Call & Tea/Coffee",
-          "description": "Early morning wake-up with tea or coffee to prepare for the safari during peak wildlife activity hours.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 6:00 AM",
-          "title": "Tiger Safari – Dandeli Wildlife Sanctuary",
-          "description": "Embark on an exciting tiger safari inside the dense Dandeli forest. Possible wildlife sightings include tigers, Indian elephants, sambar deer, spotted deer, and Indian giant squirrels. Safari jeep is accompanied by a forest guide and your English-speaking guide.",
-          "category": "wildlife",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · 9:00 AM",
-          "title": "Return to Hotel & Breakfast",
-          "description": "Return to the resort after the safari and enjoy a delicious breakfast.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 10:00 AM",
-          "title": "Check-Out & Return Journey to Goa",
-          "description": "Check out from the hotel and begin the scenic return journey to Goa via forest roads and mountain passes.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 1:00 PM",
-          "title": "Lunch Stop En Route (Self-paid)",
-          "description": "Optional lunch stop at a highway restaurant recommended by your guide.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 4:30 PM",
-          "title": "Arrival Back in Goa",
-          "description": "Drop-off at your hotel in Goa, marking the end of the Dandeli Elephant & Tiger Safari experience.",
-          "category": "arrival"
-        }
+  "price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "The same Dandeli adventure, with tailored inclusions for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Dandeli Wildlife Package",
+      "amount": "₹6,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price",
+      "points": [
+        "AC vehicle throughout, with road trip from Goa",
+        "Private driver for all transfers",
+        "Elephant camp visit & jungle safari included",
+        "Syntheri Rocks & Kali River sunset point included"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Dandeli Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Dandeli Wildlife Discovery Package",
+      "amount": "$179",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price",
+      "points": [
+        "English-speaking guide across both days",
+        "Lunch included on both days, not self-paid",
+        "Wildlife safari experience with realistic wildlife expectations",
+        "Observation-only elephant camp visit included"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Dandeli Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Goa to Dandeli – Elephant Camp & Nature Walk",
+        "description": "Early 5 AM pickup from your Goa hotel for the scenic drive through the Western Ghats, with a South Indian breakfast stop en route. Check into your jungle lodge by mid-morning, then visit the elephant camp followed by a guided nature walk and bird watching in the afternoon.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Jungle Safari & Return to Goa",
+        "description": "An early 5:30 AM start for the jungle safari through Dandeli's forest during peak wildlife hours, with chances to spot gaur, deer, giant squirrels and birdlife. Tiger sightings are rare and not guaranteed. Return for breakfast, check out, and drive back to Goa via Syntheri Rocks and the Kali River sunset point.",
+        "category": "wildlife",
+        "highlight": true
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Goa to Dandeli – Elephant Camp & Nature Walk",
+        "description": "Your guide picks you up at 5 AM for the drive through the Western Ghats, with a breakfast stop along the way. After checking into your jungle lodge, visit the elephant camp for an observation-only experience, followed by a guided nature walk with birdwatching and opportunities to spot hornbills, kingfishers and woodpeckers.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Jungle Safari & Return to Goa",
+        "description": "Head out early for the jungle safari, with your guide setting honest expectations. Gaur, deer, giant squirrels and birdlife are the likely sightings, while tigers or leopards are a rare bonus rather than a guarantee. After breakfast, check out and drive back to Goa via Syntheri Rocks and a sunset stop at the Kali River, with lunch included en route.",
+        "category": "wildlife",
+        "highlight": true
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Elephant Interaction",
@@ -7507,145 +7551,126 @@ export const en = {
           "description": "All major attractions covered"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · 9:00 AM",
-          "title": "Arrival in Jodhpur & Hotel Transfer",
-          "description": "Arrival at Jodhpur Airport. Meet & greet followed by transfer to the hotel. Freshen up and take rest.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · 12:30 PM",
-          "title": "Umaid Bhawan Palace Museum",
-          "description": "Visit Umaid Bhawan Palace Museum and explore royal artefacts, vintage photographs, and history of the Jodhpur royal family.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · 2:30 PM",
-          "title": "Lunch Break",
-          "description": "Lunch break at a local restaurant (self-paid).",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 3:30 PM – 6:30 PM",
-          "title": "Mandore Gardens & Clock Tower Market",
-          "description": "Visit Mandore Gardens followed by exploration of Clock Tower Market (Ghanta Ghar). Free time for shopping of spices, handicrafts, mojari shoes, and souvenirs.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · Night",
-          "title": "Overnight Stay in Jodhpur",
-          "description": "Return to hotel and enjoy overnight stay in Jodhpur.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · 9:00 AM",
-          "title": "Mehrangarh Fort",
-          "description": "Start the day with a guided visit to Mehrangarh Fort (entry included). Explore the fort museum, cannon points, and enjoy panoramic views of the Blue City.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · 11:30 AM",
-          "title": "Jaswant Thada",
-          "description": "Visit Jaswant Thada, a peaceful marble cenotaph set beside a serene lake.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · 1:30 PM",
-          "title": "Lunch Break",
-          "description": "Lunch break at a local restaurant (self-paid).",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 3:00 PM",
-          "title": "Rao Jodha Desert Park / Blue City Walk",
-          "description": "Explore Rao Jodha Desert Park or enjoy a Blue City Heritage Walk through the old town up to Pachetia Hills View Point.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · 6:00 PM",
-          "title": "Return to Hotel",
-          "description": "Return to the hotel for rest.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · Evening",
-          "title": "Dinner at Rooftop Restaurant (Optional)",
-          "description": "Optional dinner at a rooftop restaurant overlooking the Blue City (own cost).",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · Night",
-          "title": "Overnight Stay in Jodhpur",
-          "description": "Overnight stay at the hotel in Jodhpur.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 3 · 9:00 AM",
-          "title": "Checkout & Drive to Udaipur",
-          "description": "Check out from the hotel and drive to Udaipur (260 km / approx. 5 hours) via scenic Aravali ranges.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 3 · 2:00 PM",
-          "title": "Arrival & Hotel Check-In in Udaipur",
-          "description": "Arrival in Udaipur and check in to a 3-star hotel. Freshen up and relax.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 3 · 3:30 PM – 7:00 PM",
-          "title": "Fateh Sagar Lake & Saheliyon Ki Bari",
-          "description": "Visit Fateh Sagar Lake followed by Saheliyon Ki Bari (entry included) and Maharana Pratap Smarak (Moti Magri).",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 3 · Night",
-          "title": "Overnight Stay in Udaipur",
-          "description": "Return to hotel for overnight stay in Udaipur.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 4 · 9:00 AM",
-          "title": "Udaipur City Palace",
-          "description": "Visit City Palace Udaipur (entry included). Explore palace museum, courtyards, and heritage rooms.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 4 · 12:30 PM",
-          "title": "Lunch Break",
-          "description": "Lunch break at a local restaurant (self-paid).",
-          "category": "meal"
-        },
-        {
-          "time": "Day 4 · 2:00 PM",
-          "title": "Jagdish Temple, Old City & Lake Pichola",
-          "description": "Visit Jagdish Temple, stroll through old city bazaars, drive to Lake Pichola, and enjoy a boat ride to Jag Mandir Palace (tickets included).",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 4 · 6:30 PM",
-          "title": "Bagore Ki Haveli Cultural Show",
-          "description": "Visit Bagore Ki Haveli and enjoy the Dharohar cultural dance show (included).",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 4 · Night",
-          "title": "Overnight Stay in Udaipur",
-          "description": "Return to hotel for overnight stay in Udaipur.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 5 · Morning",
-          "title": "Breakfast, Check-Out & Departure",
-          "description": "Breakfast at the hotel followed by check-out and transfer to Udaipur Airport. Board return flight with beautiful memories.",
-          "category": "travel"
-        }
+"price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "Experience the royal heritage of Rajasthan from Jodhpur to Udaipur, with tailored inclusions for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Rajasthan Royal Heritage Package",
+      "amount": "₹22,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price · flights extra",
+      "points": [
+        "AC vehicle throughout for all transfers and sightseeing",
+        "Mehrangarh Fort, City Palace & Bagore Ki Haveli cultural show included",
+        "Lunch self-paid, with recommended local restaurants suggested"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Rajasthan Royal Heritage Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Rajasthan Royal Discovery Package",
+      "amount": "$579",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price · flights extra",
+      "points": [
+        "English-speaking guide throughout",
+        "Lunch included on all 4 days, not self-paid",
+        "Rooftop dinner in Jodhpur included",
+        "Guide-led Blue City heritage walk with detailed Rajputana history"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Rajasthan Royal Discovery Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Arrival in Jodhpur – Umaid Bhawan Palace",
+        "description": "Arrive at Jodhpur Airport and transfer to your hotel to freshen up. Visit Umaid Bhawan Palace Museum for royal artefacts and family history, then explore Mandore Gardens and the Clock Tower Market for spices, handicrafts and mojari shoes.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Mehrangarh Fort & Blue City",
+        "description": "Visit Mehrangarh Fort for panoramic views over the Blue City, followed by Jaswant Thada's peaceful marble cenotaph. In the afternoon, explore Rao Jodha Desert Park or take a walk through the old town up to Pachetia Hills View Point.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Jodhpur to Udaipur",
+        "description": "Check out and drive to Udaipur, about 5 hours through the scenic Aravali ranges. On arrival, visit Fateh Sagar Lake, Saheliyon Ki Bari, and the Maharana Pratap Smarak at Moti Magri.",
+        "category": "travel",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Udaipur City Palace & Lake Pichola",
+        "description": "Explore City Palace Udaipur's museum and heritage rooms, then visit Jagdish Temple and the old city bazaars before a boat ride on Lake Pichola to Jag Mandir Palace. In the evening, catch the Dharohar cultural dance show at Bagore Ki Haveli.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 5",
+        "title": "Departure",
+        "description": "Breakfast at the hotel, followed by check-out and transfer to Udaipur Airport for your return flight.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Arrival in Jodhpur – Umaid Bhawan Palace",
+        "description": "Your guide receives you at Jodhpur Airport and transfers you to your hotel. Visit Umaid Bhawan Palace Museum, then explore Mandore Gardens and the Clock Tower Market, with lunch included along the way.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Mehrangarh Fort & Blue City",
+        "description": "Enjoy a guided tour of Mehrangarh Fort with commentary on Rajputana history, followed by Jaswant Thada. In the afternoon, take a guided Blue City heritage walk up to Pachetia Hills View Point, ending the day with an included rooftop dinner overlooking the old town.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Jodhpur to Udaipur",
+        "description": "Drive to Udaipur, about 5 hours through the Aravali ranges, with your guide narrating the landscape and history along the way. On arrival, visit Fateh Sagar Lake, Saheliyon Ki Bari, and the Maharana Pratap Smarak.",
+        "category": "travel",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Udaipur City Palace & Lake Pichola",
+        "description": "Explore City Palace Udaipur with your guide, then Jagdish Temple and the old city bazaars, followed by a boat ride on Lake Pichola to Jag Mandir Palace, with lunch included. In the evening, enjoy the Dharohar cultural dance show at Bagore Ki Haveli.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 5",
+        "title": "Departure",
+        "description": "Breakfast at the hotel, then your guide sees you off with a smooth transfer to Udaipur Airport for your return flight.",
+        "category": "travel"
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Mehrangarh-Festung",
@@ -7758,135 +7783,135 @@ export const en = {
         "description": "Daily Breakfast & Dinner"
       }
     ],
-    "price": {
-      "sectionLabel": "Choose Your Fare",
-      "sectionTitle": "One Kashmir, Two Packages",
-      "sectionSubtitle": "Same route, tailored inclusions. Indian travellers get a value-first plan; international travellers get a permit-assisted, guide-led plan built around what first-time visitors to Kashmir usually need.",
-      "domestic": {
-        "badge": "Indian Traveller",
-        "packageName": "Kashmir Value Package",
-        "amount": "₹16,999",
-        "currency": "INR",
-        "per": "person",
-        "note": "Twin sharing · starting price, GST extra",
-        "points": [
-          "Non-AC Sedan/Innova for all transfers & sightseeing",
-          "Daily breakfast & dinner with Kashmiri thali options",
-          "Mughal Gardens, Tulip Garden & Shankaracharya Temple visit",
-          "1 night houseboat stay with sunset shikara ride"
-        ],
-        "cta": {
-          "label": "Get Exact Quote",
-          "whatsapp": {
-            "number": "+919067972295",
-            "message": "Hi! I'm interested in the Indian Traveller Kashmir Package."
-          }
-        }
-      },
-      "international": {
-        "badge": "International Traveller",
-        "packageName": "Kashmir Discovery Package",
-        "amount": "$ 349",
-        "currency": "USD",
-        "per": "person",
-        "note": "Twin sharing · starting price, taxes extra",
-        "points": [
-          "Private English-speaking guide on every sightseeing day",
-          "Permit paperwork handled for restricted zones en route",
-          "Premium heritage houseboat with lake-facing deck",
-          "Old Srinagar walking tour & handicraft workshop visit"
-        ],
-        "cta": {
-          "label": "Get Exact Quote",
-          "whatsapp": {
-            "number": "+919067972295",
-            "message": "Hi! I'm interested in the International Traveller Kashmir Package."
-          }
+  "price": {
+    "sectionLabel": "Choose Your Fare",
+    "sectionTitle": "One Kashmir, Two Packages",
+    "sectionSubtitle": "Same route, tailored inclusions. Indian travellers get a value-first plan; international travellers get a permit-assisted, guide-led plan built around what first-time visitors to Kashmir usually need.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Kashmir Value Package",
+      "amount": "₹16,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price, GST extra",
+      "points": [
+        "Non-AC Sedan/Innova for all transfers and sightseeing",
+        "Daily breakfast and dinner with Kashmiri thali options",
+        "Mughal Gardens, Tulip Garden and Shankaracharya Temple visit",
+        "1 night houseboat stay with sunset shikara ride"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Kashmir Package."
         }
       }
     },
-    "itinerary": {
-      "domestic": [
-        {
-          "time": "Day 1",
-          "title": "Srinagar Arrival & Sightseeing",
-          "description": "Arrival at Srinagar airport, transfer to hotel. Evening sightseeing covering Mughal Gardens, Cheshmashahi, Nishat, Shalimar, the Tulip Garden (Asia's largest) and Shankaracharya Temple atop the hill. Dinner and overnight stay at hotel.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2",
-          "title": "Srinagar – Sonamarg",
-          "description": "Full-day trip to Sonamarg, the \"meadow of gold,\" with year-round snow at Thajiwas Glacier. Optional pony ride on own cost. Return to Srinagar for dinner and overnight stay.",
-          "category": "activity"
-        },
-        {
-          "time": "Day 3",
-          "title": "Srinagar – Gulmarg",
-          "description": "Full-day trip to Gulmarg, known for its golf course and winter skiing. Optional gondola ride to Apharwat (13,000 ft) on own cost. Check-in to houseboat in the evening, followed by a shikara ride to watch the sunset over Dal Lake.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 4",
-          "title": "Srinagar – Pahalgam",
-          "description": "Drive to Pahalgam, stopping at saffron fields and the Avantipora ruins. Check-in to hotel, then free time to explore Pahalgam or take an optional local-taxi trip to Aru, Baisaran, Betaab Valley or Chandanwari.",
-          "category": "activity"
-        },
-        {
-          "time": "Day 5",
-          "title": "Pahalgam – Srinagar",
-          "description": "Return to Srinagar and check-in to houseboat. Evening shikara ride to enjoy the sunset on Dal Lake, followed by dinner and overnight stay on the houseboat.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 6",
-          "title": "Srinagar – Departure",
-          "description": "Breakfast and check-out. Time permitting, shopping for Kashmiri shawls, dry fruits and handicrafts before transfer to Srinagar airport for onward journey.",
-          "category": "activity"
-        }
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Kashmir Discovery Package",
+      "amount": "$349",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price, taxes extra",
+      "points": [
+        "Private English-speaking guide on every sightseeing day",
+        "Permit paperwork handled for restricted zones en route",
+        "Premium heritage houseboat with lake-facing deck",
+        "Old Srinagar walking tour and handicraft workshop visit"
       ],
-      "international": [
-        {
-          "time": "Day 1",
-          "title": "Arrival & Old Srinagar Walk",
-          "description": "Private guide meets you at Srinagar airport and transfers you to your hotel. Afternoon covers the Mughal Gardens and Nishat Bagh, followed by a guided walk through Old Srinagar past Jamia Masjid and Zaina Kadal. Dinner and overnight at hotel.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2",
-          "title": "Srinagar – Sonamarg",
-          "description": "Scenic day drive to Sonamarg along the Sindh River, with permit formalities pre-arranged. Photo stop at Thajiwas Glacier. Evening back in Srinagar includes a short demonstration of Kashmiri papier-mâché or carpet weaving.",
-          "category": "activity"
-        },
-        {
-          "time": "Day 3",
-          "title": "Srinagar – Gulmarg",
-          "description": "Full-day trip to Gulmarg with the Gondola cable car ride included (Phase 1 & 2, subject to weather). Return to Srinagar to check into a premium houseboat, followed by a private shikara sunset cruise with Kahwa tea service.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 4",
-          "title": "Srinagar – Pahalgam",
-          "description": "Drive to Pahalgam via the saffron fields of Pampore and the Avantipora ruins. Afternoon walk along the Lidder River, with an optional visit to Betaab Valley or Aru Valley. Season-dependent evening bonfire at the resort.",
-          "category": "activity"
-        },
-        {
-          "time": "Day 5",
-          "title": "Pahalgam – Srinagar",
-          "description": "Return to Srinagar, with an optional early-morning visit to the floating vegetable market on Dal Lake. Evening shikara ride at sunset, followed by a multi-course Kashmiri Wazwan farewell dinner served on the houseboat.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 6",
-          "title": "Srinagar – Departure",
-          "description": "Relaxed breakfast, followed by guided last-minute shopping for pashmina and saffron. Private transfer to Srinagar airport for your onward journey.",
-          "category": "activity"
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Kashmir Package."
         }
-      ]
-    },
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Srinagar Arrival & Sightseeing",
+        "description": "Land in Srinagar and meet our team at the airport for your transfer to the hotel. After freshening up, visit the city's famous Mughal Gardens, Tulip Garden and Shankaracharya Temple for beautiful views over the valley. Return to the hotel for dinner and a comfortable overnight stay.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Srinagar – Sonamarg",
+        "description": "Drive to Sonamarg through the scenic Sindh Valley, with the journey itself forming part of the experience. Visit Thajiwas Glacier, where snow can remain even during peak summer. A pony ride to the glacier is available at your own cost. Return to Srinagar for dinner and overnight stay.",
+        "category": "activity"
+      },
+      {
+        "time": "Day 3",
+        "title": "Srinagar – Gulmarg",
+        "description": "Head to Gulmarg, one of Kashmir's most spectacular destinations, known for its high-altitude golf course and winter skiing. Take the optional Gondola ride to Apharwat at around 13,000 feet for panoramic mountain views at your own cost. In the evening, check into your houseboat and enjoy a sunset shikara ride on Dal Lake.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Srinagar – Pahalgam",
+        "description": "Drive towards Pahalgam, stopping at Kashmir's saffron fields and the ancient Avantipora ruins. After checking into your hotel, enjoy free time to explore Pahalgam on foot or arrange a local taxi to Aru Valley, Baisaran, Betaab Valley or Chandanwari at your own cost.",
+        "category": "activity"
+      },
+      {
+        "time": "Day 5",
+        "title": "Pahalgam – Srinagar",
+        "description": "Return to Srinagar and check into your houseboat on Dal Lake. In the evening, enjoy another sunset shikara ride across the lake before dinner and an overnight stay on the houseboat.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 6",
+        "title": "Srinagar – Departure",
+        "description": "Enjoy breakfast and a relaxed check-out. If time permits, shop for Kashmiri shawls, dry fruits and handicrafts before your transfer to Srinagar Airport for your return journey.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Arrival & Old Srinagar Walk",
+        "description": "Your private guide meets you at Srinagar Airport and transfers you to your hotel. Visit the Mughal Gardens and Nishat Bagh, followed by a guided walk through the old quarters of Srinagar, passing Jamia Masjid and Zaina Kadal Bridge. Experience the city from a local perspective before dinner and overnight stay.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Srinagar – Sonamarg",
+        "description": "Take a scenic drive to Sonamarg along the Sindh River, with permit paperwork arranged in advance for restricted zones along the route. Stop for photographs at Thajiwas Glacier, where snow can linger during summer. Return to Srinagar and enjoy a demonstration of traditional Kashmiri papier-mâché or carpet weaving.",
+        "category": "activity"
+      },
+      {
+        "time": "Day 3",
+        "title": "Srinagar – Gulmarg",
+        "description": "Travel to Gulmarg and enjoy the included Gondola ride through Phases 1 and 2, subject to weather conditions. Return to Srinagar and check into a premium heritage houseboat with a lake-facing deck, followed by a private sunset shikara cruise with Kahwa tea served on the water.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Srinagar – Pahalgam",
+        "description": "Drive to Pahalgam via Pampore's saffron fields and the ancient Avantipora ruins. In the afternoon, walk along the Lidder River or visit Betaab Valley or Aru Valley when conditions permit. Depending on the weather, enjoy a relaxing evening around a bonfire at the resort.",
+        "category": "activity"
+      },
+      {
+        "time": "Day 5",
+        "title": "Pahalgam – Srinagar",
+        "description": "Return to Srinagar, with an optional early visit to the floating vegetable market on Dal Lake. In the evening, enjoy a final sunset shikara ride followed by a traditional Kashmiri Wazwan multi-course dinner served on the houseboat.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 6",
+        "title": "Srinagar – Departure",
+        "description": "Enjoy a relaxed breakfast before your guide takes you shopping for pashmina, saffron and Kashmiri handicrafts. Finish with a private transfer to Srinagar Airport for your onward journey.",
+        "category": "travel"
+      }
+    ]
+  },
     "gallery": [
       {
         "title": "Dal Lake Shikara",
@@ -8631,7 +8656,6 @@ export const en = {
       ]
     },
 
-    //   "file_name": "South-Goa-1-Day-Trip-package.html",
     //   "page": {
     //     "slug": "palolem-cola-full-day-tour",
     //     "type": "day-trip",
@@ -8869,119 +8893,87 @@ export const en = {
           "description": "Pattadakal Heritage Site"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · 5:00 AM",
-          "title": "Pickup from Hotel in Goa",
-          "description": "Early morning pickup from your hotel in Goa in a comfortable AC taxi. Meet your English-speaking guide who will accompany you throughout the tour. Begin a scenic drive through the Western Ghats into the Deccan plateau of Karnataka.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 1 · 8:00 AM",
-          "title": "Breakfast Stop",
-          "description": "Enjoy a South Indian breakfast at a clean highway restaurant before continuing the journey toward Bijapur (Vijayapura).",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 12:00 PM",
-          "title": "Arrival in Bijapur & Start of Sightseeing",
-          "description": "Arrive in the historic city of Bijapur and begin exploring its magnificent Indo-Islamic monuments with your guide.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · 12:15 PM",
-          "title": "Gol Gumbaz",
-          "description": "Visit the iconic Gol Gumbaz, famous for its massive dome (second-largest in the world), Whispering Gallery, Indo-Islamic architecture, and the tomb of Sultan Mohammed Adil Shah. Learn about the acoustic marvels of the structure from your guide.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · 1:30 PM",
-          "title": "Ibrahim Rauza",
-          "description": "Explore the elegant Ibrahim Rauza, often called the ‘Taj Mahal of the Deccan’, known for its carved minarets, tranquil garden complex, and intricate stonework.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 2:15 PM",
-          "title": "Lunch Break (Self-paid)",
-          "description": "Lunch at a local restaurant with North and South Indian cuisine options, as recommended by your guide.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 3:15 PM",
-          "title": "Bijapur Fort & Gagan Mahal",
-          "description": "Explore the historic Bijapur Fort complex, including ancient gateways, Gagan Mahal (royal palace), durbar halls, and massive stone walls.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 4:30 PM",
-          "title": "Jama Masjid",
-          "description": "Visit one of the largest and oldest mosques in South India, known for its vast prayer courtyard, beautiful arches, Persian calligraphy, and peaceful atmosphere.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 6:00 PM",
-          "title": "Hotel Check-In",
-          "description": "Check in to your 3-star hotel in Bijapur. Relax and enjoy the evening at leisure.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · 7:30 PM",
-          "title": "Dinner & Overnight Stay",
-          "description": "Dinner and comfortable overnight stay at the hotel in Bijapur.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 7:00 AM",
-          "title": "Breakfast at Hotel",
-          "description": "Enjoy a wholesome breakfast at the hotel before checkout.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 7:30 AM",
-          "title": "Drive to Aihole",
-          "description": "Drive to Aihole (approx. 2 hours), known as the cradle of Indian temple architecture.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 9:30 AM",
-          "title": "Aihole Temple Complex",
-          "description": "Explore ancient Chalukya monuments dating back to the 5th–7th century, including Durga Temple, Lad Khan Temple, Ravana Phadi Cave Temple, and Gaudar Gudi. Learn how Aihole served as an experimental center for early Hindu architecture.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · 11:30 AM",
-          "title": "Drive to Pattadakal (UNESCO Site)",
-          "description": "Travel from Aihole to Pattadakal, a UNESCO World Heritage Site.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 12:00 PM",
-          "title": "Pattadakal Temple Complex",
-          "description": "Visit the Pattadakal temple complex showcasing a blend of Dravidian and Nagara architecture. Key temples include Virupaksha, Mallikarjuna, Kashi Vishwanatha, and Sangameshwara. Learn about the Chalukya coronation ceremonies held here.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · 1:30 PM",
-          "title": "Lunch Break (Self-paid)",
-          "description": "Lunch at a nearby restaurant serving local Karnataka cuisine.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 2:30 PM",
-          "title": "Return Journey to Goa",
-          "description": "Begin the scenic drive back to Goa with comfort stops along the way.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · 7:30 PM",
-          "title": "Arrival Back in Goa",
-          "description": "Drop-off at your hotel in Goa, marking the end of your cultural journey through Bijapur, Aihole, and Pattadakal.",
-          "category": "arrival"
-        }
+"price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "The same heritage journey from Goa to Bijapur, Aihole and Pattadakal, with tailored inclusions for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Bijapur Heritage Package",
+      "amount": "₹8,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price",
+      "points": [
+        "AC vehicle throughout the road trip from Goa",
+        "Private driver for all transfers and sightseeing",
+        "Gol Gumbaz, Ibrahim Rauza, Bijapur Fort & Jama Masjid covered",
+        "Pattadakal (UNESCO) & Aihole temple complexes included"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Bijapur Heritage Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Bijapur Heritage Discovery Package",
+      "amount": "$219",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price",
+      "points": [
+        "English-speaking guide across both days",
+        "Lunch included on both days, not self-paid",
+        "Mosque etiquette briefing before Jama Masjid",
+        "Optional relaxed 3D2N version available"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Bijapur Heritage Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Goa to Bijapur – Sightseeing",
+        "description": "Early 5 AM pickup from your Goa hotel for the scenic drive through the Western Ghats into Karnataka, with a South Indian breakfast stop en route. Arrive in Bijapur by noon and spend the afternoon exploring Gol Gumbaz's Whispering Gallery, Ibrahim Rauza, Bijapur Fort and Jama Masjid, before checking into your hotel for dinner and an overnight stay.",
+        "category": "travel",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Aihole & Pattadakal – Return to Goa",
+        "description": "After breakfast, drive about 2 hours to Aihole to explore its 5th–7th century Chalukya temples, then continue to the UNESCO-listed Pattadakal complex, home to the Virupaksha and Mallikarjuna temples. After lunch, begin the drive back to Goa, arriving by evening.",
+        "category": "activity",
+        "highlight": true
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Goa to Bijapur – Sightseeing",
+        "description": "Your guide picks you up at 5 AM from your Goa hotel for the drive through the Western Ghats, with a breakfast stop along the way. On arrival in Bijapur by noon, explore Gol Gumbaz's acoustic Whispering Gallery, Ibrahim Rauza and Bijapur Fort. Before visiting Jama Masjid, your guide briefs you on mosque etiquette, including modest dress, removing shoes and timing your visit around prayer hours. Lunch is included before checking into your hotel for dinner.",
+        "category": "travel",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Aihole & Pattadakal – Return to Goa",
+        "description": "Drive to Aihole, about 2 hours, where your guide explains how the site served as an early experimental centre for Hindu temple architecture. Continue to Pattadakal, a UNESCO World Heritage Site, to explore the Virupaksha and Mallikarjuna temples. Lunch is included before beginning the drive back to Goa.",
+        "category": "activity",
+        "highlight": true
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Gol Gumbaz",
@@ -9088,101 +9080,83 @@ export const en = {
           "description": "All major attractions"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · Morning",
-          "title": "Arrival in Hyderabad & Hotel Transfer",
-          "description": "Arrival at Rajiv Gandhi International Airport (HYD). Meet and assist by company representative and Russian-speaking guide. Transfer to the hotel for check-in and freshening up.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · 09:30 AM – 11:30 AM",
-          "title": "Golconda Fort",
-          "description": "Guided tour of Golconda Fort including the famous acoustics point, Bala Hisar, and panoramic views from the top. One of Hyderabad’s most important heritage landmarks.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · 11:45 AM – 12:30 PM",
-          "title": "Qutb Shahi Tombs (Optional)",
-          "description": "Short visit to the Qutb Shahi Tombs complex. Walk or drive through landscaped gardens, ideal for photography and historical context related to Golconda Fort.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 01:00 PM – 02:00 PM",
-          "title": "Lunch Break",
-          "description": "Lunch at a recommended restaurant. Suggested Hyderabadi cuisine such as biryani, or a Russian-friendly dining option.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 02:30 PM – 04:00 PM",
-          "title": "Chowmahalla Palace",
-          "description": "Visit the historic Chowmahalla Palace, the former seat of the Nizams. Explore royal courtyards, halls, and preserved palace architecture.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · 04:15 PM – 06:00 PM",
-          "title": "Charminar & Laad Bazaar",
-          "description": "Walk around Charminar (entry included) and explore Laad Bazaar, famous for bangles, pearls, and local crafts. Optional short stop at Mecca Masjid if time permits.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · 07:00 PM – 08:30 PM",
-          "title": "Dinner",
-          "description": "Evening dinner at a traditional Hyderabadi restaurant as recommended by the guide.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 1 · 09:00 PM",
-          "title": "Return to Hotel & Overnight Stay",
-          "description": "Return to the hotel for overnight stay in Hyderabad.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · 07:30 AM – 08:30 AM",
-          "title": "Breakfast & Check-Out",
-          "description": "Breakfast at the hotel. Check out and store luggage if the flight is scheduled later.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 09:00 AM – 11:00 AM",
-          "title": "Salar Jung Museum",
-          "description": "Visit Salar Jung Museum, one of India’s largest single-collector museums featuring sculptures, paintings, artifacts, and international collections.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · 11:15 AM – 12:00 PM",
-          "title": "Birla Mandir (Optional)",
-          "description": "Short visit to Birla Mandir, offering peaceful surroundings and panoramic skyline views of Hyderabad.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · 12:15 PM – 01:15 PM",
-          "title": "Hussain Sagar Lake & Buddha Statue",
-          "description": "Drive to Hussain Sagar Lake and Lumbini Park area. Photo stop at the Buddha statue in the middle of the lake. Optional boat ride can be arranged.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · 01:30 PM – 02:30 PM",
-          "title": "Lunch Break",
-          "description": "Lunch at a local restaurant.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · 02:45 PM – 04:00 PM",
-          "title": "Shopping Time",
-          "description": "Free time for shopping at local markets for souvenirs and handicrafts.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Evening",
-          "title": "Transfer to Hyderabad Airport & Departure",
-          "description": "Private transfer to Hyderabad Airport with assistance for boarding. Tour concludes after airport drop-off.",
-          "category": "travel"
-        }
+"price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "Choose the Hyderabad experience that best fits your travel needs.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Hyderabad Discovery Package",
+      "amount": "₹10,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price, round-trip flights included",
+      "points": [
+        "Round-trip flights from Goa to Hyderabad included",
+        "Private AC car with driver for all transfers and sightseeing",
+        "Golconda Fort, Charminar, Chowmahalla Palace & Salar Jung Museum covered",
+        "All monument entry fees included"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Hyderabad Package for Indian Travellers."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Hyderabad Discovery Package",
+      "amount": "$259",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price, round-trip flights included",
+      "points": [
+        "English-speaking guide across both days",
+        "Mosque etiquette briefing before the optional Mecca Masjid stop",
+        "Guide-recommended dining options suited to international palates",
+        "Extra context at Salar Jung Museum on its international art collections"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Hyderabad Package for International Travellers."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Arrival – Golconda Fort, Chowmahalla & Charminar",
+        "description": "Arrive at Hyderabad Airport and transfer to your hotel for a quick freshen-up. Spend the morning exploring Golconda Fort, famous for its acoustics and panoramic Bala Hisar viewpoint, followed by a visit to the Qutb Shahi Tombs. After lunch, visit Chowmahalla Palace, the former seat of the Nizams, then close the day at Charminar and Laad Bazaar for bangles, pearls and local crafts, followed by dinner at a traditional Hyderabadi restaurant.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Salar Jung Museum, Hussain Sagar & Departure",
+        "description": "After breakfast and check-out, visit Salar Jung Museum, one of India's largest single-collector museums. Make an optional stop at Birla Mandir for panoramic city views. Continue to Hussain Sagar Lake for a photo stop at the Buddha Statue, then enjoy some free time for shopping before your evening transfer to the airport.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Arrival – Golconda Fort, Chowmahalla & Charminar",
+        "description": "Your guide meets you at Hyderabad Airport and transfers you to your hotel. Explore Golconda Fort's acoustics and Bala Hisar viewpoint with your guide's commentary, followed by the Qutb Shahi Tombs. After lunch at a guide-recommended restaurant, visit Chowmahalla Palace, then Charminar and Laad Bazaar. If you choose to visit Mecca Masjid, your guide will provide a brief etiquette briefing beforehand, including modest dress and removing your shoes.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Salar Jung Museum, Hussain Sagar & Departure",
+        "description": "Visit Salar Jung Museum with your guide, who will highlight the collection's standout international artworks, followed by an optional stop at Birla Mandir. Continue to Hussain Sagar Lake for a photo stop at the Buddha Statue, with time for guided shopping before your guide sees you off at the airport.",
+        "category": "travel"
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Golconda Fort",
@@ -9287,137 +9261,111 @@ export const en = {
           "description": "All major attractions"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · 9:00 AM",
-          "title": "Arrival in Jodhpur & Pickup",
-          "description": "Arrival at Jodhpur Airport or Railway Station. Pickup at 9:00 AM, transfer to a 3-star hotel, check-in, and time to freshen up before sightseeing.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · Morning",
-          "title": "Mehrangarh Fort",
-          "description": "Visit Mehrangarh Fort, Rajasthan’s most majestic hill fort, offering panoramic views of the Blue City and detailed insights into Rajput history.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · Late Morning",
-          "title": "Jaswant Thada",
-          "description": "Visit Jaswant Thada, the royal cenotaphs built in white marble, overlooking a serene lake.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · Afternoon",
-          "title": "Umaid Bhawan Palace Museum",
-          "description": "Explore the Umaid Bhawan Palace Museum showcasing royal artifacts, photographs, and vintage automobiles.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · Afternoon",
-          "title": "Clock Tower & Sardar Market Drive",
-          "description": "Drive through the bustling Clock Tower area and Sardar Market, experiencing local life and commerce.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · Evening",
-          "title": "Free Time for Shopping",
-          "description": "Free time to shop for handicrafts, Jodhpuri suits, mojari shoes, and local souvenirs.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · Night",
-          "title": "Overnight Stay in Jodhpur",
-          "description": "Return to the hotel for overnight stay in Jodhpur.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · Morning",
-          "title": "Breakfast & Drive to Jaisalmer",
-          "description": "Breakfast at the hotel followed by a scenic drive to Jaisalmer, the Golden City (280 km / approx. 5 hours).",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · Afternoon",
-          "title": "Gadisar Lake",
-          "description": "Visit Gadisar Lake, a scenic 14th-century reservoir surrounded by temples and ghats.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Afternoon",
-          "title": "Patwon Ki Haveli",
-          "description": "Explore Patwon Ki Haveli, a beautifully carved Jain haveli famous for its intricate stonework.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Afternoon",
-          "title": "Salim Singh & Nathmal Ki Haveli",
-          "description": "Visit Salim Singh Ki Haveli and Nathmal Ki Haveli, known for their unique architecture and historical significance.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Late Afternoon",
-          "title": "Jaisalmer Fort (Living Fort)",
-          "description": "Explore the living Jaisalmer Fort, the world’s only fort with homes, shops, and temples still functioning inside.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · Evening",
-          "title": "Hotel Check-In & Sunset Views",
-          "description": "Check in to a 3-star hotel in Jaisalmer. Relax and enjoy rooftop sunset views over the Golden City.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · Night",
-          "title": "Overnight Stay in Jaisalmer (City Hotel)",
-          "description": "Overnight stay at the city hotel in Jaisalmer.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 3 · Morning",
-          "title": "Breakfast & Visit to Kuldhara Village",
-          "description": "Breakfast at the hotel followed by a visit to Kuldhara, the abandoned haunted village near Jaisalmer.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 3 · Late Morning",
-          "title": "Bada Bagh Cenotaphs",
-          "description": "Visit Bada Bagh, the royal cenotaphs of Jaisalmer rulers, set amidst a scenic desert landscape.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 3 · Afternoon",
-          "title": "Transfer to Sam Sand Dunes & Camp Check-In",
-          "description": "Transfer to Sam Sand Dunes (40 km). Check in at the Swiss Tented Desert Camp.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 3 · Evening",
-          "title": "Desert Safari & Cultural Activities",
-          "description": "Enjoy camel safari during sunset, jeep dune bashing, Rajasthani folk dance and music show, evening tea with snacks, followed by a gala dinner at the campsite.",
-          "category": "adventure",
-          "highlight": true
-        },
-        {
-          "time": "Day 3 · Night",
-          "title": "Overnight Stay at Desert Camp",
-          "description": "Overnight stay at the Swiss Tented Desert Camp in Sam Sand Dunes.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 4 · Morning",
-          "title": "Breakfast & Check-Out",
-          "description": "Breakfast at the desert camp followed by check-out at 9:00 AM.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 4 · Morning",
-          "title": "Transfer to Jaisalmer Airport",
-          "description": "Transfer to Jaisalmer Airport for departure. Trip ends with beautiful memories.",
-          "category": "travel"
-        }
+  "price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "Discover Rajasthan's Blue and Golden Cities with historic forts, royal heritage, a living fort, and an immersive desert-camp experience tailored for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Jodhpur & Jaisalmer Desert Journey",
+      "amount": "₹27,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "Round-trip flights included",
+        "Private AC car with driver for all transfers and sightseeing",
+        "Mehrangarh Fort, Jaisalmer Fort and Sam Sand Dunes desert camp included",
+        "Camel safari, jeep dune bashing and Rajasthani folk show at the desert camp"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Jodhpur & Jaisalmer Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Jodhpur & Jaisalmer Desert Discovery",
+      "amount": "$629",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "English-speaking guide across all 4 days",
+        "Detailed explanation of Kuldhara's real 1825 migration history",
+        "Guide-led walk through Jaisalmer's living fort",
+        "Sunset photography stops included during the Sam Sand Dunes camel safari"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Jodhpur & Jaisalmer Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Arrival in Jodhpur – Mehrangarh Fort",
+        "description": "Arrive at Jodhpur Airport or Railway Station and transfer to your hotel to check in and freshen up. Visit Mehrangarh Fort for panoramic Blue City views, followed by Jaswant Thada's marble cenotaphs, Umaid Bhawan Palace Museum, and a drive past the Clock Tower and Sardar Market, with the evening free for shopping.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Jodhpur to Jaisalmer",
+        "description": "After breakfast, take the scenic 5-hour drive to Jaisalmer, the Golden City. On arrival, visit Gadisar Lake, Patwon Ki Haveli, Salim Singh Ki Haveli and Nathmal Ki Haveli, then explore the living Jaisalmer Fort before checking into your hotel for rooftop sunset views.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Kuldhara, Bada Bagh & Desert Camp",
+        "description": "Visit Kuldhara, the abandoned village near Jaisalmer, followed by the Bada Bagh royal cenotaphs. Transfer to Sam Sand Dunes and check into the Swiss Tented Desert Camp. Spend the evening on a camel safari, jeep dune bashing, and enjoy a Rajasthani folk dance show with dinner.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Departure",
+        "description": "Enjoy breakfast at the desert camp, followed by check-out and transfer to Jaisalmer Airport for your return flight.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Arrival in Jodhpur – Mehrangarh Fort",
+        "description": "Your guide meets you at Jodhpur Airport or Railway Station and transfers you to your hotel. Explore Mehrangarh Fort with your guide's commentary on Rajput history, followed by Jaswant Thada, Umaid Bhawan Palace Museum, and a walk through Clock Tower and Sardar Market.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Jodhpur to Jaisalmer",
+        "description": "Drive to Jaisalmer, about 5 hours, with your guide narrating the changing desert landscape. On arrival, visit Gadisar Lake and the three intricately carved havelis, then take a guided walk through the living Jaisalmer Fort, still home to functioning shops and temples, before checking in for sunset views.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Kuldhara, Bada Bagh & Desert Camp",
+        "description": "Visit Kuldhara, where your guide explains the real 1825 history behind the village's abandonment alongside the popular ghost-town legend. Continue to Bada Bagh, then transfer to the Swiss Tented Desert Camp at Sam Sand Dunes for a sunset camel safari with photography stops, jeep dune bashing, and an evening folk show with dinner.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Departure",
+        "description": "Enjoy breakfast at the desert camp, then your guide sees you off with a smooth transfer to Jaisalmer Airport for your return flight.",
+        "category": "travel"
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Mehrangarh Fort",
@@ -10006,33 +9954,111 @@ export const en = {
           "description": "Multiple islands"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1",
-          "title": "Arrival in Agatti",
-          "description": "Welcome to Agatti, home to one of Lakshadweep's most enchanting lagoons. Upon arrival at Agatti Airport, our team will warmly receive you.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2",
-          "title": "Thinnakara Island or Dolphin Watch",
-          "description": "Depart for a 1½-hour sea voyage to Thinnakara Island, where you can spot dolphins and turtles. If the Thinnakara permit is unavailable, enjoy dolphin watching and deep-sea fishing instead.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 3",
-          "title": "Kalpitti Island Exploration",
-          "description": "After breakfast, indulge in thrilling water sports activities at your leisure. Feel the adrenaline as you explore the azure waters surrounding Agatti.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 4",
-          "title": "Departure",
-          "description": "On the concluding day of your memorable Lakshadweep expedition, enjoy a hearty breakfast before transferring to Agatti Airport for your homeward-bound flight.",
-          "category": "travel"
-        }
+"price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "Escape to Lakshadweep for four days of pristine lagoons, island excursions and water sports, with a relaxed beach stay tailored for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Lakshadweep Island Escape",
+      "amount": "₹29,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "Round-trip flights from Goa to Agatti included",
+        "3 nights in a Standard Beach Villa Room",
+        "All meals included: breakfast, lunch and dinner",
+        "Snorkeling, kayaking and glass-bottom boat ride included"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Lakshadweep Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Lakshadweep Island Discovery",
+      "amount": "$699",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "Protected Area Permit handled on your behalf",
+        "Private English-speaking guide across all 4 days",
+        "Priority booking assistance for Thinnakara Island access",
+        "Snorkeling gear and guided reef briefing before your first swim"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Lakshadweep Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Arrival in Agatti",
+        "description": "Land at Agatti Airport, home to one of Lakshadweep's most beautiful lagoons, and get warmly received by our team. Check into your beach villa and spend the evening relaxing by the water.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Thinnakara Island or Dolphin Watch",
+        "description": "Take a 1.5-hour boat ride to Thinnakara Island, where dolphins and turtles are often spotted along the way. If the Thinnakara permit is unavailable on your dates, enjoy a dolphin-watching and deep-sea fishing trip instead.",
+        "category": "wildlife",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Agatti Water Sports",
+        "description": "After breakfast, spend the day enjoying water sports around Agatti's azure lagoon, including snorkeling, kayaking and a glass-bottom boat ride. The rest of the day is yours to unwind at your own pace.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Departure",
+        "description": "Enjoy a hearty breakfast before transferring to Agatti Airport for your flight home, carrying back memories of some of India's clearest waters.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Arrival in Agatti",
+        "description": "Your guide receives you at Agatti Airport, with your Protected Area Permit and entry paperwork already verified ahead of arrival. Check into your beach villa and spend the evening settling in by the lagoon.",
+        "category": "arrival"
+      },
+      {
+        "time": "Day 2",
+        "title": "Thinnakara Island or Dolphin Watch",
+        "description": "Take a scenic 1.5-hour boat ride to Thinnakara Island for a chance to spot dolphins and turtles en route, subject to permit availability confirmed a few days before your trip. If Thinnakara is inaccessible on your dates, enjoy a dolphin-watching and deep-sea fishing trip instead, with your guide adjusting the plan on the spot.",
+        "category": "wildlife",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Agatti Water Sports",
+        "description": "Receive a guided reef briefing covering coral-safe snorkeling practices before getting in the water. Enjoy snorkeling, kayaking and a glass-bottom boat ride around Agatti's lagoon, followed by free time to relax at your own pace.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 4",
+        "title": "Departure",
+        "description": "Enjoy a relaxed breakfast before your guide sees you off with a smooth transfer to Agatti Airport for your onward flight.",
+        "category": "travel"
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Agatti Island",
@@ -10138,125 +10164,99 @@ export const en = {
           "description": "All major temples"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · Morning / Noon",
-          "title": "Arrival in Delhi & Drive to Mathura",
-          "description": "Morning or noon arrival at Delhi Airport or Railway Station. Meet and greet by the tour representative followed by a comfortable drive to Mathura (180 km / approx. 3.5 hours), the birthplace of Lord Krishna.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 1 · Arrival",
-          "title": "Hotel Check-In in Mathura",
-          "description": "Upon arrival in Mathura, check in to the hotel and freshen up after the journey.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · Afternoon",
-          "title": "Mathura Sightseeing – Shri Krishna Janmabhoomi",
-          "description": "Visit Shri Krishna Janmabhoomi Temple, the most sacred site in Mathura, believed to be the birthplace of Lord Krishna.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · Afternoon",
-          "title": "Dwarkadhish Temple",
-          "description": "Visit Dwarkadhish Temple, a grand temple dedicated to Lord Krishna, renowned for its beautiful architecture and vibrant spiritual atmosphere.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 1 · Evening",
-          "title": "Vishram Ghat – Evening Aarti",
-          "description": "Witness the enchanting evening Aarti at Vishram Ghat on the banks of the Yamuna River — a truly divine and peaceful spiritual experience.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · Night",
-          "title": "Overnight Stay in Mathura",
-          "description": "Return to the hotel. Dinner is optional. Overnight stay in Mathura.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · Morning",
-          "title": "Breakfast at Hotel",
-          "description": "Enjoy breakfast at the hotel before starting the full-day excursion.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · Morning",
-          "title": "Drive to Vrindavan",
-          "description": "After breakfast, proceed to Vrindavan, the city of eternal love and devotion associated with Lord Krishna.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 2 · Morning",
-          "title": "Banke Bihari Temple",
-          "description": "Visit the famous Banke Bihari Temple, the most revered temple in Vrindavan, dedicated to Lord Krishna in his playful form.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · Late Morning",
-          "title": "ISKCON Temple",
-          "description": "Visit ISKCON Temple, a spiritual center promoting devotion through bhakti yoga, music, and dance.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Afternoon",
-          "title": "Prem Mandir",
-          "description": "Visit Prem Mandir, a modern white marble temple depicting scenes from the life of Lord Krishna, known for its beautiful illumination in the evening.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Afternoon",
-          "title": "Nidhivan",
-          "description": "Visit Nidhivan, a mystical grove believed to be the divine playground of Lord Krishna and Radha.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Afternoon (Optional)",
-          "title": "Govardhan Parikrama",
-          "description": "Optional visit to Govardhan Hill, a sacred site where Lord Krishna is believed to have lifted the mountain to protect villagers.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Evening",
-          "title": "Return to Hotel & Relax",
-          "description": "Return to the hotel in Mathura or Vrindavan and relax for the evening.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · Night",
-          "title": "Overnight Stay in Mathura / Vrindavan",
-          "description": "Overnight stay at the hotel.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 3 · Morning",
-          "title": "Breakfast at Hotel",
-          "description": "Breakfast at the hotel before check-out.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 3 · Morning",
-          "title": "Leisure Time / Optional Temple Visit",
-          "description": "Free morning for leisure or optional visit to nearby temples.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 3 · Late Morning",
-          "title": "Check-Out & Drive Back to Delhi",
-          "description": "Check out from the hotel and drive back to Delhi Airport or Railway Station for onward journey.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 3 · Afternoon / Evening",
-          "title": "Arrival in Delhi & Tour Ends",
-          "description": "Arrival in Delhi by afternoon or evening, concluding the tour with spiritual blessings and memorable experiences.",
-          "category": "arrival"
-        }
+"price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "The same Mathura and Vrindavan spiritual journey, with tailored inclusions for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Mathura & Vrindavan Temple Package",
+      "amount": "₹15,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price, round-trip flights included",
+      "points": [
+        "Round-trip flights from Goa to Delhi + private transfer to Mathura included",
+        "Private AC car with driver for all transfers and sightseeing",
+        "Full temple circuit: Krishna Janmabhoomi, Dwarkadhish, Banke Bihari, ISKCON & Prem Mandir",
+        "Vishram Ghat evening Aarti included"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Mathura & Vrindavan Package."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Mathura & Vrindavan Spiritual Discovery Package",
+      "amount": "$379",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price, round-trip flights included",
+      "points": [
+        "English-speaking guide across all 3 days",
+        "Security-protocol briefing for Krishna Janmabhoomi",
+        "Guide explanation of Banke Bihari's curtain (pardah) darshan custom",
+        "Extra time at ISKCON Temple with context on its global following"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Mathura & Vrindavan Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Delhi Arrival → Mathura – Krishna Janmabhoomi",
+        "description": "Arrive at Delhi Airport and drive to Mathura, approximately 3.5 hours, with hotel check-in upon arrival. In the afternoon, visit Shri Krishna Janmabhoomi Temple and Dwarkadhish Temple, then close the day with the evening Aarti at Vishram Ghat on the Yamuna.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Vrindavan Temple Circuit",
+        "description": "After breakfast, drive to Vrindavan and visit Banke Bihari Temple, ISKCON Temple and the illuminated Prem Mandir. In the afternoon, visit Nidhivan, with an optional short trip to Govardhan Hill for a partial parikrama by vehicle if time allows.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Departure",
+        "description": "Breakfast at the hotel, followed by check-out and the approximately 3.5-hour drive back to Delhi Airport for your return flight.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Delhi Arrival → Mathura – Krishna Janmabhoomi",
+        "description": "Your guide meets you at Delhi Airport for the approximately 3.5-hour drive to Mathura, with a briefing along the way on security protocols at Krishna Janmabhoomi. No phones, cameras or bags are allowed inside. After checking in, visit Krishna Janmabhoomi Temple and Dwarkadhish Temple, closing the day with the Vishram Ghat evening Aarti.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Vrindavan Temple Circuit",
+        "description": "Visit Banke Bihari Temple, where your guide explains the temple's unique curtain darshan custom, followed by unhurried time at ISKCON Temple and an introduction to its significance to the global Hare Krishna movement. Continue to Prem Mandir and Nidhivan, with an optional partial visit to Govardhan Hill by vehicle.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Departure",
+        "description": "Breakfast at the hotel, followed by check-out and the approximately 3.5-hour drive back to Delhi. Your guide accompanies you and sees you off for your return flight.",
+        "category": "travel"
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Shri Krishna Jamnabhoomi",
@@ -11816,101 +11816,98 @@ export const en = {
           "description": "Russian-Speaking Guide"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1 · 9:00 AM",
-          "title": "Arrival in Varanasi & Airport Assistance",
-          "description": "Arrive at Varanasi Airport by 9:00 AM. Meet and greet at the airport followed by transfer to a 3-star hotel. Check-in, freshen up, and have breakfast.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 1 · Afternoon",
-          "title": "Sarnath Excursion",
-          "description": "Visit Sarnath, where Lord Buddha delivered his first sermon. Explore Dhamek Stupa, Chaukhandi Stupa, Sarnath Museum, and surrounding Buddhist monasteries with guided explanations.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · Evening",
-          "title": "Ganga Aarti at Dashashwamedh / Assi Ghat",
-          "description": "Transfer to Dashashwamedh or Assi Ghat. Witness the grand Ganga Aarti ceremony followed by a short guided walking tour along the ghats.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 1 · Night",
-          "title": "Return to Hotel & Overnight Stay",
-          "description": "Return to the hotel after the Aarti. Overnight stay in Varanasi.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 2 · Early Morning",
-          "title": "Sunrise Boat Ride on the Ganges",
-          "description": "Early morning boat ride on the River Ganges at sunrise. View cremation ghats and enjoy panoramic views of ancient temples and Varanasi’s cultural heritage.",
-          "category": "exploration",
-          "highlight": true
-        },
-        {
-          "time": "Day 2 · Morning",
-          "title": "Breakfast at Hotel",
-          "description": "Return to the hotel after the boat ride and enjoy breakfast.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · Morning",
-          "title": "Varanasi Temple & Heritage Tour",
-          "description": "Guided temple tour covering Kashi Vishwanath Temple, Annapurna Temple, Kal Bhairav Temple, Vishwanath Gali walking tour, and Bharat Mata Temple.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Afternoon",
-          "title": "Lunch Break (Self-paid)",
-          "description": "Lunch at a local restaurant (on your own).",
-          "category": "meal"
-        },
-        {
-          "time": "Day 2 · Afternoon",
-          "title": "Cultural & University Visit",
-          "description": "Visit Banaras Hindu University, New Vishwanath (Birla) Temple, Durga Mandir, and Tulsi Manas Temple.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Evening",
-          "title": "Local Markets & Shopping",
-          "description": "Visit local markets to shop for Banarasi saris, handicrafts, sweets, and famous street food of Varanasi.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 2 · Night",
-          "title": "Return to Hotel & Overnight Stay",
-          "description": "Return to the hotel. Overnight stay in Varanasi.",
-          "category": "arrival"
-        },
-        {
-          "time": "Day 3 · Morning",
-          "title": "Breakfast at Hotel",
-          "description": "Enjoy breakfast at the hotel.",
-          "category": "meal"
-        },
-        {
-          "time": "Day 3 · Morning",
-          "title": "Free Time / Optional Ganga Visit",
-          "description": "Free time for shopping or an optional visit to the Ganges.",
-          "category": "exploration"
-        },
-        {
-          "time": "Day 3 · Late Morning",
-          "title": "Check-Out & Transfer to Airport",
-          "description": "Check out from the hotel and transfer to Varanasi Airport for departure.",
-          "category": "travel"
-        },
-        {
-          "time": "Day 3 · End of Tour",
-          "title": "Departure from Varanasi",
-          "description": "Tour concludes with spiritual memories and blessings.",
-          "category": "arrival"
-        }
+  "price": {
+    "sectionLabel": "Pricing",
+    "sectionTitle": "Two Packages",
+    "sectionSubtitle": "Experience the spiritual heart of Varanasi with a temple-focused itinerary, sunrise Ganges boat ride and tailored inclusions for Indian and international travellers.",
+    "domestic": {
+      "badge": "Indian Traveller",
+      "packageName": "Varanasi Spiritual Journey",
+      "amount": "₹12,999",
+      "currency": "INR",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "Round-trip flights from Goa to Varanasi included",
+        "Full temple circuit including Kashi Vishwanath, Annapurna, Kal Bhairav & more",
+        "Sunrise Ganges boat ride with panoramic views of the ancient ghats"
       ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the Indian Traveller Varanasi Spiritual Journey."
+        }
+      }
+    },
+    "international": {
+      "badge": "International Traveller",
+      "packageName": "Varanasi Spiritual Discovery",
+      "amount": "$359",
+      "currency": "USD",
+      "per": "person",
+      "note": "Twin sharing · starting price · round-trip flights included",
+      "points": [
+        "English-speaking guide who handles security-gate entry at Kashi Vishwanath",
+        "Passport reminder and briefing on temple access rules before Day 2",
+        "Guide briefing on respectful photography etiquette near cremation ghats before the boat ride",
+        "Lunch included on Day 2, not self-paid"
+      ],
+      "cta": {
+        "label": "Get Exact Quote",
+        "whatsapp": {
+          "number": "+919067972295",
+          "message": "Hi! I'm interested in the International Traveller Varanasi Spiritual Discovery Package."
+        }
+      }
+    }
+  },
+  "itinerary": {
+    "domestic": [
+      {
+        "time": "Day 1",
+        "title": "Arrival & Sarnath",
+        "description": "Arrive at Varanasi Airport and transfer to your hotel to check in and have breakfast. In the afternoon, visit Sarnath, where Lord Buddha delivered his first sermon, exploring the Dhamek Stupa and surrounding monasteries.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Ganga Aarti, Boat Ride & Temples",
+        "description": "Witness the evening Ganga Aarti at Dashashwamedh Ghat, then rise early the next morning for a sunrise boat ride on the Ganges past the ancient ghats. Follow this with a guided tour of Kashi Vishwanath, Annapurna and Kal Bhairav temples, then in the evening browse the local markets for Banarasi silk and street food.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Departure",
+        "description": "Enjoy a relaxed morning with breakfast at the hotel, followed by check-out and transfer to Varanasi Airport for your flight home.",
+        "category": "travel"
+      }
+    ],
+    "international": [
+      {
+        "time": "Day 1",
+        "title": "Arrival & Sarnath",
+        "description": "Your guide meets you at Varanasi Airport and transfers you to your hotel. In the afternoon, visit Sarnath, with your guide explaining the significance of Buddha's first sermon here, followed by a walk through the Dhamek Stupa and monastery grounds.",
+        "category": "arrival",
+        "highlight": true
+      },
+      {
+        "time": "Day 2",
+        "title": "Ganga Aarti, Boat Ride & Temples",
+        "description": "Attend the evening Ganga Aarti at Dashashwamedh Ghat, then head out early the next morning for a sunrise boat ride, with your guide briefing you beforehand on respectful photography near the cremation ghats. Afterward, visit Kashi Vishwanath Temple, with your guide handling the security-gate process; carry your passport. Explore Annapurna and Kal Bhairav temples, followed by an included lunch and an evening market walk.",
+        "category": "activity",
+        "highlight": true
+      },
+      {
+        "time": "Day 3",
+        "title": "Departure",
+        "description": "Breakfast at the hotel, followed by check-out. Your guide sees you off with a smooth transfer to Varanasi Airport for your return flight.",
+        "category": "travel"
+      }
+    ]
+  },
       "gallery": [
         {
           "title": "Ganga Aarti",

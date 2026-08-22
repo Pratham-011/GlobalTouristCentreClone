@@ -8,7 +8,7 @@ import { DestinationsGridSection } from "./DestinationsGridSection";
 import { HeroSection } from "@/components/hero-section";
 import HomeForm from "../../(home)/HomeForm";
 
-import { LOCALES } from "@/lib/data/tour-slugs";
+import { LOCALES, TOUR_CATEGORIES } from "@/lib/data/tour-slugs";
 
 /* ------------------------------------------------------------------ */
 /* TYPES */
