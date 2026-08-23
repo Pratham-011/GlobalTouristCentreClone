@@ -99,7 +99,7 @@ export const fr = {
           "Découvrez le riche patrimoine du sud de Goa avec les églises du Vieux Goa, la tour Saint-Augustin, les temples Shantadurga et Mangeshi, les plages de Miramar, Colva et Dona Paula, le marché de Panjim et une croisière-dîner sur la rivière Mandovi.",
       },
       "north-goa-day-excursion": {
-        title: "Visite du Nord de Goa",
+        title: "Goa du Nord – Goa Portugaise",
         duration: "1 jour",
         description:
           "Explorez le côté animé du nord de Goa avec les plages célèbres de Baga, Calangute et Anjuna, ainsi que des forts historiques, des marchés aux puces, une vie nocturne dynamique et des églises de l’époque portugaise.",
@@ -111,7 +111,7 @@ export const fr = {
           "Admirez l’impressionnante cascade de Dudhsagar entourée de forêts luxuriantes, suivie d’une visite guidée de plantations d’épices aromatiques avec découvertes culturelles et déjeuner traditionnel.",
       },
       "south-goa-1-day-trip-package": {
-        title: "Palolem et plage de Cola – Observation des dauphins",
+        title: "Tour d'une Journée Entière Palolem Cola",
         duration: "1 jour",
         description:
           "Découvrez les trésors cachés du sud de Goa : Palolem, Butterfly Beach, la plage de Cola, kayak dans le Blue Lagoon, Monkey Island, le fort de Cabo de Rama et une sortie en bateau pour observer les dauphins.",
@@ -141,13 +141,13 @@ export const fr = {
           "Détendez-vous dans un complexe de luxe situé sur les falaises de Cabo de Rama, offrant des vues paisibles sur la mer et un hébergement haut de gamme.",
       },
       "gokarna-murdeshwar-day-excursion": {
-        title: "Gokarna et Murdeshwar",
+        title: "Excursion Gokarna Murdeshwar",
         duration: "1 jour",
         description:
           "Visitez les plages sereines de Gokarna et l’emblématique statue de Shiva à Murdeshwar, alliant spiritualité et beauté côtière.",
       },
       "hampi-day-excursions": {
-        title: "Circuit Patrimoine Hampi et Badami",
+        title: "Héritage Hampi",
         duration: "1 nuit / 2 jours",
         description:
           "Explorez les ruines classées à l’UNESCO de Hampi et les temples troglodytes de Badami, célèbres pour l’architecture Chalukya.",
@@ -159,8 +159,8 @@ export const fr = {
           "Partez pour une aventure sauvage dans les forêts de Dandeli avec des safaris à la rencontre des éléphants et des tigres.",
       },
       "kerala-tour-package-from-goa": {
-        title: "Kerala – Backwaters et Collines",
-        duration: "4 nuits / 5 jours",
+        title: "Kerala pittoresque",
+        duration: "5 Nuits / 6 Jours",
         description:
           "Découvrez les backwaters paisibles du Kerala, les collines verdoyantes, les plantations de thé, les séjours en houseboat et la culture locale.",
       },
@@ -172,7 +172,7 @@ export const fr = {
       },
       "mumbai-one-day-excursion": {
         title: "Visite de la ville de Mumbai",
-        duration: "1 nuit / 2 jours",
+        duration: "1 jours",
         description:
           "Découvrez les sites emblématiques de Mumbai, ses plages, ses marchés animés et la culture de Bollywood.",
       },
@@ -225,8 +225,8 @@ export const fr = {
           "Villas sur pilotis, dîners privés, spas relaxants et couchers de soleil spectaculaires.",
       },
       "srilanka-tour-package": {
-        title: "Voyage Culturel et Paysager au Sri Lanka",
-        duration: "6 nuits / 7 jours",
+        title: "Sri Lanka tour luxe",
+        duration: "7 nuits / 8 jours",
         description:
           "Explorez les temples anciens, les plantations de thé, la faune sauvage et les magnifiques côtes du Sri Lanka.",
       },
@@ -1562,7 +1562,7 @@ internationalhero: "Explorez le monde",
       duration: "6 Nuits / 7 Jours",
     },
     "north-india-heritage-tour-from-goa": {
-      title: "Héritage du Nord de l'Inde",
+      title: "Circuit du Triangle d’Or",
       description:
         "Triangle d'Or plus Amritsar et Ranthambore - vivez l'héritage culturel, Temple d'Or et aventure safari aux tigres.",
       duration: "10 Jours / 9 Nuits",
@@ -1571,7 +1571,7 @@ internationalhero: "Explorez le monde",
       title: "Triangle d'Or",
       description:
         "Delhi, Agra, Jaipur - Vivez le riche héritage culturel indien avec Taj Mahal, Fort d'Amber et monuments historiques.",
-      duration: "5 Nuits / 6 Jours",
+      duration: "3 nuits / 4 jours",
     },
     "rajasthan-royal-tour-from-goa": {
       title: "Rajasthan royal",

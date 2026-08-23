@@ -100,7 +100,7 @@ export const de = {
           "Entdecken Sie das reiche Erbe Südgoas mit Besuchen der Kirchen von Alt-Goa, des Augustiner-Turms, der Shantadurga- und Mangeshi-Tempel, der Strände Miramar, Colva und Dona Paula, des Panjim-Marktes sowie einer Dinner-Kreuzfahrt auf dem Mandovi-Fluss.",
       },
       "north-goa-day-excursion": {
-        title: "Nordgoa Besichtigung",
+        title: "Nordgoa – Portugiesisches Goa",
         duration: "1 Tag",
         description:
           "Erleben Sie das lebendige Nordgoa mit berühmten Stränden wie Baga, Calangute und Anjuna sowie historischen Festungen, Flohmärkten, Nachtleben und Kirchen aus der portugiesischen Kolonialzeit.",
@@ -112,7 +112,7 @@ export const de = {
           "Bewundern Sie den majestätischen Dudhsagar-Wasserfall inmitten üppiger Wälder und besuchen Sie aromatische Gewürzplantagen mit kulturellen Einblicken und traditionellem Mittagessen.",
       },
       "south-goa-1-day-trip-package": {
-        title: "Palolem & Cola Beach – Delfinbeobachtung",
+        title: "Palolem Cola Ganztages-Tour",
         duration: "1 Tag",
         description:
           "Entdecken Sie versteckte Juwelen Südgoas wie Palolem, Butterfly Beach, Cola Beach, Kajakfahren in der Blauen Lagune, Monkey Island, das Cabo-de-Rama-Fort und eine Bootsfahrt zur Delfinbeobachtung.",
@@ -142,26 +142,26 @@ export const de = {
           "Entspannen Sie in einem luxuriösen Klippenresort in Cabo de Rama mit ruhigem Meerblick und erstklassiger Unterkunft.",
       },
       "gokarna-murdeshwar-day-excursion": {
-        title: "Gokarna & Murdeshwar",
+        title: "Gokarna Murdeshwar Ausflug",
         duration: "1 Tag",
         description:
           "Besuchen Sie die ruhigen Strände von Gokarna und die ikonische Shiva-Statue in Murdeshwar – eine perfekte Mischung aus Spiritualität und Küstenschönheit.",
       },
       "hampi-day-excursions": {
-        title: "Hampi & Badami Kulturerbe-Tour",
+        title: "Hampi Erbe",
         duration: "1 Nacht / 2 Tage",
         description:
           "Erkunden Sie die UNESCO-Welterbestätten von Hampi und die antiken Felsentempel von Badami mit ihrer Chalukya-Architektur.",
       },
       "dandeli-2-day-tour-from-goa": {
         title: "Elefanten- und Tigersafari in Dandeli",
-        duration: "1 Tag",
+        duration: "1 Nächte / 2 Tag",
         description:
           "Begeben Sie sich auf ein aufregendes Wildlife-Abenteuer durch die Wälder von Dandeli mit Elefanten- und Tigersafaris.",
       },
       "kerala-tour-package-from-goa": {
-        title: "Kerala – Backwaters & Hügel",
-        duration: "4 Nächte / 5 Tage",
+        title: "Malerisches Kerala",
+        duration: "5 Nächte / 6 Tage",
         description:
           "Erleben Sie die ruhigen Backwaters Keralas, grüne Hügel, Teeplantagen, Hausbootaufenthalte und die reiche lokale Kultur.",
       },
@@ -172,8 +172,8 @@ export const de = {
           "Entdecken Sie das königliche Erbe von Mysore sowie die Teeplantagen, Landschaften und das angenehme Klima von Ooty.",
       },
       "mumbai-one-day-excursion": {
-        title: "Stadtrundfahrt Mumbai",
-        duration: "1 Nacht / 2 Tage",
+        title: "Mumbai in einem Tag",
+        duration: "1 Tag",
         description:
           "Erkunden Sie die berühmten Sehenswürdigkeiten Mumbais, seine Strände, lebhaften Märkte und die Bollywood-Kultur.",
       },
@@ -226,8 +226,8 @@ export const de = {
           "Überwasservillen, private Dinner, entspannende Spas und atemberaubende Sonnenuntergänge.",
       },
       "srilanka-tour-package": {
-        title: "Kultur- und Naturreise Sri Lanka",
-        duration: "6 Nächte / 7 Tage",
+        title: "Sri Lanka Luxus-Tour",
+        duration: "7 Nächte / 8 Tage",
         description:
           "Entdecken Sie alte Tempel, Teeplantagen, Tierwelt und wunderschöne Küsten Sri Lankas.",
       },
@@ -1568,7 +1568,7 @@ export const de = {
       duration: "6 Nächte / 7 Tage",
     },
     "north-india-heritage-tour-from-goa": {
-      title: "Nordindien Erbe",
+      title: "Goldene-Dreieck-Tour",
       description:
         "Goldenes Dreieck plus Amritsar und Ranthambore - erlebe kulturelles Erbe, Goldenes Tempel und Tiger-Safari-Abenteuer.",
       duration: "10 Tage / 9 Nächte",
@@ -1577,7 +1577,7 @@ export const de = {
       title: "Goldenes Dreieck",
       description:
         "Delhi, Agra, Jaipur - Erleben Sie Indiens reiches kulturelles Erbe mit Taj Mahal, Amber Fort und historischen Monumenten.",
-      duration: "5 Nächte / 6 Tage",
+      duration: "4 Nächte / 3 Tage",
     },
     "rajasthan-royal-tour-from-goa": {
       title: "Königliches Rajasthan",
@@ -1844,7 +1844,7 @@ export const de = {
     },
     "dandeli-2-day-tour-from-goa": {
       title: "Safari éléphant et tigre à Dandeli",
-      duration: "2 jours",
+      duration: "1 nuits /2 jours",
       description:
         "Vivez une aventure sauvage dans les forêts de Dandeli avec des safaris d’éléphants et de tigres au cœur de paysages naturels spectaculaires.",
     },
@@ -6710,7 +6710,7 @@ export const de = {
             "1 Nacht, 2 Tage Erkundung des Dandeli Wildlife Sanctuary mit Interaktion mit Elefanten und Tigersafari",
           backgroundImage: "/assets/hero/Dandeli-hero.webp",
           "meta": {
-            "duration": "2 Tag(e)",
+            "duration": "1 Nacht / 2 Tag(e)",
             "rating": "4.6/5 Rating",
             "description": "Experience a 2D/1N Dandeli tour package with elephant interaction, tiger safari, nature walks, Syntheri Rocks, meals, transport & stay. Perfect wildlife getaway from Goa."
           }
