@@ -241,7 +241,7 @@ export const it = {
       },
       "7n-8d-bhutan-tour-package": {
         title: "Bhutan – La Terra della Felicità",
-        duration: "5 notti / 6 giorni",
+        duration: "8 Giorni / 7 Notti",
         description:
           "Scopri il Bhutan con i suoi antichi monasteri, montagne spettacolari e profonda cultura spirituale.",
       },
@@ -1650,7 +1650,7 @@ export const it = {
       duration: "6 Giorni / 5 Notti",
     },
     "7n-8d-bhutan-tour-package": {
-      title: "Bhutan Spettacolare",
+      title:"Bhutan – La Terra della Felicità",
       description:
         "Esplora regno mistico Bhutan: Thimphu, Punakha e Paro. Include escursione iconica monastero Nido Tigre ed esperienze culturali.",
       duration: "8 Giorni / 7 Notti",
@@ -1695,13 +1695,13 @@ export const it = {
       title: "Turchia - Istanbul & Cappadocia",
       description:
         "Esplora siti storici Istanbul e paesaggi unici Cappadocia. Hagia Sophia, Moschea Blu e città sotterranee.",
-      duration: "6 Giorni / 5 Notti",
+      duration: "8 notti / 9 giorni",
     },
     "turkey-tour-package": {
       title: "Assaggio Turchia",
       description:
         "Tour completo Turchia: Istanbul, Cappadocia, Antalya e terrazze spettacolari Pamukkale. Storia ricca e paesaggi diversi.",
-      duration: "9 Giorni / 8 Notti",
+      duration: "6 giorni / 5 notti",
     },
     "dubai-tour-package": {
       title: "Dubai - Fuga di Lusso",
@@ -10344,7 +10344,7 @@ export const it = {
             "Esplora Istanbul, Cappadocia, Antalya e Pamukkale con voli, hotel, tour e trasferimenti privati",
           backgroundImage: "/assets/hero/Turkey-hero.webp",
           meta: {
-            duration: "9 giorno/i",
+            duration: "8 notti / 9 giorni",
             rating: "4.8/5 Rating",
           },
         },
@@ -11027,6 +11027,7 @@ export const it = {
           backgroundImage: "/assets/hero/dubai-hero.webp",
           meta: {
             duration: "6 giorno/i",
+            "rating":"4.8/5 Rating",
           },
         },
         language: "it",
@@ -12485,8 +12486,8 @@ export const it = {
             "Dai camini delle fate della Cappadocia alle meraviglie storiche di Istanbul",
           backgroundImage: "/assets/hero/Turkey2-hero.webp",
           meta: {
-            duration: "6 giorno/i",
-            rating: "4.9/5 Rating",
+            duration: "6 giorni / 5 notti",
+            rating: "4.8/5 Rating",
           },
         },
         language: "it",

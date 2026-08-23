@@ -14,7 +14,7 @@ export const metaData: Record<string, any> = {
   },
   "4N-5D-bangkok-tour-package": {
     meta: {
-      duration: "4 Days",
+      duration: "5 Days",
       rating: "4.7/5 Rating",
     },
   },
@@ -50,7 +50,7 @@ export const metaData: Record<string, any> = {
   },
   "8n-9d-turkey-tour-package": {
     meta: {
-      duration: "9 Days",
+      duration: "8 Nights / 9 Days",
       rating: "4.8/5 Rating",
     },
   },

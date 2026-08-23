@@ -1675,10 +1675,10 @@ export const en = {
       duration: "6 Days / 5 Nights",
     },
     "7n-8d-bhutan-tour-package": {
-      title: "Breathtaking Bhutan",
+      title: "Bhutan – Land of Happines",
       description:
         "Explore the mystical kingdom of Bhutan with visits to Thimphu, Punakha, and Paro. Includes the iconic hike to Tiger's Nest Monastery and cultural experiences.",
-      duration: "8 Days / 7 Nights",
+      duration: "7 Nights / 8 Days",
     },
     "nepal-tour-package": {
       title: "Beautiful Nepal",
@@ -1720,13 +1720,13 @@ export const en = {
       title: "Turkey - Istanbul & Cappadocia",
       description:
         "Explore Istanbul's historic sites and Cappadocia's unique landscapes. Includes Hagia Sophia, Blue Mosque, and underground cities.",
-      duration: "6 Days / 5 Nights",
+      duration: "8 Nights / 9 Days",
     },
     "turkey-tour-package": {
       title: "Glimpse of Turkey",
       description:
         "Comprehensive Turkey tour covering Istanbul, Cappadocia, Antalya, and the stunning Pamukkale terraces. Rich history and diverse landscapes.",
-      duration: "9 Days / 8 Nights",
+      duration: "6 Days / 5 Nights",
     },
     "dubai-tour-package": {
       title: "Dubai - Luxury Escape",
@@ -4151,7 +4151,7 @@ export const en = {
           "subtitle": "Discover the Land of the Thunder Dragon - monasteries, fortresses, and breathtaking landscapes",
           "backgroundImage": "/assets/hero/Bhutan-hero.webp",
           "meta": {
-            "duration": "8 Days",
+            "duration": "7 Nights / 8 Days",
             "rating": "4.9/5 Rating"
           }
         },
@@ -4464,7 +4464,7 @@ export const en = {
           "subtitle": "Explore Istanbul, Cappadocia, Antalya & Pamukkale with flights, hotels, tours & private transfers",
           "backgroundImage": "/assets/hero/Turkey-hero.webp",
           "meta": {
-            "duration": "9 Days",
+            "duration": "8 Nights / 9 Days",
             "rating": "4.8/5 Rating"
           }
         },
@@ -6291,7 +6291,8 @@ export const en = {
           "subtitle": "5 Nights 6 Days exploring Dubai's iconic landmarks with 30% off special offer",
           "backgroundImage": "/assets/hero/dubai-hero.webp",
           "meta": {
-            "duration": "6 Days"
+            "duration": "6 Days",
+            "rating":"4.8/5 Rating"
           }
         },
         "language": "en",
@@ -12858,8 +12859,8 @@ export const en = {
           "subtitle": "From the fairy chimneys of Cappadocia to the historic wonders of Istanbul",
           "backgroundImage": "/assets/hero/Turkey2-hero.webp",
           "meta": {
-            "duration": "6 Days",
-            "rating": "4.9/5 Rating"
+            "duration": "6 Days / 5 Nights",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "en",

@@ -50,7 +50,7 @@ export default function TourClient({ tourId }: TourClientProps) {
 
   const data = t.tourData?.[tourId];
   const gallerydata = galleryData[tourId]?.gallery ?? [];
-  const meta = metaData[tourId]?.meta ?? null;
+  // const meta = metaData[tourId]?.meta ?? null;
 
   if (!data) {
     return (
@@ -91,7 +91,7 @@ export default function TourClient({ tourId }: TourClientProps) {
         title={(page.hero as any).herotitle || (page.hero as any).title}
         subtitle={(page.hero as any).subtitle}
         backgroundImage={(page.hero as any).backgroundImage}
-        meta={meta}
+        meta={(page.hero as any).meta}
       />
 
       <TourCtaBar

@@ -232,7 +232,7 @@ export const fr = {
       },
       "7n-8d-bhutan-tour-package": {
         title: "Bhoutan – Le Royaume du Bonheur",
-        duration: "5 nuits / 6 jours",
+        duration: "8 Jours / 7 Nuits",
         description:
           "Découvrez le Bhoutan avec ses monastères anciens, ses montagnes majestueuses et sa profonde culture spirituelle.",
       },
@@ -1649,7 +1649,7 @@ internationalhero: "Explorez le monde",
       duration: "6 Jours / 5 Nuits",
     },
     "7n-8d-bhutan-tour-package": {
-      title: "Bhoutan époustouflant",
+      title: "Bhoutan – Le Royaume du Bonheur",
       description:
         "Explorez royaume mystique Bhoutan : Thimphu, Punakha et Paro. Inclut randonnée emblématique monastère Nid du Tigre et expériences culturelles.",
       duration: "8 Jours / 7 Nuits",
@@ -1694,13 +1694,13 @@ internationalhero: "Explorez le monde",
       title: "Turquie - Istanbul & Cappadoce",
       description:
         "Explorez sites historiques Istanbul et paysages uniques Cappadoce. Sainte-Sophie, Mosquée Bleue et villes souterraines.",
-      duration: "6 Jours / 5 Nuits",
+      duration: "8 nuits / 9 jours",
     },
     "turkey-tour-package": {
       title: "Aperçu Turquie",
       description:
         "Tour complet Turquie : Istanbul, Cappadoce, Antalya et terrasses Pamukkale époustouflantes. Histoire riche et paysages variés.",
-      duration: "9 Jours / 8 Nuits",
+      duration: "6 jours / 5 nuits",
     },
     "dubai-tour-package": {
       title: "Dubaï - Évasion luxe",
@@ -10438,7 +10438,7 @@ internationalhero: "Explorez le monde",
             "Explorez Istanbul, la Cappadoce, Antalya et Pamukkale avec vols, hôtels, visites et transferts privés",
           backgroundImage: "/assets/hero/Turkey-hero.webp",
           "meta": {
-            "duration": "9 jour(s)",
+            "duration": "8 nuits / 9 jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -11116,7 +11116,8 @@ internationalhero: "Explorez le monde",
             "5 nuits 6 jours à la découverte des monuments emblématiques de Dubaï avec une offre spéciale de 30 %",
           backgroundImage: "/assets/hero/dubai-hero.webp",
           "meta": {
-            "duration": "6 jour(s)"
+            "duration": "6 jour(s)",
+            "rating":"4.8/5 Rating"
           }
         },
         language: "fr",
@@ -12571,8 +12572,8 @@ internationalhero: "Explorez le monde",
             "Des cheminées de fées de Cappadoce aux merveilles historiques d'Istanbul",
           backgroundImage: "/assets/hero/Turkey2-hero.webp",
           "meta": {
-            "duration": "6 jour(s)",
-            "rating": "4.9/5 Rating"
+            "duration": "6 jours / 5 nuits",
+            "rating": "4.8/5 Rating"
           }
         },
         language: "fr",

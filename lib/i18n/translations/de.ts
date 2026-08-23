@@ -233,7 +233,7 @@ export const de = {
       },
       "7n-8d-bhutan-tour-package": {
         title: "Bhutan – Land des Glücks",
-        duration: "5 Nächte / 6 Tage",
+        duration:"8 Tage / 7 Nächte",
         description:
           "Entdecken Sie Bhutan mit seinen alten Klöstern, majestätischen Bergen und tief verwurzelter spiritueller Kultur.",
       },
@@ -1655,7 +1655,7 @@ export const de = {
       duration: "6 Tage / 5 Nächte",
     },
     "7n-8d-bhutan-tour-package": {
-      title: "Atemberaubendes Bhutan",
+      title: "Bhutan – Land des Glücks",
       description:
         "Erkunden Sie das mystische Königreich Bhutan: Thimphu, Punakha und Paro. Beinhaltet Wanderung zum ikonischen Tiger's Nest-Kloster und kulturelle Erlebnisse.",
       duration: "8 Tage / 7 Nächte",
@@ -1700,13 +1700,13 @@ export const de = {
       title: "Türkei - Istanbul & Kappadokien",
       description:
         "Erkunden Sie Istanbuls historische Stätten und Kappadokiens einzigartige Landschaften. Hagia Sophia, Blaue Moschee und Untergrundstädte.",
-      duration: "6 Tage / 5 Nächte",
+      duration: "8 nuits / 9 jours",
     },
     "turkey-tour-package": {
       title: "Türkei Einblick",
       description:
         "Umfassende Türkei-Tour: Istanbul, Kappadokien, Antalya und beeindruckende Pamukkale-Terrassen. Reiche Geschichte und vielfältige Landschaften.",
-      duration: "9 Tage / 8 Nächte",
+      duration: "6 Tage / 5 Nächte",
     },
     "dubai-tour-package": {
       title: "Dubai - Luxus-Auszeit",
@@ -10778,7 +10778,8 @@ export const de = {
             "5 Nächte, 6 Tage Erkundung der Wahrzeichen Dubais mit 30 % Rabatt auf das Sonderangebot",
           backgroundImage: "/assets/hero/dubai-hero.webp",
           "meta": {
-            "duration": "6 Tag(e)"
+            "duration": "6 Tag(e)",
+            "rating":"4.8/5 Rating"
           }
         },
         language: "de",
@@ -12230,8 +12231,8 @@ export const de = {
             "Von den Feenkaminen Kappadokiens bis zu den historischen Wundern Istanbuls",
           backgroundImage: "/assets/hero/Turkey2-hero.webp",
           "meta": {
-            "duration": "6 Tag(e)",
-            "rating": "4.9/5 Rating"
+            "duration": "6 Tage / 5 Nächte",
+            "rating": "4.8/5 Rating"
           }
         },
         language: "de",
