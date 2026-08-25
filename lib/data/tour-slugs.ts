@@ -17,13 +17,15 @@ export const TOUR_CATEGORIES = {
     "mumbai-one-day-excursion", // verified
     "aurangabad-day-excursions", // verified
     "delhi-agra-1n-2d-trip-package",
-    "cabo-serai-2n-3d-luxury-getaway",
+ 
     "1n-2d-shimoga-trip-package",
-    "wondrous-wildernest-tour-package",
+
 
   ],
 
   domestic: [
+    "wondrous-wildernest-tour-package",
+       "cabo-serai-2n-3d-luxury-getaway",
     // verified
     "andaman-nicobar-tour-package",
     "goa-sightseeing-tour", // verified //prent in en.ts

@@ -14,6 +14,15 @@ export type Destination = {
 
 export const domesticTrips: Destination[] = [
   {
+    id: "dom-wilderness-012",
+    slug: "wondrous-wildernest-tour-package",
+    rating: 4.7,
+    imageQuery: "/destinations/Thumbnails/Wildernesst.webp",
+    alt: "Wildernest Nature Resort forest canopy and hill views in the Western Ghats near Goa, India",
+    category: "day-trips",
+    zone: "south",
+  },
+  {
     id: "dom-kashmir-001",
     slug: "kashmir-tour-package-from-goa",
     rating: 4.9,
@@ -62,10 +71,10 @@ export const domesticTrips: Destination[] = [
     id: "dom-golden-triangle-006",
     slug: "golden-triangle-4-day-tour-from-goa",
     rating: 4.7,
-    imageQuery: "/destinations/Thumbnails/North-India.webp",
+    imageQuery: "/destinations/Thumbnails/GoldenTour.webp",
     category: "domestic",
     zone: "north",
-    alt: "Taj Mahal white marble monument with reflecting pool and cypress-lined pathway, Agra",
+    alt: "Golden Triangle India travel collage featuring India Gate in Delhi, the Taj Mahal in Agra, and the Hawa Mahal in Jaipur.",
   },
   {
     id: "dom-rajasthan-007",
@@ -194,6 +203,14 @@ export const domesticTrips: Destination[] = [
     category: "domestic",
     zone: "island",
     alt: "Mehrangarh Fort perched on rocky hilltop at dusk overlooking the Blue City of Jodhpur with Jaswant Thada cenotaph in the foreground, Rajasthan India",
+  },
+    {
+    id: "dom-cabo-serai-013",
+    slug: "cabo-serai-2n-3d-luxury-getaway",
+    rating: 4.8,
+    imageQuery: "/destinations/Thumbnails/Cabo-Serai.webp",
+    category: "day-trips",
+    alt: "Luxury wooden villa interior with sea view balcony and palm trees at Cabo de Rama cliffside retreat, South Goa",
   },
 ];
 
@@ -468,14 +485,7 @@ export const dayTrips: Destination[] = [
     category: "day-trips",
     alt: "Palolem Beach South Goa with turquoise water, wooden fishing boats, and beachside huts under coconut palms",
   },
-  {
-    id: "dom-cabo-serai-013",
-    slug: "cabo-serai-2n-3d-luxury-getaway",
-    rating: 4.8,
-    imageQuery: "/destinations/Thumbnails/Cabo-Serai.webp",
-    category: "day-trips",
-    alt: "Luxury wooden villa interior with sea view balcony and palm trees at Cabo de Rama cliffside retreat, South Goa",
-  },
+
   {
     id: "dom-shimoga-014",
     slug: "1n-2d-shimoga-trip-package",
@@ -492,15 +502,7 @@ export const dayTrips: Destination[] = [
     category: "day-trips",
     alt: "Basilica of Bom Jesus Old Goa – UNESCO World Heritage Church, South Goa cultural tour",
   },
-  {
-    id: "dom-wilderness-012",
-    slug: "wondrous-wildernest-tour-package",
-    rating: 4.7,
-    imageQuery: "/destinations/Thumbnails/Wildernesst.webp",
-    alt: "Wildernest Nature Resort forest canopy and hill views in the Western Ghats near Goa, India",
-    category: "day-trips",
-    zone: "south",
-  },
+
 
   /* ====== MERGED FROM travelCollections ====== */
 

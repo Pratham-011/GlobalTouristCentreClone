@@ -178,7 +178,7 @@ export const fr = {
       },
       "ajanta-ellora-caves-tour-from-goa": {
         title: "Grottes d’Ellora et d’Ajanta",
-        duration: "2 nuits / 3 jours",
+        duration: "1 nuits / 2 jours",
         description:
           "Admirez les grottes antiques d’Ellora et d’Ajanta, célèbres pour leurs sculptures bouddhistes, hindoues et jaïnes.",
       },
@@ -202,7 +202,7 @@ export const fr = {
       },
       "varanasi-tour-package": {
         title: "Varanasi – Inde Spirituelle",
-        duration: "3 nuits / 4 jours",
+        duration: "2 nuits / 3 jours",
         description:
           "Vivez l’atmosphère spirituelle de Varanasi avec les ghats du Gange, la cérémonie Ganga Aarti et le temple Kashi Vishwanath.",
       },
@@ -214,7 +214,7 @@ export const fr = {
       },
       "andaman-nicobar-tour-package": {
         title: "Îles Andaman",
-        duration: "5 nuits / 6 jours",
+        duration: "6 nuits / 7 jours",
         description:
           "Eaux cristallines, plages de sable blanc, récifs coralliens, sites historiques et nature tropicale des îles Andaman.",
       },
@@ -1562,7 +1562,7 @@ internationalhero: "Explorez le monde",
       duration: "6 Nuits / 7 Jours",
     },
     "north-india-heritage-tour-from-goa": {
-      title: "Circuit du Triangle d’Or",
+      title: "Circuit du patrimoine du Nord de l’Inde",
       description:
         "Triangle d'Or plus Amritsar et Ranthambore - vivez l'héritage culturel, Temple d'Or et aventure safari aux tigres.",
       duration: "10 Jours / 9 Nuits",
@@ -1577,7 +1577,7 @@ internationalhero: "Explorez le monde",
       title: "Rajasthan royal",
       description:
         "Jaipur, Udaipur, Jodhpur, camp désert Jaisalmer & Bikaner - palais royaux, safaris désert et culture vibrante.",
-      duration: "8 Nuits / 9 Jours",
+      duration: "6 Nuits / 7 Jours",
     },
     "kerala-tour-package-from-goa": {
       title: "Kerala pittoresque",
@@ -1809,7 +1809,7 @@ internationalhero: "Explorez le monde",
     },
     "hyderabad-tour-package-from-goa": {
       title: "Circuit de Hyderabad",
-      duration: "2 nuits / 3 jours",
+      duration: "1 nuits / 2 jours",
       description:
         "Découvrez l’importance spirituelle et historique de Hyderabad avec des visites du Charminar, du fort de Golconda et d’autres sites emblématiques.",
     },
@@ -1851,7 +1851,7 @@ internationalhero: "Explorez le monde",
     },
     "ajanta-ellora-caves-tour-from-goa": {
       title: "Circuit des grottes d’Ellora et d’Ajanta",
-      duration: "2 nuits / 3 jours",
+      duration: "1 nuits / 2 jours",
       description:
         "Admirez les anciennes grottes rupestres d’Ellora et d’Ajanta mettant en valeur l’art bouddhiste, hindou et jaïn.",
     },
@@ -1863,7 +1863,7 @@ internationalhero: "Explorez le monde",
     },
     "varanasi-tour-package": {
       title: "Varanasi – Inde spirituelle",
-      duration: "3 nuits / 4 jours",
+      duration: "2 nuits / 3 jours",
       description:
         "Vivez l’âme spirituelle de l’Inde avec les ghats du Gange, la cérémonie Ganga Aarti, le temple Kashi Vishwanath et Sarnath.",
     },
@@ -1875,7 +1875,7 @@ internationalhero: "Explorez le monde",
     },
     "andaman-nicobar-tour-package": {
       title: "Évasion aux îles Andaman",
-      duration: "5 nuits / 6 jours",
+      duration: "6 nuits / 7 jours",
       description:
         "Évadez-vous vers des eaux cristallines, plages de sable blanc, récifs coralliens, sites historiques et jungles luxuriantes.",
     },
@@ -2184,7 +2184,7 @@ internationalhero: "Explorez le monde",
       "subtitle": "Découvrez les plages préservées et la riche histoire des îles Andaman en 7 jours",
       "backgroundImage": "/assets/hero/Andaman-hero.webp",
       "meta": {
-        "duration": "7 jours",
+        "duration": "6 nuits / 7 jours",
         "rating": "Note de 4,9/5"
       }
     },
@@ -3663,12 +3663,12 @@ internationalhero: "Explorez le monde",
         "type": "day-trip",
         "hero": {
           "title": "Excursion d’une journée dans le sud de Goa pour voyageurs étrangers",
-          "subtitle": "Découvrez les plages préservées et les joyaux cachés du Goa du Sud en une journée inoubliable",
+          // "subtitle": "Découvrez les plages préservées et les joyaux cachés du Goa du Sud en une journée inoubliable",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "1 jour",
-            "locations": "6 lieux",
-            "rating": "Note 4,9/5"
+            "locations": "9 lieux",
+            "rating": "Note 4.4/5"
           }
         },
         "language": "fr",
@@ -6138,7 +6138,7 @@ internationalhero: "Explorez le monde",
             "1 nuit 2 jours à la découverte des sites du patrimoine mondial de l'UNESCO, des grottes d'Ajanta et d'Ellora au départ de Goa",
           backgroundImage: "/assets/hero/Ajanta-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 nuits / 2 jours",
             "rating": "4.8/5 Rating",
             "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
           }
@@ -7782,7 +7782,7 @@ internationalhero: "Explorez le monde",
             "1 nuit 2 jours à la découverte du patrimoine d'Hyderabad, notamment le fort de Golconde, Charminar et le palais de Chowmahalla",
           backgroundImage: "/assets/hero/Hyderabad-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 nuits / 2 jours",
             "rating": "4.6/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }

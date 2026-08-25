@@ -178,7 +178,7 @@ export const ru = {
       },
       "ajanta-ellora-caves-tour-from-goa": {
         title: "Пещеры Эллора и Аджанта",
-        duration: "2 ночи / 3 дня",
+        duration: "1 ночи / 2 дня",
         description:
           "Посетите древние пещеры Эллоры и Аджанты с выдающимися буддийскими, индуистскими и джайнскими скульптурами.",
       },
@@ -202,7 +202,7 @@ export const ru = {
       },
       "varanasi-tour-package": {
         title: "Варанаси — Духовная Индия",
-        duration: "3 ночи / 4 дня",
+        duration: "2 ночи / 3 дня",
         description:
           "Погрузитесь в духовную атмосферу Варанаси с гхатами Ганга, Аарти и храмом Каши Вишванатх.",
       },
@@ -214,7 +214,7 @@ export const ru = {
       },
       "andaman-nicobar-tour-package": {
         title: "Андаманские острова",
-        duration: "5 ночей / 6 дней",
+        duration: "6 ночей / 7 дней",
         description:
           "Кристально чистые воды, белые пляжи, коралловые рифы и тропическая природа Андаманских островов.",
       },
@@ -1557,7 +1557,7 @@ export const ru = {
       duration: "6 Ночей / 7 Дней",
     },
     "north-india-heritage-tour-from-goa": {
-      title: "Circuit du Triangle d’Or",
+      title: "Тур по культурному наследию Северной Индии",
       description:
         "Золотой треугольник плюс Амритсар и Рантхамбор - культурное наследие, Золотой храм и сафари на тигров.",
       duration: "10 Дней / 9 Ночей",
@@ -1822,7 +1822,7 @@ export const ru = {
     },
     "ajanta-ellora-caves-tour-from-goa": {
       title: "Тур по пещерам Эллоры и Аджанты",
-      duration: "2 ночи / 3 дня",
+      duration: "1 ночи / 2 дня",
       description:
         "Полюбуйтесь древними пещерами Эллоры и Аджанты с уникальными буддийскими, индуистскими и джайнскими скульптурами и фресками.",
     },
@@ -1834,7 +1834,7 @@ export const ru = {
     },
     "varanasi-tour-package": {
       title: "Варанаси — духовная Индия",
-      duration: "3 ночи / 4 дня",
+      duration: "2 ночи / 3 дня",
       description:
         "Погрузитесь в духовное сердце Индии с гхатами Ганга, церемонией Ганга Аарти, храмом Каши Вишванатх и посещением Сарнатха.",
     },
@@ -1846,7 +1846,7 @@ export const ru = {
     },
     "andaman-nicobar-tour-package": {
       title: "Отдых на Андаманских островах",
-      duration: "5 ночей / 6 дней",
+      duration: "6 ночей / 7 дней",
       description:
         "Насладитесь кристально чистыми водами, белоснежными пляжами, коралловыми рифами, историческими местами и тропическими лесами Андаманских островов.",
     },
@@ -1870,7 +1870,7 @@ export const ru = {
     },
     "hyderabad-tour-package-from-goa": {
       title: "Тур по Хайдарабаду",
-      duration: "2 ночи / 3 дня",
+      duration: "1 ночи / 2 дня",
       description:
         "Откройте для себя духовное и историческое значение Хайдарабада с посещением Чарминара, форта Голконда и других знаковых достопримечательностей.",
     },
@@ -2169,7 +2169,7 @@ export const ru = {
     }
   },
   "andaman-nicobar-tour-package": {
-     "file_name": "andaman-tour-for-goa.html", "page": { "slug": "andaman-nicobar-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Тур по Андаманским и Никобарским островам", "subtitle": "Откройте для себя нетронутые пляжи и богатую историю Андаманских островов за 7 дней", "backgroundImage": "/assets/hero/Andaman-hero.webp", "meta": { "duration": "7 дней", "rating": "Рейтинг 4,9/5" } }, "language": "ru", "metadata": { "title": "Тур на Андаманские и Никобарские острова из Гоа — 6 ночей и 7 дней", "description": "Отправьтесь из Гоа в незабываемое путешествие по Андаманским островам — вас ждут коралловые пляжи, путешествия между островами, водные развлечения и экскурсии с опытными гидами. Забронируйте свой островной отдых прямо сейчас!" } }, "cta": { "headline": "Готовы к островному приключению?", "description": "Забронируйте сейчас и обеспечьте себе место в незабываемом 7-дневном путешествии по Андаманским островам", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Андаманским островам. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Небольшие группы", "description": "Макс. 8 путешественников" }, { "title": "Круиз с кондиционером", "description": "Трансферы между островами" }, { "title": "Ежедневный завтрак", "description": "Местная кухня" }, { "title": "Снорклинг", "description": "Elephant Beach" } ], "gallery": [ { "title": "Пляж Радханагар", "description": "Один из самых красивых пляжей Азии", "image": "/assets/destinations/Andaman/radhanagar.webp" }, { "title": "Сотовая тюрьма", "description": "Историческое место Кала-Пани", "image": "/assets/destinations/Andaman/Cellular-jail.webp" }, { "title": "Elephant Beach", "description": "Рай для любителей снорклинга", "image": "/assets/destinations/Andaman/elephant-beach.webp" }, { "title": "Остров Нил", "description": "Природный мост", "image": "/assets/destinations/Andaman/neil-island.webp" }, { "title": "Закат на Андаманах", "description": "Незабываемые вечера", "image": "/assets/destinations/Andaman/andaman-sunset.webp" } ], "inclusions": [ { "title": "Перелёт туда и обратно", "description": "Авиабилеты из Гоа в Порт-Блэр и обратно" }, { "title": "Паромные трансферы", "description": "Билеты на скоростные паромы/круизы с кондиционером для всех трансферов между островами" }, { "title": "6 ночей проживания", "description": "Размещение на трёхместной или четырёхместной основе" }, { "title": "Ежедневный завтрак", "description": "Вкусный завтрак включён на протяжении всего пребывания" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль для всех экскурсий и трансферов" }, { "title": "Снорклинг", "description": "Снорклинг на Elephant Beach с необходимым оборудованием" } ],
+     "file_name": "andaman-tour-for-goa.html", "page": { "slug": "andaman-nicobar-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Тур по Андаманским и Никобарским островам", "subtitle": "Откройте для себя нетронутые пляжи и богатую историю Андаманских островов за 7 дней", "backgroundImage": "/assets/hero/Andaman-hero.webp", "meta": { "duration": "6 ночей / 7 дней", "rating": "Рейтинг 4,9/5" } }, "language": "ru", "metadata": { "title": "Тур на Андаманские и Никобарские острова из Гоа — 6 ночей и 7 дней", "description": "Отправьтесь из Гоа в незабываемое путешествие по Андаманским островам — вас ждут коралловые пляжи, путешествия между островами, водные развлечения и экскурсии с опытными гидами. Забронируйте свой островной отдых прямо сейчас!" } }, "cta": { "headline": "Готовы к островному приключению?", "description": "Забронируйте сейчас и обеспечьте себе место в незабываемом 7-дневном путешествии по Андаманским островам", "contact": { "whatsapp": { "number": "+919067972295", "message": "Здравствуйте! Я заинтересован(а) в вашем туре по Андаманским островам. Пожалуйста, отправьте мне подробную информацию." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Небольшие группы", "description": "Макс. 8 путешественников" }, { "title": "Круиз с кондиционером", "description": "Трансферы между островами" }, { "title": "Ежедневный завтрак", "description": "Местная кухня" }, { "title": "Снорклинг", "description": "Elephant Beach" } ], "gallery": [ { "title": "Пляж Радханагар", "description": "Один из самых красивых пляжей Азии", "image": "/assets/destinations/Andaman/radhanagar.webp" }, { "title": "Сотовая тюрьма", "description": "Историческое место Кала-Пани", "image": "/assets/destinations/Andaman/Cellular-jail.webp" }, { "title": "Elephant Beach", "description": "Рай для любителей снорклинга", "image": "/assets/destinations/Andaman/elephant-beach.webp" }, { "title": "Остров Нил", "description": "Природный мост", "image": "/assets/destinations/Andaman/neil-island.webp" }, { "title": "Закат на Андаманах", "description": "Незабываемые вечера", "image": "/assets/destinations/Andaman/andaman-sunset.webp" } ], "inclusions": [ { "title": "Перелёт туда и обратно", "description": "Авиабилеты из Гоа в Порт-Блэр и обратно" }, { "title": "Паромные трансферы", "description": "Билеты на скоростные паромы/круизы с кондиционером для всех трансферов между островами" }, { "title": "6 ночей проживания", "description": "Размещение на трёхместной или четырёхместной основе" }, { "title": "Ежедневный завтрак", "description": "Вкусный завтрак включён на протяжении всего пребывания" }, { "title": "Частный транспорт", "description": "Кондиционированный автомобиль для всех экскурсий и трансферов" }, { "title": "Снорклинг", "description": "Снорклинг на Elephant Beach с необходимым оборудованием" } ],
     "price": {
       "sectionLabel": "Выберите свой тариф",
       "sectionTitle": "Один Андаманские острова, два пакета",
@@ -3521,8 +3521,8 @@ export const ru = {
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "1 день",
-            "locations": "6 мест",
-            "rating": "Рейтинг 4.9/5"
+            "locations": "9 мест",
+            "rating": "Рейтинг 4.4/5"
           }
         },
         "language": "ru",
@@ -5963,9 +5963,9 @@ export const ru = {
             "1 ночь 2 дня знакомства с объектами всемирного наследия ЮНЕСКО, пещерами Аджанты и Эллоры из Гоа",
           backgroundImage: "/assets/hero/Ajanta-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 ночи / 2 дня",
             "rating": "4.8/5 Rating",
-            "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
+            "description": "Забронируйте тур Аджанта-Эллора 2D/1N из Гоа с перелетом, проживанием в 3-звездочном отеле, завтраком, входными билетами, гидом и осмотром Биби Ка Макбара, пещер Аджанты и Эллоры"
           }
         },
         language: "ru",
@@ -7515,7 +7515,7 @@ export const ru = {
             "1 ночь / 2 дня знакомства с историческим наследием Хайдарабада, включая форт Голконда, Чарминар и дворец Чоумахалла",
           backgroundImage: "/assets/hero/Hyderabad-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 ночи / 2 дня",
             "rating": "4.6/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }

@@ -179,7 +179,7 @@ export const de = {
       },
       "ajanta-ellora-caves-tour-from-goa": {
         title: "Ellora- & Ajanta-Höhlen",
-        duration: "2 Nächte / 3 Tage",
+        duration: "1 Nächte / 2 Tage",
         description:
           "Bewundern Sie die antiken Höhlen von Ellora und Ajanta mit beeindruckenden buddhistischen, hinduistischen und jainistischen Skulpturen.",
       },
@@ -203,7 +203,7 @@ export const de = {
       },
       "varanasi-tour-package": {
         title: "Varanasi – Spirituelles Indien",
-        duration: "3 Nächte / 4 Tage",
+        duration: "2 Nächte / 3 Tage",
         description:
           "Tauchen Sie ein in die spirituelle Atmosphäre Varanasis mit den Ghats des Ganges, der Ganga-Aarti-Zeremonie und dem Kashi-Vishwanath-Tempel.",
       },
@@ -215,7 +215,7 @@ export const de = {
       },
       "andaman-nicobar-tour-package": {
         title: "Andamanen-Inseln",
-        duration: "5 Nächte / 6 Tage",
+        duration: "6 Nächte / 7 Tage",
         description:
           "Kristallklares Wasser, weiße Sandstrände, Korallenriffe, historische Stätten und tropische Natur der Andamanen.",
       },
@@ -1568,7 +1568,7 @@ export const de = {
       duration: "6 Nächte / 7 Tage",
     },
     "north-india-heritage-tour-from-goa": {
-      title: "Goldene-Dreieck-Tour",
+      title: "Nordindien-Kulturerbe-Tour",
       description:
         "Goldenes Dreieck plus Amritsar und Ranthambore - erlebe kulturelles Erbe, Goldenes Tempel und Tiger-Safari-Abenteuer.",
       duration: "10 Tage / 9 Nächte",
@@ -1583,7 +1583,7 @@ export const de = {
       title: "Königliches Rajasthan",
       description:
         "Jaipur, Udaipur, Jodhpur, Jaisalmer-Wüstencamp & Bikaner - erlebe königliche Paläste, Wüsten-Safaris und lebendige Kultur.",
-      duration: "8 Nächte / 9 Tage",
+      duration: "6 Nächte / 7 Tage",
     },
     "kerala-tour-package-from-goa": {
       title: "Malerisches Kerala",
@@ -1814,7 +1814,7 @@ export const de = {
     },
     "hyderabad-tour-package-from-goa": {
       title: "Tour durch Hyderabad",
-      duration: "2 Nächte / 3 Tage",
+      duration: "1 Nacht / 2 Tage",
       description:
         "Entdecken Sie die spirituelle und historische Bedeutung von Hyderabad mit Besuchen des Charminar, der Golconda-Festung und weiterer ikonischer Orte.",
     },
@@ -1856,7 +1856,7 @@ export const de = {
     },
     "ajanta-ellora-caves-tour-from-goa": {
       title: "Circuit des grottes d’Ellora et d’Ajanta",
-      duration: "2 nuits / 3 jours",
+      duration: "1 Nächte / 2 Tage",
       description:
         "Admirez les anciennes grottes rupestres d’Ellora et d’Ajanta mettant en valeur l’art bouddhiste, hindou et jaïn.",
     },
@@ -1868,7 +1868,7 @@ export const de = {
     },
     "varanasi-tour-package": {
       title: "Varanasi – Inde spirituelle",
-      duration: "3 nuits / 4 jours",
+      duration: "2 nuits / 3 jours",
       description:
         "Vivez l’âme spirituelle de l’Inde avec les ghats du Gange, la cérémonie Ganga Aarti, le temple Kashi Vishwanath et Sarnath.",
     },
@@ -1880,7 +1880,7 @@ export const de = {
     },
     "andaman-nicobar-tour-package": {
       title: "Évasion aux îles Andaman",
-      duration: "5 nuits / 6 jours",
+      duration: "6 Nächte / 7 Tage",
       description:
         "Évadez-vous vers des eaux cristallines, plages de sable blanc, récifs coralliens, sites historiques et jungles luxuriantes.",
     },
@@ -2382,7 +2382,7 @@ export const de = {
     }
   },
   "rajasthan-royal-tour-from-goa": {
-     "file_name": "Rajasthan-Trip-Package.html", "page": { "slug": "Rajasthan-Trip-Package", "type": "domestic-trip", "hero": { "title": "6N/7T Rajasthan-Reisepaket", "subtitle": "Entdecken Sie die majestätischen Festungen, Paläste und die Kultur Rajasthans in 7 Tagen", "backgroundImage": "/assets/hero/Rajasthan-hero.webp", "meta": { "duration": "7 Tage", "rating": "4,8/5 Bewertung" } }, "language": "de", "metadata": { "title": "Rajasthan-Reisepaket – 7-tägiges königliches Rajasthan-Erlebnis | Global Tourist Centre", "description": "Erkunden Sie majestätische Festungen, Paläste und historische Städte mit unserem hochwertigen Rajasthan-Reisepaket. 7 Tage, privater klimatisierter Transport und Heritage-Hotels. Buchen Sie jetzt und beginnen Sie Ihre königliche Reise!" } }, "cta": { "headline": "Bereit für Ihr Rajasthan-Abenteuer?", "description": "Buchen Sie jetzt und sichern Sie sich Ihren Platz für ein unvergessliches königliches Erlebnis", "contact": { "whatsapp": { "number": "+919067972295", "message": "Hallo! Ich interessiere mich für Ihr 7-Tage-Rajasthan-Reisepaket. Bitte senden Sie mir weitere Informationen." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Heritage-Hotels", "description": "6 Übernachtungen" }, { "title": "Privater Transport", "description": "Klimatisiertes Fahrzeug während der gesamten Reise" }, { "title": "Tägliches Frühstück", "description": "Während des Hotelaufenthalts" }, { "title": "Kulturelle Shows", "description": "Traditionelle Darbietungen" } ], "gallery": [ { "title": "Amber Fort", "description": "Majestätische Rajput-Architektur", "image": "/assets/destinations/Rajasthan/Amber Fort.webp" }, { "title": "Mehrangarh Fort", "description": "Die beeindruckende Festung von Jodhpur", "image": "/assets/destinations/Rajasthan/Mehrangarh Fort.webp" }, { "title": "Stadtpalast von Udaipur", "description": "Palast am See", "image": "/assets/destinations/Rajasthan/Udaipur City Palace.webp" }, { "title": "Blaue Stadt", "description": "Die berühmten blauen Häuser von Jodhpur", "image": "/assets/destinations/Rajasthan/Blue City.webp" }, { "title": "Pichola-See", "description": "Entspannende Bootsfahrten", "image": "/assets/destinations/Rajasthan/Lake Pichola.webp" } ], "inclusions": [ { "title": "Heritage-Hotels", "description": "6 Übernachtungen in Heritage-Hotels" }, { "title": "Privater Transport", "description": "Klimatisiertes Fahrzeug während der gesamten Reise" }, { "title": "Tägliches Frühstück", "description": "Während des Hotelaufenthalts" }, { "title": "Elefantenritt", "description": "Am Amber Fort in Jaipur" }, { "title": "Bootsfahrt", "description": "Auf dem Pichola-See in Udaipur" }, { "title": "Reiseleitung", "description": "Erfahrene lokale Reiseleiter" } ],
+     "file_name": "Rajasthan-Trip-Package.html", "page": { "slug": "Rajasthan-Trip-Package", "type": "domestic-trip", "hero": { "title": "6N/7T Rajasthan-Reisepaket", "subtitle": "Entdecken Sie die majestätischen Festungen, Paläste und die Kultur Rajasthans in 7 Tagen", "backgroundImage": "/assets/hero/Rajasthan-hero.webp", "meta": { "duration": "6 Nächte / 7 Tage", "rating": "4,8/5 Bewertung" } }, "language": "de", "metadata": { "title": "Rajasthan-Reisepaket – 7-tägiges königliches Rajasthan-Erlebnis | Global Tourist Centre", "description": "Erkunden Sie majestätische Festungen, Paläste und historische Städte mit unserem hochwertigen Rajasthan-Reisepaket. 7 Tage, privater klimatisierter Transport und Heritage-Hotels. Buchen Sie jetzt und beginnen Sie Ihre königliche Reise!" } }, "cta": { "headline": "Bereit für Ihr Rajasthan-Abenteuer?", "description": "Buchen Sie jetzt und sichern Sie sich Ihren Platz für ein unvergessliches königliches Erlebnis", "contact": { "whatsapp": { "number": "+919067972295", "message": "Hallo! Ich interessiere mich für Ihr 7-Tage-Rajasthan-Reisepaket. Bitte senden Sie mir weitere Informationen." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Heritage-Hotels", "description": "6 Übernachtungen" }, { "title": "Privater Transport", "description": "Klimatisiertes Fahrzeug während der gesamten Reise" }, { "title": "Tägliches Frühstück", "description": "Während des Hotelaufenthalts" }, { "title": "Kulturelle Shows", "description": "Traditionelle Darbietungen" } ], "gallery": [ { "title": "Amber Fort", "description": "Majestätische Rajput-Architektur", "image": "/assets/destinations/Rajasthan/Amber Fort.webp" }, { "title": "Mehrangarh Fort", "description": "Die beeindruckende Festung von Jodhpur", "image": "/assets/destinations/Rajasthan/Mehrangarh Fort.webp" }, { "title": "Stadtpalast von Udaipur", "description": "Palast am See", "image": "/assets/destinations/Rajasthan/Udaipur City Palace.webp" }, { "title": "Blaue Stadt", "description": "Die berühmten blauen Häuser von Jodhpur", "image": "/assets/destinations/Rajasthan/Blue City.webp" }, { "title": "Pichola-See", "description": "Entspannende Bootsfahrten", "image": "/assets/destinations/Rajasthan/Lake Pichola.webp" } ], "inclusions": [ { "title": "Heritage-Hotels", "description": "6 Übernachtungen in Heritage-Hotels" }, { "title": "Privater Transport", "description": "Klimatisiertes Fahrzeug während der gesamten Reise" }, { "title": "Tägliches Frühstück", "description": "Während des Hotelaufenthalts" }, { "title": "Elefantenritt", "description": "Am Amber Fort in Jaipur" }, { "title": "Bootsfahrt", "description": "Auf dem Pichola-See in Udaipur" }, { "title": "Reiseleitung", "description": "Erfahrene lokale Reiseleiter" } ],
     "price": {
       "sectionLabel": "Wählen Sie Ihren Tarif",
       "sectionTitle": "Ein Rajasthan, zwei Pakete",
@@ -3463,12 +3463,12 @@ export const de = {
         "type": "day-trip",
         "hero": {
           "title": "Eintägige Süd-Goa Erkundungstour für ausländische Reisende",
-          "subtitle": "Entdecken Sie die unberührten Strände und versteckten Schätze Südgoas an einem unvergesslichen Tag",
+          // "subtitle": "Entdecken Sie die unberührten Strände und versteckten Schätze Südgoas an einem unvergesslichen Tag",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "1 Tag",
-            "locations": "6 Orte",
-            "rating": "Bewertung 4,9/5"
+            "locations": "9 Orte",
+            "rating": "Bewertung 4.4/5"
           }
         },
         "language": "de",
@@ -5938,9 +5938,9 @@ export const de = {
             "1 Nacht 2 Tage Erkundung der UNESCO-Welterbestätten Ajanta und Ellora-Höhlen von Goa aus",
           backgroundImage: "/assets/hero/Ajanta-hero.webp",
           "meta": {
-            "duration": "2 Tag(e)",
+            "duration": "1 Nächte / 2 Tage",
             "rating": "4.8/5 Rating",
-            "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
+            "description": "Buchen Sie eine 2D/1N Ajanta Ellora Tour ab Goa mit Flügen, 3-Sterne-Aufenthalt, Frühstück, Eintrittskarten, Reiseführer & Besichtigung von Bibi Ka Maqbara, Ajanta & Ellora Caves"
           }
         },
         language: "de",
@@ -7453,7 +7453,7 @@ export const de = {
             "1 Nacht 2 Tage Erkundung des Erbes von Hyderabad, einschließlich Golconda Fort, Charminar und Chowmahalla Palace",
           backgroundImage: "/assets/hero/Hyderabad-hero.webp",
           "meta": {
-            "duration": "2 Tag(e)",
+            "duration": "1 Nacht / 2 Tage",
             "rating": "4.6/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }

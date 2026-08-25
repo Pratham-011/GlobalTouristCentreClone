@@ -178,7 +178,7 @@ export const en = {
       },
       "ajanta-ellora-caves-tour-from-goa": {
         title: "Ellora & Ajanta Caves Tour",
-        duration: "2 Nights / 3 Days",
+        duration: "1 Nights / 2 Days",
         description:
           "Marvel at the ancient rock-cut caves of Ellora and Ajanta, showcasing Buddhist, Hindu, and Jain art, sculptures, and frescoes.",
       },
@@ -202,7 +202,7 @@ export const en = {
       },
       "varanasi-tour-package": {
         title: "Varanasi – Spiritual India",
-        duration: "3 Nights / 4 Days",
+        duration: "2 Nights / 3 Days",
         description:
           "Experience India’s spiritual heart with Ganga ghats, Ganga Aarti, Kashi Vishwanath Temple, and a visit to the Buddhist site of Sarnath.",
       },
@@ -214,7 +214,7 @@ export const en = {
       },
       "andaman-nicobar-tour-package": {
         title: "Andaman Islands Escape",
-        duration: "5 Nights / 6 Days",
+        duration: "6 Nights / 7 Days",
         description:
           "Escape to crystal-clear waters, white sandy beaches, coral reefs, historic sites, and lush jungles across the Andaman Islands.",
       },
@@ -1582,7 +1582,7 @@ export const en = {
     },
 
     "north-india-heritage-tour-from-goa": {
-      title: "Golden Triangle Tour",
+      title: "North India Heritage Tour",
       description:
         "Golden Triangle plus Amritsar and Ranthambore - experience cultural heritage, Golden Temple, and tiger safari adventure.",
       duration: "10 Days / 9 Nights",
@@ -1599,7 +1599,7 @@ export const en = {
       title: "Rajasthan Royal",
       description:
         "Jaipur, Udaipur, Jodhpur, Jaisalmer desert camp & Bikaner - experience royal palaces, desert safaris, and vibrant culture.",
-      duration: "8 Nights / 9 Days",
+      duration: "6 Nights / 7 Days",
     },
     "kerala-tour-package-from-goa": {
       title: "Scenic Kerala",
@@ -1859,7 +1859,7 @@ export const en = {
 
     "ajanta-ellora-caves-tour-from-goa": {
       title: "Ellora & Ajanta Caves Tour",
-      duration: "2 Nights / 3 Days",
+      duration: "1 Nights / 2 Days",
       description:
         "Marvel at the ancient rock-cut caves of Ellora and Ajanta, showcasing Buddhist, Hindu, and Jain art, sculptures, and frescoes.",
     },
@@ -1873,7 +1873,7 @@ export const en = {
 
     "varanasi-tour-package": {
       title: "Varanasi – Spiritual India",
-      duration: "3 Nights / 4 Days",
+      duration: "2 Nights / 3 Days",
       description:
         "Experience India’s spiritual heart with Ganga ghats, Ganga Aarti, Kashi Vishwanath Temple, and a visit to the Buddhist site of Sarnath.",
     },
@@ -1886,7 +1886,7 @@ export const en = {
     },
     "andaman-nicobar-tour-package": {
       title: "Andaman Islands Escape",
-      duration: "5 Nights / 6 Days",
+      duration: "6 Nights / 7 Days",
       description:
         "Escape to crystal-clear waters, white sandy beaches, coral reefs, historic sites, and lush jungles across the Andaman Islands.",
     },
@@ -1911,7 +1911,7 @@ export const en = {
     },
     "hyderabad-tour-package-from-goa": {
       title: "Hyderabad  Tour",
-      duration: "2 Nights / 3 Days",
+      duration: "1 Night / 2 Days",
       description:
         "Discover the spiritual and historical significance of Hyderabad with visits to the Charminar, Golconda Fort, and other iconic sites.",
     },
@@ -2862,12 +2862,12 @@ export const en = {
         "type": "day-trip",
         "hero": {
           "title": "One-Day South Goa Exploration Tour for Foreign Travelers",
-          "subtitle": "Experience the pristine beaches and hidden gems of South Goa in one unforgettable day",
+          // "subtitle": "Experience the pristine beaches and hidden gems of South Goa in one unforgettable day",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "1 Day",
-            "locations": "6 Locations",
-            "rating": "4.9/5 Rating"
+            "locations": "9 Locations",
+            "rating": "4.4/5 Rating"
           }
         },
         "language": "en",
@@ -4627,7 +4627,7 @@ export const en = {
           "subtitle": "1 Night 2 Days exploring UNESCO World Heritage Sites Ajanta & Ellora Caves from Goa",
           "backgroundImage": "/assets/hero/Ajanta-hero.webp",
           "meta": {
-            "duration": "2 Days",
+            "duration": "1 Nights / 2 Days",
             "rating": "4.8/5 Rating",
             "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
           }
@@ -5020,7 +5020,7 @@ export const en = {
         "subtitle": "Discover the pristine beaches and rich history of Andaman Islands in 7 days",
         "backgroundImage": "/assets/hero/Andaman-hero.webp",
         "meta": {
-          "duration": "7 Days",
+          "duration": "6 Nights / 7 Days",
           "rating": "4.9/5 Rating"
         }
       },
@@ -9040,7 +9040,7 @@ export const en = {
           "subtitle": "1 Night 2 Days exploring Hyderabad's heritage including Golconda Fort, Charminar, and Chowmahalla Palace",
           "backgroundImage": "/assets/hero/Hyderabad-hero.webp",
           "meta": {
-            "duration": "2 Days",
+            "duration": "1 Night / 2 Days",
             "rating": "4.6/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }
@@ -10856,7 +10856,7 @@ export const en = {
         "subtitle": "Discover the majestic forts, palaces, and culture of Rajasthan in 7 days",
         "backgroundImage": "/assets/hero/Rajasthan-hero.webp",
         "meta": {
-          "duration": "7 Days",
+          "duration": "6 Nights / 7 Days",
           "rating": "4.8/5 Rating"
         }
       },

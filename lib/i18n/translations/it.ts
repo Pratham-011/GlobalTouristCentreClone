@@ -187,7 +187,7 @@ export const it = {
       },
       "ajanta-ellora-caves-tour-from-goa": {
         title: "Grotte di Ellora e Ajanta",
-        duration: "2 notti / 3 giorni",
+        duration: "1 notti / 2 giorni",
         description:
           "Ammira le antiche grotte di Ellora e Ajanta con straordinarie sculture buddhiste, induiste e giainiste.",
       },
@@ -211,7 +211,7 @@ export const it = {
       },
       "varanasi-tour-package": {
         title: "Varanasi – India Spirituale",
-        duration: "3 notti / 4 giorni",
+        duration: "2 notti / 3 giorni",
         description:
           "Vivi l’atmosfera spirituale di Varanasi con i ghat del Gange, la cerimonia Ganga Aarti e il tempio Kashi Vishwanath.",
       },
@@ -223,7 +223,7 @@ export const it = {
       },
       "andaman-nicobar-tour-package": {
         title: "Isole Andamane",
-        duration: "5 notti / 6 giorni",
+        duration: "6 notti / 7 giorni",
         description:
           "Acque cristalline, spiagge di sabbia bianca, barriere coralline, siti storici e natura tropicale delle isole Andamane.",
       },
@@ -1563,7 +1563,7 @@ export const it = {
       duration: "6 Notti / 7 Giorni",
     },
     "north-india-heritage-tour-from-goa": {
-      title: "Circuit du Triangle d’Or",
+      title: "Tour del patrimonio dell’India del Nord",
       description:
         "Triangolo d'Oro più Amritsar e Ranthambore - vivi patrimonio culturale, Tempio d'Oro e avventura safari tigri.",
       duration: "10 Giorni / 9 Notti",
@@ -1816,7 +1816,7 @@ export const it = {
     },
     "jodhpur-tour-package-from-goa": {
       title: "Tour del Patrimonio di Jodhpur",
-      duration: "3 notti / 4 giorni",
+      duration: "1 notti / 2 giorni",
       description:
         "Scopri l’importanza spirituale e storica di Jodhpur con visite al Forte di Mehrangarh, al Palazzo Umaid Bhawan e ad altri luoghi iconici.",
     },
@@ -1852,7 +1852,7 @@ export const it = {
     },
     "ajanta-ellora-caves-tour-from-goa": {
       title: "Tour delle grotte di Ellora e Ajanta",
-      duration: "2 notti / 3 giorni",
+      duration: "1 notti / 2 giorni",
       description:
         "Ammira le antiche grotte rupestri di Ellora e Ajanta con arte buddhista, induista e giainista.",
     },
@@ -1864,7 +1864,7 @@ export const it = {
     },
     "varanasi-tour-package": {
       title: "Varanasi – India spirituale",
-      duration: "3 notti / 4 giorni",
+      duration: "2 notti / 3 giorni",
       description:
         "Scopri il cuore spirituale dell’India con i ghat del Gange, la cerimonia Ganga Aarti, il tempio Kashi Vishwanath e Sarnath.",
     },
@@ -1876,7 +1876,7 @@ export const it = {
     },
     "andaman-nicobar-tour-package": {
       title: "Fuga alle isole Andamane",
-      duration: "5 notti / 6 giorni",
+      duration: "6 notti / 7 giorni",
       description:
         "Rilassati tra acque cristalline, spiagge di sabbia bianca, barriere coralline, siti storici e giungle lussureggianti.",
     },
@@ -2175,7 +2175,7 @@ export const it = {
     }
   },
   "andaman-nicobar-tour-package": {
-    "file_name": "andaman-tour-for-goa.html", "page": { "slug": "andaman-nicobar-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Tour delle Isole Andamane e Nicobare", "subtitle": "Scopri le spiagge incontaminate e la ricca storia delle Isole Andamane in 7 giorni", "backgroundImage": "/assets/hero/Andaman-hero.webp", "meta": { "duration": "7 giorni", "rating": "Valutazione 4,9/5" } }, "language": "it", "metadata": { "title": "Tour Andamane e Nicobare da Goa – 6 notti e 7 giorni", "description": "Lascia Goa per un'avventura indimenticabile alle Andamane: scopri spiagge coralline, fai island hopping, pratica sport acquatici e partecipa a visite guidate da esperti. Prenota subito la tua vacanza sulle isole!" } }, "cta": { "headline": "Pronto per la tua avventura sulle isole?", "description": "Prenota ora e assicurati il tuo posto per un indimenticabile viaggio di 7 giorni attraverso le Isole Andamane", "contact": { "whatsapp": { "number": "+919067972295", "message": "Ciao! Sono interessato/a al vostro tour delle Isole Andamane. Potete inviarmi maggiori informazioni?" }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Piccoli gruppi", "description": "Massimo 8 viaggiatori" }, { "title": "Crociera con aria condizionata", "description": "Trasferimenti tra le isole" }, { "title": "Colazione giornaliera", "description": "Cucina locale" }, { "title": "Snorkeling", "description": "Elephant Beach" } ], "gallery": [ { "title": "Radhanagar Beach", "description": "Una delle spiagge più belle dell'Asia", "image": "/assets/destinations/Andaman/radhanagar.webp" }, { "title": "Cellular Jail", "description": "La storica Kala Pani", "image": "/assets/destinations/Andaman/Cellular-jail.webp" }, { "title": "Elephant Beach", "description": "Un paradiso per lo snorkeling", "image": "/assets/destinations/Andaman/elephant-beach.webp" }, { "title": "Neil Island", "description": "Ponte naturale", "image": "/assets/destinations/Andaman/neil-island.webp" }, { "title": "Tramonto alle Andamane", "description": "Serate indimenticabili", "image": "/assets/destinations/Andaman/andaman-sunset.webp" } ], "inclusions": [ { "title": "Voli di andata e ritorno", "description": "Biglietti aerei da Goa a Port Blair e ritorno" }, { "title": "Trasferimenti in traghetto", "description": "Biglietti per crociere/traghetti con aria condizionata per tutti i trasferimenti tra le isole" }, { "title": "6 notti di soggiorno", "description": "Sistemazione in camere triple o quadruple" }, { "title": "Colazione giornaliera", "description": "Deliziosa colazione inclusa per tutta la durata del soggiorno" }, { "title": "Trasporto privato", "description": "Veicolo climatizzato per tutte le visite turistiche e i trasferimenti" }, { "title": "Snorkeling", "description": "Snorkeling a Elephant Beach con attrezzatura inclusa" } ],
+    "file_name": "andaman-tour-for-goa.html", "page": { "slug": "andaman-nicobar-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Tour delle Isole Andamane e Nicobare", "subtitle": "Scopri le spiagge incontaminate e la ricca storia delle Isole Andamane in 7 giorni", "backgroundImage": "/assets/hero/Andaman-hero.webp", "meta": { "duration": "6 notti / 7 giorni", "rating": "Valutazione 4,9/5" } }, "language": "it", "metadata": { "title": "Tour Andamane e Nicobare da Goa – 6 notti e 7 giorni", "description": "Lascia Goa per un'avventura indimenticabile alle Andamane: scopri spiagge coralline, fai island hopping, pratica sport acquatici e partecipa a visite guidate da esperti. Prenota subito la tua vacanza sulle isole!" } }, "cta": { "headline": "Pronto per la tua avventura sulle isole?", "description": "Prenota ora e assicurati il tuo posto per un indimenticabile viaggio di 7 giorni attraverso le Isole Andamane", "contact": { "whatsapp": { "number": "+919067972295", "message": "Ciao! Sono interessato/a al vostro tour delle Isole Andamane. Potete inviarmi maggiori informazioni?" }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Piccoli gruppi", "description": "Massimo 8 viaggiatori" }, { "title": "Crociera con aria condizionata", "description": "Trasferimenti tra le isole" }, { "title": "Colazione giornaliera", "description": "Cucina locale" }, { "title": "Snorkeling", "description": "Elephant Beach" } ], "gallery": [ { "title": "Radhanagar Beach", "description": "Una delle spiagge più belle dell'Asia", "image": "/assets/destinations/Andaman/radhanagar.webp" }, { "title": "Cellular Jail", "description": "La storica Kala Pani", "image": "/assets/destinations/Andaman/Cellular-jail.webp" }, { "title": "Elephant Beach", "description": "Un paradiso per lo snorkeling", "image": "/assets/destinations/Andaman/elephant-beach.webp" }, { "title": "Neil Island", "description": "Ponte naturale", "image": "/assets/destinations/Andaman/neil-island.webp" }, { "title": "Tramonto alle Andamane", "description": "Serate indimenticabili", "image": "/assets/destinations/Andaman/andaman-sunset.webp" } ], "inclusions": [ { "title": "Voli di andata e ritorno", "description": "Biglietti aerei da Goa a Port Blair e ritorno" }, { "title": "Trasferimenti in traghetto", "description": "Biglietti per crociere/traghetti con aria condizionata per tutti i trasferimenti tra le isole" }, { "title": "6 notti di soggiorno", "description": "Sistemazione in camere triple o quadruple" }, { "title": "Colazione giornaliera", "description": "Deliziosa colazione inclusa per tutta la durata del soggiorno" }, { "title": "Trasporto privato", "description": "Veicolo climatizzato per tutte le visite turistiche e i trasferimenti" }, { "title": "Snorkeling", "description": "Snorkeling a Elephant Beach con attrezzatura inclusa" } ],
     "price": {
       "sectionLabel": "Scegli la tua tariffa",
       "sectionTitle": "Un Andaman, due pacchetti",
@@ -3556,12 +3556,12 @@ export const it = {
         "type": "day-trip",
         "hero": {
           "title": "Tour di un giorno nel Sud di Goa per viaggiatori stranieri",
-          "subtitle": "Scopri le spiagge incontaminate e le gemme nascoste del Goa del Sud in una giornata indimenticabile",
+          // "subtitle": "Scopri le spiagge incontaminate e le gemme nascoste del Goa del Sud in una giornata indimenticabile",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
             "duration": "1 giorno",
-            "locations": "6 luoghi",
-            "rating": "Valutazione 4,9/5"
+            "locations": "9 luoghi",
+            "rating": "Valutazione 4.4/5"
           }
         },
         "language": "it",
@@ -6028,10 +6028,10 @@ export const it = {
             "1 notte 2 giorni esplorando i siti patrimonio mondiale dell'UNESCO Ajanta e le grotte di Ellora da Goa",
           backgroundImage: "/assets/hero/Ajanta-hero.webp",
           meta: {
-            duration: "2 giorno/i",
+            duration: "1 notte/ 2 giorno",
             rating: "4.8/5 Rating",
             description:
-              "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves",
+              "Prenota un tour Ajanta Ellora di 2 giorni/1 notte da Goa con voli, soggiorno di 3 stelle, colazione, biglietti d'ingresso, guida e visite guidate a Bibi Ka Maqbara, Ajanta e Ellora Caves",
           },
         },
         language: "it",
@@ -7684,7 +7684,7 @@ export const it = {
             "1 notte 2 giorni esplorando il patrimonio di Hyderabad tra cui il Forte Golconda, Charminar e il Palazzo Chowmahalla",
           backgroundImage: "/assets/hero/Hyderabad-hero.webp",
           meta: {
-            duration: "2 giorno/i",
+            duration: "1 notti / 2 giorni",
             rating: "4.6/5 Rating",
             description:
               " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more",
