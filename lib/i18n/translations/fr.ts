@@ -105,6 +105,8 @@ export const fr = {
           "Explorez le côté animé du nord de Goa avec les plages célèbres de Baga, Calangute et Anjuna, ainsi que des forts historiques, des marchés aux puces, une vie nocturne dynamique et des églises de l’époque portugaise.",
       },
       "dudhsagar-waterfal-excursion": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Cascade de Dudhsagar et Plantation d’Épices",
         duration: "1 jour",
         description:
@@ -117,12 +119,16 @@ export const fr = {
           "Découvrez les trésors cachés du sud de Goa : Palolem, Butterfly Beach, la plage de Cola, kayak dans le Blue Lagoon, Monkey Island, le fort de Cabo de Rama et une sortie en bateau pour observer les dauphins.",
       },
       "crocodile-sightseeing-trip": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Excursion d’observation des crocodiles",
         duration: "Demi-journée",
         description:
           "Observez les crocodiles dans leur habitat naturel lors d’une excursion passionnante, idéale pour les amoureux de la nature et les photographes.",
       },
       "luxury-yacht-day-tour-goa": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Soirée Yacht de Luxe – Dîner au crépuscule",
         duration: "16h00 – 22h00",
         description:
@@ -135,104 +141,138 @@ export const fr = {
           "Excursion en bateau vers l’île Grand avec snorkeling, jet-ski, banane, parachute ascensionnel, observation des dauphins, baignade et aventures marines.",
       },
       "cabo-serai-2n-3d-luxury-getaway": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Séjour de luxe Serai Cabo à Goa",
-        duration: "2 nuits / 3 jours",
+        duration: "2 Nuits / 3 Jours",
         description:
           "Détendez-vous dans un complexe de luxe situé sur les falaises de Cabo de Rama, offrant des vues paisibles sur la mer et un hébergement haut de gamme.",
       },
       "gokarna-murdeshwar-day-excursion": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Excursion Gokarna Murdeshwar",
         duration: "1 jour",
         description:
           "Visitez les plages sereines de Gokarna et l’emblématique statue de Shiva à Murdeshwar, alliant spiritualité et beauté côtière.",
       },
       "hampi-day-excursions": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Héritage Hampi",
-        duration: "1 nuit / 2 jours",
+        duration: "1 Nuit / 2 Jours",
         description:
           "Explorez les ruines classées à l’UNESCO de Hampi et les temples troglodytes de Badami, célèbres pour l’architecture Chalukya.",
       },
       "dandeli-2-day-tour-from-goa": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Safari Éléphants et Tigres à Dandeli",
         duration: "1 jour",
         description:
           "Partez pour une aventure sauvage dans les forêts de Dandeli avec des safaris à la rencontre des éléphants et des tigres.",
       },
       "kerala-tour-package-from-goa": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Kerala pittoresque",
         duration: "5 Nuits / 6 Jours",
         description:
           "Découvrez les backwaters paisibles du Kerala, les collines verdoyantes, les plantations de thé, les séjours en houseboat et la culture locale.",
       },
       "mysore-ooty-tour": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Héritage de Mysore et Ooty",
-        duration: "3 nuits / 4 jours",
+        duration: "3 Nuits / 4 Jours",
         description:
           "Explorez le patrimoine royal de Mysore et profitez des jardins de thé, des paysages et du climat frais d’Ooty.",
       },
       "mumbai-one-day-excursion": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Visite de la ville de Mumbai",
         duration: "1 jours",
         description:
           "Découvrez les sites emblématiques de Mumbai, ses plages, ses marchés animés et la culture de Bollywood.",
       },
       "ajanta-ellora-caves-tour-from-goa": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Grottes d’Ellora et d’Ajanta",
-        duration: "1 nuits / 2 jours",
+        duration: "1 Nuit / 2 Jours",
         description:
           "Admirez les grottes antiques d’Ellora et d’Ajanta, célèbres pour leurs sculptures bouddhistes, hindoues et jaïnes.",
       },
       "golden-triangle-4-day-tour-from-goa": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Triangle d’Or de l’Inde",
-        duration: "3 nuits / 4 jours",
+        duration: "3 Nuits / 4 Jours",
         description:
           "Visitez Delhi, Agra et Jaipur avec le Taj Mahal, des forts majestueux et des palais royaux.",
       },
       "jodhpur-udaipur-tour-package": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Rajasthan Royal – Udaipur et Jodhpur",
-        duration: "4 nuits / 5 jours",
+        duration: "4 Nuits / 5 Jours",
         description:
           "Découvrez la grandeur du Rajasthan à travers palais, lacs, forts impressionnants et marchés colorés.",
       },
       "taj-mahal-tour": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Circuit du Taj Mahal",
-        duration: "1 nuit / 2 jours",
+        duration: "1 Nuit / 2 Jours",
         description:
           "Visitez le célèbre Taj Mahal, symbole de l’amour éternel, ainsi que le Fort d’Agra et les sites moghols voisins.",
       },
       "varanasi-tour-package": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Varanasi – Inde Spirituelle",
-        duration: "2 nuits / 3 jours",
+        duration: "2 Nuits / 3 Jours",
         description:
           "Vivez l’atmosphère spirituelle de Varanasi avec les ghats du Gange, la cérémonie Ganga Aarti et le temple Kashi Vishwanath.",
       },
       "mathura-vrindavan-tour": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Mathura et Vrindavan",
-        duration: "2 nuits / 3 jours",
+        duration: "2 Nuits / 3 Jours",
         description:
           "Plongez dans la ferveur spirituelle des lieux de naissance du Seigneur Krishna.",
       },
       "andaman-nicobar-tour-package": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Îles Andaman",
-        duration: "6 nuits / 7 jours",
+        duration: "6 Nuits / 7 Jours",
         description:
           "Eaux cristallines, plages de sable blanc, récifs coralliens, sites historiques et nature tropicale des îles Andaman.",
       },
       "maldives-luxury-tour": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Séjour de Luxe aux Maldives",
-        duration: "4 nuits / 5 jours",
+        duration: "4 Nuits / 5 Jours",
         description:
           "Villas sur pilotis, dîners privés, spas relaxants et couchers de soleil spectaculaires.",
       },
       "srilanka-tour-package": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Sri Lanka tour luxe",
-        duration: "7 nuits / 8 jours",
+        duration: "7 Nuits / 8 Jours",
         description:
           "Explorez les temples anciens, les plantations de thé, la faune sauvage et les magnifiques côtes du Sri Lanka.",
       },
       "7n-8d-bhutan-tour-package": {
+      "rating": "4.8",
+      "rating": "4.8",
         title: "Bhoutan – Le Royaume du Bonheur",
-        duration: "8 Jours / 7 Nuits",
+        duration: "7 Nuits / 8 Jours",
         description:
           "Découvrez le Bhoutan avec ses monastères anciens, ses montagnes majestueuses et sa profonde culture spirituelle.",
       },
@@ -291,14 +331,14 @@ export const fr = {
       },
       taj: {
         title: "Voyage au Taj Mahal",
-        duration: "1 nuit / 2 jours",
+        duration: "1 Nuit / 2 Jours",
         highlight: "Merveille du monde",
         description:
           "Visite du célèbre Taj Mahal avec visites guidées et expériences culturelles.",
       },
       hampi: {
         title: "Circuit Hampi & Badami",
-        duration: "1 nuit / 2 jours",
+        duration: "1 Nuit / 2 Jours",
         highlight: "Patrimoine UNESCO",
         description:
           "Explorez les sites classés à l’UNESCO, les temples anciens et le patrimoine du Karnataka.",
@@ -411,20 +451,21 @@ internationalhero: "Explorez le monde",
           "Visitez les majestueuses chutes de Dudhsagar et découvrez des plantations d’épices aromatiques avec un guide.",
       },
       "golden-triangle-4-day-tour-from-goa": {
+      "rating": "4.8",
         title: "Triangle d’or 3N/4J",
-        duration: "3 nuits / 4 jours",
+        duration: "3 Nuits / 4 Jours",
         description:
           "Découvrez le patrimoine emblématique de l’Inde avec Delhi, Agra et Jaipur, incluant le Taj Mahal.",
       },
       varanasi: {
         title: "Varanasi 2N/3J",
-        duration: "2 nuits / 3 jours",
+        duration: "2 Nuits / 3 Jours",
         description:
           "Voyage spirituel comprenant Sarnath, la cérémonie du Ganga Aarti, des temples et une promenade en bateau.",
       },
       amritsar: {
         title: "Amritsar 2N/3J",
-        duration: "2 nuits / 3 jours",
+        duration: "2 Nuits / 3 Jours",
         description:
           "Visitez le Temple d’Or, la cérémonie de Wagah et des sites historiques majeurs.",
       },
@@ -1502,11 +1543,13 @@ internationalhero: "Explorez le monde",
   },
   trips: {
     "north-goa-day-excursion": {
+      "rating": "4.8",
       "title": "Goa du Nord – Goa Portugaise",
       "description": "Explorez les plages de Calangute, Baga et Anjuna, le Fort Aguada, les églises de l'époque portugaise et le belvédère de Vagator lors d'un tour privé d'une journée entière.",
       "duration": "Journée entière"
-    },
+  },
     "south-goa-sunset-cruise-tour": {
+      "rating": "4.8",
       "title": "Goa du Sud avec Croisière au Coucher du Soleil",
       "description": "Visitez Miramar Beach, Dona Paula, les églises UNESCO de Old Goa, les temples Mangueshi et Shanta Durga et profitez d'une magique croisière au coucher du soleil sur la rivière Mandovi.",
       "duration": "Journée entière"
@@ -1514,90 +1557,106 @@ internationalhero: "Explorez le monde",
     "south-goa-1-day-trip-package": {
       "title": "Tour d'une Journée Entière Palolem Cola",
       "description": "Vivez le saut d'île en île, l'observation des dauphins, Butterfly Beach, le kayak dans la Lagune Bleue de Cola, Agonda Beach et le Fort Cabo de Rama lors d'un tour privé d'une journée entière.",
+      "rating": "4.8",
       "duration": "Journée entière"
     },
     "south-goa-1-day-cultural-and-beach-tour-package": {
       "title": "Tour Culturel du Goa du Sud",
       "description": "Plongez dans les églises UNESCO de Old Goa, les temples Shanta Durga et Mangeshi, Miramar Beach, le belvédère de Dona Paula et le marché de Panjim.",
+      "rating": "4.9",
       "duration": "Journée entière"
     },
     "south-goa-day-exursion": {
       "title": "Aventure Côtière dans le Goa du Sud",
       "description": "Découvrez Palolem, Butterfly Beach, le kayak dans la Lagune Bleue de Cola, le Fort Cabo de Rama, la plage des tortues de Galgibaga et un splendide coucher de soleil à Talpona.",
+      "rating": "4.8",
       "duration": "1 Jour"
     },
     "delhi-agra-1n-2d-trip-package": {
       "title": "Tour de Delhi à Agra",
       "description": "Explorez l'iconique Taj Mahal au lever du soleil, le Fort d'Agra, le Baby Taj et Mehtab Bagh dans ce voyage inoubliable à travers le patrimoine moghol.",
+      "rating": "4.9",
       "duration": "1 Nuit / 2 Jours"
     },
     "wondrous-wildernest-tour-package": {
+      "rating": "4.8",
       "title": "Merveilleux Voyage à Wildernest",
       "description": "Évadez-vous dans la nature avec des treks forestiers, des randonnées au coucher du soleil, des séances de poterie, l'art au henné et des animations du soir au Wildernest Nature Resort en pension complète.",
       "duration": "2 Nuits / 3 Jours"
     },
     // Voyages intérieurs (Domestic Trips)
     "kashmir-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Cachemire exotique",
       description:
         "Explorez Srinagar, Sonamarg, Gulmarg et Pahalgam avec jardins moghols, séjour en bateau-maison et paysages himalayens époustouflants.",
       duration: "5 Nuits / 6 Jours",
     },
     "ladakh-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Leh, Turtuk & Pangong",
       description:
         "Vivez le col Khardung La, vallée de Nubra, lac Pangong et village de Turtuk dans cette aventure himalayenne en haute altitude.",
       duration: "6 Nuits / 7 Jours",
     },
     "sikkim-darjeeling-gangtok-tour-from-goa": {
+      "rating": "4.8",
       title: "Sikkim - Himalaya de l'Est",
       description:
         "Découvrez Gangtok, Darjeeling, Pelling avec lac Tsomgo, vues montagneuses et monastères bouddhistes dans l'Himalaya de l'Est.",
       duration: "6 Nuits / 7 Jours",
     },
     "meghalaya-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Meghalaya mystique",
       description:
         "Explorez ponts vivants de racines, rivières cristallines à Dawki, village le plus propre d'Asie et safari Kaziranga dans le Nord-Est indien.",
       duration: "6 Nuits / 7 Jours",
     },
     "north-india-heritage-tour-from-goa": {
+      "rating": "4.8",
       title: "Circuit du patrimoine du Nord de l’Inde",
       description:
         "Triangle d'Or plus Amritsar et Ranthambore - vivez l'héritage culturel, Temple d'Or et aventure safari aux tigres.",
-      duration: "10 Jours / 9 Nuits",
+      duration: "9 Nuits / 10 Jours",
     },
     "golden-triangle-4-day-tour-from-goa": {
+      "rating": "4.8",
       title: "Triangle d'Or",
       description:
         "Delhi, Agra, Jaipur - Vivez le riche héritage culturel indien avec Taj Mahal, Fort d'Amber et monuments historiques.",
-      duration: "3 nuits / 4 jours",
+      duration: "3 Nuits / 4 Jours",
     },
     "rajasthan-royal-tour-from-goa": {
+      "rating": "4.8",
       title: "Rajasthan royal",
       description:
         "Jaipur, Udaipur, Jodhpur, camp désert Jaisalmer & Bikaner - palais royaux, safaris désert et culture vibrante.",
       duration: "6 Nuits / 7 Jours",
     },
     "kerala-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Kerala pittoresque",
       description:
         "Vivez le Pays de Dieu avec backwaters, collines, plages, bateau-maison, plantations de thé et jardins d'épices.",
       duration: "5 Nuits / 6 Jours",
     },
     "tamil-nadu-tour-package": {
+      "rating": "4.8",
       title: "Tamil Nadu - Tour des temples",
       description:
         "Kanyakumari, Rameshwaram, temples de Madurai & station de colline Ooty - voyage spirituel à travers les sites sacrés du Sud de l'Inde.",
       duration: "6 Nuits / 7 Jours",
     },
     "andaman-inlands-trip": {
+      "rating": "4.8",
       title: "Andaman - Retraite côtière",
       description:
         "Découvrez plages de corail, hopping d'îles, sports nautiques, vie marine préservée et prison historique Cellular Jail sur îles tropicales.",
       duration: "6 Nuits / 7 Jours",
     },
     "lakshadweep-islands-tour-package": {
+      "rating": "4.8",
       title: "Îles Lakshadweep",
       description:
         "Plages préservées, récifs coralliens & vie marine sur îles Agatti, Thinnakara & Kalpitti avec snorkeling et sports nautiques.",
@@ -1605,30 +1664,35 @@ internationalhero: "Explorez le monde",
     },
 
     "cabo-serai-2n-3d-luxury-getaway": {
+      "rating": "4.8",
       title: "Cabo Serai secret",
       description:
         "Séjour de luxe à Cabo Serai avec vues époustouflantes sur mer d'Arabie, promenades nature, observation d'oiseaux et expériences bien-être optionnelles.",
       duration: "2 Nuits / 3 Jours",
     },
     "1n-2d-shimoga-trip-package": {
+      "rating": "4.8",
       title: "Shimoga Nature & Safari",
       description:
         "Explorez formations rocheuses mystiques grottes Yana, profitez safaris jeep et bateau palpitants, et assistez chutes majestueuses Jog.",
       duration: "1 Nuit / 2 Jours",
     },
     "aurangabad-day-excursions": {
+      "rating": "4.8",
       title: "Héritage Aurangabad",
       description:
         "Découvrez sites Patrimoine mondial UNESCO grottes Ajanta & Ellora, Bibi Ka Maqbara et fort historique Daulatabad.",
       duration: "1 Nuit / 2 Jours",
     },
     "taj-mahal-tour": {
+      "rating": "4.8",
       title: "Tour du Taj Mahal",
       description:
         "Vivez l'emblématique Taj Mahal, Fort d'Agra et Petit Taj avec guides russophones dans ce voyage romantique patrimonial.",
       duration: "1 Nuit / 2 Jours",
     },
     "hampi-day-excursions": {
+      "rating": "4.8",
       title: "Héritage Hampi",
       description:
         "Explorez site Patrimoine mondial UNESCO Hampi - ruines anciennes, enceintes royales, temples et char de pierre unique.",
@@ -1637,158 +1701,184 @@ internationalhero: "Explorez le monde",
 
     // Voyages internationaux (International Trips)
     "7n-8d-vietam-tour-package": {
+      "rating": "4.8",
       title: "Merveilles du Vietnam",
       description:
         "Tour complet Vietnam : Hanoi, baie d'Halong, Da Nang, Hoi An et Ho Chi Minh. Points forts culturels, croisières scéniques et sites historiques.",
-      duration: "8 Jours / 7 Nuits",
+      duration: "7 Nuits / 8 Jours",
     },
     "vitnam-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Meilleur du Vietnam",
       description:
         "Découvrez points forts Vietnam : Hanoi, baie d'Halong, Da Nang et Hoi An. Parfait pour temps limité voulant vivre beauté vietnamienne.",
-      duration: "6 Jours / 5 Nuits",
+      duration: "5 Nuits / 6 Jours",
     },
     "7n-8d-bhutan-tour-package": {
+      "rating": "4.8",
       title: "Bhoutan – Le Royaume du Bonheur",
       description:
         "Explorez royaume mystique Bhoutan : Thimphu, Punakha et Paro. Inclut randonnée emblématique monastère Nid du Tigre et expériences culturelles.",
-      duration: "8 Jours / 7 Nuits",
+      duration: "7 Nuits / 8 Jours",
     },
     "nepal-tour-package": {
+      "rating": "4.8",
       title: "Népal magnifique",
       description:
         "Meilleur du Népal : Kathmandu, Parc National Chitwan et Pokhara. Safari jungle, sites culturels et vues himalayennes.",
-      duration: "7 Jours / 6 Nuits",
+      duration: "6 Nuits / 7 Jours",
     },
     "nepal-muktinath-special": {
+      "rating": "4.8",
       title: "Népal - Spécial Muktinath",
       description:
         "Voyage spirituel vers temple sacré Muktinath au milieu beauté himalayenne. Inclut sightseeing Pokhara, lever soleil Sarangkot.",
-      duration: "7 Jours / 6 Nuits",
+      duration: "6 Nuits / 7 Jours",
     },
     "singapore-tour-package": {
+      "rating": "4.8",
       title: "Singapour & Malaisie classique",
       description:
         "Expérience deux villes avec merveilles modernes, diversité culturelle et beauté tropicale. Île Sentosa, Universal Studios et points forts Kuala Lumpur.",
-      duration: "7 Jours / 6 Nuits",
+      duration: "6 Nuits / 7 Jours",
     },
     "4N-5D-bangkok-tour-package": {
+      "rating": "4.8",
       title: "Thaïlande - Bangkok & Pattaya Spécial",
       description:
         "Voyage Bangkok & Pattaya avec zoo Sri Racha, île Corail et Safari World. Court séjour parfait avec plages, temples et divertissement.",
-      duration: "5 Jours / 4 Nuits",
+      duration: "4 Nuits / 5 Jours",
     },
     "7N-8D-thailand-tour-package": {
+      "rating": "4.8",
       title: "Thaïlande complète",
       description:
         "Tour complet : Bangkok, Pattaya, Krabi et Phuket. Vie citadine, plages, îles et attractions culturelles.",
-      duration: "8 Jours / 7 Nuits",
+      duration: "7 Nuits / 8 Jours",
     },
     "3N-4D-thailand-tour-package": {
+      "rating": "4.8",
       title: "Esperienza Bangkok e Pattaya",
       description:
         "Scopri la vivace vita notturna, le splendide isole e il ricco patrimonio culturale della Thailandia con un viaggio curato che copre Pattaya e Bangkok, inclusi Coral Island, lo spettacolo Alcazar e una crociera con cena sul fiume Chao Phraya.",
-      duration: "4 giorni / 3 notti",
+      duration: "3 Nuits / 4 Jours",
     },
     "8n-9d-turkey-tour-package": {
+      "rating": "4.8",
       title: "Turquie - Istanbul & Cappadoce",
       description:
         "Explorez sites historiques Istanbul et paysages uniques Cappadoce. Sainte-Sophie, Mosquée Bleue et villes souterraines.",
-      duration: "8 nuits / 9 jours",
+      duration: "8 Nuits / 9 Jours",
     },
     "turkey-tour-package": {
+      "rating": "4.8",
       title: "Aperçu Turquie",
       description:
         "Tour complet Turquie : Istanbul, Cappadoce, Antalya et terrasses Pamukkale époustouflantes. Histoire riche et paysages variés.",
-      duration: "6 jours / 5 nuits",
+      duration: "5 Nuits / 6 Jours",
     },
     "dubai-tour-package": {
+      "rating": "4.8",
       title: "Dubaï - Évasion luxe",
       description:
         "Merveilles modernes Dubaï : croisière dhow, safari désert, Burj Khalifa, aquarium Dubaï et aventures parcs aquatiques palpitantes.",
-      duration: "6 Jours / 5 Nuits",
+      duration: "5 Nuits / 6 Jours",
     },
     "phuket-krabi-tour-package": {
+      "rating": "4.8",
       title: "Phuket Krabi - Évasion insulaire",
       description:
         "Paradis insulaire avec Tour 4 Îles Krabi et Tour île Phi Phi depuis Phuket. Plages préservées, falaises calcaires et eaux turquoise.",
-      duration: "5 Jours / 4 Nuits",
+      duration: "4 Nuits / 5 Jours",
     },
     "5n-6d-hongkong-tour-package": {
+      "rating": "4.8",
       title: "Hong Kong & Macao Évasion",
       description:
         "Villes vibrantes, skyline époustouflant et merveilles culturelles. Ocean Park, tours ville et transferts ferry Hong Kong-Macao.",
-      duration: "6 Jours / 5 Nuits",
+      duration: "5 Nuits / 6 Jours",
     },
     "baku-tour-package": {
+      "rating": "4.8",
       title: "Azerbaïdjan - Découverte Bakou",
       description:
         "Histoire ancienne et architecture moderne Azerbaïdjan. Visitez Bakou, Gabala, Sheki et Quba avec téléphériques et sites UNESCO.",
-      duration: "7 Jours / 6 Nuits",
+      duration: "6 Nuits / 7 Jours",
     },
     "bali-tour-package": {
+      "rating": "4.8",
       title: "Bali luxe",
       description:
         "Détendez-vous paradis tropical Bali avec plages, terrasses riz, temples et retraites spa. Sports nautiques, balançoire Bali et tour Nusa Penida.",
-      duration: "5 Jours / 4 Nuits",
+      duration: "4 Nuits / 5 Jours",
     },
     "combodia-tour-package": {
+      "rating": "4.8",
       title: "Cambodge & Laos Découverte",
       description:
         "Temples anciens et paysages luxuriants deux nations sud-est asiatiques incroyables. Lever soleil Angkor Wat et expériences culturelles.",
-      duration: "9 Jours / 8 Nuits",
+      duration: "8 Nuits / 9 Jours",
     },
     "georgia-tour-package": {
+      "rating": "4.8",
       title: "Géorgie - Aventure Caucase",
       description:
         "Découvrez églises anciennes, pays vin et paysages montagneux Caucase. Dégustation vin, équitation et leçons ski.",
-      duration: "8 Jours / 7 Nuits",
+      duration: "7 Nuits / 8 Jours",
     },
     "japan-tour-package": {
+      "rating": "4.8",
       title: "Japon expérience luxe",
       description:
         "Parfait mélange culture traditionnelle et innovation moderne Tokyo, Osaka, Kyoto et plus. Voyages shinkansen inclus.",
-      duration: "8 Jours / 7 Nuits",
+      duration: "7 Nuits / 8 Jours",
     },
     "kazakhstan-almaty-explorer": {
+      "rating": "4.8",
       title: "Kazakhstan - Explorateur Almaty",
       description:
         "Charme urbain Almaty, lacs montagneux époustouflants et canyon Charyn impressionnant. Mélange parfait aventures montagne et culture.",
-      duration: "5 Jours / 4 Nuits",
+      duration: "4 Nuits / 5 Jours",
     },
     "srilanka-tour-package": {
+      "rating": "4.8",
       title: "Sri Lanka tour luxe",
       description:
         "Perle océan Indien avec merveilles culturelles, aventures faune et plages préservées. Tous repas et expériences curatées incluses.",
-      duration: "8 Jours / 7 Nuits",
+      duration: "7 Nuits / 8 Jours",
     },
 
     // Excursions d'une journée (Day Trips)
     "dandeli-elephant-day-excursion": {
+      "rating": "4.8",
       title: "Safari éléphants Dandeli",
       description:
         "Aventure faune palpitante avec safaris éléphants, rafting eaux vives et exploration jungle dans paysages luxuriants Dandeli.",
       duration: "1 Jour",
     },
     "dudhsagar-waterfal-excursion": {
+      "rating": "4.8",
       title: "Chute Dudhsagar & plantation épices",
       description:
         "Vivez majestueuses chutes Dudhsagar avec safari jeep Sanctuaire Bhagwan Mahaveer suivi déjeuner goanais authentique plantation épices.",
       duration: "1 Jour",
     },
     "mumbai-one-day-excursion": {
+      "rating": "4.8",
       title: "Mumbai en une journée",
       description:
         "Tour complet Mumbai couvrant landmarks iconiques : Gateway of India, bidonville Dharavi, Dhobi Ghat et train nuit retour Goa.",
       duration: "1 Jour",
     },
     "netravali-wildlife-day-excursion": {
+      "rating": "4.8",
       title: "Excursion Netravali",
       description:
         "Explorez lac bouillonnant mystique Netravali, randonnée chutes préservées et découvrez riche biodiversité sanctuaire faune intact.",
       duration: "1 Jour",
     },
     "gokarna-murdeshwar-day-excursion": {
+      "rating": "4.8",
       title: "Excursion Gokarna Murdeshwar",
       description:
         "Voyage spirituel visitant ancien temple Mahabaleshwar Gokarna et magnifique temple Murdeshwar avec statue Shiva plus haute monde.",
@@ -1796,92 +1886,107 @@ internationalhero: "Explorez le monde",
     },
 
     "amritsar-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Circuit Patrimoine d’Amritsar",
-      duration: "2 nuits / 3 jours",
+      duration: "2 Nuits / 3 Jours",
       description:
         "Découvrez l’importance spirituelle et historique d’Amritsar avec des visites du Temple d’Or, de Jallianwala Bagh et d’autres sites emblématiques.",
     },
     "bijapur-heritage-tour": {
+      "rating": "4.8",
       title: "Circuit Patrimoine de Bijapur",
-      duration: "1 nuit / 2 jours",
+      duration: "1 Nuit / 2 Jours",
       description:
         "Découvrez l’importance spirituelle et historique de Bijapur avec des visites du Gol Gumbaz, de l’Ibrahim Rauza et d’autres monuments emblématiques.",
     },
     "hyderabad-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Circuit de Hyderabad",
-      duration: "1 nuits / 2 jours",
+      duration: "1 Nuit / 2 Jours",
       description:
         "Découvrez l’importance spirituelle et historique de Hyderabad avec des visites du Charminar, du fort de Golconda et d’autres sites emblématiques.",
     },
     "jodhpur-tour-package-from-goa": {
+      "rating": "4.8",
       title: "Circuit Patrimoine de Jodhpur",
-      duration: "3 nuits / 4 jours",
+      duration: "3 Nuits / 4 Jours",
       description:
         "Découvrez l’importance spirituelle et historique de Jodhpur avec des visites du fort de Mehrangarh, du palais Umaid Bhawan et d’autres lieux emblématiques.",
     },
     "crocodile-sightseeing-trip": {
+      "rating": "4.8",
       title: "Excursion d’observation des crocodiles",
       duration: "Demi-journée",
       description:
         "Observez les crocodiles dans leur habitat naturel lors d’une excursion palpitante idéale pour les amoureux de la nature et de la photographie.",
     },
     "luxury-yacht-day-tour-goa": {
+      "rating": "4.8",
       title: "Expérience yacht de luxe du crépuscule au dîner",
       duration: "16h / 22h",
       description:
         "Profitez d’une soirée exclusive en yacht avec piscine à débordement, DJ en direct, barbecue gastronomique ou sushi, boissons premium et dîner complet.",
     },
     "grand-island-water-sports": {
+      "rating": "4.8",
       title: "Île Grand avec sports nautiques",
       duration: "1 jour",
       description:
         "Partez pour une excursion en bateau vers l’île Grand et profitez du snorkeling, jet-ski, banana ride, parachute ascensionnel et observation des dauphins.",
     },
     "dandeli-2-day-tour-from-goa": {
+      "rating": "4.8",
       title: "Safari éléphant et tigre à Dandeli",
       duration: "2 jours",
       description:
         "Vivez une aventure sauvage dans les forêts de Dandeli avec des safaris d’éléphants et de tigres au cœur de paysages naturels spectaculaires.",
     },
     "mysore-ooty-tour": {
+      "rating": "4.8",
       title: "Escapade patrimoniale Mysore & Ooty",
-      duration: "3 nuits / 4 jours",
+      duration: "3 Nuits / 4 Jours",
       description:
         "Découvrez l’héritage royal de Mysore avec le palais et la colline de Chamundi, puis les jardins de thé et paysages pittoresques d’Ooty.",
     },
     "ajanta-ellora-caves-tour-from-goa": {
+      "rating": "4.8",
       title: "Circuit des grottes d’Ellora et d’Ajanta",
-      duration: "1 nuits / 2 jours",
+      duration: "1 Nuit / 2 Jours",
       description:
         "Admirez les anciennes grottes rupestres d’Ellora et d’Ajanta mettant en valeur l’art bouddhiste, hindou et jaïn.",
     },
     "jodhpur-udaipur-tour-package": {
+      "rating": "4.8",
       title: "Circuit royal du Rajasthan : Udaipur & Jodhpur",
-      duration: "4 nuits / 5 jours",
+      duration: "4 Nuits / 5 Jours",
       description:
         "Découvrez le charme royal du Rajasthan à travers palais majestueux, lacs paisibles, forts imposants et marchés colorés.",
     },
     "varanasi-tour-package": {
+      "rating": "4.8",
       title: "Varanasi – Inde spirituelle",
-      duration: "2 nuits / 3 jours",
+      duration: "2 Nuits / 3 Jours",
       description:
         "Vivez l’âme spirituelle de l’Inde avec les ghats du Gange, la cérémonie Ganga Aarti, le temple Kashi Vishwanath et Sarnath.",
     },
     "mathura-vrindavan-tour": {
+      "rating": "4.8",
       title: "Circuit Mathura & Vrindavan",
-      duration: "2 nuits / 3 jours",
+      duration: "2 Nuits / 3 Jours",
       description:
         "Plongez dans la dévotion sur les lieux sacrés de naissance de Krishna avec temples vibrants et expériences spirituelles.",
     },
     "andaman-nicobar-tour-package": {
+      "rating": "4.8",
       title: "Évasion aux îles Andaman",
-      duration: "6 nuits / 7 jours",
+      duration: "6 Nuits / 7 Jours",
       description:
         "Évadez-vous vers des eaux cristallines, plages de sable blanc, récifs coralliens, sites historiques et jungles luxuriantes.",
     },
     "maldives-luxury-tour": {
+      "rating": "4.8",
       title: "Expérience de luxe aux Maldives",
-      duration: "4 nuits / 5 jours",
+      duration: "4 Nuits / 5 Jours",
       description:
         "Offrez-vous une escapade de luxe aux Maldives avec villas sur pilotis, dîners privés, spas et couchers de soleil spectaculaires.",
     },
@@ -1889,7 +1994,8 @@ internationalhero: "Explorez le monde",
 
   tourData: {
   "sikkim-darjeeling-gangtok-tour-from-goa": {
-   "file_name": "sikkim-tour-for-goa.html", "page": { "slug": "sikkim-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Circuit de 7 jours au Sikkim depuis Goa", "subtitle": "Découvrez le pays des monastères, des lacs glaciaires et des cols de montagne à couper le souffle", "backgroundImage": "/assets/hero/Sikkim-hero.webp", "meta": { "duration": "7 jours", "rating": "Note de 4,9/5" } }, "language": "fr", "metadata": { "title": "Circuit au Sikkim depuis Goa – 6 nuits & 7 jours | Global Tourist Centre", "description": "Réservez un circuit de 6 nuits et 7 jours au Sikkim depuis Goa. Hébergement, guide et transport inclus." } }, "cta": { "headline": "Prêt pour votre aventure au Sikkim ?", "description": "Réservez maintenant et explorez le paradis himalayen avec un accompagnement expert", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit au Sikkim. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Petits groupes", "description": "Expérience personnalisée" }, { "title": "Transport privé", "description": "Véhicule climatisé pendant tout le circuit" }, { "title": "Tous les repas", "description": "Petit-déjeuner, déjeuner et dîner" }, { "title": "Permis inclus", "description": "Tous les permis nécessaires" } ], "gallery": [ { "title": "Lac Tsomgo", "description": "Lac glaciaire à 3 780 m d'altitude", "image": "/assets/destinations/Sikkim/tsomgo-lake.webp" }, { "title": "Col de Nathu-La", "description": "Frontière indo-chinoise à 4 310 m d'altitude", "image": "/assets/destinations/Sikkim/nathula-pass.webp" }, { "title": "Monastère de Pemayangtse", "description": "L'un des plus anciens monastères du Sikkim", "image": "/assets/destinations/Sikkim/Pemayangtse-Monastery.webp" }, { "title": "Lac Khecheopalri", "description": "Lac sacré de Pelling", "image": "/assets/destinations/Sikkim/Khecheopalri-Lake.webp" }, { "title": "Lever du soleil à Tiger Hill", "description": "Vues panoramiques sur l'Himalaya", "image": "/assets/destinations/Sikkim/tiger-hill.webp" } ], "inclusions": [ { "title": "Hébergement à l'hôtel", "description": "6 nuits d'hébergement en chambre double" }, { "title": "Transport privé", "description": "Véhicule climatisé pour tous les transferts et visites" }, { "title": "Tous les repas", "description": "Petit-déjeuner, déjeuner et dîner quotidiens inclus" }, { "title": "Tous les permis", "description": "Permis intérieurs et permis spéciaux pour les zones protégées" }, { "title": "Excursions", "description": "Toutes les visites touristiques selon l'itinéraire" }, { "title": "Guide touristique", "description": "Guide expérimenté anglophone" } ],
+   "file_name": "sikkim-tour-for-goa.html", "page": { "slug": "sikkim-tour-for-goa", "type": "domestic-trip", "hero": { "title": "Circuit de 7 jours au Sikkim depuis Goa", "subtitle": "Découvrez le pays des monastères, des lacs glaciaires et des cols de montagne à couper le souffle", "backgroundImage": "/assets/hero/Sikkim-hero.webp", "meta": { "rating": "4.9",
+      "duration": "7 jours", "rating": "Note de 4,9/5" } }, "language": "fr", "metadata": { "title": "Circuit au Sikkim depuis Goa – 6 nuits & 7 jours | Global Tourist Centre", "description": "Réservez un circuit de 6 nuits et 7 jours au Sikkim depuis Goa. Hébergement, guide et transport inclus." } }, "cta": { "headline": "Prêt pour votre aventure au Sikkim ?", "description": "Réservez maintenant et explorez le paradis himalayen avec un accompagnement expert", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit au Sikkim. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Petits groupes", "description": "Expérience personnalisée" }, { "title": "Transport privé", "description": "Véhicule climatisé pendant tout le circuit" }, { "title": "Tous les repas", "description": "Petit-déjeuner, déjeuner et dîner" }, { "title": "Permis inclus", "description": "Tous les permis nécessaires" } ], "gallery": [ { "title": "Lac Tsomgo", "description": "Lac glaciaire à 3 780 m d'altitude", "image": "/assets/destinations/Sikkim/tsomgo-lake.webp" }, { "title": "Col de Nathu-La", "description": "Frontière indo-chinoise à 4 310 m d'altitude", "image": "/assets/destinations/Sikkim/nathula-pass.webp" }, { "title": "Monastère de Pemayangtse", "description": "L'un des plus anciens monastères du Sikkim", "image": "/assets/destinations/Sikkim/Pemayangtse-Monastery.webp" }, { "title": "Lac Khecheopalri", "description": "Lac sacré de Pelling", "image": "/assets/destinations/Sikkim/Khecheopalri-Lake.webp" }, { "title": "Lever du soleil à Tiger Hill", "description": "Vues panoramiques sur l'Himalaya", "image": "/assets/destinations/Sikkim/tiger-hill.webp" } ], "inclusions": [ { "title": "Hébergement à l'hôtel", "description": "6 nuits d'hébergement en chambre double" }, { "title": "Transport privé", "description": "Véhicule climatisé pour tous les transferts et visites" }, { "title": "Tous les repas", "description": "Petit-déjeuner, déjeuner et dîner quotidiens inclus" }, { "title": "Tous les permis", "description": "Permis intérieurs et permis spéciaux pour les zones protégées" }, { "title": "Excursions", "description": "Toutes les visites touristiques selon l'itinéraire" }, { "title": "Guide touristique", "description": "Guide expérimenté anglophone" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
       "sectionTitle": "Un Sikkim, deux formules",
@@ -2175,6 +2281,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "andaman-nicobar-tour-package": {
+      "rating": "4.8",
   "file_name": "andaman-tour-for-goa.html",
   "page": {
     "slug": "andaman-nicobar-tour-for-goa",
@@ -2184,7 +2291,7 @@ internationalhero: "Explorez le monde",
       "subtitle": "Découvrez les plages préservées et la riche histoire des îles Andaman en 7 jours",
       "backgroundImage": "/assets/hero/Andaman-hero.webp",
       "meta": {
-        "duration": "6 nuits / 7 jours",
+        "duration": "6 Nuits / 7 Jours",
         "rating": "Note de 4,9/5"
       }
     },
@@ -2345,6 +2452,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "golden-triangle-4-day-tour-from-goa": {
+      "rating": "4.8",
     "file_name": "golden-triangle-4-day-tour-from-goa-3n4d.html",
     "page": {
       "slug": "golden-triangle-4-day-tour-from-goa-3N4D",
@@ -2515,6 +2623,7 @@ internationalhero: "Explorez le monde",
     }
   },
   "kerala-tour-package-from-goa": {
+      "rating": "4.8",
     "file_name": "Kerala-5N6D-Trip.html", "page": { "slug": "Kerala-5N6D-Trip", "type": "domestic-trip", "hero": { "title": "Circuit de 6 jours au Kerala", "subtitle": "Découvrez la beauté paisible du Kerala lors de ce voyage de 5 nuits et 6 jours à travers Cochin, Munnar, Thekkady et Alleppey", "backgroundImage": "/assets/hero/Kerala-hero.webp", "meta": { "duration": "6 jours", "locations": 4, "rating": "Note de 4,8/5" } }, "language": "fr", "metadata": { "title": "Circuit de groupe au Kerala depuis Goa – 6 jours de paysages magnifiques", "description": "Découvrez la beauté paisible du Kerala lors de ce voyage de 5 nuits et 6 jours à travers Cochin, Munnar, Thekkady et Alleppey" } }, "cta": { "headline": "Prêt pour votre aventure au Kerala ?", "description": "Réservez maintenant et assurez votre place pour un voyage inoubliable de 6 jours à travers le « pays de Dieu »", "contact": { "whatsapp": { "number": "+919067972295", "message": "Bonjour ! Je suis intéressé(e) par votre circuit Kerala 5N6J. Merci de m'envoyer plus d'informations." }, "phone": "+919067972295" } }, "quickInfo": [ { "title": "Hôtels 3 étoiles", "description": "Hébergement premium" }, { "title": "Transport privé", "description": "Berline climatisée" }, { "title": "Séjour en houseboat", "description": "Backwaters d'Alleppey" }, { "title": "Petit-déjeuner quotidien", "description": "Tous les repas sur le houseboat" } ], "gallery": [ { "title": "Jardins de thé de Munnar", "description": "Collines verdoyantes ondulantes", "image": "/assets/destinations/Kerala/Munnar Tea Gardens.webp" }, { "title": "Backwaters d'Alleppey", "description": "Une expérience paisible en houseboat", "image": "/assets/destinations/Kerala/Alleppey Backwaters.webp" }, { "title": "Sanctuaire de faune de Periyar", "description": "Balade en bateau dans le sanctuaire", "image": "/assets/destinations/Kerala/Periyar Wildlife.webp" }, { "title": "Filets de pêche de Cochin", "description": "Les emblématiques filets de pêche chinois", "image": "/assets/destinations/Kerala/Cochin Fishing Nets.webp" }, { "title": "Backwaters du Kerala", "description": "Voies navigables paisibles", "image": "/assets/destinations/Kerala/KeralaBackwaters.webp" } ], "inclusions": [ { "title": "Hébergement 3 étoiles", "description": "Séjour dans des hôtels premium pendant 5 nuits à Cochin, Munnar et Thekkady" }, { "title": "Séjour en houseboat", "description": "1 nuit dans un houseboat Deluxe climatisé partagé à Alleppey, avec tous les repas" }, { "title": "Transport privé", "description": "Berline climatisée pour tous les transferts et visites selon l'itinéraire" }, { "title": "Petit-déjeuner quotidien", "description": "Petit-déjeuner inclus dans tous les hôtels (formule CP)" }, { "title": "Repas sur le houseboat", "description": "Tous les repas sur le houseboat (déjeuner, thé/goûter du soir, dîner, petit-déjeuner)" }, { "title": "Péages et parking", "description": "Tous les frais de péage, de parking et de carburant, l'indemnité du chauffeur et les permis sont inclus" } ],
     "price": {
       "sectionLabel": "Choisissez votre formule",
@@ -2947,7 +3056,8 @@ internationalhero: "Explorez le monde",
           "subtitle": "Tour d'une journée entière à travers les plages, forts et patrimoine portugais du Goa du Nord",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
-            "duration": "Journée entière",
+            "rating": "4.9",
+      "duration": "Journée entière",
             "locations": "Goa du Nord",
             "rating": "Note 4,8/5"
           }
@@ -3307,7 +3417,8 @@ internationalhero: "Explorez le monde",
           "subtitle": "Saut d'île en île, observation des dauphins, kayak dans la Lagune Bleue et joyaux cachés du Goa du Sud",
           "backgroundImage": "/assets/destinations/South-goa/palolem-beach.webp",
           "meta": {
-            "duration": "Journée entière",
+            "rating": "4.8",
+      "duration": "Journée entière",
             "locations": "5+ îles et plages",
             "rating": "Note 4,9/5",
             "guide": "Guide russophone"
@@ -3499,7 +3610,8 @@ internationalhero: "Explorez le monde",
           "subtitle": "Une immersion d'une journée entière dans la riche histoire, l'architecture et le patrimoine spirituel du Goa du Sud.",
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
-            "duration": "Journée entière (8h00 – 17h30)",
+            "rating": "4.9",
+      "duration": "Journée entière (8h00 – 17h30)",
             "locations": "Old Goa, Temples, Plages, Panjim",
             "includes": "Transport, petit-déjeuner, guide, entrées"
           }
@@ -3666,7 +3778,8 @@ internationalhero: "Explorez le monde",
           // "subtitle": "Découvrez les plages préservées et les joyaux cachés du Goa du Sud en une journée inoubliable",
           "backgroundImage": "/assets/hero/Goa-1-hero.webp",
           "meta": {
-            "duration": "1 jour",
+            "rating": "4.8",
+      "duration": "1 jour",
             "locations": "9 lieux",
             "rating": "Note 4.4/5"
           }
@@ -3836,7 +3949,8 @@ internationalhero: "Explorez le monde",
           "subtitle": "Vivez la magie du Taj Mahal et de l'architecture moghole dans ce voyage inoubliable",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
-            "duration": "2 jours",
+            "rating": "4.9",
+      "duration": "1 Nuit / 2 Jours",
             "locations": "6+ lieux",
             "rating": "Note 4,9/5"
           }
@@ -4023,7 +4137,8 @@ internationalhero: "Explorez le monde",
             "Vivez des rencontres avec la faune et des aventures aquatiques palpitantes dans les paysages luxuriants de Dandeli",
           backgroundImage: "/assets/hero/Dandeli-hero.webp",
           "meta": {
-            "duration": "1 jour(s)",
+            "rating": "4.8",
+      "duration": "1 jour(s)",
             "locations": 4,
             "rating": "4.7/5 Rating"
           }
@@ -4192,6 +4307,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "dudhsagar-waterfal-excursion": {
+      "rating": "4.8",
       file_name: "Dudhsagar-and-Spice-Plantation-Day-Trip-package.html",
       page: {
         slug: "Dudhsagar-and-Spice-Plantation-Day-Trip-package",
@@ -4202,7 +4318,8 @@ internationalhero: "Explorez le monde",
             "Découvrez les majestueuses chutes Dudhsagar et explorez les plantations d'épices aromatiques au cours d'une journée inoubliable",
           backgroundImage: "/assets/hero/Dudhsagar-hero.webp",
           "meta": {
-            "duration": "1 jour(s)",
+            "rating": "4.9",
+      "duration": "1 jour(s)",
             "locations": 3,
             "rating": "4.9/5 Rating"
           }
@@ -4362,6 +4479,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "gokarna-murdeshwar-day-excursion": {
+      "rating": "4.8",
       file_name: "Gokarna-Murdeshwar-one-day-trip-package.html",
       page: {
         slug: "Gokarna-Murdeshwar-one-day-trip-package",
@@ -4371,7 +4489,8 @@ internationalhero: "Explorez le monde",
           subtitle: "Découvrez les plages et les temples en une journée",
           backgroundImage: "/assets/hero/Gokarna-hero.webp",
           "meta": {
-            "duration": "1 jour(s)",
+            "rating": "4.8",
+      "duration": "1 jour(s)",
             "locations": 5,
             "rating": "4.8/5 Rating"
           }
@@ -4545,6 +4664,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "luxury-yacht-day-tour-goa": {
+      "rating": "4.8",
       file_name: "luxury-yacht-day-tour-goa.html",
       "page": {
         "slug": "luxury-yacht-day-tour-goa",
@@ -4554,7 +4674,8 @@ internationalhero: "Explorez le monde",
           "subtitle": "Une expérience premium exclusive avec piscine à débordement, DJ en live, gastronomie et vues sur le coucher de soleil",
           "backgroundImage": "/assets/hero/Luxury-Yacht-Goa-hero.webp",
           "meta": {
-            "duration": "6 heures",
+            "rating": "4.9",
+      "duration": "6 heures",
             "rating": "Note 4.9/5",
             "description": "Profitez d’une croisière premium en yacht avec coucher de soleil, piscine à débordement, DJ en live, dîner gastronomique et transferts depuis l’hôtel."
           }
@@ -4727,6 +4848,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "mumbai-one-day-excursion": {
+      "rating": "4.8",
       file_name: "Mumbai-day-trip-package.html",
       page: {
         slug: "Mumbai-day-trip-package",
@@ -4737,7 +4859,8 @@ internationalhero: "Explorez le monde",
             "Excursion d'une journée complète de Goa à Mumbai comprenant le billet d'avion, la Porte de l'Inde, le palais du Taj Mahal et un guide anglophone",
           backgroundImage: "/assets/hero/mumbai-hero.webp",
           "meta": {
-            "duration": "Full Day",
+            "rating": "4.8",
+      "duration": "Full Day",
             "rating": "4.7/5 Rating",
             "description": "Book a Mumbai Day Tour Package from Goa featuring flights, breakfast, Taj Tea, guided sightseeing, Dharavi tour, markets & iconic landmarks."
           }
@@ -4958,7 +5081,8 @@ internationalhero: "Explorez le monde",
             "Découvrez la beauté naturelle et la richesse culturelle de l'arrière-pays de Goa lors d'une excursion d'une journée complète au départ de Goa.",
           backgroundImage: "/assets/hero/Netravali-hero.webp",
           "meta": {
-            "duration": "1 jour(s)",
+            "rating": "4.8",
+      "duration": "1 jour(s)",
             "locations": 5,
             "rating": "4.7/5 Rating"
           }
@@ -5933,7 +6057,8 @@ internationalhero: "Explorez le monde",
             "Plongez dans la beauté naturelle de Goa avec des randonnées en forêt, des activités culturelles et un hébergement de luxe",
           backgroundImage: "/assets/hero/wildernest-hero.webp",
           "meta": {
-            "duration": "Full Day",
+            "rating": "4.8",
+      "duration": "Full Day",
             "rating": "4.8/5 Rating",
             "description": "Book a North Goa tour package covering Calangute, Baga, Anjuna, Aguada Fort, churches & flea markets with breakfast, transport & guide included."
           }
@@ -6128,6 +6253,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "ajanta-ellora-caves-tour-from-goa": {
+      "rating": "4.8",
       file_name: "ajanta-ellora-tour-from-goa.html",
       page: {
         slug: "ajanta-ellora-tour",
@@ -6138,7 +6264,7 @@ internationalhero: "Explorez le monde",
             "1 nuit 2 jours à la découverte des sites du patrimoine mondial de l'UNESCO, des grottes d'Ajanta et d'Ellora au départ de Goa",
           backgroundImage: "/assets/hero/Ajanta-hero.webp",
           "meta": {
-            "duration": "1 nuits / 2 jours",
+            "duration": "1 Nuit / 2 Jours",
             "rating": "4.8/5 Rating",
             "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
           }
@@ -6716,6 +6842,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "cabo-serai-2n-3d-luxury-getaway": {
+      "rating": "4.8",
       file_name: "Cabo-Serai-2N-3D-Luxury-Getaway.html",
       page: {
         slug: "Cabo-Serai-2N-3D-Luxury-Getaway",
@@ -6899,6 +7026,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "dandeli-2-day-tour-from-goa": {
+      "rating": "4.8",
       file_name: "dandeli-2-day-tour-from-goa-from-goa.html",
       page: {
         slug: "dandeli-2-day-tour-from-goa",
@@ -7531,6 +7659,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "hampi-day-excursions": {
+      "rating": "4.8",
       file_name: "Hampi-1N-2D-Trip-Package.html",
       page: {
         slug: "Hampi-1N-2D-Trip-Package",
@@ -7541,7 +7670,8 @@ internationalhero: "Explorez le monde",
             "Découvrez le site de Hampi, classé au patrimoine mondial de l'UNESCO, avec ses ruines antiques et ses paysages époustouflants",
           backgroundImage: "/assets/hero/Hampi-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "rating": "4.9",
+      "duration": "2 jour(s)",
             "locations": 15,
             "rating": "4.8/5 Rating",
             "description": "Explore Karnataka’s heritage with our 2D/1N Hampi & Badami tour package from Goa. Includes hotel, breakfast, guides, cave temples, Stone Chariot & sightseeing"
@@ -7782,7 +7912,7 @@ internationalhero: "Explorez le monde",
             "1 nuit 2 jours à la découverte du patrimoine d'Hyderabad, notamment le fort de Golconde, Charminar et le palais de Chowmahalla",
           backgroundImage: "/assets/hero/Hyderabad-hero.webp",
           "meta": {
-            "duration": "1 nuits / 2 jours",
+            "duration": "1 Nuit / 2 Jours",
             "rating": "4.6/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }
@@ -8183,6 +8313,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "jodhpur-udaipur-tour-package": {
+      "rating": "4.8",
       file_name: "jodhpur-udaipur-trip-4n5d.html",
       page: {
         slug: "Jodhpur-Udaipur-tour-package",
@@ -8872,6 +9003,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "mathura-vrindavan-tour": {
+      "rating": "4.8",
       file_name: "mathura-vrindavan-trip-2n3d.html",
       page: {
         slug: "mathura-vrindavan-tour",
@@ -9085,7 +9217,8 @@ internationalhero: "Explorez le monde",
           subtitle: "",
           backgroundImage: "/assets/hero/Shimoga-hero.webp",
           "meta": {
-            "duration": "1 Night / 2 jour(s)",
+            "rating": "4.8",
+      "duration": "1 Night / 2 jour(s)",
             "locations": 5,
             "rating": "4.7/5 Rating"
           }
@@ -9270,6 +9403,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "varanasi-tour-package": {
+      "rating": "4.8",
       file_name: "varanasi-2n3d-trip.html",
       page: {
         slug: "Varanasi-2N3D",
@@ -9912,6 +10046,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "7n-8d-bhutan-tour-package": {
+      "rating": "4.8",
       file_name: "7n-8d-7n-8d-bhutan-tour-package-package.html",
       page: {
         slug: "7n-8d-7n-8d-bhutan-tour-package-package",
@@ -10438,7 +10573,7 @@ internationalhero: "Explorez le monde",
             "Explorez Istanbul, la Cappadoce, Antalya et Pamukkale avec vols, hôtels, visites et transferts privés",
           backgroundImage: "/assets/hero/Turkey-hero.webp",
           "meta": {
-            "duration": "8 nuits / 9 jours",
+            "duration": "8 Nuits / 9 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -12392,6 +12527,7 @@ internationalhero: "Explorez le monde",
       ],
     },
     "srilanka-tour-package": {
+      "rating": "4.8",
       file_name: "srilanka-tour-package.html",
       page: {
         slug: "srilanka-tour-package-package",
@@ -12572,7 +12708,7 @@ internationalhero: "Explorez le monde",
             "Des cheminées de fées de Cappadoce aux merveilles historiques d'Istanbul",
           backgroundImage: "/assets/hero/Turkey2-hero.webp",
           "meta": {
-            "duration": "6 jours / 5 nuits",
+            "duration": "5 Nuits / 6 Jours",
             "rating": "4.8/5 Rating"
           }
         },
