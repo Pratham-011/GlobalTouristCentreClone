@@ -59,10 +59,6 @@ export function HeroSection({
 
   const destinationsSubmenu = [
     {
-      href: getHref("/destinations"),
-      label: t.nav.destinations,
-    },
-    {
       href: getHref("/destinations/domestic"),
       label: t.nav.domesticTrip,
     },
