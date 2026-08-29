@@ -1,10 +1,10 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { useI18n } from "@/lib/i18n/context";
 import { LanguageSwitcher } from "./language-switcher";
-import { Menu } from "lucide-react";
+import { Menu, ChevronDown } from "lucide-react";
 import { Label } from "@/components-eng/ui/label";
 import { Input } from "@/components-eng/ui/input";
 import { Button } from "@/components-eng/ui/button";
@@ -35,14 +35,54 @@ export function HeroSection({
 }: HeroSectionProps) {
   const { t, locale } = useI18n();
   const [isOpen, setIsOpen] = useState(false);
+  const [isDestinationsOpen, setIsDestinationsOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (
+        dropdownRef.current &&
+        !dropdownRef.current.contains(event.target as Node)
+      ) {
+        setIsDestinationsOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
 
   const getHref = (path: string) => {
     return locale === "en" ? path : `/${locale}${path}`;
   };
 
+  const destinationsSubmenu = [
+    {
+      href: getHref("/destinations"),
+      label: t.nav.destinations,
+    },
+    {
+      href: getHref("/destinations/domestic"),
+      label: t.nav.domesticTrip,
+    },
+    {
+      href: getHref("/destinations/international"),
+      label: t.nav.internationalTrip,
+    },
+    {
+      href: getHref("/destinations/day-trips"),
+      label: t.nav.dayTrip,
+    },
+  ];
+
   const navLinks = [
     { href: getHref("/"), label: t.nav.home },
-    { href: getHref("/destinations"), label: t.nav.destinations },
+    {
+      href: getHref("/destinations"),
+      label: t.nav.destinations,
+      submenu: destinationsSubmenu,
+    },
     {
       href: getHref("/luxury-trips"),
       label: t.nav.luxuryDestinations,
@@ -55,6 +95,7 @@ export function HeroSection({
     },
     { href: getHref("/blog"), label: t.nav.blog },
   ];
+
   const heroImageBase = `/assets/hero/${backgroundQuery}.webp`;
 
   return (
@@ -108,16 +149,66 @@ export function HeroSection({
               role="navigation"
               aria-label="Main navigation"
             >
-              {navLinks.map((link) => (
-                <Link
-                  key={link.href}
-                  href={link.href}
-                  className="text-white text-[20px] font-medium transition-colors hover:text-[#f8d56b]"
-                  style={{ textShadow: "0 1px 2px rgba(0,0,0,0.3)" }}
-                >
-                  {link.label}
-                </Link>
-              ))}
+              {navLinks.map((link) =>
+                link.submenu ? (
+                  /* Destinations with click-to-open dropdown */
+                  <div key={link.href} className="relative" ref={dropdownRef}>
+                    <button
+                      type="button"
+                      onClick={() => setIsDestinationsOpen((prev) => !prev)}
+                      className="flex items-center gap-1 text-white text-[20px] font-medium transition-colors hover:text-[#f8d56b] focus:outline-none cursor-pointer"
+                      style={{ textShadow: "0 1px 2px rgba(0,0,0,0.3)" }}
+                      aria-expanded={isDestinationsOpen}
+                      aria-haspopup="true"
+                      id="hero-eng-destinations-menu-button"
+                    >
+                      {link.label}
+                      <ChevronDown
+                        className={`h-4 w-4 transition-transform duration-200 ${
+                          isDestinationsOpen ? "rotate-180" : ""
+                        }`}
+                        aria-hidden="true"
+                      />
+                    </button>
+
+                    {/* Dropdown panel */}
+                    <div
+                      className={`absolute top-full left-1/2 -translate-x-1/2 mt-3 w-52 transition-all duration-200 ease-out ${
+                        isDestinationsOpen
+                          ? "opacity-100 pointer-events-auto translate-y-0"
+                          : "opacity-0 pointer-events-none translate-y-1"
+                      }`}
+                      role="menu"
+                      aria-labelledby="hero-eng-destinations-menu-button"
+                    >
+                      {/* Arrow tip */}
+                      <div className="mx-auto w-3 h-3 -mb-1.5 rotate-45 bg-gray-900/95 border-t border-l border-white/10 relative z-10" />
+                      <div className="rounded-xl overflow-hidden shadow-2xl border border-white/10 bg-gray-900/95 backdrop-blur-md">
+                        {link.submenu.map((sub) => (
+                          <Link
+                            key={sub.href}
+                            href={sub.href}
+                            role="menuitem"
+                            onClick={() => setIsDestinationsOpen(false)}
+                            className="flex items-center gap-2 px-5 py-3 text-sm font-medium text-gray-200 hover:text-[#f8d56b] hover:bg-white/5 transition-colors border-l-2 border-transparent hover:border-[#f8d56b]"
+                          >
+                            <span>{sub.label}</span>
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                ) : (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="text-white text-[20px] font-medium transition-colors hover:text-[#f8d56b]"
+                    style={{ textShadow: "0 1px 2px rgba(0,0,0,0.3)" }}
+                  >
+                    {link.label}
+                  </Link>
+                )
+              )}
             </nav>
 
             {/* Language Switcher as navbar item */}
@@ -134,7 +225,7 @@ export function HeroSection({
                   variant="ghost"
                   size="icon"
                   aria-label="Open menu"
-                  className="text-white  hover:text-white focus:text-white h-9 w-9"
+                  className="text-white hover:text-white focus:text-white h-9 w-9"
                 >
                   <Menu className="h-5 w-5 sm:h-6 sm:w-6 md:h-8 md:w-8 lg:h-9 lg:w-9 text-white" />
                 </Button>
@@ -145,17 +236,38 @@ export function HeroSection({
                   <SheetTitle>Menu</SheetTitle>
                 </SheetHeader>
 
-                <nav className="flex flex-col py-2">
-                  {navLinks.map((link) => (
-                    <SheetClose asChild key={link.href}>
-                      <Link
-                        href={link.href}
-                        className="px-6 py-3 text-base font-medium hover:bg-muted"
-                      >
-                        {link.label}
-                      </Link>
-                    </SheetClose>
-                  ))}
+                <nav className="flex flex-col py-2" aria-label="Mobile navigation">
+                  {navLinks.map((link) =>
+                    link.submenu ? (
+                      <div key={link.href}>
+                        <div className="flex items-center justify-between px-6 py-3 text-base font-medium text-foreground">
+                          <span>{link.label}</span>
+                        </div>
+                        {/* Mobile submenu — always visible, indented */}
+                        <div className="border-l-2 border-[#f8d56b] ml-6 mb-1">
+                          {link.submenu.map((sub) => (
+                            <SheetClose asChild key={sub.href}>
+                              <Link
+                                href={sub.href}
+                                className="block px-5 py-2.5 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-muted"
+                              >
+                                {sub.label}
+                              </Link>
+                            </SheetClose>
+                          ))}
+                        </div>
+                      </div>
+                    ) : (
+                      <SheetClose asChild key={link.href}>
+                        <Link
+                          href={link.href}
+                          className="px-6 py-3 text-base font-medium hover:bg-muted"
+                        >
+                          {link.label}
+                        </Link>
+                      </SheetClose>
+                    )
+                  )}
                 </nav>
 
                 <div className="px-6 py-4 xl:hidden">
@@ -169,11 +281,11 @@ export function HeroSection({
       </header>
 
       {/* Hero Content */}
-      {/* Hero Content */}
       <div className="relative z-10 w-full flex-1 flex items-center px-[5%]">
         <div
-          className={`w-full ${showForm ? "grid lg:grid-cols-2 gap-6 sm:gap-8" : "flex flex-col"
-            }`}
+          className={`w-full ${
+            showForm ? "grid lg:grid-cols-2 gap-6 sm:gap-8" : "flex flex-col"
+          }`}
         >
           {/* Set the max-width here to 800px */}
           <div className="max-w-[800px] w-full">

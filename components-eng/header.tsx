@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { Menu, ChevronDown } from "lucide-react";
 
 import { useI18n } from "@/lib/i18n/context";
@@ -20,6 +20,23 @@ import {
 export function Header() {
   const { t, locale } = useI18n();
   const [isOpen, setIsOpen] = useState(false);
+  const [isDestinationsOpen, setIsDestinationsOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (
+        dropdownRef.current &&
+        !dropdownRef.current.contains(event.target as Node)
+      ) {
+        setIsDestinationsOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
 
   const getHref = (path: string) => {
     return locale === "en" ? path : `/${locale}${path}`;
@@ -90,25 +107,33 @@ export function Header() {
           >
             {navLinks.map((link) =>
               link.submenu ? (
-                /* Destinations with dropdown */
-                <div key={link.href} className="relative group">
-                  <Link
-                    href={link.href}
-                    className="flex items-center gap-1 text-white text-lg font-medium transition-colors hover:text-[#f8d56b]"
+                /* Destinations with click-to-open dropdown */
+                <div key={link.href} className="relative" ref={dropdownRef}>
+                  <button
+                    type="button"
+                    onClick={() => setIsDestinationsOpen((prev) => !prev)}
+                    className="flex items-center gap-1 text-white text-lg font-medium transition-colors hover:text-[#f8d56b] focus:outline-none cursor-pointer"
                     style={{ textShadow: "0 1px 2px rgba(0,0,0,0.35)" }}
+                    aria-expanded={isDestinationsOpen}
                     aria-haspopup="true"
                     id="destinations-menu-button"
                   >
                     {link.label}
                     <ChevronDown
-                      className="h-4 w-4 transition-transform duration-200 group-hover:rotate-180"
+                      className={`h-4 w-4 transition-transform duration-200 ${
+                        isDestinationsOpen ? "rotate-180" : ""
+                      }`}
                       aria-hidden="true"
                     />
-                  </Link>
+                  </button>
 
                   {/* Dropdown panel */}
                   <div
-                    className="absolute top-full left-1/2 -translate-x-1/2 mt-3 w-52 opacity-0 pointer-events-none translate-y-1 group-hover:opacity-100 group-hover:pointer-events-auto group-hover:translate-y-0 transition-all duration-200 ease-out"
+                    className={`absolute top-full left-1/2 -translate-x-1/2 mt-3 w-52 transition-all duration-200 ease-out ${
+                      isDestinationsOpen
+                        ? "opacity-100 pointer-events-auto translate-y-0"
+                        : "opacity-0 pointer-events-none translate-y-1"
+                    }`}
                     role="menu"
                     aria-labelledby="destinations-menu-button"
                   >
@@ -120,7 +145,8 @@ export function Header() {
                           key={sub.href}
                           href={sub.href}
                           role="menuitem"
-                          className="flex items-center gap-2 px-5 py-3 text-sm font-medium text-gray-200 hover:text-[#f8d56b] hover:bg-white/5 transition-colors border-l-2 border-transparent hover:border-[#f8d56b] group/item"
+                          onClick={() => setIsDestinationsOpen(false)}
+                          className="flex items-center gap-2 px-5 py-3 text-sm font-medium text-gray-200 hover:text-[#f8d56b] hover:bg-white/5 transition-colors border-l-2 border-transparent hover:border-[#f8d56b]"
                         >
                           <span>{sub.label}</span>
                         </Link>
@@ -167,14 +193,9 @@ export function Header() {
                 {navLinks.map((link) =>
                   link.submenu ? (
                     <div key={link.href}>
-                      <SheetClose asChild>
-                        <Link
-                          href={link.href}
-                          className="flex items-center justify-between px-6 py-4 text-base font-medium hover:bg-muted"
-                        >
-                          {link.label}
-                        </Link>
-                      </SheetClose>
+                      <div className="flex items-center justify-between px-6 py-4 text-base font-medium text-foreground">
+                        <span>{link.label}</span>
+                      </div>
                       {/* Mobile submenu — always visible, indented */}
                       <div className="border-l-2 border-[#f8d56b] ml-6 mb-1">
                         {link.submenu.map((sub) => (
