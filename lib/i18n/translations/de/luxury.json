@@ -1,0 +1,2164 @@
+{
+  "luxury": {
+    "inclusions": "Im Paket enthalten",
+    "accommodation": "Luxusunterkünfte",
+    "shared": "Gemeinsame Ausflüge",
+    "heroTitle": "Dubai Urlaubspakete",
+    "discount": "Bis zu 35% RABATT",
+    "getDiscount": "Holen Sie sich 35% RABATT auf Dubai-Pakete",
+    "bestPrice": "Bestpreisgarantie",
+    "tailorMade": "Maßgeschneiderte Urlaubspakete",
+    "personalConsultants": "Persönliche Reiseberater",
+    "flexibility": "Flexibilität bei Organisation und Buchung",
+    "recognised": "Anerkannt von der indischen Regierung",
+    "exclusiveDestinations": "Exklusive indische Reiseziele",
+    "destinations": {
+      "kerala-luxury": {
+        "title": "Kerala Backwaters",
+        "description": "Erleben Sie 'God's Own Country' mit entspannten Hausboot-Fahrten, Gewürzplantagen und Ayurveda-Retreats."
+      },
+      "mumbai-luxury": {
+        "title": "Mumbai Erlebnis",
+        "description": "Entdecken Sie Indiens Finanzhauptstadt mit kolonialer Architektur, Bollywood-Glamour und ikonischen Wahrzeichen."
+      },
+      "golden-triangle-luxury": {
+        "title": "Goldenes Dreieck Tour",
+        "description": "Erkunden Sie Delhi, Agra und Jaipur und erleben Sie Indiens bedeutendstes kulturelles Erbe."
+      },
+      "rajasthan-luxury": {
+        "title": "Königliches Rajasthan",
+        "description": "Tauchen Sie ein in herrschaftliche Palastaufenthalte, Wüstensafaris und historische Festungen."
+      },
+      "karnataka-luxury": {
+        "title": "Bangalore, Mysore & Ooty",
+        "description": "Eine perfekte Mischung aus urbanem Luxus und der Ruhe der Hill Stations in Südindien."
+      },
+      "mahraja-train-tour-package": {
+        "title": "Maharajas-Express",
+        "description": "Eine königliche Eisenbahn-Odyssee durch die ikonischen Festungen, Wildparks und Seestädte von Rajasthan an Bord des legendären Maharajas' Express."
+      }
+    }
+  },
+  "luxuryPages": {
+    "mumbai-luxury": {
+      "hero": {
+        "title": "Mumbai Luxus-Touren",
+        "description": "Erleben Sie die 'Maximum City' in ultimativem Luxus. Übernachten Sie in ikonischen Hotels, erkunden Sie Kulturerbestätten, genießen Sie gehobene Küche und entdecken Sie die lebendige Kultur von Indiens Finanzmetropole.",
+        "discountBadge": "Bis zu 20% RABATT bei Frühbuchung",
+        "image": "/assets/Luxury/Mumbai/mumbai-hero.webp"
+      },
+      "metadata": {
+        "title": "Mumbai Luxus-Reisepaket | Global Tourist Centre – Premium Mumbai Getaway",
+        "description": "Erkunden Sie das exklusive Mumbai Luxus-Reisepaket vom Global Tourist Centre. Erleben Sie 5-Sterne-Hotels, private Chauffeurfahrten, erstklassige Gastronomie und kuratierte Stadttouren in der Stadt der Träume."
+      },
+      "toursSection": {
+        "title": "Premium Mumbai Reisepakete",
+        "packages": [
+          {
+            "image": "/assets/Luxury/Mumbai/Mumbai.webp",
+            "badge": "Premium-Paket",
+            "title": "2N/3D Mumbai Luxus-Paket",
+            "location": "Mumbai Stadt-Highlights",
+            "description": "Erleben Sie das Beste von Mumbai mit ikonischen Wahrzeichen, historischen Stätten und Luxusunterkünften auf dieser perfekt kuratierten 3-tägigen Reise.",
+            "link": "/luxury-trips/mumbai-luxury/mumbai-luxury-package"
+          }
+        ]
+      },
+      "infoCards": [
+        {
+          "icon": "hotel",
+          "title": "Ikonische Hotelaufenthalte",
+          "description": "Gastfreundschaft von Weltrang im Taj Mahal Palace, The Oberoi und Trident Nariman Point."
+        },
+        {
+          "icon": "user-tie",
+          "title": "Personalisierter Service",
+          "description": "Engagierter Concierge-Service, private Reiseleiter und maßgeschneiderte Reiserouten."
+        },
+        {
+          "icon": "utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Dachterrassen-Restaurants, historische Cafés, Chef's Table Erlebnisse und Yacht-Dinner."
+        },
+        {
+          "icon": "gem",
+          "title": "Exklusiver Zugang",
+          "description": "Private Kunstgalerien, Bollywood-Studios, geführte Erbe-Spaziergänge und kuratierte Shopping-Touren."
+        }
+      ]
+    },
+    "golden-triangle-luxury": {
+      "hero": {
+        "title": "Goldenes Dreieck Luxus-Touren",
+        "description": "Erleben Sie Indiens ikonischsten Kulturkreis in unvergleichlichem Luxus in Delhi, Agra und Jaipur.",
+        "discountBadge": "Bis zu 25% RABATT bei Frühbuchung",
+        "image": "/assets/Luxury/Golden Triangle/hero.webp"
+      },
+      "metadata": {
+        "title": "Luxuriöse Goldene-Dreieck-Tour | Premiumroute Delhi–Agra–Jaipur – GTC",
+        "description": "Genießen Sie eine exklusive Luxus-Golden-Triangle-Tour mit Global Tourist Centre: Aufenthalte in Heritage-Palästen, private Chauffeur-Transfers, VIP-Besichtigungen in Delhi, Agra und Jaipur sowie kuratierte Erlebnisse für anspruchsvolle Reisende."
+      },
+      "toursSection": {
+        "title": "Premium Goldenes Dreieck Reisepakete",
+        "packages": [
+          {
+            "image": "/assets/Luxury/Golden Triangle/golden-triangle.webp",
+            "badge": "Premium-Paket",
+            "title": "4N/5D Goldenes Dreieck Luxus-Paket",
+            "location": "Delhi, Agra & Jaipur",
+            "description": "Eine kompakte Luxustour, die alle Highlights mit 5-Sterne-Aufenthalten abdeckt.",
+            "link": "/luxury-trips/golden-triangle-luxury/golden-triangle-luxury-package"
+          },
+          {
+            "image": "/assets/Luxury/Golden Triangle/Golden Triangle2.webp",
+            "badge": "Premium-Paket",
+            "title": "6N/7D Goldenes Dreieck Luxus-Paket",
+            "location": "Delhi, Agra & Jaipur",
+            "description": "Unsere beliebteste Reiseroute mit Palastaufenthalten und Gourmet-Küche.",
+            "link": "/luxury-trips/golden-triangle-luxury/6n-7d-golden-triangle-luxury-tour-package"
+          }
+        ]
+      },
+      "infoCards": [
+        {
+          "icon": "crown",
+          "title": "Palast- & Erbe-Aufenthalte",
+          "description": "Übernachten Sie in ehemaligen königlichen Palästen wie dem Rambagh Palace und Oberoi Amarvilas."
+        },
+        {
+          "icon": "user-tie",
+          "title": "Expertengeführte Touren",
+          "description": "Personalisierte Touren, geleitet von erfahrenen Historikern und lokalen Guides."
+        },
+        {
+          "icon": "utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Königliche Festmähler, Abendessen mit Blick auf das Taj Mahal und preisgekrönte Restaurants."
+        },
+        {
+          "icon": "gem",
+          "title": "Exklusiver Zugang",
+          "description": "Besuche des Taj Mahal bei Sonnenaufgang, privater Zugang zu Monumenten und kuratierte Aufführungen."
+        }
+      ]
+    },
+    "kerala-luxury": {
+      "hero": {
+        "title": "Kerala Luxus-Touren",
+        "description": "Erleben Sie 'God's Own Country' in ultimativem Luxus. Kreuzen Sie durch ruhige Backwaters, übernachten Sie in Premium-Hausbooten, regenerieren Sie sich mit Ayurveda und erkunden Sie üppige Bergstationen.",
+        "discountBadge": "Bis zu 30% RABATT bei Frühbuchung",
+        "image": "/assets/Luxury/Kerala/hero-backwaters.webp"
+      },
+      "metadata": {
+        "title": "Kerala Luxusreisepaket | Global Tourist Centre – Premium Kerala Urlaub",
+        "description": "Erleben Sie unser exklusives Kerala Luxusreisepaket mit Global Tourist Centre. Genießen Sie luxuriöse Unterkünfte, private Hausboote, malerische Bergstationen und Backwaters sowie personalisierten Service und unvergessliche Momente in „God’s Own Country“."
+      },
+      "toursSection": {
+        "title": "Premium Kerala Reisepakete",
+        "packages": [
+          {
+            "image": "/assets/Luxury/Kerala/kerala1.webp",
+            "badge": "Premium-Paket",
+            "title": "4N/5D Kerala Luxus-Paket",
+            "location": "Cochin, Munnar & Alleppey",
+            "description": "Backwaters, Bergstationen und kulturelles Erbe auf einer kuratierten Reise.",
+            "link": "/luxury-trips/kerala-luxury/kerala-luxury-package"
+          },
+          {
+            "image": "/assets/Luxury/Kerala/kerala2.webp",
+            "badge": "Premium-Paket",
+            "title": "6N/7D Kerala Luxus-Paket",
+            "location": "Cochin, Munnar, Thekkady & Alleppey",
+            "description": "Luxuriöse Hausboote, Naturerlebnisse und Premium-Resorts in den Bergen.",
+            "link": "/luxury-trips/kerala-luxury/kerala-luxury-tour-package"
+          }
+        ]
+      },
+      "infoCards": [
+        {
+          "icon": "ship",
+          "title": "Luxus-Hausboote",
+          "description": "Premium-Hausboote mit privaten Decks und Gourmet-Verpflegung."
+        },
+        {
+          "icon": "spa",
+          "title": "Ayurveda & Wellness",
+          "description": "Authentische ayurvedische Behandlungen und Wellnessprogramme."
+        },
+        {
+          "icon": "utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Traditionelles Kerala Sadya und Meeresfrüchte-Schlemmereien."
+        },
+        {
+          "icon": "gem",
+          "title": "Exklusiver Zugang",
+          "description": "Private Backwater-Routen und kuratierte kulturelle Erlebnisse."
+        }
+      ]
+    },
+    "rajasthan-luxury": {
+      "hero": {
+        "title": "Rajasthan Royal Touren",
+        "description": "Erleben Sie das königliche Erbe von Rajasthan mit unseren exklusiven Luxus-Touren. Übernachten Sie in majestätischen Palästen, erkunden Sie antike Festungen und tauchen Sie ein in die lebendige Kultur von Indiens Land der Könige.",
+        "discountBadge": "Bis zu 30% RABATT bei Frühbuchung",
+        "image": "/assets/Luxury/Rajasthan/Rajasthan-Luxury.webp"
+      },
+      "metadata": {
+        "title": "Luxusreise Rajasthan | Global Tourist Centre – Königliches Erbe & 5★ Komfort",
+        "description": "Entdecken Sie das ultimative Rajasthan Luxusreisepaket mit Global Tourist Centre – Übernachtungen in Palästen und Heritage-Hotels, private Guides, kuratierte Erlebnisse und nahtlose Transfers durch Jaipur, Udaipur, Jodhpur und mehr."
+      },
+      "toursSection": {
+        "title": "Premium Rajasthan Reisepakete",
+        "packages": [
+          {
+            "image": "/assets/Luxury/Rajasthan/Rajasthan2.webp",
+            "badge": "Premium-Paket",
+            "title": "4N/5D Rajasthan Luxus-Paket",
+            "location": "Jaipur & Udaipur",
+            "description": "Königliche Paläste und romantische Seen in einer kuratierten Auszeit.",
+            "link": "/luxury-trips/rajasthan-luxury/4n-5d-rajasthan-luxury-package"
+          },
+          {
+            "image": "/assets/Luxury/Rajasthan/Rajasthan3.webp",
+            "badge": "Premium-Paket",
+            "title": "6N/7D Rajasthan Luxus-Paket",
+            "location": "Jaipur, Jodhpur & Udaipur",
+            "description": "Palastaufenthalte und kulturelles Eintauchen in königlichen Städten.",
+            "link": "/luxury-trips/rajasthan-luxury/6n-7d-rajasthan-luxury-package"
+          },
+          {
+            "image": "/assets/Luxury/Rajasthan/Rajasthan4.webp",
+            "badge": "Ultra Premium-Paket",
+            "title": "8N/9D Rajasthan Luxus-Paket",
+            "location": "Jaipur, Udaipur, Jodhpur & Ranthambore",
+            "description": "Paläste, Festungen und Wildlife-Safaris auf einer Reise.",
+            "link": "/luxury-trips/rajasthan-luxury/rajasthan-luxury-package"
+          }
+        ]
+      },
+      "infoCards": [
+        {
+          "icon": "crown",
+          "title": "Königliche Palastaufenthalte",
+          "description": "Übernachten Sie in ehemaligen Maharadscha-Palästen wie Rambagh und Umaid Bhawan."
+        },
+        {
+          "icon": "user-tie",
+          "title": "Personalisierter Service",
+          "description": "Engagierte Butler, private Guides und maßgeschneiderte Reiserouten."
+        },
+        {
+          "icon": "utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Abendessen in Palasthöfen und königliche Rajasthan-Festmähler."
+        },
+        {
+          "icon": "gem",
+          "title": "Exklusiver Zugang",
+          "description": "Eingeschränkter Zugang zu Festungen und private kulturelle Aufführungen."
+        }
+      ]
+    },
+    "karnataka-luxury": {
+      "hero": {
+        "title": "Karnataka Luxus-Touren",
+        "description": "Königliche Paläste, Wildtiersafaris, Bergstationen und moderne Städte, kombiniert in Luxus.",
+        "discountBadge": "Bis zu 25% RABATT bei Frühbuchung",
+        "image": "/assets/Luxury/Karnataka/hero.webp"
+      },
+      "metadata": {
+        "title": "Karnataka Luxusreise – Maßgeschneiderte Heritage- & Wildlife-Erlebnisse | GTC",
+        "description": "Begeben Sie sich auf eine unvergessliche Karnataka-Luxusreise mit Global Tourist Centre. Übernachten Sie in königlichen Palästen, entdecken Sie das Erbe von Mysore, erleben Sie Safaris im Bandipur-Nationalpark, entspannen Sie in den Western Ghats und genießen Sie private Guides sowie Gourmetküche."
+      },
+      "toursSection": {
+        "title": "Premium Karnataka Reisepakete",
+        "packages": [
+          {
+            "image": "/assets/Luxury/Karnataka/Karnataka.webp",
+            "badge": "Premium-Paket",
+            "title": "7N/8D Karnataka Luxus-Paket",
+            "location": "Bangalore, Mysore & Ooty",
+            "description": "Kulturelles Erbe, Wildtiere und Rückzugsorte in den Bergen auf einer Reise.",
+            "link": "/luxury-trips/karnataka-luxury/karnataka-luxury-package"
+          }
+        ]
+      },
+      "infoCards": [
+        {
+          "icon": "landmark",
+          "title": "Königliche Erbe-Aufenthalte",
+          "description": "Historische Paläste und luxuriöse Berg-Resorts."
+        },
+        {
+          "icon": "user-tie",
+          "title": "Personalisierter Service",
+          "description": "Private Reiseleiter und maßgeschneiderte Reiserouten."
+        },
+        {
+          "icon": "utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Traditionelle Karnataka-Küche und exklusive Speisen."
+        },
+        {
+          "icon": "gem",
+          "title": "Exklusiver Zugang",
+          "description": "Private Kulturshows und kuratierte Besuche historischer Stätten."
+        }
+      ]
+    }
+  },
+  "luxuryTrain": {
+    "mahraja-train-tour-package": {
+      "hero": {
+        "type": "package-hero",
+        "badge": "Signature-Paket",
+        "title": "Maharaja Express Luxuszugreise durch Indien",
+        "location": "Goa · Delhi · Agra · Ranthambore · Jaipur · Bikaner · Jodhpur · Udaipur · Mumbai",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%209N/10D%20Indian%20Splendour%20aboard%20Maharajas'%20Express.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Maharaja/hero.webp"
+      },
+      "metadata": {
+        "title": "Maharaja Express Zugreise-Paket | Luxuszug Indien",
+        "description": "Erleben Sie das Maharaja Express Zugreise-Paket mit 5★-Hotels, Taj Mahal-Besuch, Ranthambore-Safari und königlichen Suiten. Buchen Sie Luxuszugreisen in Indien."
+      },
+      "itinerary": {
+        "title": "Indiens Pracht",
+        "subtitle": "Eine wundervolle Reise durch ein magisches Land",
+        "duration": "( 9 NÄCHTE / 10 TAGE )",
+        "days": [
+          {
+            "dayStr": "Tag 1",
+            "name": "Ankunft in Delhi",
+            "desc": "Hin- und Rückflug von Goa nach Delhi. Privater Flughafentransfer. Check-in im luxuriösen 5★-Hotel (gehobene Zimmerkategorie). Freier Abend. Übernachtung in Delhi (Luxushotel)."
+          },
+          {
+            "dayStr": "Tag 2 (Sonntag)",
+            "name": "Delhi und Agra",
+            "desc": "Einsteigen in den Zug in Delhi am Morgen. Bei Ankunft in Agra Besuch des Taj Mahal. Übernachtung im Zug in Agra. Frühstück, Mittagessen und Abendessen an Bord."
+          },
+          {
+            "dayStr": "Tag 3 (Montag)",
+            "name": "Agra und Ranthambore",
+            "desc": "Besuch des Agra Fort. Rückkehr in den Zug zum Frühstück, während der Zug nach Sawai Madhopur fährt. Mittagessen an Bord. Safari im Nationalpark Ranthambore. Abendessen an Bord auf dem Weg nach Jaipur."
+          },
+          {
+            "dayStr": "Tag 4 (Dienstag)",
+            "name": "Jaipur",
+            "desc": "Nach dem Frühstück an Bord Aussteigen für den Besuch des Amber Fort. Rückkehr in den Zug zum Mittagessen. Abendessen an einem exklusiven Ort. Rückkehr in den Zug, der nach Bikaner weiterfährt."
+          },
+          {
+            "dayStr": "Tag 5 (Mittwoch)",
+            "name": "Bikaner",
+            "desc": "Frühstück und Mittagessen an Bord. Besuch des Junagarh Fort, gefolgt von einem exklusiven Grillabend auf den Sanddünen. Der Zug fährt weiter nach Jodhpur."
+          },
+          {
+            "dayStr": "Tag 6 (Donnerstag)",
+            "name": "Jodhpur",
+            "desc": "Frühstück und Mittagessen an Bord. Freier Vormittag. Nach dem Mittagessen Besuch des Mehrangarh Fort und Spaziergang durch den Alten Uhrtturmmarkt, gefolgt von einem Abendessen an einem exklusiven Ort. Der Zug fährt nach Udaipur."
+          },
+          {
+            "dayStr": "Tag 7 (Freitag)",
+            "name": "Udaipur",
+            "desc": "Nach dem Frühstück an Bord Bootsfahrt auf dem Pichola-See und Besuch des Stadtpalastes. Mittagessen an einem exklusiven Ort. Abendessen an Bord auf dem Weg nach Mumbai."
+          },
+          {
+            "dayStr": "Tag 8 (Samstag)",
+            "name": "Ankunft in Mumbai",
+            "desc": "Frühstück und Mittagessen an Bord. Aussteigen in Mumbai. Privater Transfer zum Taj Mahal Palace Hotel. Check-in. Übernachtung im Taj Mahal Palace."
+          },
+          {
+            "dayStr": "Tag 9 (Sonntag)",
+            "name": "Rückreise nach Goa",
+            "desc": "Frühstück im Hotel. Privater Transfer zum Flughafen Mumbai. Rückflug nach Goa."
+          }
+        ]
+      },
+      "accommodations": {
+        "eyebrow": "An Bord der Goldenen Reise",
+        "title": "Maharajas' Express",
+        "subtitle": "Private Kabinen & Suiten",
+        "cabins": [
+          {
+            "name": "Deluxe-Kabine",
+            "size": "(112 Quadratfuß / 10,4 m²)",
+            "images": [
+              "/assets/Luxury/Maharaja/3.webp",
+              "/assets/Luxury/Maharaja/4.webp"
+            ],
+            "layout": "split",
+            "features": [
+              "12 Einzelbett- und 8 Doppelbettkabinen",
+              "Eigenes Bad mit Dusche und WC",
+              "Wichtigste OTT-Kanäle verfügbar",
+              "Schreibablage und Hocker",
+              "Kleiderschrank mit elektronischem Safe"
+            ]
+          },
+          {
+            "name": "Junior-Suite",
+            "size": "(150 Quadratfuß / 13,9 m²)",
+            "images": [
+              "/assets/Luxury/Maharaja/5.webp",
+              "/assets/Luxury/Maharaja/6.webp"
+            ],
+            "layout": "split",
+            "features": [
+              "12 Einzelbett- und 6 Doppelbettkabinen",
+              "Eigenes Bad mit Dusche und WC",
+              "Wichtigste OTT-Kanäle verfügbar",
+              "Tisch mit Stuhl",
+              "Kleiderschrank mit elektronischem Safe"
+            ]
+          },
+          {
+            "name": "Suite",
+            "size": "(220 Quadratfuß / 20,4 m²)",
+            "images": [
+              "/assets/Luxury/Maharaja/7.webp",
+              "/assets/Luxury/Maharaja/8.webp",
+              "/assets/Luxury/Maharaja/9.webp"
+            ],
+            "layout": "three",
+            "features": [
+              "Separater Wohnbereich mit Sofasesseln",
+              "Eigenes Bad mit Badewanne, Dusche und WC",
+              "Kleiderschrank mit elektronischem Safe",
+              "Wichtigste OTT-Kanäle verfügbar",
+              "4 Doppelbettkabinen",
+              "Minibar"
+            ]
+          },
+          {
+            "name": "Präsidentensuite",
+            "size": "(448 Quadratfuß / 41,6 m²)",
+            "images": [
+              "/assets/Luxury/Maharaja/10.webp",
+              "/assets/Luxury/Maharaja/11.webp",
+              "/assets/Luxury/Maharaja/12.webp"
+            ],
+            "layout": "three",
+            "features": [
+              "Hauptschlafzimmer mit Doppelbett und eigenem Bad (Badewanne, Dusche und WC)",
+              "Zweites Schlafzimmer mit Einzelbetten und eigenem Bad (Dusche und WC)",
+              "Separater Wohnbereich mit Sofasesseln",
+              "Zwei Schlafzimmer und ein Wohnzimmer",
+              "Wichtigste OTT-Kanäle verfügbar",
+              "Kleiderschrank mit elektronischem Safe",
+              "Ein vollständiger Waggon",
+              "Minibar"
+            ]
+          }
+        ]
+      },
+      "restaurants": {
+        "title": "Maharajas' Express",
+        "subtitle": "Restaurants",
+        "food": [
+          {
+            "name": "MAYUR MAHAL",
+            "image": {
+              "src": "/assets/Luxury/Maharaja/mayur-mahal.webp",
+              "alt": "Restaurant Mayur Mahal"
+            }
+          },
+          {
+            "name": "RANG MAHAL",
+            "image": {
+              "src": "/assets/Luxury/Maharaja/rang-mahal.webp",
+              "alt": "Restaurant Rang Mahal"
+            }
+          }
+        ]
+      },
+      "inclusions": [
+        {
+          "icon": "fas fa-plane",
+          "title": "Hin- und Rückflüge",
+          "description": "Hin- und Rückflüge von Goa nach Delhi und von Mumbai nach Goa"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Private Flughafentransfers während der gesamten Reise"
+        },
+        {
+          "icon": "fas fa-hotel",
+          "title": "Hotelaufenthalte",
+          "description": "2 Nächte in 5★-Luxushotels (gehobene Zimmerkategorie, Halbpension) — 1 Nacht Delhi + 1 Nacht Mumbai (Taj Mahal Palace)"
+        },
+        {
+          "icon": "fas fa-train",
+          "title": "Aufenthalt im Luxuszug",
+          "description": "6 Nächte an Bord des Maharajas' Express mit Vollpension"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Alle Mahlzeiten inklusive",
+          "description": "Alle Mahlzeiten im Zug und Hotel gemäß Reiseplan inklusive"
+        },
+        {
+          "icon": "fas fa-binoculars",
+          "title": "Alle Besichtigungen",
+          "description": "Alle Besichtigungen gemäß Reiseplan"
+        },
+        {
+          "icon": "fas fa-monument",
+          "title": "Besuch des Taj Mahal",
+          "description": "Geführter Besuch des ikonischen Taj Mahal in Agra"
+        },
+        {
+          "icon": "fas fa-coffee",
+          "title": "Champagner-Frühstück",
+          "description": "Champagner-Frühstück im Taj Khema"
+        },
+        {
+          "icon": "fas fa-paw",
+          "title": "Tiger-Safari in Ranthambore",
+          "description": "Aufregende Tiger-Safari im Nationalpark Ranthambore"
+        },
+        {
+          "icon": "fas fa-landmark",
+          "title": "Besuch des Amber Fort",
+          "description": "Privat geführter Besuch des majestätischen Amber Fort in Jaipur"
+        },
+        {
+          "icon": "fas fa-concierge-bell",
+          "title": "Exklusive Palastdinners",
+          "description": "Sorgfältig kuratierte exklusive Abendessen in Palastlocations"
+        },
+        {
+          "icon": "fas fa-ship",
+          "title": "Bootsfahrt in Udaipur",
+          "description": "Malerische Bootsfahrt auf dem Pichola-See in Udaipur"
+        },
+        {
+          "icon": "fas fa-map-marked-alt",
+          "title": "Halbtagesführung in Delhi",
+          "description": "Kuratierte geführte Halbtagesführung durch Delhi"
+        }
+      ],
+      "excursions": [
+        {
+          "icon": "fas fa-monument",
+          "title": "Besuch des Taj Mahal",
+          "description": "Geführter Besuch des Taj Mahal in Agra"
+        },
+        {
+          "icon": "fas fa-coffee",
+          "title": "Champagner-Frühstück",
+          "description": "Champagner-Frühstückserlebnis im Taj Khema"
+        },
+        {
+          "icon": "fas fa-paw",
+          "title": "Tiger-Safari in Ranthambore",
+          "description": "Wildtier-Safari im Nationalpark Ranthambore"
+        },
+        {
+          "icon": "fas fa-landmark",
+          "title": "Besuch des Amber Fort",
+          "description": "Geführter Besuch des historischen Amber Fort in Jaipur"
+        },
+        {
+          "icon": "fas fa-concierge-bell",
+          "title": "Exklusive Palastdinners",
+          "description": "Kuratierte Abendessen in Palästen während der Reise"
+        },
+        {
+          "icon": "fas fa-ship",
+          "title": "Bootsfahrt in Udaipur",
+          "description": "Malerische Bootsfahrt auf dem Pichola-See"
+        },
+        {
+          "icon": "fas fa-map-marked-alt",
+          "title": "Halbtagesführung in Delhi",
+          "description": "Geführte Halbtages-Sightseeing-Tour durch Delhi"
+        }
+      ]
+    }
+  },
+  "luxuryTourPackages": {
+    "4n-5d-rajasthan-luxury-package": {
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "4N/5D Rajasthan Luxus-Paket",
+        "location": "Jaipur & Udaipur - 4N/5D",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Rajasthan%20Luxury%20Package%20(Jaipur%20%26%20Udaipur).%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Rajasthan/raj1-hero.webp"
+      },
+      "metadata": {
+        "title": "Rajasthan Luxusreise 4N/5T | Global Tourist Centre",
+        "description": "Ein luxuriöses 4N/5T Rajasthan-Reisepaket mit Global Tourist Centre – Übernachten Sie in königlichen Heritage-Hotels, erkunden Sie Jaipur, Udaipur und Jodhpur und genießen Sie private Transfers, kuratierte Erlebnisse und erstklassigen Service."
+      },
+      "itinerary": {
+        "title": "Königliches Erlebnis in Jaipur & Udaipur",
+        "days": [
+          {
+            "day_title": "Tag 1: Ankunft in Jaipur",
+            "location": "Jaipur",
+            "description": "Ankunft am internationalen Flughafen Jaipur. Willkommenszeremonie und privater Transfer zum Palasthotel (Rambagh Palace / Jai Mahal Palace).",
+            "activities": [
+              "Mittagessen & Entspannung im Palast",
+              "Stadtpalast + Jantar Mantar + Hawa Mahal (privat geführt)",
+              "High Tea zum Sonnenuntergang / Wellness-Erlebnis",
+              "Privates Dinner-Erlebnis",
+              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 2: Jaipur ganztägig",
+            "location": "Jaipur",
+            "description": "Optionales Sonnenaufgangs-Erlebnis (Auswahl an Aktivitäten). Privater Besuch des Amber Forts mit Zugang zu exklusiven Bereichen.",
+            "activities": [
+              "Traditionelles Rajasthani-Mittagessen",
+              "Albert Hall (optional) & kuratierter Basar-Einkauf",
+              "Fototermin zum Sonnenuntergang im Palast",
+              "Spezielles Abschiedsessen in Jaipur",
+              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 3: Transfer nach Udaipur",
+            "location": "Udaipur",
+            "description": "Transfer zum Flughafen Jaipur für den Flug nach Udaipur. Check-in im luxuriösen Palast am See (Oberoi Udaivilas / Taj Lake Palace).",
+            "activities": [
+              "Leichtes Mittagessen bei der Ankunft",
+              "Private Bootsfahrt zum Sonnenuntergang auf dem Pichola-See",
+              "Freizeit / optionales Spa",
+              "Abendliches Abendessen bei Palastbeleuchtung",
+              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 4: Udaipur ganztägig",
+            "location": "Udaipur",
+            "description": "Private geführte Tour durch den Stadtpalast mit exklusivem Zugang. Besuch des Jagdish-Tempels & lokaler Kulturerbe-Spaziergang.",
+            "activities": [
+              "Gourmet-Mittagessen",
+              "Besuch von Saheliyon-ki-Bari & Bagore Ki Haveli Museum",
+              "Monsun-Palast (Sajjangarh) für Sonnenuntergangsblick",
+              "Spezielles Abschiedsessen",
+              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 5: Abreise",
+            "location": "Departure",
+            "description": "Optionales Boots-Erlebnis in der Morgendämmerung oder Yoga-Sitzung. Frühstück & abschließendes Packen. Privater Transfer zum Flughafen Udaipur für die Weiterreise.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Rambagh Palace.webp",
+            "alt": "Rambagh Palace"
+          },
+          "name": "Rambagh Palace",
+          "location": "Jaipur, India",
+          "description": "Ehemalige Residenz des Maharadschas von Jaipur, die unvergleichlichen Luxus und königliche Gastfreundschaft im Herzen der Pink City bietet.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Jai Mahal Palace.webp",
+            "alt": "Jai Mahal Palace"
+          },
+          "name": "Jai Mahal Palace",
+          "location": "Jaipur, India",
+          "description": "Palast aus dem 18. Jahrhundert inmitten von 18 Hektar Mogulgärten, der authentische Gastfreundschaft aus Rajasthan und Luxus bietet.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
+            "alt": "Oberoi Udaivilas"
+          },
+          "name": "Oberoi Udaivilas",
+          "location": "Udaipur, India",
+          "description": "Weitläufiges Luxusresort am Ufer des Pichola-Sees mit Palastarchitektur und atemberaubendem Seeblick.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Taj Lake Palace.webp",
+            "alt": "Taj Lake Palace"
+          },
+          "name": "Taj Lake Palace",
+          "location": "Udaipur, India",
+          "description": "Marmorpalast aus dem 17. Jahrhundert, der auf dem Pichola-See schwimmt und romantischen Luxus sowie tadellosen Service bietet.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "4 Nächte in Luxus-Palasthotels (2N Jaipur + 2N Udaipur) inklusive täglichem Frühstück"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Tägliches Frühstück + 3 kuratierte private Dinner-Erlebnisse inklusive Palast-Dinner"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Private Transfers in Luxusfahrzeugen während der gesamten Reise + Inlandsflüge"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professionelle Guides",
+          "description": "Englischsprachige professionelle Guides für alle geplanten Besichtigungen"
+        },
+        {
+          "icon": "fas fa-ship",
+          "title": "Bootsfahrt auf dem See",
+          "description": "Private Bootsfahrt zum Sonnenuntergang auf dem Pichola-See mit Erfrischungen"
+        },
+        {
+          "icon": "fas fa-ticket-alt",
+          "title": "Monument-Eintritte",
+          "description": "Alle Eintrittsgelder für Monumente und bevorzugter Zugang, wo verfügbar"
+        },
+        {
+          "icon": "fas fa-concierge-bell",
+          "title": "Butler-Service",
+          "description": "Butler-Service oder Willkommensritual auf dem Zimmer in Palasthotels"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Alle lokalen Steuern, Servicegebühren und 24/7 Concierge-Support"
+        }
+      ]
+    },
+    "6n-7d-golden-triangle-luxury-tour-package": {
+      "file_name": "6n-7d-golden-triangle-luxury-tour-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "6N/7D Golden Triangle Luxus-Reisepaket (DELHI, AGRA, JAIPUR)",
+        "location": "Delhi, Agra, Jaipur - 6N/7D",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Golden Triangle/hero.webp"
+      },
+      "metadata": {
+        "title": "Luxus-Golden-Triangle-Tour 6N/7T | Global Tourist Centre",
+        "description": "Erleben Sie unsere 6 Nächte/7 Tage Luxus-Golden-Triangle-Tour mit Global Tourist Centre – Aufenthalte in erstklassigen Heritage-Palästen, private Chauffeur-Transfers, Taj Mahal bei Sonnenaufgang, königliche Hotels in Jaipur und erstklassiger Service für anspruchsvolle Reisende."
+      },
+      "itinerary": {
+        "title": "Eine Reise durch Indiens kulturelles Herzstück",
+        "days": [
+          {
+            "day_title": "Tag 01: Ankunft in Delhi (2 Nächte)",
+            "location": "Delhi",
+            "description": "Ankunft am internationalen Flughafen Delhi. Privater Luxustransfer zum Hotel (The Imperial / The Oberoi / ITC Maurya).",
+            "activities": [
+              "Willkommensessen im Indian Accent / Bukhara (Fine Dining)",
+              "Übernachtung in Delhi"
+            ]
+          },
+          {
+            "day_title": "Tag 02: Ganztägige Stadtrundfahrt durch Delhi",
+            "location": "Delhi",
+            "description": "Nach dem Frühstück genießen Sie die Highlights von Alt- und Neu-Delhi: Rotes Fort (UNESCO-Weltkulturerbe - Außenansicht/Fotostopp), Jama Masjid - die größte Moschee Indiens, Rikschafahrt in Chandni Chowk - Gewürzmarkt & Straßenleben, Qutub Minar - Siegesturm aus dem 12. Jahrhundert, Connaught Place für Luxus-Shopping.",
+            "activities": [
+              "Spa-Sitzung oder Abendessen auf der Dachterrasse im Dome, Intercontinental",
+              "Übernachtung in Delhi"
+            ]
+          },
+          {
+            "day_title": "Tag 03: Delhi → Agra (2 Nächte)",
+            "location": "Agra",
+            "description": "Frühstück & Fahrt nach Agra (3,5 Std. über den Yamuna Expressway). Unterwegs Besuch des Akshardham-Tempels.",
+            "activities": [
+              "Übernachtung in Agra (The Oberoi Amarvilas - Luxushotel mit Blick auf das Taj Mahal)"
+            ]
+          },
+          {
+            "day_title": "Tag 04: Besichtigung von Agra",
+            "location": "Agra",
+            "description": "Frühmorgens: Besuch des Taj Mahal zum Sonnenaufgang. Rückkehr zum Frühstück & Freizeit im Hotel.",
+            "activities": [
+              "Mogul-Erbe-Spaziergang oder Luxus-Spa",
+              "Übernachtung in Agra"
+            ]
+          },
+          {
+            "day_title": "Tag 05: Agra → Jaipur (2 Nächte)",
+            "location": "Jaipur",
+            "description": "Nach dem Frühstück Fahrt nach Jaipur (4,5 Std.). Unterwegs: Fatehpur Sikri (falls nicht bereits besucht), Abhaneri Stufenbrunnen (Chand Baori).",
+            "activities": [
+              "Check-in im Luxus-Palasthotel in Jaipur (Taj Rambagh Palace / Oberoi Rajvilas / Fairmont)",
+              "Rajasthani Volkstanz & Abendessen im Resort",
+              "Übernachtung in Jaipur"
+            ]
+          },
+          {
+            "day_title": "Tag 06: Ganztägige Stadtrundfahrt durch Jaipur",
+            "location": "Jaipur",
+            "description": "Frühstück im Hotel, danach Erkundung von Jaipur: Amber Fort - Elefantenritt / Jeepfahrt zum Fort, Stadtpalast & Museum, Jantar Mantar (astronomisches Observatorium, UNESCO-Stätte), Hawa Mahal (Palast der Winde) - Fotostopp.",
+            "activities": [
+              "Shopping für Edelsteine, Textilien & Kunsthandwerk",
+              "Optional: Königliches Abendessen im 1135 AD (Amber Fort) oder Palast-Dinner",
+              "Übernachtung in Jaipur"
+            ]
+          },
+          {
+            "day_title": "Tag 07: Jaipur → Delhi Abreise",
+            "location": "Departure",
+            "description": "Frühstück im Hotel. Transfer nach Delhi (5 Std.) oder zum Flughafen Jaipur, je nach Abflug.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Golden Triangle/The Imperial.webp",
+            "alt": "The Imperial Delhi"
+          },
+          "name": "The Imperial",
+          "location": "New Delhi, India",
+          "description": "Ein Wahrzeichen im Herzen von Delhi, das Charme aus der Kolonialzeit und modernen Luxus mit tadellosem Service bietet.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Golden Triangle/The Oberoi Amarvilas.webp",
+            "alt": "The Oberoi Amarvilas"
+          },
+          "name": "The Oberoi Amarvilas",
+          "location": "Agra, India",
+          "description": "Luxusresort, das von jedem Zimmer aus einen atemberaubenden Blick auf das Taj Mahal bietet, mit von den Moguln inspirierter Architektur.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Golden Triangle/Rambagh Palace.webp",
+            "alt": "Rambagh Palace"
+          },
+          "name": "Taj Rambagh Palace",
+          "location": "Jaipur, India",
+          "description": "Ehemalige Residenz des Maharadschas von Jaipur, die unvergleichlichen Luxus und königliche Gastfreundschaft in der Pink City bietet.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "2N Delhi (The Imperial / Oberoi / ITC Maurya), 2N Agra (The Oberoi Amarvilas - Blick auf das Taj), 2N Jaipur (Taj Rambagh Palace / Oberoi Rajvilas / Fairmont)"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Tägliches Frühstück + 1 königliches Abendessen-Erlebnis"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Privater klimatisierter Luxuswagen mit Chauffeur während der gesamten Reise"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professionelle Guides",
+          "description": "Englischsprachige professionelle Guides in allen Städten"
+        },
+        {
+          "icon": "fas fa-ticket-alt",
+          "title": "Monument-Zugang",
+          "description": "Eintrittsgelder für Monumente gemäß Reiseverlauf"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Alle Parkgebühren, Mautgebühren und anfallenden Steuern"
+        }
+      ]
+    },
+    "6n-7d-rajasthan-luxury-package": {
+      "file_name": "6N-7D-rajasthan-luxury-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "6N/7D Rajasthan Luxus-Paket",
+        "location": "Jaipur, Jodhpur & Udaipur - 6N/7D",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%206N/7D%20Rajasthan%20Luxury%20Package%20(Jaipur,%20Jodhpur%20%26%20Udaipur).%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Rajasthan/raj2-hero.webp"
+      },
+      "metadata": {
+        "title": "Rajasthan Luxusreise 6N/7T | Global Tourist Centre",
+        "description": "Begeben Sie sich auf eine 6N/7T Rajasthan Luxusreise mit Global Tourist Centre – Übernachten Sie in Palast- und Heritage-Hotels, erkunden Sie Jaipur, Udaipur, Jodhpur und Jaisalmer und genießen Sie private Transfers, kuratierte Erlebnisse und königlichen Service."
+      },
+      "footer": {
+        "about": "Wir verwandeln Ihre Träume seit 2010 in unvergessliche Abenteuer. Ihr vertrauenswürdiger Reisepartner für maßgeschneiderte Touren.",
+        "social_links": [
+          {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/globaltouristcentre/"
+          },
+          {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/share/1H23K6UQPt/"
+          },
+          {
+            "platform": "WhatsApp",
+            "url": "https://wa.me/919067972295"
+          }
+        ],
+        "sections": [
+          {
+            "heading": "Schnellzugriff",
+            "links": [
+              {
+                "text": "Home",
+                "href": "../../"
+              },
+              {
+                "text": "Reiseziele",
+                "href": "../../destinations"
+              },
+              {
+                "text": "Über uns",
+                "href": "../../about-us"
+              },
+              {
+                "text": "Services",
+                "href": "../../services"
+              },
+              {
+                "text": "Kontakt",
+                "href": "../../contact-us"
+              },
+              {
+                "text": "Blog",
+                "href": "../../blog"
+              }
+            ]
+          },
+          {
+            "heading": "Beliebte Touren",
+            "links": [
+              {
+                "text": "Goa Beach Escape",
+                "href": "../itinerary/day-trips/South-Goa-1-Day-Trip-package"
+              },
+              {
+                "text": "Sikkim erkunden",
+                "href": "../itinerary/domestic/sikkim-tour-for-goa"
+              },
+              {
+                "text": "Kerala Backwaters",
+                "href": "../itinerary/domestic/Kerala-5N6D-Trip"
+              }
+            ]
+          },
+          {
+            "heading": "Neuestes auf Instagram",
+            "links": [
+              {
+                "text": "Folgen Sie uns",
+                "href": "https://www.instagram.com/globaltouristcentre/"
+              }
+            ]
+          }
+        ],
+        "copyright": "© 2023 Global Tourist Centre. Alle Rechte vorbehalten."
+      },
+      "itinerary": {
+        "title": "Königliches Dreieck: Jaipur, Jodhpur & Udaipur",
+        "days": [
+          {
+            "day_title": "Tag 1: Ankunft in Jaipur",
+            "location": "Jaipur",
+            "description": "Ankunft am Jaipur International Airport. Privater Luxustransfer zum Palasthotel (Rambagh Palace / Jai Mahal Palace).",
+            "activities": [
+              "Entspannung im Palast",
+              "Hoteleigenes Spa-Erlebnis (60-90 Min.)",
+              "Orientierungstour City Palace & Jantar Mantar",
+              "Abendessen im Innenhof mit klassischer Rajasthani-Musik",
+              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 2: Jaipur ganztägig",
+            "location": "Jaipur",
+            "description": "Heißluftballonfahrt mit Champagner-Frühstück (vorbehaltlich Buchung). Morgenbesichtigung des Amber Forts mit Jeep oder Elefant.",
+            "activities": [
+              "Mittagessen in einer historischen Haveli",
+              "Shopping in kuratierten Märkten",
+              "Königliches Rajasthani-Dinner oder privates Dinner im Innenhof",
+              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 3: Transfer nach Jodhpur",
+            "location": "Jodhpur",
+            "description": "Transfer zum Flughafen Jaipur für den Kurzflug nach Jodhpur. Check-in im Luxuspalast (Umaid Bhawan Palace / RAAS).",
+            "activities": [
+              "Erholung im Palast",
+              "Private Mehrangarh Fort Tour bei Sonnenuntergang",
+              "Privates Rooftop-Dinner mit Blick auf das Fort",
+              "Übernachtung in Jodhpur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 4: Jodhpur Erlebnisse",
+            "location": "Jodhpur",
+            "description": "Besuch des Jaswant Thada und geführter Handwerkerspaziergang durch Textilien, Gewürze und die Blaue Stadt.",
+            "activities": [
+              "Privater Kochkurs mit lokalem Chefkoch",
+              "Optional: Polo-Club Besuch",
+              "In-Suite Royal Dining oder Palastbankett",
+              "Übernachtung in Jodhpur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 5: Transfer nach Udaipur",
+            "location": "Udaipur",
+            "description": "Transfer zum Flughafen Jodhpur für den Flug nach Udaipur (oder Panoramafahrt). Check-in im See-Palast (Oberoi Udaivilas / Taj Lake Palace).",
+            "activities": [
+              "Private Bootsfahrt zum Sonnenuntergang auf dem Pichola-See",
+              "Champagner & Canapés während der Fahrt",
+              "Privates Lakeside-Dinner mit klassischer Musik",
+              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 6: Udaipur ganztägig",
+            "location": "Udaipur",
+            "description": "Privatführung im City Palace mit exklusivem Zugang. Chef’s Tasting oder Mittagessen am See.",
+            "activities": [
+              "Besuch von Saheliyon-ki-Bari",
+              "Miniaturmalerei-Masterclass im Studio",
+              "Monsun-Palast für Sonnenuntergangs-Panorama",
+              "Privates Boots-Dinner auf dem See oder Palast-Terrassen-Bankett",
+              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 7: Abreise",
+            "location": "Departure",
+            "description": "Gemütliches Frühstück im Palast. Optional: Bootsfahrt bei Sonnenaufgang oder Spa-Behandlung. Privater Transfer zum Flughafen Udaipur.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Rambagh Palace.webp",
+            "alt": "Rambagh Palace"
+          },
+          "name": "Rambagh Palace",
+          "location": "Jaipur, India",
+          "description": "Ehemalige Residenz des Maharadschas von Jaipur, bietet unvergleichlichen Luxus im Herzen der Pink City.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Umaid Bhawan Palace.webp",
+            "alt": "Umaid Bhawan Palace"
+          },
+          "name": "Umaid Bhawan Palace",
+          "location": "Jodhpur, India",
+          "description": "Eine der größten Privatresidenzen der Welt mit königlichen Suiten und tadellosem Service.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/raas-jodhpur.webp",
+            "alt": "RAAS Jodhpur"
+          },
+          "name": "RAAS Jodhpur",
+          "location": "Jodhpur, India",
+          "description": "Boutique-Heritage-Hotel mit zeitgenössischem Design und herrlichem Blick auf das Mehrangarh Fort.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
+            "alt": "Oberoi Udaivilas"
+          },
+          "name": "Oberoi Udaivilas",
+          "location": "Udaipur, India",
+          "description": "Weitläufiges Luxusresort am Pichola-See mit Palastarchitektur und atemberaubender Aussicht.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "6 Nächte in Palast-/Luxushotels (2N Jaipur, 2N Jodhpur, 2N Udaipur) inkl. Frühstück"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Dining",
+          "description": "Frühstück + 4 kuratierte private Dining-Erlebnisse inkl. Chef’s Table"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Flughafen Meet & Greet; alle privaten Transfers (AC Limousine/SUV)"
+        },
+        {
+          "icon": "fas fa-plane",
+          "title": "Inlandsflüge",
+          "description": "Inlandsflüge zwischen den Städten (Economy/Business auf Anfrage)"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professionelle Guides",
+          "description": "Private, englischsprachige lizenzierte Guides für Sightseeing"
+        },
+        {
+          "icon": "fas fa-ship",
+          "title": "See-Bootsfahrt",
+          "description": "Private Pichola-See-Fahrt zum Sonnenuntergang (Champagner + Snacks)"
+        },
+        {
+          "icon": "fas fa-gem",
+          "title": "Exklusive Erlebnisse",
+          "description": "3 spezielle private Erlebnisse (Chef's Table, Shopping, Fotografie-Session)"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Eintrittsgelder, Fast-Track-Zugang, lokale Steuern und 24/7 Concierge-Service"
+        }
+      ]
+    },
+    "golden-triangle-luxury-package": {
+      "file_name": "golden-triangle-luxury-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "4N/5T Luxus Golden Triangle Reisepaket (DELHI, AGRA, JAIPUR)",
+        "location": "Delhi, Agra, Jaipur - 4N/5T",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Golden%20Triangle%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Golden Triangle/hero.webp"
+      },
+      "metadata": {
+        "title": "Luxus-Golden-Triangle-Reise 4N/5T | Global Tourist Centre",
+        "description": "Entdecken Sie unser exklusives Luxus-Golden-Triangle-Reisepaket 4N/5T mit Global Tourist Centre. Übernachten Sie in historischen Palästen, reisen Sie mit privatem Chauffeur von Delhi nach Agra und Jaipur und genießen Sie VIP-Besichtigungen sowie luxuriöse Erlebnisse für anspruchsvolle Reisende."
+      },
+      "itinerary": {
+        "title": "Reise durch Indiens kulturelles Herz",
+        "days": [
+          {
+            "day_title": "Tag 01: Ankunft in Delhi (1 Nacht)",
+            "location": "Delhi",
+            "description": "Ankunft am Flughafen Delhi. Privater Transfer zu Ihrem 5★ Luxushotel (The Imperial / The Oberoi / ITC Maurya).",
+            "activities": [
+              "Willkommensessen im Bukhara / Indian Accent (Luxus-Gastronomie)",
+              "Übernachtung in Delhi"
+            ]
+          },
+          {
+            "day_title": "Tag 02: Delhi → Agra (1 Nacht)",
+            "location": "Agra",
+            "description": "Frühstück im Hotel. Fahrt nach Agra (ca. 3,5 Std. über den Yamuna Expressway). Unterwegs Besuch des Akshardham-Tempels (optional).",
+            "activities": [
+              "Luxus-Spa oder Mogul-Kulturerbe-Spaziergang",
+              "Übernachtung in Agra (The Oberoi Amarvilas – Luxushotel mit Blick auf das Taj Mahal)"
+            ]
+          },
+          {
+            "day_title": "Tag 03: Agra → Jaipur (2 Nächte)",
+            "location": "Jaipur",
+            "description": "Frühmorgendlicher Besuch des Taj Mahal zum Sonnenaufgang (bestes Licht & weniger überfüllt). Rückkehr zum Frühstück & Checkout.",
+            "activities": [
+              "Freizeitabend mit Rajasthani-Folkloremusik & Abendessen",
+              "Übernachtung in Jaipur (Taj Rambagh Palace / Fairmont / The Oberoi Rajvilas)"
+            ]
+          },
+          {
+            "day_title": "Tag 04: Ganztägige Stadtrundfahrt Jaipur",
+            "location": "Jaipur",
+            "description": "Frühstück im Hotel. Ganztägige geführte Besichtigung von Jaipur: Amber Fort (Elefantenritt / Jeepfahrt), Stadtpalast & Museum, Jantar Mantar Observatorium (UNESCO), Hawa Mahal (Palast der Winde) – Fotostopp.",
+            "activities": [
+              "Besuch lokaler Kunsthandwerksmärkte / Luxus-Shopping",
+              "Abendessen im 1135 AD (Amber Fort) oder privates königliches Dinner im Palasthotel",
+              "Übernachtung in Jaipur"
+            ]
+          },
+          {
+            "day_title": "Tag 05: Jaipur → Delhi Abreise",
+            "location": "Departure",
+            "description": "Frühstück im Hotel. Je nach Flug/Zug entweder Fahrt nach Delhi (ca. 5 Std.) zur Weiterreise oder Transfer zum Flughafen Jaipur.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Golden Triangle/The Imperial.webp",
+            "alt": "The Imperial Delhi"
+          },
+          "name": "The Imperial",
+          "location": "New Delhi, India",
+          "description": "Ein Wahrzeichen im Herzen Delhis, das Kolonialcharme und modernen Luxus mit tadellosem Service verbindet.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Golden Triangle/The Oberoi Amarvilas.webp",
+            "alt": "The Oberoi Amarvilas"
+          },
+          "name": "The Oberoi Amarvilas",
+          "location": "Agra, India",
+          "description": "Luxusresort mit atemberaubendem Blick auf das Taj Mahal von jedem Zimmer aus, in mogulinspirierter Architektur.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Golden Triangle/Rambagh Palace.webp",
+            "alt": "Rambagh Palace"
+          },
+          "name": "Taj Rambagh Palace",
+          "location": "Jaipur, India",
+          "description": "Ehemalige Residenz des Maharadschas von Jaipur, bietet unvergleichlichen Luxus und königliche Gastfreundschaft.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "1N Delhi (Imperial/Oberoi/ITC), 1N Agra (Oberoi Amarvilas - Taj-Blick), 2N Jaipur (Rambagh/Rajvilas/Fairmont)"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Gastronomie",
+          "description": "Tägliches Frühstück + 1 königliches Abendessen-Erlebnis"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Privates Luxus-Klimafahrzeug mit englischsprachigem Chauffeur"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professionelle Guides",
+          "description": "Alle Besichtigungen mit professionellen Guides in jeder Stadt"
+        },
+        {
+          "icon": "fas fa-ticket-alt",
+          "title": "Monument-Zugang",
+          "description": "Eintrittsgelder gemäß Reiseverlauf"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Alle Steuern, Mautgebühren, Parkplatzkosten und Fahrerzulagen"
+        }
+      ]
+    },
+    "karnataka-luxury-package": {
+      "file_name": "Karnataka-Luxury-Package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "7N/8D Karnataka Luxus-Paket (Bangalore, Mysore, Ooty)",
+        "location": "Bangalore, Mysore, Bandipur & Ooty - 7N/8D",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%20Karnataka%20Luxury%20Tour%20Package%20(Bangalore,%20Mysore%20%26%20Ooty).%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Karnataka/hero.webp"
+      },
+      "metadata": {
+        "title": "Karnataka Luxusreise 7N/8T | Global Tourist Centre – Heritage-Hotels & private Safari",
+        "description": "Erleben Sie ein exklusives 7N/8T Karnataka Luxusreisepaket mit Global Tourist Centre: von Bangalores kosmopolitischem 5-Sterne-Komfort bis zu den königlichen Palästen von Mysore, einer privaten Safari in Bandipur und Aufenthalten auf Teeplantagen in Ooty."
+      },
+      "footer": {
+        "about": "Wir verwandeln Ihre Träume seit 2010 in unvergessliche Abenteuer. Ihr vertrauenswürdiger Reisepartner für maßgeschneiderte Touren.",
+        "social_links": [
+          {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/globaltouristcentre/"
+          },
+          {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/share/1H23K6UQPt/"
+          },
+          {
+            "platform": "WhatsApp",
+            "url": "https://wa.me/919067972295"
+          }
+        ],
+        "sections": [
+          {
+            "heading": "Schnellzugriff",
+            "links": [
+              {
+                "text": "Home",
+                "href": "../../"
+              },
+              {
+                "text": "Reiseziele",
+                "href": "../../destinations"
+              },
+              {
+                "text": "Über uns",
+                "href": "../../about-us"
+              },
+              {
+                "text": "Services",
+                "href": "../../services"
+              },
+              {
+                "text": "Kontakt",
+                "href": "../../contact-us"
+              },
+              {
+                "text": "Blog",
+                "href": "../../blog"
+              }
+            ]
+          },
+          {
+            "heading": "Beliebte Touren",
+            "links": [
+              {
+                "text": "Goa Beach Escape",
+                "href": "../itinerary/day-trips/South-Goa-1-Day-Trip-package"
+              },
+              {
+                "text": "Sikkim erkunden",
+                "href": "../itinerary/domestic/sikkim-tour-for-goa"
+              },
+              {
+                "text": "Kerala Backwaters",
+                "href": "../itinerary/domestic/Kerala-5N6D-Trip"
+              }
+            ]
+          },
+          {
+            "heading": "Neuestes auf Instagram",
+            "links": [
+              {
+                "text": "Folgen Sie uns",
+                "href": "https://www.instagram.com/globaltouristcentre/"
+              }
+            ]
+          }
+        ],
+        "copyright": "© 2023 Global Tourist Centre. Alle Rechte vorbehalten."
+      },
+      "itinerary": {
+        "title": "Eine Reise durch Karnatakas königliches Erbe & natürliche Schönheit",
+        "days": [
+          {
+            "day_title": "Tag 01: Ankunft in Bengaluru (1N)",
+            "location": "Bengaluru",
+            "description": "Ankunft am Bengaluru International Airport. Privater Luxustransfer zu einem 5★ Hotel. Freizeit: Hotel-Spa, UB City Shopping oder Stadtbesichtigung.",
+            "activities": [
+              "Gourmet-Abendessen-Reservierung (Rooftop oder Fine-Dining)",
+              "Übernachtung im The Ritz-Carlton, Bangalore oder ähnlich"
+            ]
+          },
+          {
+            "day_title": "Tag 02: Bengaluru → Mysore (Fahrt ~3–3.5 Std.)",
+            "location": "Mysore",
+            "description": "Nach dem Frühstück Transfer nach Mysore. Check-in im Luxushotel. Besuch des Mysore Palace oder kulturelle Vorführung am Abend.",
+            "activities": [
+              "Übernachtung: Radisson Blu Plaza / Grand Mercure / Lalitha Mahal Palace Hotel oder ähnlich"
+            ]
+          },
+          {
+            "day_title": "Tag 03: Mysore (ganztägig)",
+            "location": "Mysore",
+            "description": "Stadtbesichtigung Mysore: Mysore Palace, Jaganmohan Art Gallery, Chamundi Hill. Nachmittags: Seiden- & Sandelholz-Shopping oder privater Kochkurs.",
+            "activities": [
+              "Übernachtung in Mysore"
+            ]
+          },
+          {
+            "day_title": "Tag 04: Mysore (Freizeit / Optionale Aktivitäten)",
+            "location": "Mysore",
+            "description": "Optionen: Mysore Zoo, Brindavan Gardens (Fontänen), Entspannung im Palasthotel.",
+            "activities": [
+              "Optionales Upgrade: Übernachtung in einer Bandipur Luxus-Lodge für zwei Safaris",
+              "Übernachtung in Mysore"
+            ]
+          },
+          {
+            "day_title": "Tag 05: Bandipur Morgen-Safari → Fahrt nach Ooty",
+            "location": "Bandipur & Ooty",
+            "description": "Frühmorgendliche Safari im Jeep in Bandipur. Fahrt nach Ooty. Check-in im Savoy Ooty (IHCL SeleQtions) oder Premium-Bergresort.",
+            "activities": [
+              "Übernachtung in Ooty"
+            ]
+          },
+          {
+            "day_title": "Tag 06: Ooty (ganztägig)",
+            "location": "Ooty",
+            "description": "Vormittags: Botanischer Garten, Ooty Lake. Nachmittags: Besuch einer Teeplantage mit Verkostung; Sonnenuntergang am Aussichtspunkt.",
+            "activities": [
+              "Übernachtung in Ooty"
+            ]
+          },
+          {
+            "day_title": "Tag 07: Ooty (Abreise)",
+            "location": "Departure",
+            "description": "Nach dem Frühstück Transfer zum Flughafen Coimbatore (~1.5–2 Std.). Ende der Luxusreise mit unvergesslichen Erinnerungen.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Karnataka/the-lalit-ashok.webp",
+            "alt": "The LaLiT Ashok Bengaluru"
+          },
+          "name": "The LaLiT Ashok Bengaluru",
+          "location": "Bengaluru, India",
+          "description": "Luxushotel mit eleganten Zimmern und erstklassigem Service im Herzen von Bengaluru.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Karnataka/radisson-blu-plaza.webp",
+            "alt": "Radisson Blu Plaza Hotel, Mysore"
+          },
+          "name": "Radisson Blu Plaza Hotel, Mysore",
+          "location": "Mysore, India",
+          "description": "Premium-Luxushotel mit königlicher Gastfreundschaft in der Kulturhauptstadt von Karnataka.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Karnataka/the-serai-bandipur.webp",
+            "alt": "The Serai Bandipur"
+          },
+          "name": "The Serai Bandipur",
+          "location": "Bandipur National Park, India",
+          "description": "Luxusresort mit atemberaubendem Blick auf die Wildnis und exklusiven Naturerlebnissen.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "6 Nächte Luxus-Unterkunft (inklusive Frühstück)"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Dining",
+          "description": "Tägliches Frühstück + ein privates Erlebnis (königliches Dinner oder Picknick)"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Flughafentransfers & privates AC-Fahrzeug mit Chauffeur für alle Fahrten"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professionelle Guides",
+          "description": "Private englischsprachige lokale Guides in Mysore & Ooty"
+        },
+        {
+          "icon": "fas fa-paw",
+          "title": "Wildtier-Safari",
+          "description": "Private Jeep-Safari in Bandipur mit erfahrenem Naturalisten"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Alle Steuern, Gebühren, Park- und Mautkosten inklusive"
+        }
+      ]
+    },
+    "kerala-luxury-package": {
+      "file_name": "Kerala-luxury-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "Kerala Luxus-Paket 4N/5T (Cochin, Alleppey, Munnar)",
+        "location": "Cochin, Munnar, Alleppey - 4N/5T",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%204N/5D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Kerala/hero-backwaters.webp"
+      },
+      "metadata": {
+        "title": "Kerala Luxusreise 4N/5T – 30% Rabatt | Global Tourist Centre",
+        "description": "Buchen Sie Ihr 4N/5T Kerala Luxusreisepaket mit 30% Rabatt bei Global Tourist Centre. Genießen Sie Overwater-Villen, private Backwater-Kreuzfahrten, Ausblicke auf Bergstationen, personalisierten Service und luxuriöse Unterkünfte in „God’s Own Country“."
+      },
+      "itinerary": {
+        "title": "Reise in Gottes eigenem Land",
+        "days": [
+          {
+            "day_title": "Tag 01: Ankunft in Cochin (1 Nacht)",
+            "location": "Cochin",
+            "description": "Ankunft am internationalen Flughafen Cochin. Privater Luxustransfer zu Ihrem 5★ Hotel. Nachmittags Besichtigung von Cochin, einschließlich Fort Kochi, dem Mattancherry-Palast (Holländischer Palast), der jüdischen Synagoge, der St.-Franziskus-Kirche und den chinesischen Fischernetzen.",
+            "activities": [
+              "Abends: Kathakali-Tanzvorführung / Luxus-Dinner-Kreuzfahrt",
+              "Übernachtung in Cochin (5★ Hotel/Resort)"
+            ]
+          },
+          {
+            "day_title": "Tag 02: Cochin → Munnar (Ca. 4,5 Stunden Fahrt) (2 Nächte)",
+            "location": "Munnar",
+            "description": "Frühstück im Hotel. Abfahrt nach Munnar, vorbei an Teeblättern, Wasserfällen und üppiger Vegetation. Check-in in einem luxuriösen Hill-Resort. Freier Abend im Resort mit Spa-/Ayurveda-Sitzung.",
+            "activities": [
+              "Luxus-Spa-Sitzung oder Ayurveda-Behandlung",
+              "Übernachtung in Munnar (5★ Luxus-Resort)"
+            ]
+          },
+          {
+            "day_title": "Tag 03: Besichtigungen in Munnar",
+            "location": "Munnar",
+            "description": "Nach dem Frühstück ganztägige Besichtigung von Munnar: Eravikulam-Nationalpark (Lebensraum des Nilgiri-Tahr), Teemuseum und Plantagen, Mattupetty-Stausee, Echo Point und Kundala-See (Bootsfahrt).",
+            "activities": [
+              "Bootstour auf dem Kundala-See",
+              "Freier Abend für Einkäufe (Tee, Gewürze, handgemachte Schokolade)",
+              "Übernachtung in Munnar"
+            ]
+          },
+          {
+            "day_title": "Tag 04: Munnar → Alleppey (Übernachtung auf dem Hausboot – 1 Nacht)",
+            "location": "Alleppey",
+            "description": "Nach dem Frühstück Abfahrt nach Alleppey (ca. 5 Stunden). Check-in auf einem privaten Luxus-Hausboot. Fahrt durch die malerischen Backwaters, vorbei an Dörfern, Reisfeldern und Kokosnusslagunen. Traditionelles Kerala-Mittagessen und Abendessen an Bord.",
+            "activities": [
+              "Sonnenuntergang vom Deck des Hausboots genießen",
+              "Übernachtung auf einem Luxus-Hausboot"
+            ]
+          },
+          {
+            "day_title": "Tag 05: Abreise von Alleppey nach Cochin",
+            "location": "Abreise",
+            "description": "Frühstück an Bord. Check-out und Rückreise nach Cochin. Transfer zum Flughafen oder Bahnhof mit wunderschönen Erinnerungen an Kerala.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/forte-kochi.webp",
+            "alt": "Forte Kochi - Historisches Luxus-Boutique-Hotel"
+          },
+          "name": "Forte Kochi",
+          "location": "Kochi, Indien",
+          "description": "Ein luxuriöses Heritage-Boutique-Hotel, das elegante Unterkünfte mit kolonialem Charme und modernem Komfort im Herzen von Fort Kochi bietet.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/hotel-amber-dale.webp",
+            "alt": "Hotel Amber Dale"
+          },
+          "name": "Hotel Amber Dale",
+          "location": "Munnar, Indien",
+          "description": "Luxushotel in den Hügeln von Munnar mit atemberaubendem Blick auf die Teeplantagen, Premium-Annehmlichkeiten und Wellnesscenter.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/southern-panorama-cruise.webp",
+            "alt": "Southern Panorama Cruise Luxury"
+          },
+          "name": "Southern Panorama Cruise Luxury",
+          "location": "Alleppey, Indien",
+          "description": "Luxuriöses Hausboot mit erstklassigem Service, traditioneller Kerala-Küche und Panoramablick auf die ruhigen Backwaters.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "1 Nacht in Cochin (5★ Hotel/Resort), 2 Nächte in Munnar (Luxus-Resort mit Aussicht), 1 Nacht in Alleppey (Privates Luxus-Hausboot)"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Verpflegung",
+          "description": "Tägliches Frühstück + alle Mahlzeiten auf dem Hausboot"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Privates klimatisiertes Luxusfahrzeug für Transfers und Besichtigungen"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professionelle Begleitung",
+          "description": "Fahrer/Guide, Parkgebühren, Maut und Steuern inklusive"
+        },
+        {
+          "icon": "fas fa-ticket-alt",
+          "title": "Aktivitäten & Erlebnisse",
+          "description": "Kulturelles Kathakali-Programm oder Dinner-Kreuzfahrt, 1 Spa-/Ayurveda-Sitzung, Bootsfahrt auf dem Kundala-See"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Unterstützung",
+          "description": "Alle Parkgebühren, Mautgebühren, geltende Steuern und 24h-Assistenz"
+        }
+      ]
+    },
+    "mumbai-luxury-package": {
+      "file_name": "mumbai-luxury-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "2N/3D Mumbai Luxus-Paket",
+        "location": "Mumbai, Indien - Taj & Highlights",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%202N/3D%20Mumbai%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Mumbai/mumbai-hero.webp"
+      },
+      "metadata": {
+        "title": "Mumbai Luxusreise 2N/3T | Premium Mumbai Kurzurlaub – Global Tourist Centre",
+        "description": "Unser exklusives 2N/3T Mumbai Luxusreisepaket mit Global Tourist Centre. Übernachten Sie in 5-Sterne-Hotels, genießen Sie private Chauffeur-Transfers, erstklassige Stadttouren und ausgewählte Erlebnisse in Indiens „Stadt der Träume“."
+      },
+      "footer": {
+        "about": "Wir verwandeln Ihre Träume seit 2010 in unvergessliche Abenteuer. Ihr vertrauenswürdiger Reisepartner für maßgeschneiderte Touren.",
+        "social_links": [
+          {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/globaltouristcentre/"
+          },
+          {
+            "platform": "Facebook",
+            "url": "https://www.facebook.com/share/1H23K6UQPt/"
+          },
+          {
+            "platform": "WhatsApp",
+            "url": "https://wa.me/919067972295"
+          }
+        ],
+        "sections": [
+          {
+            "heading": "Quick Links",
+            "links": [
+              {
+                "text": "Home",
+                "href": "../../"
+              },
+              {
+                "text": "Reiseziele",
+                "href": "../../destinations"
+              },
+              {
+                "text": "Über uns",
+                "href": "../../about-us"
+              },
+              {
+                "text": "Services",
+                "href": "../../services"
+              },
+              {
+                "text": "Kontakt",
+                "href": "../../contact-us"
+              },
+              {
+                "text": "Blog",
+                "href": "../../blog"
+              }
+            ]
+          },
+          {
+            "heading": "Beliebte Touren",
+            "links": [
+              {
+                "text": "Goa Strandurlaub",
+                "href": "../itinerary/day-trips/South-Goa-1-Day-Trip-package"
+              },
+              {
+                "text": "Sikkim erkunden",
+                "href": "../itinerary/domestic/sikkim-tour-for-goa"
+              },
+              {
+                "text": "Kerala Backwaters",
+                "href": "../itinerary/domestic/Kerala-5N6D-Trip"
+              }
+            ]
+          },
+          {
+            "heading": "Neu auf Instagram",
+            "links": [
+              {
+                "text": "Folgen Sie uns",
+                "href": "https://www.instagram.com/globaltouristcentre/"
+              }
+            ]
+          }
+        ],
+        "copyright": "© 2023 Global Tourist Centre. Alle Rechte vorbehalten."
+      },
+      "itinerary": {
+        "title": "Erleben Sie Mumbais Glamour & Erbe",
+        "days": [
+          {
+            "day_title": "Tag 01: Ankunft in Mumbai",
+            "location": "Mumbai",
+            "description": "Ankunft am Flughafen Mumbai. Privater Luxustransfer zu Ihrem 5★ Hotel (Taj Mahal Palace / The Oberoi / Trident Nariman Point).",
+            "activities": [
+              "Nachmittags-Sightseeing: Gateway of India, Marine Drive, Colaba Causeway",
+              "Optionales Fine-Dining-Erlebnis in einem luxuriösen Rooftop-Restaurant",
+              "Übernachtung im Luxushotel in Mumbai"
+            ]
+          },
+          {
+            "day_title": "Tag 02: Ganztägiges Mumbai Luxus-Erlebnis",
+            "location": "Mumbai",
+            "description": "Frühstück im Hotel. Morgendlicher Ausflug zu den Elephanta-Höhlen (UNESCO) per Fähre. Rückkehr und Lunch in einem Heritage-Café.",
+            "activities": [
+              "Nachmittag: Prince of Wales Museum, Dhobi Ghat, Mani Bhavan",
+              "Abend: Fahrt zum Sonnenuntergang über den Bandra-Worli Sea Link",
+              "Erkunden Sie Bandra: Cafés, Boutiquen und Bollywood-Vibe",
+              "Übernachtung im Luxushotel in Mumbai"
+            ]
+          },
+          {
+            "day_title": "Tag 03: Abreise aus Mumbai",
+            "location": "Departure",
+            "description": "Frühstück im Hotel. Je nach Flugzeit Shopping in der High Street Phoenix oder Besuch des Siddhivinayak-Tempels für einen kulturellen Abschluss.",
+            "activities": [
+              "Privater Transfer zum Flughafen mit Erinnerungen an einen Luxus-Kurztrip"
+            ]
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Mumbai/Taj Mahal Palace.webp",
+            "alt": "Taj Mahal Palace"
+          },
+          "name": "Taj Mahal Palace",
+          "location": "Mumbai, Indien",
+          "description": "Ikonisches Luxushotel direkt am Gateway of India mit erstklassigem Service.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Mumbai/The Oberoi.webp",
+            "alt": "The Oberoi Mumbai"
+          },
+          "name": "The Oberoi",
+          "location": "Mumbai, Indien",
+          "description": "Modernes Luxushotel mit spektakulärem Blick auf den Marine Drive.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Mumbai/Trident Nariman Point.webp",
+            "alt": "Trident Nariman Point"
+          },
+          "name": "Trident Nariman Point",
+          "location": "Mumbai, Indien",
+          "description": "Luxuriöses Strandhotel mit Panoramablick auf das Arabische Meer.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "2 Nächte im 5★ Luxushotel (Taj Mahal Palace / The Oberoi / Trident)"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Tägliches Frühstück",
+          "description": "Inklusive Frühstück im Hotelrestaurant"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Privater Luxuswagen für Besichtigungen & Transfers"
+        },
+        {
+          "icon": "fas fa-ship",
+          "title": "Elephanta-Fähre",
+          "description": "Fährtickets zu den Elephanta-Höhlen inbegriffen"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Profi-Guide",
+          "description": "Erfahrener Guide für die Stadterkundung"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Alle Mautgebühren, Parkkosten und Steuern inklusive"
+        }
+      ]
+    },
+    "rajasthan-luxury-package": {
+      "file_name": "rajasthan-luxury-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Ultra Premium Paket",
+        "title": "8N/9D Rajasthan Luxus-Paket",
+        "location": "Jaipur, Udaipur, Jodhpur, Ranthambore - 8N/9D",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%208N/9D%20Rajasthan%20Luxury%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Rajasthan/raj3-hero.webp"
+      },
+      "metadata": {
+        "title": "Rajasthan Luxusreise 8N/9T | Global Tourist Centre – Königliches Erbe & 5★ Komfort",
+        "description": "Das ultimative 8N/9T Rajasthan Luxusreisepaket mit Global Tourist Centre – Übernachten Sie in Palast- und Heritage-Hotels in Jaipur, Udaipur, Jodhpur und Jaisalmer, genießen Sie private Transfers, kuratierte königliche Erlebnisse und nahtlosen VIP-Service."
+      },
+      "itinerary": {
+        "title": "Königliche Rajasthan-Reise durch Paläste & Forts",
+        "days": [
+          {
+            "day_title": "Tag 1: Ankunft in Jaipur",
+            "location": "Jaipur",
+            "description": "Ankunft am Flughafen Jaipur. Privater Luxustransfer zu Ihrem Palasthotel (Rambagh Palace / Jai Mahal Palace). Bevorzugter Check-in und Begrüßungsritual.",
+            "activities": [
+              "Gemütliches Mittagessen & Signature Spa-Ritual",
+              "Private Tour: Stadtpalast + Jantar Mantar",
+              "Abendessen im Innenhof mit klassischer Rajasthani-Musik",
+              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 2: Jaipur (Ganztägig)",
+            "location": "Jaipur",
+            "description": "Heißluftballon-Erlebnis zum Sonnenaufgang mit Champagner-Frühstück oder Fotoshooting am Nahargarh. Besuch des Amber Forts (Jeep- oder Elefanten-Option).",
+            "activities": [
+              "Mittagessen in einem historischen Haveli",
+              "Kuratiertes Shopping auf lokalen Märkten",
+              "Chef's-Table Abendessen oder privates Palast-Dining",
+              "Übernachtung in Jaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 3: Jaipur → Ranthambore",
+            "location": "Ranthambore",
+            "description": "Transfer nach Ranthambore. Check-in in einer Luxus-Wildnis-Lodge (Oberoi Vanyavilas o.ä.). Zeit zur freien Verfügung.",
+            "activities": [
+              "Sternenbeobachtung",
+              "Privates Dschungel-Dinner unter den Sternen",
+              "Übernachtung in Ranthambore (Luxus-Wildnis-Lodge)"
+            ]
+          },
+          {
+            "day_title": "Tag 4: Ranthambore Safari-Tag",
+            "location": "Ranthambore",
+            "description": "Frühmorgendliche Safari im Ranthambore Nationalpark. Frühstück im Resort. Mittags Spa oder optionaler Dorfbesuch.",
+            "activities": [
+              "Nachmittags-Safari in einer anderen Zone",
+              "Privates Lagerfeuer-Abendessen oder Resort Fine Dining",
+              "Übernachtung in Ranthambore (Luxus-Wildnis-Lodge)"
+            ]
+          },
+          {
+            "day_title": "Tag 5: Ranthambore → Jodhpur",
+            "location": "Jodhpur",
+            "description": "Transfer nach Jodhpur. Check-in im Umaid Bhawan Palace oder RAAS. Abendliche Tour zum Mehrangarh Fort bei Sonnenuntergang.",
+            "activities": [
+              "Rooftop-Dinner mit Blick auf das Fort",
+              "Übernachtung in Jodhpur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 6: Jodhpur intensiv",
+            "location": "Jodhpur",
+            "description": "Besuch von Jaswant Thada & Fotowanderung durch die Blaue Stadt. Besuche bei lokalen Kunsthandwerkern.",
+            "activities": [
+              "Besuch des Polofelds oder königlicher Kochkurs",
+              "Heritage Dinner-Erlebnis",
+              "Übernachtung in Jodhpur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 7: Jodhpur → Udaipur",
+            "location": "Udaipur",
+            "description": "Morgendlicher Flug nach Udaipur. Check-in im Palast am See (Oberoi Udaivilas / Taj Lake Palace). Private Bootsfahrt auf dem Pichola-See zur Goldenen Stunde.",
+            "activities": [
+              "Privates Dinner am Seeufer mit klassischer Musik",
+              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 8: Udaipur (Ganztägig)",
+            "location": "Udaipur",
+            "description": "Kuratierte Stadtpalast-Tour. Chef's Table Mittagessen. Besuch von Saheliyon-ki-Bari oder Malkurs.",
+            "activities": [
+              "Monsun-Palast (Sajjangarh) zum Sonnenuntergang",
+              "Abschiedsbankett (Palasterrasse oder Privatboot)",
+              "Übernachtung in Udaipur (Luxus-Palasthotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 9: Abreise",
+            "location": "Departure",
+            "description": "Frühstück im Hotel. Optionales Bootserlebnis oder Spa. Privater Flughafentransfer. Ende der königlichen Reise.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Rambagh Palace.webp",
+            "alt": "Rambagh Palace"
+          },
+          "name": "Rambagh Palace",
+          "location": "Jaipur, Indien",
+          "description": "Ehemalige Residenz des Maharadschas von Jaipur mit unvergleichlichem Luxus im Herzen der Pink City.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Oberoi Vanyavilas.webp",
+            "alt": "Oberoi Vanyavilas"
+          },
+          "name": "Oberoi Vanyavilas",
+          "location": "Ranthambore, Indien",
+          "description": "Luxuriöses Zeltcamp für ein exquisites Wildniserlebnis mit erstklassigem Safari-Service.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Umaid Bhawan Palace.webp",
+            "alt": "Umaid Bhawan Palace"
+          },
+          "name": "Umaid Bhawan Palace",
+          "location": "Jodhpur, Indien",
+          "description": "Eine der weltweit größten Privatresidenzen mit königlichen Suiten und Art-Déco-Interieur.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Rajasthan/Oberoi Udaivilas.webp",
+            "alt": "Oberoi Udaivilas"
+          },
+          "name": "Oberoi Udaivilas",
+          "location": "Udaipur, Indien",
+          "description": "Weitläufiges Luxusresort am Ufer des Pichola-Sees mit prachtvoller Palastarchitektur.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Luxus-Unterkunft",
+          "description": "8 Nächte in Luxus-Palasthotels (Jaipur, Ranthambore, Jodhpur, Udaipur) inkl. Frühstück"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Dining",
+          "description": "Frühstück + 5 private kulinarische Erlebnisse (Chef’s Table und Palast-Dinner)"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Transfers",
+          "description": "Durchgehend private Luxusfahrzeuge + Inlandsflüge oder Chauffeur-Service"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Professionelle Guides",
+          "description": "Englischsprachige Profi-Guides für alle geplanten Besichtigungen"
+        },
+        {
+          "icon": "fas fa-paw",
+          "title": "Safari-Erlebnisse",
+          "description": "2 Safaris im Ranthambore Nationalpark inkl. Genehmigungen & Gebühren"
+        },
+        {
+          "icon": "fas fa-ship",
+          "title": "Bootsfahrt",
+          "description": "Private Sonnenuntergangs-Bootsfahrt auf dem Pichola-See mit Champagner & Canapés"
+        },
+        {
+          "icon": "fas fa-gem",
+          "title": "Kuratierte Erlebnisse",
+          "description": "3 private Erlebnisse (Jaipur Dinner, Shopping-Tour, Udaipur Chef's Table)"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Sämtliche Eintrittsgelder, Fast-Track-Zugang und 24/7 Concierge-Support"
+        }
+      ]
+    },
+    "kerala-luxury-tour-package": {
+      "file_name": "kerala-luxury-tour-package.html",
+      "hero_section": {
+        "type": "package-hero",
+        "badge": "Premium-Paket",
+        "title": "7N/8D Kerala Luxus-Rundreise (Kochi Alleppey Munnar Thekkady Poovar)",
+        "location": "Kochi, Alleppey, Munnar, Thekkady, Poovar - 7N/8D",
+        "cta_text": "Jetzt buchen",
+        "cta_link": "https://wa.me/919067972295?text=Hi!%20I'm%20interested%20in%20the%207N/8D%20Kerala%20Luxury%20Tour%20Package.%20Can%20you%20please%20provide%20more%20details?",
+        "background_image": "/assets/Luxury/Kerala/hero-comprehensive.webp"
+      },
+      "metadata": {
+        "title": "7N/8D Kerala Luxus-Reisepaket – 30% Rabatt | Global Tourist Centre",
+        "description": "Genießen Sie unser exklusives 7N/8D Kerala Luxus-Reisepaket mit 30% Rabatt. Erleben Sie Ultra-Luxus-Aufenthalte, private Backwater-Kreuzfahrten, Ausblicke auf Bergstationen und personalisierten Service in 'God's Own Country' mit dem Global Tourist Centre."
+      },
+      "itinerary": {
+        "title": "Umfassendes Kerala Luxus-Erlebnis",
+        "days": [
+          {
+            "day_title": "Tag 01: Ankunft in Kochi (1 Nacht)",
+            "location": "Kochi",
+            "description": "Ankunft am Flughafen Kochi. Privattransfer zum Luxushotel. Sightseeing: Fort Kochi, chinesische Fischernetze, St. Francis Kirche und jüdische Synagoge.",
+            "activities": [
+              "Abendoption: Kathakali-Tanzshow oder Luxus-Dinner-Kreuzfahrt",
+              "Übernachtung in Kochi (5★ Luxushotel)"
+            ]
+          },
+          {
+            "day_title": "Tag 02: Kochi → Alleppey (Luxus-Hausboot – 1 Nacht)",
+            "location": "Alleppey",
+            "description": "Fahrt nach Alleppey. Check-in auf einem privaten Luxus-Hausboot. Fahrt durch die Backwaters, vorbei an Lagunen und Kokospalmen. Mittag- und Abendessen an Bord.",
+            "activities": [
+              "Malerische Backwater-Kreuzfahrt",
+              "Traditionelle Kerala-Küche",
+              "Übernachtung auf dem Luxus-Hausboot"
+            ]
+          },
+          {
+            "day_title": "Tag 03: Alleppey → Munnar (2 Nächte)",
+            "location": "Munnar",
+            "description": "Frühstück an Bord und Fahrt nach Munnar durch malerische Hügel und Teeplantagen. Zeit zur freien Verfügung im Luxus-Resort.",
+            "activities": [
+              "Panoramafahrt durch Teeplantagen",
+              "Übernachtung in Munnar (Luxus-Resort)"
+            ]
+          },
+          {
+            "day_title": "Tag 04: Munnar Sightseeing",
+            "location": "Munnar",
+            "description": "Ganztägiges Sightseeing: Eravikulam Nationalpark, Teemuseum, Mattupetty-Staudamm und Kundala-See.",
+            "activities": [
+              "Wildtierbeobachtung im Nationalpark",
+              "Teeplantagen-Tour und Verkostung",
+              "Bootsfahrt auf dem Kundala-See",
+              "Übernachtung in Munnar"
+            ]
+          },
+          {
+            "day_title": "Tag 05: Munnar → Thekkady (1 Nacht)",
+            "location": "Thekkady",
+            "description": "Fahrt nach Thekkady. Check-in im Luxus-Resort. Aktivitäten: Bootsfahrt auf dem Periyar-See zur Wildtierbeobachtung und Gewürzplantagen-Tour.",
+            "activities": [
+              "Periyar-See Bootsfahrt",
+              "Gewürzplantagen-Tour",
+              "Optional: Kalaripayattu Kampfkunst-Show",
+              "Übernachtung in Thekkady (Luxus-Resort)"
+            ]
+          },
+          {
+            "day_title": "Tag 06: Thekkady → Poovar (1 Nacht)",
+            "location": "Poovar",
+            "description": "Fahrt nach Poovar. Check-in im luxuriösen Strand- und Backwater-Resort am Mündungsgebiet.",
+            "activities": [
+              "Sonnenuntergang am Mündungsgebiet",
+              "Übernachtung in Poovar (Luxus-Resort)"
+            ]
+          },
+          {
+            "day_title": "Tag 07: Poovar Freizeit / Ausflug nach Kovalam (1 Nacht)",
+            "location": "Poovar",
+            "description": "Entspannung am Strand von Poovar. Option: Ausflug nach Kovalam für Strandaktivitäten. Ayurveda-Spa oder Sonnenuntergangs-Bootsfahrt.",
+            "activities": [
+              "Ayurveda-Spa-Sitzung",
+              "Sonnenuntergangs-Kreuzfahrt in den Backwaters",
+              "Optionaler Ausflug zum Kovalam-Strand",
+              "Übernachtung in Poovar"
+            ]
+          },
+          {
+            "day_title": "Tag 08: Abreise (Trivandrum / Kochi Flughafen)",
+            "location": "Departure",
+            "description": "Frühstück und Check-out. Transfer zum Flughafen Trivandrum oder zurück nach Kochi.",
+            "activities": []
+          }
+        ]
+      },
+      "accommodations": [
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/grand-hyatt-kochi.webp",
+            "alt": "Grand Hyatt Kochi Bolgatty"
+          },
+          "name": "Grand Hyatt Kochi Bolgatty",
+          "location": "Kochi, Indien",
+          "description": "5-Sterne-Luxushotel auf der Insel Bolgatty mit Panoramablick auf die Backwaters.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/blanket-resort.webp",
+            "alt": "Blanket Hotel & Spa"
+          },
+          "name": "Blanket Hotel & Spa",
+          "location": "Munnar, Indien",
+          "description": "Luxus-Resort inmitten von Teeplantagen mit erstklassigem Spa.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/elephant-court.webp",
+            "alt": "Elephant Court"
+          },
+          "name": "Elephant Court",
+          "location": "Thekkady, Indien",
+          "description": "Elegante Unterkünfte in der Nähe des Periyar-Wildschutzgebiets.",
+          "rating": 5
+        },
+        {
+          "image": {
+            "src": "/assets/Luxury/Kerala/estuary-sarovar.webp",
+            "alt": "Estuary Sarovar Portico"
+          },
+          "name": "Estuary Sarovar Portico",
+          "location": "Poovar, Indien",
+          "description": "Einzigartiges Resort an der Mündung von Fluss und Meer.",
+          "rating": 5
+        }
+      ],
+      "inclusions": [
+        {
+          "icon": "fas fa-hotel",
+          "title": "Premium-Unterkunft",
+          "description": "1N Kochi, 1N Alleppey (Hausboot), 2N Munnar, 1N Thekkady, 2N Poovar"
+        },
+        {
+          "icon": "fas fa-utensils",
+          "title": "Gourmet-Verpflegung",
+          "description": "Tägliches Frühstück + alle Mahlzeiten auf dem Hausboot"
+        },
+        {
+          "icon": "fas fa-car",
+          "title": "Private Luxus-Transfers",
+          "description": "Privates Luxusfahrzeug mit Chauffeur für die gesamte Reise"
+        },
+        {
+          "icon": "fas fa-binoculars",
+          "title": "Exklusive Erlebnisse",
+          "description": "Bootsfahrt in Poovar, Periyar-See-Tour, Ayurveda-Spa"
+        },
+        {
+          "icon": "fas fa-ticket-alt",
+          "title": "Kulturprogramm",
+          "description": "Kathakali-Show, Gewürz- und Teeplantagen-Touren"
+        },
+        {
+          "icon": "fas fa-shield-alt",
+          "title": "Steuern & Support",
+          "description": "Alle Steuern und Transfers laut Reiseverlauf inklusive"
+        }
+      ]
+    }
+  }
+}
