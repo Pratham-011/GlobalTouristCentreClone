@@ -10936,10 +10936,13 @@ export const it = {
           subtitle:
             "Scopri i maestosi paesaggi e la ricca cultura del Ladakh in questo viaggio himalayano di 7 giorni",
           backgroundImage: "/assets/hero/ladakh-hero.webp",
-          meta: {},
+                    meta: {
+           "duration": "7 Giorni",
+            "locations": "7+ Luoghi",
+            "rating": "4.9/5"
         },
         language: "it",
-        "metadata": {
+        metadata: {
           "title": "Tour Ladakh 7G/6N da Goa by Global Tourist Centre",
           "description": "Prenota un viaggio in Ladakh di 7 giorni e 6 notti da Goa. Include soggiorno in hotel, guida e trasporto."
         },

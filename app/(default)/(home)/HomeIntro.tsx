@@ -23,7 +23,6 @@ type TravelCollection = {
 
 const travelCollections: TravelCollection[] = [
   /* ================= DAY TRIPS ================= */
-
   {
     id: "south-goa-1-day-cultural-and-beach-tour-package",
     href: "/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package", // matches day-south-goa-cultural-007.slug
@@ -104,8 +103,8 @@ const travelCollections: TravelCollection[] = [
   {
     id: "golden-triangle-4-day-tour-from-goa",
     href: "/destinations/domestic/golden-triangle-4-day-tour-from-goa", // matches dom-golden-triangle-025.slug
-    imageUrl: "/assets/destinations/Thumbnails/GoldenTriangle.webp",
-    alt: "Golden Temple (Harmandir Sahib) with gold-plated dome reflecting in the sacred Amrit Sarovar pool, Amritsar Punjab India",
+    imageUrl: "/assets/destinations/Thumbnails/GoldenTour.webp",
+    alt: "Golden Triangle India travel collage featuring India Gate in Delhi, the Taj Mahal in Agra, and the Hawa Mahal in Jaipur.",
   },
   {
     id: "jodhpur-udaipur-tour-package",

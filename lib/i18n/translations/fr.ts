@@ -10902,10 +10902,14 @@ internationalhero: "Explorez le monde",
           subtitle:
             "Découvrez les paysages majestueux et la riche culture du Ladakh lors de ce voyage himalayen de 7 jours",
           backgroundImage: "/assets/hero/ladakh-hero.webp",
-          "meta": {}
+          meta: {
+           "duration": "7 Jours",
+            "locations": "7+ Emplacements",
+            "rating": "4.9/5"
+          }
         },
         language: "fr",
-        "metadata": {
+        metadata: {
           "title": "Circuit Ladakh 7J/6N depuis Goa par Global Tourist Centre",
           "description": "Réservez un voyage au Ladakh de 7 jours et 6 nuits depuis Goa. Comprend hébergement, guide et transport."
         }

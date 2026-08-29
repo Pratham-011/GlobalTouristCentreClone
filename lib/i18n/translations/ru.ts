@@ -10605,10 +10605,13 @@ export const ru = {
           subtitle:
             "Познакомьтесь с величественными пейзажами и богатой культурой Ладакха в этом 7-дневном путешествии по Гималаям.",
           backgroundImage: "/assets/hero/ladakh-hero.webp",
-          "meta": {}
-        },
+          meta: {
+           "duration": "7 Дней",
+            "locations": "7+ Мест",
+            "rating": "4.9/5"
+          },
         language: "ru",
-        "metadata": {
+        metadata: {
           "title": "Тур в Ладакх 7Д/6Н из Гоа от Global Tourist Centre",
           "description": "Забронируйте тур в Ладакх на 7 дней и 6 ночей из Гоа. Включает проживание в отеле, услуги гида и транспорт."
         }

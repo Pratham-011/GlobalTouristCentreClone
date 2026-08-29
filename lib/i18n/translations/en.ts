@@ -11966,7 +11966,11 @@ export const en = {
           "title": "Ladakh Tour Package from Goa",
           "subtitle": "Experience the majestic landscapes and rich culture of Ladakh in this 7-day Himalayan journey",
           "backgroundImage": "/assets/hero/ladakh-hero.webp",
-          "meta": {}
+          "meta": {
+           "duration": "7 Days",
+            "locations": "7+ Locations",
+            "rating": "4.9/5"
+          }
         },
         "language": "en",
         "metadata": {

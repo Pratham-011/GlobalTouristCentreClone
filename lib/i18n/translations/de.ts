@@ -207,7 +207,6 @@ export const de = {
       },
       "golden-triangle-4-day-tour-from-goa": {
       "rating": "4.8",
-      "rating": "4.8",
         title: "Goldenes Dreieck Indiens",
         duration: "3 Nächte / 4 Tage",
         description:
@@ -10818,7 +10817,11 @@ export const de = {
           subtitle:
             "Erleben Sie die majestätischen Landschaften und die reiche Kultur Ladakhs auf dieser 7-tägigen Himalaya-Reise",
           backgroundImage: "/assets/hero/ladakh-hero.webp",
-          "meta": {}
+          meta: {
+           "duration": "7 Tage",
+            "locations": "7+ Orte",
+            "rating": "4.9/5"
+          }
         },
         language: "de",
         "metadata": {

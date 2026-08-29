@@ -36,7 +36,7 @@ const CuratedTravel = () => {
       {
         id: "golden-triangle-4-day-tour-from-goa",
         category: "domestic",
-        imageUrl: "/assets/destinations/Thumbnails/GoldenTriangle.webp",
+        imageUrl: "/assets/destinations/Thumbnails/GoldenTour.webp",
         rating: 4.8,
         tags: ["Heritage", "Taj Mahal", "Cultural"],
         badge: null,
