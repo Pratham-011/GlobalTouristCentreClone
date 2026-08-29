@@ -6,7 +6,10 @@
     "about": "À Propos",
     "services": "Services",
     "contact": "Contact",
-    "blog": "Blogue"
+    "blog": "Blogue",
+    "domesticTrip": "Voyage Intérieur",
+    "internationalTrip": "Voyage International",
+    "dayTrip": "Excursion d'une journée"
   },
   "footer": {
     "tagline": "Nous transformons vos rêves en aventures inoubliables depuis 2010. Votre partenaire de confiance pour les voyages.",

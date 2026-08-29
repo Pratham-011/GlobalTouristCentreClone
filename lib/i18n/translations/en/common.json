@@ -6,7 +6,10 @@
     "about": "About",
     "services": "Services",
     "contact": "Contact",
-    "blog": "Blog"
+    "blog": "Blog",
+    "domesticTrip": "Domestic Trip",
+    "internationalTrip": "International Trip",
+    "dayTrip": "Day Trip"
   },
   "footer": {
     "tagline": "Weaving your dreams into unforgettable adventures since 2010. Your trusted travel partner for bespoke domestic and international tours.",

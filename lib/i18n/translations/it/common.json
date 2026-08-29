@@ -6,7 +6,10 @@
     "about": "Chi Siamo",
     "services": "Servizi",
     "contact": "Contatti",
-    "blog": "Blog"
+    "blog": "Blog",
+    "domesticTrip": "Viaggio Domestico",
+    "internationalTrip": "Viaggio Internazionale",
+    "dayTrip": "Escursione Giornaliera"
   },
   "footer": {
     "tagline": "Trasformiamo i tuoi sogni in avventure indimenticabili dal 2010. Il tuo partner di fiducia per viaggi.",

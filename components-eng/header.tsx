@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState } from "react";
-import { Menu } from "lucide-react";
+import { Menu, ChevronDown } from "lucide-react";
 
 import { useI18n } from "@/lib/i18n/context";
 import { LanguageSwitcher } from "./language-switcher";
@@ -25,9 +25,28 @@ export function Header() {
     return locale === "en" ? path : `/${locale}${path}`;
   };
 
+  const destinationsSubmenu = [
+    {
+      href: getHref("/destinations/domestic"),
+      label: t.nav.domesticTrip,
+    },
+    {
+      href: getHref("/destinations/international"),
+      label: t.nav.internationalTrip,
+    },
+    {
+      href: getHref("/destinations/day-trips"),
+      label: t.nav.dayTrip,
+    },
+  ];
+
   const navLinks = [
     { href: getHref("/"), label: t.nav.home },
-    { href: getHref("/destinations"), label: t.nav.destinations },
+    {
+      href: getHref("/destinations"),
+      label: t.nav.destinations,
+      submenu: destinationsSubmenu,
+    },
     {
       href: getHref("/luxury-trips"),
       label: t.nav.luxuryDestinations,
@@ -69,16 +88,57 @@ export function Header() {
             role="navigation"
             aria-label="Main navigation"
           >
-            {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="text-white text-lg font-medium transition-colors hover:text-[#f8d56b]"
-                style={{ textShadow: "0 1px 2px rgba(0,0,0,0.35)" }}
-              >
-                {link.label}
-              </Link>
-            ))}
+            {navLinks.map((link) =>
+              link.submenu ? (
+                /* Destinations with dropdown */
+                <div key={link.href} className="relative group">
+                  <Link
+                    href={link.href}
+                    className="flex items-center gap-1 text-white text-lg font-medium transition-colors hover:text-[#f8d56b]"
+                    style={{ textShadow: "0 1px 2px rgba(0,0,0,0.35)" }}
+                    aria-haspopup="true"
+                    id="destinations-menu-button"
+                  >
+                    {link.label}
+                    <ChevronDown
+                      className="h-4 w-4 transition-transform duration-200 group-hover:rotate-180"
+                      aria-hidden="true"
+                    />
+                  </Link>
+
+                  {/* Dropdown panel */}
+                  <div
+                    className="absolute top-full left-1/2 -translate-x-1/2 mt-3 w-52 opacity-0 pointer-events-none translate-y-1 group-hover:opacity-100 group-hover:pointer-events-auto group-hover:translate-y-0 transition-all duration-200 ease-out"
+                    role="menu"
+                    aria-labelledby="destinations-menu-button"
+                  >
+                    {/* Arrow tip */}
+                    <div className="mx-auto w-3 h-3 -mb-1.5 rotate-45 bg-gray-900/95 border-t border-l border-white/10 relative z-10" />
+                    <div className="rounded-xl overflow-hidden shadow-2xl border border-white/10 bg-gray-900/95 backdrop-blur-md">
+                      {link.submenu.map((sub) => (
+                        <Link
+                          key={sub.href}
+                          href={sub.href}
+                          role="menuitem"
+                          className="flex items-center gap-2 px-5 py-3 text-sm font-medium text-gray-200 hover:text-[#f8d56b] hover:bg-white/5 transition-colors border-l-2 border-transparent hover:border-[#f8d56b] group/item"
+                        >
+                          <span>{sub.label}</span>
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              ) : (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="text-white text-lg font-medium transition-colors hover:text-[#f8d56b]"
+                  style={{ textShadow: "0 1px 2px rgba(0,0,0,0.35)" }}
+                >
+                  {link.label}
+                </Link>
+              )
+            )}
           </nav>
 
           <LanguageSwitcher />
@@ -104,16 +164,42 @@ export function Header() {
               </SheetHeader>
 
               <nav className="flex flex-col" aria-label="Mobile navigation">
-                {navLinks.map((link) => (
-                  <SheetClose asChild key={link.href}>
-                    <Link
-                      href={link.href}
-                      className="px-6 py-4 text-base font-medium hover:bg-muted"
-                    >
-                      {link.label}
-                    </Link>
-                  </SheetClose>
-                ))}
+                {navLinks.map((link) =>
+                  link.submenu ? (
+                    <div key={link.href}>
+                      <SheetClose asChild>
+                        <Link
+                          href={link.href}
+                          className="flex items-center justify-between px-6 py-4 text-base font-medium hover:bg-muted"
+                        >
+                          {link.label}
+                        </Link>
+                      </SheetClose>
+                      {/* Mobile submenu — always visible, indented */}
+                      <div className="border-l-2 border-[#f8d56b] ml-6 mb-1">
+                        {link.submenu.map((sub) => (
+                          <SheetClose asChild key={sub.href}>
+                            <Link
+                              href={sub.href}
+                              className="block px-5 py-2.5 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-muted"
+                            >
+                              {sub.label}
+                            </Link>
+                          </SheetClose>
+                        ))}
+                      </div>
+                    </div>
+                  ) : (
+                    <SheetClose asChild key={link.href}>
+                      <Link
+                        href={link.href}
+                        className="px-6 py-4 text-base font-medium hover:bg-muted"
+                      >
+                        {link.label}
+                      </Link>
+                    </SheetClose>
+                  )
+                )}
               </nav>
 
               <div className="px-6 py-4 border-t">
