@@ -92,7 +92,7 @@ export function HeroSection({
 
   return (
     <section
-      className="relative min-h-[50vh] sm:min-h-[60vh] flex flex-col"
+      className="relative min-h-[35vh] sm:min-h-[60vh] flex flex-col"
       aria-label={title}
     >
       {/* Background */}
@@ -273,7 +273,7 @@ export function HeroSection({
       </header>
 
       {/* Hero Content */}
-      <div className="relative z-10 w-full flex-1 flex items-center px-[5%]">
+      <div className="relative z-10 w-full flex-1 flex items-center px-[5%] py-6 sm:py-0">
         <div
           className={`w-full ${
             showForm ? "grid lg:grid-cols-2 gap-6 sm:gap-8" : "flex flex-col"
