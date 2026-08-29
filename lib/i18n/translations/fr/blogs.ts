@@ -1,0 +1,235 @@
+export const blogs = {
+  "blog": {
+    "heroTitle": "Histoires et Expériences de Voyage",
+    "mainTitle": "Dernières Histoires de Voyage",
+    "mainSubtitle": "Lisez nos aventures et expériences les plus récentes",
+    "readMore": "Lire la Suite",
+    "comingSoon": "Bientôt Disponible",
+    "comingSoonDesc": "Nous préparons de nouvelles histoires pour vous. Revenez bientôt!",
+    "photography": "Photographie",
+    "groupTours": "Voyages de Groupe",
+    "julyDate": "Juillet 2026",
+    "juneDate": "Juin 2025",
+    "globalTeam": "Équipe Global Tourist Centre",
+    "andamanTitle": "Cliquez, Capturez et Détendez-vous : Les Lieux les Plus Instagrammables des Andaman",
+    "andamanSubtitle": "Découvrez des endroits magnifiques pour des photos parfaites aux Andaman",
+    "keralaTitle": "De Goa au Pays de Dieu",
+    "keralaSubtitle": "Un voyage au Kerala pour jeunes explorateurs - escapades de mousson, backwaters et stations de montagne.",
+    "goaTitle": "Goa vs le reste de l'Inde : l'histoire coloniale expliquée",
+    "goaSubtitle": "Vous êtes-vous déjà demandé pourquoi Goa ne ressemble à nulle autre région d'Inde ? Remontez à la domination portugaise, aux routes des épices, aux églises coloniales et à l'Inquisition.",
+    "heritage": "Patrimoine",
+    "comingSoonTitle": "Nouvelles Aventures Bientôt",
+    "comingSoonSubtitle": "Nous préparons de nouvelles histoires pour vous. Revenez bientôt!"
+  },
+  "blogAndaman": {
+    "metadata": {
+      "title": "Lieux Instagrammables aux Andaman pour des photos parfaites | Global Tourist Centre",
+      "description": "Découvrez les meilleurs spots Instagram aux Andaman — de la plage de Kalapathar aux ruines de Ross Island. Lieux parfaits pour photos, couchers de soleil et souvenirs sous-marins."
+    },
+    "heroTitle": "Cliquez, Capturez et Détendez-vous : Les Lieux les Plus Instagrammables des Andaman",
+    "heroSubtitle": "Juillet 2025 • Photographie",
+    "introQuote": "Imaginez-vous debout sur une plage ensoleillée où les vagues turquoise caressent vos pieds...",
+    "introParagraph": "Nichées dans le golfe du Bengale, les îles Andaman ont gagné la réputation de paradis visuel. Continuez à lire pour découvrir les lieux les plus instagrammables des Andaman.",
+    "radhanagar": {
+      "title": "Plage de Radhanagar – Le Coucher de Soleil Parfait",
+      "caption": "Les superbes vues du coucher de soleil à Radhanagar Beach",
+      "desc1": "Pourquoi ne pas commencer par l'un des noms les plus célèbres? Radhanagar Beach sur l'île de Havelock a été élue l'une des meilleures plages d'Asie.",
+      "desc2": "La meilleure photo sera celle du coucher de soleil avec des ciels enflammés et des silhouettes.",
+      "desc3": "Essayez des prises de vue en contre-plongée avec des pieds nus dans le cadre."
+    },
+    "neilIsland": {
+      "title": "Pont Naturel de Neil Island – Un Chef-d'œuvre de la Nature",
+      "caption": "La magnifique formation rocheuse naturelle de Neil Island",
+      "desc1": "La nature a décidé d'être plus créative à Neil Island. Le pont naturel est une formation rocheuse sculptée par le vent, l'eau et le temps.",
+      "desc2": "Les meilleures photos arrivent à midi pour des ombres nettes et des détails.",
+      "desc3": "Vous pouvez placer un modèle sous l'arche pour une photo dramatique."
+    },
+    "kalapathar": {
+      "title": "Plage de Kalapathar – Teintes Bleues et Eaux Cristallines",
+      "caption": "La beauté sereine de Kalapathar Beach",
+      "desc1": "Calme, sereine et peu connue, Kalapathar Beach est parfaite pour ceux qui aiment les bleus pastel et les sables réfléchissants.",
+      "desc2": "Les meilleures photos viennent à l'heure dorée avec de longues ombres et des drones montrant le contraste."
+    },
+    "rossIsland": {
+      "title": "Ross Island – Des Ruines avec une Histoire",
+      "caption": "Les ruines historiques de Ross Island",
+      "desc1": "Bâtiments abandonnés, racines rampantes et vestiges coloniaux – la photographie de Ross Island peut être à la fois inquiétante et belle.",
+      "desc2": "Les meilleures photos viennent en cadrant une arche en ruine ou un mur couvert de lierre avec des rayons de soleil."
+    },
+    "chidiyaTapu": {
+      "title": "Chidiya Tapu – La Maison des Couchers de Soleil",
+      "caption": "Des couchers de soleil époustouflants à Chidiya Tapu",
+      "desc1": "Si votre galerie est pleine de couchers de soleil, n'oubliez pas d'ajouter ceux de Chidiya Tapu. L'endroit est parfait pour les photos du soir.",
+      "desc2": "Les meilleures photos sont pendant le coucher du soleil avec des bleus et oranges qui se fondent.",
+      "desc3": "Utilisez les rochers au premier plan ou des silhouettes de personnes en mouvement."
+    },
+    "mountHarriet": {
+      "title": "Mount Harriet – Carte Postale d'en Haut",
+      "caption": "Vues panoramiques depuis Mount Harriet",
+      "desc1": "Étant l'un des points les plus élevés des îles, Mount Harriet offre des vues époustouflantes sur les forêts, les côtes et les îles lointaines.",
+      "desc2": "Les meilleures photos se font le matin quand la lumière filtre à travers les arbres."
+    },
+    "baratang": {
+      "title": "Grottes Calcaires de Baratang – Une Promenade dans la Nature",
+      "caption": "Les formations calcaires uniques de Baratang",
+      "desc1": "L'île de Baratang vous emmène dans un endroit complètement différent, à travers les forêts de mangroves et dans d'anciennes grottes calcaires.",
+      "desc2": "Les meilleures photos viennent de l'intérieur de la grotte capturant courbes et textures avec lumière naturelle."
+    },
+    "northBay": {
+      "title": "North Bay – Une Aventure Sous-marine",
+      "caption": "Vie marine vibrante à North Bay",
+      "desc1": "Vous voulez capturer quelque chose d'inoubliable? Allez sous la surface. North Bay est l'un des meilleurs endroits pour la photographie sous-marine.",
+      "desc2": "Préparez une GoPro avec un boîtier étanche pour capturer récifs coralliens et poissons colorés."
+    },
+    "wandoor": {
+      "title": "Wandoor Beach – Beauté Côtière Hors des Sentiers Battus",
+      "caption": "Les rives tranquilles de Wandoor Beach",
+      "desc1": "Moins de touristes, plus d'espace à explorer. Wandoor Beach aime le silence serein avec des arbres tombés et des vagues douces.",
+      "desc2": "Les meilleures photos se font en marchant le long de la côte avec du bois flotté ou des reflets dans l'eau peu profonde."
+    },
+    "cellularJail": {
+      "title": "Cellular Jail – Encadrée de Lumière et d'Ombre",
+      "caption": "L'architecture dramatique de la Cellular Jail",
+      "desc1": "Cela peut ne pas sembler instagrammable au premier abord, mais la Cellular Jail à Port Blair est un arrière-plan puissant.",
+      "desc2": "Les meilleures photos viennent des compositions de lumière et d'ombre dans les longs couloirs."
+    },
+    "planningTrip": "Planifiez Votre Voyage aux Andaman?",
+    "planningDesc": "Au Global Tourist Centre, nous veillons à ce que votre expérience soit un voyage inoubliable. Nos forfaits incluent hébergement, guides locaux, excursions et transport.",
+    "conclusionNote": "Bien que nous ayons un humble conseil: laissez parfois votre appareil photo dans votre poche. Certaines images ne sont que pour les yeux!",
+    "enquireNow": "Demander des Informations",
+    "viewItinerary": "Voir l'Itinéraire Complet",
+    "youMightAlsoLike": "Vous Pourriez Aussi Aimer"
+  },
+  "blogGoa": {
+    "metadata": {
+      "title": "Goa vs le reste de l'Inde : l'histoire coloniale expliquée",
+      "description": "Vous êtes-vous déjà demandé pourquoi Goa ne ressemble à nulle autre région d'Inde ? Remontez à la domination portugaise, aux routes des épices, aux églises coloniales et à l'Inquisition."
+    },
+    "heroTitle": "Un voyage à travers le patrimoine colonial de Goa et de l'Inde",
+    "heroSubtitle": "Juillet 2025 • Patrimoine",
+    "introImageAlt": "Vue panoramique d'Old Goa avec la basilique Bom Jesus et le paysage colonial environnant.",
+    "introParagraph1": "Après avoir visité n'importe où ailleurs en Inde, arriver à Goa paraît très différent — pour le meilleur. Voici pourquoi : dans certains quartiers, les églises sont plus nombreuses que les temples. Les noms de rues portent une cadence latine. Les habitants se saluent par « Susegad » plutôt que d'un hochement de tête pressé. Et l'État entier semble avancer à moitié de la vitesse de Mumbai ou de Delhi. Si vous vous êtes demandé pourquoi, la réponse se trouve dans l'histoire : quatre siècles et demi de domination portugaise ont façonné Goa en quelque chose que la règle britannique n'a jamais touché.",
+    "introParagraph2": "C'est un État qui est resté, littéralement, un autre pays jusqu'en 1961. Alors que le reste de l'Inde luttait pour l'indépendance face à la Grande-Bretagne en 1947, Goa demeura territoire portugais pendant encore quatorze ans. Ce seul écart en dit long. Mais pour vraiment comprendre, il faut remonter à 1510 et suivre le fil historique à travers les navires d'épices, les conversions forcées et une identité coloniale qui n'a jamais totalement lâché prise.",
+    "beforePortuguese": {
+      "title": "Avant l'arrivée des Portugais",
+      "caption": "Ancienne carte portugaise ou illustration historique de Goa (XVIe–XVIIe siècle).",
+      "desc1": "Bien avant que les navires de Vasco de Gama n'apparaissent au large de la côte du Malabar, c'était déjà un port actif sous une succession de dynasties hindoues et musulmanes, la plus connue étant le sultanat de Bijapur. Des marchands du monde arabe et d'ailleurs y circulaient depuis des générations. Les Portugais voulaient le contrôle d'une route commerciale que des marchands arabes et vénitiens dominaient depuis des siècles. Cela incluait le commerce des épices, qui valait alors plus que l'or à la livre sur les marchés européens.",
+      "desc2": "Afonso de Albuquerque prit la ville par la force en 1510, en battant l'armée du sultanat de Bijapur le jour de la fête de sainte Catherine, raison pour laquelle la grande cathédrale construite plus tard porterait son nom. En quelques décennies, Goa devint la capitale de l'Estado da Índia, tout l'empire oriental du Portugal, s'étendant de l'Afrique de l'Est au Japon, administré depuis cette seule ville portuaire."
+    },
+    "goldenAge": {
+      "title": "Un âge d'or bâti sur les épices",
+      "caption": "Cathédrale Sé",
+      "desc1": "C'est ici que l'histoire devient captivante pour quiconque se promène aujourd'hui dans Old Goa. Entre environ 1575 et 1625, la ville atteignit son apogée. Historiens et voyageurs de l'époque l'appelaient « Goa Dourada », Goa dorée, et un dicton portugais disait : qui a vu Goa n'a pas besoin de voir Lisbonne. À son zénith, la population aurait pu approcher le quart de million, rivalisant avec les grandes capitales européennes, avec de larges boulevards, des demeures de pierre et une cour vice-royale vivant dans un luxe authentique.",
+      "desc2": "Cette richesse ne venait pas de nulle part. Elle venait de navires chargés de poivre, de cannelle et de clous de girofle partant vers Lisbonne, tandis que chevaux, textiles et autres marchandises affluaient en sens inverse. Les églises que vous voyez aujourd'hui, plusieurs sites du patrimoine mondial de l'UNESCO, furent en grande partie financées à cette période. La basilique Bom Jesus, qui abrite les restes de saint François Xavier, et la cathédrale Sé, toujours la plus grande église d'Asie, datent toutes deux de cette période dorée où l'argent et l'ambition religieuse traversaient Goa à parts égales.",
+      "desc3": "Mais la Goa dorée connut aussi un âge sombre que la plupart des brochures touristiques passent sous silence. À partir d'environ 1540, la tolérance religieuse dans la colonie s'effondra. Des temples debout depuis des siècles furent abattus. Certains récits avancent environ 300 destructions en une seule vague. Les fêtes hindoues, jadis célébrées aux côtés des fêtes chrétiennes, furent interdites. Puis, en 1560, à l'instigation du missionnaire François Xavier, la Couronne portugaise institua formellement l'Inquisition de Goa.",
+      "desc4": "Ce qui suivit fut l'un des chapitres les plus durs de l'histoire religieuse coloniale en Asie. L'Inquisition visait les « Nouveaux chrétiens » soupçonnés de pratiquer secrètement le judaïsme, les hindous accusés de s'accrocher aux anciennes coutumes après conversion, et quiconque dont la foi n'était pas alignée net avec l'orthodoxie catholique. Des livres en sanskrit et en konkani furent saisis et brûlés. Les instruments de musique locaux furent interdits. Des milliers de personnes furent jugées pendant les quelque deux siècles et demi d'activité du tribunal, avec une brève pause dans les années 1770 avant la fermeture définitive en 1812.",
+      "desc5": "C'est une histoire inconfortable. Et elle doit l'être. Mais elle est aussi essentielle pour comprendre le Goa moderne. L'identité catholique goanaise que vous rencontrez aujourd'hui — les noms de famille, les églises dans presque chaque village, la fusion du konkani et du vocabulaire portugais — existe à cause de ce processus forcé et violent. En parcourant un village goanais, vous trouverez parfois un temple hindou juste hors de l'ancienne limite coloniale, bâti par des familles qui ont fui plutôt que de se convertir, emportant leurs divinités. Ce sont la trace physique d'une résistance encore debout cinq cents ans plus tard."
+    },
+    "whyDifferent": {
+      "title": "Pourquoi cela semble-t-il différent de l'Inde britannique ?",
+      "captionBritish": "Architecture coloniale britannique (Victoria Terminus / Writers' Building de Kolkata)",
+      "captionPortuguese": "Villas portugaises à Fontainhas",
+      "desc1": "C'est la question que tout voyageur curieux finit par se poser. La réponse honnête tient à l'intention. Les Britanniques, surtout après 1858, gouvernaient l'Inde surtout comme un projet commercial et administratif. Ils construisirent des chemins de fer, des tribunaux et des bureaucraties. L'activité missionnaire existait certes, mais l'État colonial resta relativement en retrait sur le plan religieux, surtout après le soulèvement de 1857 qui leur montra le coût politique d'une ingérence trop directe.",
+      "desc2": "Les Portugais prirent l'approche inverse. Pour eux, la conversion était l'un des objectifs centraux, aux côtés des profits des épices. Cette différence se voit partout dans le paysage bâti. L'Inde britannique a laissé des gares, des cours civiles, des cantonments et une architecture indo-sarrazaine destinée à projeter l'autorité impériale. Le Goa portugais a laissé des églises baroques, des chapelles blanchies dans presque chaque village, des villas ibériques aux toits de tuiles rouges et une population catholique qui, dans certains talukas, forme encore la majorité.",
+      "desc3": "La langue raconte la même histoire. L'anglais dans le reste de l'Inde est devenu un outil d'administration puis d'opportunité, quelque chose superposé aux langues locales. Le portugais à Goa a été imposé comme langue de la vie quotidienne, de l'éducation et du gouvernement pendant des siècles. Le konkani a absorbé un vocabulaire portugais notable. Même la cuisine porte l'empreinte : le vindaloo, un classique goanais, remonte à un plat de porc portugais — carne de vinha d'alhos — réinterprété avec des épices locales jusqu'à devenir quelque chose d'entièrement propre."
+    },
+    "itinerary": {
+      "title": "Un itinéraire culturel qui vaut le détour",
+      "intro": "Si vous voulez ressentir cette histoire plutôt que de la lire seulement, quelques arrêts font la différence.",
+      "oldGoa": "Old Goa est le point de départ évident, et il mérite cette réputation. La basilique Bom Jesus et la cathédrale Sé sont à distance de marche, avec l'église de Saint-Gaétan et les ruines de la tour de Saint-Augustin. Tous restes d'une ville qui rivalisait jadis avec Lisbonne.",
+      "fontainhas": "Fontainhas à Panjim offre la version domestique et quotidienne du Goa portugais. Rues étroites, façades colorées, balcons en fer forgé : ce quartier latin a largement survécu intact et mérite une promenade lente plutôt qu'un arrêt photo précipité.",
+      "reisMagos": "Le fort de Reis Magos, de l'autre côté de la rivière face à Panjim, mêle histoire militaire et religieuse en un seul site, avec une chapelle datant des années 1550 et de vastes vues sur le Mandovi.",
+      "museum": "Le musée d'art chrétien près d'Old Goa est là où vivent les artefacts et sculptures de l'époque de l'Inquisition, offrant un tableau plus complet et moins aseptisé que les seules églises.",
+      "spice": "Une visite de plantation d'épices, vers l'intérieur en direction de Ponda, referme la boucle en vous reconnectant à la raison même de l'arrivée des Portugais. Se tenir parmi les mêmes vignes de poivre et plants de cardamome qui déclenchèrent une lutte de pouvoir mondiale il y a cinq siècles place églises et forts dans un contexte plus net."
+    },
+    "takeaway": {
+      "title": "À retenir",
+      "desc1": "Goa est le résultat direct d'un projet colonial qui a priorisé la transformation religieuse autant que le gain économique, mené par une puissance européenne restée près de 150 ans de plus que les Britanniques n'importe où ailleurs sur le sous-continent. Les églises sont belles, vraiment. Mais elles se dressent aussi sur un sol qui porte une histoire bien plus hantée. L'identité de l'État aujourd'hui — sa cuisine, sa langue, son architecture — porte les deux moitiés à la fois.",
+      "desc2": "Si vous êtes le genre de voyageur qui veut plus d'un voyage qu'une chaise de plage et une photo de coucher de soleil, Goa récompensera cette curiosité. Marchez dans Old Goa avec l'histoire de l'Inquisition en tête et la basilique cesse d'être seulement un joli bâtiment. Elle devient un lieu que vous comprenez vraiment."
+    },
+    "enquireNow": "Nous contacter",
+    "viewItinerary": "Explorer les circuits à Goa",
+    "youMightAlsoLike": "Vous pourriez aussi aimer"
+  },
+  "blogKerala": {
+    "metadata": {
+      "title": "Forfaits Kerala depuis Goa pour jeunes voyageurs actifs | Global Tourist Centre",
+      "description": "Le forfait Goa–Kerala offre escapades de mousson, voyages en groupe, backwaters et stations de montagne. Idéal pour les jeunes voyageurs en quête de calme et d’aventure."
+    },
+    "heroTitle": "De Goa au Pays de Dieu",
+    "heroSubtitle": "Un voyage au Kerala pour jeunes explorateurs",
+    "introTitle": "Pourquoi le Kerala?",
+    "introDesc": "Le Kerala n'est pas seulement une destination. C'est une humeur, un rythme de vie qui vous ralentit. La brume sur les plantations de thé de Munnar, l'ondulation tranquille d'une péniche à travers les backwaters d'Alleppey.",
+    "discoveryTitle": "Un Voyage pour la Découverte",
+    "discoveryDesc": "Nous avons conçu ce voyage pour vous montrer le meilleur du Kerala – collines, eau, forêts, plages. Un mélange d'aventure et de détente.",
+    "groupTravelTitle": "Pour les Jeunes et Aventureux",
+    "groupTravelDesc": "Nous avons vu trop de jeunes voyageurs manquer le Kerala parce que les voyages étaient trop chers ou ennuyeux. Alors nous avons créé notre propre format.",
+    "monsoonTitle": "Quand Y Aller",
+    "monsoonDesc": "Le Kerala est beau toute l'année, mais si vous cherchez une expérience cinématographique – visez les mois de mousson. Cascades en pleine puissance, collines incroyablement vertes.",
+    "itineraryTitle": "Itinéraire de 7 Jours",
+    "day1": "Jour 1",
+    "day2": "Jour 2",
+    "day3": "Jour 3",
+    "day4": "Jour 4",
+    "day5": "Jour 5",
+    "day6": "Jour 6",
+    "day7": "Jour 7",
+    "departureTitle": "Départ de Goa",
+    "departureDesc": "Commencez le voyage en train ou en bus. Rencontrez vos compagnons de voyage et préparez-vous à l'aventure!",
+    "munnarArrival": "Arrivée à Munnar",
+    "munnarDesc": "Atteignez les collines le matin. Munnar vous accueillera avec des jardins de thé, une brise fraîche et des sentiers paisibles.",
+    "munnarAdventures": "Aventures à Munnar",
+    "munnarAdventuresDesc": "Randonnée à la Top Station pour des vues panoramiques. Visitez le Parc National d'Eravikulam.",
+    "thekkadyThrills": "Sensations à Thekkady",
+    "thekkadyDesc": "Partez pour Thekkady tôt le matin. Cette région vous montrera le côté sauvage du Kerala.",
+    "backwatersTitle": "Backwaters d'Alleppey/Kumarakom",
+    "backwatersDesc": "Montez sur une péniche et partez. Le monde ralentira tandis que vous naviguerez entre palmiers et vie villageoise.",
+    "kochiVarkala": "Kochi et Plage de Varkala",
+    "kochiVarkalaDesc": "Allez vers Kochi ou Varkala. Kochi vous charmera avec ses rues coloniales, tandis que Varkala offre des cafés sur falaise et plages dorées.",
+    "returnTitle": "Retour à Goa",
+    "returnDesc": "Il est temps de rentrer. Vous reviendrez bronzé, avec de nouveaux amis et des histoires pour la vie.",
+    "memorableTitle": "Pourquoi Ce Voyage Sera Mémorable",
+    "highlight1": "Croisière en péniche sur les pittoresques backwaters",
+    "highlight2": "Randonnée dans les fraîches collines vertes de thé",
+    "highlight3": "Rafting dans les ruisseaux forestiers de Thekkady",
+    "highlight4": "Selfies sous la pluie aux cascades",
+    "highlight5": "Soirées feu de camp avec musique et jeux",
+    "highlight6": "Parcours gastronomiques avec thali keralais",
+    "highlight7": "Promenades nocturnes dans les rues éclairées de Fort Kochi",
+    "highlight8": "Coucher de soleil à la Falaise de Varkala",
+    "whatsIncluded": "Ce Qui Est Inclus",
+    "inclusion1": "Voyage aller-retour de Goa au Kerala",
+    "inclusion2": "Hébergement dans des hôtels propres et adaptés aux jeunes",
+    "inclusion3": "Expérience en péniche",
+    "inclusion4": "Visites locales et transport",
+    "inclusion5": "Activités de groupe",
+    "inclusion6": "Support sur place et coordinateur",
+    "inclusion7": "Tous les permis et frais d'entrée",
+    "proTips": "Conseils pour les Débutants",
+    "tip1Title": "Gardez l'esprit ouvert",
+    "tip1Desc": "Chaque région sera différente. Embrassez la diversité.",
+    "tip2Title": "Habillez-vous en couches légères",
+    "tip2Desc": "Munnar est froid, Thekkady est humide, les plages sont chaudes.",
+    "tip3Title": "Utilisez les transports locaux",
+    "tip3Desc": "Canoës, jeeps, ferries ajoutent à l'expérience authentique.",
+    "tip4Title": "Mangez local",
+    "tip4Desc": "Les saveurs authentiques vous surprendront agréablement.",
+    "tip5Title": "Déconnectez-vous souvent",
+    "tip5Desc": "Le signal mobile disparaît dans les endroits reculés. C'est un cadeau!",
+    "tip6Title": "Voyagez léger",
+    "tip6Desc": "Vous bougerez fréquemment - gardez vos bagages gérables.",
+    "conclusionTitle": "En Conclusion",
+    "conclusionDesc": "À notre avis, vous êtes à cette phase de la vie où les moments comptent plus que les choses. Nous sommes confiants que ce voyage vous donnera une perspective toute nouvelle.",
+    "conclusionQuote": "Parce que chaque coin du Kerala a sa propre histoire unique. Un pêcheur tirant ses filets. Un enfant saluant depuis une péniche. Une femme joyeuse vendant des épices dans une ruelle tranquille. Ce sont des attractions. Et ce sont aussi la vie dans sa forme la plus simple et la plus belle.",
+    "ctaTitle": "Prêt à Explorer?",
+    "ctaDesc": "Si vous êtes prêt pour une expérience réelle, un voyage partagé avec des personnes réelles et des souvenirs authentiques, alors ce tour du Kerala vous appelle.",
+    "bookNow": "Réservez Votre Place",
+    "enquireNow": "Demander des Informations",
+    "viewFullItinerary": "Voir l'Itinéraire Complet",
+    "youMightAlsoLike": "Vous Pourriez Aussi Aimer",
+    "sikkimTitle": "Tour Sikkim-Darjeeling-Gangtok",
+    "sikkimDesc": "6 nuits/7 jours aventure himalayenne à travers les jardins de thé.",
+    "southGoaTitle": "Exploration Extrême Sud de Goa",
+    "southGoaDesc": "Tour d'une journée sur des plages préservées et island hopping."
+  }
+} as const;
