@@ -13,13 +13,13 @@ export type Destination = {
 /* ---------------- DOMESTIC ---------------- */
 
 export const domesticTrips: Destination[] = [
-  {
+    {
     id: "dom-wilderness-012",
     slug: "wondrous-wildernest-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Wildernesst.webp",
     alt: "Wildernest Nature Resort forest canopy and hill views in the Western Ghats near Goa, India",
-    category: "day-trips",
+    category: "domestic",
     zone: "south",
   },
   {
