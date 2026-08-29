@@ -1,7 +1,7 @@
 {
   "trips": {
     "north-goa-day-excursion": {
-      "rating": "4.8",
+      "rating": "4.6",
       "title": "Nordgoa – Portugiesisches Goa",
       "description": "Entdecken Sie die Strände Calangute, Baga und Anjuna, Fort Aguada, portugiesische Kirchen und den Vagator-Aussichtspunkt auf einem ganztägigen privaten Tour.",
       "duration": "Ganzer Tag"
@@ -15,29 +15,29 @@
     "south-goa-1-day-trip-package": {
       "title": "Palolem Cola Ganztages-Tour",
       "description": "Erleben Sie Inselhopping, Delfinbeobachtung, Butterfly Beach, Kajaktour in der Blue Lagoon von Cola, Agonda Beach und Fort Cabo de Rama auf einem ganztägigen privaten Tour.",
-      "rating": "4.8",
+      "rating": "4.6",
       "duration": "Ganzer Tag"
     },
     "south-goa-1-day-cultural-and-beach-tour-package": {
       "title": "Südgoa Kultur-Tour",
       "description": "Tauchen Sie ein in die UNESCO-Kirchen von Old Goa, die Tempel Shanta Durga und Mangueshi, Miramar Beach, den Dona Paula-Aussichtspunkt und den Panjim-Markt.",
-      "rating": "4.9",
+      "rating": "4.2",
       "duration": "Ganzer Tag"
     },
     "south-goa-day-exursion": {
       "title": "Südgoa Küstenabenteuer",
       "description": "Entdecken Sie Palolem, Butterfly Beach, Kajaktour in der Blue Lagoon von Cola, Fort Cabo de Rama, Galgibaga Schildkrötenstrand und einen atemberaubenden Sonnenuntergang an der Talpona.",
-      "rating": "4.8",
+      "rating": "4.4",
       "duration": "1 Tag"
     },
     "delhi-agra-1n-2d-trip-package": {
       "title": "Delhi nach Agra Tour",
       "description": "Erkunden Sie den ikonischen Taj Mahal bei Sonnenaufgang, Agra Fort, Baby Taj und Mehtab Bagh auf dieser unvergesslichen Reise durch das Mogul-Erbe.",
-      "rating": "4.9",
+      "rating": "4.7",
       "duration": "1 Nacht / 2 Tage"
     },
     "wondrous-wildernest-tour-package": {
-      "rating": "4.8",
+      "rating": "4.7",
       "title": "Wundersame Wildernest-Reise",
       "description": "Tauchen Sie in die Natur ein mit Waldwanderungen, Sonnenuntergangs-Treks, Töpfersitzungen, Henna-Kunst und Abendunterhaltung im Wildernest Naturresort auf Vollpensionsbasis.",
       "duration": "2 Nächte / 3 Tage"
@@ -115,13 +115,13 @@
       "duration": "2 Nächte / 3 Tage"
     },
     "1n-2d-shimoga-trip-package": {
-      "rating": "4.8",
+      "rating": "4.6",
       "title": "Shimoga Natur & Safari",
       "description": "Erkunden Sie die mystischen Felsformationen der Yana-Höhlen, genießen Sie aufregende Jeep- und Boots-Safaris und erleben Sie die majestätischen Jog-Fälle.",
       "duration": "1 Nacht / 2 Tage"
     },
     "aurangabad-day-excursions": {
-      "rating": "4.8",
+      "rating": "4.7",
       "title": "Aurangabad Erbe",
       "description": "Entdecken Sie UNESCO-Weltkulturerbe Ajanta & Ellora-Höhlen, Bibi Ka Maqbara und die historische Daulatabad-Festung.",
       "duration": "1 Nacht / 2 Tage"
@@ -139,25 +139,25 @@
       "duration": "1 Nacht / 2 Tage"
     },
     "7n-8d-vietam-tour-package": {
-      "rating": "4.8",
+      "rating": "4.6",
       "title": "Vietnam Wunder",
       "description": "Umfassende Vietnam-Tour: Hanoi, Halong-Bucht, Da Nang, Hoi An und Ho-Chi-Minh-Stadt. Kulturelle Highlights, landschaftliche Kreuzfahrten und historische Stätten.",
       "duration": "7 Nächte / 8 Tage"
     },
     "vitnam-tour-package-from-goa": {
-      "rating": "4.8",
+      "rating": "4.5",
       "title": "Vietnam Highlights",
       "description": "Die Highlights Vietnams: Hanoi, Halong-Bucht, Da Nang und Hoi An. Perfekt für Reisende mit wenig Zeit, die Vietnams Schönheit erleben möchten.",
       "duration": "5 Nächte / 6 Tage"
     },
     "7n-8d-bhutan-tour-package": {
-      "rating": "4.8",
+      "rating": "4.7",
       "title": "Bhutan – Land des Glücks",
       "description": "Erkunden Sie das mystische Königreich Bhutan: Thimphu, Punakha und Paro. Beinhaltet Wanderung zum ikonischen Tiger's Nest-Kloster und kulturelle Erlebnisse.",
       "duration": "7 Nächte / 8 Tage"
     },
     "nepal-tour-package": {
-      "rating": "4.8",
+      "rating": "4.6",
       "title": "Schönes Nepal",
       "description": "Das Beste Nepals: Kathmandu, Chitwan-Nationalpark und Pokhara. Dschungel-Safari, kulturelle Stätten und Himalaya-Blicke.",
       "duration": "6 Nächte / 7 Tage"
@@ -169,13 +169,13 @@
       "duration": "6 Nächte / 7 Tage"
     },
     "singapore-tour-package": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Klassisches Singapur & Malaysia",
       "description": "Zwei-Städte-Erlebnis mit modernen Wundern, kultureller Vielfalt und tropischer Schönheit. Sentosa-Insel, Universal Studios und Kuala Lumpur-Highlights.",
       "duration": "6 Nächte / 7 Tage"
     },
     "4N-5D-bangkok-tour-package": {
-      "rating": "4.8",
+      "rating": "4.7",
       "title": "Thailand - Bangkok & Pattaya Spezial",
       "description": "Bangkok & Pattaya-Reise mit Sri Racha Zoo, Coral Island und Safari World. Perfekter Kurzurlaub mit Stränden, Tempeln und Unterhaltung.",
       "duration": "4 Nächte / 5 Tage"
@@ -193,7 +193,7 @@
       "duration": "3 Nächte / 4 Tage"
     },
     "8n-9d-turkey-tour-package": {
-      "rating": "4.8",
+      "rating": "4.7",
       "title": "Türkei - Istanbul & Kappadokien",
       "description": "Erkunden Sie Istanbuls historische Stätten und Kappadokiens einzigartige Landschaften. Hagia Sophia, Blaue Moschee und Untergrundstädte.",
       "duration": "8 Nächte / 9 Tage"
@@ -264,55 +264,55 @@
       "duration": "7 Nächte / 8 Tage"
     },
     "dandeli-elephant-day-excursion": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Dandeli Elefanten-Safari",
       "description": "Spannendes Wildtierabenteuer mit Elefanten-Safaris, Wildwasser-Rafting und Dschungel erkunden in Dandelis üppigen Landschaften.",
       "duration": "1 Tag"
     },
     "dudhsagar-waterfal-excursion": {
-      "rating": "4.8",
+      "rating": "4.4",
       "title": "Dudhsagar Wasserfall & Gewürzplantage",
       "description": "Erleben Sie majestätische Dudhsagar-Fälle mit Jeep-Safari durch Bhagwan Mahaveer Sanctuary und authentisches Goan-Mittagessen auf Gewürzplantage.",
       "duration": "1 Tag"
     },
     "mumbai-one-day-excursion": {
-      "rating": "4.8",
+      "rating": "4.6",
       "title": "Mumbai Tagesausflug",
       "description": "Umfassende Mumbai-Tour mit ikonischen Wahrzeichen: Gateway of India, Dharavi Slum, Dhobi Ghat und Nachtzug zurück nach Goa.",
       "duration": "1 Tag"
     },
     "netravali-wildlife-day-excursion": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Netravali Tagesausflug",
       "description": "Erkunden Sie Netravalic mystischen Bubbling Lake, wandern zu unberührten Wasserfällen und entdecken Sie reiche Biodiversität in diesem unberührten Wildschutzgebiet.",
       "duration": "1 Tag"
     },
     "gokarna-murdeshwar-day-excursion": {
-      "rating": "4.8",
+      "rating": "4.1",
       "title": "Gokarna Murdeshwar Ausflug",
       "description": "Spirituelle Reise zum antiken Mahabaleshwar-Tempel in Gokarna und prächtigen Murdeshwar-Tempel mit weltweit höchster Shiva-Statue.",
       "duration": "1 Tag"
     },
     "amritsar-tour-package-from-goa": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Kulturerbe-Tour durch Amritsar",
       "duration": "2 Nächte / 3 Tage",
       "description": "Entdecken Sie die spirituelle und historische Bedeutung von Amritsar mit Besuchen des Goldenen Tempels, des Jallianwala Bagh und weiterer ikonischer Sehenswürdigkeiten."
     },
     "bijapur-heritage-tour": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Kulturerbe-Tour durch Bijapur",
       "duration": "1 Nacht / 2 Tage",
       "description": "Entdecken Sie die spirituelle und historische Bedeutung von Bijapur mit Besuchen des Gol Gumbaz, des Ibrahim Rauza und weiterer ikonischer Monumente."
     },
     "hyderabad-tour-package-from-goa": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Tour durch Hyderabad",
       "duration": "1 Nacht / 2 Tage",
       "description": "Entdecken Sie die spirituelle und historische Bedeutung von Hyderabad mit Besuchen des Charminar, der Golconda-Festung und weiterer ikonischer Orte."
     },
     "jodhpur-tour-package-from-goa": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Kulturerbe-Tour durch Jodhpur",
       "duration": "3 Nächte / 4 Tage",
       "description": "Entdecken Sie die spirituelle und historische Bedeutung von Jodhpur mit Besuchen der Mehrangarh-Festung, des Umaid-Bhawan-Palastes und weiterer ikonischer Orte."
@@ -336,7 +336,7 @@
       "description": "Partez pour une excursion en bateau vers l’île Grand et profitez du snorkeling, jet-ski, banana ride, parachute ascensionnel et observation des dauphins."
     },
     "dandeli-2-day-tour-from-goa": {
-      "rating": "4.8",
+      "rating": "4.9",
       "title": "Safari éléphant et tigre à Dandeli",
       "duration": "1 Nacht / 2 Tage",
       "description": "Vivez une aventure sauvage dans les forêts de Dandeli avec des safaris d’éléphants et de tigres au cœur de paysages naturels spectaculaires."
@@ -360,13 +360,13 @@
       "description": "Découvrez le charme royal du Rajasthan à travers palais majestueux, lacs paisibles, forts imposants et marchés colorés."
     },
     "varanasi-tour-package": {
-      "rating": "4.8",
+      "rating": "4.7",
       "title": "Varanasi – Inde spirituelle",
       "duration": "2 Nächte / 3 Tage",
       "description": "Vivez l’âme spirituelle de l’Inde avec les ghats du Gange, la cérémonie Ganga Aarti, le temple Kashi Vishwanath et Sarnath."
     },
     "mathura-vrindavan-tour": {
-      "rating": "4.8",
+      "rating": "4.6",
       "title": "Circuit Mathura & Vrindavan",
       "duration": "2 Nächte / 3 Tage",
       "description": "Plongez dans la dévotion sur les lieux sacrés de naissance de Krishna avec temples vibrants et expériences spirituelles."

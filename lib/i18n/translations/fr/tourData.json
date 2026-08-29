@@ -13,7 +13,7 @@
           "meta": {
             "duration": "2 Nuits / 3 Jours",
             "locations": "Wildernest Nature Resort, Goa du Nord",
-            "rating": "Note 4,9/5"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "fr",
@@ -226,7 +226,7 @@
           "meta": {
             "duration": "Journée entière",
             "locations": "Goa du Nord",
-            "rating": "Note 4,8/5"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "fr",
@@ -584,7 +584,7 @@
           "meta": {
             "duration": "Journée entière",
             "locations": "5+ îles et plages",
-            "rating": "Note 4,9/5",
+            "rating": "4.6/5 Rating",
             "guide": "Guide russophone"
           }
         },
@@ -775,7 +775,8 @@
           "meta": {
             "duration": "Journée entière (8h00 – 17h30)",
             "locations": "Old Goa, Temples, Plages, Panjim",
-            "includes": "Transport, petit-déjeuner, guide, entrées"
+            "includes": "Transport, petit-déjeuner, guide, entrées",
+            "rating": "4.2/5 Rating"
           }
         },
         "language": "fr",
@@ -941,7 +942,7 @@
           "meta": {
             "duration": "1 jour",
             "locations": "6 lieux",
-            "rating": "Note 4,9/5"
+            "rating": "4.4/5 Rating"
           }
         },
         "language": "fr",
@@ -1110,7 +1111,7 @@
           "meta": {
             "duration": "2 jours",
             "locations": "6+ lieux",
-            "rating": "Note 4,9/5"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "fr",
@@ -1296,7 +1297,7 @@
           "meta": {
             "duration": "1 jour(s)",
             "locations": 4,
-            "rating": "4.7/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "fr",
@@ -1459,7 +1460,7 @@
           "meta": {
             "duration": "1 jour(s)",
             "locations": 3,
-            "rating": "4.9/5 Rating"
+            "rating": "4.4/5 Rating"
           }
         },
         "language": "fr",
@@ -1616,7 +1617,7 @@
           "meta": {
             "duration": "1 jour(s)",
             "locations": 5,
-            "rating": "4.8/5 Rating"
+            "rating": "4.1/5 Rating"
           }
         },
         "language": "fr",
@@ -1785,7 +1786,7 @@
           "backgroundImage": "/assets/hero/Luxury-Yacht-Goa-hero.webp",
           "meta": {
             "duration": "6 heures",
-            "rating": "Note 4.9/5",
+            "rating": "4.8/5 Rating",
             "description": "Profitez d’une croisière premium en yacht avec coucher de soleil, piscine à débordement, DJ en live, dîner gastronomique et transferts depuis l’hôtel."
           }
         },
@@ -1953,7 +1954,7 @@
           "backgroundImage": "/assets/hero/mumbai-hero.webp",
           "meta": {
             "duration": "Full Day",
-            "rating": "4.7/5 Rating",
+            "rating": "4.6/5 Rating",
             "description": "Book a Mumbai Day Tour Package from Goa featuring flights, breakfast, Taj Tea, guided sightseeing, Dharavi tour, markets & iconic landmarks."
           }
         },
@@ -2156,7 +2157,7 @@
           "meta": {
             "duration": "1 jour(s)",
             "locations": 5,
-            "rating": "4.7/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "fr",
@@ -2672,7 +2673,9 @@
           "title": "1 Nuit / 2 Jours Forfait Voyage à Aurangabad avec les grottes d'Ajanta et d'Ellora",
           "subtitle": "Explorez Aurangabad avec les grottes d'Ajanta et d'Ellora",
           "backgroundImage": "/assets/hero/aurangabad-hero.webp",
-          "meta": {}
+          "meta": {
+            "rating": "4.7/5 Rating"
+          }
         },
         "language": "fr",
         "metadata": {
@@ -3260,7 +3263,7 @@
           "backgroundImage": "/assets/hero/Amritsar-hero.webp",
           "meta": {
             "duration": "3 jour(s)",
-            "rating": "4.7/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Experience Amritsar with our 3D/2N tour package—Golden Temple, Jallianwala Bagh, Partition Museum, Wagah Border ceremony & city sightseeing."
           }
         },
@@ -3534,7 +3537,7 @@
           "backgroundImage": "/assets/hero/Bijapur-hero.webp",
           "meta": {
             "duration": "2 jour(s)",
-            "rating": "4.5/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Explore Gol Gumbaz, Aihole & Pattadakal with our 2D/1N Bijapur tour package from Goa. Includes hotel stay, guide, taxi & sightseeing for a perfect heritage getaway"
           }
         },
@@ -3751,7 +3754,7 @@
           "backgroundImage": "/assets/hero/Cabo-hero.webp",
           "meta": {
             "duration": "2 Nights / 3 jour(s)",
-            "rating": "5.0/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "fr",
@@ -3918,7 +3921,7 @@
           "backgroundImage": "/assets/hero/Dandeli-hero.webp",
           "meta": {
             "duration": "2 jour(s)",
-            "rating": "4.6/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Experience a 2D/1N Dandeli tour package with elephant interaction, tiger safari, nature walks, Syntheri Rocks, meals, transport & stay. Perfect wildlife getaway from Goa."
           }
         },
@@ -4961,7 +4964,7 @@
           "backgroundImage": "/assets/hero/Hyderabad-hero.webp",
           "meta": {
             "duration": "2 jour(s)",
-            "rating": "4.6/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }
         },
@@ -5160,7 +5163,7 @@
           "backgroundImage": "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
           "meta": {
             "duration": "4 jour(s)",
-            "rating": "4.7/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Explore Jodhpur and Jaisalmer with our 3N/4D Jodhpur tour package. Visit forts, dunes, temples, and enjoy guided sightseeing with comfortable stays."
           }
         },
@@ -5403,7 +5406,7 @@
           "backgroundImage": "/assets/hero/Jodhpur-Udaipur-hero.webp",
           "meta": {
             "duration": "5 jour(s)",
-            "rating": "4.7/5 Rating",
+            "rating": "4.8/5 Rating",
             "description": "Experience Rajasthan with our 4N/5D Jodhpur & Udaipur tour package. Explore forts, palaces, lakes and heritage sites with hotels, transfers and guided sightseeing."
           }
         },
@@ -6308,7 +6311,7 @@
           "backgroundImage": "/assets/hero/Mathura-Vrindavan-hero.webp",
           "meta": {
             "duration": "3 jour(s)",
-            "rating": "4.8/5 Rating",
+            "rating": "4.6/5 Rating",
             "description": "Book a 3D/2N Mathura Tour Package covering Vrindavan, Govardhan & top Krishna temples. Includes transfers, sightseeing & hotel stay. Perfect spiritual getaway."
           }
         },
@@ -7004,7 +7007,7 @@
           "meta": {
             "duration": "1 Night / 2 jour(s)",
             "locations": 5,
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "fr",
@@ -7485,7 +7488,7 @@
           "meta": {
             "duration": "2 Nights / 3 jour(s)",
             "description": "Explore Kashi Vishwanath, Sarnath, sunrise Ganga boat ride & Ganga Aarti with our 3D/2N Varanasi tour package. Includes hotel stay, transfers & sightseeing.",
-            "rating": "4.9/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "fr",
@@ -7683,7 +7686,7 @@
           "backgroundImage": "/assets/hero/Bangkok3-hero.webp",
           "meta": {
             "duration": "4 jour(s)",
-            "rating": "4.7/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "fr",
@@ -7814,7 +7817,7 @@
           "backgroundImage": "/assets/hero/Bangkok-hero.webp",
           "meta": {
             "duration": "4 Nights / 5 jour(s)",
-            "rating": "4.6/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "fr",
@@ -8096,7 +8099,7 @@
           "backgroundImage": "/assets/hero/Bhutan-hero.webp",
           "meta": {
             "duration": "8 jour(s)",
-            "rating": "4.9/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "fr",
@@ -8252,7 +8255,7 @@
           "backgroundImage": "/assets/hero/Vietnam-7n-hero.webp",
           "meta": {
             "duration": "8 jour(s)",
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "fr",
@@ -8570,7 +8573,7 @@
           "backgroundImage": "/assets/hero/Turkey-hero.webp",
           "meta": {
             "duration": "9 jour(s)",
-            "rating": "4.8/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "fr",
@@ -9195,7 +9198,8 @@
           "subtitle": "5 nuits 6 jours à la découverte des monuments emblématiques de Dubaï avec une offre spéciale de 30 %",
           "backgroundImage": "/assets/hero/dubai-hero.webp",
           "meta": {
-            "duration": "6 jour(s)"
+            "duration": "6 jour(s)",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "fr",
@@ -9788,7 +9792,7 @@
           "backgroundImage": "/assets/hero/Nepal-6N-hero.webp",
           "meta": {
             "duration": "7 jour(s)",
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "fr",
@@ -10086,7 +10090,7 @@
           "backgroundImage": "/assets/hero/Phuket-hero.webp",
           "meta": {
             "duration": "5 jour(s)",
-            "rating": "4.9/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "fr",
@@ -10223,7 +10227,7 @@
           "backgroundImage": "/assets/hero/Singapore-hero.webp",
           "meta": {
             "duration": "7 jour(s)",
-            "rating": "4.8/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "fr",
@@ -10679,7 +10683,7 @@
           "backgroundImage": "/assets/hero/Vietnam-hero.webp",
           "meta": {
             "duration": "6 jour(s)",
-            "rating": "4.7/5 Rating"
+            "rating": "4.5/5 Rating"
           }
         },
         "language": "fr",

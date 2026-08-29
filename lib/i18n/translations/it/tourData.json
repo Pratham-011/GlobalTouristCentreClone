@@ -13,7 +13,7 @@
           "meta": {
             "duration": "2 Notti / 3 Giorni",
             "locations": "Wildernest Nature Resort, Goa del Nord",
-            "rating": "Valutazione 4,9/5"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "it",
@@ -226,7 +226,7 @@
           "meta": {
             "duration": "Giornata intera",
             "locations": "Goa del Nord",
-            "rating": "Valutazione 4,8/5"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "it",
@@ -585,7 +585,7 @@
           "meta": {
             "duration": "Giornata intera",
             "locations": "5+ isole e spiagge",
-            "rating": "Valutazione 4,9/5",
+            "rating": "4.6/5 Rating",
             "guide": "Guida russofona"
           }
         },
@@ -777,7 +777,8 @@
           "meta": {
             "duration": "Giornata intera (8:00 – 17:30)",
             "locations": "Old Goa, Templi, Spiagge, Panjim",
-            "includes": "Trasporto, colazione, guida, ingressi"
+            "includes": "Trasporto, colazione, guida, ingressi",
+            "rating": "4.2/5 Rating"
           }
         },
         "language": "it",
@@ -943,7 +944,7 @@
           "meta": {
             "duration": "1 giorno",
             "locations": "6 luoghi",
-            "rating": "Valutazione 4,9/5"
+            "rating": "4.4/5 Rating"
           }
         },
         "language": "it",
@@ -1112,7 +1113,7 @@
           "meta": {
             "duration": "2 giorni",
             "locations": "6+ luoghi",
-            "rating": "Valutazione 4,9/5"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "it",
@@ -1298,7 +1299,7 @@
           "meta": {
             "duration": "1 giorno/i",
             "locations": 4,
-            "rating": "4.7/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "it",
@@ -1461,7 +1462,7 @@
           "meta": {
             "duration": "1 giorno/i",
             "locations": 3,
-            "rating": "4.9/5 Rating"
+            "rating": "4.4/5 Rating"
           }
         },
         "language": "it",
@@ -1618,7 +1619,7 @@
           "meta": {
             "duration": "1 giorno/i",
             "locations": 5,
-            "rating": "4.8/5 Rating"
+            "rating": "4.1/5 Rating"
           }
         },
         "language": "it",
@@ -1787,7 +1788,7 @@
           "backgroundImage": "/assets/hero/Luxury-Yacht-Goa-hero.webp",
           "meta": {
             "duration": "6 ore",
-            "rating": "Valutazione 4.9/5",
+            "rating": "4.8/5 Rating",
             "description": "Vivi un tour premium in yacht con crociera al tramonto, piscina a sfioro, DJ dal vivo, cena gourmet e trasferimenti dall’hotel."
           }
         },
@@ -1956,7 +1957,7 @@
           "backgroundImage": "/assets/hero/mumbai-hero.webp",
           "meta": {
             "duration": "Full Day",
-            "rating": "4.7/5 Rating",
+            "rating": "4.6/5 Rating",
             "description": "Book a Mumbai Day Tour Package from Goa featuring flights, breakfast, Taj Tea, guided sightseeing, Dharavi tour, markets & iconic landmarks."
           }
         },
@@ -2159,7 +2160,7 @@
           "meta": {
             "duration": "1 giorno/i",
             "locations": 5,
-            "rating": "4.7/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "it",
@@ -2675,7 +2676,9 @@
           "title": "1 Notte / 2 Giorni Pacchetto Viaggio ad Aurangabad con le Grotte di Ajanta ed Ellora",
           "subtitle": "Scopri Aurangabad con le Grotte di Ajanta ed Ellora",
           "backgroundImage": "/assets/hero/aurangabad-hero.webp",
-          "meta": {}
+          "meta": {
+            "rating": "4.7/5 Rating"
+          }
         },
         "language": "it",
         "metadata": {
@@ -3263,7 +3266,7 @@
           "backgroundImage": "/assets/hero/Amritsar-hero.webp",
           "meta": {
             "duration": "3 giorno/i",
-            "rating": "4.7/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Experience Amritsar with our 3D/2N tour package—Golden Temple, Jallianwala Bagh, Partition Museum, Wagah Border ceremony & city sightseeing."
           }
         },
@@ -3537,7 +3540,7 @@
           "backgroundImage": "/assets/hero/Bijapur-hero.webp",
           "meta": {
             "duration": "2 giorno/i",
-            "rating": "4.5/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Explore Gol Gumbaz, Aihole & Pattadakal with our 2D/1N Bijapur tour package from Goa. Includes hotel stay, guide, taxi & sightseeing for a perfect heritage getaway"
           }
         },
@@ -3754,7 +3757,7 @@
           "backgroundImage": "/assets/hero/Cabo-hero.webp",
           "meta": {
             "duration": "2 Nights / 3 giorno/i",
-            "rating": "5.0/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "it",
@@ -3921,7 +3924,7 @@
           "backgroundImage": "/assets/hero/Dandeli-hero.webp",
           "meta": {
             "duration": "2 giorno/i",
-            "rating": "4.6/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Experience a 2D/1N Dandeli tour package with elephant interaction, tiger safari, nature walks, Syntheri Rocks, meals, transport & stay. Perfect wildlife getaway from Goa."
           }
         },
@@ -4964,7 +4967,7 @@
           "backgroundImage": "/assets/hero/Hyderabad-hero.webp",
           "meta": {
             "duration": "2 giorno/i",
-            "rating": "4.6/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }
         },
@@ -5163,7 +5166,7 @@
           "backgroundImage": "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
           "meta": {
             "duration": "4 giorno/i",
-            "rating": "4.7/5 Rating",
+            "rating": "4.9/5 Rating",
             "description": "Explore Jodhpur and Jaisalmer with our 3N/4D Jodhpur tour package. Visit forts, dunes, temples, and enjoy guided sightseeing with comfortable stays."
           }
         },
@@ -5406,7 +5409,7 @@
           "backgroundImage": "/assets/hero/Jodhpur-Udaipur-hero.webp",
           "meta": {
             "duration": "5 giorno/i",
-            "rating": "4.7/5 Rating",
+            "rating": "4.8/5 Rating",
             "description": "Experience Rajasthan with our 4N/5D Jodhpur & Udaipur tour package. Explore forts, palaces, lakes and heritage sites with hotels, transfers and guided sightseeing."
           }
         },
