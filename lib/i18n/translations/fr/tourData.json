@@ -1109,7 +1109,7 @@
           "subtitle": "Vivez la magie du Taj Mahal et de l'architecture moghole dans ce voyage inoubliable",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
-            "duration": "2 jours",
+            "duration": "1 Nuit / 2 Jours",
             "locations": "6+ lieux",
             "rating": "4.7/5 Rating"
           }
@@ -2674,7 +2674,8 @@
           "subtitle": "Explorez Aurangabad avec les grottes d'Ajanta et d'Ellora",
           "backgroundImage": "/assets/hero/aurangabad-hero.webp",
           "meta": {
-            "rating": "4.7/5 Rating"
+            "rating": "4.7/5 Rating",
+            "duration": "1 Nuit / 2 Jours"
           }
         },
         "language": "fr",
@@ -3051,7 +3052,7 @@
           "subtitle": "1 nuit 2 jours à la découverte des sites du patrimoine mondial de l'UNESCO, des grottes d'Ajanta et d'Ellora au départ de Goa",
           "backgroundImage": "/assets/hero/Ajanta-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 Nuit / 2 Jours",
             "rating": "4.8/5 Rating",
             "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
           }
@@ -3262,7 +3263,7 @@
           "subtitle": "2 nuits 3 jours à la découverte du Temple d'Or, de la frontière de Wagah, de Jallianwala Bagh et du patrimoine culturel d'Amritsar",
           "backgroundImage": "/assets/hero/Amritsar-hero.webp",
           "meta": {
-            "duration": "3 jour(s)",
+            "duration": "2 Nuits / 3 Jours",
             "rating": "4.9/5 Rating",
             "description": "Experience Amritsar with our 3D/2N tour package—Golden Temple, Jallianwala Bagh, Partition Museum, Wagah Border ceremony & city sightseeing."
           }
@@ -3387,7 +3388,7 @@
           "subtitle": "Découvrez les plages immaculées et la riche histoire des îles Andaman en 7 jours",
           "backgroundImage": "/assets/hero/Andaman-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.9/5 Rating"
           }
         },
@@ -3536,7 +3537,7 @@
           "subtitle": "1 nuit 2 jours à la découverte de l'historique Bijapur, du site Pattadakal classé au patrimoine mondial de l'UNESCO et des anciens temples d'Aihole",
           "backgroundImage": "/assets/hero/Bijapur-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 Nuit / 2 Jours",
             "rating": "4.9/5 Rating",
             "description": "Explore Gol Gumbaz, Aihole & Pattadakal with our 2D/1N Bijapur tour package from Goa. Includes hotel stay, guide, taxi & sightseeing for a perfect heritage getaway"
           }
@@ -3753,7 +3754,7 @@
           "subtitle": "Découvrez le secret le mieux gardé de Goa : des cottages de luxe avec une vue imprenable sur la mer d'Oman",
           "backgroundImage": "/assets/hero/Cabo-hero.webp",
           "meta": {
-            "duration": "2 Nights / 3 jour(s)",
+            "duration": "2 Nuits / 3 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -3920,7 +3921,7 @@
           "subtitle": "1 nuit 2 jours à la découverte de la réserve faunique de Dandeli avec interaction avec les éléphants et safari avec les tigres",
           "backgroundImage": "/assets/hero/Dandeli-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 Nuit / 2 Jours",
             "rating": "4.9/5 Rating",
             "description": "Experience a 2D/1N Dandeli tour package with elephant interaction, tiger safari, nature walks, Syntheri Rocks, meals, transport & stay. Perfect wildlife getaway from Goa."
           }
@@ -4118,7 +4119,7 @@
           "subtitle": "Découvrez la magie du Taj Mahal et de l'architecture moghole lors de ce voyage inoubliable",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 Nuit / 2 Jours",
             "locations": 6,
             "rating": "4.9/5 Rating"
           }
@@ -4305,7 +4306,7 @@
           "subtitle": "3 nuits 4 jours à la découverte de Delhi, Agra et Jaipur avec visites guidées et expériences culturelles",
           "backgroundImage": "/assets/hero/Golden-Triangle-hero.webp",
           "meta": {
-            "duration": "4 jour(s)",
+            "duration": "3 Nuits / 4 Jours",
             "rating": "4.8/5 Rating",
             "description": "Experience India’s iconic Golden Triangle with our 4D/3N tour package covering Delhi, Agra & Jaipur. Includes sightseeing, hotels, transfers & guided tours."
           }
@@ -4527,7 +4528,7 @@
           "subtitle": "Découvrez les destinations les plus emblématiques de l'Inde - Delhi, Agra et Jaipur lors de ce voyage culturel de 6 jours",
           "backgroundImage": "/assets/hero/Golden-Triangle-hero.webp",
           "meta": {
-            "duration": "6 jour(s)",
+            "duration": "5 Nuits / 6 Jours",
             "locations": 20,
             "rating": "4.9/5 Rating"
           }
@@ -4745,7 +4746,7 @@
           "subtitle": "Découvrez le site de Hampi, classé au patrimoine mondial de l'UNESCO, avec ses ruines antiques et ses paysages époustouflants",
           "backgroundImage": "/assets/hero/Hampi-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 Nuit / 2 Jours",
             "locations": 15,
             "rating": "4.8/5 Rating",
             "description": "Explore Karnataka’s heritage with our 2D/1N Hampi & Badami tour package from Goa. Includes hotel, breakfast, guides, cave temples, Stone Chariot & sightseeing"
@@ -4963,7 +4964,7 @@
           "subtitle": "1 nuit 2 jours à la découverte du patrimoine d'Hyderabad, notamment le fort de Golconde, Charminar et le palais de Chowmahalla",
           "backgroundImage": "/assets/hero/Hyderabad-hero.webp",
           "meta": {
-            "duration": "2 jour(s)",
+            "duration": "1 Nuit / 2 Jours",
             "rating": "4.9/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }
@@ -5162,7 +5163,7 @@
           "subtitle": "3 nuits 4 jours à la découverte de la ville bleue et de la ville dorée du Rajasthan avec safari dans le désert et expériences culturelles",
           "backgroundImage": "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
           "meta": {
-            "duration": "4 jour(s)",
+            "duration": "3 Nuits / 4 Jours",
             "rating": "4.9/5 Rating",
             "description": "Explore Jodhpur and Jaisalmer with our 3N/4D Jodhpur tour package. Visit forts, dunes, temples, and enjoy guided sightseeing with comfortable stays."
           }
@@ -5405,7 +5406,7 @@
           "subtitle": "4 nuits 5 jours à la découverte de Jodhpur et d'Udaipur avec des visites guidées et des expériences culturelles",
           "backgroundImage": "/assets/hero/Jodhpur-Udaipur-hero.webp",
           "meta": {
-            "duration": "5 jour(s)",
+            "duration": "4 Nuits / 5 Jours",
             "rating": "4.8/5 Rating",
             "description": "Experience Rajasthan with our 4N/5D Jodhpur & Udaipur tour package. Explore forts, palaces, lakes and heritage sites with hotels, transfers and guided sightseeing."
           }
@@ -5656,7 +5657,7 @@
           "subtitle": "Découvrez la beauté à couper le souffle du Cachemire avec ce voyage à travers Srinagar, Gulmarg, Pahalgam et Sonamarg",
           "backgroundImage": "/assets/hero/kashmir-5n6d-hero.webp",
           "meta": {
-            "duration": "6 jours",
+            "duration": "5 Nuits / 6 Jours",
             "locations": 4,
             "rating": "4.9/5 note"
           }
@@ -5886,7 +5887,7 @@
           "subtitle": "Découvrez la beauté sereine du Kerala avec ce voyage de 5 nuits et 6 jours à travers Cochin, Munnar, Thekkady et Alleppey",
           "backgroundImage": "/assets/hero/Kerala-hero.webp",
           "meta": {
-            "duration": "6 jour(s)",
+            "duration": "5 Nuits / 6 Jours",
             "locations": 4,
             "rating": "4.8/5 Rating"
           }
@@ -6030,7 +6031,7 @@
           "subtitle": "Découvrez les paysages majestueux et la riche culture du Ladakh lors de ce voyage himalayen de 7 jours",
           "backgroundImage": "/assets/hero/ladakh-hero.webp",
           "meta": {
-            "duration": "7 Jours",
+            "duration": "6 Nuits / 7 Jours",
             "locations": "7+ Emplacements",
             "rating": "4.9/5"
           }
@@ -6180,7 +6181,7 @@
           "subtitle": "Découvrez la beauté immaculée des îles coralliennes de l'Inde avec notre forfait 3 nuits 4 jours",
           "backgroundImage": "/assets/hero/Lakshadweep-hero.webp",
           "meta": {
-            "duration": "3 Nights / 4 jour(s)",
+            "duration": "3 Nuits / 4 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -6310,7 +6311,7 @@
           "subtitle": "Voyage spirituel de 2 nuits et 3 jours au lieu de naissance du Seigneur Krishna avec visites guidées et expériences culturelles",
           "backgroundImage": "/assets/hero/Mathura-Vrindavan-hero.webp",
           "meta": {
-            "duration": "3 jour(s)",
+            "duration": "2 Nuits / 3 Jours",
             "rating": "4.6/5 Rating",
             "description": "Book a 3D/2N Mathura Tour Package covering Vrindavan, Govardhan & top Krishna temples. Includes transfers, sightseeing & hotel stay. Perfect spiritual getaway."
           }
@@ -6537,7 +6538,7 @@
           "subtitle": "Découvrez l'Écosse de l'Est avec des ponts de racines vivants, des rivières de cristal et des safaris animaliers",
           "backgroundImage": "/assets/hero/Meghalaya-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.7/5 Rating"
           }
         },
@@ -6687,7 +6688,7 @@
           "subtitle": "",
           "backgroundImage": "/assets/hero/North-india-hero.webp",
           "meta": {
-            "duration": "10 jour(s)",
+            "duration": "9 Nuits / 10 Jours",
             "rating": "4.9/5 Rating"
           }
         },
@@ -6855,7 +6856,7 @@
           "subtitle": "Découvrez les majestueux forts, palais et culture du Rajasthan en 7 jours",
           "backgroundImage": "/assets/hero/Rajasthan-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -7005,7 +7006,7 @@
           "subtitle": "",
           "backgroundImage": "/assets/hero/Shimoga-hero.webp",
           "meta": {
-            "duration": "1 Night / 2 jour(s)",
+            "duration": "1 Nuit / 2 Jours",
             "locations": 5,
             "rating": "4.6/5 Rating"
           }
@@ -7186,7 +7187,7 @@
           "subtitle": "Découvrez le pays des monastères, des lacs glaciaires et des cols de montagne à couper le souffle",
           "backgroundImage": "/assets/hero/Sikkim-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.9/5 Rating"
           }
         },
@@ -7336,7 +7337,7 @@
           "subtitle": "Découvrez le riche patrimoine, les temples et la beauté naturelle du Tamil Nadu lors de cette exploration de 7 jours",
           "backgroundImage": "/assets/hero/tamil-nadu-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "locations": 15,
             "rating": "4.7/5 Rating"
           }
@@ -7486,7 +7487,7 @@
           "subtitle": "Un voyage spirituel dans l'ancienne ville de Varanasi avec Sarnath, Ganga Aarti, visites de temples et promenade en bateau sur le Gange",
           "backgroundImage": "/assets/hero/Varanasi-hero.webp",
           "meta": {
-            "duration": "2 Nights / 3 jour(s)",
+            "duration": "2 Nuits / 3 Jours",
             "description": "Explore Kashi Vishwanath, Sarnath, sunrise Ganga boat ride & Ganga Aarti with our 3D/2N Varanasi tour package. Includes hotel stay, transfers & sightseeing.",
             "rating": "4.7/5 Rating"
           }
@@ -7685,7 +7686,7 @@
           "subtitle": "Découvrez la vie nocturne animée, les belles îles et les merveilles culturelles de la Thaïlande",
           "backgroundImage": "/assets/hero/Bangkok3-hero.webp",
           "meta": {
-            "duration": "4 jour(s)",
+            "duration": "3 Nuits / 4 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -7816,7 +7817,7 @@
           "subtitle": "Découvrez les villes animées et les plages tropicales de Thaïlande en 5 jours passionnants",
           "backgroundImage": "/assets/hero/Bangkok-hero.webp",
           "meta": {
-            "duration": "4 Nights / 5 jour(s)",
+            "duration": "4 Nuits / 5 Jours",
             "rating": "4.7/5 Rating"
           }
         },
@@ -7954,7 +7955,7 @@
           "subtitle": "Découvrez les villes animées, les toits époustouflants et les merveilles culturelles de Hong Kong et de Macao",
           "backgroundImage": "/assets/hero/HongKong-hero.webp",
           "meta": {
-            "duration": "6 jour(s)",
+            "duration": "5 Nuits / 6 Jours",
             "rating": "4.7/5 Rating"
           }
         },
@@ -8098,7 +8099,7 @@
           "subtitle": "Découvrez le Pays du Dragon Tonnerre : monastères, forteresses et paysages à couper le souffle",
           "backgroundImage": "/assets/hero/Bhutan-hero.webp",
           "meta": {
-            "duration": "8 jour(s)",
+            "duration": "7 Nuits / 8 Jours",
             "rating": "4.7/5 Rating"
           }
         },
@@ -8254,7 +8255,7 @@
           "subtitle": "Explorez Hanoi, Ninh Binh, la baie d'Ha Long, Da Nang, Hoi An et Ho Chi Minh avec croisières, visites et transferts",
           "backgroundImage": "/assets/hero/Vietnam-7n-hero.webp",
           "meta": {
-            "duration": "8 jour(s)",
+            "duration": "7 Nuits / 8 Jours",
             "rating": "4.6/5 Rating"
           }
         },
@@ -8411,7 +8412,7 @@
           "subtitle": "Découvrez le meilleur de la Thaïlande - Bangkok, Pattaya, Krabi et Phuket dans un voyage inoubliable",
           "backgroundImage": "/assets/hero/Thailand-hero.webp",
           "meta": {
-            "duration": "8 jour(s)",
+            "duration": "7 Nuits / 8 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -8572,7 +8573,7 @@
           "subtitle": "Explorez Istanbul, la Cappadoce, Antalya et Pamukkale avec vols, hôtels, visites et transferts privés",
           "backgroundImage": "/assets/hero/Turkey-hero.webp",
           "meta": {
-            "duration": "9 jour(s)",
+            "duration": "8 Nuits / 9 Jours",
             "rating": "4.7/5 Rating"
           }
         },
@@ -8734,7 +8735,7 @@
           "subtitle": "Découvrez le mélange parfait d'histoire ancienne et d'architecture moderne dans la vibrante capitale de l'Azerbaïdjan",
           "backgroundImage": "/assets/hero/Baku-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -8897,7 +8898,7 @@
           "subtitle": "Découvrez l'Île des Dieux avec de superbes plages, des merveilles culturelles et des activités d'aventure",
           "backgroundImage": "/assets/hero/Bali-hero.webp",
           "meta": {
-            "duration": "5 jour(s)",
+            "duration": "4 Nuits / 5 Jours",
             "rating": "4.7/5 Rating"
           }
         },
@@ -9035,7 +9036,7 @@
           "subtitle": "Découvrez des temples anciens, des paysages luxuriants et un riche patrimoine culturel dans deux incroyables pays d'Asie du Sud-Est",
           "backgroundImage": "/assets/hero/Cambodia-hero.webp",
           "meta": {
-            "duration": "9 jour(s)",
+            "duration": "8 Nuits / 9 Jours",
             "rating": "4.7/5 Rating"
           }
         },
@@ -9198,7 +9199,7 @@
           "subtitle": "5 nuits 6 jours à la découverte des monuments emblématiques de Dubaï avec une offre spéciale de 30 %",
           "backgroundImage": "/assets/hero/dubai-hero.webp",
           "meta": {
-            "duration": "6 jour(s)",
+            "duration": "5 Nuits / 6 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -9342,7 +9343,7 @@
           "subtitle": "Découvrez les églises anciennes, la région viticole, les paysages de montagne et l'hospitalité chaleureuse du Caucase",
           "backgroundImage": "/assets/hero/Georgia-hero.webp",
           "meta": {
-            "duration": "8 jour(s)",
+            "duration": "7 Nuits / 8 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -9498,7 +9499,7 @@
           "subtitle": "Découvrez le mélange parfait de culture traditionnelle et d'innovation moderne à Tokyo, Osaka, Kyoto et au-delà",
           "backgroundImage": "/assets/hero/Japan-hero.webp",
           "meta": {
-            "duration": "8 jour(s)",
+            "duration": "7 Nuits / 8 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -9654,7 +9655,7 @@
           "subtitle": "Découvrez la ville aux mille couleurs avec des aventures en montagne, des expériences culturelles et un charme moderne",
           "backgroundImage": "/assets/hero/Almaty-hero.webp",
           "meta": {
-            "duration": "5 jour(s)",
+            "duration": "4 Nuits / 5 Jours",
             "rating": "4.6/5 Rating"
           }
         },
@@ -9791,7 +9792,7 @@
           "subtitle": "Découvrez le royaume himalayen avec notre offre exclusive de 30 % de réduction au départ de Goa",
           "backgroundImage": "/assets/hero/Nepal-6N-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.6/5 Rating"
           }
         },
@@ -9940,7 +9941,7 @@
           "subtitle": "Un voyage spirituel à travers l'Himalaya avec des temples anciens et des paysages à couper le souffle",
           "backgroundImage": "/assets/hero/Muktinath-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -10089,7 +10090,7 @@
           "subtitle": "Découvrez le paradis tropical de la Thaïlande avec notre offre exclusive de 30 % de réduction depuis Goa",
           "backgroundImage": "/assets/hero/Phuket-hero.webp",
           "meta": {
-            "duration": "5 jour(s)",
+            "duration": "4 Nuits / 5 Jours",
             "rating": "4.8/5 Rating"
           }
         },
@@ -10226,7 +10227,7 @@
           "subtitle": "Découvrez le meilleur de Singapour et de Kuala Lumpur lors d'un voyage inoubliable",
           "backgroundImage": "/assets/hero/Singapore-hero.webp",
           "meta": {
-            "duration": "7 jour(s)",
+            "duration": "6 Nuits / 7 Jours",
             "rating": "4.9/5 Rating"
           }
         },
@@ -10383,7 +10384,7 @@
           "subtitle": "Découvrez la perle de l'océan Indien avec des merveilles culturelles, des aventures avec la faune et des plages immaculées",
           "backgroundImage": "/assets/hero/SriLanka-hero.webp",
           "meta": {
-            "duration": "8 jour(s)",
+            "duration": "7 Nuits / 8 Jours",
             "rating": "4.6/5 Rating"
           }
         },
@@ -10539,7 +10540,7 @@
           "subtitle": "Des cheminées de fées de Cappadoce aux merveilles historiques d'Istanbul",
           "backgroundImage": "/assets/hero/Turkey2-hero.webp",
           "meta": {
-            "duration": "6 jour(s)",
+            "duration": "5 Nuits / 6 Jours",
             "rating": "4.9/5 Rating"
           }
         },
@@ -10682,7 +10683,7 @@
           "subtitle": "5 nuits 6 jours à la découverte de Hanoi, de la baie d'Ha Long, de Da Nang et de Hoi An avec des visites guidées et des expériences culturelles",
           "backgroundImage": "/assets/hero/Vietnam-hero.webp",
           "meta": {
-            "duration": "6 jour(s)",
+            "duration": "5 Nuits / 6 Jours",
             "rating": "4.5/5 Rating"
           }
         },

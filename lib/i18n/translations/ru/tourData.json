@@ -11,7 +11,7 @@
           "subtitle": "Незабываемый отдых на 2 ночи и 3 дня в природном курорте Гоа",
           "backgroundImage": "/assets/hero/wildernest-hero.webp",
           "meta": {
-            "duration": "2 ночи / 3 дня",
+            "duration": "2 Ночи / 3 Дня",
             "locations": "Природный курорт Вайлдернест, Северный Гоа",
             "rating": "4.7/5 Rating"
           }
@@ -36,7 +36,7 @@
       "quickInfo": [
         {
           "title": "Продолжительность",
-          "description": "2 ночи / 3 дня"
+          "description": "2 Ночи / 3 Дня"
         },
         {
           "title": "Трансфер",
@@ -1109,7 +1109,7 @@
           "subtitle": "Ощутите магию Тадж-Махала и архитектуры Великих Моголов в этом незабываемом путешествии",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
-            "duration": "2 дня",
+            "duration": "1 Ночь / 2 Дня",
             "locations": "6+ мест",
             "rating": "4.7/5 Rating"
           }
@@ -2670,7 +2670,8 @@
           "subtitle": "Исследуйте Аурангабад с пещерами Аджанта и Эллора",
           "backgroundImage": "/assets/hero/aurangabad-hero.webp",
           "meta": {
-            "rating": "4.7/5 Rating"
+            "rating": "4.7/5 Rating",
+            "duration": "1 Ночь / 2 Дня"
           }
         },
         "language": "ru",
@@ -3048,7 +3049,7 @@
           "subtitle": "1 ночь 2 дня знакомства с объектами всемирного наследия ЮНЕСКО, пещерами Аджанты и Эллоры из Гоа",
           "backgroundImage": "/assets/hero/Ajanta-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 Ночь / 2 Дня",
             "rating": "4.8/5 Rating",
             "description": "Book a 2D/1N Ajanta Ellora tour from Goa with flights, 3-star stay, breakfast, entrance tickets, guide & sightseeing to Bibi Ka Maqbara, Ajanta & Ellora Caves"
           }
@@ -3259,7 +3260,7 @@
           "subtitle": "2 ночи 3 дня с посещением Золотого храма, границы Вагах, Джаллианвала Бага и культурного наследия Амритсара.",
           "backgroundImage": "/assets/hero/Amritsar-hero.webp",
           "meta": {
-            "duration": "3 дн.",
+            "duration": "2 Ночи / 3 Дня",
             "rating": "4.9/5 Rating",
             "description": "Experience Amritsar with our 3D/2N tour package—Golden Temple, Jallianwala Bagh, Partition Museum, Wagah Border ceremony & city sightseeing."
           }
@@ -3384,7 +3385,7 @@
           "subtitle": "Откройте для себя нетронутые пляжи и богатую историю Андаманских островов за 7 дней.",
           "backgroundImage": "/assets/hero/Andaman-hero.webp",
           "meta": {
-            "duration": "7 дн.",
+            "duration": "6 Ночей / 7 Дней",
             "rating": "4.9/5 Rating"
           }
         },
@@ -3533,7 +3534,7 @@
           "subtitle": "1 ночь / 2 дня, посвящённые историческому Биджапуру, объекту Всемирного наследия ЮНЕСКО Паттадаккал и древним храмам Айхоле",
           "backgroundImage": "/assets/hero/Bijapur-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 Ночь / 2 Дня",
             "rating": "4.9/5 Rating",
             "description": "Explore Gol Gumbaz, Aihole & Pattadakal with our 2D/1N Bijapur tour package from Goa. Includes hotel stay, guide, taxi & sightseeing for a perfect heritage getaway"
           }
@@ -3750,7 +3751,7 @@
           "subtitle": "Откройте для себя самый сокровенный секрет Гоа — роскошные коттеджи с захватывающим видом на Аравийское море.",
           "backgroundImage": "/assets/hero/Cabo-hero.webp",
           "meta": {
-            "duration": "2 Nights / 3 дн.",
+            "duration": "2 Ночи / 3 Дня",
             "rating": "4.8/5 Rating"
           }
         },
@@ -3917,7 +3918,7 @@
           "subtitle": "1 ночь / 2 дня знакомства с заповедником дикой природы Дандели, включая общение со слонами и тигровое сафари",
           "backgroundImage": "/assets/hero/Dandeli-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 Ночь / 2 Дня",
             "rating": "4.9/5 Rating",
             "description": "Experience a 2D/1N Dandeli tour package with elephant interaction, tiger safari, nature walks, Syntheri Rocks, meals, transport & stay. Perfect wildlife getaway from Goa."
           }
@@ -4115,7 +4116,7 @@
           "subtitle": "Испытайте волшебство Тадж-Махала и архитектуры Великих Моголов в этом незабываемом путешествии.",
           "backgroundImage": "/assets/hero/Agra-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 Ночь / 2 Дня",
             "locations": 6,
             "rating": "4.9/5 Rating"
           }
@@ -4302,7 +4303,7 @@
           "subtitle": "3 ночи / 4 дня знакомства с Дели, Агрой и Джайпуром с экскурсиями и культурными впечатлениями",
           "backgroundImage": "/assets/hero/Golden-Triangle-hero.webp",
           "meta": {
-            "duration": "4 дн.",
+            "duration": "3 Ночи / 4 Дня",
             "rating": "4.8/5 Rating",
             "description": "Experience India’s iconic Golden Triangle with our 4D/3N tour package covering Delhi, Agra & Jaipur. Includes sightseeing, hotels, transfers & guided tours."
           }
@@ -4524,7 +4525,7 @@
           "subtitle": "Откройте для себя самые знаковые места Индии — Дели, Агру и Джайпур в этом 6-дневном культурном путешествии.",
           "backgroundImage": "/assets/hero/Golden-Triangle-hero.webp",
           "meta": {
-            "duration": "6 дн.",
+            "duration": "5 Ночей / 6 Дней",
             "locations": 20,
             "rating": "4.9/5 Rating"
           }
@@ -4667,7 +4668,7 @@
           "subtitle": "Откройте для себя объект Всемирного наследия ЮНЕСКО Хампи с его древними руинами и живописными пейзажами",
           "backgroundImage": "/assets/hero/Hampi-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 Ночь / 2 Дня",
             "locations": 15,
             "rating": "4.8/5 Rating",
             "description": "Explore Karnataka’s heritage with our 2D/1N Hampi & Badami tour package from Goa. Includes hotel, breakfast, guides, cave temples, Stone Chariot & sightseeing"
@@ -4886,7 +4887,7 @@
           "subtitle": "1 ночь / 2 дня знакомства с историческим наследием Хайдарабада, включая форт Голконда, Чарминар и дворец Чоумахалла",
           "backgroundImage": "/assets/hero/Hyderabad-hero.webp",
           "meta": {
-            "duration": "2 дн.",
+            "duration": "1 Ночь / 2 Дня",
             "rating": "4.9/5 Rating",
             "description": " Book a 1N/2D Hyderabad tour package covering Golconda Fort,Charminar, Chowmahalla Palace, Salar Jung Museum, Hussain Sagar Lake & more"
           }
@@ -5085,7 +5086,7 @@
           "subtitle": "Отправьтесь из Гоа в Джодхпур — город синего цвета — и познакомьтесь с культурой Раджастана. Посетите форт Мехрангарх, дворец Умайд Бхаван и местный базар.",
           "backgroundImage": "/assets/hero/Jodhpur-Jaisalmer-hero.webp",
           "meta": {
-            "duration": "4 дн.",
+            "duration": "3 Ночи / 4 Дня",
             "rating": "4.9/5 Rating",
             "description": "Explore Jodhpur and Jaisalmer with our 3N/4D Jodhpur tour package. Visit forts, dunes, temples, and enjoy guided sightseeing with comfortable stays."
           }
@@ -5329,7 +5330,7 @@
           "subtitle": "4 ночи 5 дней знакомства с Джодхпуром и Удайпуром с экскурсиями и культурными впечатлениями",
           "backgroundImage": "/assets/hero/Jodhpur-Udaipur-hero.webp",
           "meta": {
-            "duration": "5 дн.",
+            "duration": "4 Ночи / 5 Дня",
             "rating": "4.8/5 Rating",
             "description": "Experience Rajasthan with our 4N/5D Jodhpur & Udaipur tour package. Explore forts, palaces, lakes and heritage sites with hotels, transfers and guided sightseeing."
           }
@@ -5576,7 +5577,7 @@
           "subtitle": "Откройте для себя захватывающую красоту Кашмира в этом путешествии по Сринагару, Гульмаргу, Пахалгаму и Сонамаргу",
           "backgroundImage": "/assets/hero/kashmir-5n6d-hero.webp",
           "meta": {
-            "duration": "6 дней",
+            "duration": "5 Ночей / 6 Дней",
             "locations": 4,
             "rating": "4.9/5 рейтинг"
           }
@@ -5806,7 +5807,7 @@
           "subtitle": "Испытайте безмятежную красоту Кералы в этом путешествии на 5 ночей и 6 дней через Кочин, Муннар, Теккади и Аллеппи.",
           "backgroundImage": "/assets/hero/Kerala-hero.webp",
           "meta": {
-            "duration": "6 дн.",
+            "duration": "5 Ночей / 6 Дней",
             "locations": 4,
             "rating": "4.8/5 Rating"
           }
@@ -5950,7 +5951,7 @@
           "subtitle": "Познакомьтесь с величественными пейзажами и богатой культурой Ладакха в этом 7-дневном путешествии по Гималаям.",
           "backgroundImage": "/assets/hero/ladakh-hero.webp",
           "meta": {
-            "duration": "7 Дней",
+            "duration": "6 Ночей / 7 Дней",
             "locations": "7+ Мест",
             "rating": "4.9/5"
           },
