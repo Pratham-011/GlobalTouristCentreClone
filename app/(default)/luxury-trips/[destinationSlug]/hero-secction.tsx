@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import { useI18n } from "@/lib/i18n/context";
 import { luxuryPageContent, LuxurySlug } from "@/lib/data/luxury-page-content";
 import { Header } from "@/components-eng/header";
@@ -27,13 +28,34 @@ export function HeroSection({ slug }: HeroSectionProps) {
         index === 0 && segment === "" ? "" : encodePathSegment(segment)
       )
       .join("/");
+
+  const [useMobileAsset, setUseMobileAsset] = useState(true);
+
+  useEffect(() => {
+    setUseMobileAsset(true);
+  }, [slug]);
+
   if (!pageText || !pageMedia) return null;
   const backgroundBase = encodeAssetPath(pageMedia.image);
+  const mobileBackgroundBase = backgroundBase.replace(/\.(webp|jpg|png|jpeg)$/i, "-mobile.webp");
 
   return (
     <section className="relative w-full h-[60vh] min-h-[500px] flex items-center justify-center overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
+        {useMobileAsset && (
+          <img
+            src={mobileBackgroundBase}
+            alt={pageText.hero.title}
+            width={640}
+            height={800}
+            fetchPriority="high"
+            loading="eager"
+            decoding="async"
+            className="w-full h-full object-cover sm:hidden"
+            onError={() => setUseMobileAsset(false)}
+          />
+        )}
         <img
           src={backgroundBase}
           alt={pageText.hero.title}
@@ -42,7 +64,7 @@ export function HeroSection({ slug }: HeroSectionProps) {
           fetchPriority="high"
           loading="eager"
           decoding="async"
-          className="w-full h-full object-cover"
+          className={`w-full h-full object-cover ${useMobileAsset ? "hidden sm:block" : "block"}`}
         />
         <div className="absolute inset-0 bg-black/50" />
       </div>

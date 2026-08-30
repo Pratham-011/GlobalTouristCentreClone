@@ -5,8 +5,6 @@ import { useState, useRef, useEffect } from "react";
 import { useI18n } from "@/lib/i18n/context";
 import { LanguageSwitcher } from "./language-switcher";
 import { Menu, ChevronDown } from "lucide-react";
-import { Label } from "@/components/ui/label";
-import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import {
   Sheet,
@@ -22,6 +20,7 @@ interface HeroSectionProps {
   title: string;
   subtitle?: string;
   backgroundQuery: string;
+  mobileBackgroundQuery?: string;
   showForm?: boolean;
   alt?: string;
 }
@@ -30,6 +29,7 @@ export function HeroSection({
   title,
   subtitle,
   backgroundQuery,
+  mobileBackgroundQuery,
   showForm = false,
   alt,
 }: HeroSectionProps) {
@@ -37,6 +37,21 @@ export function HeroSection({
   const [isOpen, setIsOpen] = useState(false);
   const [isDestinationsOpen, setIsDestinationsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+
+  const defaultMobileBase = mobileBackgroundQuery
+    ? `/assets/hero/${mobileBackgroundQuery}.webp`
+    : `/assets/hero/${backgroundQuery}-mobile.webp`;
+
+  const [mobileImageSrc, setMobileImageSrc] = useState(defaultMobileBase);
+  const [useMobileAsset, setUseMobileAsset] = useState(true);
+
+  useEffect(() => {
+    const newMobileSrc = mobileBackgroundQuery
+      ? `/assets/hero/${mobileBackgroundQuery}.webp`
+      : `/assets/hero/${backgroundQuery}-mobile.webp`;
+    setMobileImageSrc(newMobileSrc);
+    setUseMobileAsset(true);
+  }, [backgroundQuery, mobileBackgroundQuery]);
 
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
@@ -92,11 +107,29 @@ export function HeroSection({
 
   return (
     <section
-      className="relative min-h-[35vh] sm:min-h-[60vh] flex flex-col"
+      className={`relative flex flex-col bg-black/90 ${
+        useMobileAsset
+          ? "min-h-[320px] max-sm:aspect-[4/5] sm:min-h-[60vh]"
+          : "min-h-[240px] max-sm:aspect-[16/10] sm:min-h-[60vh]"
+      }`}
       aria-label={title}
     >
       {/* Background */}
-      <div className="absolute inset-0 z-0">
+      <div className="absolute inset-0 z-0 overflow-hidden">
+        {useMobileAsset && (
+          <Image
+            src={mobileImageSrc}
+            alt={alt || ""}
+            width={640}
+            height={800}
+            fetchPriority="high"
+            loading="eager"
+            decoding="async"
+            className="w-full h-full object-cover object-center sm:hidden"
+            aria-hidden="true"
+            onError={() => setUseMobileAsset(false)}
+          />
+        )}
         <Image
           src={heroImageBase}
           alt={alt || ""}
@@ -105,11 +138,13 @@ export function HeroSection({
           fetchPriority="high"
           loading="eager"
           decoding="async"
-          className="w-full h-full object-cover"
+          className={`w-full h-full object-cover object-center ${
+            useMobileAsset ? "hidden sm:block" : "block max-sm:object-contain max-sm:bg-black/90"
+          }`}
           aria-hidden="true"
         />
         <div
-          className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/30"
+          className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-black/40 sm:from-black/70 sm:via-black/50 sm:to-black/30"
           aria-hidden="true"
         />
       </div>

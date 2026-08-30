@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { MapPin } from "lucide-react";
 import { Header } from "@/components-eng/header";
@@ -20,6 +21,12 @@ interface PackageHeroProps {
 }
 
 export function PackageHero({ data }: PackageHeroProps) {
+  const [useMobileAsset, setUseMobileAsset] = useState(true);
+
+  useEffect(() => {
+    setUseMobileAsset(true);
+  }, [data?.background_image]);
+
   // Defensive check
   if (!data) return null;
 
@@ -41,11 +48,25 @@ export function PackageHero({ data }: PackageHeroProps) {
   const title = data.title || "Luxury Experience";
   const ctaLink = data.cta_link || "#";
   const backgroundBase = encodeAssetPath(backgroundImage);
+  const mobileBackgroundBase = backgroundBase.replace(/\.(webp|jpg|png|jpeg)$/i, "-mobile.webp");
 
   return (
 <section className="relative h-[60vh] min-h-[500px] w-full flex flex-col items-center justify-end pb-12 md:justify-center md:pb-0 text-center overflow-hidden">
   {/* Background Image */}
   <div className="absolute inset-0 z-0">
+    {useMobileAsset && (
+      <img
+        src={mobileBackgroundBase}
+        alt={title}
+        width={640}
+        height={800}
+        fetchPriority="high"
+        loading="eager"
+        decoding="async"
+        className="w-full h-full object-cover sm:hidden"
+        onError={() => setUseMobileAsset(false)}
+      />
+    )}
     <img
       src={backgroundBase}
       alt={title}
@@ -54,7 +75,7 @@ export function PackageHero({ data }: PackageHeroProps) {
       fetchPriority="high"
       loading="eager"
       decoding="async"
-      className="w-full h-full object-cover"
+      className={`w-full h-full object-cover ${useMobileAsset ? "hidden sm:block" : "block"}`}
     />
 
     {/* Gradient Overlay */}

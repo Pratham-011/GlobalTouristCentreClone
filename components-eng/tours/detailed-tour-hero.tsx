@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import Image from "next/image";
 import { Clock, MapPin, Star } from "lucide-react";
 import { Header } from "../header";
@@ -21,15 +22,34 @@ export function DetailedTourHero({
   backgroundImage,
   meta,
 }: DetailedTourHeroProps) {
+  const mobileBackgroundImage = backgroundImage
+    ? backgroundImage.replace(/\.(webp|jpg|png|jpeg)$/i, "-mobile.webp")
+    : "";
+  const [useMobileAsset, setUseMobileAsset] = useState(true);
+
+  useEffect(() => {
+    setUseMobileAsset(true);
+  }, [backgroundImage]);
+
   return (
     <section className="relative h-[70vh] min-h-[520px] w-full overflow-hidden">
       {/* Background Image */}
+      {useMobileAsset && (
+        <Image
+          src={mobileBackgroundImage}
+          alt={title}
+          fill
+          priority
+          className="object-cover sm:hidden"
+          onError={() => setUseMobileAsset(false)}
+        />
+      )}
       <Image
         src={backgroundImage}
         alt={title}
         fill
         priority
-        className="object-cover"
+        className={`object-cover ${useMobileAsset ? "hidden sm:block" : "block"}`}
       />
 
       {/* Overlay */}
