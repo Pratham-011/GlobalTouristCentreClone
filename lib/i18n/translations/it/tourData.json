@@ -5697,194 +5697,44 @@
           "description": "Colazione e cena giornaliere"
         }
       ],
- itinerary: [
-        {
-          time: "Day 1",
-          title: "Arrivo a Srinagar - Giro turistico di Srinagar",
-          description:
-            "Il nostro servizio inizia con l'arrivo all'aeroporto di Srinagar.Incontra e saluta il nostro rappresentante.Trasferimento all'hotel Srinagar – relax – rinfrescarsi e partire per una gita turistica ai giardini Mughal, Cheshmashahi, Nishat Shalimar, il giardino dei tulipani (il più grande in Asia) e il tempio Shankarcharya sulla cima della collina.Rientro in hotel per la cena ed il pernottamento.",
-          category: "arrival",
-        },
-        {
-          time: "Day 2",
-          title: "Srinagar-Sonamarg",
-          description:
-            "Gita turistica di un'intera giornata a Sonamarg.Sonamarg è un bellissimo viaggio da Srinagar.Sonamarg è chiamato prato d'oro e dove la neve rimane tutto l'anno nel ghiacciaio Thajiwas.Si possono noleggiare cavalli a proprie spese per visitare lì.Più tardi ritorno a Srinagar per cena e pernottamento.",
-          category: "activity",
-        },
-        {
-          time: "Day 3",
-          title: "Srinagar-Gulmarg",
-          description:
-            "Gita turistica di un'intera giornata a Gulmarg.Gulmarg è una delle località estive più belle della valle.È famoso per il suo campo da golf più alto e per lo sci in inverno.Si può fare un giro in gondola (funivia) fino ad Apharwat (13.000 piedi) a proprie spese.Ritorno a Srinagar, check-in in casa galleggiante - relax - partenza per il giro in shikara e godersi il tramonto sul lago Dal.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 4",
-          title: "Srinagar-Pahalgam",
-          description:
-            "Partenza per la gita turistica a Pahalgam, visita del campo di zafferano e delle rovine di Avantipora – check-in in hotel.Più tardi tempo libero a Pahalgam.Goditi la bellezza naturale di Pahalgam oppure puoi fare un giro a cavallo in splendidi luoghi intorno a Pahalgam o andare ad Aru, Baisaran, Betaab Valley e Chandanwari impegnando un veicolo locale al posteggio dei taxi di Pahalgam sul posto a proprie spese.",
-          category: "activity",
-        },
-        {
-          time: "Day 5",
-          title: "Pahalgam-Srinagar",
-          description:
-            "Partenza per Srinagar e check-in nella casa galleggiante Srinagar - relax - partenza per il giro in shikara sul lago Dal per godersi il tramonto - ritorno al pernottamento e cena in casa galleggiante.",
-          category: "activity",
-          highlight: true,
-        },
-        {
-          time: "Day 6",
-          title: "Srinagar - Aeroporto",
-          description:
-            "Dopo la colazione check out e, se il tempo lo consente, shopping e trasferimento all'aeroporto di Srinagar per il proseguimento del viaggio.Il tour si conclude con tanti ricordi meravigliosi e duraturi.",
-          category: "activity",
-        },
-      ],
-      "gallery": [
-        {
-          "title": "Shikara sul lago Dal",
-          "description": "Esperienza iconica del Kashmir",
-          "image": "/assets/destinations/Kashmir/Dal-Lake-Shikara.webp"
-        },
-        {
-          "title": "Funivia di Gulmarg",
-          "description": "Funivia più alta dell'India",
-          "image": "/assets/destinations/Kashmir/Gulmarg-Gondola.webp"
-        },
-        {
-          "title": "Valle di Sonamarg",
-          "description": "Prato d'Oro",
-          "image": "/assets/destinations/Kashmir/Sonamarg-Valley.webp"
-        },
-        {
-          "title": "Pahalgam",
-          "description": "Valle dei pastori",
-          "image": "/assets/destinations/Kashmir/Pahalgam.webp"
-        },
-        {
-          "title": "Giardino dei tulipani",
-          "description": "Il più grande dell'Asia",
-          "image": "/assets/destinations/Kashmir/Tulip-Garden.webp"
-        }
-      ],
-      "inclusions": [
-        {
-          "title": "Alloggio",
-          "description": "4 notti in hotel + 1 notte in houseboat in base doppia"
-        },
-        {
-          "title": "Giro in shikara",
-          "description": "1 ora di shikara sul lago Dal per godersi il tramonto"
-        },
-        {
-          "title": "Trasporto privato",
-          "description": "Tutti i trasferimenti e le visite turistiche con veicolo privato"
-        },
-        {
-          "title": "Pasti giornalieri",
-          "description": "Colazione e cena giornaliere durante il soggiorno in hotel (base MAP)"
-        },
-        {
-          "title": "Trasferimenti aeroportuali",
-          "description": "Tutti i trasferimenti di arrivo/partenza come da itinerario"
-        },
-        {
-          "title": "Tutte le tasse",
-          "description": "Tutte le tasse applicabili incluse nel pacchetto"
-        }
-      ]
-    },
-    "kerala-tour-package-from-goa": {
-      "file_name": "Kerala-5N6D-Trip.html",
-      "page": {
-        "slug": "Kerala-5N6D-Trip",
-        "type": "domestic-trip",
-        "hero": {
-          "title": "Pacchetto Viaggio nel Kerala 6 Giorni",
-          "subtitle": "Scopri la serena bellezza del Kerala con questo viaggio di 5 notti e 6 giorni attraverso Cochin, Munnar, Thekkady e Alleppey",
-          "backgroundImage": "/assets/hero/Kerala-hero.webp",
-          "meta": {
-            "duration": "5 Notti / 6 Giorni",
-            "locations": 4,
-            "rating": "4.8/5 Rating"
-          }
-        },
-        "language": "it",
-        "metadata": {
-          "title": "Tour di gruppo Kerala da Goa – 6 giorni di bellezza scenica",
-          "description": "Scopri la bellezza serena del Kerala con questo viaggio di 5 notti e 6 giorni tra Cochin, Munnar, Thekkady e Alleppey."
-        }
-      },
-      "cta": {
-        "headline": "Pronto per la tua avventura in Kerala?",
-        "description": "Prenota ora e assicurati il ​​tuo posto per un indimenticabile viaggio di 6 giorni attraverso il Paese di Dio",
-        "contact": {
-          "whatsapp": {
-            "number": "+919067972295",
-            "message": "CIAO!Sono interessato al tuo pacchetto turistico Kerala 5N6D.Per favore mandami i dettagli."
-          },
-          "phone": "+919067972295"
-        }
-      },
-      "quickInfo": [
-        {
-          "title": "Hotel a 3 stelle",
-          "description": "Sistemazione premium"
-        },
-        {
-          "title": "Trasporto privato",
-          "description": "Veicolo berlina AC"
-        },
-        {
-          "title": "Soggiorno in casa galleggiante",
-          "description": "Alleppey Backwaters"
-        },
-        {
-          "title": "Colazione quotidiana",
-          "description": "Tutti i pasti sulla casa galleggiante"
-        }
-      ],
-      "itinerary": [
+ "itinerary": [
         {
           "time": "Day 1",
-          "title": "Arrivo a Cochin – Visita Cochin",
-          "description": "Arrivo all'aeroporto/stazione ferroviaria di Cochin.Trasferimento al tuo hotel.Esplora Cochin con visite turistiche locali: Fort Kochi e le iconiche reti da pesca cinesi, Mattancherry Palace (Palazzo olandese), Sinagoga ebraica (chiusa il venerdì e il sabato), Chiesa di San Francesco, Marine Drive e goditi una serena vista del tramonto.",
+          "title": "Прибытие в Шринагар - осмотр достопримечательностей Шринагара",
+          "description": "Наше обслуживание начинается с прибытия в аэропорт Шринагара.Знакомьтесь и приветствуйте нашего представителя.Трансфер в отель Шринагара – расслабьтесь – освежитесь и отправляйтесь на экскурсию в сады Великих Моголов, Чешмашахи, Нишат Шалимар, сад тюльпанов (самый большой в Азии) и храм Шанкарчарья на вершине холма.Возвращение в отель на ужин и ночлег.",
           "category": "arrival"
         },
         {
           "time": "Day 2",
-          "title": "Da Cochin a Munnar (circa 4,5 ore di guida)",
-          "description": "Dopo la colazione, partenza per Munnar, passando per cascate panoramiche e lussureggianti piantagioni di spezie.Visite lungo il percorso: cascate di Cheeyappara e Valara, punto panoramico di Karadippara.Check-in in Hotel e relax.Serata libera per svago o passeggiata nella natura.",
+          "title": "Шринагар – Сонамарг",
+          "description": "Обзорная поездка на целый день в Сонамарг.Сонамарг — прекрасная поездка из Сринагара.Сонамарг называют золотым лугом, где снег лежит круглый год на леднике Тадживас.Для посещения туда можно нанять лошадей за свой счет.Позже возвращение в Шринагар на ужин и ночлег.",
           "category": "activity"
         },
         {
           "time": "Day 3",
-          "title": "Giro turistico di Munnar",
-          "description": "Dopo la colazione, goditi un'intera giornata esplorando Munnar: Parco Nazionale Eravikulam (chiuso da febbraio a marzo per la stagione riproduttiva), Museo del tè, Mattupetty Dam ed Echo Point, Lago Kundala, Photo Point e Blossom Park.Attività facoltative: giro in elefante o in barca (a pagamento diretto).",
+          "title": "Шринагар – Гульмарг",
+          "description": "Обзорная поездка на целый день в Гульмарг.Гульмарг – один из самых красивых летних курортов долины.Он популярен благодаря своему высокому полю для гольфа и катанию на лыжах зимой.Можно совершить поездку на гондоле (канатной дороге) до Афарвата (13000 футов) за свой счет.Возвращение в Сринагар, регистрация в плавучем доме, отдых, отправление на шикару, наслаждаясь закатом на озере Дал.",
           "category": "activity",
           "highlight": true
         },
         {
           "time": "Day 4",
-          "title": "Da Munnar a Thekkady (circa 3,5 ore di guida)",
-          "description": "Check out dopo colazione e partenza per Thekkady.Check-in presso il tuo hotel.Visita turistica di Thekkady: Periyar Wildlife Sanctuary con giro in barca opzionale sul lago Periyar (a proprie spese), esplorazione delle piantagioni di spezie.Attività facoltative: spettacoli culturali Kathakali o Kalaripayattu la sera.",
-          "category": "wildlife"
+          "title": "Шринагар – Пахалгам",
+          "description": "Отправление на обзорную поездку в Пахалгам, по пути посещение шафранового поля, руин Авантипоры – заселение в отель.Позже свободное время в Пахалгаме.Наслаждайтесь природной красотой Пахалгама или отправляйтесь на лошадях по красивым местам вокруг Пахалгама или отправляйтесь в Ару, Байсаран, долину Бетааб и Чанданвари, воспользовавшись местным автомобилем на стоянке такси Пахалгама за свой счет.",
+          "category": "activity"
         },
         {
           "time": "Day 5",
-          "title": "Da Thekkady ad Alleppey – Soggiorno in casa galleggiante",
-          "description": "Dopo la colazione partenza per Alleppey.Check-in in una casa galleggiante deluxe con aria condizionata condivisa.Goditi una crociera memorabile attraverso gli stagni, i canali e i paesaggi dei villaggi di Alleppey.Assapora l'autentica cucina del Kerala a pranzo, tè/snack serali e cena a bordo.",
+          "title": "Пахалгам - Шринагар",
+          "description": "Отправление в Сринагар и регистрация в плавучем доме. Сринагар - расслабьтесь - отправляйтесь на прогулку на шикаре по озеру Дал, чтобы насладиться закатом - возвращение на ночлег и ужин в плавучем доме.",
           "category": "activity",
           "highlight": true
         },
         {
           "time": "Day 6",
-          "title": "Da Alleppey a Cochin – Partenza",
-          "description": "Fai colazione a bordo.Sbarco dalla casa galleggiante alle 9:00.Ritorno a Cochin (circa 1,5 ore).Rientro all'aeroporto/stazione ferroviaria di Cochin per il viaggio di ritorno.",
-          "category": "travel"
+          "title": "Шринагар - Аэропорт",
+          "description": "После завтрака выезд, если позволяет время, шопинг и трансфер в аэропорт Сринагара для дальнейшего путешествия.Тур заканчивается множеством замечательных и долгих воспоминаний.",
+          "category": "activity"
         }
       ],
       "gallery": [
