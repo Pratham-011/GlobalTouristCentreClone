@@ -298,12 +298,6 @@ export const metaData: Record<string, any> = {
       rating: "4.6/5 Rating",
     },
   },
-  // "nepal-muktinath-special": {
-  //   meta: {
-  //     duration: "7 Days",
-  //     rating: "4.8/5 Rating",
-  //   },
-  // },
   "phuket-krabi-tour-package": {
     meta: {
       duration: "5 Days",
