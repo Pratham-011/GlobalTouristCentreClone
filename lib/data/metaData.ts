@@ -9,7 +9,7 @@ export const metaData: Record<string, any> = {
   "north-goa-day-excursion": {
     meta: {
       duration: "Full Day",
-      rating: "4.8/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   "4N-5D-bangkok-tour-package": {
@@ -39,19 +39,19 @@ export const metaData: Record<string, any> = {
   "7n-8d-bhutan-tour-package": {
     meta: {
       duration: "8 Days",
-      rating: "4.9/5 Rating",
+      rating: "4.7/5 Rating",
     },
   },
   "7n-8d-vietam-tour-package": {
     meta: {
       duration: "8 Days",
-      rating: "4.7/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   "8n-9d-turkey-tour-package": {
     meta: {
       duration: "8 Nights / 9 Days",
-      rating: "4.8/5 Rating",
+      rating: "4.7/5 Rating",
     },
   },
   "ajanta-ellora-caves-tour-from-goa": {
@@ -63,7 +63,7 @@ export const metaData: Record<string, any> = {
   "amritsar-tour-package-from-goa": {
     meta: {
       duration: "3 Days",
-      rating: "4.7/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "andaman-nicobar-tour-package": {
@@ -81,7 +81,7 @@ export const metaData: Record<string, any> = {
   "cabo-serai-2n-3d-luxury-getaway": {
     meta: {
       duration: "2 Nights / 3 Days",
-      rating: "5.0/5 Rating",
+      rating: "4.8/5 Rating",
     },
   },
   "combodia-tour-package": {
@@ -94,20 +94,20 @@ export const metaData: Record<string, any> = {
     meta: {
       duration: "1 Day",
       locations: 4,
-      rating: "4.7/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "dandeli-2-day-tour-from-goa": {
     meta: {
       duration: "2 Days",
-      rating: "4.6/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "delhi-agra-1n-2d-trip-package": {
     meta: {
       duration: "2 Days",
       locations: 6,
-      rating: "4.9/5 Rating",
+      rating: "4.7/5 Rating",
     },
   },
   "dubai-tour-package": {
@@ -119,7 +119,7 @@ export const metaData: Record<string, any> = {
     meta: {
       duration: "1 Day",
       locations: 3,
-      rating: "4.9/5 Rating",
+      rating: "4.4/5 Rating",
     },
   },
   "georgia-tour-package": {
@@ -132,13 +132,13 @@ export const metaData: Record<string, any> = {
     meta: {
       duration: "1 Day",
       locations: 5,
-      rating: "4.8/5 Rating",
+      rating: "4.1/5 Rating",
     },
   },
   "golden-triangle-4-day-tour-from-goa": {
     meta: {
       duration: "4 Days",
-      rating: "4.8/5 Rating",
+      rating: "4.7/5 Rating",
     },
   },
   "hampi-day-excursions": {
@@ -157,7 +157,7 @@ export const metaData: Record<string, any> = {
   "jodhpur-udaipur-tour-package": {
     meta: {
       duration: "5 Tage",
-      rating: "4.7/5 Rating",
+      rating: "4.8/5 Rating",
     },
   },
   "kashmir-tour-package-from-goa": {
@@ -183,31 +183,33 @@ export const metaData: Record<string, any> = {
   "mumbai-one-day-excursion": {
     meta: {
       duration: "Full Day",
-      rating: "4.7/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   "netravali-wildlife-day-excursion": {
     meta: {
       duration: "1 Day",
       locations: 5,
-      rating: "4.7/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "south-goa-1-day-cultural-and-beach-tour-package": {
     meta: {
       duration: "Full Day (8:00 AM – 5:30 PM)",
+    
+      locations: 3,
     },
   },
   "south-goa-1-day-trip-package": {
     meta: {
       duration: "Full Day",
-      rating: "4.9/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   "bijapur-heritage-tour": {
     meta: {
       duration: "2 Days",
-      rating: "4.5/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "hyderabad-trip": {
@@ -219,7 +221,7 @@ export const metaData: Record<string, any> = {
   "jodhpur-tour-package-from-goa": {
     meta: {
       duration: "4 Days",
-      rating: "4.7/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "kerala-tour-package-from-goa": {
@@ -232,13 +234,13 @@ export const metaData: Record<string, any> = {
   "lakshadweep-islands-tour-package": {
     meta: {
       duration: "3 Nights / 4 Days",
-      rating: "4.8/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "mathura-vrindavan-tour": {
     meta: {
       duration: "3 Days",
-      rating: "4.8/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   "meghalaya-tour-package-from-goa": {
@@ -250,7 +252,7 @@ export const metaData: Record<string, any> = {
   "north-india-heritage-tour-from-goa": {
     meta: {
       duration: "10 Days",
-      rating: "4.9/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   "rajasthan-royal-tour-from-goa": {
@@ -263,13 +265,13 @@ export const metaData: Record<string, any> = {
     meta: {
       duration: "1 Night / 2 Days",
       locations: 5,
-      rating: "4.7/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   "sikkim-darjeeling-gangtok-tour-from-goa": {
     meta: {
       duration: "7 Days",
-      rating: "4.9/5 Rating",
+      rating: "4.8/5 Rating",
     },
   },
   "tamil-nadu-tour-package": {
@@ -293,7 +295,7 @@ export const metaData: Record<string, any> = {
   "nepal-tour-package": {
     meta: {
       duration: "7 Days",
-      rating: "4.7/5 Rating",
+      rating: "4.6/5 Rating",
     },
   },
   // "nepal-muktinath-special": {
@@ -305,13 +307,13 @@ export const metaData: Record<string, any> = {
   "phuket-krabi-tour-package": {
     meta: {
       duration: "5 Days",
-      rating: "4.9/5 Rating",
+      rating: "4.8/5 Rating",
     },
   },
   "singapore-tour-package": {
     meta: {
       duration: "7 Days",
-      rating: "4.8/5 Rating",
+      rating: "4.9/5 Rating",
     },
   },
   "srilanka-tour-package": {
@@ -329,7 +331,7 @@ export const metaData: Record<string, any> = {
   "vitnam-tour-package-from-goa": {
     meta: {
       duration: "6 Days",
-      rating: "4.7/5 Rating",
+      rating: "4.5/5 Rating",
     },
   },
   "golden-triangle-tour-from-goa": {
@@ -347,6 +349,14 @@ export const metaData: Record<string, any> = {
   "south-goa-sunset-cruise": {
     meta: {
       duration: "Full Day Trip (08:00 – 20:00)",
+    },
+  },
+
+  "aurangabad-day-excursions": {
+    meta: {
+      duration: "2 Days",
+      locations: 5,
+      rating: "4.7/5 Rating",
     },
   },
 };

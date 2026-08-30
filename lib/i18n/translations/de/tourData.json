@@ -774,7 +774,7 @@
           "backgroundImage": "/assets/hero/Goa-Sightseeing-hero.webp",
           "meta": {
             "duration": "Ganzer Tag (8:00 – 17:30 Uhr)",
-            "locations": "Old Goa, Tempel, Strände, Panjim",
+            "locations": "3",
             "includes": "Transport, Frühstück, Reiseführer, Eintritte",
             "rating": "4.2/5 Rating"
           }
@@ -2676,7 +2676,8 @@
           "backgroundImage": "/assets/hero/aurangabad-hero.webp",
           "meta": {
             "rating": "4.7/5 Rating",
-            "duration": "1 Nacht / 2 Tage"
+            "duration": "2 Tage",
+            "locations": "5"
           }
         },
         "language": "de",
@@ -4308,7 +4309,7 @@
           "backgroundImage": "/assets/hero/Golden-Triangle-hero.webp",
           "meta": {
             "duration": "3 Nächte / 4 Tage",
-            "rating": "4.8/5 Rating",
+            "rating": "4.7/5 Rating",
             "description": "Experience India’s iconic Golden Triangle with our 4D/3N tour package covering Delhi, Agra & Jaipur. Includes sightseeing, hotels, transfers & guided tours."
           }
         },
@@ -5587,50 +5588,6 @@
           "description": "Tägliches Frühstück und Abendessen"
         }
       ],
-      "price": {
-        "domestic": {
-          "badge": "Indischer Reisender",
-          "packageName": "Kashmir Value Package",
-          "amount": "₹16,999",
-          "currency": "INR",
-          "per": "Person",
-          "note": "Doppelzimmer · ab-Preis, zzgl. GST",
-          "points": [
-            "Sedan/Innova ohne Klimaanlage für alle Transfers und Besichtigungen",
-            "Tägliches Frühstück und Abendessen mit kaschmirischen Thali-Optionen",
-            "Besuch der Mogulgärten, des Tulpengartens und des Shankaracharya-Tempels",
-            "1 Nacht Hausboot mit Shikara-Fahrt bei Sonnenuntergang"
-          ],
-          "cta": {
-            "label": "Genaues Angebot anfordern",
-            "whatsapp": {
-              "number": "+919067972295",
-              "message": "Hallo! Ich interessiere mich für das Kashmir-Paket für indische Reisende."
-            }
-          }
-        },
-        "international": {
-          "badge": "Internationaler Reisender",
-          "packageName": "Kashmir Discovery Package",
-          "amount": "$ 349",
-          "currency": "USD",
-          "per": "Person",
-          "note": "Doppelzimmer · ab-Preis, zzgl. Steuern",
-          "points": [
-            "Privater englischsprachiger Guide an jedem Besichtigungstag",
-            "Genehmigungsformalitäten für Sperrzonen auf der Strecke werden erledigt",
-            "Premium-Heritage-Hausboot mit seeseitiger Terrasse",
-            "Stadtspaziergang durch Alt-Srinagar und Besuch einer Handwerks-Werkstatt"
-          ],
-          "cta": {
-            "label": "Genaues Angebot anfordern",
-            "whatsapp": {
-              "number": "+919067972295",
-              "message": "Hallo! Ich interessiere mich für das Kashmir-Paket für internationale Reisende."
-            }
-          }
-        }
-      },
       "itinerary": {
         "domestic": [
           {
@@ -5923,7 +5880,7 @@
           "meta": {
             "duration": "6 Nächte / 7 Tage",
             "locations": "7+ Orte",
-            "rating": "4.9/5"
+            "rating": "4.8/5"
           }
         },
         "language": "de",
@@ -6072,7 +6029,7 @@
           "backgroundImage": "/assets/hero/Lakshadweep-hero.webp",
           "meta": {
             "duration": "3 Nächte / 4 Tage",
-            "rating": "4.8/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "de",
@@ -6579,7 +6536,7 @@
           "backgroundImage": "/assets/hero/North-india-hero.webp",
           "meta": {
             "duration": "9 Nächte / 10 Tage",
-            "rating": "4.9/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "de",
@@ -7078,7 +7035,7 @@
           "backgroundImage": "/assets/hero/Sikkim-hero.webp",
           "meta": {
             "duration": "6 Nächte / 7 Tage",
-            "rating": "4.9/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "de",
@@ -8631,8 +8588,8 @@
         },
         "language": "de",
         "metadata": {
-          "title": "Bali 6N/7T Reisepaket – 30% Rabatt nur für Goa-Bewohner | Jetzt buchen",
-          "description": "Erleben Sie Bali mit diesem 6N/7T Reisepaket mit exklusiven 30% Rabatt nur für Bewohner von Goa – genießen Sie Strände, Tempel, Wassersport und Inselrundfahrten. Begrenztes Angebot – jetzt buchen!"
+          "title": " 4N/5T Baku Luxustour – 30% Rabatt nur für Einwohner von Goa",
+          "description": "Erkunden Sie Aserbaidschan mit unserem 6N/7T Baku Tour-Paket. Besuchen Sie Gabala, Sheki, Shahdag, Quba, Gobustan, Yanar Dag und ikonische Baku-Attraktionen. Jetzt buchen!"
         }
       },
       "cta": {

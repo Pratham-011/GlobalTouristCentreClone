@@ -51,7 +51,7 @@ export function PackageHero({ data }: PackageHeroProps) {
   const mobileBackgroundBase = backgroundBase.replace(/\.(webp|jpg|png|jpeg)$/i, "-mobile.webp");
 
   return (
-<section className="relative h-[60vh] min-h-[500px] w-full flex flex-col items-center justify-end pb-12 md:justify-center md:pb-0 text-center overflow-hidden">
+<section className="relative h-[48vh] min-h-[360px] sm:h-[60vh] sm:min-h-[500px] w-full flex flex-col items-center justify-end pb-6 sm:pb-12 md:justify-center md:pb-0 text-center overflow-hidden">
   {/* Background Image */}
   <div className="absolute inset-0 z-0">
     {useMobileAsset && (
