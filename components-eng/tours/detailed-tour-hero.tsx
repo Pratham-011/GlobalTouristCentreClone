@@ -32,7 +32,7 @@ export function DetailedTourHero({
   }, [backgroundImage]);
 
   return (
-    <section className="relative h-[48vh] min-h-[360px] sm:h-[70vh] sm:min-h-[520px] w-full overflow-hidden">
+    <section className="relative h-[70vh] min-h-[520px] w-full overflow-hidden">
       {/* Background Image */}
       {useMobileAsset && (
         <Image
@@ -59,7 +59,7 @@ export function DetailedTourHero({
       {/* Content */}
       <div className="relative z-10 h-full">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-end">
-          <div className="pb-6 sm:pb-16 max-w-3xl text-white">
+          <div className="pb-16 max-w-3xl text-white">
             {/* Title */}
             <h1 className="font-serif text-2xl sm:text-5xl md:text-5xl lg:text-6xl font-bold leading-tight">
               {title}
