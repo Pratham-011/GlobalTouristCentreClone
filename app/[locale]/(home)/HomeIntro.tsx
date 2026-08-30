@@ -72,7 +72,7 @@ const travelCollections: TravelCollection[] = [
   /* ================= SHORT STAYS ================= */
   {
     id: "cabo-serai-2n-3d-luxury-getaway",
-    href: "/destinations/day-trips/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
+    href: "/destinations/domestic/cabo-serai-2n-3d-luxury-getaway", // matches dom-goa-serai-018.slug
     imageUrl: "/assets/destinations/Thumbnails/SeraiCabo.webp",
     alt: "Luxury wooden villa interior with sea view balcony and palm trees at Cabo de Rama cliffside retreat, South Goa",
   },
