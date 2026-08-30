@@ -392,7 +392,8 @@
           "meta": {
             "duration": "Full Day Trip (08:00 – 20:00)",
             "groupSize": "Minimum 5 persons",
-            "highlight": "Includes Sunset Cruise"
+            "highlight": "Includes Sunset Cruise",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "en",
@@ -11172,7 +11173,8 @@
           "subtitle": "Full Day Trip (8:00 AM – 8:00 PM) with Sunset Cruise on Mandovi River",
           "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
           "meta": {
-            "duration": "Full Day Trip (08:00 – 20:00)"
+            "duration": "Full Day Trip (08:00 – 20:00)",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "en",
@@ -11340,7 +11342,8 @@
           "subtitle": "Full Day Trip (8:00 AM – 8:00 PM) with Sunset Cruise on Mandovi River",
           "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
           "meta": {
-            "duration": "Full Day Trip (08:00 – 20:00)"
+            "duration": "Full Day Trip (08:00 – 20:00)",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "en",

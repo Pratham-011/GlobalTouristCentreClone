@@ -392,7 +392,8 @@
           "meta": {
             "duration": "Journée entière (08h00 – 20h00)",
             "groupSize": "Minimum 5 personnes",
-            "highlight": "Croisière au coucher du soleil incluse"
+            "highlight": "Croisière au coucher du soleil incluse",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "fr",
@@ -2506,7 +2507,8 @@
           "subtitle": "Excursion d'une journée complète (8h00 – 20h00) avec croisière au coucher du soleil sur la rivière Mandovi",
           "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
           "meta": {
-            "duration": "Full Day Trip (08:00 – 20:00)"
+            "duration": "Full Day Trip (08:00 – 20:00)",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "fr",

@@ -392,7 +392,8 @@
           "meta": {
             "duration": "Giornata intera (08:00 – 20:00)",
             "groupSize": "Minimo 5 persone",
-            "highlight": "Crociera al tramonto inclusa"
+            "highlight": "Crociera al tramonto inclusa",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "it",
@@ -2509,7 +2510,8 @@
           "subtitle": "Gita di un giorno intero (8:00 - 20:00) con crociera al tramonto sul fiume Mandovi",
           "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
           "meta": {
-            "duration": "Full Day Trip (08:00 – 20:00)"
+            "duration": "Full Day Trip (08:00 – 20:00)",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "it",
@@ -6221,7 +6223,7 @@
           "backgroundImage": "/assets/hero/Lakshadweep-hero.webp",
           "meta": {
             "duration": "3 Nights / 4 giorno/i",
-            "rating": "4.8/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "it",
@@ -6429,7 +6431,7 @@
           "backgroundImage": "/assets/hero/Mathura-Vrindavan-hero.webp",
           "meta": {
             "duration": "3 giorno/i",
-            "rating": "4.8/5 Rating",
+            "rating": "4.6/5 Rating",
             "description": "Book a 3D/2N Mathura Tour Package covering Vrindavan, Govardhan & top Krishna temples. Includes transfers, sightseeing & hotel stay. Perfect spiritual getaway."
           }
         },
@@ -6876,7 +6878,7 @@
           "backgroundImage": "/assets/hero/North-india-hero.webp",
           "meta": {
             "duration": "10 giorno/i",
-            "rating": "4.9/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "it",
@@ -7405,7 +7407,7 @@
           "meta": {
             "duration": "1 Night / 2 giorno/i",
             "locations": 5,
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "it",
@@ -8077,7 +8079,7 @@
           "meta": {
             "duration": "2 Nights / 3 giorno/i",
             "description": "Explore Kashi Vishwanath, Sarnath, sunrise Ganga boat ride & Ganga Aarti with our 3D/2N Varanasi tour package. Includes hotel stay, transfers & sightseeing.",
-            "rating": "4.9/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "it",
@@ -8272,7 +8274,7 @@
           "backgroundImage": "/assets/hero/Bangkok3-hero.webp",
           "meta": {
             "duration": "4 giorno/i",
-            "rating": "4.7/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "it",
@@ -8403,7 +8405,7 @@
           "backgroundImage": "/assets/hero/Bangkok-hero.webp",
           "meta": {
             "duration": "4 Nights / 5 giorno/i",
-            "rating": "4.6/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "it",
@@ -8685,7 +8687,7 @@
           "backgroundImage": "/assets/hero/Bhutan-hero.webp",
           "meta": {
             "duration": "8 giorno/i",
-            "rating": "4.9/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "it",
@@ -8841,7 +8843,7 @@
           "backgroundImage": "/assets/hero/Vietnam-7n-hero.webp",
           "meta": {
             "duration": "8 giorno/i",
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "it",
@@ -9159,7 +9161,7 @@
           "backgroundImage": "/assets/hero/Turkey-hero.webp",
           "meta": {
             "duration": "9 giorno/i",
-            "rating": "4.8/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "it",
@@ -9784,7 +9786,8 @@
           "subtitle": "5 notti 6 giorni esplorando i monumenti più iconici di Dubai con uno sconto del 30% sull'offerta speciale",
           "backgroundImage": "/assets/hero/dubai-hero.webp",
           "meta": {
-            "duration": "6 giorno/i"
+            "duration": "6 giorno/i",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "it",
@@ -10377,7 +10380,7 @@
           "backgroundImage": "/assets/hero/Nepal-6N-hero.webp",
           "meta": {
             "duration": "7 giorno/i",
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "it",
@@ -10675,7 +10678,7 @@
           "backgroundImage": "/assets/hero/Phuket-hero.webp",
           "meta": {
             "duration": "5 giorno/i",
-            "rating": "4.9/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "it",
@@ -10812,7 +10815,7 @@
           "backgroundImage": "/assets/hero/Singapore-hero.webp",
           "meta": {
             "duration": "7 giorno/i",
-            "rating": "4.8/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "it",
@@ -11268,7 +11271,7 @@
           "backgroundImage": "/assets/hero/Vietnam-hero.webp",
           "meta": {
             "duration": "6 giorno/i",
-            "rating": "4.7/5 Rating"
+            "rating": "4.5/5 Rating"
           }
         },
         "language": "it",

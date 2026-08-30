@@ -392,7 +392,8 @@
           "meta": {
             "duration": "Ganzer Tag (08:00 – 20:00 Uhr)",
             "groupSize": "Mindestens 5 Personen",
-            "highlight": "Sonnenuntergangskreuzfahrt inklusive"
+            "highlight": "Sonnenuntergangskreuzfahrt inklusive",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "de",
@@ -2507,7 +2508,8 @@
           "subtitle": "Ganztagesausflug (8:00 – 20:00 Uhr) mit Bootsfahrt bei Sonnenuntergang auf dem Mandovi-Fluss",
           "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
           "meta": {
-            "duration": "Full Day Trip (08:00 – 20:00)"
+            "duration": "Full Day Trip (08:00 – 20:00)",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "de",

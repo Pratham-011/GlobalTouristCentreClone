@@ -392,7 +392,8 @@
           "meta": {
             "duration": "Целый день (08:00 – 20:00)",
             "groupSize": "Минимум 5 человек",
-            "highlight": "Включает закатный круиз"
+            "highlight": "Включает закатный круиз",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "ru",
@@ -2502,7 +2503,8 @@
           "subtitle": "Поездка на целый день (8:00 – 20:00) с круизом на закате по реке Мандови",
           "backgroundImage": "/assets/hero/Sunset-Cruise-Goa-hero.webp",
           "meta": {
-            "duration": "Full Day Trip (08:00 – 20:00)"
+            "duration": "Full Day Trip (08:00 – 20:00)",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "ru",
@@ -6142,7 +6144,7 @@
           "backgroundImage": "/assets/hero/Lakshadweep-hero.webp",
           "meta": {
             "duration": "3 Nights / 4 дн.",
-            "rating": "4.8/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "ru",
@@ -6351,7 +6353,7 @@
           "backgroundImage": "/assets/hero/Mathura-Vrindavan-hero.webp",
           "meta": {
             "duration": "3 дн.",
-            "rating": "4.8/5 Rating",
+            "rating": "4.6/5 Rating",
             "description": "Book a 3D/2N Mathura Tour Package covering Vrindavan, Govardhan & top Krishna temples. Includes transfers, sightseeing & hotel stay. Perfect spiritual getaway."
           }
         },
@@ -6798,7 +6800,7 @@
           "backgroundImage": "/assets/hero/North-india-hero.webp",
           "meta": {
             "duration": "10 дн.",
-            "rating": "4.9/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "ru",
@@ -7327,7 +7329,7 @@
           "meta": {
             "duration": "1 Night / 2 дн.",
             "locations": 5,
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "ru",
@@ -8000,7 +8002,7 @@
           "meta": {
             "duration": "2 Nights / 3 дн.",
             "description": "Explore Kashi Vishwanath, Sarnath, sunrise Ganga boat ride & Ganga Aarti with our 3D/2N Varanasi tour package. Includes hotel stay, transfers & sightseeing.",
-            "rating": "4.9/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "ru",
@@ -8195,7 +8197,7 @@
           "backgroundImage": "/assets/hero/Bangkok3-hero.webp",
           "meta": {
             "duration": "4 дн.",
-            "rating": "4.7/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "ru",
@@ -8326,7 +8328,7 @@
           "backgroundImage": "/assets/hero/Bangkok-hero.webp",
           "meta": {
             "duration": "4 Nights / 5 дн.",
-            "rating": "4.6/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "ru",
@@ -8608,7 +8610,7 @@
           "backgroundImage": "/assets/hero/Bhutan-hero.webp",
           "meta": {
             "duration": "8 дн.",
-            "rating": "4.9/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "ru",
@@ -8764,7 +8766,7 @@
           "backgroundImage": "/assets/hero/Vietnam-7n-hero.webp",
           "meta": {
             "duration": "8 дн.",
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "ru",
@@ -9082,7 +9084,7 @@
           "backgroundImage": "/assets/hero/Turkey-hero.webp",
           "meta": {
             "duration": "9 дн.",
-            "rating": "4.8/5 Rating"
+            "rating": "4.7/5 Rating"
           }
         },
         "language": "ru",
@@ -9707,7 +9709,8 @@
           "subtitle": "5 ночей 6 дней, посвященных изучению знаковых достопримечательностей Дубая, со скидкой 30% по специальному предложению",
           "backgroundImage": "/assets/hero/dubai-hero.webp",
           "meta": {
-            "duration": "6 дн."
+            "duration": "6 дн.",
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "ru",
@@ -10300,7 +10303,7 @@
           "backgroundImage": "/assets/hero/Nepal-6N-hero.webp",
           "meta": {
             "duration": "7 дн.",
-            "rating": "4.7/5 Rating"
+            "rating": "4.6/5 Rating"
           }
         },
         "language": "ru",
@@ -10598,7 +10601,7 @@
           "backgroundImage": "/assets/hero/Phuket-hero.webp",
           "meta": {
             "duration": "5 дн.",
-            "rating": "4.9/5 Rating"
+            "rating": "4.8/5 Rating"
           }
         },
         "language": "ru",
@@ -10735,7 +10738,7 @@
           "backgroundImage": "/assets/hero/Singapore-hero.webp",
           "meta": {
             "duration": "7 дн.",
-            "rating": "4.8/5 Rating"
+            "rating": "4.9/5 Rating"
           }
         },
         "language": "ru",
@@ -11191,7 +11194,7 @@
           "backgroundImage": "/assets/hero/Vietnam-hero.webp",
           "meta": {
             "duration": "6 дн.",
-            "rating": "4.7/5 Rating"
+            "rating": "4.5/5 Rating"
           }
         },
         "language": "ru",
