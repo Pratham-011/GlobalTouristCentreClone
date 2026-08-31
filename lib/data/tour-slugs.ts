@@ -25,7 +25,7 @@ export const TOUR_CATEGORIES = {
 
   domestic: [
     "wondrous-wildernest-tour-package",
-       "cabo-serai-2n-3d-luxury-getaway",
+    "cabo-serai-2n-3d-luxury-getaway",
     // verified
     "andaman-nicobar-tour-package",
     "goa-sightseeing-tour", // verified //prent in en.ts
