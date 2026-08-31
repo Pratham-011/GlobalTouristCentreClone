@@ -209,7 +209,7 @@ export const domesticTrips: Destination[] = [
     slug: "cabo-serai-2n-3d-luxury-getaway",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Cabo-Serai.webp",
-    category: "day-trips",
+    category: "domestic",
     alt: "Luxury wooden villa interior with sea view balcony and palm trees at Cabo de Rama cliffside retreat, South Goa",
   },
 ];
