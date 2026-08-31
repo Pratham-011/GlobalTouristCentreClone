@@ -63,15 +63,17 @@
       "south-goa-1-day-cultural-and-beach-tour-package": {
         "title": "South Goa – Cultural Goa",
         "duration": "1 Day",
-        "description": "Explore South Goa’s rich heritage with visits to Old Goa Churches, St. Augustine Tower, Shantadurga and Mangeshi Temples, Miramar, Colva and Dona Paula beaches, Panjim Market, and a Mandovi River dinner cruise."
+        "description": "Explore South Goa’s rich heritage with visits to Old Goa Churches, St. Augustine Tower, Shantadurga and Mangeshi Temples, Miramar, Colva and Dona Paula beaches, Panjim Market, and a Mandovi River dinner cruise.",
+        "rating": "4.2"
       },
       "north-goa-day-excursion": {
         "title": "North Goa – Portuguese Goa",
         "duration": "1 Day",
-        "description": "Experience the vibrant side of Goa with famous beaches like Baga, Calangute, and Anjuna, along with historic forts, flea markets, nightlife, and Portuguese-era churches."
+        "description": "Experience the vibrant side of Goa with famous beaches like Baga, Calangute, and Anjuna, along with historic forts, flea markets, nightlife, and Portuguese-era churches.",
+        "rating": "4.6"
       },
       "dudhsagar-waterfal-excursion": {
-        "rating": "4.8",
+        "rating": "4.4",
         "title": "Dudhsagar Waterfall & Spice Plantation",
         "duration": "1 Day",
         "description": "Witness the majestic Dudhsagar Waterfalls surrounded by lush forests, followed by a guided visit to aromatic spice plantations with cultural insights and a traditional lunch."
@@ -79,7 +81,8 @@
       "south-goa-1-day-trip-package": {
         "title": "Palolem Cola Full-Day Tour",
         "duration": "1 Day",
-        "description": "Discover hidden gems of South Goa including Palolem, Butterfly Beach, Cola Beach, Blue Lagoon kayaking, Monkey Island, Lover’s Island, Cabo de Rama Fort, and a dolphin spotting boat ride."
+        "description": "Discover hidden gems of South Goa including Palolem, Butterfly Beach, Cola Beach, Blue Lagoon kayaking, Monkey Island, Lover’s Island, Cabo de Rama Fort, and a dolphin spotting boat ride.",
+        "rating": "4.6"
       },
       "crocodile-sightseeing-trip": {
         "rating": "4.8",
@@ -96,7 +99,8 @@
       "grand-island-water-sport": {
         "title": "Grand Island Trip with Water Sports",
         "duration": "1 Day",
-        "description": "Take a scenic boat trip to Grand Island and enjoy snorkeling, jet skiing, banana rides, parasailing, dolphin spotting, swimming, and a full day of sea adventure."
+        "description": "Take a scenic boat trip to Grand Island and enjoy snorkeling, jet skiing, banana rides, parasailing, dolphin spotting, swimming, and a full day of sea adventure.",
+        "rating": "4.8"
       },
       "cabo-serai-2n-3d-luxury-getaway": {
         "rating": "4.8",
@@ -105,7 +109,7 @@
         "description": "Relax at a luxury cliffside retreat at Cabo de Rama offering serene sea views, premium accommodation, and a peaceful escape close to nature."
       },
       "gokarna-murdeshwar-day-excursion": {
-        "rating": "4.8",
+        "rating": "4.1",
         "title": "Gokarna Murdeshwar Trip",
         "duration": "1 Day",
         "description": "Visit the serene beaches of Gokarna and the iconic Murdeshwar Shiva statue and seafront temple, blending spirituality with coastal beauty."
@@ -117,7 +121,7 @@
         "description": "Explore the UNESCO World Heritage ruins of Hampi and the ancient rock-cut cave temples of Badami showcasing Chalukyan architecture."
       },
       "dandeli-2-day-tour-from-goa": {
-        "rating": "4.8",
+        "rating": "4.9",
         "title": "Dandeli Elephant & Tiger Safari",
         "duration": "1 Night / 2 days",
         "description": "Embark on a wildlife adventure through the forests of Dandeli featuring elephant and tiger safaris amid breathtaking natural landscapes."
@@ -135,7 +139,7 @@
         "description": "Discover Mysore’s royal heritage including Mysore Palace and Chamundi Hill, followed by Ooty’s tea gardens, botanical gardens, and scenic Nilgiri views."
       },
       "mumbai-one-day-excursion": {
-        "rating": "4.8",
+        "rating": "4.6",
         "title": "Mumbai in a Day Trip",
         "duration": "1 Day",
         "description": "Explore Mumbai’s iconic landmarks such as Gateway of India, CST, Marine Drive, famous beaches, bustling markets, and Bollywood culture."
@@ -147,7 +151,7 @@
         "description": "Marvel at the ancient rock-cut caves of Ellora and Ajanta, showcasing Buddhist, Hindu, and Jain art, sculptures, and frescoes."
       },
       "golden-triangle-4-day-tour-from-goa": {
-        "rating": "4.8",
+        "rating": "4.7",
         "title": "Golden Triangle Tour",
         "duration": "3 Nights / 4 Days",
         "description": "Cover Delhi, Agra, and Jaipur with visits to India Gate, Qutub Minar, Taj Mahal, Agra Fort, Amber Fort, royal palaces, and vibrant local bazaars."
@@ -165,19 +169,19 @@
         "description": "Visit the world-famous Taj Mahal, a symbol of eternal love, along with Agra Fort and surrounding Mughal heritage sites."
       },
       "varanasi-tour-package": {
-        "rating": "4.8",
+        "rating": "4.7",
         "title": "Varanasi – Spiritual India",
         "duration": "2 Nights / 3 Days",
         "description": "Experience India’s spiritual heart with Ganga ghats, Ganga Aarti, Kashi Vishwanath Temple, and a visit to the Buddhist site of Sarnath."
       },
       "mathura-vrindavan-tour": {
-        "rating": "4.8",
+        "rating": "4.6",
         "title": "Mathura & Vrindavan Tour",
         "duration": "2 Nights / 3 Days",
         "description": "Immerse yourself in devotion at the sacred birthplaces of Lord Krishna with vibrant temples, soulful chants, and spiritual experiences."
       },
       "andaman-nicobar-tour-package": {
-        "rating": "4.8",
+        "rating": "4.9",
         "title": "Andaman Islands Escape",
         "duration": "6 Nights / 7 Days",
         "description": "Escape to crystal-clear waters, white sandy beaches, coral reefs, historic sites, and lush jungles across the Andaman Islands."
@@ -189,13 +193,13 @@
         "description": "Indulge in a luxury Maldives getaway with overwater villas, pristine beaches, private dining, spa retreats, and stunning sunsets."
       },
       "srilanka-tour-package": {
-        "rating": "4.8",
+        "rating": "4.6",
         "title": "Sri Lanka Luxury Tour",
         "duration": "7 Nights / 8 Days",
         "description": "Explore Sri Lanka’s ancient temples, tea plantations, wildlife sanctuaries, scenic landscapes, and vibrant coastal life."
       },
       "7n-8d-bhutan-tour-package": {
-        "rating": "4.8",
+        "rating": "4.7",
         "title": "Bhutan – Land of Happiness",
         "duration": "7 Nights / 8 Days",
         "description": "Discover Bhutan’s peaceful kingdom with snow-capped mountains, ancient monasteries, colorful traditions, and deep spiritual culture."

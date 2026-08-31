@@ -63,15 +63,17 @@
       "south-goa-1-day-cultural-and-beach-tour-package": {
         "title": "Südgoa – Kulturelles Goa",
         "duration": "1 Tag",
-        "description": "Entdecken Sie das reiche Erbe Südgoas mit Besuchen der Kirchen von Alt-Goa, des Augustiner-Turms, der Shantadurga- und Mangeshi-Tempel, der Strände Miramar, Colva und Dona Paula, des Panjim-Marktes sowie einer Dinner-Kreuzfahrt auf dem Mandovi-Fluss."
+        "description": "Entdecken Sie das reiche Erbe Südgoas mit Besuchen der Kirchen von Alt-Goa, des Augustiner-Turms, der Shantadurga- und Mangeshi-Tempel, der Strände Miramar, Colva und Dona Paula, des Panjim-Marktes sowie einer Dinner-Kreuzfahrt auf dem Mandovi-Fluss.",
+        "rating": "4.2"
       },
       "north-goa-day-excursion": {
         "title": "Nordgoa – Portugiesisches Goa",
         "duration": "1 Tag",
-        "description": "Erleben Sie das lebendige Nordgoa mit berühmten Stränden wie Baga, Calangute und Anjuna sowie historischen Festungen, Flohmärkten, Nachtleben und Kirchen aus der portugiesischen Kolonialzeit."
+        "description": "Erleben Sie das lebendige Nordgoa mit berühmten Stränden wie Baga, Calangute und Anjuna sowie historischen Festungen, Flohmärkten, Nachtleben und Kirchen aus der portugiesischen Kolonialzeit.",
+        "rating": "4.6"
       },
       "dudhsagar-waterfal-excursion": {
-        "rating": "4.8",
+        "rating": "4.4",
         "title": "Dudhsagar-Wasserfall & Gewürzplantage",
         "duration": "1 Tag",
         "description": "Bewundern Sie den majestätischen Dudhsagar-Wasserfall inmitten üppiger Wälder und besuchen Sie aromatische Gewürzplantagen mit kulturellen Einblicken und traditionellem Mittagessen."
@@ -79,7 +81,8 @@
       "south-goa-1-day-trip-package": {
         "title": "Palolem Cola Ganztages-Tour",
         "duration": "1 Tag",
-        "description": "Entdecken Sie versteckte Juwelen Südgoas wie Palolem, Butterfly Beach, Cola Beach, Kajakfahren in der Blauen Lagune, Monkey Island, das Cabo-de-Rama-Fort und eine Bootsfahrt zur Delfinbeobachtung."
+        "description": "Entdecken Sie versteckte Juwelen Südgoas wie Palolem, Butterfly Beach, Cola Beach, Kajakfahren in der Blauen Lagune, Monkey Island, das Cabo-de-Rama-Fort und eine Bootsfahrt zur Delfinbeobachtung.",
+        "rating": "4.6"
       },
       "crocodile-sightseeing-trip": {
         "rating": "4.8",
@@ -96,7 +99,8 @@
       "grand-island-water-sport": {
         "title": "Grand Island mit Wassersport",
         "duration": "1 Tag",
-        "description": "Bootsausflug zur Grand Island mit Schnorcheln, Jetski, Bananenboot, Parasailing, Delfinbeobachtung und maritimen Abenteuern."
+        "description": "Bootsausflug zur Grand Island mit Schnorcheln, Jetski, Bananenboot, Parasailing, Delfinbeobachtung und maritimen Abenteuern.",
+        "rating": "4.8"
       },
       "cabo-serai-2n-3d-luxury-getaway": {
         "rating": "4.8",
@@ -105,7 +109,7 @@
         "description": "Entspannen Sie in einem luxuriösen Klippenresort in Cabo de Rama mit ruhigem Meerblick und erstklassiger Unterkunft."
       },
       "gokarna-murdeshwar-day-excursion": {
-        "rating": "4.8",
+        "rating": "4.1",
         "title": "Gokarna Murdeshwar Ausflug",
         "duration": "1 Tag",
         "description": "Besuchen Sie die ruhigen Strände von Gokarna und die ikonische Shiva-Statue in Murdeshwar – eine perfekte Mischung aus Spiritualität und Küstenschönheit."
@@ -117,7 +121,7 @@
         "description": "Erkunden Sie die UNESCO-Welterbestätten von Hampi und die antiken Felsentempel von Badami mit ihrer Chalukya-Architektur."
       },
       "dandeli-2-day-tour-from-goa": {
-        "rating": "4.8",
+        "rating": "4.9",
         "title": "Elefanten- und Tigersafari in Dandeli",
         "duration": "1 Nacht / 2 Tage",
         "description": "Begeben Sie sich auf ein aufregendes Wildlife-Abenteuer durch die Wälder von Dandeli mit Elefanten- und Tigersafaris."
@@ -135,7 +139,7 @@
         "description": "Entdecken Sie das königliche Erbe von Mysore sowie die Teeplantagen, Landschaften und das angenehme Klima von Ooty."
       },
       "mumbai-one-day-excursion": {
-        "rating": "4.8",
+        "rating": "4.6",
         "title": "Mumbai in einem Tag",
         "duration": "1 Tag",
         "description": "Erkunden Sie die berühmten Sehenswürdigkeiten Mumbais, seine Strände, lebhaften Märkte und die Bollywood-Kultur."
@@ -147,7 +151,7 @@
         "description": "Bewundern Sie die antiken Höhlen von Ellora und Ajanta mit beeindruckenden buddhistischen, hinduistischen und jainistischen Skulpturen."
       },
       "golden-triangle-4-day-tour-from-goa": {
-        "rating": "4.8",
+        "rating": "4.7",
         "title": "Goldenes Dreieck Indiens",
         "duration": "3 Nächte / 4 Tage",
         "description": "Besuchen Sie Delhi, Agra und Jaipur mit dem Taj Mahal, historischen Festungen und königlichen Palästen."
@@ -165,19 +169,19 @@
         "description": "Besuchen Sie den weltberühmten Taj Mahal, ein Symbol ewiger Liebe, sowie das Agra-Fort und umliegende Mogulstätten."
       },
       "varanasi-tour-package": {
-        "rating": "4.8",
+        "rating": "4.7",
         "title": "Varanasi – Spirituelles Indien",
         "duration": "2 Nächte / 3 Tage",
         "description": "Tauchen Sie ein in die spirituelle Atmosphäre Varanasis mit den Ghats des Ganges, der Ganga-Aarti-Zeremonie und dem Kashi-Vishwanath-Tempel."
       },
       "mathura-vrindavan-tour": {
-        "rating": "4.8",
+        "rating": "4.6",
         "title": "Mathura & Vrindavan",
         "duration": "2 Nächte / 3 Tage",
         "description": "Erleben Sie tiefe Hingabe an den heiligen Geburtsorten von Lord Krishna."
       },
       "andaman-nicobar-tour-package": {
-        "rating": "4.8",
+        "rating": "4.9",
         "title": "Andamanen-Inseln",
         "duration": "6 Nächte / 7 Tage",
         "description": "Kristallklares Wasser, weiße Sandstrände, Korallenriffe, historische Stätten und tropische Natur der Andamanen."
@@ -189,13 +193,13 @@
         "description": "Überwasservillen, private Dinner, entspannende Spas und atemberaubende Sonnenuntergänge."
       },
       "srilanka-tour-package": {
-        "rating": "4.8",
+        "rating": "4.6",
         "title": "Sri Lanka Luxus-Tour",
         "duration": "7 Nächte / 8 Tage",
         "description": "Entdecken Sie alte Tempel, Teeplantagen, Tierwelt und wunderschöne Küsten Sri Lankas."
       },
       "7n-8d-bhutan-tour-package": {
-        "rating": "4.8",
+        "rating": "4.7",
         "title": "Bhutan – Land des Glücks",
         "duration": "7 Nächte / 8 Tage",
         "description": "Entdecken Sie Bhutan mit seinen alten Klöstern, majestätischen Bergen und tief verwurzelter spiritueller Kultur."

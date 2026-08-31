@@ -198,6 +198,7 @@ const HomeIntro = () => {
                     duration={content.duration}
                     description={content.description}
                     href={`/${locale}${tour.href}`}
+                    rating={content.rating}
                   />
                 </div>
               );
@@ -228,6 +229,7 @@ const HomeIntro = () => {
                 duration={content.duration}
                 description={content.description}
                 href={`/${locale}${tour.href}`}
+                rating={content.rating}
               />
             );
           })}

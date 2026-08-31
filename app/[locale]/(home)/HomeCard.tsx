@@ -9,7 +9,7 @@ interface HomeCardProps {
   duration: string;
   description: string;
   href: string;
-  rating?: number;
+  rating?: number | string;
   alt?: string;
 }
 
@@ -19,9 +19,11 @@ const HomeCard: React.FC<HomeCardProps> = ({
   duration,
   description,
   href,
-  rating = 4.9,
+  rating,
   alt,
 }) => {
+  const displayRating = rating !== undefined && rating !== null ? rating : 4.8;
+
   return (
     <Link
       href={href}
@@ -66,7 +68,7 @@ const HomeCard: React.FC<HomeCardProps> = ({
             <div className="flex items-center gap-1 ml-3 flex-shrink-0">
               <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
               <span className="text-sm font-medium text-gray-900">
-                {rating}
+                {displayRating}
               </span>
             </div>
           </div>
