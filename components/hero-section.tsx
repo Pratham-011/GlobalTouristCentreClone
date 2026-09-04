@@ -36,6 +36,8 @@ export function HeroSection({
   const { t, locale } = useI18n();
   const [isOpen, setIsOpen] = useState(false);
   const [isDestinationsOpen, setIsDestinationsOpen] = useState(false);
+  const [isMobileDestinationsOpen, setIsMobileDestinationsOpen] =
+    useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   const defaultMobileBase = mobileBackgroundQuery
@@ -267,22 +269,37 @@ export function HeroSection({
                   {navLinks.map((link) =>
                     link.submenu ? (
                       <div key={link.href}>
-                        <div className="flex items-center justify-between px-6 py-3 text-base font-medium text-foreground">
+                        <button
+                          type="button"
+                          onClick={() =>
+                            setIsMobileDestinationsOpen((prev) => !prev)
+                          }
+                          className="flex w-full items-center justify-between px-6 py-3 text-base font-medium text-foreground"
+                          aria-expanded={isMobileDestinationsOpen}
+                        >
                           <span>{link.label}</span>
-                        </div>
-                        {/* Mobile submenu — always visible, indented */}
-                        <div className="border-l-2 border-[#f8d56b] ml-6 mb-1">
-                          {link.submenu.map((sub) => (
-                            <SheetClose asChild key={sub.href}>
-                              <Link
-                                href={sub.href}
-                                className="block px-5 py-2.5 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-muted"
-                              >
-                                {sub.label}
-                              </Link>
-                            </SheetClose>
-                          ))}
-                        </div>
+                          <ChevronDown
+                            className={`h-4 w-4 transition-transform duration-200 ${
+                              isMobileDestinationsOpen ? "rotate-180" : ""
+                            }`}
+                            aria-hidden="true"
+                          />
+                        </button>
+                        {/* Mobile submenu — expands on tap, indented */}
+                        {isMobileDestinationsOpen && (
+                          <div className="border-l-2 border-[#f8d56b] ml-6 mb-1">
+                            {link.submenu.map((sub) => (
+                              <SheetClose asChild key={sub.href}>
+                                <Link
+                                  href={sub.href}
+                                  className="block px-5 py-2.5 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-muted"
+                                >
+                                  {sub.label}
+                                </Link>
+                              </SheetClose>
+                            ))}
+                          </div>
+                        )}
                       </div>
                     ) : (
                       <SheetClose asChild key={link.href}>
