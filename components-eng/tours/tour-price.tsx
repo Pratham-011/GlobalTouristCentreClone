@@ -27,8 +27,9 @@ export type PriceCardData = {
 };
 
 /**
- * Dual-fare pricing block. Any tour can opt in by providing
- * `price.domestic` + `price.international` in tourData.
+ * Pricing block. Any tour can opt in by providing `price.domestic` in
+ * tourData; adding `price.international` turns it into a dual-fare block.
+ * International trips ship the Indian fare only, so they render one card.
  * Section chrome (label/title/subtitle) is optional per-tour copy.
  */
 export type TourPriceData = {
@@ -36,7 +37,7 @@ export type TourPriceData = {
   sectionTitle?: string;
   sectionSubtitle?: string;
   domestic: PriceCardData;
-  international: PriceCardData;
+  international?: PriceCardData;
 };
 
 interface TourPriceProps {
@@ -154,7 +155,9 @@ function PriceCard({
 }
 
 export function TourPrice({ price }: TourPriceProps) {
-  if (!price?.domestic || !price?.international) return null;
+  if (!price?.domestic) return null;
+
+  const hasInternational = !!price.international;
 
   return (
     <section className="bg-white py-12 sm:py-16 lg:py-20">
@@ -185,9 +188,15 @@ export function TourPrice({ price }: TourPriceProps) {
           </div>
         )}
 
-        <div className="grid grid-cols-1 gap-4 sm:gap-6 md:grid-cols-2">
+        <div
+          className={`grid grid-cols-1 gap-4 sm:gap-6 ${
+            hasInternational ? "md:grid-cols-2" : "md:max-w-xl"
+          }`}
+        >
           <PriceCard card={price.domestic} accent={TEAL} />
-          <PriceCard card={price.international} accent={SAFFRON} />
+          {price.international && (
+            <PriceCard card={price.international} accent={SAFFRON} />
+          )}
         </div>
       </div>
     </section>

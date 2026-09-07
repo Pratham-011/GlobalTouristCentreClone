@@ -8470,7 +8470,34 @@
           "title": "Dinner-Kreuzfahrt",
           "description": "Chao Phraya Flusskreuzfahrt mit Abendessen"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Eine kurze Auszeit von vier Tagen in Pattaya und Bangkok mit Coral Island und einer kompletten Stadttour.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Bangkok & Pattaya 3N/4T Reisepaket",
+          "amount": "₹15,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹22,999 · 30 % Rabatt · Doppelzimmer · Ohne Flugtickets",
+          "points": [
+            "3 Nächte im Hotel – Pattaya und Bangkok",
+            "Täglich Frühstück",
+            "Ausflug nach Coral Island mit Mittagessen",
+            "Stadtrundfahrt Bangkok (Tempel und Gems Gallery)",
+            "Alle Transfers inklusive"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Bangkok & Pattaya 3N/4T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "4N-5D-bangkok-tour-package": {
       "file_name": "4N-5D-bangkok-tour-package.html",
@@ -8608,7 +8635,34 @@
           "title": "Alle Eintrittskarten",
           "description": "Alle Eintrittsgebühren für Tempel und Attraktionen"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Fünf Tage zwischen Bangkok und Pattaya mit Coral Island, Safari World und dem Sri Racha Tiger Zoo.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Bangkok & Pattaya 4N/5T Reisepaket",
+          "amount": "₹20,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹29,999 · 30 % Rabatt · Doppelzimmer · Ohne Flugtickets",
+          "points": [
+            "4 Nächte im Hotel – Bangkok und Pattaya",
+            "Täglich Frühstück",
+            "Ausflug nach Coral Island mit Mittagessen",
+            "Safari World und Marine Park mit Mittagessen",
+            "Sri Racha Tiger Zoo und alle Eintrittskarten"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Bangkok & Pattaya 4N/5T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "5n-6d-hongkong-tour-package": {
       "file_name": "5n-6d-hongkong-tour-package.html",
@@ -8752,7 +8806,35 @@
           "title": "Alle Transfers",
           "description": "Flughafentransfers und innerstädtischer Transport"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Drei Nächte in Hongkong und zwei in Macau in Premium-Hotels, inklusive Ocean Park und Fährüberfahrt.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Hongkong & Macau 5N/6T Reisepaket",
+          "amount": "₹87,499",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹1,24,999 · 30 % Rabatt · Doppelzimmer · Internationale Flüge nicht inbegriffen",
+          "points": [
+            "3N Hongkong + 2N Macau in Premium-Hotels",
+            "Täglich Frühstück in allen Hotels inklusive",
+            "Ganztages-Eintrittskarte für den Ocean Park",
+            "Geführte Stadttouren in Hongkong und Macau",
+            "Fährtickets Hongkong ↔ Macau",
+            "Internationale Flüge und Visum für Hongkong/Macau nicht inbegriffen"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Hongkong & Macau 5N/6T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "7n-8d-bhutan-tour-package": {
       "file_name": "7n-8d-7n-8d-bhutan-tour-package-package.html",
@@ -8908,7 +8990,34 @@
           "title": "Reiseleiter",
           "description": "Erfahrener englischsprachiger Reiseführer"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Phuentsholing, Thimphu, Punakha und Paro in 8 Tagen, inklusive aller Mahlzeiten, Genehmigungen und klimatisierter Transporte.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Bhutan 7N/8T Reisepaket",
+          "amount": "₹45,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹65,999 · 30 % Rabatt · Doppelzimmer · Ab Bagdogra",
+          "points": [
+            "7 Nächte im Hotel – Phuentsholing, Thimphu, Punakha, Paro",
+            "Täglich Frühstück, Mittag- und Abendessen",
+            "Alle Transfers und Besichtigungen im klimatisierten Fahrzeug",
+            "Einreisegenehmigungen für Bhutan und Sondergebietsgenehmigungen",
+            "Englischsprachiger Reiseleiter"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Bhutan 7N/8T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "7n-8d-vietam-tour-package": {
       "file_name": "7n-8d-vietam-tour-package.html",
@@ -9065,7 +9174,34 @@
           "title": "Eintrittspreise",
           "description": "Alle aufgeführten Eintrittspreise sind im Preis inbegriffen"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Hanoi, Halong-Bucht, Da Nang, Hoi An und Ho-Chi-Minh-Stadt in 8 Tagen, mit einer Nacht auf einer Deluxe-Kreuzfahrt und beiden Inlandsflügen.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Vietnam 7N/8T Reisepaket",
+          "amount": "₹64,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹92,999 · 30 % Rabatt · Doppelzimmer · Internationale Flüge nicht inbegriffen",
+          "points": [
+            "7 Nächte im Hotel plus 1 Nacht auf einer Deluxe-Kreuzfahrt in der Halong-Bucht",
+            "Täglich Frühstück und alle Mahlzeiten an Bord der Kreuzfahrt",
+            "2 Inlandsflüge inklusive (Hanoi–Da Nang, Da Nang–Ho-Chi-Minh-Stadt)",
+            "Englischsprachiger Reiseleiter und alle Eintrittsgelder",
+            "Internationale Flüge und Visum nicht inbegriffen"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Vietnam 7N/8T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "7N-8D-thailand-tour-package": {
       "file_name": "7N-8D-thailand-tour-package.html",
@@ -9226,7 +9362,35 @@
           "title": "Expertenführer",
           "description": "Professionelle englischsprachige Reiseleiter für alle Touren"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Pattaya, Bangkok, Krabi und Phuket in acht Tagen, mit Speedboot-Inseltouren und dem Flug Bangkok–Krabi.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Thailand 7N/8T Reisepaket",
+          "amount": "₹38,499",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹54,999 · 30 % Rabatt · Doppelzimmer · Landpaket + Inlandsflug",
+          "points": [
+            "7 Nächte – 2N Pattaya, 2N Bangkok, 1N Krabi, 2N Phuket",
+            "Täglich Frühstück und Buffet-Mittagessen bei den Inseltouren",
+            "Speedboot-Touren nach Coral Island und zu den Phi-Phi-Inseln",
+            "Stadt- und Tempeltour in Bangkok",
+            "Inlandsflug (Bangkok–Krabi) und alle privaten Transfers",
+            "Englischsprachiger Reiseleiter"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Thailand 7N/8T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "8n-9d-turkey-tour-package": {
       "file_name": "8n-9d-turkey-tour-package.html",
@@ -9388,7 +9552,35 @@
           "title": "Eintrittspreise",
           "description": "Alle aufgeführten Eintrittspreise sind im Preis inbegriffen"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Istanbul, Kappadokien und Antalya in neun Tagen, mit beiden Inlandsflügen und dem Tagesausflug nach Pamukkale.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Türkei 8N/9T Reisepaket",
+          "amount": "₹97,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹1,39,999 · 30 % Rabatt · Doppelzimmer · Inlandsflüge inklusive · Ab Goa",
+          "points": [
+            "8 Nächte – Istanbul, Kappadokien, Antalya",
+            "Täglich Frühstück und 3 Abendessen in Antalya",
+            "Inlandsflüge (Istanbul–Kappadokien und Antalya–Istanbul)",
+            "Bosporus-Kreuzfahrt sowie Tagesausflug nach Pamukkale und Hierapolis",
+            "Alle privaten Transfers und Eintrittsgelder",
+            "Englischsprachige örtliche Reiseleiter"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Türkei 8N/9T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "baku-tour-package": {
       "file_name": "baku-tour-package.html",
@@ -9551,7 +9743,35 @@
           "title": "Reiseversicherung",
           "description": "Umfassende Reiseversicherung inklusive"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Sechs Nächte in Gabala, Baku und Quba, mit Seilbahnen, UNESCO-Stätten und den meisten Mahlzeiten.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Baku 6N/7T Reisepaket",
+          "amount": "₹47,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹67,999 · 30 % Rabatt · Doppelzimmer · Internationale Flüge nicht inbegriffen",
+          "points": [
+            "6 Nächte verteilt auf Gabala, Baku und Quba",
+            "Frühstück, 5 Mittagessen und 6 Abendessen inklusive",
+            "Seilbahnfahrten Tufandag und Shahdag sowie Bootsfahrt auf dem Nohur-See",
+            "UNESCO-Stätten Sheki, Gobustan und Schirwanschah-Palast",
+            "Englischsprachiger Reiseleiter und Reiseversicherung inklusive",
+            "Internationale Flüge und aserbaidschanisches e-Visum nicht inbegriffen"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Baku 6N/7T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "bali-tour-package": {
       "file_name": "bali-tour-package.html",
@@ -9689,7 +9909,35 @@
           "title": "Alle Transfers",
           "description": "Flughafentransfers und Tourtransporte"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Vier Nächte in der Gegend von Kuta mit Wassersport, balinesischem Spa, Bali Swing und einem ganzen Tag auf Nusa Penida.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Bali 4N/5T Reisepaket",
+          "amount": "₹39,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹56,999 · 30 % Rabatt · Doppelzimmer · Internationale Flüge nicht inbegriffen",
+          "points": [
+            "4 Nächte in der Gegend von Kuta (Wahl zwischen 3★/4★/5★)",
+            "Täglich Frühstück inklusive",
+            "Wassersport am Benoa Beach und Bananenboot-Fahrt",
+            "120-minütiges balinesisches Spa und Bali Swing in Ubud",
+            "Ganztagesausflug zur Insel Nusa Penida inklusive Mittagessen",
+            "Internationale Flüge und Visum bei Ankunft in Indonesien nicht inbegriffen"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Bali 4N/5T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "combodia-tour-package": {
       "file_name": "combodia-tour-package.html",
@@ -9996,7 +10244,35 @@
           "title": "Sonderangebot",
           "description": "30 % Rabatt auf den gesamten Paketpreis"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Fünf Nächte in 4★-Hotels mit Burj Khalifa, Wüstensafari, Aquaventure und einem ganzen Tag in Abu Dhabi.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Dubai 5N/6T Reisepaket",
+          "amount": "₹55,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹79,999 · 30 % Rabatt · Doppelzimmer · Internationale Flüge nicht inbegriffen",
+          "points": [
+            "5 Nächte in 4★-Hotels mit täglichem Frühstück, 2 Mittagessen und 2 Abendessen",
+            "Burj Khalifa (124. Stock), Wüstensafari mit BBQ-Abendessen und Dhau-Kreuzfahrt",
+            "Ganzer Tag im Aquaventure Waterpark und Lost Chambers Aquarium",
+            "Tagesausflug nach Abu Dhabi: Scheich-Zayid-Moschee, Ferrari World, Emirates Palace",
+            "Englischsprachiger Reiseleiter und alle Eintrittsgelder inklusive",
+            "Internationale Flüge und VAE-Visum nicht inbegriffen"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Dubai 5N/6T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "georgia-tour-package": {
       "file_name": "georgia-tour-package.html",
@@ -10594,7 +10870,34 @@
           "title": "Kulturelle Shows",
           "description": "Erlebnis der Tharu-Kulturshow in Chitwan inklusive"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Kathmandu, Chitwan und Pokhara in 7 Tagen, mit Dschungelsafari, Kulturshow und privaten SUV-Transfers.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Nepal 6N/7T Reisepaket",
+          "amount": "₹25,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹35,999 · 30 % Rabatt · Doppelzimmer · Kein Visum für indische Staatsbürger erforderlich",
+          "points": [
+            "6 Nächte im Hotel – Kathmandu, Chitwan, Pokhara",
+            "Täglich Frühstück in allen Hotels",
+            "Flughafentransfers hin und zurück im Scorpio-SUV",
+            "Jeep-Safari im Chitwan-Dschungel und Tharu-Kulturshow",
+            "Englischsprachiger Reiseleiter während der gesamten Reise"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Nepal 6N/7T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "nepal-muktinath-special": {
       "file_name": "Nepal-with-Muktinath.html",
@@ -10880,7 +11183,35 @@
           "title": "Reiseversicherung",
           "description": "Obligatorische Unfallversicherung für Ihre Sicherheit"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Zwei Nächte in Krabi und zwei in Phuket, mit zwei Speedboot-Inseltouren und allen privaten Transfers.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Phuket & Krabi 4N/5T Reisepaket",
+          "amount": "₹40,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹58,999 · 30 % Rabatt · Doppelzimmer · Internationale Flüge nicht inbegriffen",
+          "points": [
+            "2N Krabi (Deluxe-Zimmer) + 2N Phuket (Superior-Zimmer mit Meerblick)",
+            "Täglich Frühstück in allen Hotels",
+            "4-Inseln-Tour und Phi-Phi-Inseltour per Speedboot, beide mit Mittagessen",
+            "Stadttour Phuket sowie alle privaten Transfers zwischen Flughafen, Krabi und Phuket",
+            "Obligatorische Reiseversicherung inklusive",
+            "Internationale Flüge und Einreisevisum für Thailand nicht inbegriffen"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Phuket & Krabi 4N/5T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "singapore-tour-package": {
       "file_name": "singapore-tour-package.html",
@@ -11037,7 +11368,35 @@
           "title": "Nachtsafari",
           "description": "Nachtsafari-Tour mit privatem Transport"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Sieben Tage Singapur mit Gardens by the Bay, Sentosa, Universal Studios und der Night Safari.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Singapur 6N/7T Reisepaket",
+          "amount": "₹52,499",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹74,999 · 30 % Rabatt · Doppelzimmer · Ohne Flugtickets",
+          "points": [
+            "5 Nächte im Chancellor @ Orchard, Singapur",
+            "Täglich Frühstück",
+            "Flughafentransfers hin und zurück",
+            "Stadtrundfahrt, Gardens by the Bay und MBS SkyPark",
+            "Abenteuer-Kombi auf der Insel Sentosa",
+            "Universal Studios und Night Safari"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Singapur 6N/7T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "srilanka-tour-package": {
       "file_name": "srilanka-tour-package.html",
@@ -11336,7 +11695,34 @@
           "title": "Alle Transfers",
           "description": "Flughafentransfers und innerstädtischer Transport"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Drei Nächte in Istanbul und zwei in Kappadokien in 4★-Hotels, inklusive Inlandsflug hin und zurück.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Türkei 5N/6T Reisepaket",
+          "amount": "₹62,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹89,999 · 30 % Rabatt · Doppelzimmer · Internationale Flüge nicht inbegriffen",
+          "points": [
+            "3N Istanbul + 2N Kappadokien in 4★-Hotels",
+            "Täglich Frühstück und besondere türkische Abendessen",
+            "Inlandsflug Istanbul–Kappadokien hin und zurück",
+            "Luxus-Kreuzfahrt auf dem Bosporus und alle geführten Besichtigungen",
+            "Internationale Flüge und türkisches e-Visum nicht inbegriffen"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Türkei 5N/6T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     },
     "vitnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
@@ -11480,7 +11866,34 @@
           "title": "Englischer Reiseführer",
           "description": "Professioneller englischsprachiger Reiseleiter"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Preise",
+        "sectionTitle": "Paketpreis",
+        "sectionSubtitle": "Hanoi, Halong-Bucht und Da Nang/Hoi An in 6 Tagen, mit dem Inlandsflug Hanoi–Da Nang und allen Transfers.",
+        "domestic": {
+          "badge": "Indischer Reisender",
+          "packageName": "Vietnam 5N/6T Reisepaket",
+          "amount": "₹54,999",
+          "currency": "INR",
+          "per": "Person",
+          "note": "Statt ₹79,999 · 31 % Rabatt · Doppelzimmer",
+          "points": [
+            "5 Nächte im Hotel – Hanoi, Halong-Bucht, Da Nang/Hoi An",
+            "Täglich Frühstück und ausgewählte Mahlzeiten laut Reiseverlauf",
+            "1 Inlandsflug inklusive (Hanoi–Da Nang)",
+            "Englischsprachiger Reiseleiter und alle Eintrittsgelder",
+            "Alle Flughafentransfers und Fahrten zwischen den Städten im klimatisierten Fahrzeug"
+          ],
+          "cta": {
+            "label": "Exaktes Angebot erhalten",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hallo! Ich interessiere mich für das Vietnam 5N/6T Reisepaket zum Preis für indische Reisende. Bitte senden Sie mir die Details."
+            }
+          }
+        }
+      }
     }
   }
 }

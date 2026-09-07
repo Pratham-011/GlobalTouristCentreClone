@@ -8392,7 +8392,34 @@
           "title": "Crociera con cena",
           "description": "Crociera sul fiume Chao Phraya con cena"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Una breve vacanza di quattro giorni tra Pattaya e Bangkok con Coral Island e un tour completo della città.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Bangkok e Pattaya 3N/4G",
+          "amount": "₹15,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹22,999 · 30% di sconto · Camera doppia · Voli esclusi",
+          "points": [
+            "3 notti in hotel – Pattaya e Bangkok",
+            "Colazione quotidiana",
+            "Escursione a Coral Island con pranzo",
+            "Tour della città di Bangkok (templi e Gems Gallery)",
+            "Tutti i trasferimenti inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Bangkok e Pattaya 3N/4G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "4N-5D-bangkok-tour-package": {
       "file_name": "4N-5D-bangkok-tour-package.html",
@@ -8530,7 +8557,34 @@
           "title": "Tutti i biglietti d'ingresso",
           "description": "Tutti i costi di ingresso ai templi e alle attrazioni"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Cinque giorni tra Bangkok e Pattaya con Coral Island, Safari World e lo zoo delle tigri di Sri Racha inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Bangkok e Pattaya 4N/5G",
+          "amount": "₹20,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹29,999 · 30% di sconto · Camera doppia · Voli esclusi",
+          "points": [
+            "4 notti in hotel – Bangkok e Pattaya",
+            "Colazione quotidiana",
+            "Escursione a Coral Island con pranzo",
+            "Safari World e Marine Park con pranzo",
+            "Zoo delle tigri di Sri Racha e tutti i biglietti d'ingresso"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Bangkok e Pattaya 4N/5G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "5n-6d-hongkong-tour-package": {
       "file_name": "5n-6d-hongkong-tour-package.html",
@@ -8674,7 +8728,35 @@
           "title": "Tutti i trasferimenti",
           "description": "Trasferimenti aeroportuali e trasporti interurbani"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Tre notti a Hong Kong e due a Macao in hotel di alto livello, con Ocean Park e la traversata in traghetto.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Hong Kong e Macao 5N/6G",
+          "amount": "₹87,499",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹1,24,999 · 30% di sconto · Camera doppia · Voli internazionali esclusi",
+          "points": [
+            "3N Hong Kong + 2N Macao in hotel di alto livello",
+            "Colazione quotidiana inclusa in tutti gli hotel",
+            "Biglietto d'ingresso giornaliero a Ocean Park",
+            "Visite guidate della città sia a Hong Kong sia a Macao",
+            "Biglietti del traghetto Hong Kong ↔ Macao",
+            "Voli internazionali e visto per Hong Kong/Macao non inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Hong Kong e Macao 5N/6G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "7n-8d-bhutan-tour-package": {
       "file_name": "7n-8d-7n-8d-bhutan-tour-package-package.html",
@@ -8830,7 +8912,34 @@
           "title": "Guida turistica",
           "description": "Guida esperta di lingua inglese"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Phuentsholing, Thimphu, Punakha e Paro in 8 giorni, con tutti i pasti, i permessi e i trasporti con aria condizionata inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Bhutan 7N/8G",
+          "amount": "₹45,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹65,999 · 30% di sconto · Camera doppia · Partenza da Bagdogra",
+          "points": [
+            "7 notti in hotel – Phuentsholing, Thimphu, Punakha, Paro",
+            "Colazione, pranzo e cena tutti i giorni",
+            "Tutti i trasferimenti e le visite in veicolo con aria condizionata",
+            "Permessi d'ingresso in Bhutan e permessi per le aree speciali",
+            "Guida parlante inglese"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Bhutan 7N/8G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "7n-8d-vietam-tour-package": {
       "file_name": "7n-8d-vietam-tour-package.html",
@@ -8987,7 +9096,34 @@
           "title": "Tariffe d'ingresso",
           "description": "Tutti i biglietti d'ingresso ai siti elencati sono inclusi"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Hanoi, la baia di Ha Long, Da Nang, Hoi An e Ho Chi Minh City in 8 giorni, con una notte in crociera deluxe ed entrambi i voli interni inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Vietnam 7N/8G",
+          "amount": "₹64,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹92,999 · 30% di sconto · Camera doppia · Voli internazionali esclusi",
+          "points": [
+            "7 notti in hotel più 1 notte in crociera Deluxe nella baia di Ha Long",
+            "Colazione quotidiana e tutti i pasti a bordo della crociera",
+            "2 voli interni inclusi (Hanoi–Da Nang, Da Nang–Ho Chi Minh City)",
+            "Guida parlante inglese e tutti i biglietti d'ingresso",
+            "Voli internazionali e visto non inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Vietnam 7N/8G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "7N-8D-thailand-tour-package": {
       "file_name": "7N-8D-thailand-tour-package.html",
@@ -9148,7 +9284,35 @@
           "title": "Guide esperte",
           "description": "Guide professionali di lingua inglese per tutti i tour"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Pattaya, Bangkok, Krabi e Phuket in otto giorni, con le escursioni in motoscafo e il volo Bangkok–Krabi inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Thailandia 7N/8G",
+          "amount": "₹38,499",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹54,999 · 30% di sconto · Camera doppia · Pacchetto terrestre + volo interno",
+          "points": [
+            "7 notti – 2N Pattaya, 2N Bangkok, 1N Krabi, 2N Phuket",
+            "Colazione quotidiana e pranzo a buffet durante le escursioni alle isole",
+            "Escursioni in motoscafo a Coral Island e alle isole Phi Phi",
+            "Tour della città di Bangkok e dei templi",
+            "Volo interno (Bangkok–Krabi) e tutti i trasferimenti privati",
+            "Guida parlante inglese"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Thailandia 7N/8G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "8n-9d-turkey-tour-package": {
       "file_name": "8n-9d-turkey-tour-package.html",
@@ -9310,7 +9474,35 @@
           "title": "Tariffe d'ingresso",
           "description": "Tutti i biglietti d'ingresso ai siti elencati sono inclusi"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Istanbul, Cappadocia e Adalia in nove giorni, con entrambi i voli interni e l'escursione a Pamukkale inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Turchia 8N/9G",
+          "amount": "₹97,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹1,39,999 · 30% di sconto · Camera doppia · Voli interni inclusi · Partenza da Goa",
+          "points": [
+            "8 notti – Istanbul, Cappadocia, Adalia",
+            "Colazione quotidiana e 3 cene ad Adalia",
+            "Voli interni (Istanbul–Cappadocia e Adalia–Istanbul)",
+            "Crociera sul Bosforo ed escursione a Pamukkale e Hierapolis",
+            "Tutti i trasferimenti privati e i biglietti d'ingresso",
+            "Guide locali parlanti inglese"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Turchia 8N/9G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "baku-tour-package": {
       "file_name": "baku-tour-package.html",
@@ -9473,7 +9665,35 @@
           "title": "Assicurazione di viaggio",
           "description": "Assicurazione di viaggio completa inclusa"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Sei notti tra Gabala, Baku e Quba, con funivie, siti UNESCO e la maggior parte dei pasti inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Baku 6N/7G",
+          "amount": "₹47,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹67,999 · 30% di sconto · Camera doppia · Voli internazionali esclusi",
+          "points": [
+            "6 notti tra Gabala, Baku e Quba",
+            "Colazione, 5 pranzi e 6 cene inclusi",
+            "Funivie di Tufandag e Shahdag e giro in barca sul lago Nohur",
+            "Siti UNESCO di Sheki, Gobustan e del Palazzo degli Shirvanshah",
+            "Guida parlante inglese e assicurazione di viaggio incluse",
+            "Voli internazionali ed e-Visa per l'Azerbaigian non inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Baku 6N/7G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "bali-tour-package": {
       "file_name": "bali-tour-package.html",
@@ -9611,7 +9831,35 @@
           "title": "Tutti i trasferimenti",
           "description": "Trasferimenti aeroportuali e trasporto turistico"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Quattro notti nella zona di Kuta con sport acquatici, spa balinese, Bali Swing e un'intera giornata a Nusa Penida.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Bali 4N/5G",
+          "amount": "₹39,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹56,999 · 30% di sconto · Camera doppia · Voli internazionali esclusi",
+          "points": [
+            "4 notti nella zona di Kuta (a scelta 3★/4★/5★)",
+            "Colazione quotidiana inclusa",
+            "Sport acquatici a Benoa Beach e giro in banana boat",
+            "Spa balinese di 120 minuti e Bali Swing a Ubud",
+            "Escursione di un'intera giornata all'isola di Nusa Penida con pranzo incluso",
+            "Voli internazionali e visto all'arrivo per l'Indonesia non inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Bali 4N/5G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "combodia-tour-package": {
       "file_name": "combodia-tour-package.html",
@@ -9918,7 +10166,35 @@
           "title": "Offerta speciale",
           "description": "Sconto del 30% sul prezzo totale del pacchetto"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Cinque notti in hotel 4★ con il Burj Khalifa, un safari nel deserto, Aquaventure e una giornata ad Abu Dhabi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Dubai 5N/6G",
+          "amount": "₹55,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹79,999 · 30% di sconto · Camera doppia · Voli internazionali esclusi",
+          "points": [
+            "5 notti in hotel 4★ con colazione quotidiana, 2 pranzi e 2 cene",
+            "Burj Khalifa (124° piano), safari nel deserto con cena barbecue e crociera in dhow",
+            "Giornata intera all'Aquaventure Waterpark e al Lost Chambers Aquarium",
+            "Escursione ad Abu Dhabi: Moschea Sheikh Zayed, Ferrari World, Emirates Palace",
+            "Guida parlante inglese e tutti i biglietti d'ingresso alle attrazioni inclusi",
+            "Voli internazionali e visto per gli Emirati non inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Dubai 5N/6G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "georgia-tour-package": {
       "file_name": "georgia-tour-package.html",
@@ -10516,7 +10792,34 @@
           "title": "Spettacoli culturali",
           "description": "Esperienza dello spettacolo culturale Tharu a Chitwan inclusa"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Kathmandu, Chitwan e Pokhara in 7 giorni, con safari nella giungla, spettacolo culturale e trasferimenti in SUV privato.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Nepal 6N/7G",
+          "amount": "₹25,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹35,999 · 30% di sconto · Camera doppia · Nessun visto richiesto per i cittadini indiani",
+          "points": [
+            "6 notti in hotel – Kathmandu, Chitwan, Pokhara",
+            "Colazione quotidiana in tutti gli hotel",
+            "Trasferimenti da e per l'aeroporto in SUV Scorpio",
+            "Safari in jeep nella giungla di Chitwan e spettacolo culturale tharu",
+            "Guida parlante inglese per tutta la durata del viaggio"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Nepal 6N/7G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "nepal-muktinath-special": {
       "file_name": "Nepal-with-Muktinath.html",
@@ -10802,7 +11105,35 @@
           "title": "Assicurazione di viaggio",
           "description": "Assicurazione contro gli infortuni obbligatoria per la tua tranquillità"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Due notti a Krabi e due a Phuket, con due escursioni in motoscafo e tutti i trasferimenti privati.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Phuket e Krabi 4N/5G",
+          "amount": "₹40,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹58,999 · 30% di sconto · Camera doppia · Voli internazionali esclusi",
+          "points": [
+            "2N Krabi (camera Deluxe) + 2N Phuket (camera Superior vista mare)",
+            "Colazione quotidiana in tutti gli hotel",
+            "Tour delle 4 isole e tour delle isole Phi Phi in motoscafo, entrambi con pranzo",
+            "Tour della città di Phuket e tutti i trasferimenti privati tra aeroporto, Krabi e Phuket",
+            "Assicurazione di viaggio obbligatoria inclusa",
+            "Voli internazionali e visto d'ingresso per la Thailandia non inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Phuket e Krabi 4N/5G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "singapore-tour-package": {
       "file_name": "singapore-tour-package.html",
@@ -10959,7 +11290,35 @@
           "title": "Safari notturno",
           "description": "Tour Safari notturno con trasporto privato"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Sette giorni a Singapore con Gardens by the Bay, Sentosa, Universal Studios e il Night Safari inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Singapore 6N/7G",
+          "amount": "₹52,499",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹74,999 · 30% di sconto · Camera doppia · Voli esclusi",
+          "points": [
+            "5 notti al Chancellor @ Orchard, Singapore",
+            "Colazione quotidiana",
+            "Trasferimenti aeroportuali di andata e ritorno",
+            "Tour della città, Gardens by the Bay e MBS SkyPark",
+            "Combo avventura sull'isola di Sentosa",
+            "Universal Studios e Night Safari"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Singapore 6N/7G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "srilanka-tour-package": {
       "file_name": "srilanka-tour-package.html",
@@ -11258,7 +11617,34 @@
           "title": "Tutti i trasferimenti",
           "description": "Trasferimenti aeroportuali e trasporti interurbani"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Tre notti a Istanbul e due in Cappadocia in hotel 4★, con il volo interno di andata e ritorno incluso.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Turchia 5N/6G",
+          "amount": "₹62,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹89,999 · 30% di sconto · Camera doppia · Voli internazionali esclusi",
+          "points": [
+            "3N Istanbul + 2N Cappadocia in hotel 4★",
+            "Colazione quotidiana e cene turche speciali",
+            "Volo interno di andata e ritorno Istanbul–Cappadocia",
+            "Crociera di lusso sul Bosforo e tutte le visite guidate",
+            "Voli internazionali ed e-Visa per la Turchia non inclusi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Turchia 5N/6G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "vitnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
@@ -11402,7 +11788,34 @@
           "title": "Guida inglese",
           "description": "Guida turistica professionale di lingua inglese"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del pacchetto",
+        "sectionSubtitle": "Hanoi, la baia di Ha Long e Da Nang/Hoi An in 6 giorni, con il volo interno Hanoi–Da Nang e tutti i trasferimenti inclusi.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Pacchetto Vietnam 5N/6G",
+          "amount": "₹54,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Invece di ₹79,999 · 31% di sconto · Camera doppia",
+          "points": [
+            "5 notti in hotel – Hanoi, baia di Ha Long, Da Nang/Hoi An",
+            "Colazione quotidiana e pasti selezionati secondo l'itinerario",
+            "1 volo interno incluso (Hanoi–Da Nang)",
+            "Guida parlante inglese e tutti i biglietti d'ingresso",
+            "Tutti i trasferimenti aeroportuali e gli spostamenti tra le città in veicolo con aria condizionata"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto Vietnam 5N/6G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "kerala-tour-package-from-goa": {
       "rating": "4.8",

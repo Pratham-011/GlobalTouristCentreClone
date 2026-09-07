@@ -1773,7 +1773,34 @@
           "title": "Dinner Cruise",
           "description": "Chao Phraya River Cruise with dinner"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "A short four-day break in Pattaya and Bangkok with Coral Island and a full city tour included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Bangkok & Pattaya 3N/4D Tour Package",
+          "amount": "₹15,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹22,999 · 30% OFF · Twin sharing · Excluding airfare",
+          "points": [
+            "3 nights hotel stay – Pattaya and Bangkok",
+            "Daily breakfast",
+            "Coral Island tour with lunch",
+            "Bangkok city tour (temples and Gems Gallery)",
+            "All transfers included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Bangkok & Pattaya 3N/4D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "4N-5D-bangkok-tour-package": {
       "file_name": "4N-5D-bangkok-tour-package.html",
@@ -1911,7 +1938,34 @@
           "title": "All Entry Tickets",
           "description": "All temple and attraction entry fees"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Five days across Bangkok and Pattaya with Coral Island, Safari World and Sri Racha Tiger Zoo included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Bangkok & Pattaya 4N/5D Tour Package",
+          "amount": "₹20,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹29,999 · 30% OFF · Twin sharing · Excluding airfare",
+          "points": [
+            "4 nights hotel stay – Bangkok and Pattaya",
+            "Daily breakfast",
+            "Coral Island tour with lunch",
+            "Safari World and Marine Park with lunch",
+            "Sri Racha Tiger Zoo plus all entry tickets"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Bangkok & Pattaya 4N/5D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "7N-8D-thailand-tour-package": {
       "file_name": "7N-8D-thailand-tour-package.html",
@@ -2072,7 +2126,35 @@
           "title": "Expert Guides",
           "description": "Professional English-speaking guides for all tours"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Pattaya, Bangkok, Krabi and Phuket in eight days, with speedboat island tours and the Bangkok–Krabi flight included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Thailand 7N/8D Tour Package",
+          "amount": "₹38,499",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹54,999 · 30% OFF · Twin sharing · Land package + domestic flight",
+          "points": [
+            "7 nights – 2N Pattaya, 2N Bangkok, 1N Krabi, 2N Phuket",
+            "Daily breakfast plus buffet lunch on island tours",
+            "Coral Island and Phi Phi Island speedboat tours",
+            "Bangkok city and temple tour",
+            "Domestic flight (Bangkok–Krabi) and all private transfers",
+            "English-speaking guide"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Thailand 7N/8D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "5n-6d-hongkong-tour-package": {
       "file_name": "5n-6d-hongkong-tour-package.html",
@@ -2216,7 +2298,35 @@
           "title": "All Transfers",
           "description": "Airport transfers and inter-city transport"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Three nights in Hong Kong and two in Macau at premium hotels, with Ocean Park and the ferry crossing included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Hong Kong & Macau 5N/6D Tour Package",
+          "amount": "₹87,499",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹1,24,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "3N Hong Kong + 2N Macau at premium hotels",
+            "Daily breakfast included at all hotels",
+            "Full-day Ocean Park entry pass",
+            "Guided city tours in both Hong Kong and Macau",
+            "Hong Kong ↔ Macau ferry tickets",
+            "International flights and Hong Kong/Macau visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Hong Kong & Macau 5N/6D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "7n-8d-bhutan-tour-package": {
       "file_name": "7n-8d-7n-8d-bhutan-tour-package-package.html",
@@ -2372,7 +2482,34 @@
           "title": "Tour Guide",
           "description": "Experienced English-speaking guide"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Phuentsholing, Thimphu, Punakha and Paro over 8 days, with all meals, permits and AC transport handled for you.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Bhutan 7N/8D Tour Package",
+          "amount": "₹45,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹65,999 · 30% OFF · Twin sharing · Ex-Bagdogra",
+          "points": [
+            "7 nights hotel stay – Phuentsholing, Thimphu, Punakha, Paro",
+            "Daily breakfast, lunch and dinner",
+            "All transfers and sightseeing by AC vehicle",
+            "Bhutan entry permits and special area permits",
+            "English-speaking guide"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Bhutan 7N/8D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "7n-8d-vietam-tour-package": {
       "file_name": "7n-8d-vietam-tour-package.html",
@@ -2529,7 +2666,34 @@
           "title": "Entrance Fees",
           "description": "All listed site entrance fees included"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Hanoi, Ha Long Bay, Da Nang, Hoi An and Ho Chi Minh City over 8 days, with an overnight deluxe cruise and both domestic flights included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Vietnam 7N/8D Tour Package",
+          "amount": "₹64,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹92,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "7 nights hotel stay plus 1 night on a Deluxe Ha Long Bay cruise",
+            "Daily breakfast and all meals on the cruise",
+            "2 domestic flights included (Hanoi–Da Nang, Da Nang–Ho Chi Minh City)",
+            "English-speaking guide and all entrance fees",
+            "International flights and visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Vietnam 7N/8D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "8n-9d-turkey-tour-package": {
       "file_name": "8n-9d-turkey-tour-package.html",
@@ -2691,7 +2855,35 @@
           "title": "Entrance Fees",
           "description": "All listed site entrance fees included"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Istanbul, Cappadocia and Antalya across nine days, with both domestic flights and the Pamukkale day trip included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Turkey 8N/9D Tour Package",
+          "amount": "₹97,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹1,39,999 · 30% OFF · Twin sharing · Domestic flights included · Ex-Goa",
+          "points": [
+            "8 nights stay – Istanbul, Cappadocia, Antalya",
+            "Daily breakfast plus 3 dinners in Antalya",
+            "Domestic flights (Istanbul–Cappadocia and Antalya–Istanbul)",
+            "Bosphorus cruise plus Pamukkale and Hierapolis day trip",
+            "All private transfers and entrance fees",
+            "English-speaking local guides"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Turkey 8N/9D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "ajanta-ellora-caves-tour-from-goa": {
       "file_name": "ajanta-ellora-tour-from-goa.html",
@@ -3492,7 +3684,35 @@
           "title": "Travel Insurance",
           "description": "Comprehensive travel insurance included"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Six nights across Gabala, Baku and Quba, with cable cars, UNESCO sites and most meals included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Baku 6N/7D Tour Package",
+          "amount": "₹47,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹67,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "6 nights across Gabala, Baku and Quba",
+            "Breakfast, 5 lunches and 6 dinners included",
+            "Tufandag and Shahdag cable car rides plus Nohur Lake boat ride",
+            "Sheki, Gobustan and Shirvanshah Palace UNESCO sites covered",
+            "English-speaking guide and travel insurance included",
+            "International flights and Azerbaijan e-Visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Baku 6N/7D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "cabo-serai-2n-3d-luxury-getaway": {
       "file_name": "Cabo-Serai-2N-3D-Luxury-Getaway.html",
@@ -4500,7 +4720,35 @@
           "title": "Special Offer",
           "description": "30% discount on total package price"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Five nights in 4★ hotels with Burj Khalifa, a desert safari, Aquaventure and a full Abu Dhabi day trip.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Dubai 5N/6D Tour Package",
+          "amount": "₹55,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹79,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "5 nights in 4★ hotels with daily breakfast, 2 lunches and 2 dinners",
+            "Burj Khalifa (124th floor), desert safari with BBQ dinner and dhow cruise",
+            "Full day at Aquaventure Waterpark and Lost Chambers Aquarium",
+            "Abu Dhabi day trip: Sheikh Zayed Mosque, Ferrari World, Emirates Palace",
+            "English-speaking guide and all attraction entry fees included",
+            "International flights and UAE visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Dubai 5N/6D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "dudhsagar-waterfal-excursion": {
       "file_name": "Dudhsagar-and-Spice-Plantation-Day-Trip-package.html",
@@ -9983,7 +10231,35 @@
           "title": "All Transfers",
           "description": "Airport transfers and tour transportation"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Four nights in the Kuta area with water sports, a Balinese spa, the Bali Swing and a full Nusa Penida day tour.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Bali 4N/5D Tour Package",
+          "amount": "₹39,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹56,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "4 nights in the Kuta area (3★/4★/5★ choice)",
+            "Daily breakfast included",
+            "Benoa Beach water sports and banana boat ride",
+            "120-minute Balinese spa plus Bali Swing at Ubud",
+            "Full-day Nusa Penida island tour with lunch included",
+            "International flights and Indonesia visa-on-arrival are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Bali 4N/5D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "nepal-tour-package": {
       "file_name": "nepal-tour-package.html",
@@ -10132,7 +10408,34 @@
           "title": "Cultural Shows",
           "description": "Tharu Cultural Show experience in Chitwan included"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Kathmandu, Chitwan and Pokhara across 7 days, with a jungle safari, cultural show and private SUV transfers.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Nepal 6N/7D Tour Package",
+          "amount": "₹25,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹35,999 · 30% OFF · Twin sharing · No visa required for Indians",
+          "points": [
+            "6 nights hotel stay – Kathmandu, Chitwan, Pokhara",
+            "Daily breakfast at all hotels",
+            "Airport pickup and drop by Scorpio SUV",
+            "Chitwan jungle jeep safari and Tharu cultural show",
+            "English-speaking guide throughout"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Nepal 6N/7D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "nepal-muktinath-special": {
       "file_name": "Nepal-with-Muktinath.html",
@@ -10418,7 +10721,35 @@
           "title": "Travel Insurance",
           "description": "Mandatory accidental insurance for your peace of mind"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Two nights in Krabi and two in Phuket, with two speedboat island tours and all private transfers.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Phuket & Krabi 4N/5D Tour Package",
+          "amount": "₹40,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹58,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "2N Krabi (Deluxe Room) + 2N Phuket (Superior Sea-view Room)",
+            "Daily breakfast at all hotels",
+            "4 Island tour and Phi Phi Island tour by speedboat, both with lunch",
+            "Phuket city tour plus all private transfers between airport, Krabi and Phuket",
+            "Mandatory travel insurance included",
+            "International flights and Thailand entry visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Phuket & Krabi 4N/5D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "singapore-tour-package": {
       "file_name": "singapore-tour-package.html",
@@ -10575,7 +10906,35 @@
           "title": "Night Safari",
           "description": "Night Safari tour by private transport"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Seven days in Singapore with Gardens by the Bay, Sentosa, Universal Studios and the Night Safari all covered.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Singapore 6N/7D Tour Package",
+          "amount": "₹52,499",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹74,999 · 30% OFF · Twin sharing · Excluding airfare",
+          "points": [
+            "5 nights stay at Chancellor @ Orchard, Singapore",
+            "Daily breakfast",
+            "Return airport transfers",
+            "City tour, Gardens by the Bay and MBS SkyPark",
+            "Sentosa Island adventure combo",
+            "Universal Studios and Night Safari"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Singapore 6N/7D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "srilanka-tour-package": {
       "file_name": "srilanka-tour-package.html",
@@ -10874,7 +11233,34 @@
           "title": "All Transfers",
           "description": "Airport transfers and inter-city transportation"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Three nights in Istanbul and two in Cappadocia at 4★ hotels, with the round-trip domestic flight included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Turkey 5N/6D Tour Package",
+          "amount": "₹62,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹89,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "3N Istanbul + 2N Cappadocia at 4★ hotels",
+            "Daily breakfast plus special Turkish dinners",
+            "Round-trip domestic flight Istanbul–Cappadocia",
+            "Bosphorus luxury cruise and all guided sightseeing",
+            "International flights and Turkey e-Visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Turkey 5N/6D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "vitnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
@@ -11018,7 +11404,34 @@
           "title": "English Guide",
           "description": "Professional English-speaking tour guide"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Hanoi, Ha Long Bay and Da Nang/Hoi An in 6 days, with the Hanoi–Da Nang domestic flight and all transfers included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Vietnam 5N/6D Tour Package",
+          "amount": "₹54,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹79,999 · 31% OFF · Twin sharing",
+          "points": [
+            "5 nights hotel stay – Hanoi, Ha Long Bay, Da Nang/Hoi An",
+            "Daily breakfast plus select meals as per the itinerary",
+            "1 domestic flight included (Hanoi–Da Nang)",
+            "English-speaking guide and all entrance fees",
+            "All airport transfers and inter-city travel by AC vehicle"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Vietnam 5N/6D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "golden-triangle-tour-from-goa": {
       "file_name": "golden-triangle-4-day-tour-from-goa-package.html",

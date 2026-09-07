@@ -7722,7 +7722,34 @@
           "title": "Dîner-croisière",
           "description": "Croisière sur le fleuve Chao Phraya avec dîner"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Une escapade de quatre jours à Pattaya et Bangkok avec Coral Island et une visite complète de la ville.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Bangkok et Pattaya 3N/4J",
+          "amount": "₹15,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹22,999 · 30 % de réduction · Chambre double · Hors billets d'avion",
+          "points": [
+            "3 nuits d'hôtel – Pattaya et Bangkok",
+            "Petit-déjeuner quotidien",
+            "Excursion à Coral Island avec déjeuner",
+            "Visite de Bangkok (temples et Gems Gallery)",
+            "Tous les transferts inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Bangkok et Pattaya 3N/4J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "4N-5D-bangkok-tour-package": {
       "file_name": "4N-5D-bangkok-tour-package.html",
@@ -7860,7 +7887,34 @@
           "title": "Tous les billets d'entrée",
           "description": "Tous les frais d’entrée aux temples et aux attractions"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Cinq jours entre Bangkok et Pattaya avec Coral Island, Safari World et le zoo des tigres de Sri Racha inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Bangkok et Pattaya 4N/5J",
+          "amount": "₹20,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹29,999 · 30 % de réduction · Chambre double · Hors billets d'avion",
+          "points": [
+            "4 nuits d'hôtel – Bangkok et Pattaya",
+            "Petit-déjeuner quotidien",
+            "Excursion à Coral Island avec déjeuner",
+            "Safari World et Marine Park avec déjeuner",
+            "Zoo des tigres de Sri Racha et tous les billets d'entrée"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Bangkok et Pattaya 4N/5J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "5n-6d-hongkong-tour-package": {
       "file_name": "5n-6d-hongkong-tour-package.html",
@@ -8004,7 +8058,35 @@
           "title": "Tous les transferts",
           "description": "Transferts aéroportuaires et transports interurbains"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Trois nuits à Hong Kong et deux à Macao dans des hôtels haut de gamme, avec Ocean Park et la traversée en ferry.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Hong Kong et Macao 5N/6J",
+          "amount": "₹87,499",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹1,24,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "3N Hong Kong + 2N Macao dans des hôtels haut de gamme",
+            "Petit-déjeuner quotidien inclus dans tous les hôtels",
+            "Billet d'entrée d'une journée à Ocean Park",
+            "Visites guidées de Hong Kong et de Macao",
+            "Billets de ferry Hong Kong ↔ Macao",
+            "Vols internationaux et visa Hong Kong/Macao non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Hong Kong et Macao 5N/6J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "7n-8d-bhutan-tour-package": {
       "file_name": "7n-8d-7n-8d-bhutan-tour-package-package.html",
@@ -8160,7 +8242,34 @@
           "title": "Guide touristique",
           "description": "Guide anglophone expérimenté"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Phuentsholing, Thimphou, Punakha et Paro en 8 jours, avec tous les repas, les permis et le transport climatisé pris en charge.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Bhoutan 7N/8J",
+          "amount": "₹45,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹65,999 · 30 % de réduction · Chambre double · Au départ de Bagdogra",
+          "points": [
+            "7 nuits d'hôtel – Phuentsholing, Thimphou, Punakha, Paro",
+            "Petit-déjeuner, déjeuner et dîner quotidiens",
+            "Tous les transferts et visites en véhicule climatisé",
+            "Permis d'entrée au Bhoutan et permis de zones spéciales",
+            "Guide anglophone"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Bhoutan 7N/8J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "7n-8d-vietam-tour-package": {
       "file_name": "7n-8d-vietam-tour-package.html",
@@ -8317,7 +8426,34 @@
           "title": "Frais d'entrée",
           "description": "Tous les frais d'entrée sur les sites répertoriés sont inclus"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Hanoï, la baie d'Ha Long, Da Nang, Hoi An et Hô Chi Minh-Ville en 8 jours, avec une nuit en croisière deluxe et les deux vols intérieurs inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Vietnam 7N/8J",
+          "amount": "₹64,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹92,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "7 nuits d'hôtel plus 1 nuit en croisière Deluxe dans la baie d'Ha Long",
+            "Petit-déjeuner quotidien et tous les repas à bord de la croisière",
+            "2 vols intérieurs inclus (Hanoï–Da Nang, Da Nang–Hô Chi Minh-Ville)",
+            "Guide anglophone et tous les frais d'entrée",
+            "Vols internationaux et visa non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Vietnam 7N/8J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "7N-8D-thailand-tour-package": {
       "file_name": "7N-8D-thailand-tour-package.html",
@@ -8478,7 +8614,35 @@
           "title": "Guides experts",
           "description": "Guides professionnels anglophones pour toutes les visites"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Pattaya, Bangkok, Krabi et Phuket en huit jours, avec les excursions en hors-bord et le vol Bangkok–Krabi inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Thaïlande 7N/8J",
+          "amount": "₹38,499",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹54,999 · 30 % de réduction · Chambre double · Forfait terrestre + vol intérieur",
+          "points": [
+            "7 nuits – 2N Pattaya, 2N Bangkok, 1N Krabi, 2N Phuket",
+            "Petit-déjeuner quotidien et déjeuner buffet lors des excursions sur les îles",
+            "Excursions en hors-bord à Coral Island et aux îles Phi Phi",
+            "Visite de Bangkok et de ses temples",
+            "Vol intérieur (Bangkok–Krabi) et tous les transferts privés",
+            "Guide anglophone"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Thaïlande 7N/8J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "8n-9d-turkey-tour-package": {
       "file_name": "8n-9d-turkey-tour-package.html",
@@ -8640,7 +8804,35 @@
           "title": "Frais d'entrée",
           "description": "Tous les frais d'entrée sur les sites répertoriés sont inclus"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Istanbul, la Cappadoce et Antalya en neuf jours, avec les deux vols intérieurs et l'excursion à Pamukkale inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Turquie 8N/9J",
+          "amount": "₹97,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹1,39,999 · 30 % de réduction · Chambre double · Vols intérieurs inclus · Au départ de Goa",
+          "points": [
+            "8 nuits – Istanbul, Cappadoce, Antalya",
+            "Petit-déjeuner quotidien et 3 dîners à Antalya",
+            "Vols intérieurs (Istanbul–Cappadoce et Antalya–Istanbul)",
+            "Croisière sur le Bosphore et excursion à Pamukkale et Hiérapolis",
+            "Tous les transferts privés et frais d'entrée",
+            "Guides locaux anglophones"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Turquie 8N/9J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "baku-tour-package": {
       "file_name": "baku-tour-package.html",
@@ -8803,7 +8995,35 @@
           "title": "Assurance voyage",
           "description": "Assurance voyage complète incluse"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Six nuits entre Gabala, Bakou et Quba, avec téléphériques, sites UNESCO et la plupart des repas inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Bakou 6N/7J",
+          "amount": "₹47,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹67,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "6 nuits réparties entre Gabala, Bakou et Quba",
+            "Petit-déjeuner, 5 déjeuners et 6 dîners inclus",
+            "Téléphériques de Tufandag et Shahdag et promenade en bateau sur le lac Nohur",
+            "Sites UNESCO de Sheki, Gobustan et du palais des Chirvanchahs",
+            "Guide anglophone et assurance voyage inclus",
+            "Vols internationaux et e-Visa azerbaïdjanais non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Bakou 6N/7J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "bali-tour-package": {
       "file_name": "bali-tour-package.html",
@@ -8941,7 +9161,35 @@
           "title": "Tous les transferts",
           "description": "Transferts aéroport et transport touristique"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Quatre nuits dans la région de Kuta avec sports nautiques, spa balinais, Bali Swing et une journée à Nusa Penida.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Bali 4N/5J",
+          "amount": "₹39,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹56,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "4 nuits dans la région de Kuta (au choix 3★/4★/5★)",
+            "Petit-déjeuner quotidien inclus",
+            "Sports nautiques à Benoa Beach et tour en banana boat",
+            "Spa balinais de 120 minutes et Bali Swing à Ubud",
+            "Excursion d'une journée à Nusa Penida, déjeuner inclus",
+            "Vols internationaux et visa à l'arrivée en Indonésie non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Bali 4N/5J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "combodia-tour-package": {
       "file_name": "combodia-tour-package.html",
@@ -9248,7 +9496,35 @@
           "title": "Offre spéciale",
           "description": "30% de réduction sur le prix total du forfait"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Cinq nuits en hôtels 4★ avec le Burj Khalifa, un safari dans le désert, Aquaventure et une journée à Abou Dhabi.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Dubaï 5N/6J",
+          "amount": "₹55,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹79,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "5 nuits en hôtels 4★ avec petit-déjeuner quotidien, 2 déjeuners et 2 dîners",
+            "Burj Khalifa (124e étage), safari dans le désert avec dîner barbecue et croisière en dhow",
+            "Journée complète à Aquaventure Waterpark et Lost Chambers Aquarium",
+            "Excursion à Abou Dhabi : mosquée Cheikh Zayed, Ferrari World, Emirates Palace",
+            "Guide anglophone et tous les frais d'entrée aux attractions inclus",
+            "Vols internationaux et visa pour les Émirats non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Dubaï 5N/6J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "georgia-tour-package": {
       "file_name": "georgia-tour-package.html",
@@ -9846,7 +10122,34 @@
           "title": "Spectacles culturels",
           "description": "Expérience du spectacle culturel Tharu à Chitwan incluse"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Katmandou, Chitwan et Pokhara en 7 jours, avec safari dans la jungle, spectacle culturel et transferts en SUV privé.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Népal 6N/7J",
+          "amount": "₹25,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹35,999 · 30 % de réduction · Chambre double · Aucun visa requis pour les Indiens",
+          "points": [
+            "6 nuits d'hôtel – Katmandou, Chitwan, Pokhara",
+            "Petit-déjeuner quotidien dans tous les hôtels",
+            "Transferts aéroport aller-retour en SUV Scorpio",
+            "Safari en jeep dans la jungle de Chitwan et spectacle culturel tharu",
+            "Guide anglophone tout au long du séjour"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Népal 6N/7J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "nepal-muktinath-special": {
       "file_name": "Nepal-with-Muktinath.html",
@@ -10132,7 +10435,35 @@
           "title": "Assurance voyage",
           "description": "Assurance accident obligatoire pour votre tranquillité d'esprit"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Deux nuits à Krabi et deux à Phuket, avec deux excursions en hors-bord et tous les transferts privés.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Phuket et Krabi 4N/5J",
+          "amount": "₹40,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹58,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "2N Krabi (chambre Deluxe) + 2N Phuket (chambre Supérieure vue mer)",
+            "Petit-déjeuner quotidien dans tous les hôtels",
+            "Excursion des 4 îles et excursion aux îles Phi Phi en hors-bord, déjeuner inclus",
+            "Visite de Phuket et tous les transferts privés entre l'aéroport, Krabi et Phuket",
+            "Assurance voyage obligatoire incluse",
+            "Vols internationaux et visa d'entrée en Thaïlande non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Phuket et Krabi 4N/5J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "singapore-tour-package": {
       "file_name": "singapore-tour-package.html",
@@ -10289,7 +10620,35 @@
           "title": "Safari de nuit",
           "description": "Safari nocturne en transport privé"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Sept jours à Singapour avec Gardens by the Bay, Sentosa, Universal Studios et le Night Safari inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Singapour 6N/7J",
+          "amount": "₹52,499",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹74,999 · 30 % de réduction · Chambre double · Hors billets d'avion",
+          "points": [
+            "5 nuits au Chancellor @ Orchard, Singapour",
+            "Petit-déjeuner quotidien",
+            "Transferts aéroport aller-retour",
+            "Visite de la ville, Gardens by the Bay et MBS SkyPark",
+            "Combo aventure sur l'île de Sentosa",
+            "Universal Studios et Night Safari"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Singapour 6N/7J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "srilanka-tour-package": {
       "file_name": "srilanka-tour-package.html",
@@ -10588,7 +10947,34 @@
           "title": "Tous les transferts",
           "description": "Transferts aéroportuaires et transports interurbains"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Trois nuits à Istanbul et deux en Cappadoce dans des hôtels 4★, avec le vol intérieur aller-retour inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Turquie 5N/6J",
+          "amount": "₹62,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹89,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "3N Istanbul + 2N Cappadoce dans des hôtels 4★",
+            "Petit-déjeuner quotidien et dîners turcs spéciaux",
+            "Vol intérieur aller-retour Istanbul–Cappadoce",
+            "Croisière de luxe sur le Bosphore et toutes les visites guidées",
+            "Vols internationaux et e-Visa turc non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Turquie 5N/6J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "vitnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
@@ -10732,7 +11118,34 @@
           "title": "Guide en anglais",
           "description": "Guide touristique professionnel anglophone"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Hanoï, la baie d'Ha Long et Da Nang/Hoi An en 6 jours, avec le vol intérieur Hanoï–Da Nang et tous les transferts inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Vietnam 5N/6J",
+          "amount": "₹54,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹79,999 · 31 % de réduction · Chambre double",
+          "points": [
+            "5 nuits d'hôtel – Hanoï, baie d'Ha Long, Da Nang/Hoi An",
+            "Petit-déjeuner quotidien et repas sélectionnés selon l'itinéraire",
+            "1 vol intérieur inclus (Hanoï–Da Nang)",
+            "Guide anglophone et tous les frais d'entrée",
+            "Tous les transferts aéroport et les trajets entre villes en véhicule climatisé"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Vietnam 5N/6J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     }
   }
 }

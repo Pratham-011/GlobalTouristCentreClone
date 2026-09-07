@@ -25,11 +25,16 @@ type TourClientProps = {
   tourId: TripId;
 };
 
+/** True when a tour ships a pricing block (Indian fare card at minimum). */
+function hasPriceBlock(price: unknown): price is TourPriceData {
+  if (!price || typeof price !== "object") return false;
+  return !!(price as TourPriceData).domestic;
+}
+
 /** True when a tour has opted into dual domestic/international fares. */
 function isDualPrice(price: unknown): price is TourPriceData {
-  if (!price || typeof price !== "object") return false;
-  const p = price as TourPriceData;
-  return !!p.domestic && !!p.international;
+  if (!hasPriceBlock(price)) return false;
+  return !!price.international;
 }
 
 /** True when itinerary is split into domestic/international day lists. */
@@ -80,6 +85,7 @@ export default function TourClient({ tourId }: TourClientProps) {
   //   );
   // }
 
+  const hasPrice = hasPriceBlock(price);
   const hasDualPrice = isDualPrice(price);
   const hasSplitItinerary = isSplitItinerary(itinerary);
   const flatItinerary = Array.isArray(itinerary)
@@ -112,8 +118,8 @@ export default function TourClient({ tourId }: TourClientProps) {
         <HorizontalLeadForm tourSlug={tourId} />
       )}
 
-      {/* Pricing — any tour with price.domestic + price.international */}
-      {hasDualPrice && <TourPrice price={price} />}
+      {/* Pricing — any tour with price.domestic; second card only if price.international */}
+      {hasPrice && <TourPrice price={price} />}
 
       {/* Itinerary — split tracks or legacy flat array */}
       {hasSplitItinerary && (
