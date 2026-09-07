@@ -206,6 +206,55 @@
           "description": "Trasferimento da/per il vostro hotel o punto designato (Goa del Nord: Arpora, Baga, Calangute, Candolim; in alternativa: Panjim, Margao, Dabolim, Tivim)."
         }
       ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Due Pacchetti",
+        "sectionSubtitle": "Due notti in pensione completa al Wildernest Nature Resort, nei Chorla Ghats, con trekking guidati, ceramica e sessioni di henné.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Ritiro naturalistico Wondrous Wildernest 2N/3G",
+          "amount": "₹13,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Base camera doppia · ritiro naturalistico in pensione completa",
+          "points": [
+            "2 notti in pensione completa al Wildernest Nature Resort",
+            "Tutti i pasti: colazione, pranzo, cena e tè/snack serale",
+            "Trekking nella foresta, trekking al tramonto, ceramica e sessioni di henné",
+            "Programma di intrattenimento serale",
+            "Prelievo e rientro dagli hotel del nord di Goa"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Ritiro naturalistico Wondrous Wildernest 2N/3G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        },
+        "international": {
+          "badge": "Viaggiatore internazionale",
+          "packageName": "Ritiro naturalistico Wildernest in pensione completa",
+          "amount": "$209",
+          "currency": "USD",
+          "per": "persona",
+          "note": "Base camera doppia · ritiro naturalistico in pensione completa",
+          "points": [
+            "2 notti al Wildernest Nature Resort, nei Chorla Ghats",
+            "Tutti i pasti: colazione a buffet, pranzo, cena e tè serale",
+            "Trekking guidati nella foresta e al tramonto",
+            "Sessioni di ceramica e di arte tradizionale dell'henné",
+            "Trasferimenti privati di andata e ritorno – hotel di Goa o aeroporto"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Ritiro naturalistico Wildernest in pensione completa al prezzo per viaggiatori internazionali. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      },
       "exclusions": [
         {
           "title": "Bevande dal bar",
@@ -4035,7 +4084,54 @@
           "title": "Supporto",
           "description": "Assistenza clienti 24 ore su 24, 7 giorni su 7 durante il soggiorno"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Due Pacchetti",
+        "sectionSubtitle": "Due notti in un cottage di lusso a picco sul Mar Arabico, nel sud di Goa, con colazioni, trasferimenti e assistenza 24 ore su 24.",
+        "domestic": {
+          "badge": "Viaggiatore indiano",
+          "packageName": "Fuga di lusso Cabo Serai 2N/3G",
+          "amount": "₹12,999",
+          "currency": "INR",
+          "per": "persona",
+          "note": "Base camera doppia · colazioni e trasferimenti inclusi",
+          "points": [
+            "2 notti in un cottage di lusso con vista sul Mar Arabico e sulla foresta",
+            "Colazione quotidiana (giorni 2 e 3)",
+            "Prelievo e rientro da Benaulim, Colva, Varca o Sernabatim",
+            "Assistenza in struttura 24 ore su 24, 7 giorni su 7"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Fuga di lusso Cabo Serai 2N/3G al prezzo per viaggiatori indiani. Potete inviarmi i dettagli?"
+            }
+          }
+        },
+        "international": {
+          "badge": "Viaggiatore internazionale",
+          "packageName": "Eco-retreat sulla scogliera di Cabo Serai",
+          "amount": "$299",
+          "currency": "USD",
+          "per": "persona",
+          "note": "Base camera doppia · colazioni e trasferimenti inclusi",
+          "points": [
+            "2 notti in un eco-cottage di lusso con vista sull'oceano e sulla foresta",
+            "Colazione quotidiana (giorni 2 e 3)",
+            "Trasferimenti di andata e ritorno dalla fascia costiera del sud di Goa",
+            "Assistenza 24 ore su 24 per tutta la durata del soggiorno"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Eco-retreat sulla scogliera di Cabo Serai al prezzo per viaggiatori internazionali. Potete inviarmi i dettagli?"
+            }
+          }
+        }
+      }
     },
     "dandeli-2-day-tour-from-goa": {
       "file_name": "dandeli-2-day-tour-from-goa-from-goa.html",

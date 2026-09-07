@@ -206,6 +206,55 @@
           "description": "Pick-up and drop-off from your hotel or designated point (North Goa: Arpora, Baga, Calangute, Candolim; alternative: Panjim, Margao, Dabolim, Tivim)."
         }
       ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Two Packages",
+        "sectionSubtitle": "Two nights full board at Wildernest Nature Resort in the Chorla Ghats, with guided treks, pottery and henna sessions included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Wondrous Wildernest Nature Retreat 2N/3D",
+          "amount": "₹13,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Twin sharing basis · full-board nature retreat",
+          "points": [
+            "2 nights full-board stay at Wildernest Nature Resort",
+            "All meals: breakfast, lunch, dinner and evening tea/snacks",
+            "Forest treks, sunset treks, pottery and henna sessions",
+            "Evening entertainment program",
+            "Pickup and drop from North Goa hotels"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Wondrous Wildernest Nature Retreat 2N/3D at the Indian traveller price. Please share the details."
+            }
+          }
+        },
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Wildernest Full-Board Nature Retreat",
+          "amount": "$209",
+          "currency": "USD",
+          "per": "person",
+          "note": "Twin sharing basis · full-board nature retreat",
+          "points": [
+            "2 nights at Wildernest Nature Resort in the Chorla Ghats",
+            "All meals: buffet breakfast, lunch, dinner and evening tea",
+            "Guided forest treks and sunset treks",
+            "Pottery and traditional henna art sessions",
+            "Private pickup and drop – Goa hotels or airport"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Wildernest Full-Board Nature Retreat at the international traveller price. Please share the details."
+            }
+          }
+        }
+      },
       "exclusions": [
         {
           "title": "Bar Drinks",
@@ -3879,7 +3928,54 @@
           "title": "Support",
           "description": "24/7 customer support during your stay"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Two Packages",
+        "sectionSubtitle": "Two nights in a clifftop luxury cottage above the Arabian Sea in South Goa, with breakfasts, transfers and round-the-clock support.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Cabo Serai 2N/3D Luxury Getaway",
+          "amount": "₹12,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Twin sharing basis · breakfast and transfers included",
+          "points": [
+            "2 nights in a Luxury Cottage with Arabian Sea and forest views",
+            "Daily breakfast (Day 2 & Day 3)",
+            "Pickup and drop from Benaulim, Colva, Varca or Sernabatim",
+            "24/7 on-property support"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Cabo Serai 2N/3D Luxury Getaway at the Indian traveller price. Please share the details."
+            }
+          }
+        },
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Cabo Serai Clifftop Eco-Retreat",
+          "amount": "$299",
+          "currency": "USD",
+          "per": "person",
+          "note": "Twin sharing basis · breakfast and transfers included",
+          "points": [
+            "2 nights in a luxury eco-cottage with ocean and forest views",
+            "Daily breakfast (Day 2 & Day 3)",
+            "Round-trip transfers from the South Goa beach belt",
+            "24/7 support throughout your stay"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Cabo Serai Clifftop Eco-Retreat at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "combodia-tour-package": {
       "file_name": "combodia-tour-package.html",
