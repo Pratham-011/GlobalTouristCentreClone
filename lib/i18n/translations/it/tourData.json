@@ -51,138 +51,248 @@
           "description": "Trekking, ceramica, henna e intrattenimento"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Giorno 1",
-          "title": "Arrivo a Wildernest",
-          "description": "Prelievo alle 9:30 dagli hotel del Goa del Nord (Arpora, Baga, Calangute o Candolim). Prelievo alternativo disponibile da Panjim, Margao, Dabolim o Tivim. Pittoresco tragitto fino al Wildernest Nature Resort (circa 1 ora e 45 minuti).",
-          "category": "travel"
-        },
-        {
-          "time": "Giorno 1",
-          "title": "Check-in e Benvenuto",
-          "description": "Check-in al Wildernest Nature Resort con drink di benvenuto all'arrivo.",
-          "category": "arrival"
-        },
-        {
-          "time": "Pomeriggio – Giorno 1",
-          "title": "Pranzo a buffet",
-          "description": "Gustati un sostanzioso pranzo a buffet al resort.",
-          "category": "meal"
-        },
-        {
-          "time": "Pomeriggio – Giorno 1",
-          "title": "Sessione di ceramica",
-          "description": "Sessione pratica di ceramica al resort.",
-          "category": "activity"
-        },
-        {
-          "time": "Pomeriggio – Giorno 1",
-          "title": "Arte Mehendi (Henna) per le signore",
-          "description": "Sessione tradizionale di arte con henna per le signore.",
-          "category": "activity"
-        },
-        {
-          "time": "Pomeriggio – Giorno 1",
-          "title": "Tè pomeridiano / Spuntini",
-          "description": "Rinfrescante tè pomeridiano e spuntini.",
-          "category": "meal"
-        },
-        {
-          "time": "Sera – Giorno 1",
-          "title": "Trekking al tramonto",
-          "description": "Trekking guidato al tramonto lungo i sentieri naturali di Wildernest.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Sera – Giorno 1",
-          "title": "Intrattenimento serale",
-          "description": "Programma di intrattenimento serale al resort.",
-          "category": "activity"
-        },
-        {
-          "time": "Notte – Giorno 1",
-          "title": "Cena a buffet e pernottamento",
-          "description": "Cena a buffet e pernottamento al Wildernest Nature Resort.",
-          "category": "meal"
-        },
-        {
-          "time": "Mattina – Giorno 2",
-          "title": "Trekking forestale",
-          "description": "Trekking mattutino nella foresta lussureggiante che circonda il resort.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Mattina – Giorno 2",
-          "title": "Colazione a buffet",
-          "description": "Colazione a buffet al resort.",
-          "category": "meal"
-        },
-        {
-          "time": "Pomeriggio – Giorno 2",
-          "title": "Pranzo a buffet",
-          "description": "Pranzo a buffet al resort.",
-          "category": "meal"
-        },
-        {
-          "time": "Pomeriggio – Giorno 2",
-          "title": "Sessione di ceramica",
-          "description": "Un'altra sessione pratica di ceramica al resort.",
-          "category": "activity"
-        },
-        {
-          "time": "Pomeriggio – Giorno 2",
-          "title": "Arte Mehendi (Henna) per le signore",
-          "description": "Sessione tradizionale di arte con henna per le signore.",
-          "category": "activity"
-        },
-        {
-          "time": "Pomeriggio – Giorno 2",
-          "title": "Tè pomeridiano / Spuntini",
-          "description": "Rinfrescante tè pomeridiano e spuntini.",
-          "category": "meal"
-        },
-        {
-          "time": "Sera – Giorno 2",
-          "title": "Trekking al tramonto",
-          "description": "Trekking guidato al tramonto lungo i sentieri naturali di Wildernest.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Sera – Giorno 2",
-          "title": "Intrattenimento serale",
-          "description": "Programma di intrattenimento serale al resort.",
-          "category": "activity"
-        },
-        {
-          "time": "Notte – Giorno 2",
-          "title": "Cena a buffet e pernottamento",
-          "description": "Cena a buffet e seconda notte al Wildernest Nature Resort.",
-          "category": "meal"
-        },
-        {
-          "time": "Mattina – Giorno 3",
-          "title": "Trekking forestale",
-          "description": "Trekking mattutino nella foresta prima del check-out.",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Mattina – Giorno 3",
-          "title": "Colazione a buffet e Check-out",
-          "description": "Ultima colazione a buffet al resort seguita dal check-out.",
-          "category": "meal"
-        },
-        {
-          "time": "Giorno 3",
-          "title": "Trasferimento di ritorno",
-          "description": "Trasferimento di ritorno al vostro hotel o al punto di riconsegna designato.",
-          "category": "travel"
-        }
-      ],
+      "itinerary": {
+        "domestic": [
+          {
+            "time": "Giorno 1",
+            "title": "Arrivo a Wildernest",
+            "description": "Prelievo alle 9:30 dagli hotel del Goa del Nord (Arpora, Baga, Calangute o Candolim). Prelievo alternativo disponibile da Panjim, Margao, Dabolim o Tivim. Pittoresco tragitto fino al Wildernest Nature Resort (circa 1 ora e 45 minuti).",
+            "category": "travel"
+          },
+          {
+            "time": "Giorno 1",
+            "title": "Check-in e Benvenuto",
+            "description": "Check-in al Wildernest Nature Resort con drink di benvenuto all'arrivo.",
+            "category": "arrival"
+          },
+          {
+            "time": "Pomeriggio – Giorno 1",
+            "title": "Pranzo a buffet",
+            "description": "Gustati un sostanzioso pranzo a buffet al resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Pomeriggio – Giorno 1",
+            "title": "Sessione di ceramica",
+            "description": "Sessione pratica di ceramica al resort.",
+            "category": "activity"
+          },
+          {
+            "time": "Pomeriggio – Giorno 1",
+            "title": "Arte Mehendi (Henna) per le signore",
+            "description": "Sessione tradizionale di arte con henna per le signore.",
+            "category": "activity"
+          },
+          {
+            "time": "Pomeriggio – Giorno 1",
+            "title": "Tè pomeridiano / Spuntini",
+            "description": "Rinfrescante tè pomeridiano e spuntini.",
+            "category": "meal"
+          },
+          {
+            "time": "Sera – Giorno 1",
+            "title": "Trekking al tramonto",
+            "description": "Trekking guidato al tramonto lungo i sentieri naturali di Wildernest.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Sera – Giorno 1",
+            "title": "Intrattenimento serale",
+            "description": "Programma di intrattenimento serale al resort.",
+            "category": "activity"
+          },
+          {
+            "time": "Notte – Giorno 1",
+            "title": "Cena a buffet e pernottamento",
+            "description": "Cena a buffet e pernottamento al Wildernest Nature Resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Mattina – Giorno 2",
+            "title": "Trekking forestale",
+            "description": "Trekking mattutino nella foresta lussureggiante che circonda il resort.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Mattina – Giorno 2",
+            "title": "Colazione a buffet",
+            "description": "Colazione a buffet al resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Pomeriggio – Giorno 2",
+            "title": "Pranzo a buffet",
+            "description": "Pranzo a buffet al resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Pomeriggio – Giorno 2",
+            "title": "Sessione di ceramica",
+            "description": "Un'altra sessione pratica di ceramica al resort.",
+            "category": "activity"
+          },
+          {
+            "time": "Pomeriggio – Giorno 2",
+            "title": "Arte Mehendi (Henna) per le signore",
+            "description": "Sessione tradizionale di arte con henna per le signore.",
+            "category": "activity"
+          },
+          {
+            "time": "Pomeriggio – Giorno 2",
+            "title": "Tè pomeridiano / Spuntini",
+            "description": "Rinfrescante tè pomeridiano e spuntini.",
+            "category": "meal"
+          },
+          {
+            "time": "Sera – Giorno 2",
+            "title": "Trekking al tramonto",
+            "description": "Trekking guidato al tramonto lungo i sentieri naturali di Wildernest.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Sera – Giorno 2",
+            "title": "Intrattenimento serale",
+            "description": "Programma di intrattenimento serale al resort.",
+            "category": "activity"
+          },
+          {
+            "time": "Notte – Giorno 2",
+            "title": "Cena a buffet e pernottamento",
+            "description": "Cena a buffet e seconda notte al Wildernest Nature Resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Mattina – Giorno 3",
+            "title": "Trekking forestale",
+            "description": "Trekking mattutino nella foresta prima del check-out.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Mattina – Giorno 3",
+            "title": "Colazione a buffet e Check-out",
+            "description": "Ultima colazione a buffet al resort seguita dal check-out.",
+            "category": "meal"
+          },
+          {
+            "time": "Giorno 3",
+            "title": "Trasferimento di ritorno",
+            "description": "Trasferimento di ritorno al vostro hotel o al punto di riconsegna designato.",
+            "category": "travel"
+          }
+        ],
+        "international": [
+          {
+            "time": "Giorno 1",
+            "title": "Arrivo nei Ghati occidentali",
+            "description": "Prelievo alle 9:30 dal vostro hotel di Goa (su richiesta è possibile il transfer dall'aeroporto) per il panoramico viaggio di 1 ora e 45 minuti verso i Chorla Ghats — una rigogliosa regione forestale al confine tra Goa, Karnataka e Maharashtra.",
+            "category": "travel"
+          },
+          {
+            "time": "Giorno 1",
+            "title": "Check-in e drink di benvenuto",
+            "description": "Sistemazione nel cottage immerso nella natura con un drink di benvenuto.",
+            "category": "arrival"
+          },
+          {
+            "time": "Pomeriggio – Giorno 1",
+            "title": "Pranzo a buffet",
+            "description": "Un ricco pranzo a buffet al resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Pomeriggio – Giorno 1",
+            "title": "Ceramica tradizionale indiana",
+            "description": "Provate la ceramica tradizionale indiana — un'introduzione pratica all'artigianato locale.",
+            "category": "activity"
+          },
+          {
+            "time": "Pomeriggio – Giorno 1",
+            "title": "Arte dell'henné (mehendi)",
+            "description": "Sessione facoltativa di arte con l'henné per gli ospiti interessati.",
+            "category": "activity"
+          },
+          {
+            "time": "Sera – Giorno 1",
+            "title": "Trekking guidato al tramonto",
+            "description": "Trekking guidato lungo i sentieri della foresta mentre il sole tramonta sui Ghati.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Notte – Giorno 1",
+            "title": "Cena a buffet e pernottamento",
+            "description": "Cena a buffet e pernottamento circondati dai suoni della foresta.",
+            "category": "meal"
+          },
+          {
+            "time": "Mattina – Giorno 2",
+            "title": "Trekking guidato nella foresta",
+            "description": "Trekking mattutino nella foresta con una guida locale.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Mattina – Giorno 2",
+            "title": "Colazione a buffet",
+            "description": "Colazione a buffet al resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Pomeriggio – Giorno 2",
+            "title": "Pranzo a buffet",
+            "description": "Pranzo a buffet al resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Pomeriggio – Giorno 2",
+            "title": "Sessione di ceramica e henné",
+            "description": "Seconda sessione di ceramica e arte con l'henné.",
+            "category": "activity"
+          },
+          {
+            "time": "Sera – Giorno 2",
+            "title": "Trekking al tramonto",
+            "description": "Un altro trekking al tramonto, con ampie vedute sui Ghati.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Sera – Giorno 2",
+            "title": "Programma di intrattenimento culturale",
+            "description": "Programma di intrattenimento culturale prima di cena.",
+            "category": "activity"
+          },
+          {
+            "time": "Notte – Giorno 2",
+            "title": "Cena a buffet e pernottamento",
+            "description": "Cena a buffet e seconda notte al resort.",
+            "category": "meal"
+          },
+          {
+            "time": "Mattina – Giorno 3",
+            "title": "Trekking nella foresta all'alba",
+            "description": "Un ultimo trekking nella foresta all'alba tra i Ghati.",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Mattina – Giorno 3",
+            "title": "Colazione e check-out",
+            "description": "Ultima colazione al resort seguita dal check-out.",
+            "category": "meal"
+          },
+          {
+            "time": "Giorno 3",
+            "title": "Trasferimento di rientro a Goa",
+            "description": "Trasferimento di rientro al vostro hotel o al punto di riconsegna a Goa.",
+            "category": "travel"
+          }
+        ]
+      },
       "gallery": [],
       "inclusions": [
         {
@@ -3968,70 +4078,136 @@
           "description": "Trattamenti termali disponibili"
         }
       ],
-      "itinerary": [
-        {
-          "time": "Day 1",
-          "title": "Arrivo a Cabo Serai",
-          "description": "Prelievo da Benaulim, Colva, Varca o Sernabatim e trasferimento a Cabo Serai",
-          "category": "arrival"
-        },
-        {
-          "time": "3:00 PM",
-          "title": "Check-in",
-          "description": "Fai il check-in nel tuo cottage di lusso con splendida vista sul Mar Arabico e sulla foresta",
-          "category": "activity"
-        },
-        {
-          "time": "Evening",
-          "title": "Attività ricreative e facoltative",
-          "description": "Rilassati e goditi l'atmosfera serena della struttura o esplora attività opzionali come escursioni, passeggiate nella natura o terapie benessere (costo aggiuntivo)",
-          "category": "activity",
-          "highlight": true
-        },
-        {
-          "time": "Day 2",
-          "title": "Mattinata a disposizione",
-          "description": "Svegliati con viste mozzafiato sul Mar Arabico e sulla foresta circostante",
-          "category": "activity"
-        },
-        {
-          "time": "7:30 AM - 10:30 AM",
-          "title": "Colazione",
-          "description": "Godetevi la colazione presso il ristorante del resort con vista panoramica",
-          "category": "meal"
-        },
-        {
-          "time": "Day Free",
-          "title": "Attività facoltative",
-          "description": "Giornata libera per rilassarsi o dedicarsi ad attività/esperienze (costo aggiuntivo): passeggiate guidate nella natura e birdwatching, kayak o esplorazione della spiaggia, trattamenti spa e benessere, escursioni ai punti panoramici al tramonto",
-          "category": "adventure",
-          "highlight": true
-        },
-        {
-          "time": "Evening",
-          "title": "Serata libera",
-          "description": "Rilassati e goditi l'atmosfera tranquilla di Cabo Serai",
-          "category": "activity"
-        },
-        {
-          "time": "Day 3",
-          "title": "Mattinata a disposizione",
-          "description": "Goditi la tua ultima mattinata in questa bellissima struttura",
-          "category": "activity"
-        },
-        {
-          "time": "7:30 AM - 10:30 AM",
-          "title": "Colazione",
-          "description": "Colazione finale al resort",
-          "category": "meal"
-        },
-        {
-          "time": "11:00 AM",
-          "title": "Check-out e partenza",
-          "description": "Effettua il check-out entro le 11:00 e torna al punto di ritiro",
-          "category": "travel"
-        }
-      ],
+      "itinerary": {
+        "domestic": [
+          {
+            "time": "Day 1",
+            "title": "Arrivo a Cabo Serai",
+            "description": "Prelievo da Benaulim, Colva, Varca o Sernabatim e trasferimento a Cabo Serai",
+            "category": "arrival"
+          },
+          {
+            "time": "3:00 PM",
+            "title": "Check-in",
+            "description": "Fai il check-in nel tuo cottage di lusso con splendida vista sul Mar Arabico e sulla foresta",
+            "category": "activity"
+          },
+          {
+            "time": "Evening",
+            "title": "Attività ricreative e facoltative",
+            "description": "Rilassati e goditi l'atmosfera serena della struttura o esplora attività opzionali come escursioni, passeggiate nella natura o terapie benessere (costo aggiuntivo)",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Day 2",
+            "title": "Mattinata a disposizione",
+            "description": "Svegliati con viste mozzafiato sul Mar Arabico e sulla foresta circostante",
+            "category": "activity"
+          },
+          {
+            "time": "7:30 AM - 10:30 AM",
+            "title": "Colazione",
+            "description": "Godetevi la colazione presso il ristorante del resort con vista panoramica",
+            "category": "meal"
+          },
+          {
+            "time": "Day Free",
+            "title": "Attività facoltative",
+            "description": "Giornata libera per rilassarsi o dedicarsi ad attività/esperienze (costo aggiuntivo): passeggiate guidate nella natura e birdwatching, kayak o esplorazione della spiaggia, trattamenti spa e benessere, escursioni ai punti panoramici al tramonto",
+            "category": "adventure",
+            "highlight": true
+          },
+          {
+            "time": "Evening",
+            "title": "Serata libera",
+            "description": "Rilassati e goditi l'atmosfera tranquilla di Cabo Serai",
+            "category": "activity"
+          },
+          {
+            "time": "Day 3",
+            "title": "Mattinata a disposizione",
+            "description": "Goditi la tua ultima mattinata in questa bellissima struttura",
+            "category": "activity"
+          },
+          {
+            "time": "7:30 AM - 10:30 AM",
+            "title": "Colazione",
+            "description": "Colazione finale al resort",
+            "category": "meal"
+          },
+          {
+            "time": "11:00 AM",
+            "title": "Check-out e partenza",
+            "description": "Effettua il check-out entro le 11:00 e torna al punto di ritiro",
+            "category": "travel"
+          }
+        ],
+        "international": [
+          {
+            "time": "Day 1",
+            "title": "Trasferimento al rifugio sulla scogliera",
+            "description": "Viaggio dalla fascia costiera del sud di Goa, tra i palmeti di cocco, fino a un eco-resort isolato a picco sulla scogliera.",
+            "category": "travel"
+          },
+          {
+            "time": "3:00 PM",
+            "title": "Check-in",
+            "description": "Sistemazione nel cottage con vista sull'oceano. Nota: la struttura ha scalini ripidi e non dispone di ascensore.",
+            "category": "arrival"
+          },
+          {
+            "time": "Evening",
+            "title": "Serata libera",
+            "description": "Serata libera — trekking guidato al tramonto o trattamento benessere facoltativi (costo aggiuntivo).",
+            "category": "activity",
+            "highlight": true
+          },
+          {
+            "time": "Day 2",
+            "title": "Mattine sul Mar Arabico",
+            "description": "Risveglio con vista aperta sul Mar Arabico e sulla foresta che circonda la struttura.",
+            "category": "activity"
+          },
+          {
+            "time": "7:30 AM - 10:30 AM",
+            "title": "Colazione in struttura",
+            "description": "La colazione viene servita al resort. Pranzo e cena non sono inclusi — ristoranti vicini o menù del resort a costo aggiuntivo.",
+            "category": "meal"
+          },
+          {
+            "time": "Day Free",
+            "title": "Esperienze facoltative",
+            "description": "Giornata interamente libera: passeggiata naturalistica guidata con birdwatching, kayak o una seduta di spa. Tutte facoltative, meglio prenotarle in anticipo.",
+            "category": "adventure",
+            "highlight": true
+          },
+          {
+            "time": "Evening",
+            "title": "Serata rilassante",
+            "description": "Una serata tranquilla in struttura; la vita notturna sul posto è limitata.",
+            "category": "activity"
+          },
+          {
+            "time": "Day 3",
+            "title": "Ultima mattina",
+            "description": "Goditi un'ultima mattinata lenta sopra il mare.",
+            "category": "activity"
+          },
+          {
+            "time": "7:30 AM - 10:30 AM",
+            "title": "Ultima colazione",
+            "description": "Un'ultima colazione con vista sul Mar Arabico.",
+            "category": "meal"
+          },
+          {
+            "time": "11:00 AM",
+            "title": "Check-out e trasferimento di rientro",
+            "description": "Check-out e trasferimento di rientro al punto di prelievo iniziale.",
+            "category": "travel"
+          }
+        ]
+      },
       "gallery": [
         {
           "title": "Cottage di lusso",
