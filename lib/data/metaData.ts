@@ -84,7 +84,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "combodia-tour-package": {
+  "cambodia-tour-package": {
     meta: {
       duration: "9 Days",
       rating: "4.7/5 Rating",

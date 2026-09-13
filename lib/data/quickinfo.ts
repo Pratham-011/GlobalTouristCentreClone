@@ -503,7 +503,7 @@ export const QuickInfoData: Record<string, any> = {
       }
     ]
   },
-  "combodia-tour-package": {
+  "cambodia-tour-package": {
     "quickInfo": [
       {
         "title": "8 Nights Stay",

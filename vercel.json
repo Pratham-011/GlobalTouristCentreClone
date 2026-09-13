@@ -19,6 +19,26 @@
       "source": "/:locale(fr|it|de|ru)/destinations/international/vitnam-tour-package-from-goa/",
       "destination": "/:locale/destinations/international/vietnam-tour-package-from-goa/",
       "permanent": true
+    },
+    {
+      "source": "/destinations/international/combodia-tour-package",
+      "destination": "/destinations/international/cambodia-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/international/combodia-tour-package/",
+      "destination": "/destinations/international/cambodia-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/combodia-tour-package",
+      "destination": "/:locale/destinations/international/cambodia-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/combodia-tour-package/",
+      "destination": "/:locale/destinations/international/cambodia-tour-package/",
+      "permanent": true
     }
   ],
   "headers": [

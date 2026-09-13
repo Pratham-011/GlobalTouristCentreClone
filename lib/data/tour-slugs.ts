@@ -75,7 +75,7 @@ export const TOUR_CATEGORIES = {
     "phuket-krabi-tour-package", // verified
     "5n-6d-hongkong-tour-package", // verified
     "baku-tour-package", // verified
-    "combodia-tour-package", // verified
+    "cambodia-tour-package", // verified
     "georgia-tour-package", // verified
     "japan-tour-package", // verified
     "kazakhstan-almaty-explorer", // temporarily removed (used in destination.ts) // verified

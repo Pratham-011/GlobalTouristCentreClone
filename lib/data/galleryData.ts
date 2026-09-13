@@ -614,7 +614,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "combodia-tour-package": {
+  "cambodia-tour-package": {
     gallery: [
       {
         title: "Angkor Wat Sunrise",

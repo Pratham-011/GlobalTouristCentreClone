@@ -13,6 +13,8 @@ export type PriceCardData = {
   badge: string;
   packageName: string;
   amount: string;
+  /** Pre-discount price, shown struck through before `amount`. */
+  originalAmount?: string;
   currency?: string;
   per: string;
   note: string;
@@ -90,6 +92,11 @@ function PriceCard({
       {/* Price row — amount rendered as-is from JSON */}
       <div className="mt-4">
         <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+          {card.originalAmount?.trim() && (
+            <del className="text-lg sm:text-xl" style={{ color: MIST }}>
+              {card.originalAmount}
+            </del>
+          )}
           <span
             className="text-3xl font-bold tracking-tight sm:text-4xl"
             style={{ color: INK }}
@@ -192,7 +199,7 @@ export function TourPrice({ price }: TourPriceProps) {
 
         <div
           className={`grid grid-cols-1 gap-4 sm:gap-6 ${
-            isDual ? "md:grid-cols-2" : "md:max-w-xl"
+            isDual ? "md:grid-cols-2" : "mx-auto max-w-xl"
           }`}
         >
           {price.domestic && <PriceCard card={price.domestic} accent={TEAL} />}

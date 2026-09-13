@@ -355,7 +355,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-cambodia-laos-016",
-    slug: "combodia-tour-package",
+    slug: "cambodia-tour-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Cambodia.webp",
     alt: "Angkor Wat UNESCO World Heritage temple complex with five sandstone towers and ancient causeway lined with tropical palm trees at golden hour, Siem Reap Cambodia",
