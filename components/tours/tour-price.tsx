@@ -6,6 +6,8 @@ import { Check } from "lucide-react";
 /** Brand accents (site palette; not declared as global CSS vars yet) */
 const TEAL = "#008081";
 const SAFFRON = "#d8972f";
+/** Darker saffron for price text — plain SAFFRON is too faint on its own tint. */
+const SAFFRON_DEEP = "#8a5a10";
 const MIST = "#a6b8bc";
 const INK = "#000000";
 
@@ -90,25 +92,28 @@ function PriceCard({
       </h3>
 
       {/* Price row — amount rendered as-is from JSON */}
-      <div className="mt-4">
+      <div
+        className="mt-4 rounded-xl border-l-4 px-4 py-3 sm:px-5 sm:py-4"
+        style={{ backgroundColor: `${accent}14`, borderColor: accent }}
+      >
         <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
           {card.originalAmount?.trim() && (
-            <del className="text-lg sm:text-xl" style={{ color: MIST }}>
+            <del className="text-lg text-slate-500 sm:text-xl">
               {card.originalAmount}
             </del>
           )}
           <span
-            className="text-3xl font-bold tracking-tight sm:text-4xl"
-            style={{ color: INK }}
+            className="text-3xl font-extrabold tracking-tight sm:text-4xl"
+            style={{ color: accent === SAFFRON ? SAFFRON_DEEP : accent }}
           >
             {card.amount}
           </span>
-          <span className="text-sm sm:text-base" style={{ color: MIST }}>
+          <span className="text-sm text-slate-600 sm:text-base">
             / {card.per}
           </span>
         </div>
         {card.note?.trim() && (
-          <p className="mt-1 text-xs sm:text-sm" style={{ color: MIST }}>
+          <p className="mt-1 text-xs text-slate-600 sm:text-sm">
             {card.note}
           </p>
         )}
