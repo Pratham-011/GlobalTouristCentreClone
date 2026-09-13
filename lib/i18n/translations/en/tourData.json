@@ -536,7 +536,36 @@
           "title": "Full Day Tour",
           "description": "Start Time: 8:00 AM | Duration: Full Day"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A full day through North Goa's famous beaches, Fort Aguada, Portuguese-era churches and the Chapora viewpoint.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "North Goa Full-Day Tour",
+          "amount": "$60",
+          "currency": "USD",
+          "per": "person",
+          "note": "",
+          "points": [
+            "English-speaking guide",
+            "Breakfast included en route",
+            "Calangute, Baga and Anjuna beaches",
+            "17th-century Fort Aguada plus lighthouse point",
+            "Portuguese-era churches: St. Alex and Mae de Deus",
+            "Vagator/Chapora viewpoint plus local markets",
+            "All entrance fees included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the North Goa Full-Day Tour at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "south-goa-sunset-cruise-tour": {
       "file_name": "south-goa-sunset-cruise-tour.html",
@@ -921,7 +950,35 @@
           "title": "All Entry Fees",
           "description": "Entry fees to all mentioned attractions"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A private day on South Goa's coast by car and traditional boat, with dolphins, island hopping, kayaking and Cabo de Rama Fort.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "South Goa Day Trip",
+          "amount": "$79",
+          "currency": "USD",
+          "per": "person",
+          "note": "Private small-group tour · Full day",
+          "points": [
+            "Private AC vehicle plus traditional Goan boat",
+            "Breakfast near Palolem Beach",
+            "Dolphin watching, Butterfly Beach and island hopping",
+            "Kayaking in Cola Beach Blue Lagoon",
+            "Agonda Beach and Cabo de Rama Fort",
+            "English-speaking guide plus all entry fees"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the South Goa Day Trip at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "south-goa-1-day-cultural-and-beach-tour-package": {
       "file_name": "South-Goa-1-Day-Cultural-and-Beach-Tour-package.html",
@@ -1071,6 +1128,34 @@
           "description": "Services of a knowledgeable Russian-speaking guide."
         }
       ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A guided day through Old Goa's UNESCO churches, historic temples and Panjim, finishing at Miramar Beach and Dona Paula.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "South Goa 1-Day Cultural & Beach Tour",
+          "amount": "$55",
+          "currency": "USD",
+          "per": "person",
+          "note": "Full day · 8 AM–5:30 PM",
+          "points": [
+            "Full day, 8 AM–5:30 PM, AC vehicle plus Russian-speaking guide",
+            "Breakfast included en route",
+            "Old Goa UNESCO churches",
+            "3 historic temples",
+            "Miramar Beach, Dona Paula viewpoint and Panjim Market",
+            "All entrance fees included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the South Goa 1-Day Cultural & Beach Tour at the international traveller price. Please share the details."
+            }
+          }
+        }
+      },
       "exclusions": [
         {
           "title": "Lunch & Dinner",
@@ -1257,7 +1342,35 @@
           "title": "Tour Guide",
           "description": "Knowledgeable English-speaking guide throughout the day"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A full day along South Goa's quieter coast — dolphins, hidden beaches, a blue-lagoon kayak and sunset at Talpona.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "South Goa Beaches & Kayaking Day Trip",
+          "amount": "$60",
+          "currency": "USD",
+          "per": "person",
+          "note": "Private small-group tour · Max 6 travellers · Full day",
+          "points": [
+            "Private AC Innova Crysta with driver",
+            "Breakfast at a Palolem Beach café",
+            "4-point boat tour – dolphin spotting, Butterfly Beach and islands",
+            "Kayaking at Cola Beach Blue Lagoon",
+            "Cabo de Rama Fort, Galgibaga Turtle Beach and Talpona sunset",
+            "English-speaking guide"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the South Goa Beaches & Kayaking Day Trip at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "delhi-agra-1n-2d-trip-package": {
       "file_name": "Delhi-Agra-1N-2D-Trip-Package.html",
@@ -1443,7 +1556,34 @@
           "title": "Tour Guide",
           "description": "Knowledgeable English-speaking guide throughout the tour"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "An overnight trip from Delhi to Agra for the Taj Mahal at sunrise, Agra Fort and the Baby Taj.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Delhi to Agra 1N/2D Tour (Taj Mahal & Agra Fort)",
+          "amount": "$220",
+          "currency": "USD",
+          "per": "person",
+          "note": "Twin sharing · Private small-group tour",
+          "points": [
+            "Private AC vehicle (max 8 travellers)",
+            "English-speaking guide",
+            "3-star hotel stay in Agra",
+            "Sunrise Taj Mahal, Agra Fort and Baby Taj entry tickets",
+            "Breakfast included (Day 2)"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Delhi to Agra 1N/2D Tour (Taj Mahal & Agra Fort) at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "aurangabad-day-excursions": {
       "file_name": "2-Day-Aurangabad-Trip-Package.html",
@@ -1630,7 +1770,34 @@
           "title": "Tour Guide",
           "description": "Knowledgeable English-speaking guide throughout the tour"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "Two days at the UNESCO-listed Ajanta and Ellora caves, with a guide, entry tickets and a night in Aurangabad.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Aurangabad 1N/2D Tour (Ajanta & Ellora Caves)",
+          "amount": "$220",
+          "currency": "USD",
+          "per": "person",
+          "note": "Twin sharing · Private small-group tour",
+          "points": [
+            "Private AC vehicle (max 8 travellers)",
+            "English-speaking guide",
+            "3-star hotel stay in Aurangabad",
+            "Entry tickets – Ajanta and Ellora Caves plus other sites",
+            "Breakfast included (Day 2)"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Aurangabad 1N/2D Tour (Ajanta & Ellora Caves) at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "goa-one-day-sightseeing-tour": {
       "file_name": "One-Day-South-Goa-trip-package.html",
@@ -4314,7 +4481,35 @@
           "title": "All Transfers",
           "description": "Private AC vehicle transfers and airport transfers"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Eight nights across Laos and Cambodia, from Vientiane's alms-giving ceremony to sunrise at Angkor Wat, with both domestic flights included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Cambodia & Laos 8N/9D Tour Package",
+          "amount": "₹76,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹1,09,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "8 nights across Laos and Cambodia (3★/4★ hotels)",
+            "Daily breakfast plus 2 special dinners",
+            "2 domestic flights (Vientiane–Phnom Penh–Siem Reap)",
+            "Angkor Wat sunrise tour plus Bayon and Ta Prohm temples",
+            "Alms giving ceremony and local village experiences",
+            "International flights and visas are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Cambodia & Laos 8N/9D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "dandeli-elephant-day-excursion": {
       "file_name": "dandeli-elephant-day-excursion.html",
@@ -4477,7 +4672,34 @@
           "title": "Driver",
           "description": "Professional English-speaking driver throughout the day"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A full day of river and jungle adventure in Dandeli, from white-water rafting to an elephant and jeep safari.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Dandeli Elephant Safari & Adventure Day Trip",
+          "amount": "$150",
+          "currency": "USD",
+          "per": "person",
+          "note": "Private group trip · Full day",
+          "points": [
+            "Private AC Innova Crysta (max 8 travellers)",
+            "Lunch included",
+            "White-water rafting, kayaking and natural jacuzzi",
+            "Elephant safari plus jungle jeep safari",
+            "All activity fees and toll tax covered"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Dandeli Elephant Safari & Adventure Day Trip at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "dandeli-2-day-tour-from-goa": {
       "file_name": "dandeli-2-day-tour-from-goa-from-goa.html",
@@ -5177,7 +5399,34 @@
           "title": "Driver",
           "description": "Professional English-speaking driver throughout the day"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A day inland to the four-tiered Dudhsagar Falls by forest jeep, with a guided spice plantation tour and traditional Goan lunch.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Dudhsagar Falls & Spice Plantation Day Trip",
+          "amount": "$55",
+          "currency": "USD",
+          "per": "person",
+          "note": "Private small-group tour · Max 6 travellers",
+          "points": [
+            "Private AC Innova Crysta",
+            "Traditional Goan lunch included",
+            "Dudhsagar Waterfall plus forest jeep ride",
+            "Guided spice plantation tour",
+            "All entry fees and toll tax covered"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Dudhsagar Falls & Spice Plantation Day Trip at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "georgia-tour-package": {
       "file_name": "georgia-tour-package.html",
@@ -5333,7 +5582,35 @@
           "title": "Private Transfers",
           "description": "All transfers in private AC sedan"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Seven nights across Tbilisi, Borjomi and Gudauri, with Kakheti wine tastings, cave cities and a first taste of the ski slopes.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Georgia 7N/8D Tour Package",
+          "amount": "₹66,499",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹94,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "7 nights across Tbilisi, Borjomi and Gudauri",
+            "Daily breakfast included",
+            "7 premium wine tastings in the Kakheti wine region",
+            "Horseback riding at Kakhisi Lake plus beginner ski lessons in Gudauri",
+            "Vardzia cave city and Gergeti Trinity Church sightseeing",
+            "International flights and Georgia e-Visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Georgia 7N/8D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "gokarna-murdeshwar-day-excursion": {
       "file_name": "Gokarna-Murdeshwar-one-day-trip-package.html",
@@ -5503,7 +5780,34 @@
           "title": "Driver",
           "description": "Professional English-speaking driver throughout the day"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A full day down the Karnataka coast from Goa, covering Gokarna's temples and beaches and the seaside temple town of Murdeshwar.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Gokarna & Murdeshwar One-Day Trip",
+          "amount": "$75",
+          "currency": "USD",
+          "per": "person",
+          "note": "Based on 4 sharing · Solo travellers, ask for the private-vehicle rate",
+          "points": [
+            "Private AC Innova Crysta, max 6 travellers, English-speaking driver",
+            "Full day, 6 AM–5 PM, with all temple entry fees and tolls included",
+            "Mahabaleshwar Temple, Om Beach and Murdeshwar Temple",
+            "Breakfast and lunch stops at local coastal restaurants",
+            "Modest dress recommended for temple visits"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Gokarna & Murdeshwar One-Day Trip at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "golden-triangle-4-day-tour-from-goa": {
       "file_name": "golden-triangle-4-day-tour-from-goa-3n4d.html",
@@ -5939,7 +6243,34 @@
           "title": "Tour Guide",
           "description": "Knowledgeable English-speaking guide throughout the tour"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "Two days among the ruins of the Vijayanagara Empire in Hampi and the cave temples of Badami, with a night in Hospet.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Hampi & Badami 1N/2D Tour",
+          "amount": "$150",
+          "currency": "USD",
+          "per": "person",
+          "note": "Twin sharing · Private small-group tour",
+          "points": [
+            "Private AC vehicle (max 8 travellers)",
+            "English-speaking guide",
+            "3-star hotel stay in Hospet",
+            "Coracle ride at Sanapur Lake",
+            "Breakfast included (Day 2)"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Hampi & Badami 1N/2D Tour at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "japan-tour-package": {
       "file_name": "japan-tour-package.html",
@@ -6095,7 +6426,35 @@
           "title": "Osaka Walking Tour",
           "description": "Guided exploration of Osaka's highlights"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Three nights in Tokyo and four in Osaka at deluxe hotels, linked by the Shinkansen, with Mt. Fuji, Hakone, Kyoto and Nara included.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Japan 7N/8D Luxury Tour Package",
+          "amount": "₹1,02,199",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹1,45,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "3N Tokyo + 4N Osaka in deluxe hotels",
+            "Daily breakfast plus special meals included",
+            "Shinkansen bullet train experience (Tokyo–Osaka)",
+            "Mt. Fuji 5th Station plus Hakone Ropeway and Lake Ashi cruise",
+            "Kyoto and Nara full-day tour with buffet lunch",
+            "International flights and Japan visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Japan 7N/8D Luxury Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "jodhpur-udaipur-tour-package": {
       "file_name": "jodhpur-udaipur-trip-4n5d.html",
@@ -6698,7 +7057,35 @@
           "title": "Private Transfers",
           "description": "All airport transfers and sightseeing on private basis"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Four nights in Almaty with Shymbulak's mountain gondola, the Kok Tobe cable car and a full city tour — and no visa needed for Indian passport holders.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Kazakhstan (Almaty) 4N/5D Tour Package",
+          "amount": "₹48,299",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹68,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "4 nights in 3★/4★ Almaty hotels",
+            "Daily breakfast included",
+            "Shymbulak Ski Resort plus 3-tier gondola ride",
+            "Kok Tobe Hill cable car plus full city tour",
+            "Visa-free entry for Indian passport holders",
+            "International flights are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Kazakhstan (Almaty) 4N/5D Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "luxury-yacht-day-tour-goa": {
       "file_name": "luxury-yacht-day-tour-goa.html",
@@ -6867,7 +7254,34 @@
           "title": "Desserts",
           "description": "Premium dessert selection including cheesecake and chocolate mousse."
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "Six hours on a premium yacht with an infinity pool, live DJ, sunset cruise and a chef-curated dinner under the stars.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Luxury Yacht Sunset-to-Dinner Cruise",
+          "amount": "$139",
+          "currency": "USD",
+          "per": "person",
+          "note": "6 hours · 4 PM–10 PM",
+          "points": [
+            "Private hotel pickup and drop-off",
+            "Onboard infinity pool plus live DJ",
+            "Welcome drinks, snacks and sunset cruise",
+            "Chef-curated BBQ and sushi dinner plus desserts",
+            "Moonlight cruise finale under the stars"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Luxury Yacht Sunset-to-Dinner Cruise at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "mumbai-one-day-excursion": {
       "file_name": "Mumbai-day-trip-package.html",
@@ -7069,7 +7483,34 @@
           "title": "Full Day Tour",
           "description": "Duration: Full Day (Same-Day Return)"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "Fly from Goa to Mumbai for a guided day of the city's landmarks, then ride the overnight AC sleeper train back to Goa.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Mumbai in a Day Tour",
+          "amount": "$170",
+          "currency": "USD",
+          "per": "person",
+          "note": "Full-day tour + overnight train return",
+          "points": [
+            "Morning flight – Goa → Mumbai",
+            "English-speaking guide plus private taxi for sightseeing",
+            "Gateway of India, CST, Dharavi, Dhobi Ghat and Hanging Gardens",
+            "Overnight AC 3-tier train – Mumbai → Goa",
+            "Courtesy room for freshening up"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Mumbai in a Day Tour at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "netravali-wildlife-day-excursion": {
       "file_name": "Netravali-day-trip-package.html",
@@ -7250,7 +7691,34 @@
           "title": "Photo Opportunities",
           "description": "Stops at scenic viewpoints for photography"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "A day in Goa's Netravali Wildlife Sanctuary with the bubbling lake, a waterfall trek and a sunset viewpoint.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Netravali Day Trip",
+          "amount": "$75",
+          "currency": "USD",
+          "per": "person",
+          "note": "Private small-group tour · Full day",
+          "points": [
+            "Private AC vehicle with driver",
+            "English-speaking guide",
+            "Entry fees – wildlife sanctuary and attractions",
+            "Goan lunch plus bottled water included",
+            "Bubbling Lake, waterfall trek and sunset viewpoint"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Netravali Day Trip at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "bijapur-heritage-tour": {
       "file_name": "bijapur-heritage-tour-from-goa.html",
@@ -9677,7 +10145,34 @@
           "title": "Tour Guide",
           "description": "Knowledgeable English-speaking guide throughout the trip"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "Two days in Karnataka's Malnad country, from the Yana rock formations to Jog Falls and the temples of Ikkeri.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Shimoga 1N/2D Nature Trip",
+          "amount": "$180",
+          "currency": "USD",
+          "per": "person",
+          "note": "Twin sharing",
+          "points": [
+            "Private AC Innova with driver, both days",
+            "1 night hotel plus dinner and breakfast included",
+            "Yana Caves rock formations plus Jog Falls",
+            "Aghoreshwara Temple, Ikkeri",
+            "Forest drive/safari activity"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Shimoga 1N/2D Nature Trip at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "sikkim-darjeeling-gangtok-tour-from-goa": {
       "file_name": "sikkim-tour-for-goa.html",
@@ -11362,7 +11857,35 @@
           "title": "Cultural Shows",
           "description": "Kandyan Cultural Show & Special Musical Evening"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Package Price",
+        "sectionSubtitle": "Seven nights across Kandy, Nuwara Eliya, Bentota and Colombo, with most meals, a river safari and high tea in the hill country.",
+        "domestic": {
+          "badge": "Indian Traveller",
+          "packageName": "Sri Lanka 7N/8D Luxury Tour Package",
+          "amount": "₹55,999",
+          "currency": "INR",
+          "per": "person",
+          "note": "Was ₹79,999 · 30% OFF · Twin sharing · International flights not included",
+          "points": [
+            "7 nights across Kandy, Nuwara Eliya, Bentota and Colombo",
+            "Daily breakfast and dinner plus 5 Indian lunches included",
+            "Pinnawela Elephant Orphanage plus Kandyan cultural show",
+            "Madu River boat safari plus turtle hatchery visit",
+            "Tea estate high tea in Nuwara Eliya plus Galle Dutch Fort",
+            "International flights and visa are not included"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Sri Lanka 7N/8D Luxury Tour Package at the Indian traveller price. Please share the details."
+            }
+          }
+        }
+      }
     },
     "turkey-tour-package": {
       "file_name": "turkey-tour-package.html",
@@ -11534,7 +12057,7 @@
         }
       }
     },
-    "vitnam-tour-package-from-goa": {
+    "vietnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
       "page": {
         "slug": "Vietnam-tour-package-from-goa",

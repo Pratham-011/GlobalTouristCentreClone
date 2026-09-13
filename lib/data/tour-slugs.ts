@@ -64,7 +64,7 @@ export const TOUR_CATEGORIES = {
     "7n-8d-bhutan-tour-package", // verified
     "bali-tour-package", // verified
     "7n-8d-vietam-tour-package", // verified
-    "vitnam-tour-package-from-goa", // temporarily removed (used in destination.ts) // verified
+    "vietnam-tour-package-from-goa", // temporarily removed (used in destination.ts) // verified
     "singapore-tour-package", // verified
     "4N-5D-bangkok-tour-package", //verified
     "7N-8D-thailand-tour-package", // verified

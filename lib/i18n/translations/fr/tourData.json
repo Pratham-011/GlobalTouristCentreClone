@@ -536,7 +536,36 @@
           "title": "Tour d'une journée entière",
           "description": "Heure de départ : 8h00 | Durée : journée entière"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée entre les célèbres plages du nord de Goa, le fort Aguada, les églises de l'époque portugaise et le point de vue de Chapora.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Circuit d'une journée dans le nord de Goa",
+          "amount": "$60",
+          "currency": "USD",
+          "per": "personne",
+          "note": "",
+          "points": [
+            "Guide anglophone",
+            "Petit-déjeuner inclus en route",
+            "Plages de Calangute, Baga et Anjuna",
+            "Fort Aguada du XVIIe siècle et phare",
+            "Églises de l'époque portugaise : St. Alex et Mae de Deus",
+            "Point de vue de Vagator/Chapora et marchés locaux",
+            "Tous les frais d'entrée inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Circuit d'une journée dans le nord de Goa » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "south-goa-sunset-cruise-tour": {
       "file_name": "south-goa-sunset-cruise-tour.html",
@@ -921,7 +950,35 @@
           "title": "Tous les droits d'entrée",
           "description": "Entrées dans toutes les attractions mentionnées"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée privée sur la côte sud de Goa en voiture et en bateau traditionnel : dauphins, îles, kayak et fort de Cabo de Rama.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Excursion d'une journée dans le sud de Goa",
+          "amount": "$79",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Circuit privé en petit groupe · Journée complète",
+          "points": [
+            "Véhicule privé climatisé et bateau goanais traditionnel",
+            "Petit-déjeuner près de la plage de Palolem",
+            "Observation des dauphins, Butterfly Beach et tour des îles",
+            "Kayak dans le lagon bleu de Cola Beach",
+            "Plage d'Agonda et fort de Cabo de Rama",
+            "Guide anglophone et tous les frais d'entrée"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Excursion d'une journée dans le sud de Goa » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "south-goa-1-day-cultural-and-beach-tour-package": {
       "file_name": "South-Goa-1-Day-Cultural-and-Beach-Tour-package.html",
@@ -1071,6 +1128,34 @@
           "description": "Services d'un guide russophone expérimenté."
         }
       ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée guidée entre les églises de Old Goa classées à l'UNESCO, des temples historiques et Panjim, avant la plage de Miramar et Dona Paula.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Circuit culturel et plages du sud de Goa en 1 jour",
+          "amount": "$55",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Journée complète · 8h–17h30",
+          "points": [
+            "Journée complète, 8h–17h30, véhicule climatisé et guide russophone",
+            "Petit-déjeuner inclus en route",
+            "Églises de Old Goa classées à l'UNESCO",
+            "3 temples historiques",
+            "Plage de Miramar, point de vue de Dona Paula et marché de Panjim",
+            "Tous les frais d'entrée inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Circuit culturel et plages du sud de Goa en 1 jour » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      },
       "exclusions": [
         {
           "title": "Déjeuner et dîner",
@@ -1257,7 +1342,35 @@
           "title": "Guide touristique",
           "description": "Guide expérimenté en langue anglaise pour toute la journée"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée sur la côte plus paisible du sud de Goa : dauphins, plages cachées, kayak dans un lagon bleu et coucher de soleil à Talpona.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Plages du sud de Goa et kayak – excursion d'une journée",
+          "amount": "$60",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Circuit privé en petit groupe · 6 voyageurs max. · Journée complète",
+          "points": [
+            "Innova Crysta privée climatisée avec chauffeur",
+            "Petit-déjeuner dans un café de la plage de Palolem",
+            "Excursion en bateau en 4 étapes – dauphins, Butterfly Beach et îles",
+            "Kayak dans le lagon bleu de Cola Beach",
+            "Fort de Cabo de Rama, plage des tortues de Galgibaga et coucher de soleil à Talpona",
+            "Guide anglophone"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Plages du sud de Goa et kayak – excursion d'une journée » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "delhi-agra-1n-2d-trip-package": {
       "file_name": "Delhi-Agra-1N-2D-Trip-Package.html",
@@ -1443,7 +1556,34 @@
           "title": "Guide touristique",
           "description": "Guide expérimenté en langue anglaise pour tout le tour"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une escapade d'une nuit de Delhi à Agra pour le Taj Mahal au lever du soleil, le fort d'Agra et le Baby Taj.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Circuit Delhi–Agra 1N/2J (Taj Mahal et fort d'Agra)",
+          "amount": "$220",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Chambre double · Circuit privé en petit groupe",
+          "points": [
+            "Véhicule privé climatisé (8 voyageurs max.)",
+            "Guide anglophone",
+            "Nuit en hôtel 3 étoiles à Agra",
+            "Billets d'entrée : Taj Mahal au lever du soleil, fort d'Agra et Baby Taj",
+            "Petit-déjeuner inclus (jour 2)"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Circuit Delhi–Agra 1N/2J (Taj Mahal et fort d'Agra) » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "dandeli-elephant-day-excursion": {
       "file_name": "dandeli-elephant-day-excursion.html",
@@ -1606,7 +1746,34 @@
           "title": "Driver",
           "description": "Chauffeur professionnel anglophone toute la journée"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée d'aventure entre rivière et jungle à Dandeli, du rafting en eaux vives au safari à dos d'éléphant et en jeep.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Safari à dos d'éléphant et aventure à Dandeli",
+          "amount": "$150",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Excursion privée en groupe · Journée complète",
+          "points": [
+            "Innova Crysta privée climatisée (8 voyageurs max.)",
+            "Déjeuner inclus",
+            "Rafting en eaux vives, kayak et jacuzzi naturel",
+            "Safari à dos d'éléphant et safari en jeep dans la jungle",
+            "Tous les frais d'activités et péages couverts"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Safari à dos d'éléphant et aventure à Dandeli » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "dudhsagar-waterfal-excursion": {
       "file_name": "Dudhsagar-and-Spice-Plantation-Day-Trip-package.html",
@@ -1763,7 +1930,34 @@
           "title": "Driver",
           "description": "Chauffeur professionnel anglophone toute la journée"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée dans l'arrière-pays jusqu'aux chutes à quatre niveaux de Dudhsagar en jeep, avec visite guidée d'une plantation d'épices et déjeuner goanais traditionnel.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Excursion aux chutes de Dudhsagar et plantation d'épices",
+          "amount": "$55",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Circuit privé en petit groupe · 6 voyageurs max.",
+          "points": [
+            "Innova Crysta privée climatisée",
+            "Déjeuner goanais traditionnel inclus",
+            "Chutes de Dudhsagar et trajet en jeep à travers la forêt",
+            "Visite guidée d'une plantation d'épices",
+            "Tous les frais d'entrée et péages couverts"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Excursion aux chutes de Dudhsagar et plantation d'épices » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "gokarna-murdeshwar-day-excursion": {
       "file_name": "Gokarna-Murdeshwar-one-day-trip-package.html",
@@ -1933,7 +2127,34 @@
           "title": "Driver",
           "description": "Chauffeur professionnel anglophone toute la journée"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée le long de la côte du Karnataka au départ de Goa, entre les temples et plages de Gokarna et la ville-temple côtière de Murdeshwar.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Excursion d'une journée à Gokarna et Murdeshwar",
+          "amount": "$75",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Base 4 personnes · Voyageurs seuls : demandez le tarif en véhicule privé",
+          "points": [
+            "Innova Crysta privée climatisée, 6 voyageurs max., chauffeur anglophone",
+            "Journée complète, de 6h à 17h, entrées des temples et péages inclus",
+            "Temple de Mahabaleshwar, Om Beach et temple de Murdeshwar",
+            "Arrêts petit-déjeuner et déjeuner dans des restaurants côtiers locaux",
+            "Tenue correcte recommandée pour la visite des temples"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Excursion d'une journée à Gokarna et Murdeshwar » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "luxury-yacht-day-tour-goa": {
       "file_name": "luxury-yacht-day-tour-goa.html",
@@ -2101,7 +2322,34 @@
           "title": "Desserts",
           "description": "Sélection de desserts haut de gamme comprenant un cheesecake et une mousse au chocolat."
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Six heures à bord d'un yacht haut de gamme avec piscine à débordement, DJ live, croisière au coucher du soleil et dîner signé par un chef sous les étoiles.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Croisière de luxe en yacht, du coucher du soleil au dîner",
+          "amount": "$139",
+          "currency": "USD",
+          "per": "personne",
+          "note": "6 heures · 16h–22h",
+          "points": [
+            "Prise en charge et retour privés à votre hôtel",
+            "Piscine à débordement à bord et DJ live",
+            "Boissons de bienvenue, en-cas et croisière au coucher du soleil",
+            "Dîner barbecue et sushis signé par un chef, avec desserts",
+            "Final de croisière au clair de lune sous les étoiles"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Croisière de luxe en yacht, du coucher du soleil au dîner » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "mumbai-one-day-excursion": {
       "file_name": "Mumbai-day-trip-package.html",
@@ -2303,7 +2551,34 @@
           "title": "Visite d'une journée complète",
           "description": "Durée : Journée complète (retour le jour même)"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Vol de Goa à Mumbai pour une journée guidée parmi les grands sites de la ville, puis retour à Goa en train-couchettes climatisé de nuit.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Mumbai en une journée",
+          "amount": "$170",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Circuit d'une journée + retour de nuit en train",
+          "points": [
+            "Vol du matin – Goa → Mumbai",
+            "Guide anglophone et taxi privé pour les visites",
+            "Gateway of India, gare CST, Dharavi, Dhobi Ghat et Hanging Gardens",
+            "Train de nuit climatisé en couchette 3 niveaux – Mumbai → Goa",
+            "Chambre de courtoisie pour se rafraîchir"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Mumbai en une journée » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "netravali-wildlife-day-excursion": {
       "file_name": "Netravali-day-trip-package.html",
@@ -2484,7 +2759,34 @@
           "title": "Opportunités de photos",
           "description": "Arrêts aux points de vue panoramiques pour la photographie"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Une journée dans la réserve naturelle de Netravali à Goa, avec le lac bouillonnant, un trek jusqu'à une cascade et un point de vue au coucher du soleil.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Excursion d'une journée à Netravali",
+          "amount": "$75",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Circuit privé en petit groupe · Journée complète",
+          "points": [
+            "Véhicule privé climatisé avec chauffeur",
+            "Guide anglophone",
+            "Frais d'entrée – réserve naturelle et sites",
+            "Déjeuner goanais et eau en bouteille inclus",
+            "Lac bouillonnant, trek jusqu'à la cascade et point de vue au coucher du soleil"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Excursion d'une journée à Netravali » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "goa-one-day-sightseeing-tour": {
       "file_name": "One-Day-South-Goa-trip-package.html",
@@ -3010,7 +3312,34 @@
           "title": "Guide touristique",
           "description": "Guide anglophone compétent tout au long de la visite"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Deux jours aux grottes d'Ajanta et d'Ellora, classées à l'UNESCO, avec guide, billets d'entrée et une nuit à Aurangabad.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Circuit Aurangabad 1N/2J (grottes d'Ajanta et d'Ellora)",
+          "amount": "$220",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Chambre double · Circuit privé en petit groupe",
+          "points": [
+            "Véhicule privé climatisé (8 voyageurs max.)",
+            "Guide anglophone",
+            "Nuit en hôtel 3 étoiles à Aurangabad",
+            "Billets d'entrée – grottes d'Ajanta et d'Ellora et autres sites",
+            "Petit-déjeuner inclus (jour 2)"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Circuit Aurangabad 1N/2J (grottes d'Ajanta et d'Ellora) » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "goa-sightseeing-tour": {
       "file_name": "3-day-goa-Trip-plan.html",
@@ -5227,7 +5556,34 @@
           "title": "Guide touristique",
           "description": "Guide anglophone compétent tout au long de la visite"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Deux jours parmi les ruines de l'empire de Vijayanagara à Hampi et les temples troglodytes de Badami, avec une nuit à Hospet.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Circuit Hampi et Badami 1N/2J",
+          "amount": "$150",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Chambre double · Circuit privé en petit groupe",
+          "points": [
+            "Véhicule privé climatisé (8 voyageurs max.)",
+            "Guide anglophone",
+            "Nuit en hôtel 3 étoiles à Hospet",
+            "Balade en coracle sur le lac de Sanapur",
+            "Petit-déjeuner inclus (jour 2)"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Circuit Hampi et Badami 1N/2J » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "hyderabad-tour-package-from-goa": {
       "file_name": "hyderabad-tour-package-from-goa.html",
@@ -7364,7 +7720,34 @@
           "title": "Guide touristique",
           "description": "Guide anglophone compétent tout au long du voyage"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du circuit",
+        "sectionSubtitle": "Deux jours dans la région du Malnad au Karnataka, des formations rocheuses de Yana aux chutes de Jog et aux temples d'Ikkeri.",
+        "international": {
+          "badge": "Voyageur international",
+          "packageName": "Escapade nature à Shimoga 1N/2J",
+          "amount": "$180",
+          "currency": "USD",
+          "per": "personne",
+          "note": "Chambre double",
+          "points": [
+            "Innova privée climatisée avec chauffeur, les deux jours",
+            "1 nuit d'hôtel avec dîner et petit-déjeuner inclus",
+            "Formations rocheuses des grottes de Yana et chutes de Jog",
+            "Temple d'Aghoreshwara, Ikkeri",
+            "Balade en forêt / safari"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par l'offre « Escapade nature à Shimoga 1N/2J » au tarif voyageur international. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "sikkim-darjeeling-gangtok-tour-from-goa": {
       "file_name": "sikkim-tour-for-goa.html",
@@ -9624,7 +10007,35 @@
           "title": "Tous les transferts",
           "description": "Transferts privés en véhicules AC et transferts aéroport"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Huit nuits entre le Laos et le Cambodge, de la cérémonie de l'aumône à Vientiane au lever du soleil sur Angkor Wat, avec les deux vols intérieurs inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Cambodge et Laos 8N/9J",
+          "amount": "₹76,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹1,09,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "8 nuits entre le Laos et le Cambodge (hôtels 3★/4★)",
+            "Petit-déjeuner quotidien et 2 dîners spéciaux",
+            "2 vols intérieurs (Vientiane–Phnom Penh–Siem Reap)",
+            "Lever du soleil sur Angkor Wat et temples du Bayon et de Ta Prohm",
+            "Cérémonie de l'aumône et découvertes de villages locaux",
+            "Vols internationaux et visas non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Cambodge et Laos 8N/9J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "dubai-tour-package": {
       "file_name": "dubai-tour-package.html",
@@ -9952,7 +10363,35 @@
           "title": "Transferts privés",
           "description": "Tous les transferts en berline privée AC"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Sept nuits entre Tbilissi, Borjomi et Goudaouri, avec dégustations de vins en Kakhétie, cités troglodytes et initiation au ski.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Géorgie 7N/8J",
+          "amount": "₹66,499",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹94,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "7 nuits entre Tbilissi, Borjomi et Goudaouri",
+            "Petit-déjeuner quotidien inclus",
+            "7 dégustations de vins haut de gamme dans la région viticole de Kakhétie",
+            "Balade à cheval au lac Kakhisi et cours de ski pour débutants à Goudaouri",
+            "Visite de la cité troglodyte de Vardzia et de l'église de la Trinité de Guerguéti",
+            "Vols internationaux et e-Visa géorgien non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Géorgie 7N/8J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "japan-tour-package": {
       "file_name": "japan-tour-package.html",
@@ -10108,7 +10547,35 @@
           "title": "Visite à pied d'Osaka",
           "description": "Exploration guidée des points forts d'Osaka"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Trois nuits à Tokyo et quatre à Osaka en hôtels deluxe, reliées par le Shinkansen, avec le mont Fuji, Hakone, Kyoto et Nara inclus.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Japon de luxe 7N/8J",
+          "amount": "₹1,02,199",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹1,45,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "3N Tokyo + 4N Osaka en hôtels deluxe",
+            "Petit-déjeuner quotidien et repas spéciaux inclus",
+            "Trajet en train à grande vitesse Shinkansen (Tokyo–Osaka)",
+            "5e station du mont Fuji, téléphérique de Hakone et croisière sur le lac Ashi",
+            "Excursion d'une journée à Kyoto et Nara avec déjeuner buffet",
+            "Vols internationaux et visa japonais non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Japon de luxe 7N/8J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "kazakhstan-almaty-explorer": {
       "file_name": "kazakhstan-tour-package.html",
@@ -10245,7 +10712,35 @@
           "title": "Transferts privés",
           "description": "Tous les transferts aéroport et visites touristiques sur une base privée"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Quatre nuits à Almaty avec la télécabine de Chymboulak, le téléphérique de Kok Tobe et une visite complète de la ville — sans visa pour les passeports indiens.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Kazakhstan (Almaty) 4N/5J",
+          "amount": "₹48,299",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹68,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "4 nuits dans des hôtels 3★/4★ à Almaty",
+            "Petit-déjeuner quotidien inclus",
+            "Station de ski de Chymboulak et télécabine à 3 niveaux",
+            "Téléphérique de la colline de Kok Tobe et visite complète de la ville",
+            "Entrée sans visa pour les titulaires d'un passeport indien",
+            "Vols internationaux non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Kazakhstan (Almaty) 4N/5J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "nepal-tour-package": {
       "file_name": "nepal-tour-package.html",
@@ -11076,7 +11571,35 @@
           "title": "Spectacles culturels",
           "description": "Spectacle culturel de Kandyan et soirée musicale spéciale"
         }
-      ]
+      ],
+      "price": {
+        "sectionLabel": "Tarifs",
+        "sectionTitle": "Prix du forfait",
+        "sectionSubtitle": "Sept nuits entre Kandy, Nuwara Eliya, Bentota et Colombo, avec la plupart des repas, un safari fluvial et un thé dans les hautes terres.",
+        "domestic": {
+          "badge": "Voyageur indien",
+          "packageName": "Forfait Sri Lanka de luxe 7N/8J",
+          "amount": "₹55,999",
+          "currency": "INR",
+          "per": "personne",
+          "note": "Au lieu de ₹79,999 · 30 % de réduction · Chambre double · Vols internationaux non inclus",
+          "points": [
+            "7 nuits entre Kandy, Nuwara Eliya, Bentota et Colombo",
+            "Petit-déjeuner et dîner quotidiens, plus 5 déjeuners indiens inclus",
+            "Orphelinat des éléphants de Pinnawela et spectacle culturel kandyen",
+            "Safari en bateau sur la rivière Madu et visite d'une écloserie de tortues",
+            "High tea dans une plantation de thé à Nuwara Eliya et fort hollandais de Galle",
+            "Vols internationaux et visa non inclus"
+          ],
+          "cta": {
+            "label": "Obtenir un devis exact",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Bonjour ! Je suis intéressé(e) par le forfait Forfait Sri Lanka de luxe 7N/8J au tarif voyageur indien. Merci de m'envoyer les détails."
+            }
+          }
+        }
+      }
     },
     "turkey-tour-package": {
       "file_name": "turkey-tour-package.html",
@@ -11248,7 +11771,7 @@
         }
       }
     },
-    "vitnam-tour-package-from-goa": {
+    "vietnam-tour-package-from-goa": {
       "file_name": "Vietnam-tour-package-from-goa.html",
       "page": {
         "slug": "Vietnam-tour-package-from-goa",

@@ -228,7 +228,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-vietnam-002",
-    slug: "vitnam-tour-package-from-goa",
+    slug: "vietnam-tour-package-from-goa",
     rating: 4.5,
     imageQuery: "/destinations/Thumbnails/Vietnam2.webp",
     category: "international",

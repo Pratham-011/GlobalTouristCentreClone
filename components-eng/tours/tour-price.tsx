@@ -27,16 +27,17 @@ export type PriceCardData = {
 };
 
 /**
- * Pricing block. Any tour can opt in by providing `price.domestic` in
- * tourData; adding `price.international` turns it into a dual-fare block.
- * International trips ship the Indian fare only, so they render one card.
+ * Pricing block. A tour opts in with `price.domestic` (Indian fare),
+ * `price.international` (foreign-traveller fare), or both for a dual-fare
+ * block. International trips ship the Indian fare only and day trips the
+ * international fare only, so a single fare renders as one card.
  * Section chrome (label/title/subtitle) is optional per-tour copy.
  */
 export type TourPriceData = {
   sectionLabel?: string;
   sectionTitle?: string;
   sectionSubtitle?: string;
-  domestic: PriceCardData;
+  domestic?: PriceCardData;
   international?: PriceCardData;
 };
 
@@ -155,9 +156,9 @@ function PriceCard({
 }
 
 export function TourPrice({ price }: TourPriceProps) {
-  if (!price?.domestic) return null;
+  if (!price?.domestic && !price?.international) return null;
 
-  const hasInternational = !!price.international;
+  const isDual = !!price.domestic && !!price.international;
 
   return (
     <section className="bg-white py-12 sm:py-16 lg:py-20">
@@ -190,10 +191,10 @@ export function TourPrice({ price }: TourPriceProps) {
 
         <div
           className={`grid grid-cols-1 gap-4 sm:gap-6 ${
-            hasInternational ? "md:grid-cols-2" : "md:max-w-xl"
+            isDual ? "md:grid-cols-2" : "md:max-w-xl"
           }`}
         >
-          <PriceCard card={price.domestic} accent={TEAL} />
+          {price.domestic && <PriceCard card={price.domestic} accent={TEAL} />}
           {price.international && (
             <PriceCard card={price.international} accent={SAFFRON} />
           )}

@@ -2229,7 +2229,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "vitnam-tour-package-from-goa": {
+  "vietnam-tour-package-from-goa": {
     gallery: [
       {
         title: "Ha Long Bay",

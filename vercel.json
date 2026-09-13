@@ -1,4 +1,26 @@
 {
+  "redirects": [
+    {
+      "source": "/destinations/international/vitnam-tour-package-from-goa",
+      "destination": "/destinations/international/vietnam-tour-package-from-goa/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/international/vitnam-tour-package-from-goa/",
+      "destination": "/destinations/international/vietnam-tour-package-from-goa/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/vitnam-tour-package-from-goa",
+      "destination": "/:locale/destinations/international/vietnam-tour-package-from-goa/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/vitnam-tour-package-from-goa/",
+      "destination": "/:locale/destinations/international/vietnam-tour-package-from-goa/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",

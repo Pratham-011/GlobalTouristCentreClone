@@ -1415,7 +1415,7 @@ export const QuickInfoData: Record<string, any> = {
       }
     ]
   },
-  "vitnam-tour-package-from-goa": {
+  "vietnam-tour-package-from-goa": {
     "quickInfo": [
       {
         "title": "Small Groups",

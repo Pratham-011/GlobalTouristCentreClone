@@ -322,7 +322,7 @@ export const metaData: Record<string, any> = {
       rating: "4.9/5 Rating",
     },
   },
-  "vitnam-tour-package-from-goa": {
+  "vietnam-tour-package-from-goa": {
     meta: {
       duration: "6 Days",
       rating: "4.5/5 Rating",
