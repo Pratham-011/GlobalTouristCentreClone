@@ -1,4 +1,26 @@
 {
+  "redirects": [
+    {
+      "source": "/destinations/international/phuket-krabi-tour-package",
+      "destination": "/destinations/international/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/international/phuket-krabi-tour-package/",
+      "destination": "/destinations/international/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/phuket-krabi-tour-package",
+      "destination": "/:locale/destinations/international/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/phuket-krabi-tour-package/",
+      "destination": "/:locale/destinations/international/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
