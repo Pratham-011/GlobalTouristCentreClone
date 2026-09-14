@@ -318,15 +318,6 @@ export const internationalTrips: Destination[] = [
     zone: "asia",
   },
   {
-    id: "int-phuket-krabi-012",
-    slug: "phuket-krabi-tour-package",
-    rating: 4.8,
-    imageQuery: "/destinations/Thumbnails/Phuket.webp",
-    alt: "Phuket and Krabi limestone cliffs and turquoise Andaman Sea beaches, Thailand",
-    category: "international",
-    zone: "southeast-asia",
-  },
-  {
     id: "int-hongkong-013",
     slug: "5n-6d-hongkong-tour-package",
     rating: 4.7,

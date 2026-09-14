@@ -72,7 +72,7 @@ export const TOUR_CATEGORIES = {
     "8n-9d-turkey-tour-package", // verified
     "turkey-tour-package",
     "dubai-tour-package", // verified
-    "phuket-krabi-tour-package", // verified
+    // "phuket-krabi-tour-package", // removed — old URL redirects to /destinations/international/ (vercel.json)
     "5n-6d-hongkong-tour-package", // verified
     "baku-tour-package", // verified
     "cambodia-tour-package", // verified
