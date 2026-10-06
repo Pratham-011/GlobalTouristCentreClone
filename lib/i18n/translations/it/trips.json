@@ -132,13 +132,13 @@
       "description": "Vivi iconico Taj Mahal, Fort Agra e Baby Taj con guide russofone in questo viaggio romantico patrimoniale.",
       "duration": "1 Notte / 2 Giorni"
     },
-    "hampi-day-excursions": {
+    "hampi-badami-tour-package": {
       "rating": "4.8",
-      "title": "Patrimonio Hampi",
+      "title": "Patrimonio di Hampi & Badami",
       "description": "Esplora sito Patrimonio Mondiale UNESCO Hampi - rovine antiche, recinti reali, templi e carro di pietra unico.",
       "duration": "1 Notte / 2 Giorni"
     },
-    "7n-8d-vietam-tour-package": {
+    "7n-8d-vietnam-tour-package": {
       "rating": "4.6",
       "title": "Meraviglie Vietnam",
       "description": "Tour completo Vietnam: Hanoi, baia Halong, Da Nang, Hoi An e Ho Chi Minh. Highlight culturali, crociere panoramiche e siti storici.",
@@ -168,7 +168,7 @@
       "description": "Viaggio spirituale al tempio sacro Muktinath tra bellezza himalayana. Include sightseeing Pokhara, alba Sarangkot.",
       "duration": "6 Notti / 7 Giorni"
     },
-    "singapore-tour-package": {
+    "singapore-malaysia-tour-package": {
       "rating": "4.9",
       "title": "Singapore & Malesia Classica",
       "description": "Esperienza due città con meraviglie moderne, diversità culturale e bellezza tropicale. Isola Sentosa, Universal Studios e highlight Kuala Lumpur.",
@@ -383,6 +383,12 @@
       "title": "Esperienza di lusso alle Maldive",
       "duration": "4 Notti / 5 Giorni",
       "description": "Concediti una vacanza di lusso alle Maldive con ville sull’acqua, cene private, spa e tramonti spettacolari."
+    },
+    "2-days-hampi-tour-package": {
+      "rating": "4.8",
+      "title": "Tour del patrimonio di Hampi",
+      "description": "Templi antichi, rovine reali e il famoso Carro di Pietra dell'Impero di Vijayanagara in un tour privato di 1N/2G da Goa.",
+      "duration": "1 notte / 2 giorni"
     }
   }
 }

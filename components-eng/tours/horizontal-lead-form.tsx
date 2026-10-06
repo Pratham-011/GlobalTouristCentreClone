@@ -39,7 +39,7 @@ export function HorizontalLeadForm({ tourSlug }: HorizontalLeadFormProps) {
   });
 
   const onSubmit = (data: FormValues) => {
-    const destination = tourSlug === "7n-8d-vietam-tour-package" ? "Vietnam" : "Singapore";
+    const destination = tourSlug === "7n-8d-vietnam-tour-package" ? "Vietnam" : "Singapore";
     const additionalMessage = translations.whatsappMessage.replace("{destination}", destination.toLowerCase());
     
     const message = `${additionalMessage}
@@ -58,7 +58,7 @@ ${translations.numPeople}: ${data.numPeople}`;
     window.open(whatsappLink, "_blank");
   };
 
-  const destinationName = tourSlug === "7n-8d-vietam-tour-package" ? "Vietnam" : "Singapore";
+  const destinationName = tourSlug === "7n-8d-vietnam-tour-package" ? "Vietnam" : "Singapore";
 
   return (
     <section className="bg-white pb-10 border-b">

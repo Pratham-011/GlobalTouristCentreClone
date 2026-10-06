@@ -132,13 +132,13 @@
       "description": "Erleben Sie das ikonische Taj Mahal, Agra Fort und Baby Taj mit russischsprachigen Guides auf dieser romantischen Erbe-Reise.",
       "duration": "1 Nacht / 2 Tage"
     },
-    "hampi-day-excursions": {
+    "hampi-badami-tour-package": {
       "rating": "4.8",
-      "title": "Hampi Erbe",
+      "title": "Kulturerbe Hampi & Badami",
       "description": "Erkunden Sie das UNESCO-Weltkulturerbe Hampi - antike Ruinen, königliche Anlagen, Tempel und einzigartigen Steinwagen.",
       "duration": "1 Nacht / 2 Tage"
     },
-    "7n-8d-vietam-tour-package": {
+    "7n-8d-vietnam-tour-package": {
       "rating": "4.6",
       "title": "Vietnam Wunder",
       "description": "Umfassende Vietnam-Tour: Hanoi, Halong-Bucht, Da Nang, Hoi An und Ho-Chi-Minh-Stadt. Kulturelle Highlights, landschaftliche Kreuzfahrten und historische Stätten.",
@@ -168,7 +168,7 @@
       "description": "Spirituelle Reise zum heiligen Muktinath-Tempel inmitten himmlischer Himalaya-Schönheit. Beinhaltet Pokhara-Sightseeing und Sarangkot-Sonnenaufgang.",
       "duration": "6 Nächte / 7 Tage"
     },
-    "singapore-tour-package": {
+    "singapore-malaysia-tour-package": {
       "rating": "4.9",
       "title": "Klassisches Singapur & Malaysia",
       "description": "Zwei-Städte-Erlebnis mit modernen Wundern, kultureller Vielfalt und tropischer Schönheit. Sentosa-Insel, Universal Studios und Kuala Lumpur-Highlights.",
@@ -382,6 +382,12 @@
       "title": "Expérience de luxe aux Maldives",
       "duration": "4 Nächte / 5 Tage",
       "description": "Offrez-vous une escapade de luxe aux Maldives avec villas sur pilotis, dîners privés, spas et couchers de soleil spectaculaires."
+    },
+    "2-days-hampi-tour-package": {
+      "rating": "4.8",
+      "title": "Hampi Kulturerbe-Tour",
+      "description": "Alte Tempel, königliche Ruinen und der berühmte Steinwagen des Vijayanagara-Reiches auf einer privaten 1N/2T-Reise ab Goa.",
+      "duration": "1 Nacht / 2 Tage"
     }
   }
 }

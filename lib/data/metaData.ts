@@ -1,4 +1,11 @@
 export const metaData: Record<string, any> = {
+  "2-days-hampi-tour-package": {
+    meta: {
+      duration: "1 Night / 2 Days",
+      locations: 12,
+      rating: "4.8/5 Rating",
+    },
+  },
   "goa-one-day-sightseeing-tour": {
     meta: {
       duration: "1 Day",
@@ -42,7 +49,7 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "7n-8d-vietam-tour-package": {
+  "7n-8d-vietnam-tour-package": {
     meta: {
       duration: "8 Days",
       rating: "4.6/5 Rating",
@@ -141,7 +148,7 @@ export const metaData: Record<string, any> = {
       rating: "4.7/5 Rating",
     },
   },
-  "hampi-day-excursions": {
+  "hampi-badami-tour-package": {
     meta: {
       duration: "2 Days",
       locations: 15,
@@ -304,7 +311,7 @@ export const metaData: Record<string, any> = {
       rating: "4.8/5 Rating",
     },
   },
-  "singapore-tour-package": {
+  "singapore-malaysia-tour-package": {
     meta: {
       duration: "7 Days",
       rating: "4.9/5 Rating",

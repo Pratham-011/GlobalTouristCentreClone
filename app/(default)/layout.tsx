@@ -182,7 +182,7 @@ export default function RootLayout({
         itemListElement: [
           {
             "@type": "Offer",
-            url: "https://globaltouristcentre.com/destinations/international/7n-8d-vietam-tour-package/",
+            url: "https://globaltouristcentre.com/destinations/international/7n-8d-vietnam-tour-package/",
             itemOffered: {
               "@type": "TouristTrip",
               name: "7N/8D Vietnam Tour Package",

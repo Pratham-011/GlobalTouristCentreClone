@@ -113,8 +113,8 @@ export default function TourClient({ tourId }: TourClientProps) {
         />
       )}
 
-      {(tourId === "7n-8d-vietam-tour-package" ||
-        tourId === "singapore-tour-package") && (
+      {(tourId === "7n-8d-vietnam-tour-package" ||
+        tourId === "singapore-malaysia-tour-package") && (
         <HorizontalLeadForm tourSlug={tourId} />
       )}
 

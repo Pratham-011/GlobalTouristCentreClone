@@ -132,13 +132,13 @@
       "description": "Experience the iconic Taj Mahal, Agra Fort, and Baby Taj with Russian-speaking guides on this romantic heritage journey.",
       "duration": "1 Night / 2 Days"
     },
-    "hampi-day-excursions": {
+    "hampi-badami-tour-package": {
       "rating": "4.8",
-      "title": "Hampi Heritage",
+      "title": "Hampi & Badami Heritage",
       "description": "Explore the UNESCO World Heritage Site of Hampi's ancient ruins, royal enclosures, temples, and unique stone chariot.",
       "duration": "1 Night / 2 Days"
     },
-    "7n-8d-vietam-tour-package": {
+    "7n-8d-vietnam-tour-package": {
       "rating": "4.6",
       "title": "Wonders of Vietnam",
       "description": "Comprehensive Vietnam tour covering Hanoi, Halong Bay, Da Nang, Hoi An, and Ho Chi Minh City. Experience cultural highlights, scenic cruises, and historic sites.",
@@ -168,7 +168,7 @@
       "description": "Spiritual journey to sacred Muktinath temple amidst Himalayan beauty. Includes Pokhara sightseeing, Sarangkot sunrise, and cultural experiences.",
       "duration": "6 Nights / 7 Days"
     },
-    "singapore-tour-package": {
+    "singapore-malaysia-tour-package": {
       "rating": "4.9",
       "title": "Classic Singapore and Malaysia",
       "description": "Twin-city experience with modern marvels, cultural diversity, and tropical beauty. Includes Sentosa Island, Universal Studios, and Kuala Lumpur highlights.",
@@ -383,6 +383,12 @@
       "title": "Jodhpur Heritage Tour",
       "duration": "3 Nights / 4 Days",
       "description": "Discover the spiritual and historical significance of Jodhpur with visits to the Mehrangarh Fort, Umaid Bhawan Palace, and other iconic sites."
+    },
+    "2-days-hampi-tour-package": {
+      "rating": "4.8",
+      "title": "Hampi Heritage Tour",
+      "description": "Ancient temples, royal ruins and the famous Stone Chariot of the Vijayanagara Empire on a private 1N/2D trip from Goa.",
+      "duration": "1 Night / 2 Days"
     }
   }
 }

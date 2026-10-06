@@ -62,7 +62,7 @@ const Signature = () => {
         imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
         alt: "Stone chariot of Garuda at Vittala Temple with intricately carved wheels and guardian lion sculptures, Hampi UNESCO World Heritage Site Karnataka",
         price: "$170",
-        link: `/${locale}/destinations/domestic/hampi-day-excursions`,
+        link: `/${locale}/destinations/domestic/hampi-badami-tour-package`,
         popular: false,
       },
     ];

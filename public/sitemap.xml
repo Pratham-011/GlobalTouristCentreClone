@@ -163,7 +163,7 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://globaltouristcentre.com/destinations/international/7n-8d-vietam-tour-package/</loc>
+  <loc>https://globaltouristcentre.com/destinations/international/7n-8d-vietnam-tour-package/</loc>
   <lastmod>2026-05-10T09:41:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -183,17 +183,17 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://globaltouristcentre.com/destinations/day-trips/hampi-day-excursions/</loc>
+  <loc>https://globaltouristcentre.com/destinations/domestic/hampi-badami-tour-package/</loc>
   <lastmod>2026-05-10T09:40:54+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://globaltouristcentre.com/destinations/day-trips/aurangabad-day-excursions/</loc>
+  <loc>https://globaltouristcentre.com/destinations/domestic/aurangabad-day-excursions/</loc>
   <lastmod>2026-05-10T09:40:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://globaltouristcentre.com/destinations/day-trips/delhi-agra-1n-2d-trip-package/</loc>
+  <loc>https://globaltouristcentre.com/destinations/domestic/delhi-agra-1n-2d-trip-package/</loc>
   <lastmod>2026-05-10T09:40:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -313,7 +313,7 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://globaltouristcentre.com/destinations/international/singapore-tour-package/</loc>
+  <loc>https://globaltouristcentre.com/destinations/international/singapore-malaysia-tour-package/</loc>
   <lastmod>2026-05-10T09:41:43+00:00</lastmod>
   <priority>0.51</priority>
 </url>
@@ -403,7 +403,7 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://globaltouristcentre.com/destinations/day-trips/1n-2d-shimoga-trip-package/</loc>
+  <loc>https://globaltouristcentre.com/destinations/domestic/1n-2d-shimoga-trip-package/</loc>
   <lastmod>2026-05-10T09:40:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
@@ -459,4 +459,9 @@
 </url>
 
 
+<url>
+  <loc>https://globaltouristcentre.com/destinations/domestic/2-days-hampi-tour-package/</loc>
+  <lastmod>2026-10-06T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 </urlset>

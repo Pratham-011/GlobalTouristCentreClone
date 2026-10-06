@@ -5445,13 +5445,13 @@
         }
       ]
     },
-    "hampi-day-excursions": {
+    "hampi-badami-tour-package": {
       "file_name": "Hampi-1N-2D-Trip-Package.html",
       "page": {
         "slug": "Hampi-1N-2D-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "Pacchetto 1 notte / 2 giorni a Hampi da Goa",
+          "title": "Pacchetto Hampi & Badami 1 notte / 2 giorni",
           "subtitle": "Scopri il sito Patrimonio dell'Umanità dell'UNESCO di Hampi con le sue antiche rovine e paesaggi mozzafiato",
           "backgroundImage": "/assets/hero/Hampi-hero.webp",
           "meta": {
@@ -5463,8 +5463,8 @@
         },
         "language": "it",
         "metadata": {
-          "title": "Pacchetto Hampi 1N/2G da Goa con soggiorno e visite",
-          "description": "Esplora i siti patrimonio UNESCO di Hampi con un viaggio 1N/2G da Goa. Include soggiorno in hotel, visite guidate, giro in coracle e biglietti d’ingresso ai monumenti."
+          "title": "Pacchetto Hampi & Badami da Goa con soggiorno e visite",
+          "description": "Scopri i siti UNESCO di Hampi & Badami con un viaggio di 1N/2G da Goa. Include hotel, visite guidate, giro in coracle e biglietti d'ingresso ai monumenti."
         }
       },
       "cta": {
@@ -8935,7 +8935,7 @@
         "language": "it",
         "metadata": {
           "title": "Pacchetto viaggio 3N/4G Bangkok e Pattaya al -30% solo da Goa",
-          "description": "Prenota un viaggio di 3 notti e 4 giorni a Bangkok e Pattaya da Goa con il 30% di sconto. Include tour dell'Isola del Corallo, show Alcazar, tour di Bangkok e crociera con cena."
+          "description": "Prenota il tour di 3 notti e 4 giorni a Bangkok & Pattaya da Goa con il 30% di sconto. Include Coral Island, Alcazar Show, tour di Bangkok e cena in crociera sul Chao Phraya."
         }
       },
       "cta": {
@@ -9093,8 +9093,8 @@
         },
         "language": "it",
         "metadata": {
-          "title": "Prenota un viaggio 4N/5G a Bangkok e Pattaya al -30% solo da Goa",
-          "description": "Viaggio di 4 notti e 5 giorni a Bangkok e Pattaya da Goa con il 30% di sconto. Include Isola del Corallo, Safari World, tour città, zoo di Sri Racha, hotel e trasferimenti."
+          "title": "Tour Bangkok & Pattaya 4N/5G con sconto del 30% da Goa",
+          "description": "Prenota il tour di 4 notti e 5 giorni a Bangkok & Pattaya da Goa con il 30% di sconto. Include Coral Island, Safari World, tour della città, zoo di Sri Racha, hotel e trasferimenti."
         }
       },
       "cta": {
@@ -9600,10 +9600,10 @@
         }
       }
     },
-    "7n-8d-vietam-tour-package": {
-      "file_name": "7n-8d-vietam-tour-package.html",
+    "7n-8d-vietnam-tour-package": {
+      "file_name": "7n-8d-vietnam-tour-package.html",
       "page": {
-        "slug": "7n-8d-vietam-tour-package",
+        "slug": "7n-8d-vietnam-tour-package",
         "type": "",
         "hero": {
           "title": "Pacchetto Viaggio Vietnam 7N/8G",
@@ -9992,7 +9992,7 @@
         "language": "it",
         "metadata": {
           "title": "Pacchetto Viaggio Turchia 8N/9G al -30% solo da Goa",
-          "description": "Prenota un viaggio di 8 notti e 9 giorni in Turchia da Goa con il 30% di sconto. Esplora Istanbul, Cappadocia, Antalya e Pamukkale con voli e hotel."
+          "description": "Prenota il tour della Turchia di 8 notti e 9 giorni da Goa con il 30% di sconto. Istanbul, Cappadocia, Adalia e Pamukkale con voli, hotel, visite e trasferimenti privati."
         }
       },
       "cta": {
@@ -10734,7 +10734,7 @@
         "language": "it",
         "metadata": {
           "title": "Prenota un pacchetto a Dubai al -30% solo da Goa",
-          "description": "Viaggio di 5N/6G a Dubai da Goa con il 30% di sconto. Include crociera Dhow, safari nel deserto, Burj Khalifa, acquario e tour città."
+          "description": "Goditi un tour di Dubai 5N/6G da Goa con il 30% di sconto. Crociera in dhow, safari nel deserto, Burj Khalifa, acquario, parco acquatico e tour della città con trasferimenti."
         }
       },
       "cta": {
@@ -11918,10 +11918,10 @@
         }
       }
     },
-    "singapore-tour-package": {
-      "file_name": "singapore-tour-package.html",
+    "singapore-malaysia-tour-package": {
+      "file_name": "singapore-malaysia-tour-package.html",
       "page": {
-        "slug": "singapore-tour-package",
+        "slug": "singapore-malaysia-tour-package",
         "type": "",
         "hero": {
           "title": "Avventura a Singapore e in Malesia",
@@ -11934,8 +11934,8 @@
         },
         "language": "it",
         "metadata": {
-          "title": "Pacchetto Singapore 6N/7G con 30% di sconto solo da Goa",
-          "description": "Prenota un viaggio a Singapore di 6N/7G da Goa con il 30% di sconto. Include tour della città, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands e Night Safari."
+          "title": "Pacchetto Singapore & Malesia 6N/7G con sconto del 30% da Goa",
+          "description": "Prenota il tour Singapore & Malesia 6N/7G da Goa con il 30% di sconto. Include tour della città, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands e Night Safari."
         }
       },
       "cta": {
@@ -12306,7 +12306,7 @@
         "language": "it",
         "metadata": {
           "title": "Prenota pacchetto Turchia 5N/6G con 30% di sconto solo da Goa",
-          "description": "Prenota un viaggio in Turchia di 5 notti e 6 giorni da Goa con il 30% di sconto. Esplora le grotte della Cappadocia, le attrazioni di Istanbul, una crociera sul Bosforo, bazar e palazzi storici."
+          "description": "Prenota il tour della Turchia di 5 notti e 6 giorni da Goa con il 30% di sconto. Grotte della Cappadocia, highlights di Istanbul, crociera sul Bosforo, bazar e palazzi storici."
         }
       },
       "cta": {
@@ -12864,6 +12864,257 @@
             "category": "travel"
           }
         ]
+      }
+    },
+    "2-days-hampi-tour-package": {
+      "file_name": "2-days-hampi-tour-package.html",
+      "page": {
+        "slug": "2-days-hampi-tour-package",
+        "type": "domestic-trip",
+        "hero": {
+          "title": "Pacchetto Hampi 1 notte / 2 giorni da Goa",
+          "subtitle": "Scopri le magnifiche rovine di Hampi, patrimonio mondiale UNESCO, e le meraviglie architettoniche dello storico Impero di Vijayanagara.",
+          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "meta": {
+            "duration": "1 notte / 2 giorni",
+            "locations": 12,
+            "rating": "4.8/5 Rating",
+            "description": "Esplora Hampi da Goa in un viaggio di 1 notte e 2 giorni. Templi antichi, rovine reali, il Carro di Pietra e splendidi tramonti con un tour privato."
+          }
+        },
+        "language": "it",
+        "metadata": {
+          "title": "Tour di Hampi da Goa | 1 notte e 2 giorni a Hampi",
+          "description": "Esplora Hampi da Goa in un viaggio di 1 notte e 2 giorni. Templi antichi, rovine reali, il Carro di Pietra e splendidi tramonti con un tour privato."
+        }
+      },
+      "cta": {
+        "headline": "Pronti per la vostra avventura a Hampi?",
+        "description": "Prenotate la vostra fuga a Hampi da Goa e scoprite templi antichi, monumenti reali, straordinaria architettura in pietra e tramonti indimenticabili.",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Ciao! Sono interessato/a al vostro pacchetto Hampi 1N/2G da Goa. Potete inviarmi i dettagli?"
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "1 notte / 2 giorni",
+          "description": "Tour privato da Goa"
+        },
+        {
+          "title": "Prelievo nel sud di Goa",
+          "description": "Veicolo privato per le visite"
+        },
+        {
+          "title": "Hotel 3 stelle",
+          "description": "Sistemazione a Hospete"
+        },
+        {
+          "title": "Guida parlante inglese",
+          "description": "Visite guidate del patrimonio"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "Giorno 1 • 6:00",
+          "title": "Partenza dal sud di Goa",
+          "description": "Partenza di prima mattina dal sud di Goa con un comodo veicolo privato, in direzione di Hospete e Hampi.",
+          "category": "travel"
+        },
+        {
+          "time": "Giorno 1 • 13:00",
+          "title": "Arrivo a Hospete e check-in in hotel",
+          "description": "Arrivo a Hospete e check-in nel vostro hotel 3 stelle. Un momento per rinfrescarsi prima di iniziare la visita del patrimonio di Hampi.",
+          "category": "arrival"
+        },
+        {
+          "time": "Giorno 1 • Pomeriggio",
+          "title": "Visita del Recinto Reale",
+          "description": "Dopo pranzo si prosegue verso Hampi, capitale storica dell'Impero di Vijayanagara e sito UNESCO. Si visita il Recinto Reale, un tempo centro amministrativo e cerimoniale dell'impero, con il Mahanavami Dibba, l'antico acquedotto, la vasca a gradini Pushkarni, la camera segreta e la Sala delle Udienze del Re.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Giorno 1 • Pomeriggio",
+          "title": "Tempio di Hazara Rama",
+          "description": "Visita del bellissimo tempio di Hazara Rama, celebre per i dettagliati intagli in pietra che raffigurano scene del Ramayana.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Pomeriggio",
+          "title": "Stalle degli elefanti",
+          "description": "Visita delle imponenti stalle degli elefanti, che un tempo ospitavano gli elefanti reali dell'Impero di Vijayanagara.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Pomeriggio",
+          "title": "Lotus Mahal",
+          "description": "Visita dell'elegante Lotus Mahal e del suo caratteristico mix di architettura indù e indo-islamica.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Pomeriggio",
+          "title": "Tempio di Vijaya Vittala e Carro di Pietra",
+          "description": "Si prosegue verso lo spettacolare tempio di Vijaya Vittala, uno dei monumenti più iconici di Hampi, con il famoso Carro di Pietra, le colonne musicali e i pilastri finemente intagliati.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Giorno 1 • Sera",
+          "title": "Tempio di Krishna",
+          "description": "Visita dello storico tempio di Krishna, costruito durante il regno di Krishnadevaraya e dedicato al dio Krishna.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Sera",
+          "title": "Bagno della Regina",
+          "description": "Si continua verso il Bagno della Regina, imponente complesso termale reale che mostra la raffinatezza architettonica del periodo Vijayanagara.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Sera",
+          "title": "Ugra Narasimha e tempio di Badavilinga",
+          "description": "Ammirate il magnifico Ugra Narasimha, una delle più grandi sculture monolitiche di Hampi, e poi il tempio di Badavilinga con il suo enorme lingam di Shiva monolitico.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Sera",
+          "title": "Kadalekalu e Sasivekalu Ganesha",
+          "description": "Visita delle imponenti statue monolitiche di Ganesha, ciascuna scolpita da un unico blocco di pietra.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Sera",
+          "title": "Tempio di Virupaksha",
+          "description": "Visita del magnifico tempio di Virupaksha, uno dei più antichi templi ancora attivi di Hampi e importante centro di culto dedicato a Shiva, con le strutture storiche circostanti.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 1 • Tramonto",
+          "title": "Tramonto sulla collina di Hemakuta",
+          "description": "Concludete la prima giornata con uno spettacolare tramonto sulla collina di Hemakuta, con vista panoramica su rovine, templi e massi di granito di Hampi.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Giorno 1 • Sera",
+          "title": "Rientro in hotel",
+          "description": "Rientro in hotel a Hospete e relax dopo una giornata intera dedicata al patrimonio. Pernottamento a Hospete.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 2 • Mattina",
+          "title": "Colazione e check-out",
+          "description": "Colazione in hotel, check-out e partenza per le ultime visite di Hampi.",
+          "category": "meal"
+        },
+        {
+          "time": "Giorno 2 • Mattina",
+          "title": "Lago Sanapur e giro in coracle",
+          "description": "Visita del pittoresco lago Sanapur, circondato da massi di granito e campagna aperta, con un tradizionale giro in coracle. Il giro in coracle dipende dalle condizioni meteorologiche e dalla disponibilità locale.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Giorno 2 • Mattina",
+          "title": "Tempio di Vijaya Vittala e Carro di Pietra",
+          "description": "Altro tempo nel complesso del tempio di Vijaya Vittala per apprezzarne l'architettura, gli intagli e il famoso Carro di Pietra, con i racconti della vostra guida.",
+          "category": "activity"
+        },
+        {
+          "time": "Giorno 2 • Pomeriggio",
+          "title": "Partenza per Goa",
+          "description": "Dopo pranzo inizia il viaggio di ritorno verso Goa con il veicolo privato, lungo la panoramica strada tra Karnataka e Goa.",
+          "category": "travel"
+        },
+        {
+          "time": "Giorno 2 • Sera",
+          "title": "Arrivo a Goa",
+          "description": "Arrivo nel sud di Goa in base alle condizioni della strada e del traffico, con splendidi ricordi di Hampi e dell'Impero di Vijayanagara.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Tempio di Virupaksha",
+          "description": "Il più antico tempio attivo di Hampi",
+          "image": "/assets/destinations/Hampi/Virupaksha-Temple.webp"
+        },
+        {
+          "title": "Carro di Pietra",
+          "description": "Tempio di Vijaya Vittala",
+          "image": "/assets/destinations/Hampi/Stone-Chariot.webp"
+        },
+        {
+          "title": "Lago Sanapur",
+          "description": "Giro tradizionale in coracle",
+          "image": "/assets/destinations/Hampi/Coracle-Ride.webp"
+        },
+        {
+          "title": "Stalle degli elefanti",
+          "description": "Recinto reale",
+          "image": "/assets/destinations/Hampi/Elephant-Stables.webp"
+        },
+        {
+          "title": "Collina di Hemakuta",
+          "description": "Punto panoramico al tramonto",
+          "image": "/assets/destinations/Hampi/Hampi-Sunset.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Sistemazione",
+          "description": "1 notte in hotel di categoria 3 stelle"
+        },
+        {
+          "title": "Base di occupazione",
+          "description": "Sistemazione in camera doppia o tripla"
+        },
+        {
+          "title": "Colazione",
+          "description": "Colazione in hotel"
+        },
+        {
+          "title": "Guida",
+          "description": "Guida parlante inglese preparata"
+        },
+        {
+          "title": "Veicolo privato",
+          "description": "Veicolo privato per tutte le visite"
+        },
+        {
+          "title": "Biglietti d'ingresso",
+          "description": "Ingressi ai monumenti indicati nell'itinerario"
+        }
+      ],
+      "price": {
+        "sectionLabel": "Prezzi",
+        "sectionTitle": "Prezzo del tour",
+        "sectionSubtitle": "Due giorni tra templi, rovine reali e punti panoramici al tramonto di Hampi, con veicolo privato, guida e hotel partendo dal sud di Goa.",
+        "international": {
+          "badge": "Viaggiatore internazionale",
+          "packageName": "Pacchetto patrimonio di Hampi",
+          "amount": "$150",
+          "currency": "USD",
+          "per": "persona",
+          "note": "Camera doppia · prezzo a partire da, tasse escluse",
+          "points": [
+            "Guida privata parlante inglese",
+            "Sistemazione in hotel 3 stelle a Hospete",
+            "Veicolo privato per le visite dal sud di Goa",
+            "Visita del sito UNESCO di Hampi"
+          ],
+          "cta": {
+            "label": "Richiedi un preventivo esatto",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Ciao! Sono interessato/a al Pacchetto patrimonio di Hampi al prezzo per viaggiatori internazionali. Potete inviarmi i dettagli?"
+            }
+          }
+        }
       }
     }
   }

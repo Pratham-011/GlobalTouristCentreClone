@@ -1,4 +1,33 @@
 export const galleryData: Record<string, any> = {
+  "2-days-hampi-tour-package": {
+    gallery: [
+      {
+        title: "Virupaksha Temple",
+        description: "Hampi's oldest working temple",
+        image: "/assets/destinations/Hampi/Virupaksha-Temple.webp",
+      },
+      {
+        title: "Stone Chariot",
+        description: "Vijaya Vittala Temple",
+        image: "/assets/destinations/Hampi/Stone-Chariot.webp",
+      },
+      {
+        title: "Sanapur Lake",
+        description: "Traditional coracle ride",
+        image: "/assets/destinations/Hampi/Coracle-Ride.webp",
+      },
+      {
+        title: "Elephant Stables",
+        description: "Royal enclosure",
+        image: "/assets/destinations/Hampi/Elephant-Stables.webp",
+      },
+      {
+        title: "Hemakuta Hill",
+        description: "Sunset viewpoint",
+        image: "/assets/destinations/Hampi/Hampi-Sunset.webp",
+      }
+    ],
+  },
   "aurangabad-day-excursions": {
     gallery: [
       {
@@ -336,7 +365,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "7n-8d-vietam-tour-package": {
+  "7n-8d-vietnam-tour-package": {
     gallery: [
       {
         title: "Ha Long Bay",
@@ -951,7 +980,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "hampi-day-excursions": {
+  "hampi-badami-tour-package": {
     gallery: [
       {
         title: "Hampi Ruins",
@@ -2112,7 +2141,7 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
-  "singapore-tour-package": {
+  "singapore-malaysia-tour-package": {
     gallery: [
       {
         title: "Marina Bay Sands",

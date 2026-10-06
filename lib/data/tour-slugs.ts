@@ -9,21 +9,22 @@ export const TOUR_CATEGORIES = {
     "south-goa-1-day-trip-package", // verified
     "south-goa-day-exursion",
     "north-goa-day-excursion", // verified
-    "hampi-day-excursions", // verified
     "luxury-yacht-day-tour-goa", // verified
     "gokarna-murdeshwar-day-excursion", // verified
     "dandeli-elephant-day-excursion",
     "netravali-wildlife-day-excursion", //verified
     "mumbai-one-day-excursion", // verified
-    "aurangabad-day-excursions", // verified
-    "delhi-agra-1n-2d-trip-package",
  
-    "1n-2d-shimoga-trip-package",
 
 
   ],
 
   domestic: [
+    "2-days-hampi-tour-package", // new page (Oct 2026)
+    "hampi-badami-tour-package", // moved from day-trips (Oct 2026)
+    "delhi-agra-1n-2d-trip-package", // moved from day-trips (Oct 2026)
+    "aurangabad-day-excursions", // moved from day-trips (Oct 2026)
+    "1n-2d-shimoga-trip-package", // moved from day-trips (Oct 2026)
     "wondrous-wildernest-tour-package",
     "cabo-serai-2n-3d-luxury-getaway",
     // verified
@@ -63,9 +64,9 @@ export const TOUR_CATEGORIES = {
     "srilanka-tour-package", // verified
     "7n-8d-bhutan-tour-package", // verified
     "bali-tour-package", // verified
-    "7n-8d-vietam-tour-package", // verified
+    "7n-8d-vietnam-tour-package", // verified
     "vietnam-tour-package-from-goa", // temporarily removed (used in destination.ts) // verified
-    "singapore-tour-package", // verified
+    "singapore-malaysia-tour-package", // verified
     "4N-5D-bangkok-tour-package", //verified
     "7N-8D-thailand-tour-package", // verified
     "3N-4D-thailand-tour-package", // verified // verified //present in en.ts

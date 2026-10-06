@@ -77,8 +77,8 @@ const travelCollections: TravelCollection[] = [
     alt: "Luxury wooden villa interior with sea view balcony and palm trees at Cabo de Rama cliffside retreat, South Goa",
   },
   {
-    id: "hampi-day-excursions",
-    href: "/destinations/day-trips/hampi-day-excursions", // matches dom-hampi-019.slug
+    id: "hampi-badami-tour-package",
+    href: "/destinations/domestic/hampi-badami-tour-package", // matches dom-hampi-019.slug
     imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
     alt: "Ancient stone chariot at Vittala Temple complex, Hampi UNESCO World Heritage Site, Karnataka India",
   },

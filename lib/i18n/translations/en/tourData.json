@@ -1987,7 +1987,7 @@
         "language": "en",
         "metadata": {
           "title": "3N/4D Bangkok & Pattaya Trip package @30% Off Only from Goa",
-          "description": "Book 3 Nights 4 Days Bangkok & Pattaya trip from Goa at 30% off. Includes Coral Island Tour, Alcazar Show, Bangkok City Tour & Chao Phraya Dinner Cruise."
+          "description": "Book 3 Nights 4 Days Bangkok & Pattaya tour from Goa at 30% off. Includes Coral Island Tour, Alcazar Show, Bangkok City Tour & Chao Phraya Dinner Cruise."
         }
       },
       "cta": {
@@ -2145,8 +2145,8 @@
         },
         "language": "en",
         "metadata": {
-          "title": "Book Bangkok & Pattaya 4N/5D Trip @30% Off Only from Goa",
-          "description": "Book 4 Nights 5 Days Bangkok & Pattaya trip from Goa at 30% off. Includes Coral Island Tour, Safari World, city tour, Sri Racha Zoo, hotels & transfers."
+          "title": "Book Bangkok & Pattaya 4N/5D Tour @30% Off Only from Goa",
+          "description": "Book 4 Nights 5 Days Bangkok & Pattaya tour from Goa at 30% off. Includes Coral Island Tour, Safari World, city tour, Sri Racha Zoo, hotels & transfers."
         }
       },
       "cta": {
@@ -2842,10 +2842,10 @@
         }
       }
     },
-    "7n-8d-vietam-tour-package": {
-      "file_name": "7n-8d-vietam-tour-package.html",
+    "7n-8d-vietnam-tour-package": {
+      "file_name": "7n-8d-vietnam-tour-package.html",
       "page": {
-        "slug": "7n-8d-vietam-tour-package",
+        "slug": "7n-8d-vietnam-tour-package",
         "type": "",
         "hero": {
           "title": "Vietnam 7N/8D Tour Package",
@@ -3044,7 +3044,7 @@
         "language": "en",
         "metadata": {
           "title": "Turkey 8N/9D Tour Package @30% Off Only from Goa",
-          "description": "Book 8 Nights 9 Days Turkey trip from Goa at 30% off. Explore Istanbul, Cappadocia, Antalya & Pamukkale with flights, hotels, tours & private transfers."
+          "description": "Book 8 Nights 9 Days Turkey tour from Goa at 30% off. Explore Istanbul, Cappadocia, Antalya & Pamukkale with flights, hotels, tours & private transfers."
         }
       },
       "cta": {
@@ -5098,7 +5098,7 @@
         "language": "en",
         "metadata": {
           "title": "Book Dubai Tour Package @30% off Only From Goa",
-          "description": "Enjoy a 5N/6D Dubai trip from Goa with 30% off. Includes Dhow Cruise, Desert Safari, Burj Khalifa, Aquarium, waterpark fun & city tours with transfers."
+          "description": "Enjoy a 5N/6D Dubai tour from Goa with 30% off. Includes Dhow Cruise, Desert Safari, Burj Khalifa, Aquarium, waterpark fun & city tours with transfers."
         }
       },
       "cta": {
@@ -6038,13 +6038,13 @@
         }
       }
     },
-    "hampi-day-excursions": {
+    "hampi-badami-tour-package": {
       "file_name": "Hampi-1N-2D-Trip-Package.html",
       "page": {
         "slug": "Hampi-1N-2D-Trip-Package",
         "type": "domestic-trip",
         "hero": {
-          "title": "1 Night / 2 Days Hampi Tour Package from Goa",
+          "title": "1 Night / 2 Days Hampi & Badami Tour Package",
           "subtitle": "Discover the UNESCO World Heritage Site of Hampi with its ancient ruins and stunning landscapes",
           "backgroundImage": "/assets/hero/Hampi-hero.webp",
           "meta": {
@@ -6056,8 +6056,8 @@
         },
         "language": "en",
         "metadata": {
-          "title": "Hampi 1N/2D Tour Package from Goa with Stay & Sightseeing",
-          "description": "Explore Hampi's UNESCO heritage sites with a 1N/2D trip from Goa. Includes hotel stay, guided sightseeing, coracle ride & monument entry tickets."
+          "title": "Hampi & Badami Tour Package from Goa with Stay & Sightseeing",
+          "description": "Explore Hampi & Badami UNESCO heritage sites with a 1N/2D trip from Goa. Includes hotel stay, guided sightseeing, coracle ride & monument entry tickets."
         }
       },
       "cta": {
@@ -11534,10 +11534,10 @@
         }
       }
     },
-    "singapore-tour-package": {
-      "file_name": "singapore-tour-package.html",
+    "singapore-malaysia-tour-package": {
+      "file_name": "singapore-malaysia-tour-package.html",
       "page": {
-        "slug": "singapore-tour-package",
+        "slug": "singapore-malaysia-tour-package",
         "type": "",
         "hero": {
           "title": "Singapore & Malaysia Adventure",
@@ -11550,8 +11550,8 @@
         },
         "language": "en",
         "metadata": {
-          "title": "6N7D Singapore Tour Package @30% Off Only from Goa",
-          "description": "Book 6N/7D Singapore trip from Goa with 30% off. Includes city tour, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands & Night Safari."
+          "title": "6N7D Singapore & Malaysia Tour Package @30% Off Only from Goa",
+          "description": "Book 6N/7D Singapore & Malaysia tour from Goa with 30% off. Includes city tour, Sentosa, Universal Studios, Gardens by the Bay, Marina Bay Sands & Night Safari."
         }
       },
       "cta": {
@@ -11922,7 +11922,7 @@
         "language": "en",
         "metadata": {
           "title": "Book 5N/6D Turkey Tour Package @30% Off Only from Goa",
-          "description": "Book 5 Nights 6 Days Turkey trip from Goa with 30% off. Explore Cappadocia caves, Istanbul highlights, Bosphorus cruise, bazaars & historic palaces."
+          "description": "Book 5 Nights 6 Days Turkey tour from Goa with 30% off. Explore Cappadocia caves, Istanbul highlights, Bosphorus cruise, bazaars & historic palaces."
         }
       },
       "cta": {
@@ -12728,6 +12728,257 @@
           "description": "Ticket for the Sunset Cruise on Mandovi River."
         }
       ]
+    },
+    "2-days-hampi-tour-package": {
+      "file_name": "2-days-hampi-tour-package.html",
+      "page": {
+        "slug": "2-days-hampi-tour-package",
+        "type": "domestic-trip",
+        "hero": {
+          "title": "1 Night / 2 Days Hampi Tour Package from Goa",
+          "subtitle": "Discover the magnificent ruins of Hampi, a UNESCO World Heritage Site, and the architectural wonders of the historic Vijayanagara Empire.",
+          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "meta": {
+            "duration": "1 Night / 2 Days",
+            "locations": 12,
+            "rating": "4.8/5 Rating",
+            "description": "Explore Hampi from Goa on a 1-night, 2-day trip. Discover ancient temples, royal ruins, the Stone Chariot and stunning sunset views with a private tour."
+          }
+        },
+        "language": "en",
+        "metadata": {
+          "title": "Hampi Tour from Goa | 1 Night & 2 Days Hampi Trip",
+          "description": "Explore Hampi from Goa on a 1-night, 2-day trip. Discover ancient temples, royal ruins, the Stone Chariot and stunning sunset views with a private tour."
+        }
+      },
+      "cta": {
+        "headline": "Ready for Your Hampi Adventure?",
+        "description": "Book your Hampi getaway from Goa and experience ancient temples, royal monuments, magnificent stone architecture and unforgettable sunset views.",
+        "contact": {
+          "whatsapp": {
+            "number": "+919067972295",
+            "message": "Hi! I'm interested in your 1N/2D Hampi tour package from Goa. Please send me details."
+          },
+          "phone": "+919067972295"
+        }
+      },
+      "quickInfo": [
+        {
+          "title": "1 Night / 2 Days",
+          "description": "Private tour from Goa"
+        },
+        {
+          "title": "South Goa Pickup & Drop-off",
+          "description": "Private sightseeing vehicle"
+        },
+        {
+          "title": "3-Star Hotel Stay",
+          "description": "Accommodation in Hospete"
+        },
+        {
+          "title": "English-Speaking Tour Guide",
+          "description": "Guided heritage sightseeing"
+        }
+      ],
+      "itinerary": [
+        {
+          "time": "Day 1 • 6:00 AM",
+          "title": "Departure from South Goa",
+          "description": "Early morning departure from South Goa in a comfortable private vehicle, setting off towards Hospete and Hampi.",
+          "category": "travel"
+        },
+        {
+          "time": "Day 1 • 1:00 PM",
+          "title": "Arrival in Hospete & Hotel Check-In",
+          "description": "Arrive in Hospete and check in to your 3-star hotel. Freshen up before beginning your Hampi heritage sightseeing.",
+          "category": "arrival"
+        },
+        {
+          "time": "Day 1 • Afternoon",
+          "title": "Explore the Royal Enclosure",
+          "description": "After lunch, head to Hampi, the historic capital of the Vijayanagara Empire and a UNESCO World Heritage Site. Explore the Royal Enclosure, once the administrative and ceremonial centre of the empire, including the Mahanavami Dibba, the ancient aqueduct, the Pushkarni stepped tank, the secret chamber and the King's Audience Hall.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Day 1 • Afternoon",
+          "title": "Hazara Rama Temple",
+          "description": "Visit the beautiful Hazara Rama Temple, renowned for its detailed stone carvings depicting scenes from the Ramayana.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Afternoon",
+          "title": "Elephant Stables",
+          "description": "Explore the impressive Elephant Stables, once used to house the royal elephants of the Vijayanagara Empire.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Afternoon",
+          "title": "Lotus Mahal",
+          "description": "Visit the elegant Lotus Mahal and admire its distinctive blend of Hindu and Indo-Islamic architecture.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Afternoon",
+          "title": "Vijaya Vittala Temple & Stone Chariot",
+          "description": "Continue to the spectacular Vijaya Vittala Temple, one of Hampi's most iconic monuments, home to the famous Stone Chariot, the musical pillars and intricately carved columns.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Day 1 • Evening",
+          "title": "Krishna Temple",
+          "description": "Visit the historic Krishna Temple, built during the reign of Krishnadevaraya and dedicated to Lord Krishna.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Evening",
+          "title": "Queen's Bath",
+          "description": "Continue to Queen's Bath, an impressive royal bathing complex showcasing the architectural sophistication of the Vijayanagara period.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Evening",
+          "title": "Ugra Narasimha & Badavilinga Temple",
+          "description": "See the magnificent Ugra Narasimha, one of Hampi's largest monolithic sculptures, then continue to Badavilinga Temple and its massive monolithic Shiva Lingam.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Evening",
+          "title": "Kadalekalu & Sasivekalu Ganesha",
+          "description": "Visit the impressive monolithic Ganesha statues, each carved from a single block of stone.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Evening",
+          "title": "Virupaksha Temple",
+          "description": "Visit the magnificent Virupaksha Temple, one of the oldest functioning temples in Hampi and an important centre of worship dedicated to Lord Shiva, then explore the surrounding historic structures.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 1 • Sunset",
+          "title": "Sunset at Hemakuta Hill",
+          "description": "End your first day with a spectacular sunset at Hemakuta Hill, with panoramic views over Hampi's ancient ruins, temples and granite boulders.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Day 1 • Evening",
+          "title": "Return to Hotel",
+          "description": "Return to your hotel in Hospete and relax after a full day of heritage exploration. Overnight stay in Hospete.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 2 • Morning",
+          "title": "Breakfast & Check-Out",
+          "description": "Enjoy breakfast at the hotel, check out and set off for the remaining Hampi sightseeing.",
+          "category": "meal"
+        },
+        {
+          "time": "Day 2 • Morning",
+          "title": "Sanapur Lake & Coracle Ride",
+          "description": "Visit scenic Sanapur Lake, surrounded by granite boulders and open countryside, and enjoy a traditional coracle boat ride. The coracle ride is subject to weather conditions and local operational availability.",
+          "category": "activity",
+          "highlight": true
+        },
+        {
+          "time": "Day 2 • Morning",
+          "title": "Vijaya Vittala Temple & Stone Chariot",
+          "description": "Spend more time at the Vijaya Vittala Temple complex, appreciating its architecture, intricate carvings and the famous Stone Chariot, while your guide shares its history.",
+          "category": "activity"
+        },
+        {
+          "time": "Day 2 • Afternoon",
+          "title": "Departure for Goa",
+          "description": "After lunch, begin the return journey to Goa in your private vehicle, enjoying the scenic drive through Karnataka and Goa.",
+          "category": "travel"
+        },
+        {
+          "time": "Day 2 • Evening",
+          "title": "Arrival in Goa",
+          "description": "Arrive back in South Goa depending on road and traffic conditions, returning home with wonderful memories of historic Hampi and the Vijayanagara Empire.",
+          "category": "travel"
+        }
+      ],
+      "gallery": [
+        {
+          "title": "Virupaksha Temple",
+          "description": "Hampi's oldest working temple",
+          "image": "/assets/destinations/Hampi/Virupaksha-Temple.webp"
+        },
+        {
+          "title": "Stone Chariot",
+          "description": "Vijaya Vittala Temple",
+          "image": "/assets/destinations/Hampi/Stone-Chariot.webp"
+        },
+        {
+          "title": "Sanapur Lake",
+          "description": "Traditional coracle ride",
+          "image": "/assets/destinations/Hampi/Coracle-Ride.webp"
+        },
+        {
+          "title": "Elephant Stables",
+          "description": "Royal enclosure",
+          "image": "/assets/destinations/Hampi/Elephant-Stables.webp"
+        },
+        {
+          "title": "Hemakuta Hill",
+          "description": "Sunset viewpoint",
+          "image": "/assets/destinations/Hampi/Hampi-Sunset.webp"
+        }
+      ],
+      "inclusions": [
+        {
+          "title": "Hotel Stay",
+          "description": "1 night accommodation in a 3-star category hotel"
+        },
+        {
+          "title": "Sharing Basis",
+          "description": "Accommodation on double/triple sharing basis"
+        },
+        {
+          "title": "Breakfast",
+          "description": "Breakfast at the hotel"
+        },
+        {
+          "title": "Tour Guide",
+          "description": "Informative English-speaking tour guide"
+        },
+        {
+          "title": "Private Vehicle",
+          "description": "Private sightseeing vehicle throughout the tour"
+        },
+        {
+          "title": "Entry Fees",
+          "description": "Entry fees to the monuments mentioned in the itinerary"
+        }
+      ],
+      "price": {
+        "sectionLabel": "Pricing",
+        "sectionTitle": "Tour Price",
+        "sectionSubtitle": "Two days among the temples, royal ruins and sunset viewpoints of Hampi, with a private vehicle, guide and hotel stay from South Goa.",
+        "international": {
+          "badge": "International Traveller",
+          "packageName": "Hampi Heritage Package",
+          "amount": "$150",
+          "currency": "USD",
+          "per": "person",
+          "note": "Twin sharing · starting price, taxes extra",
+          "points": [
+            "Private English-speaking tour guide",
+            "3-star hotel accommodation in Hospete",
+            "Private sightseeing vehicle from South Goa",
+            "Hampi UNESCO World Heritage Site sightseeing"
+          ],
+          "cta": {
+            "label": "Get Exact Quote",
+            "whatsapp": {
+              "number": "+919067972295",
+              "message": "Hi! I'm interested in the Hampi Heritage Package at the international traveller price. Please share the details."
+            }
+          }
+        }
+      }
     }
   }
 }

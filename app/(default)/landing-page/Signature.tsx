@@ -54,7 +54,7 @@ const Signature = () => {
         imageUrl: "/assets/destinations/Thumbnails/agra.webp",
         alt: "Taj Mahal at sunrise with golden pink sky reflecting in the central pool flanked by cypress trees, Agra Uttar Pradesh India",
         price: "$300",
-        link: `/destinations/day-trips/delhi-agra-1n-2d-trip-package`,
+        link: `/destinations/domestic/delhi-agra-1n-2d-trip-package`,
         popular: true,
       },
       {
@@ -62,7 +62,7 @@ const Signature = () => {
         imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
         alt: "Stone chariot of Garuda at Vittala Temple with intricately carved wheels and guardian lion sculptures, Hampi UNESCO World Heritage Site Karnataka",
         price: "$170",
-        link: `/destinations/day-trips/hampi-day-excursions`,
+        link: `/destinations/domestic/hampi-badami-tour-package`,
         popular: false,
       },
     ];

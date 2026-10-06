@@ -199,7 +199,7 @@ export default function LocaleLayout({
           itemListElement: [
             {
               "@type": "Offer",
-              url: `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-vietam-tour-package/`,
+              url: `https://globaltouristcentre.com/${params.locale}/destination/international/7n-8d-vietnam-tour-package/`,
               itemOffered: {
                 "@type": "TouristTrip",
                 name: "7N/8D Vietnam Tour Package",

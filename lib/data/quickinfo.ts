@@ -1,4 +1,28 @@
 export const QuickInfoData: Record<string, any> = {
+  "2-days-hampi-tour-package": {
+    "quickInfo": [
+      {
+        "title": "1 Night / 2 Days",
+        "description": "Private tour from Goa",
+        "icon": "TIME"
+      },
+      {
+        "title": "South Goa Pickup & Drop-off",
+        "description": "Private sightseeing vehicle",
+        "icon": "TRANSPORT"
+      },
+      {
+        "title": "3-Star Hotel Stay",
+        "description": "Accommodation in Hospete",
+        "icon": "HOTEL"
+      },
+      {
+        "title": "English-Speaking Tour Guide",
+        "description": "Guided heritage sightseeing",
+        "icon": "GROUP"
+      }
+    ]
+  },
   "wondrous-wildernest-tour-package": {
     "quickInfo": [
       {
@@ -335,7 +359,7 @@ export const QuickInfoData: Record<string, any> = {
       }
     ]
   },
-  "7n-8d-vietam-tour-package": {
+  "7n-8d-vietnam-tour-package": {
     "quickInfo": [
       {
         "title": "7 Nights Stay",
@@ -719,7 +743,7 @@ export const QuickInfoData: Record<string, any> = {
       }
     ]
   },
-  "hampi-day-excursions": {
+  "hampi-badami-tour-package": {
     "quickInfo": [
       {
         "title": "Small Groups",
@@ -1343,7 +1367,7 @@ export const QuickInfoData: Record<string, any> = {
       }
     ]
   },
-  "singapore-tour-package": {
+  "singapore-malaysia-tour-package": {
     "quickInfo": [
       {
         "title": "Luxury Stays",

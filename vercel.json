@@ -59,6 +59,126 @@
       "source": "/:locale(fr|it|de|ru)/destinations/international/phuket-krabi-tour-package/",
       "destination": "/:locale/destinations/international/",
       "permanent": true
+    },
+    {
+      "source": "/destinations/international/7n-8d-vietam-tour-package",
+      "destination": "/destinations/international/7n-8d-vietnam-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/international/7n-8d-vietam-tour-package/",
+      "destination": "/destinations/international/7n-8d-vietnam-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/7n-8d-vietam-tour-package",
+      "destination": "/:locale/destinations/international/7n-8d-vietnam-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/7n-8d-vietam-tour-package/",
+      "destination": "/:locale/destinations/international/7n-8d-vietnam-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/international/singapore-tour-package",
+      "destination": "/destinations/international/singapore-malaysia-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/international/singapore-tour-package/",
+      "destination": "/destinations/international/singapore-malaysia-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/singapore-tour-package",
+      "destination": "/:locale/destinations/international/singapore-malaysia-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/international/singapore-tour-package/",
+      "destination": "/:locale/destinations/international/singapore-malaysia-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/hampi-day-excursions",
+      "destination": "/destinations/domestic/hampi-badami-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/hampi-day-excursions/",
+      "destination": "/destinations/domestic/hampi-badami-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/hampi-day-excursions",
+      "destination": "/:locale/destinations/domestic/hampi-badami-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/hampi-day-excursions/",
+      "destination": "/:locale/destinations/domestic/hampi-badami-tour-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/delhi-agra-1n-2d-trip-package",
+      "destination": "/destinations/domestic/delhi-agra-1n-2d-trip-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/delhi-agra-1n-2d-trip-package/",
+      "destination": "/destinations/domestic/delhi-agra-1n-2d-trip-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/delhi-agra-1n-2d-trip-package",
+      "destination": "/:locale/destinations/domestic/delhi-agra-1n-2d-trip-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/delhi-agra-1n-2d-trip-package/",
+      "destination": "/:locale/destinations/domestic/delhi-agra-1n-2d-trip-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/aurangabad-day-excursions",
+      "destination": "/destinations/domestic/aurangabad-day-excursions/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/aurangabad-day-excursions/",
+      "destination": "/destinations/domestic/aurangabad-day-excursions/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/aurangabad-day-excursions",
+      "destination": "/:locale/destinations/domestic/aurangabad-day-excursions/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/aurangabad-day-excursions/",
+      "destination": "/:locale/destinations/domestic/aurangabad-day-excursions/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/1n-2d-shimoga-trip-package",
+      "destination": "/destinations/domestic/1n-2d-shimoga-trip-package/",
+      "permanent": true
+    },
+    {
+      "source": "/destinations/day-trips/1n-2d-shimoga-trip-package/",
+      "destination": "/destinations/domestic/1n-2d-shimoga-trip-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/1n-2d-shimoga-trip-package",
+      "destination": "/:locale/destinations/domestic/1n-2d-shimoga-trip-package/",
+      "permanent": true
+    },
+    {
+      "source": "/:locale(fr|it|de|ru)/destinations/day-trips/1n-2d-shimoga-trip-package/",
+      "destination": "/:locale/destinations/domestic/1n-2d-shimoga-trip-package/",
+      "permanent": true
     }
   ],
   "headers": [

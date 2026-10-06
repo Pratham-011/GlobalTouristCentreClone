@@ -13,6 +13,15 @@ export type Destination = {
 /* ---------------- DOMESTIC ---------------- */
 
 export const domesticTrips: Destination[] = [
+  {
+    id: "dom-hampi-2d-029",
+    slug: "2-days-hampi-tour-package",
+    rating: 4.8,
+    imageQuery: "/destinations/Thumbnails/Hampi.webp",
+    category: "domestic",
+    zone: "south",
+    alt: "Stone Chariot at the Vijaya Vittala Temple with carved wheels and granite boulders under clear skies, Hampi UNESCO World Heritage Site Karnataka India",
+  },
     {
     id: "dom-wilderness-012",
     slug: "wondrous-wildernest-tour-package",
@@ -219,7 +228,7 @@ export const domesticTrips: Destination[] = [
 export const internationalTrips: Destination[] = [
   {
     id: "int-vietnam-001",
-    slug: "7n-8d-vietam-tour-package",
+    slug: "7n-8d-vietnam-tour-package",
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/Vietnam.webp",
     category: "international",
@@ -256,7 +265,7 @@ export const internationalTrips: Destination[] = [
   },
   {
     id: "int-singapore-malaysia-006",
-    slug: "singapore-tour-package",
+    slug: "singapore-malaysia-tour-package",
     rating: 4.9,
     imageQuery: "/destinations/Thumbnails/Singapore.webp",
     alt: "Petronas Twin Towers illuminated at dusk dominating the Kuala Lumpur skyline with KLCC Park and city lights spread below, Malaysia",
@@ -405,10 +414,10 @@ export const dayTrips: Destination[] = [
   },
   {
     id: "dom-hampi-017",
-    slug: "hampi-day-excursions",
+    slug: "hampi-badami-tour-package",
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Hampi.webp",
-    category: "day-trips",
+    category: "domestic",
     alt: "Garuda stone chariot with detailed carved wheels and crouching elephant sculptures at the Vittala Temple courtyard at golden hour, Hampi UNESCO World Heritage Site Karnataka India",
   },
   {
@@ -416,7 +425,7 @@ export const dayTrips: Destination[] = [
     slug: "aurangabad-day-excursions",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/Aurangabad.webp",
-    category: "day-trips",
+    category: "domestic",
     alt: "Bibi Ka Maqbara Taj Mahal of the Deccan white marble mausoleum with four corner minarets under stormy dramatic sky with tourists walking the central approach pathway, Aurangabad Maharashtra India",
   },
   {
@@ -424,7 +433,7 @@ export const dayTrips: Destination[] = [
     slug: "delhi-agra-1n-2d-trip-package",
     rating: 4.7,
     imageQuery: "/destinations/Thumbnails/agra.webp",
-    category: "day-trips",
+    category: "domestic",
     alt: "Taj Mahal UNESCO World Heritage monument bathed in warm orange and pink sunrise glow with perfectly symmetrical cypress tree avenue and central reflecting pool, Agra Uttar Pradesh India",
   },
   {
@@ -483,7 +492,7 @@ export const dayTrips: Destination[] = [
     rating: 4.6,
     imageQuery: "/destinations/Thumbnails/Shimoga.webp",
     alt: "Shimoga lush Western Ghats landscape and riverside scenery, Karnataka India",
-    category: "day-trips",
+    category: "domestic",
   },
   {
     id: "day-south-goa-cultural-007",
