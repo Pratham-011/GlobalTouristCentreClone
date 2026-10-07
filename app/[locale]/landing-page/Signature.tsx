@@ -43,7 +43,7 @@ const Signature = () => {
       },
       {
         id: "mumbai",
-        imageUrl: "/assets/destinations/Thumbnails/mumbai.webp",
+        imageUrl: "/assets/destinations/Thumbnails/Mumbai.webp",
         alt: "Gateway of India and Taj Mahal Palace Hotel viewed from Mumbai harbour with ferry boats on Arabian Sea",
         price: "$360",
         link: `/${locale}/destinations/day-trips/mumbai-one-day-excursion`,

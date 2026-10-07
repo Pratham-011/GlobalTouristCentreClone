@@ -26,7 +26,7 @@ const travelCollections: TravelCollection[] = [
   {
     id: "south-goa-1-day-cultural-and-beach-tour-package",
     href: "/destinations/day-trips/south-goa-1-day-cultural-and-beach-tour-package", // matches day-south-goa-cultural-007.slug
-    imageUrl: "/assets/destinations/Goa/basilica-bom-jesus.webp",
+    imageUrl: "/assets/destinations/Goa/Basilica-Bom-Jesus.webp",
     alt: "Basilica of Bom Jesus Old Goa – UNESCO World Heritage Church, South Goa cultural tour",
   },
   {

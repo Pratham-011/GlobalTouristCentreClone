@@ -118,7 +118,7 @@ export const galleryData: Record<string, any> = {
       {
         title: "Calangute Beach",
         description: "Queen of Beaches",
-        image: "/assets/destinations/Goa/calangute-beach.webp",
+        image: "/assets/destinations/Goa/Calangute-Beach.webp",
         wikiexists: true,
         wikilink: "https://en.wikipedia.org/wiki/Calangute",
       },
@@ -943,7 +943,7 @@ export const galleryData: Record<string, any> = {
       {
         title: "Taj Mahal",
         description: "Iconic Monument of Love",
-        image: "/assets/destinations/Golden-Triangle/taj-mahal.webp",
+        image: "/assets/destinations/Golden-Triangle/Taj-Mahal.webp",
         alt: "Taj Mahal white marble monument with reflecting pool and cypress-lined pathway, Agra",
         wikiexists: true,
         wikilink: "https://en.wikipedia.org/wiki/Taj_Mahal",
@@ -959,7 +959,7 @@ export const galleryData: Record<string, any> = {
       {
         title: "Hawa Mahal",
         description: "Palace of Winds",
-        image: "/assets/destinations/Golden-Triangle/hawa-mahal.webp",
+        image: "/assets/destinations/Golden-Triangle/Hawa-Mahal.webp",
         alt: "Honeycomb facade of Hawa Mahal, the Palace of Winds, glowing red at sunset in Jaipur",
         wikiexists: true,
         wikilink: "https://en.wikipedia.org/wiki/Hawa_Mahal",
@@ -967,7 +967,7 @@ export const galleryData: Record<string, any> = {
       {
         title: "Qutub Minar",
         description: "Delhi's Tallest Minaret",
-        image: "/assets/destinations/Golden-Triangle/qutub-minar.webp",
+        image: "/assets/destinations/Golden-Triangle/Qutub-Minar.webp",
         alt: "Qutub Minar tall red sandstone minaret against a blue sky, Delhi's tallest historic tower",
         wikiexists: true,
         wikilink: "https://en.wikipedia.org/wiki/Qutb_Minar",
@@ -982,42 +982,42 @@ export const galleryData: Record<string, any> = {
   },
   "hampi-badami-tour-package": {
     gallery: [
-      {
-        title: "Hampi Ruins",
-        description: "Ancient architecture",
-        image: "/assets/destinations/Hampi/Virupaksha-Temple.webp",
-        wikiexists: true,
-        wikilink: "https://en.wikipedia.org/wiki/Virupaksha_Temple,_Hampi",
-      },
-      {
-        title: "Stone Chariot",
-        description: "Vijay Vital Temple",
-        image: "/assets/destinations/Hampi/Stone-Chariot.webp",
-                wikiexists: true,
-        wikilink: "https://medium.com/lessons-from-history/the-stone-chariot-of-hampi-1b5c6a0488d0",
-      },
-      {
-        title: "Sanapur Lake",
-        description: "Coracle adventure",
-        image: "/assets/destinations/Hampi/Coracle-Ride.webp",
-        wikiexists: true,
-        wikilink: "https://hampi.in/sanapur-lake",
-      },
-      {
-        title: "Elephant Stable",
-        description: "Royal enclosure",
-        image: "/assets/destinations/Hampi/Elephant-Stables.webp",
-        wikiexists: true,
-        wikilink: "https://hampi.in/elephant-stables",
-      },
-      {
-        title: "Hema Kuta Hill",
-        description: "Sunset viewpoint",
-        image: "/assets/destinations/Hampi/Hampi-Sunset.webp",
-        wikiexists: true,
-        wikilink: "https://hampi.in/hemakuta-hill",
-      },
-    ],
+        {
+          title: "Virupaksha Temple",
+          description: "Hampi's oldest working temple",
+          image: "/assets/destinations/Hampi/Virupaksha-Temple-view.webp",
+          wikiexists: true,
+          wikilink: "https://en.wikipedia.org/wiki/Virupaksha_Temple,_Hampi",
+        },
+        {
+          title: "Stone Chariot",
+          description: "Vijaya Vittala Temple",
+          image: "/assets/destinations/Hampi/Stone-Chariot-vittala.webp",
+          wikiexists: true,
+          wikilink: "https://en.wikipedia.org/wiki/Vittala_Temple,_Hampi",
+        },
+        {
+          title: "Hemakuta Hill",
+          description: "Sunset viewpoint over Hampi",
+          image: "/assets/destinations/Hampi/Hemakuta-Hill.webp",
+          wikiexists: true,
+          wikilink: "https://hampi.in/hemakuta-hill",
+        },
+        {
+          title: "Badami Cave Temples",
+          description: "Rock-cut shrines above Agastya Lake",
+          image: "/assets/destinations/Badami/Badami-Cave-Temples.webp",
+          wikiexists: true,
+          wikilink: "https://en.wikipedia.org/wiki/Badami_cave_temples",
+        },
+        {
+          title: "Badami Fort",
+          description: "Clifftop fort and Shivalaya temple",
+          image: "/assets/destinations/Badami/Badami-Fort.webp",
+          wikiexists: true,
+          wikilink: "https://en.wikipedia.org/wiki/Badami_Fort",
+        },
+      ],
   },
   "japan-tour-package": {
     gallery: [
@@ -2302,7 +2302,7 @@ export const galleryData: Record<string, any> = {
       {
         title: "Taj Mahal",
         description: "Symbol of eternal love",
-        image: "/assets/destinations/Golden-Triangle/taj-mahal.webp",
+        image: "/assets/destinations/Golden-Triangle/Taj-Mahal.webp",
         wikiexists: true,
         wikilink: "https://en.wikipedia.org/wiki/Taj_Mahal",
       },
@@ -2323,7 +2323,7 @@ export const galleryData: Record<string, any> = {
       {
         title: "Hawa Mahal",
         description: "Palace of Winds",
-        image: "/assets/destinations/Golden-Triangle/hawa-mahal.webp",
+        image: "/assets/destinations/Golden-Triangle/Hawa-Mahal.webp",
         wikiexists: true,
         wikilink: "https://en.wikipedia.org/wiki/Hawa_Mahal",
       },

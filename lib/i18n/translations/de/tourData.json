@@ -5318,7 +5318,7 @@
         {
           "title": "Taj Mahal",
           "description": "Symbol der ewigen Liebe",
-          "image": "/assets/destinations/Golden-Triangle/taj-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Taj-Mahal.webp"
         },
         {
           "title": "Amber Fort",
@@ -5333,7 +5333,7 @@
         {
           "title": "Hawa Mahal",
           "description": "Palast der Winde",
-          "image": "/assets/destinations/Golden-Triangle/hawa-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Hawa-Mahal.webp"
         },
         {
           "title": "Fatehpur Sikri",
@@ -5498,29 +5498,29 @@
       ],
       "gallery": [
         {
-          "title": "Hampi-Ruinen",
-          "description": "Antike Architektur",
-          "image": "/assets/destinations/Hampi/Virupaksha-Temple.webp"
+          "title": "Virupaksha-Tempel",
+          "description": "Der älteste aktive Tempel Hampis",
+          "image": "/assets/destinations/Hampi/Virupaksha-Temple-view.webp"
         },
         {
           "title": "Steinwagen",
-          "description": "Vijay Vital Tempel",
-          "image": "/assets/destinations/Hampi/Stone-Chariot.webp"
+          "description": "Vijaya-Vittala-Tempel",
+          "image": "/assets/destinations/Hampi/Stone-Chariot-vittala.webp"
         },
         {
-          "title": "Sanapur-See",
-          "description": "Coracle-Abenteuer",
-          "image": "/assets/destinations/Hampi/Coracle-Ride.webp"
+          "title": "Hemakuta-Hügel",
+          "description": "Aussichtspunkt zum Sonnenuntergang über Hampi",
+          "image": "/assets/destinations/Hampi/Hemakuta-Hill.webp"
         },
         {
-          "title": "Elefantenstall",
-          "description": "Königliches Gehege",
-          "image": "/assets/destinations/Hampi/Elephant-Stables.webp"
+          "title": "Höhlentempel von Badami",
+          "description": "Felsenheiligtümer über dem Agastya-See",
+          "image": "/assets/destinations/Badami/Badami-Cave-Temples.webp"
         },
         {
-          "title": "Hema Kuta Hügel",
-          "description": "Aussichtspunkt bei Sonnenuntergang",
-          "image": "/assets/destinations/Hampi/Hampi-Sunset.webp"
+          "title": "Festung Badami",
+          "description": "Festung und Shivalaya-Tempel auf der Klippe",
+          "image": "/assets/destinations/Badami/Badami-Fort.webp"
         }
       ],
       "inclusions": [

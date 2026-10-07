@@ -5314,7 +5314,7 @@
         {
           "title": "Тадж-Махал",
           "description": "Символ вечной любви",
-          "image": "/assets/destinations/Golden-Triangle/taj-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Taj-Mahal.webp"
         },
         {
           "title": "Янтарный Форт",
@@ -5329,7 +5329,7 @@
         {
           "title": "Хава-Махал",
           "description": "Дворец Ветров",
-          "image": "/assets/destinations/Golden-Triangle/hawa-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Hawa-Mahal.webp"
         },
         {
           "title": "Фатехпур Сикри",
@@ -5530,29 +5530,29 @@
       ],
       "gallery": [
         {
-          "title": "Руины Хампи",
-          "description": "Древняя архитектура",
-          "image": "/assets/destinations/Hampi/Virupaksha-Temple.webp"
+          "title": "Храм Вирупакша",
+          "description": "Старейший действующий храм Хампи",
+          "image": "/assets/destinations/Hampi/Virupaksha-Temple-view.webp"
         },
         {
-          "title": "Каменная Колесница",
-          "description": "Храм Виджая Витала",
-          "image": "/assets/destinations/Hampi/Stone-Chariot.webp"
+          "title": "Каменная колесница",
+          "description": "Храм Виджая Виттала",
+          "image": "/assets/destinations/Hampi/Stone-Chariot-vittala.webp"
         },
         {
-          "title": "Озеро Санапур",
-          "description": "Кораблевое приключение",
-          "image": "/assets/destinations/Hampi/Coracle-Ride.webp"
+          "title": "Холм Хемакута",
+          "description": "Смотровая площадка на закате над Хампи",
+          "image": "/assets/destinations/Hampi/Hemakuta-Hill.webp"
         },
         {
-          "title": "Слоновья конюшня",
-          "description": "Королевский корпус",
-          "image": "/assets/destinations/Hampi/Elephant-Stables.webp"
+          "title": "Пещерные храмы Бадами",
+          "description": "Пещерные святилища над озером Агастья",
+          "image": "/assets/destinations/Badami/Badami-Cave-Temples.webp"
         },
         {
-          "title": "Хема Кута Хилл",
-          "description": "Точка зрения заката",
-          "image": "/assets/destinations/Hampi/Hampi-Sunset.webp"
+          "title": "Форт Бадами",
+          "description": "Крепость и храм Шивалайя на скале",
+          "image": "/assets/destinations/Badami/Badami-Fort.webp"
         }
       ],
       "inclusions": [

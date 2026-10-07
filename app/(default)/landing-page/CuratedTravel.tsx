@@ -45,7 +45,7 @@ const CuratedTravel = () => {
       {
         id: "varanasi",
         category: "domestic",
-        imageUrl: "/assets/destinations/Thumbnails/varanasi.webp",
+        imageUrl: "/assets/destinations/Thumbnails/Varanasi.webp",
         rating: 4.7,
         tags: ["Spiritual", "Pilgrimage", "Ganga Aarti"],
         badge: null,

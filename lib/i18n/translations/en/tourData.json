@@ -6204,29 +6204,29 @@
       ],
       "gallery": [
         {
-          "title": "Hampi Ruins",
-          "description": "Ancient architecture",
-          "image": "/assets/destinations/Hampi/Virupaksha-Temple.webp"
+          "title": "Virupaksha Temple",
+          "description": "Hampi's oldest working temple",
+          "image": "/assets/destinations/Hampi/Virupaksha-Temple-view.webp"
         },
         {
           "title": "Stone Chariot",
-          "description": "Vijay Vital Temple",
-          "image": "/assets/destinations/Hampi/Stone-Chariot.webp"
+          "description": "Vijaya Vittala Temple",
+          "image": "/assets/destinations/Hampi/Stone-Chariot-vittala.webp"
         },
         {
-          "title": "Sanapur Lake",
-          "description": "Coracle adventure",
-          "image": "/assets/destinations/Hampi/Coracle-Ride.webp"
+          "title": "Hemakuta Hill",
+          "description": "Sunset viewpoint over Hampi",
+          "image": "/assets/destinations/Hampi/Hemakuta-Hill.webp"
         },
         {
-          "title": "Elephant Stable",
-          "description": "Royal enclosure",
-          "image": "/assets/destinations/Hampi/Elephant-Stables.webp"
+          "title": "Badami Cave Temples",
+          "description": "Rock-cut shrines above Agastya Lake",
+          "image": "/assets/destinations/Badami/Badami-Cave-Temples.webp"
         },
         {
-          "title": "Hema Kuta Hill",
-          "description": "Sunset viewpoint",
-          "image": "/assets/destinations/Hampi/Hampi-Sunset.webp"
+          "title": "Badami Fort",
+          "description": "Clifftop fort and Shivalaya temple",
+          "image": "/assets/destinations/Badami/Badami-Fort.webp"
         }
       ],
       "inclusions": [
@@ -12341,7 +12341,7 @@
         {
           "title": "Taj Mahal",
           "description": "Symbol of eternal love",
-          "image": "/assets/destinations/Golden-Triangle/taj-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Taj-Mahal.webp"
         },
         {
           "title": "Amber Fort",
@@ -12356,7 +12356,7 @@
         {
           "title": "Hawa Mahal",
           "description": "Palace of Winds",
-          "image": "/assets/destinations/Golden-Triangle/hawa-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Hawa-Mahal.webp"
         },
         {
           "title": "Fatehpur Sikri",

@@ -5395,7 +5395,7 @@
         {
           "title": "Taj Mahal",
           "description": "Simbolo dell'amore eterno",
-          "image": "/assets/destinations/Golden-Triangle/taj-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Taj-Mahal.webp"
         },
         {
           "title": "Forte d'Ambra",
@@ -5410,7 +5410,7 @@
         {
           "title": "Hawa Mahal",
           "description": "Palazzo dei Venti",
-          "image": "/assets/destinations/Golden-Triangle/hawa-mahal.webp"
+          "image": "/assets/destinations/Golden-Triangle/Hawa-Mahal.webp"
         },
         {
           "title": "Fatehpur Sikri",
@@ -5611,29 +5611,29 @@
       ],
       "gallery": [
         {
-          "title": "Rovine di Hampi",
-          "description": "Architettura antica",
-          "image": "/assets/destinations/Hampi/Virupaksha-Temple.webp"
+          "title": "Tempio di Virupaksha",
+          "description": "Il più antico tempio attivo di Hampi",
+          "image": "/assets/destinations/Hampi/Virupaksha-Temple-view.webp"
         },
         {
-          "title": "Carro di pietra",
-          "description": "Tempio vitale di Vijay",
-          "image": "/assets/destinations/Hampi/Stone-Chariot.webp"
+          "title": "Carro di Pietra",
+          "description": "Tempio di Vijaya Vittala",
+          "image": "/assets/destinations/Hampi/Stone-Chariot-vittala.webp"
         },
         {
-          "title": "Lago Sanapur",
-          "description": "Avventura Coracle",
-          "image": "/assets/destinations/Hampi/Coracle-Ride.webp"
+          "title": "Collina di Hemakuta",
+          "description": "Punto panoramico al tramonto su Hampi",
+          "image": "/assets/destinations/Hampi/Hemakuta-Hill.webp"
         },
         {
-          "title": "Stalla degli elefanti",
-          "description": "Recinto reale",
-          "image": "/assets/destinations/Hampi/Elephant-Stables.webp"
+          "title": "Grotte di Badami",
+          "description": "Santuari rupestri sopra il lago Agastya",
+          "image": "/assets/destinations/Badami/Badami-Cave-Temples.webp"
         },
         {
-          "title": "Collina di Hema Kuta",
-          "description": "Punto di vista del tramonto",
-          "image": "/assets/destinations/Hampi/Hampi-Sunset.webp"
+          "title": "Forte di Badami",
+          "description": "Forte e tempio Shivalaya sulla scogliera",
+          "image": "/assets/destinations/Badami/Badami-Fort.webp"
         }
       ],
       "inclusions": [
