@@ -5348,7 +5348,7 @@
         "hero": {
           "title": "Forfait Hampi & Badami 1 nuit / 2 jours",
           "subtitle": "Découvrez le site de Hampi, classé au patrimoine mondial de l'UNESCO, avec ses ruines antiques et ses paysages époustouflants",
-          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "backgroundImage": "/assets/hero/Hampi-Badami-hero.webp",
           "meta": {
             "duration": "1 Nuit / 2 Jours",
             "locations": 15,
@@ -8947,7 +8947,7 @@
         "language": "fr",
         "metadata": {
           "title": "Forfait Voyage Vietnam 7N/8D à -30% uniquement au départ de Goa",
-          "description": "Profitez de -30% sur un voyage de 8 jours au Vietnam au départ de Goa. Explorez Hanoi, Ninh Binh, la baie d'Ha Long, Da Nang, Hoi An et Ho Chi Minh avec croisières, tours et transferts."
+          "description": "Profitez de 30 % de réduction sur le circuit Vietnam de 8 jours au départ de Goa. Hanoï, Ninh Binh, baie d'Ha Long, Da Nang, Hoi An et Hô Chi Minh-Ville avec croisières, visites et transferts. Réservez !"
         }
       },
       "cta": {
@@ -11970,7 +11970,7 @@
         "hero": {
           "title": "Forfait Hampi 1 nuit / 2 jours au départ de Goa",
           "subtitle": "Découvrez les magnifiques ruines de Hampi, site classé au patrimoine mondial de l'UNESCO, et les merveilles architecturales de l'empire de Vijayanagara.",
-          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "backgroundImage": "/assets/hero/Hampi-2Days-hero.webp",
           "meta": {
             "duration": "1 nuit / 2 jours",
             "locations": 12,

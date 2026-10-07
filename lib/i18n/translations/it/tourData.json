@@ -5453,7 +5453,7 @@
         "hero": {
           "title": "Pacchetto Hampi & Badami 1 notte / 2 giorni",
           "subtitle": "Scopri il sito Patrimonio dell'Umanità dell'UNESCO di Hampi con le sue antiche rovine e paesaggi mozzafiato",
-          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "backgroundImage": "/assets/hero/Hampi-Badami-hero.webp",
           "meta": {
             "duration": "1 Notte / 2 Giorni",
             "locations": 15,
@@ -9617,7 +9617,7 @@
         "language": "it",
         "metadata": {
           "title": "Pacchetto Viaggio Vietnam 7N/8G al -30% solo da Goa",
-          "description": "Approfitta del 30% di sconto su un viaggio di 8 giorni in Vietnam da Goa. Esplora Hanoi, Baia di Ha Long, Da Nang, Hoi An e Ho Chi Minh."
+          "description": "Approfitta del 30% di sconto sul tour del Vietnam di 8 giorni da Goa. Hanoi, Ninh Binh, baia di Ha Long, Da Nang, Hoi An e Ho Chi Minh con crociere, visite e trasferimenti. Prenota ora!"
         }
       },
       "cta": {
@@ -12874,7 +12874,7 @@
         "hero": {
           "title": "Pacchetto Hampi 1 notte / 2 giorni da Goa",
           "subtitle": "Scopri le magnifiche rovine di Hampi, patrimonio mondiale UNESCO, e le meraviglie architettoniche dello storico Impero di Vijayanagara.",
-          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "backgroundImage": "/assets/hero/Hampi-2Days-hero.webp",
           "meta": {
             "duration": "1 notte / 2 giorni",
             "locations": 12,

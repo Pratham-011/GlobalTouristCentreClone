@@ -5376,7 +5376,7 @@
         "hero": {
           "title": "Hampi & Badami Reisepaket 1 Nacht / 2 Tage",
           "subtitle": "Entdecken Sie das UNESCO-Weltkulturerbe Hampi mit seinen antiken Ruinen und atemberaubenden Landschaften",
-          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "backgroundImage": "/assets/hero/Hampi-Badami-hero.webp",
           "meta": {
             "duration": "1 Nacht / 2 Tage",
             "locations": 15,
@@ -9695,7 +9695,7 @@
         "language": "de",
         "metadata": {
           "title": "Vietnam 7N/8D Tour-Paket @30% Rabatt nur von Goa",
-          "description": "Sichern Sie sich 30% Rabatt auf eine 8-tägige Vietnam Reise von Goa. Erkunden Sie Hanoi, Ninh Binh, Ha Long Bucht, Da Nang, Hoi An & Ho-Chi-Minh-Stadt mit Kreuzfahrten, Touren & Transfers. Jetzt buchen!"
+          "description": "Sichern Sie sich 30 % Rabatt auf die 8-tägige Vietnam-Reise ab Goa. Hanoi, Ninh Binh, Halong-Bucht, Da Nang, Hoi An und Ho-Chi-Minh-Stadt mit Kreuzfahrten, Touren und Transfers. Jetzt buchen!"
         }
       },
       "cta": {
@@ -12718,7 +12718,7 @@
         "hero": {
           "title": "Hampi Reisepaket 1 Nacht / 2 Tage ab Goa",
           "subtitle": "Entdecken Sie die großartigen Ruinen von Hampi, UNESCO-Welterbe, und die architektonischen Wunder des historischen Vijayanagara-Reiches.",
-          "backgroundImage": "/assets/hero/Hampi-hero.webp",
+          "backgroundImage": "/assets/hero/Hampi-2Days-hero.webp",
           "meta": {
             "duration": "1 Nacht / 2 Tage",
             "locations": 12,
