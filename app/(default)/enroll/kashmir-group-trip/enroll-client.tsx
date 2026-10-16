@@ -36,11 +36,11 @@ const FULL_ITINERARY_URL =
 const WHATSAPP_NUMBER = "919067972295";
 
 const TRIP_NAME = "Kashmir Group Trip from Goa";
-const BASE_PRICE = 16999;
+const BASE_PRICE = 9999;
 
 const BATCHES = [
-  { id: "batch-1", label: "Batch 1", dates: "2 – 12 February 2027", month: "FEB", days: "02–12" },
-  { id: "batch-2", label: "Batch 2", dates: "9 – 19 February 2027", month: "FEB", days: "09–19" },
+  { id: "batch-1", label: "Batch 1", dates: "February 2027", month: "FEB", days: "2027" },
+  { id: "batch-2", label: "Batch 2", dates: "March 2027", month: "MAR", days: "2027" },
 ] as const;
 
 const ADD_ONS = [
@@ -271,7 +271,7 @@ export default function EnrollClient() {
   return (
     <div className="bg-white">
       <DetailedTourHero
-        title="Kashmir Group Trip · February 2027"
+        title="Kashmir Group Trip · February & March 2027"
         subtitle="Srinagar, Sonamarg, Gulmarg & Pahalgam with fellow travellers from Goa. Choose your batch and enroll — no payment needed today."
         backgroundImage="/assets/hero/kashmir-5n6d-hero.webp"
         meta={{ duration: "5 Nights / 6 Days", locations: 4, rating: "4.9/5 Rating" }}
@@ -285,7 +285,7 @@ export default function EnrollClient() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#008081] opacity-60" />
               <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-[#008081]" />
             </span>
-            Enrollments open for February 2027 batches
+            Enrollments open for February and March 2027 batches
           </div>
           <div className="flex items-center gap-2 text-sm text-slate-600">
             <ShieldCheck className="h-4 w-4 text-[#008081]" aria-hidden="true" />
@@ -299,7 +299,7 @@ export default function EnrollClient() {
         <div className="space-y-14 lg:col-span-7">
           {/* Batches */}
           <section aria-labelledby="batches-heading">
-            <SectionTitle label="Departures" title="Batch Dates" />
+            <SectionTitle label="Departures" title="Available Batches" />
             <div className="grid gap-4 sm:grid-cols-2">
               {BATCHES.map((b) => (
                 <div
