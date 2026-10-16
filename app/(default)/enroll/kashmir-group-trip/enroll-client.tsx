@@ -458,25 +458,27 @@ export default function EnrollClient() {
                           role="radio"
                           aria-checked={active}
                           onClick={() => set("batch", b.id)}
-                          className={`flex items-center justify-between rounded-xl border-2 px-4 py-3 text-left transition-all ${
+                          className={`flex items-center justify-between rounded-xl border-2 px-3 py-2.5 text-left transition-all sm:px-4 sm:py-3 ${
                             active
                               ? "border-[#008081] bg-[#008081]/5 shadow-sm"
                               : "border-slate-200 hover:border-[#008081]/50"
                           }`}
                         >
                           <span className="flex items-center gap-3">
-                            <CalendarDays className={`h-5 w-5 ${active ? "text-[#008081]" : "text-slate-400"}`} />
+                            <CalendarDays
+                              className={`h-4 w-4 sm:h-5 sm:w-5 ${active ? "text-[#008081]" : "text-slate-400"}`}
+                            />
                             <span>
                               <span className="block text-sm font-semibold text-slate-900">{b.label}</span>
                               <span className="block text-xs text-slate-600">{b.dates}</span>
                             </span>
                           </span>
                           <span
-                            className={`flex h-5 w-5 items-center justify-center rounded-full border-2 ${
+                            className={`flex h-4 w-4 items-center justify-center rounded-full border-2 sm:h-5 sm:w-5 ${
                               active ? "border-[#008081] bg-[#008081]" : "border-slate-300"
                             }`}
                           >
-                            {active && <Check className="h-3 w-3 stroke-[3] text-white" />}
+                            {active && <Check className="h-2.5 w-2.5 stroke-[3] text-white sm:h-3 sm:w-3" />}
                           </span>
                         </button>
                       );
@@ -619,18 +621,18 @@ export default function EnrollClient() {
                           role="checkbox"
                           aria-checked={active}
                           onClick={() => toggleAddOn(id)}
-                          className={`flex w-full items-center gap-3 rounded-xl border px-4 py-3 text-left transition-all ${
+                          className={`flex w-full items-center gap-2.5 rounded-xl border px-3 py-2.5 text-left transition-all sm:gap-3 sm:px-4 sm:py-3 ${
                             active ? "border-[#008081] bg-[#008081]/5" : "border-slate-200 hover:border-[#008081]/50"
                           }`}
                         >
                           <span
-                            className={`flex h-5 w-5 flex-shrink-0 items-center justify-center rounded border-2 ${
+                            className={`flex h-4 w-4 flex-shrink-0 items-center justify-center rounded border-2 sm:h-5 sm:w-5 ${
                               active ? "border-[#008081] bg-[#008081]" : "border-slate-300"
                             }`}
                           >
-                            {active && <Check className="h-3 w-3 stroke-[3] text-white" />}
+                            {active && <Check className="h-2.5 w-2.5 stroke-[3] text-white sm:h-3 sm:w-3" />}
                           </span>
-                          <Icon className="h-4 w-4 flex-shrink-0 text-slate-500" aria-hidden="true" />
+                          <Icon className="h-3.5 w-3.5 flex-shrink-0 text-slate-500 sm:h-4 sm:w-4" aria-hidden="true" />
                           <span className="flex-1">
                             <span className="block text-sm font-semibold text-slate-900">{title}</span>
                             <span className="block text-xs text-slate-600">{description}</span>
@@ -701,7 +703,7 @@ export default function EnrollClient() {
                       type="checkbox"
                       checked={form.agreed}
                       onChange={(e) => set("agreed", e.target.checked)}
-                      className="mt-0.5 h-4 w-4 accent-[#008081]"
+                      className="mt-0.5 h-3.5 w-3.5 accent-[#008081] sm:h-4 sm:w-4"
                     />
                     <span>
                       I agree to the{" "}
