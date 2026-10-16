@@ -271,7 +271,7 @@ export default function EnrollClient() {
   return (
     <div className="bg-white">
       <DetailedTourHero
-        title="Kashmir Group Trip · February & March 2027"
+        title="Kashmir Group Trip  February & March 2027"
         subtitle="Srinagar, Sonamarg, Gulmarg & Pahalgam with fellow travellers from Goa. Choose your batch and enroll — no payment needed today."
         backgroundImage="/assets/hero/kashmir-5n6d-hero.webp"
         meta={{ duration: "5 Nights / 6 Days", locations: 4, rating: "4.9/5 Rating" }}

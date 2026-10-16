@@ -79,8 +79,8 @@ const travelCollections: TravelCollection[] = [
   {
     id: "hampi-badami-tour-package",
     href: "/destinations/domestic/hampi-badami-tour-package", // matches dom-hampi-019.slug
-    imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
-    alt: "Ancient stone chariot at Vittala Temple complex, Hampi UNESCO World Heritage Site, Karnataka India",
+    imageUrl: "/assets/destinations/Thumbnails/Hampi-Badami.webp",
+    alt: "Carved stone mandapa at Vittala Temple, ancient pillared pavilion ruins and the Lotus Mahal at sunset, Hampi and Badami heritage sites, Karnataka India",
   },
 
   {

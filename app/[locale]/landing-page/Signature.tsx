@@ -59,8 +59,8 @@ const Signature = () => {
       },
       {
         id: "hampi",
-        imageUrl: "/assets/destinations/Thumbnails/Hampi.webp",
-        alt: "Stone chariot of Garuda at Vittala Temple with intricately carved wheels and guardian lion sculptures, Hampi UNESCO World Heritage Site Karnataka",
+        imageUrl: "/assets/destinations/Thumbnails/Hampi-Badami.webp",
+        alt: "Carved stone mandapa at Vittala Temple, ancient pillared pavilion ruins and the Lotus Mahal at sunset, Hampi and Badami heritage sites, Karnataka India",
         price: "$170",
         link: `/${locale}/destinations/domestic/hampi-badami-tour-package`,
         popular: false,

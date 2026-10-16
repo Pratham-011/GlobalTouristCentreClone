@@ -19,7 +19,7 @@ export const domesticTrips: Destination[] = [
     rating: 4.8,
     imageQuery: "/destinations/Thumbnails/Hampi-Badami.webp",
     category: "domestic",
-    alt: "Garuda stone chariot with detailed carved wheels and crouching elephant sculptures at the Vittala Temple courtyard at golden hour, Hampi UNESCO World Heritage Site Karnataka India",
+    alt: "Carved stone mandapa at Vittala Temple, ancient pillared pavilion ruins and the Lotus Mahal at sunset, Hampi and Badami heritage sites, Karnataka India",
   },
   {
     id: "dom-aurangabad-015",
