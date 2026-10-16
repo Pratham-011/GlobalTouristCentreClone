@@ -384,13 +384,13 @@ export default function EnrollClient() {
           {/* Inclusions */}
           <section aria-label="Inclusions">
             <SectionTitle label="Included" title="What's covered" />
-            <ul className="grid gap-3 sm:grid-cols-2">
+            <ul className="grid gap-2 sm:grid-cols-2 sm:gap-3">
               {INCLUSIONS.map((item) => (
-                <li key={item} className="flex items-start gap-2.5">
-                  <span className="mt-0.5 inline-flex h-5 w-5 flex-shrink-0 items-center justify-center rounded-full bg-[#008081]/10">
-                    <Check className="h-3 w-3 stroke-[3] text-[#008081]" aria-hidden="true" />
+                <li key={item} className="flex items-start gap-2 sm:gap-2.5">
+                  <span className="mt-px inline-flex h-4 w-4 flex-shrink-0 items-center justify-center rounded-full bg-[#008081]/10 sm:mt-0.5 sm:h-5 sm:w-5">
+                    <Check className="h-2.5 w-2.5 stroke-[3] text-[#008081] sm:h-3 sm:w-3" aria-hidden="true" />
                   </span>
-                  <span className="text-sm text-slate-700">{item}</span>
+                  <span className="text-[13px] leading-snug text-slate-700 sm:text-sm sm:leading-normal">{item}</span>
                 </li>
               ))}
             </ul>
@@ -740,7 +740,7 @@ export default function EnrollClient() {
                     </>
                   ) : (
                     <>
-                      Enroll Now
+                      Book Now
                       <ArrowRight className="h-4 w-4" aria-hidden="true" />
                     </>
                   )}
