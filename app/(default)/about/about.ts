@@ -19,6 +19,13 @@ export const teamMembers = [
     imageQuery: "professional man marketing portrait",
     imagelink: "/assets/team/Hassan.webp",
     alt: "Hassan Khan, Digital Marketer at Global Tourist Centre",
+  },
+  {
+    name: "Aditya Longale",
+    role: "Video Editor",
+    imageQuery: "professional man video editor portrait",
+    imagelink: "/assets/team/Aditya.webp",
+    alt: "Aditya Longale, Video Editor at Global Tourist Centre",
   }
 ];
 

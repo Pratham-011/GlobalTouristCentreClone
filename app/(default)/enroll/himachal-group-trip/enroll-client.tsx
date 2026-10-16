@@ -288,7 +288,7 @@ export default function EnrollClient() {
   return (
     <div className="bg-white">
       <DetailedTourHero
-        title="Himachal Group Trip · February 2027"
+        title="Himachal Group Trip February 2027"
         subtitle="Manali, Solang Valley, Kasol, Dalhousie, Khajjiar & McLeod Ganj with fellow travellers from Goa. Choose your batch and book — no payment needed today."
         backgroundImage="/assets/hero/Himachal-hero.webp"
         meta={{ duration: "10 Nights / 11 Days", locations: 6, rating: "" }}
