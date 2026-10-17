@@ -474,11 +474,11 @@ export default function EnrollClient() {
                             </span>
                           </span>
                           <span
-                            className={`flex h-4 w-4 items-center justify-center rounded-full border-2 sm:h-5 sm:w-5 ${
+                            className={`flex h-3.5 w-3.5 items-center justify-center rounded-full border-2 sm:h-5 sm:w-5 ${
                               active ? "border-[#008081] bg-[#008081]" : "border-slate-300"
                             }`}
                           >
-                            {active && <Check className="h-2.5 w-2.5 stroke-[3] text-white sm:h-3 sm:w-3" />}
+                            {active && <Check className="h-2 w-2 stroke-[3] text-white sm:h-3 sm:w-3" />}
                           </span>
                         </button>
                       );
@@ -626,11 +626,11 @@ export default function EnrollClient() {
                           }`}
                         >
                           <span
-                            className={`flex h-4 w-4 flex-shrink-0 items-center justify-center rounded border-2 sm:h-5 sm:w-5 ${
+                            className={`flex h-3.5 w-3.5 flex-shrink-0 items-center justify-center rounded border-2 sm:h-5 sm:w-5 ${
                               active ? "border-[#008081] bg-[#008081]" : "border-slate-300"
                             }`}
                           >
-                            {active && <Check className="h-2.5 w-2.5 stroke-[3] text-white sm:h-3 sm:w-3" />}
+                            {active && <Check className="h-2 w-2 stroke-[3] text-white sm:h-3 sm:w-3" />}
                           </span>
                           <Icon className="h-3.5 w-3.5 flex-shrink-0 text-slate-500 sm:h-4 sm:w-4" aria-hidden="true" />
                           <span className="flex-1">
@@ -703,7 +703,7 @@ export default function EnrollClient() {
                       type="checkbox"
                       checked={form.agreed}
                       onChange={(e) => set("agreed", e.target.checked)}
-                      className="mt-0.5 h-3.5 w-3.5 accent-[#008081] sm:h-4 sm:w-4"
+                      className="mt-0.5 h-3 w-3 accent-[#008081] sm:h-4 sm:w-4"
                     />
                     <span>
                       I agree to the{" "}

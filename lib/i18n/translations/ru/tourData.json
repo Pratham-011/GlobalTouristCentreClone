@@ -275,7 +275,33 @@
           }
         ]
       },
-      "gallery": [],
+      "gallery": [
+        {
+          "title": "Wildernest Nature Resort",
+          "description": "Эко-курорт на утёсе в Чорла-Гатах",
+          "image": "/assets/destinations/Wildernest/resort-view.webp"
+        },
+        {
+          "title": "Чорла-Гаты",
+          "description": "Западные Гаты, где сходятся Гоа, Карнатака и Махараштра",
+          "image": "/assets/destinations/Wildernest/chorla-ghats.webp"
+        },
+        {
+          "title": "Лесные тропы",
+          "description": "Прогулки по окрестному лесу с гидом",
+          "image": "/assets/destinations/Wildernest/forest-trek.webp"
+        },
+        {
+          "title": "Закатные смотровые точки",
+          "description": "Вечерние треки к смотровым площадкам курорта",
+          "image": "/assets/destinations/Wildernest/sunset-view.webp"
+        },
+        {
+          "title": "Культурные занятия на курорте",
+          "description": "Занятия по гончарному делу и росписи хной",
+          "image": "/assets/destinations/Wildernest/pottery-session.webp"
+        }
+      ],
       "inclusions": [
         {
           "title": "Проживание",

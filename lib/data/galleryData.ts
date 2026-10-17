@@ -2449,4 +2449,44 @@ export const galleryData: Record<string, any> = {
       },
     ],
   },
+  "wondrous-wildernest-tour-package": {
+    gallery: [
+      {
+        title: "Wildernest Nature Resort",
+        description: "Clifftop eco-resort in the Chorla Ghats",
+        image: "/assets/destinations/Wildernest/resort-view.webp",
+        wikiexists: true,
+        wikilink: "https://www.wildernest-goa.com/conservation/",
+      },
+      {
+        title: "Chorla Ghats",
+        description: "Western Ghats where Goa, Karnataka and Maharashtra meet",
+        image: "/assets/destinations/Wildernest/chorla-ghats.webp",
+        wikiexists: true,
+        wikilink:
+          "https://www.tripadvisor.in/Attraction_Review-g297648-d15710971-Reviews-Chorla_Ghat-Maharashtra.html",
+      },
+      {
+        title: "Forest Nature Trails",
+        description: "Guided walks through the surrounding forest",
+        image: "/assets/destinations/Wildernest/forest-trek.webp",
+        wikiexists: false,
+        wikilink: "",
+      },
+      {
+        title: "Sunset Trek Viewpoints",
+        description: "Evening treks to the resort's lookout points",
+        image: "/assets/destinations/Wildernest/sunset-view.webp",
+        wikiexists: false,
+        wikilink: "",
+      },
+      {
+        title: "Resort Cultural Activities",
+        description: "Pottery and henna art sessions at the resort",
+        image: "/assets/destinations/Wildernest/pottery-session.webp",
+        wikiexists: false,
+        wikilink: "",
+      },
+    ],
+  },
 };

@@ -275,7 +275,33 @@
           }
         ]
       },
-      "gallery": [],
+      "gallery": [
+        {
+          "title": "Wildernest Nature Resort",
+          "description": "Eco-Resort auf der Klippe in den Chorla Ghats",
+          "image": "/assets/destinations/Wildernest/resort-view.webp"
+        },
+        {
+          "title": "Chorla Ghats",
+          "description": "Westghats, wo Goa, Karnataka und Maharashtra zusammentreffen",
+          "image": "/assets/destinations/Wildernest/chorla-ghats.webp"
+        },
+        {
+          "title": "Waldpfade",
+          "description": "Geführte Wanderungen durch den umliegenden Wald",
+          "image": "/assets/destinations/Wildernest/forest-trek.webp"
+        },
+        {
+          "title": "Aussichtspunkte bei Sonnenuntergang",
+          "description": "Abendwanderungen zu den Aussichtspunkten des Resorts",
+          "image": "/assets/destinations/Wildernest/sunset-view.webp"
+        },
+        {
+          "title": "Kulturelle Aktivitäten im Resort",
+          "description": "Töpfer- und Henna-Workshops im Resort",
+          "image": "/assets/destinations/Wildernest/pottery-session.webp"
+        }
+      ],
       "inclusions": [
         {
           "title": "Unterkunft",

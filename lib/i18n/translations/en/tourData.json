@@ -275,7 +275,33 @@
           }
         ]
       },
-      "gallery": [],
+      "gallery": [
+        {
+          "title": "Wildernest Nature Resort",
+          "description": "Clifftop eco-resort in the Chorla Ghats",
+          "image": "/assets/destinations/Wildernest/resort-view.webp"
+        },
+        {
+          "title": "Chorla Ghats",
+          "description": "Western Ghats where Goa, Karnataka and Maharashtra meet",
+          "image": "/assets/destinations/Wildernest/chorla-ghats.webp"
+        },
+        {
+          "title": "Forest Nature Trails",
+          "description": "Guided walks through the surrounding forest",
+          "image": "/assets/destinations/Wildernest/forest-trek.webp"
+        },
+        {
+          "title": "Sunset Trek Viewpoints",
+          "description": "Evening treks to the resort's lookout points",
+          "image": "/assets/destinations/Wildernest/sunset-view.webp"
+        },
+        {
+          "title": "Resort Cultural Activities",
+          "description": "Pottery and henna art sessions at the resort",
+          "image": "/assets/destinations/Wildernest/pottery-session.webp"
+        }
+      ],
       "inclusions": [
         {
           "title": "Accommodation",
@@ -3515,7 +3541,7 @@
         },
         {
           "title": "Russian Guide",
-          "description": "Professional Russian-speaking tour guide"
+          "description": "Professional english-speaking tour guide"
         }
       ],
       "price": {
@@ -3551,7 +3577,7 @@
           "note": "Twin sharing · starting price · round-trip flights included",
           "points": [
             "English-speaking guide throughout",
-            "Lunch included on all 3 days, not self-paid",
+            "Lunch included on all 2 days, not self-paid",
             "Extra time built in for fresco viewing and photography at Ajanta",
             "Guide-led Daulatabad Fort walk with Deccan military history"
           ],
