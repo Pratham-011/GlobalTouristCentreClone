@@ -458,7 +458,7 @@ export default function EnrollClient() {
                           role="radio"
                           aria-checked={active}
                           onClick={() => set("batch", b.id)}
-                          className={`flex items-center justify-between rounded-xl border-2 px-3 py-2.5 text-left transition-all sm:px-4 sm:py-3 ${
+                          className={`flex items-center justify-between rounded-xl border-2 px-3 py-2 text-left transition-all sm:px-4 sm:py-3 ${
                             active
                               ? "border-[#008081] bg-[#008081]/5 shadow-sm"
                               : "border-slate-200 hover:border-[#008081]/50"
@@ -469,8 +469,8 @@ export default function EnrollClient() {
                               className={`h-4 w-4 sm:h-5 sm:w-5 ${active ? "text-[#008081]" : "text-slate-400"}`}
                             />
                             <span>
-                              <span className="block text-sm font-semibold text-slate-900">{b.label}</span>
-                              <span className="block text-xs text-slate-600">{b.dates}</span>
+                              <span className="block text-xs font-semibold text-slate-900 sm:text-sm">{b.label}</span>
+                              <span className="block text-[11px] text-slate-600 sm:text-xs">{b.dates}</span>
                             </span>
                           </span>
                           <span
@@ -621,7 +621,7 @@ export default function EnrollClient() {
                           role="checkbox"
                           aria-checked={active}
                           onClick={() => toggleAddOn(id)}
-                          className={`flex w-full items-center gap-2.5 rounded-xl border px-3 py-2.5 text-left transition-all sm:gap-3 sm:px-4 sm:py-3 ${
+                          className={`flex w-full items-center gap-2.5 rounded-xl border px-3 py-2 text-left transition-all sm:gap-3 sm:px-4 sm:py-3 ${
                             active ? "border-[#008081] bg-[#008081]/5" : "border-slate-200 hover:border-[#008081]/50"
                           }`}
                         >
@@ -634,11 +634,11 @@ export default function EnrollClient() {
                           </span>
                           <Icon className="h-3.5 w-3.5 flex-shrink-0 text-slate-500 sm:h-4 sm:w-4" aria-hidden="true" />
                           <span className="flex-1">
-                            <span className="block text-sm font-semibold text-slate-900">{title}</span>
-                            <span className="block text-xs text-slate-600">{description}</span>
+                            <span className="block text-xs font-semibold text-slate-900 sm:text-sm">{title}</span>
+                            <span className="block text-[11px] text-slate-600 sm:text-xs">{description}</span>
                           </span>
                           <span
-                            className={`whitespace-nowrap text-sm font-semibold ${
+                            className={`whitespace-nowrap text-xs font-semibold sm:text-sm ${
                               delta < 0 ? "text-emerald-700" : "text-[#8a5a10]"
                             }`}
                           >
