@@ -706,13 +706,22 @@ export default function EnrollClient() {
                 </div>
 
                 <div>
-                  <label className="flex cursor-pointer items-start gap-2.5 text-sm text-slate-600">
+                  <label className="flex cursor-pointer items-start gap-2.5 text-xs text-slate-600 sm:text-sm">
+                    {/* Native box is hidden and redrawn so its size is the same on every browser */}
                     <input
                       type="checkbox"
                       checked={form.agreed}
                       onChange={(e) => set("agreed", e.target.checked)}
-                      className="mt-0.5 h-3 w-3 accent-[#008081] sm:h-4 sm:w-4"
+                      className="peer sr-only"
                     />
+                    <span
+                      className={`mt-0.5 flex h-3.5 w-3.5 flex-shrink-0 items-center justify-center rounded-[3px] border transition-colors peer-focus-visible:ring-2 peer-focus-visible:ring-[#008081]/40 sm:h-4 sm:w-4 ${
+                        form.agreed ? "border-[#008081] bg-[#008081]" : "border-slate-300 bg-white"
+                      }`}
+                      aria-hidden="true"
+                    >
+                      {form.agreed && <Check className="h-2 w-2 stroke-[3] text-white sm:h-2.5 sm:w-2.5" />}
+                    </span>
                     <span>
                       I agree to the{" "}
                       <Link href="/legal/terms-and-conditions" target="_blank" className="text-[#008081] hover:underline">
