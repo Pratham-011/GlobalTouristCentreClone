@@ -8,7 +8,7 @@ import EnrollClient from "./enroll-client";
 export const metadata: Metadata = {
   title: "Kashmir Group Trip for College Students from Goa",
   description:
-    "Join our Kashmir group trip from Goa in February 2027! Explore Srinagar, Gulmarg, Sonamarg and Pahalgam from ₹9,999 per person. Book now!",
+    "Join our Kashmir group trip from Goa in February 2027! Explore Srinagar, Gulmarg, Sonamarg and Pahalgam from ₹11,000 per person. Book now!",
   robots: {
     index: false,
     follow: false,

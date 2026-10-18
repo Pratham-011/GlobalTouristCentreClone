@@ -240,7 +240,8 @@ export function LandingClient({ data }: { data: LandingPageData }) {
             <form onSubmit={handleSubmit} noValidate className="mt-8 space-y-5">
               <input type="checkbox" name="botcheck" className="hidden" tabIndex={-1} autoComplete="off" />
 
-              <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+              {/* 8 fields across 2 rows of 4, then budget + message + button on row 3 */}
+              <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
                 <div>
                   <Label htmlFor="lp-name">
                     <FieldLabel icon={User} required>Full name</FieldLabel>
@@ -395,20 +396,43 @@ export function LandingClient({ data }: { data: LandingPageData }) {
                     ))}
                   </select>
                 </div>
-              </div>
 
-              <div>
-                <Label htmlFor="lp-message">
-                  <FieldLabel icon={MessageSquare}>Message</FieldLabel>
-                </Label>
-                <textarea
-                  id="lp-message"
-                  rows={3}
-                  placeholder="Anything else we should know?"
-                  value={form.message}
-                  onChange={(e) => set("message", e.target.value)}
-                  className="w-full resize-none rounded-md border border-slate-200 bg-white px-3 py-2 text-sm text-slate-900 focus:border-[#008081] focus:outline-none focus:ring-1 focus:ring-[#008081]"
-                />
+                <div className="lg:col-span-2">
+                  <Label htmlFor="lp-message">
+                    <FieldLabel icon={MessageSquare}>Message</FieldLabel>
+                  </Label>
+                  <textarea
+                    id="lp-message"
+                    rows={1}
+                    placeholder="Anything else we should know?"
+                    value={form.message}
+                    onChange={(e) => set("message", e.target.value)}
+                    className="h-11 w-full resize-none rounded-md border border-slate-200 bg-white px-3 py-2.5 text-sm text-slate-900 focus:border-[#008081] focus:outline-none focus:ring-1 focus:ring-[#008081]"
+                  />
+                </div>
+
+                {/* Button sits on the same row as budget + message on desktop */}
+                <div className="flex items-end">
+                  <button
+                    type="submit"
+                    disabled={status === "sending"}
+                    aria-busy={status === "sending"}
+                    className="flex h-11 w-full items-center justify-center gap-2 rounded-full text-sm font-semibold text-white shadow-md transition-all hover:shadow-lg disabled:cursor-not-allowed disabled:opacity-60"
+                    style={{ backgroundColor: TEAL }}
+                  >
+                    {status === "sending" ? (
+                      <>
+                        <span className="h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" />
+                        Sending…
+                      </>
+                    ) : (
+                      <>
+                        Book now
+                        <Send className="h-4 w-4" aria-hidden="true" />
+                      </>
+                    )}
+                  </button>
+                </div>
               </div>
 
               {status === "error" && (
@@ -425,26 +449,6 @@ export function LandingClient({ data }: { data: LandingPageData }) {
                   .
                 </p>
               )}
-
-              <button
-                type="submit"
-                disabled={status === "sending"}
-                aria-busy={status === "sending"}
-                className="flex h-12 w-full items-center justify-center gap-2 rounded-full text-base font-semibold text-white shadow-md transition-all hover:shadow-lg disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto sm:px-10"
-                style={{ backgroundColor: TEAL }}
-              >
-                {status === "sending" ? (
-                  <>
-                    <span className="h-4 w-4 animate-spin rounded-full border-2 border-white/40 border-t-white" />
-                    Sending…
-                  </>
-                ) : (
-                  <>
-                    Book now
-                    <Send className="h-4 w-4" aria-hidden="true" />
-                  </>
-                )}
-              </button>
             </form>
           </div>
         </div>

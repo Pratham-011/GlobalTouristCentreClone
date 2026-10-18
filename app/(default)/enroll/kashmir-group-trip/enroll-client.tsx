@@ -6,7 +6,6 @@ import Image from "next/image";
 import Link from "next/link";
 import {
   ArrowRight,
-  BedDouble,
   CalendarDays,
   Car,
   Check,
@@ -15,7 +14,6 @@ import {
   Hotel,
   Sailboat,
   ShieldCheck,
-  Train,
   UtensilsCrossed,
 } from "lucide-react";
 
@@ -36,38 +34,12 @@ const FULL_ITINERARY_URL =
 const WHATSAPP_NUMBER = "919067972295";
 
 const TRIP_NAME = "Kashmir Group Trip from Goa";
-const BASE_PRICE = 9999;
+const BASE_PRICE = 11000;
 
 const BATCHES = [
   { id: "batch-1", label: "Batch 1", dates: "February 2027", month: "FEB", days: "2027" },
   { id: "batch-2", label: "Batch 2", dates: "March 2027", month: "MAR", days: "2027" },
 ] as const;
-
-const ADD_ONS = [
-  {
-    id: "skip-train",
-    icon: Train,
-    title: "Skip the train",
-    description: "Meet the group directly at the destination",
-    delta: -1500,
-  },
-  {
-    id: "ac-train",
-    icon: Train,
-    title: "Upgrade train to AC",
-    description: "Travel in an AC coach instead of sleeper",
-    delta: 3000,
-  },
-  {
-    id: "two-sharing",
-    icon: BedDouble,
-    title: "Upgrade to 2-sharing",
-    description: "Private room for two at every stay",
-    delta: 3000,
-  },
-] as const;
-
-type AddOnId = (typeof ADD_ONS)[number]["id"];
 
 const QUICK_INFO = [
   { icon: Hotel, title: "Hotel Stay", description: "4 Nights Hotel + 1 Night Houseboat" },
@@ -108,7 +80,6 @@ const GENDERS = ["Male", "Female", "Other"] as const;
 /* ------------------------------------------------------------------ */
 
 const inr = (n: number) => `₹${Math.abs(n).toLocaleString("en-IN")}`;
-const signedInr = (n: number) => `${n < 0 ? "−" : "+"} ${inr(n)}`;
 
 type FormState = {
   batch: string;
@@ -119,7 +90,6 @@ type FormState = {
   email: string;
   college: string;
   coupon: string;
-  addOns: AddOnId[];
   agreed: boolean;
 };
 
@@ -132,7 +102,6 @@ const EMPTY_FORM: FormState = {
   email: "",
   college: "",
   coupon: "",
-  addOns: [],
   agreed: false,
 };
 
@@ -193,21 +162,8 @@ export default function EnrollClient() {
     setErrors((prev) => ({ ...prev, [key]: undefined }));
   };
 
-  const toggleAddOn = (id: AddOnId) => {
-    setForm((prev) => {
-      let next = prev.addOns.includes(id)
-        ? prev.addOns.filter((a) => a !== id)
-        : [...prev.addOns, id];
-      // Skipping the train and upgrading it are mutually exclusive
-      if (id === "skip-train" && next.includes("skip-train")) next = next.filter((a) => a !== "ac-train");
-      if (id === "ac-train" && next.includes("ac-train")) next = next.filter((a) => a !== "skip-train");
-      return { ...prev, addOns: next };
-    });
-  };
-
   const selectedBatch = BATCHES.find((b) => b.id === form.batch);
-  const selectedAddOns = ADD_ONS.filter((a) => form.addOns.includes(a.id));
-  const total = BASE_PRICE + selectedAddOns.reduce((sum, a) => sum + a.delta, 0);
+  const total = BASE_PRICE;
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -242,9 +198,6 @@ export default function EnrollClient() {
           "Age": form.age,
           "Gender": form.gender,
           "College / Organisation": form.college.trim() || "—",
-          "Customisations": selectedAddOns.length
-            ? selectedAddOns.map((a) => `${a.title} (${signedInr(a.delta)})`).join(", ")
-            : "None",
           "Coupon Code": form.coupon.trim() || "—",
           "Estimated Trip Price": inr(total),
           "Submitted From": typeof window !== "undefined" ? window.location.href : "",
@@ -607,65 +560,23 @@ export default function EnrollClient() {
                   </div>
                 </fieldset>
 
-                {/* Step 3 — customise */}
-                <fieldset>
-                  <legend className="sr-only">Customise your trip</legend>
-                  <StepHeading n={3}>Customise your trip</StepHeading>
-                  <div className="space-y-2.5">
-                    {ADD_ONS.map(({ id, icon: Icon, title, description, delta }) => {
-                      const active = form.addOns.includes(id);
-                      return (
-                        <button
-                          key={id}
-                          type="button"
-                          role="checkbox"
-                          aria-checked={active}
-                          onClick={() => toggleAddOn(id)}
-                          className={`flex w-full items-center gap-2.5 rounded-xl border px-3 py-2 text-left transition-all sm:gap-3 sm:px-4 sm:py-3 ${
-                            active ? "border-[#008081] bg-[#008081]/5" : "border-slate-200 hover:border-[#008081]/50"
-                          }`}
-                        >
-                          <span
-                            className={`flex h-3.5 w-3.5 flex-shrink-0 items-center justify-center rounded border-2 sm:h-5 sm:w-5 ${
-                              active ? "border-[#008081] bg-[#008081]" : "border-slate-300"
-                            }`}
-                          >
-                            {active && <Check className="h-2 w-2 stroke-[3] text-white sm:h-3 sm:w-3" />}
-                          </span>
-                          <Icon className="h-3.5 w-3.5 flex-shrink-0 text-slate-500 sm:h-4 sm:w-4" aria-hidden="true" />
-                          <span className="flex-1">
-                            <span className="block text-xs font-semibold text-slate-900 sm:text-sm">{title}</span>
-                            <span className="block text-[11px] text-slate-600 sm:text-xs">{description}</span>
-                          </span>
-                          <span
-                            className={`whitespace-nowrap text-xs font-semibold sm:text-sm ${
-                              delta < 0 ? "text-emerald-700" : "text-[#8a5a10]"
-                            }`}
-                          >
-                            {signedInr(delta)}
-                          </span>
-                        </button>
-                      );
-                    })}
-                  </div>
-
-                  <div className="mt-4">
-                    <Label htmlFor="en-coupon" className="text-sm font-medium">
-                      Coupon code
-                    </Label>
-                    <Input
-                      id="en-coupon"
-                      placeholder="Optional"
-                      value={form.coupon}
-                      onChange={(e) => set("coupon", e.target.value.toUpperCase())}
-                      className="mt-1.5 h-11 uppercase"
-                    />
-                  </div>
-                </fieldset>
-
-                {/* Step 4 — summary */}
+                {/* Coupon */}
                 <div>
-                  <StepHeading n={4}>Enrollment summary</StepHeading>
+                  <Label htmlFor="en-coupon" className="text-sm font-medium">
+                    Coupon code
+                  </Label>
+                  <Input
+                    id="en-coupon"
+                    placeholder="Optional"
+                    value={form.coupon}
+                    onChange={(e) => set("coupon", e.target.value.toUpperCase())}
+                    className="mt-1.5 h-11 uppercase"
+                  />
+                </div>
+
+                {/* Step 3 — summary */}
+                <div>
+                  <StepHeading n={3}>Enrollment summary</StepHeading>
                   <dl className="space-y-2 rounded-xl bg-slate-50 p-4 text-sm">
                     <div className="flex justify-between gap-4">
                       <dt className="text-slate-600">Batch</dt>
@@ -677,12 +588,6 @@ export default function EnrollClient() {
                       <dt className="text-slate-600">Package price</dt>
                       <dd className="font-medium text-slate-900">{inr(BASE_PRICE)}</dd>
                     </div>
-                    {selectedAddOns.map((a) => (
-                      <div key={a.id} className="flex justify-between gap-4">
-                        <dt className="text-slate-600">{a.title}</dt>
-                        <dd className="font-medium text-slate-900">{signedInr(a.delta)}</dd>
-                      </div>
-                    ))}
                     <div className="flex justify-between gap-4 border-t border-slate-200 pt-2">
                       <dt className="font-semibold text-slate-900">Estimated trip price</dt>
                       <dd className="font-bold text-slate-900">{inr(total)}</dd>
