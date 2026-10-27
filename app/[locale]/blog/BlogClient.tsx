@@ -17,6 +17,16 @@ export default function BlogClient() {
 
     const blogPosts = [
         {
+            slug: "goa-packing-list-for-women",
+            title: "Goa Packing List for Women",
+            excerpt: "A complete checklist for clothes, beachwear, skincare, documents and safety essentials for a comfortable Goa trip.",
+            category: "Travel Tips",
+            date: "October 2026",
+            author: t.blog.globalTeam,
+            image: "/assets/blog/goa/goa-packing-list-thumbnail.jpeg",
+            alt: "Historic red laterite Portuguese-era church facade with white colonial building in Old Goa",
+        },
+        {
             slug: "colonial-heritage-of-goa-and-india",
             title: t.blog.goaTitle,
             excerpt: t.blog.goaSubtitle,
