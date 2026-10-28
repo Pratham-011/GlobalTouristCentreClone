@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import GoaPackingListClient from "./goa-packing-list-client";
 
 export const metadata: Metadata = {
-  title: "Goa Packing List for Women: Essential Items for a Beachy, Comfortable Trip | Global Tourist Centre",
+  title: "Goa Packing List for Women: Stop Packing the Wrong Clothes! | Global Tourist Centre",
   description:
-    "Planning a Goa trip? Explore this complete Goa packing list for women with must-pack outfits, beachwear, skincare, documents, and travel safety essentials.",
+    "Planning a trip to Goa? Explore this complete Goa packing list for women, covering clothes, beachwear, skincare, travel essentials, and safety tips for foreign travellers.",
   alternates: {
     canonical: "https://globaltouristcentre.com/blog/goa-packing-list-for-women/",
     languages: {
@@ -17,9 +17,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Goa Packing List for Women: Essential Items for a Beachy, Comfortable Trip",
+    title: "Goa Packing List for Women: Stop Packing the Wrong Clothes!",
     description:
-      "A practical travel checklist for women visiting Goa, including weather-ready outfits, beachwear, skincare, documents, and safety essentials.",
+      "Planning a trip to Goa? Explore this complete Goa packing list for women, covering clothes, beachwear, skincare, travel essentials, and safety tips for foreign travellers.",
     type: "article",
     url: "https://globaltouristcentre.com/blog/goa-packing-list-for-women/",
     images: [
@@ -33,9 +33,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Goa Packing List for Women: Essential Items for a Beachy, Comfortable Trip",
+    title: "Goa Packing List for Women: Stop Packing the Wrong Clothes!",
     description:
-      "A practical travel checklist for women visiting Goa, including weather-ready outfits, beachwear, skincare, documents, and safety essentials.",
+      "Planning a trip to Goa? Explore this complete Goa packing list for women, covering clothes, beachwear, skincare, travel essentials, and safety tips for foreign travellers.",
     images: ["/assets/blog/goa/goa-packing-list-thumbnail.jpeg"],
   },
 };

@@ -27,6 +27,16 @@ export default function BlogClient() {
             alt: "Historic red laterite Portuguese-era church facade with white colonial building in Old Goa",
         },
         {
+            slug: "a-day-in-south-goa",
+            title: "A Day in South Goa: Experience Goa Like a Local",
+            excerpt: "Plan a South Goa day trip with beaches, heritage, local food, airport tips and flexible 2 to 4 day itineraries.",
+            category: "Goa Travel Guide",
+            date: "October 2026",
+            author: t.blog.globalTeam,
+            image: "/assets/destinations/South-goa/south-goa-sunset.webp",
+            alt: "Sunset over a South Goa beach",
+        },
+        {
             slug: "colonial-heritage-of-goa-and-india",
             title: t.blog.goaTitle,
             excerpt: t.blog.goaSubtitle,
