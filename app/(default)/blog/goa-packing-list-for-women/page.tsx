@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import GoaPackingListClient from "./goa-packing-list-client";
 
 export const metadata: Metadata = {
-  title: "Goa Packing List for Women: Stop Packing the Wrong Clothes! | Global Tourist Centre",
+  title: "Goa Packing List for Women: Stop Packing the Wrong Clothes!",
   description:
     "Planning a trip to Goa? Explore this complete Goa packing list for women, covering clothes, beachwear, skincare, travel essentials, and safety tips for foreign travellers.",
   alternates: {
