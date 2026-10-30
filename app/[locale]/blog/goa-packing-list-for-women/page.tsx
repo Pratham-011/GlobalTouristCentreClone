@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "@/lib/i18n/getTranslations";
 import { LOCALES } from "@/lib/data/tour-slugs";
 import GoaPackingListClient from "./goa-packing-list-client";
+import { faqSchema } from "./faq-schema";
 
 type PageProps = {
   params: {
@@ -60,5 +61,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default function GoaPackingListBlog() {
-  return <GoaPackingListClient />;
+  return (
+    <>
+      <GoaPackingListClient />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+    </>
+  );
 }

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import GoaPackingListClient from "./goa-packing-list-client";
+import { faqSchema } from "../../../[locale]/blog/goa-packing-list-for-women/faq-schema";
 
 export const metadata: Metadata = {
   title: "Goa Packing List for Women: Stop Packing the Wrong Clothes!",
@@ -41,5 +42,10 @@ export const metadata: Metadata = {
 };
 
 export default function GoaPackingListBlogPage() {
-  return <GoaPackingListClient />;
+  return (
+    <>
+      <GoaPackingListClient />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+    </>
+  );
 }
