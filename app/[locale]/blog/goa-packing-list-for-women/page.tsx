@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { getTranslations } from "@/lib/i18n/getTranslations";
 import { LOCALES } from "@/lib/data/tour-slugs";
 import GoaPackingListClient from "./goa-packing-list-client";
-import { faqSchema } from "./faq-schema";
+import { getFaqSchema } from "./faq-schema";
+import { getContent } from "./content";
 
 type PageProps = {
   params: {
@@ -16,11 +16,7 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = params;
-  const t = getTranslations(locale);
-
-  const title = "Goa Packing List for Women: Stop Packing the Wrong Clothes!";
-  const description =
-    "Planning a trip to Goa? Explore this complete Goa packing list for women, covering clothes, beachwear, skincare, travel essentials, and safety tips for foreign travellers.";
+  const { title, description } = getContent(locale).ui;
   const image = "/assets/blog/goa/goa-packing-list-thumbnail.jpeg";
   const canonical = `https://globaltouristcentre.com/${locale}/blog/goa-packing-list-for-women/`;
 
@@ -60,11 +56,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-export default function GoaPackingListBlog() {
+export default function GoaPackingListBlog({ params }: PageProps) {
   return (
     <>
-      <GoaPackingListClient />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <GoaPackingListClient locale={params.locale} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(getFaqSchema(params.locale)) }} />
     </>
   );
 }
